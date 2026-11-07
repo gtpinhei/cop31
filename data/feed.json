@@ -1,378 +1,1199 @@
 {
-  "schema": 1,
-  "generated_at": "2026-11-06T15:30:00-03:00",
-  "round": {
-    "timestamp": "2026-11-06T12:15:00-03:00",
-    "label": "6 nov 2026, 12:15 (Brasília)",
-    "sites_checked": 36,
-    "blocked": 7,
-    "new_items": 19,
-    "fetches": "59 de 60",
-    "cadence": "a cada 6 horas",
-    "blocked_sites": ["Chatham House", "ECCO", "CEEW", "Observatório do Clima", "Loss and Damage Collaboration", "IISD/ENB", "IEA"]
-  },
-  "tracks": ["Finanças", "Adaptação", "Transição justa", "Mitigação e MWP", "TAFF e fósseis", "Eletrificação", "GST2 e IPCC", "Perdas e danos", "Florestas", "Comércio", "Agenda de Ação", "Decisão de cobertura", "Presidência e anfitrião", "Espaço cívico", "Oceanos"],
-  "items": [
-    {
-      "id": "unfccc-2026-11-05-preview",
-      "institution": "UNFCCC",
-      "type": "comunicado",
-      "title": "COP31 preview — comments from Simon Stiell, Murat Kurum and Chris Bowen",
-      "date": "2026-11-05",
-      "authors": "Secretariado da UNFCCC",
-      "url": "https://unfccc.int/news/cop31-preview-comments-from-un-climate-change-executive-secretary-simon-stiell-cop31-president",
-      "summary": "Declarações pré-COP dos três dirigentes. Stiell enquadra Antalya como conversão de promessas em projetos via negociações e Action Agenda, com eletrificação, resiliência, finanças mais rápidas e metano como prioridades. Kurum admite explicitamente o overshoot de 1,5 °C e recusa novas metas de financiamento, apontando para a entrega dos US$ 300 bi de Baku com os desenvolvidos liderando. Bowen lista finanças, energia mais barata para famílias, eletrificação e oceano. Nada sobre JTM.",
-      "tracks": ["Decisão de cobertura", "Eletrificação", "Finanças", "Adaptação"],
-      "quotes": [
-        "Kurum — \"This is the first COP where it is clear beyond reasonable doubt that the world will overshoot the 1.5-degree target.\"",
-        "Kurum — \"We do not need new targets. We need to deliver on the ones we have, with developed countries taking the lead.\"",
-        "Stiell — \"Finance must reach people faster, with less red tape.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "e3g-2026-11-06-pacific-mdbs",
-      "institution": "E3G",
-      "type": "blog",
-      "title": "From the Pacific to COP31: How MDBs can unlock private finance for locally led adaptation",
-      "date": "2026-11-06",
-      "authors": "Anda Yoshina e Chiara Falduto",
-      "url": "https://www.e3g.org/news/from-the-pacific-to-cop31-how-mdbs-can-unlock-private-finance-for-locally-led-adaptation/",
-      "summary": "A partir do Pre-COP do Pacífico: o sistema financeiro é desenhado para grandes transações padronizadas e exclui SIDS/LDCs e instituições locais. Caso das Maldivas (projetos considerados pequenos demais; programa solar viabilizado por garantia parcial da IDA). Pede que MDBs canalizem recursos via bancos nacionais de desenvolvimento, ampliem preparação de projetos e adaptem instrumentos (moeda local, compliance proporcional); adaptação deve ser avaliada por resiliência e sustentabilidade da dívida, não só retorno.",
-      "tracks": ["Adaptação", "Finanças"],
-      "quotes": [
-        "\"less than 10% of the US$17 billion committed from international climate funds between 2003 and 2016\"",
-        "\"while just 0.17% mentioned 'locally led' or 'community led'\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "e3g-2026-11-04-powering-across-divides",
-      "institution": "E3G",
-      "type": "relatório",
-      "title": "Powering across divides: Clean energy cooperation in a fragmented world",
-      "date": "2026-11-04",
-      "authors": "Dido Gompertz, Jeongha Ju, Samora Levy, Suzie Marshall, Oyku Senlen, Hamsa Srikanth, Matt Webb",
-      "url": "https://www.e3g.org/publications/powering-across-divides-clean-energy-cooperation-fragmented-world/",
-      "summary": "Relatório de economia política em 16 economias (10 middle powers em perfil, 6 em snapshot). Tese: processos multilaterais fixam ambição, mas a entrega depende de alianças menores e flexíveis (bilaterais, regionais, setoriais) em redes, cadeias de suprimento, finanças e integração elétrica regional. Quatro prioridades: segurança energética limpa no centro da diplomacia; caminhos complementares para longe dos fósseis e rumo à eletrificação; parcerias práticas de financiamento; parcerias comerciais e infraestrutura regional. Não menciona COP31 nem 35 by 35 no texto da página.",
-      "tracks": ["Eletrificação", "Agenda de Ação", "TAFF e fósseis"],
-      "quotes": [
-        "\"Connecting these complementary assets can create a cooperation dividend\"",
-        "\"Support complementary pathways away from fossil fuels and towards electrification.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "germanwatch-2026-11-06-implementation-alliances",
-      "institution": "Germanwatch",
-      "type": "release",
-      "title": "At COP31 Implementation-Alliances can accelerate climate action and resilience – especially for the most vulnerable",
-      "date": "2026-11-06",
-      "authors": "Jennifer Tollmann, Petter Lydén, Ute Sudmann (porta-vozes)",
-      "url": "https://www.germanwatch.org/en/93618",
-      "summary": "Release pré-COP: Antalya como teste de cooperação entre quem acelera e quem quer prolongar lucros fósseis. Pede que as alianças voluntárias da Action Agenda tenham responsabilidades, prazos e relato público, e que os países digam como seus resultados alimentarão o GST2; relato de progresso nas metas de 2023 (triplicar renováveis, dobrar eficiência, desmatamento zero 2030); trajetória com metas intermediárias até US$ 300 bi/ano em 2035; cobra da Alemanha estratégia de eletrificação e critica orçamentos de financiamento climático; princípio poluidor-pagador via taxas sobre grandes emissores e super-ricos. Cita alerta da FAO de crise de preços de alimentos em 2027.",
-      "tracks": ["Agenda de Ação", "GST2 e IPCC", "Finanças", "Adaptação"],
-      "quotes": [
-        "\"Science is clear: we are entering an overshoot reality with the associated risks of reaching irreversible tipping points\"",
-        "\"Every initiative needs clear responsibilities, deadlines, and transparency on progress.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "germanwatch-2026-11-05-adaptation-deadlock",
-      "institution": "Germanwatch",
-      "type": "blog",
-      "title": "From Political Deadlock to Real Resilience: Raising the Profile of Adaptation in the UNFCCC Process",
-      "date": "2026-11-05",
-      "authors": "Rixa Schwarz e Magdalena Mirwald",
-      "url": "https://www.germanwatch.org/en/blog/political-deadlock-real-resilience",
-      "summary": "Quatro pedidos para a COP31: adaptação como item político do pacote final (UE e Alemanha devem tratá-la em pé de igualdade com mitigação); mandato pragmático e composição viável da taskforce dos Indicadores de Belém acordados cedo na COP; transformar a triplicação em trajetória, prazo, linha de base e accountability com foco em doações (critica o Norte por estacionar o tema na sala de finanças); mandato de implementação para o Baku Adaptation Roadmap ligado à GGA, NAPs, transição justa e GST2.",
-      "tracks": ["Adaptação", "Finanças"],
-      "quotes": [
-        "\"COP31 must deliver on the commitment to triple adaptation finance.\"",
-        "\"Parking the discussion there is just a way of avoiding the conversation, at least at this COP.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "germanwatch-2026-11-03-electrifying",
-      "institution": "Germanwatch",
-      "type": "relatório",
-      "title": "Electrifying Climate Action. Opportunities for COP31",
-      "date": "2026-11-03",
-      "authors": "Germanwatch",
-      "url": "https://www.germanwatch.org/en/93615",
-      "summary": "Único scorecard explícito para Antalya, com três critérios: implementação visível do Acordo de Paris, fortalecimento do processo da UNFCCC (Action Agenda com responsabilidades, prazos e monitoramento; desenho do GST2) e mobilização de financiamento adequado. Exige ancorar o 35 por 35 em renováveis, propõe grupo de países dispostos a pioneirar reformas se não houver consenso e põe número em perdas e danos: US$ 50 bi na reposição de 2027, subindo a ~US$ 400 bi em 2035. Já incorporado ao guia.",
-      "tracks": ["Eletrificação", "Agenda de Ação", "Perdas e danos", "Finanças"],
-      "quotes": [],
-      "first_seen": "2026-11-06T09:00:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "wuppertal-2026-11-05-gst-acclimate",
-      "institution": "Wuppertal Institut",
-      "type": "relatório",
-      "title": "Following Up on the First Global Stocktake — ACCLIMATE policy brief and report",
-      "date": "2026-11-05",
-      "authors": "Max Schulze-Steinen e Wolfgang Obergassel (com Cambridge, IDDRI, VUB, U. Eastern Finland)",
-      "url": "https://wupperinst.org/en/a/wi/a/s/ad/9495/",
-      "summary": "Relatório analisa 113 NDCs e três estudos de caso (Brasil, UE, Nigéria) sobre como o GST1 moldou as NDCs 2035 e políticas domésticas, com lições para o desenho do GST2; conclusão: GST1 serviu de quadro de referência geral, com tradução desigual em compromissos concretos. O brief propõe quatro medidas para a UE contribuir à TAFF, no contexto do fracasso do roadmap global em Belém e da conferência TAFF de abril de 2026 (segunda conferência Tuvalu–Irlanda em julho de 2027).",
-      "tracks": ["GST2 e IPCC", "TAFF e fósseis"],
-      "quotes": [
-        "\"GST1 has primarily served as a general frame of reference for many countries\"",
-        "\"a second conference, to be co-hosted by Tuvalu and Ireland in July 2027\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "wuppertal-2026-11-05-release",
-      "institution": "Wuppertal Institut",
-      "type": "release",
-      "title": "COP31: Focus on Electrification Targets and the Implementation of National Climate Pledges",
-      "date": "2026-11-05",
-      "authors": "Manfred Fischedick e Wolfgang Obergassel",
-      "url": "https://wupperinst.org/en/a/wi/a/s/ad/9493/",
-      "summary": "Quer a meta de 35% ancorada nos resultados formais da COP e alerta que a transição para longe dos fósseis vem sendo empurrada para segundo plano. Registra que os desenvolvidos relutam em apoio financeiro concreto ao mecanismo de transição justa. Já incorporado ao guia.",
-      "tracks": ["Eletrificação", "TAFF e fósseis", "Transição justa"],
-      "quotes": [],
-      "first_seen": "2026-11-06T09:00:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "iddri-2026-11-side-events",
-      "institution": "IDDRI",
-      "type": "evento",
-      "title": "IDDRI side events at COP31",
-      "date": "2026-11-05",
-      "authors": "Marta Torres Gunfaus, Anna Pérez Català, Lola Vallejo Van Rossum",
-      "url": "https://www.iddri.org/en/publications-and-events/conference/iddri-side-events-cop31",
-      "summary": "Página logística com os eventos paralelos do IDDRI em Antalya, 9–20 de novembro. Os textos analíticos do IDDRI (eletrificação como teste político central; leitura do roadmap TAFF da presidência da COP30; issue brief sobre TAFF e GST2) já constam da seção Think tanks.",
-      "tracks": ["Agenda de Ação"],
-      "quotes": [],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "iddri-2026-11-05-electrifying-breakthrough",
-      "institution": "IDDRI",
-      "type": "blog",
-      "title": "COP31: An electrifying breakthrough or a geopolitical blackout?",
-      "date": "2026-11-05",
-      "authors": "Marta Torres Gunfaus",
-      "url": "https://www.iddri.org/en/publications-and-events/blog-post/cop31-electrifying-breakthrough-or-geopolitical-blackout",
-      "summary": "Chama a eletrificação de teste político central da COP31 e avisa que uma meta sozinha não entrega a transformação. Classifica um avanço em finanças como altamente improvável e a Access to Finance Declaration australiana como sem dentes; prevê que o CBAM será um dos temas mais contenciosos. Vê Türkiye como ponte Norte–Sul. Já incorporado ao guia.",
-      "tracks": ["Eletrificação", "Finanças", "Comércio", "Presidência e anfitrião"],
-      "quotes": [],
-      "first_seen": "2026-11-06T09:00:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "climateanalytics-2026-11-03-overshoot",
-      "institution": "Climate Analytics",
-      "type": "briefing",
-      "title": "From setting targets to limiting overshoot — understanding the challenge",
-      "date": "2026-11-03",
-      "authors": "Dimitris Tsekeris, Olivia Waterton, Neil Grant, Richard Black, Claudio Forner",
-      "url": "https://climateanalytics.org/publications/from-setting-targets-to-limiting-overshoot-understanding-the-challenge",
-      "summary": "Avalia o progresso nas metas do GST1 (triplicar renováveis, dobrar eficiência) e na meta de eletrificação da presidência contra uma trajetória que minimize o overshoot e volte a bem abaixo de 1,5 °C antes de 2100. As metas de 2030 cortam emissões do setor elétrico mas não tocam os usos finais; eletrificação é o requisito central para transporte, edifícios e indústria e protege contra volatilidade fóssil. Linha de base de pouco mais de 20%.",
-      "tracks": ["Eletrificação", "GST2 e IPCC", "TAFF e fósseis"],
-      "quotes": [
-        "\"Due to insufficient action in recent years, overshoot of the Paris Agreement's 1.5°C limit is now inevitable.\"",
-        "\"the global electrification rate to 35% of final energy by 2035, from just over 20% currently\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "can-2026-11-05-climate-justice",
-      "institution": "CAN International",
-      "type": "release",
-      "title": "COP31: Governments must deliver on climate justice as global crises deepen",
-      "date": "2026-11-05",
-      "authors": "Tasneem Essop",
-      "url": "https://climatenetwork.org/2026/11/05/cop31-governments-must-deliver-on-climate-justice-as-global-crises-deepen/",
-      "summary": "Posição oficial da CAN para Antalya: estabelecer o JTM (Belém–Antalya Mechanism) com financiamento público em doações; plano crível para ao menos US$ 120 bi/ano em adaptação bem antes de 2035 e explicação de como fechar o resto da lacuna (triplicar deixa mais de 70% das necessidades descobertas, segundo a UNEP); finanças públicas previsíveis e em doações; eletrificação que substitua fósseis (na África, prioridade é acesso) e extensão do Mitigation Work Programme até 2030; cumprimento das promessas ao FRLD e processo de reposição. Não trata de espaço cívico.",
-      "tracks": ["Transição justa", "Adaptação", "Finanças", "Mitigação e MWP", "Perdas e danos"],
-      "quotes": [
-        "Essop — \"Promises don't protect people. International law and finance do.\"",
-        "\"Governments must honour their 2025 commitment to at least triple Adaptation finance by 2035\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "can-2026-11-04-unep-agr",
-      "institution": "CAN International",
-      "type": "release",
-      "title": "UNEP report: Tripling adaptation finance would leave over 70% of developing countries' needs unmet",
-      "date": "2026-11-04",
-      "authors": "Pooja Dave (CAN), Teresa Anderson (ActionAid), Marlene Achoki (CARE), Mohamed Adow (Power Shift Africa), Baboucarr Nyang (CAN Africa), Sanjay Vashist (CANSA)",
-      "url": "https://climatenetwork.org/2026/11/04/unep-report-tripling-adaptation-finance-would-leave-over-70-of-developing-countries-needs-unmet/",
-      "summary": "Reação ao Adaptation Gap Report 2026: necessidade de US$ 305 bi/ano até 2035 (US$ 420 bi com inflação); triplicar chega a US$ 85–120 bi/ano (20–29%); desenvolvidos deram ~US$ 30 bi em 2024; FRLD recebeu pedidos de US$ 2,8 bi com US$ 342 mi disponíveis (~1 em 8). Demandas: plano para US$ 120 bi/ano bem antes de 2035, novo, adicional, público e em doações; obrigação dos ricos de mostrar como fecham o resto.",
-      "tracks": ["Adaptação", "Finanças", "Perdas e danos"],
-      "quotes": [
-        "Dave — \"COP31 must agree a credible plan to deliver at least US$120 billion a year in adaptation finance well before 2035\"",
-        "Adow — \"You cannot protect a harvest with a pledge.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "greenpeace-2026-11-04-agr",
-      "institution": "Greenpeace International",
-      "type": "release",
-      "title": "Action needed as UNEP adaptation report exposes climate finance injustice",
-      "date": "2026-11-04",
-      "authors": "Greenpeace International",
-      "url": "https://www.greenpeace.org/international/press-release/86934/action-needed-as-unep-adaptation-report-exposes-climate-finance-injustice-greenpeace/",
-      "summary": "Reação ao Adaptation Gap Report 2026: necessidade de US$ 305 bi/ano, subindo a US$ 420 bi em 2035; fluxos públicos internacionais de US$ 28,2–31,7 bi em 2024; triplicar cobriria 20–29%. Pede ao menos US$ 120 bi/ano até 2035. Já incorporado ao guia.",
-      "tracks": ["Adaptação", "Finanças"],
-      "quotes": [],
-      "first_seen": "2026-11-06T09:00:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "chn-2026-11-05-briefing",
-      "institution": "Climate Home News",
-      "type": "notícia",
-      "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
-      "date": "2026-11-05",
-      "authors": "Megan Rowling, Sebastián Rodríguez, Matteo Civillini, Vivian Chime, Chloé Farand, Joe Lo",
-      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
-      "summary": "Briefing completo (atualizado em 6 nov). Eletrificação: pledge voluntário lançado no Energy Day (10 nov); Austrália assinou, Europa deve aderir, Índia pode recusar, China indecisa; políticas atuais dão 28%. Cover decision: Austrália admite mencionar overshoot, eletrificação, metano, alerta precoce, finanças para vulneráveis e natureza; UE e SIDS querem referência ao roadmap fóssil, produtores se opõem. Adaptação: Grupo Africano pede itens de agenda; Nepal pede programa sobre montanhas. JTM como entregável principal. IPCC: maioria quer AR7 a tempo do GST2; Arábia Saudita, Índia e Rússia resistem. Comércio: China e Grupo Africano querem item formal. Aprovação da marcha de sábado ainda pendente. Desmatamento saiu da Action Agenda turca.",
-      "tracks": ["Decisão de cobertura", "Eletrificação", "Adaptação", "Transição justa", "GST2 e IPCC", "Comércio", "Espaço cívico", "Florestas"],
-      "quotes": [
-        "\"the UN now accepts that overshooting warming of 1.5C is unavoidable\"",
-        "\"Currently electricity's share of final energy consumption is around 23-24%\"",
-        "\"A majority of countries want the AR7 set of IPCC reports ready in time for the second global stocktake\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "chn-2026-11-05-fossil-free-zones",
-      "institution": "Climate Home News",
-      "type": "opinião",
-      "title": "Governments must embrace Fossil Free Zones as they head to COP31",
-      "date": "2026-11-05",
-      "authors": "Irene Vélez Torres (ex-ministra, Colômbia) e Ralph Regenvanu (ministro, Vanuatu)",
-      "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
-      "summary": "Propõem Fossil Free Zones (áreas onde o governo exclui permanentemente extração de petróleo, gás e carvão) como operacionalização da TAFF. Colômbia fechou em agosto ~500 mil km² da Amazônia (42% do território) a nova mineração e hidrocarbonetos, medida já revogada pelo novo governo; Vanuatu mira 100% de eletricidade renovável em 2030; Pacífico adotou o Tassiriki Call e propôs primeira zona marinha livre de fósseis em Santa Marta (57 países), a levar à conferência de Tuvalu em julho de 2027.",
-      "tracks": ["TAFF e fósseis", "Oceanos"],
-      "quotes": [
-        "\"nearly 500,000 square kilometres of the Amazon, roughly 42 percent of the country\"",
-        "\"57 total countries representing nearly half the world's GDP and approximately 20% of the global fossil fuel supply\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "chn-2026-11-05-ozel",
-      "institution": "Climate Home News",
-      "type": "opinião",
-      "title": "Turkey must make COP31 a turning point for global climate action",
-      "date": "2026-11-05",
-      "authors": "Özgür Özel (líder da oposição turca)",
-      "url": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
-      "summary": "Pede resultados mensuráveis: roadmap voluntário de transição fóssil com marcos 2030/2035 e relato anual; relato anual da meta de financiamento; indicadores de adaptação virando planos nacionais financiados até a COP32; parceria Mediterrâneo–Pacífico de resiliência com a Austrália. Critica importação de plástico europeu e, sobre espaço cívico, a prisão e remoção de mais de 50 prefeitos de oposição como entrave à adaptação municipal.",
-      "tracks": ["Presidência e anfitrião", "Adaptação", "Espaço cívico"],
-      "quotes": [
-        "\"Turkey took in more than half a million tons of European plastic waste last year\"",
-        "\"the imprisonment and removal of more than 50 elected opposition mayors\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "chn-2026-11-04-africa-finance",
-      "institution": "Climate Home News",
-      "type": "opinião",
-      "title": "COP31 must deliver finance for Africa or there will be no implementation",
-      "date": "2026-11-04",
-      "authors": "Nana Antwi-Boasiako Amoah (presidente do AGN) e Charles Wanguhu",
-      "url": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
-      "summary": "Posição do presidente do AGN às vésperas: sem avanço em Antalya, a COP32 em Adis Abeba herda as mesmas promessas. África perde 2–5% do PIB/ano; pede finanças previsíveis, em doações, com acesso direto e rastreamento; triplicação para ~US$ 120 bi/ano em 2035; US$ 300 bi como piso; item de agenda sobre medidas comerciais unilaterais; JTM country-led e em doações; finanças devem construir capacidade produtiva começando por energia confiável para processar minerais localmente.",
-      "tracks": ["Finanças", "Adaptação", "Comércio", "Transição justa"],
-      "quotes": [
-        "\"losing an estimated 2%-5% of GDP each year to climate extremes\"",
-        "\"Value addition is an energy story before it is a minerals story.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "carbonbrief-2026-11-05-text-tracker",
-      "institution": "Carbon Brief",
-      "type": "ferramenta",
-      "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
-      "date": "2026-11-05",
-      "authors": "Simon Evans (texto), Ho Woo Nam (rastreador)",
-      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
-      "summary": "Rastreador em tempo real com 104 itens substantivos de agenda, semáforo (vermelho sem texto; laranja informal; amarelo texto legal com colchetes; verde acordado; cinza regra 16) e links aos PDFs. Registra: cover text planejado por Türkiye e Austrália podendo reconhecer o overshoot e listar soluções (eletrificação 35/35); GGA a finalizar; AGN pede itens sobre triplicação, tarifas comerciais e GCF; JTM/BAM a detalhar; MWP contestado; dois itens novos já acordados na COP30 (9.1 e 2.1c). Fonte diária durante a COP.",
-      "tracks": ["Decisão de cobertura", "Adaptação", "Transição justa", "Mitigação e MWP", "Finanças"],
-      "quotes": [
-        "\"Ahead of the opening of the summit, Carbon Brief's text tracker counts 104 substantive items on the agenda\"",
-        "\"Turkey holds the presidency and is hosting COP31, but Australia is jointly running the show\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "carbonbrief-2026-11-04-deforestation-roadmap",
-      "institution": "Carbon Brief",
-      "type": "explicador",
-      "title": "Q&A: What is the Brazil-led 'deforestation roadmap'?",
-      "date": "2026-11-04",
-      "authors": "Aruna Chandrasekhar e Giuliana Viglione",
-      "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
-      "summary": "Explica o roadmap de florestas lançado em 3 nov: voluntário, sem novos compromissos, três pilares (ação nacional, arquitetura internacional, mecanismos financeiros), cinco dimensões florestais, 18 abordagens de implementação; necessidade de US$ 300 bi/ano até 2030 com cobertura atual abaixo de um terço, ~90% de origem pública doméstica. Quase 100 países apoiaram em Belém, sem consenso; Índia endossa o TFFF; Rússia não apoia. Ancorado no GST1 e aberto a diálogo via GST2.",
-      "tracks": ["Florestas", "GST2 e IPCC", "Agenda de Ação"],
-      "quotes": [
-        "\"countries need an estimated $300bn per year by 2030 to halt and reverse deforestation\"",
-        "\"Brazil's deforestation rate had fallen to its lowest level on record – dropping by more than 70% since 2022.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "en"
-    },
-    {
-      "id": "talanoa-2026-11-04-boletim-adaptacao",
-      "institution": "Instituto Talanoa / Política por Inteiro",
-      "type": "boletim",
-      "title": "Boletim | Força-Tarefa Adaptação como prioridade | Outubro 2026",
-      "date": "2026-11-04",
-      "authors": "Força-Tarefa de Adaptação (Instituto Talanoa e Secretaria da CANLA)",
-      "url": "https://politicaporinteiro.org/2026/11/04/boletim-forca-tarefa-adaptacao-como-prioridade-outubro-2026/",
-      "summary": "17ª edição, foco América Latina e Caribe: afirma que as presidências turca e australiana pouco fizeram para elevar a adaptação; a triplicação ainda não tem casa nas negociações (em Bonn ficou no texto da GGA; o Programa de Trabalho de Financiamento entra pela primeira vez na agenda provisória; possível cover decision); impasse na composição da taskforce da BAVA; BAR: obstáculo é meios de implementação; NAPs como âncora dos indicadores (146 países iniciaram, 81 apresentaram, 17 na ALC). Mais de 30 membros da Força-Tarefa em Antalya; eventos em 10, 12, 16 e 17 nov.",
-      "tracks": ["Adaptação", "Finanças", "Decisão de cobertura"],
-      "quotes": [
-        "\"Até agora, 81 países em desenvolvimento apresentaram seus NAPs\"",
-        "\"passou de 13% antes de 2015 para 47% entre 2023 e 2026\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "pt"
-    },
-    {
-      "id": "talanoa-2026-11-03-mapas-do-caminho",
-      "institution": "Instituto Talanoa / Política por Inteiro",
-      "type": "análise",
-      "title": "Brasil apresenta mapas do caminho para longe dos combustíveis fósseis e para fim do desmatamento",
-      "date": "2026-11-03",
-      "authors": "Equipe Editorial, com Natalie Unterstell, Taciana Stec e Caio Victor Vieira",
-      "url": "https://politicaporinteiro.org/2026/11/03/brasil-apresenta-mapas-do-caminho-para-longe-dos-combustiveis-fosseis-e-para-fim-do-desmatamento/",
-      "summary": "Primeira leitura brasileira dos dois mapas: o de fósseis usa arquétipos em três pilares (demanda, oferta, resiliência macroeconômica) e quatro quadrantes, sem classificar países; o de florestas é abrangente, centrado em mobilização financeira e bioeconomia, mas voltado à implementação nacional. Unterstell: sucesso medido pela queda da dependência fóssil, não pelo número de planos. Pouca expectativa de entrar na cover decision em Antalya, mas podem subsidiar o GST2; Capobianco levará os roadmaps a Lula.",
-      "tracks": ["TAFF e fósseis", "Florestas", "GST2 e IPCC"],
-      "quotes": [
-        "Unterstell — \"seu sucesso deverá ser medido pelo declínio da dependência de fósseis, não pelo número de planos produzidos.\"",
-        "\"Os mapas do caminho seguem como processos à parte da agenda de negociações.\""
-      ],
-      "first_seen": "2026-11-06T12:15:00-03:00",
-      "lang": "pt"
-    }
+ "schema": 1,
+ "generated_at": "2026-11-07T17:12:00-03:00",
+ "round": {
+  "timestamp": "2026-11-07T17:12:00-03:00",
+  "label": "7 nov 2026, 17:12 (Brasília)",
+  "sites_checked": 20,
+  "blocked": 1,
+  "new_items": 0,
+  "fetches": "20 de 60",
+  "cadence": "a cada 6 horas",
+  "blocked_sites": [
+   "Climate Analytics (press releases)"
   ]
+ },
+ "tracks": [
+  "Finanças",
+  "Adaptação",
+  "Transição justa",
+  "Mitigação e MWP",
+  "TAFF e fósseis",
+  "Eletrificação",
+  "GST2 e IPCC",
+  "Perdas e danos",
+  "Florestas",
+  "Comércio",
+  "Agenda de Ação",
+  "Decisão de cobertura",
+  "Presidência e anfitrião",
+  "Espaço cívico",
+  "Oceanos"
+ ],
+ "items": [
+  {
+   "id": "x-turkiyecop31-20261107-bowen",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "11:04",
+   "text": "COP31 President-Designate Murat Kurum met with Australia’s Minister for Climate Change and Energy Chris Bowen ahead of COP31. During the meeting, which assessed the joint steps needed to ensure a successful process with Australia leading the negotiations under the COP31 Presidency, both sides reaffirmed their commitment to strong cooperation and shared resolve in global climate diplomacy.",
+   "summary": "Kurum reuniu-se com Chris Bowen em Antalya; a presidência reafirma que a Austrália conduzirá as negociações sob a Presidência da COP31 e fala em cooperação forte na diplomacia climática.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261107-bowen",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "09:38",
+   "text": "COP31 Zirvesi öncesinde Avustralya İklim Değişikliği ve Enerji Bakanı Sayın Chris Bowen ile bir araya geldik. COP31 Başkanlığımızda müzakereleri yürütecek Avustralya ile birlikte sürecin başarıyla yürütülmesi için atılacak ortak adımları değerlendirdik. Küresel iklim diplomasisinde ortak irademizi güçlü iş birliğine dönüştüreceğiz.",
+   "summary": "Kurum, em turco: encontro com Bowen para avaliar os passos conjuntos com a Austrália, que conduzirá as negociações sob a presidência turca; promete transformar a vontade comum em cooperação forte.",
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-turkiyecop31-20261107-revisao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "09:22",
+   "text": "With just hours to go until #COP31, COP31 President-Designate Murat Kurum held a final review meeting with UN representatives and Australian officials to discuss preparations for the Summit and the Action Agenda. He reaffirmed Türkiye’s commitment to hosting a Summit that demonstrates its leadership in climate diplomacy and helps shape the global climate action agenda.",
+   "summary": "Reunião final de revisão de Kurum com representantes da ONU e autoridades australianas sobre os preparativos da cúpula e a Agenda de Ação, a horas da abertura.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261107-revisao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "08:23",
+   "text": "#COP31’e saatler kala Birleşmiş Milletler temsilcileri ve Avustralya yetkilileriyle COP31 Zirvesi öncesi son değerlendirmemizi gerçekleştirdik. Zirvenin hazırlıklarını ve Eylem Gündemimizi ele aldık. Türkiye’nin iklim diplomasisindeki gücünü ve liderliğini ortaya koyacak, küresel iklim eylemine yön veren bir zirveye ev sahipliği yapacağız.",
+   "summary": "Kurum relata a última avaliação pré-cúpula com a ONU e a Austrália, cobrindo preparativos e a Agenda de Ação; promete uma COP que mostre a liderança turca na diplomacia climática.",
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-ItamaratyGovBr-20261107-lula-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@ItamaratyGovBr",
+   "institution": "Itamaraty",
+   "verified": false,
+   "date": "2026-11-07",
+   "time": null,
+   "text": "Participação do Presidente Luiz Inácio Lula da Silva na COP 31 na Turquia: gov.br/mre/pt-br/cana…",
+   "summary": "Itamaraty divulga nota oficial sobre a participação do presidente Lula na COP31 em Antalya.",
+   "url": "https://x.com/ItamaratyGovBr",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "unfccc-2026-11-07-quarterly-update-q3",
+   "institution": "UNFCCC",
+   "type": "boletim",
+   "title": "UN Climate Change Quarterly Update: Q3 2026 — COP31: What are some of the key issues on the table?",
+   "date": "2026-11-07",
+   "authors": "Secretariado da UNFCCC (mensagem de Simon Stiell)",
+   "url": "https://unfccc.int/about-us/reports-highlights/quarterly-updates/un-climate-change-quarterly-update-q3-2026",
+   "summary": "Destacado em 7 nov na página unfccc.int/cop31 como guia das 'questões-chave na mesa'. Stiell diz que o multilateralismo climático 'está entregando progresso importante', mas que o progresso coletivo segue 'substancialmente insuficiente'; a presidência Türkiye–Austrália enquadra Antalya como 'COP de implementação e aceleração'. Lista o que a COP31 decide: lançamento formal do GST2 (dois co-facilitadores do diálogo técnico ainda por nomear; sínteses no início de 2027), continuação ou não do MWP após 2026, operacionalização do Marco dos EAU para resiliência e revisão do LEG, e o mecanismo de transição justa (workshop informal em Sydney). Cifras: 157 Partes com novas NDCs; 81 NAPs; fluxos globais de finanças climáticas de US$ 1,9 tri/ano em 2023–24 (+32%); ~330 side events selecionados entre 1.400 pedidos; lacuna de US$ 1,4 mi no fundo de participação. Yearbook of Global Climate Action 2026 'em breve'.",
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP",
+    "Adaptação",
+    "Finanças",
+    "Transição justa",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "Stiell — \"Climate multilateralism is delivering important progress\"",
+    "Stiell — \"collective progress remains substantially insufficient\"",
+    "Presidência COP31 — \"a COP of implementation and acceleration\"",
+    "\"Preparations for the second global stocktake (GST2) are under way ahead of its formal launch at COP 31.\"",
+    "\"Global climate finance flows averaged USD 1.9 trillion a year in 2023–2024, up 32% from 2021–2022.\""
+   ],
+   "first_seen": "2026-11-07T12:12:46-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "climateanalytics-2026-11-06-slcf-overshoot",
+   "institution": "Climate Analytics",
+   "type": "briefing",
+   "title": "The role of short-lived climate forcers in limiting overshoot and returning warming well below 1.5°C",
+   "date": "2026-11-06",
+   "authors": "Alicia Hou, Anna Kanduth, Zarrar Khan, Neil Grant, Bill Hare, Michiel Schaeffer",
+   "url": "https://climateanalytics.org/publications/the-role-of-short-lived-climate-forcers-in-limiting-overshoot-and-returning-warming-well-below-1-5-c",
+   "summary": "Policy brief (com anexo técnico) que quantifica, a partir de cenários recentes de modelos integrados, como cortes de forçantes climáticos de vida curta (metano, HFCs, carbono negro) afetam a taxa de aquecimento, o pico de temperatura e o retorno abaixo de 1,5 °C antes de 2100, isoladamente e em combinação com três outras alavancas: saída dos fósseis (TAFF), redução das emissões de LULUCF e remoção de carbono. Parte da premissa de que o limite pode ser ultrapassado já em 2030 e que o foco deve migrar para reduzir a magnitude e a duração do overshoot; é o estudo coberto pelo Carbon Pulse em 5 nov (pico de ~1,7 °C por volta de 2050). A página não cita COP31 nem GST2, mas alimenta a prioridade de Stiell sobre metano e o enquadramento de overshoot da cover decision. As cifras completas estão só no PDF, não lido pelo monitor.",
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"could exceed this threshold as early as 2030\"",
+    "\"warming can be brought back well below 1.5°C this century\"",
+    "\"The 1.5°C warming limit enshrined in the Paris Agreement remains the critical benchmark\""
+   ],
+   "first_seen": "2026-11-07T16:52:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-MarinaSilva-20261106-oque-e-cop",
+   "kind": "post",
+   "platform": "x",
+   "account": "@MarinaSilva",
+   "institution": "Marina Silva",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "20:00",
+   "text": "Se você já ouviu a palavra COP e não sabia o que significava, esse vídeo é pra você! A COP é a Conferência das Partes, o maior encontro global sobre mudança do clima. Mais de 200 países se reúnem para decidir, juntos, o que vai ser feito para enfrentar os extremos climáticos.",
+   "summary": "Marina Silva publica vídeo explicativo sobre o que é a COP, às vésperas de Antalya.",
+   "url": "https://x.com/MarinaSilva",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "x-LulaOficial-20261106-cnpe",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-06",
+   "time": "19:33",
+   "text": "Hoje, reunimos o Conselho Nacional de Política Energética para dar um passo decisivo rumo ao futuro da energia no Brasil. Aprovamos diretrizes para reduzir gradualmente nossa dependência dos combustíveis fósseis e construir uma transição energética justa e planejada.",
+   "summary": "Lula anuncia que o CNPE aprovou diretrizes para reduzir gradualmente a dependência de combustíveis fósseis e construir uma transição energética justa e planejada — sinal do Brasil na véspera da COP31.",
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "x-fatmavarank-20261106-sbsta",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "18:24",
+   "text": "Uganda Dışişleri Bakanı ve SBSTA Başkanı Sayın Adonia Ayebare ile yapıcı bir görüşme gerçekleştirdik. A constructive meeting was held with H.E. Adonia Ayebare, Uganda’s Minister of Foreign Affairs and Chair of the SBSTA.",
+   "summary": "Varank reuniu-se com Adonia Ayebare, chanceler de Uganda e presidente do SBSTA, às vésperas da abertura.",
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-fatmavarank-20261106-ldc",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "18:14",
+   "text": "Timor-Leste Büyükelçisi ve En Az Gelişmiş Ülkeler (LDC) Grubu Başkanı Sayın Adao Soares ile verimli bir görüşme gerçekleştirdik. A fruitful meeting was held with H.E. Ambassador Adao Soares of Timor-Leste, Chair of the LDC Group.",
+   "summary": "Varank recebeu o embaixador Adão Soares (Timor-Leste), presidente do Grupo LDC; o LDC Chair já havia relatado ter apresentado as prioridades do grupo para uma COP31 ambiciosa e inclusiva.",
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-fatmavarank-20261106-coy21",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "17:57",
+   "text": "Antalya Üniversitesi’nde düzenlenen COY21’de dünyanın dört bir yanından gelen gençlerle bir araya geldik. Gençler, 2026 Küresel Gençlik Bildirisi için öneriler geliştirmek üzere birlikte çalışarak çocukların ve gençlerin seslerinin COP31’de duyulmasına katkı sağlayacak.",
+   "summary": "Varank participou da COY21 na Universidade de Antalya; jovens preparam a Declaração Global da Juventude 2026 para levar à COP31.",
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Espaço cívico",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T14:42:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "observatorio-do-clima-2026-11-06-expectativas-cop31",
+   "institution": "Observatório do Clima",
+   "type": "comunicado",
+   "title": "Dinheiro, transição justa e fim dos fósseis indicarão sucesso da COP31",
+   "date": "2026-11-06",
+   "authors": "Observatório do Clima; declarações de Stela Herschmann (OC), Anna Cárcamo (Greenpeace Brasil), Beatriz Mattos (Plataforma Cipó), Mariana Belmont e Thaynah Gutierrez (Geledés)",
+   "url": "https://oc.eco.br/dinheiro-transicao-justa-e-fim-dos-fosseis-indicarao-sucesso-da-cop31/",
+   "summary": "Documento de expectativas da rede brasileira (172 integrantes) para Antalya. O sucesso da COP31 'será medido' pelo avanço na transição equitativa para longe dos fósseis: a meta de 35% de eletrificação até 2035 sozinha não basta; a COP deve reconhecer, em decisão ou no segmento de líderes, os mapas do caminho da COP30 (fósseis e desmatamento) e as presidências 31 e 32 devem convocar roadmaps nacionais/regionais ao longo de 2027, a apresentar até a COP32. Nas negociações: operacionalizar o Mecanismo Belém-Antália (BAM) e revisar o JTWP; criar a força-tarefa dos indicadores de adaptação; avançar no programa de trabalho de finanças, na triplicação da adaptação e na atualização do roteiro Baku–Belém de US$ 1,3 tri; renovar e fortalecer o MWP. Geledés pede que o BAM reconheça o racismo ambiental como barreira estrutural, com dados desagregados por raça e gênero.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa",
+    "Adaptação",
+    "Finanças",
+    "Eletrificação",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"Somente a meta de 35% de eletrificação até 2035, a grande aposta da presidência turco-australiana, não garantirá esse resultado.\"",
+    "Herschmann — \"A COP31 começa com um mapa dizendo como fazer isso e mais, que todos já podem e devem começar.\"",
+    "Cárcamo — \"uma meta de eletrificação pautada em energia renovável e adotando o Mecanismo de Transição Justa com participação da sociedade civil\"",
+    "Mattos — \"A operacionalização do Mecanismo de Belém-Antália, acordado na COP30, é uma das decisões mais esperadas da COP31.\"",
+    "Belmont — \"Não existe transição justa sem justiça racial.\""
+   ],
+   "first_seen": "2026-11-07T12:12:46-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "politica-por-inteiro-2026-11-06-cim-cnpe",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "boletim",
+   "title": "CIM, CNPE, Conselho de Minerais Críticos: aprovações rumo à COP31",
+   "date": "2026-11-06",
+   "authors": "Equipe Editorial",
+   "url": "https://politicaporinteiro.org/2026/11/06/cim-cnpe-conselho-de-minerais-criticos-aprovacoes-rumo-a-cop31/",
+   "summary": "Balanço das aprovações federais às vésperas da viagem de Lula a Antalya: o CNPE aprovou 18 diretrizes para o Roteiro Nacional de transição para longe dos fósseis (ainda não um plano); o CIM aprovou o 2º Relatório Bienal de Transparência e a 5ª Comunicação Nacional, submetidos à UNFCCC, e lançou o IndicaClima; o CIMCE aprovou a lista de 27 minerais críticos e estratégicos (Decreto 13.146, de 4 nov). O texto defende amarrar roadmap fóssil, GST2 e meta de eletrificação em uma só narrativa de implementação e alerta que a corrida por minerais críticos não pode atropelar a transição justa.",
+   "tracks": [
+    "TAFF e fósseis",
+    "GST2 e IPCC",
+    "Transição justa"
+   ],
+   "quotes": [
+    "\"São 18, que devem orientar um roteiro para a transição para se afastar dos combustíveis fósseis.\"",
+    "Unterstell — \"Enquanto o plano é elaborado, a expansão dos combustíveis fósseis continuará?\"",
+    "\"aprovou a lista dos 27 minerais críticos e estratégicos\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "politica-por-inteiro-2026-11-06-ficar-de-olho",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "explicador",
+   "title": "No que ficar de olho na COP31",
+   "date": "2026-11-06",
+   "authors": "Equipe Editorial (Liuca Yonaha, Marta Salomon e outros)",
+   "url": "https://politicaporinteiro.org/2026/11/06/o-que-ficar-de-olho-na-cop31/",
+   "summary": "Guia da Talanoa para Antalya, com promessa de atualizações diárias. Transição energética: o roadmap fóssil da COP30 é útil mas não negociado; o GST2 (2024–2028, conclusão na CMA10) deve explicar por que compromissos não são implementados; a meta de 35% de eletrificação só reduz emissões se a rede ficar mais limpa. Adaptação: triplicação sem 'casa' formal (GGA, item do Grupo Africano, programa de finanças ou cover decision); força-tarefa dos indicadores de Belém sem composição acordada; BAR com workshop em 10 nov; Fundo de Adaptação ainda em transição para o Acordo de Paris; 81 NAPs apresentados.",
+   "tracks": [
+    "TAFF e fósseis",
+    "GST2 e IPCC",
+    "Eletrificação",
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"elevar a participação da eletricidade no consumo final global de energia de pouco mais de 20% atualmente para 35% até 2035\"",
+    "\"O GST2 compreenderá o período de 2024 a 2028, com conclusão prevista para a CMA10, em 2028.\"",
+    "\"Até agora, 81 países em desenvolvimento apresentaram seus NAPs, e o foco migra do planejamento para a implementação.\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "politica-por-inteiro-2026-11-06-pnuma-adaptacao",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "análise",
+   "title": "Relatório do PNUMA mostra a lacuna do financiamento para a adaptação",
+   "date": "2026-11-06",
+   "authors": "Equipe Editorial",
+   "url": "https://politicaporinteiro.org/2026/11/06/relatorio-do-pnuma-mostra-a-lacuna-do-financiamento-para-a-adaptacao/",
+   "summary": "Leitura brasileira do Adaptation Gap Report 2026 ('Ready? Not.'): a triplicação acordada em Belém ficou sem linha de base definida e, em qualquer cenário, cobriria só 20–29% das necessidades de US$ 305 bi/ano em 2035 (US$ 420 bi corrigidos pela inflação), enquanto os desenvolvidos enviaram US$ 28,2–31,7 bi em 2024, quase o mesmo de 2023. Fixa em português as cifras que AGN, CAN e Germanwatch levam à disputa sobre a 'casa' da triplicação.",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"essa quantia representaria apenas 20% a 29% das necessidades dos países em desenvolvimento.\"",
+    "\"os países em desenvolvimento precisam de cerca de US$ 305 bilhões por ano até 2035 para se adaptar\"",
+    "\"os países desenvolvidos enviaram entre US$28,2 – US$ 31,7 bilhões em 2024, quase o mesmo que em 2023.\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "politica-por-inteiro-2026-11-06-mapas-do-caminho",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "explicador",
+   "title": "Os mapas do caminho global para a transição e para as florestas",
+   "date": "2026-11-06",
+   "authors": "Equipe Editorial",
+   "url": "https://politicaporinteiro.org/2026/11/06/os-mapas-do-caminho-global-para-a-transicao-e-para-as-florestas/",
+   "summary": "Resumo visual (oito infográficos e PDF) dos dois roadmaps apresentados pela presidência brasileira da COP30 em seus 'derradeiros atos': saída dos fósseis nos sistemas energéticos e fim do desmatamento e da degradação até 2030, como roteiros para implementar as decisões do GST1. Sem cifras nem menção à COP31/GST2; complementa a análise de 3 nov.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Florestas"
+   ],
+   "quotes": [
+    "\"a presidência brasileira da COP30, em seus derradeiros atos de seu mandato, apresentou os Mapas do Caminho\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "icc-2026-11-06-efficiency-principles",
+   "institution": "ICC",
+   "type": "comunicado",
+   "title": "Efficiency must be focus of national climate plans and energy policy, business says",
+   "date": "2026-11-06",
+   "authors": "International Chamber of Commerce",
+   "url": "https://iccwbo.org/news-publications/principles/efficiency-must-be-focus-of-national-climate-plans-and-energy-policy-business-says/",
+   "summary": "Em nome de 45 milhões de empresas, a ICC pede aos governos em Antalya que façam da eficiência energética pilar central da transição: o mundo está longe da meta de 4%/ano de Dubai (~1,8% em 2025); eficiência e eletrificação juntas podem entregar mais de um terço dos cortes necessários até 2030. Publica dez princípios e apoia explicitamente a meta de eletrificação da presidência (35% em 2035). Três pedidos: eficiência como pilar e aceleração da meta da COP28; NDCs com sinais críveis a investidores; instrumentos públicos para atrair capital privado.",
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"the 4% a year efficiency pledge made at COP28 in Dubai – improving only roughly 1.8% in 2025\"",
+    "\"efficiency and electrification together could deliver more than one-third of the emissions reductions required by 2030\"",
+    "\"around half of countries still lack basic efficiency standards for new buildings\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "climate-home-2026-11-06-blue-cop31",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "'Blue COP31' set to spotlight need for ocean protections amid record heat",
+   "date": "2026-11-06",
+   "authors": "Sebastián Rodríguez",
+   "url": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
+   "summary": "A presidência turca prepara uma 'Antalya Ocean Declaration' reconhecendo o oceano como maior sumidouro de carbono, em meio a um El Niño extremo com recordes de temperatura marinha. Sue Biniaz vê provável um resultado sobre oceanos, com apoio de mais de 100 países; a cover decision seria a única abertura na trilha formal, e campanhas querem que compromissos oceânicos alimentem o GST2. ONGs avisam que a declaração só vale com financiamento e plano para o 30x30 (só ~12% do oceano protegido; investimento na economia azul em ~2% da necessidade de US$ 550 bi/ano). Blue NDC Challenge tem 17 países.",
+   "tracks": [
+    "Oceanos",
+    "Decisão de cobertura",
+    "Agenda de Ação",
+    "GST2 e IPCC",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"recognises the centrality of the global ocean - the world's largest carbon sink\"",
+    "Biniaz — \"would be the only section of the formal negotiations where the role of oceans could be included\"",
+    "Singh — \"it must lead to funding for ocean conservation and a clear plan for reaching the global target\""
+   ],
+   "first_seen": "2026-11-07T00:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "climate-home-2026-11-06-nepal-mountains",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
+   "date": "2026-11-06",
+   "authors": "Mukesh Pokhrel",
+   "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
+   "summary": "Nepal e Butão propuseram item de agenda '1.5°C Warming in Mountains' para a COP31: avaliação científica dos riscos do overshoot em montanhas, diálogo anual de alto nível, programa de trabalho e melhor acesso a financiamento; consultas com as co-presidências ainda em curso. Contexto: enchente do Bhote Koshi com mais de 6.000 mortos ou desaparecidos, US$ 2,7 bi em danos e US$ 4,8 bi para reconstrução; FRLD alocou provisoriamente US$ 21,6 mi; Nepal quer discutir projetos financiados por empréstimo destruídos por desastres. Soma-se aos pedidos de itens do AGN e China e ao risco de briga de agenda na abertura.",
+   "tracks": [
+    "Adaptação",
+    "Perdas e danos",
+    "Finanças"
+   ],
+   "quotes": [
+    "Dhakal — \"We are trying to bring all Himalayan countries together under this agenda item\"",
+    "Dhakal — \"Climatic disasters wash out… projects, but the burden of loan is still paid by Nepal\"",
+    "\"around $4.8 billion will be required for recovery and reconstruction\""
+   ],
+   "first_seen": "2026-11-07T00:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "climate-home-2026-11-06-european-roadmap-support",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
+   "date": "2026-11-06",
+   "authors": "Sebastián Rodríguez",
+   "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
+   "summary": "André Corrêa do Lago diz que governos europeus sinalizaram apoio a usar os roadmaps brasileiros (TAFF e desmatamento) para informar o GST2, que começa em Antalya e conclui em 2028; admite que o consenso de ~200 países pode não ser o melhor lugar e que 'outros decidirão' se os roadmaps entram na ONU. Rachel Kyte (Reino Unido) teme que a TAFF vire 'só um slogan' e diz que restrições de oferta não podem esperar os anos 2030; pede que Austrália, Türkiye e Etiópia 'encontrem um jeito de avançar'. Processo de Santa Marta citado como casa alternativa; contraste com Lula, que amplia exploração de óleo e gás.",
+   "tracks": [
+    "TAFF e fósseis",
+    "GST2 e IPCC",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "Corrêa do Lago — \"I hope that there will be many other countries that may support this\"",
+    "Corrêa do Lago — \"It's not that you have to take the entire package.\"",
+    "Kyte — \"I don't think we got time to wait until the early 2030s.\""
+   ],
+   "first_seen": "2026-11-07T00:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-pulse-2026-11-06-argentina-ndc",
+   "institution": "Carbon Pulse",
+   "type": "notícia",
+   "title": "Argentina's third NDC opens door for Article 6 markets",
+   "date": "2026-11-06",
+   "authors": "Juan Guerrero e Daniel Blum",
+   "url": "https://carbon-pulse.com/568647/",
+   "summary": "A Argentina apresentou na sexta-feira sua terceira NDC, muito depois do prazo original; o texto abre caminho para participação em mecanismos do Artigo 6, incluindo um REDD+ jurisdicional em busca de compradores internacionais. Mais uma NDC 2035 tardia a entrar na síntese pré-GST2. Paywall: só o teaser foi lido.",
+   "tracks": [
+    "Mitigação e MWP",
+    "GST2 e IPCC"
+   ],
+   "quotes": [
+    "\"Argentina's third NDC, submitted on Friday well beyond the original deadline, opens the door for the country to participate in carbon market mechanisms\""
+   ],
+   "first_seen": "2026-11-07T00:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-pulse-2026-11-06-eu-electrification",
+   "institution": "Carbon Pulse",
+   "type": "notícia",
+   "title": "EU signals openness to compromise on COP31 electrification target",
+   "date": "2026-11-06",
+   "authors": "Rebecca Gualandi e Emanuela Barbiroglio",
+   "url": "https://carbon-pulse.com/568610/",
+   "summary": "Um alto funcionário da UE disse que o bloco aceitaria incluir uma meta de eletrificação na cover decision política da COP31, argumentando que isso ajudaria a atrair o apoio de mais países. É a primeira sinalização pública europeia de flexibilidade sobre levar o '35 by 35' da Action Agenda ao texto negociado — ponto que DCJ e Grupo Árabe rejeitam. Paywall: só o teaser foi lido; a posição sobre o qualificador 'limpa/renovável' não aparece.",
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "\"The EU would be open to including an electrification target in a political cover decision at the COP31 climate summit in Turkiye\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-pulse-2026-11-06-india-cbam",
+   "institution": "Carbon Pulse",
+   "type": "notícia",
+   "title": "India urged to push for domestic carbon price recognition, CBAM revenue share at COP31",
+   "date": "2026-11-06",
+   "authors": "Arshreet Singh",
+   "url": "https://carbon-pulse.com/568371/",
+   "summary": "Análise de pesquisadores recomenda que Nova Délhi busque na COP31 o reconhecimento dos custos de carbono pagos sob seu sistema de comércio de emissões em formação e exija que receitas de mecanismos de ajuste de carbono na fronteira financiem a descarbonização doméstica. Reforça a frente comércio/CBAM que AGN, China e CEEW já levam à agenda. Paywall: só o teaser foi lido.",
+   "tracks": [
+    "Comércio"
+   ],
+   "quotes": [
+    "\"New Delhi should seek recognition of carbon costs paid under its emerging emissions trading system\"",
+    "\"demand that revenues from carbon border mechanisms help finance decarbonisation at home\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-brief-2026-11-06-china-co2-q3",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "Analysis: China's quarterly CO2 falls 3% in largest drop since Covid",
+   "date": "2026-11-06",
+   "authors": "Lauri Myllyvirta (CREA)",
+   "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+   "summary": "As emissões de CO2 da China caíram 3,1% no 3º trimestre de 2026, maior queda trimestral desde os lockdowns de 2022, e ~0,5% no acumulado do ano, por menor demanda de petróleo (crise de Ormuz) e menor queima de carvão. Geração a carvão caiu 3,3%; solar, eólica e nuclear somaram 110 TWh; consumo de petróleo no transporte caiu 9% com recorde de EVs. Não menciona a COP31, mas é a cifra que a delegação chinesa e os analistas de GST2 citarão em Antalya.",
+   "tracks": [
+    "Mitigação e MWP",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "\"China's carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026\"",
+    "\"Power generation from solar, wind and nuclear increased by 110 terawatt hours (TWh) year-on-year\"",
+    "\"transport oil consumption continued to fall sharply, down 9% year-on-year in the third quarter of 2026.\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-brief-2026-11-06-super-el-nino",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "'Simply staggering': Rapidly developing 'super El Niño' on track to peak in December",
+   "date": "2026-11-06",
+   "authors": "Cecilia Keating",
+   "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
+   "summary": "Atualização do 'state of the climate' do Carbon Brief: o El Niño deve atingir o pico em dezembro com anomalia de ~4 °C na região Niño3.4 (recorde diário de 3,11 °C em setembro), com maior efeito nas temperaturas globais em 2027; projeção de 2027 em ~1,74 °C acima do pré-industrial e 96% de chance de ano mais quente da série. Sustenta o alerta sobre crise de preços de alimentos em 2027 e o enquadramento de overshoot em Antalya.",
+   "tracks": [
+    "Adaptação",
+    "Perdas e danos"
+   ],
+   "quotes": [
+    "\"models project this year's El Niño will peak with an anomaly of around 4C\"",
+    "\"Carbon Brief projects that the 2027 average global temperature will reach around 1.74C above pre-industrial levels.\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "e3g-2026-11-06-green-iron-trade",
+   "institution": "E3G",
+   "type": "relatório",
+   "title": "Scaling green iron trade: Why and how governments must act",
+   "date": "2026-11-06",
+   "authors": "Adam Cooper e Laith Whitwham",
+   "url": "https://www.e3g.org/publications/scaling-green-iron-trade-government-role/",
+   "summary": "Relatório sobre comércio de ferro verde (a siderurgia responde por 7–9% das emissões globais): seis papéis para governos e quatro frentes de cooperação internacional (demanda e padrões, financiamento de projetos, alinhamento com planos nacionais, parcerias comerciais). Sem menção a COP31, TAFF ou eletrificação, mas relevante para a frente comércio/descarbonização industrial.",
+   "tracks": [
+    "Comércio"
+   ],
+   "quotes": [
+    "\"responsible for 7–9% of the world's greenhouse gas emissions\"",
+    "\"Green iron projects will not succeed at scale, or benefit countries, without government support\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "e3g-2026-11-06-pacific-mdbs",
+   "institution": "E3G",
+   "type": "blog",
+   "title": "From the Pacific to COP31: How MDBs can unlock private finance for locally led adaptation",
+   "date": "2026-11-06",
+   "authors": "Anda Yoshina e Chiara Falduto",
+   "url": "https://www.e3g.org/news/from-the-pacific-to-cop31-how-mdbs-can-unlock-private-finance-for-locally-led-adaptation/",
+   "summary": "A partir do Pre-COP do Pacífico: o sistema financeiro é desenhado para grandes transações padronizadas e exclui SIDS/LDCs e instituições locais. Caso das Maldivas (projetos considerados pequenos demais; programa solar viabilizado por garantia parcial da IDA). Pede que MDBs canalizem recursos via bancos nacionais de desenvolvimento, ampliem preparação de projetos e adaptem instrumentos (moeda local, compliance proporcional); adaptação deve ser avaliada por resiliência e sustentabilidade da dívida, não só retorno.",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"less than 10% of the US$17 billion committed from international climate funds between 2003 and 2016\"",
+    "\"while just 0.17% mentioned 'locally led' or 'community led'\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "germanwatch-2026-11-06-implementation-alliances",
+   "institution": "Germanwatch",
+   "type": "release",
+   "title": "At COP31 Implementation-Alliances can accelerate climate action and resilience – especially for the most vulnerable",
+   "date": "2026-11-06",
+   "authors": "Jennifer Tollmann, Petter Lydén, Ute Sudmann (porta-vozes)",
+   "url": "https://www.germanwatch.org/en/93618",
+   "summary": "Release pré-COP: Antalya como teste de cooperação entre quem acelera e quem quer prolongar lucros fósseis. Pede que as alianças voluntárias da Action Agenda tenham responsabilidades, prazos e relato público, e que os países digam como seus resultados alimentarão o GST2; relato de progresso nas metas de 2023 (triplicar renováveis, dobrar eficiência, desmatamento zero 2030); trajetória com metas intermediárias até US$ 300 bi/ano em 2035; cobra da Alemanha estratégia de eletrificação e critica orçamentos de financiamento climático; princípio poluidor-pagador via taxas sobre grandes emissores e super-ricos. Cita alerta da FAO de crise de preços de alimentos em 2027.",
+   "tracks": [
+    "Agenda de Ação",
+    "GST2 e IPCC",
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "\"Science is clear: we are entering an overshoot reality with the associated risks of reaching irreversible tipping points\"",
+    "\"Every initiative needs clear responsibilities, deadlines, and transparency on progress.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-pulse-2026-11-05-fossil-treaty-cdr",
+   "institution": "Carbon Pulse",
+   "type": "notícia",
+   "title": "Fossil Fuel Treaty Initiative pushes back against CDR discussions at COP31",
+   "date": "2026-11-05",
+   "authors": "Mark Tilly",
+   "url": "https://carbon-pulse.com/568291/",
+   "summary": "A iniciativa do Tratado de Não Proliferação de Combustíveis Fósseis argumenta contra tecnologias 'especulativas' de remoção de carbono como resposta ao overshoot e pretende usar a COP31 para angariar mais apoio ao tratado. Converge com a posição da DCJ (rejeição de CDR e geoengenharia). Paywall: só o teaser foi lido.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"has argued against 'speculative' carbon removal technologies to address the global temperature overshoot, as it hopes to use COP31 to gather more support\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbon-pulse-2026-11-05-slcf-study",
+   "institution": "Carbon Pulse",
+   "type": "notícia",
+   "title": "Rapid fossil fuel phaseout, methane cuts could halt global warming by 2050 -study",
+   "date": "2026-11-05",
+   "authors": "Roy Manuell",
+   "url": "https://carbon-pulse.com/568112/",
+   "summary": "Cobertura de estudo pré-COP31 (o briefing da Climate Analytics sobre forçantes de vida curta) segundo o qual o aquecimento poderia atingir o pico por volta de 2050, em ~1,7 °C, com saída rápida dos fósseis e cortes de metano e outros poluentes de vida curta. Relevante para o debate de overshoot e para a prioridade de Stiell sobre metano. Paywall: só o teaser foi lido.",
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"Global warming could peak by 2050 at around 1.7C if governments rapidly phase out fossil fuels and cut methane and other short-lived climate pollutants\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-05-turkiye-energy-plan-2040",
+   "institution": "350.org",
+   "type": "release",
+   "title": "Türkiye's National Energy Plan 2040 falls short without commitment to phase out fossil fuels",
+   "date": "2026-11-05",
+   "authors": "350.org (porta-voz Efe Baysal, Türkiye Team Lead)",
+   "url": "https://350.org/press-release/t%C3%BCrkiyes-national-energy-plan-2040-falls-short-without-commitment-to-phase-out-fossil-fuels/",
+   "summary": "Crítica ao Plano Nacional de Energia 2040 do país anfitrião: elogia o foco em eletrificação e renováveis, alinhado às mensagens da presidência, mas aponta que o plano expande investimento em gás e petróleo, não traz compromisso nem prazo de saída do carvão (cerca de um terço da eletricidade; 60% do carvão importado) e aposta em nuclear. Pede fim dos subsídios ao carvão, veto a novos projetos, calendário de transição justa e salvaguardas na cadeia de minerais críticos.",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "quotes": [
+    "\"Coal still accounts for around a third of Türkiye's electricity generation, with 60% of that coal imported.\"",
+    "\"Türkiye must end public subsidies for coal, halt new coal projects\"",
+    "\"As host of COP31, Türkiye has an opportunity to show genuine climate leadership.\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bruegel-2026-11-05-eu-climate-resilience",
+   "institution": "Bruegel",
+   "type": "análise",
+   "title": "Invest now or pay more later: can the EU climate resilience framework break the disaster-relief cycle?",
+   "date": "2026-11-05",
+   "authors": "Heather Grabbe",
+   "url": "https://www.bruegel.org/analysis/invest-now-or-pay-more-later-can-eu-climate-resilience-framework-break-disaster-relief",
+   "summary": "Analisa o EU Climate Resilience Framework e defende financiamento dedicado à prevenção em vez do ciclo de socorro pós-desastre; não menciona COP31 nem CBAM. Complementa os comentários de E3G, WRI e IDDRI sobre o mesmo framework na trilha de adaptação europeia.",
+   "tracks": [
+    "Adaptação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "unfccc-2026-11-05-preview",
+   "institution": "UNFCCC",
+   "type": "comunicado",
+   "title": "COP31 preview — comments from Simon Stiell, Murat Kurum and Chris Bowen",
+   "date": "2026-11-05",
+   "authors": "Secretariado da UNFCCC",
+   "url": "https://unfccc.int/news/cop31-preview-comments-from-un-climate-change-executive-secretary-simon-stiell-cop31-president",
+   "summary": "Declarações pré-COP dos três dirigentes. Stiell enquadra Antalya como conversão de promessas em projetos via negociações e Action Agenda, com eletrificação, resiliência, finanças mais rápidas e metano como prioridades. Kurum admite explicitamente o overshoot de 1,5 °C e recusa novas metas de financiamento, apontando para a entrega dos US$ 300 bi de Baku com os desenvolvidos liderando. Bowen lista finanças, energia mais barata para famílias, eletrificação e oceano. Nada sobre JTM.",
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "Kurum — \"This is the first COP where it is clear beyond reasonable doubt that the world will overshoot the 1.5-degree target.\"",
+    "Kurum — \"We do not need new targets. We need to deliver on the ones we have, with developed countries taking the lead.\"",
+    "Stiell — \"Finance must reach people faster, with less red tape.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "germanwatch-2026-11-05-adaptation-deadlock",
+   "institution": "Germanwatch",
+   "type": "blog",
+   "title": "From Political Deadlock to Real Resilience: Raising the Profile of Adaptation in the UNFCCC Process",
+   "date": "2026-11-05",
+   "authors": "Rixa Schwarz e Magdalena Mirwald",
+   "url": "https://www.germanwatch.org/en/blog/political-deadlock-real-resilience",
+   "summary": "Quatro pedidos para a COP31: adaptação como item político do pacote final (UE e Alemanha devem tratá-la em pé de igualdade com mitigação); mandato pragmático e composição viável da taskforce dos Indicadores de Belém acordados cedo na COP; transformar a triplicação em trajetória, prazo, linha de base e accountability com foco em doações (critica o Norte por estacionar o tema na sala de finanças); mandato de implementação para o Baku Adaptation Roadmap ligado à GGA, NAPs, transição justa e GST2.",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"COP31 must deliver on the commitment to triple adaptation finance.\"",
+    "\"Parking the discussion there is just a way of avoiding the conversation, at least at this COP.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "wuppertal-2026-11-05-gst-acclimate",
+   "institution": "Wuppertal Institut",
+   "type": "relatório",
+   "title": "Following Up on the First Global Stocktake — ACCLIMATE policy brief and report",
+   "date": "2026-11-05",
+   "authors": "Max Schulze-Steinen e Wolfgang Obergassel (com Cambridge, IDDRI, VUB, U. Eastern Finland)",
+   "url": "https://wupperinst.org/en/a/wi/a/s/ad/9495/",
+   "summary": "Relatório analisa 113 NDCs e três estudos de caso (Brasil, UE, Nigéria) sobre como o GST1 moldou as NDCs 2035 e políticas domésticas, com lições para o desenho do GST2; conclusão: GST1 serviu de quadro de referência geral, com tradução desigual em compromissos concretos. O brief propõe quatro medidas para a UE contribuir à TAFF, no contexto do fracasso do roadmap global em Belém e da conferência TAFF de abril de 2026 (segunda conferência Tuvalu–Irlanda em julho de 2027).",
+   "tracks": [
+    "GST2 e IPCC",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"GST1 has primarily served as a general frame of reference for many countries\"",
+    "\"a second conference, to be co-hosted by Tuvalu and Ireland in July 2027\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "iddri-2026-11-side-events",
+   "institution": "IDDRI",
+   "type": "evento",
+   "title": "IDDRI side events at COP31",
+   "date": "2026-11-05",
+   "authors": "Marta Torres Gunfaus, Anna Pérez Català, Lola Vallejo Van Rossum",
+   "url": "https://www.iddri.org/en/publications-and-events/conference/iddri-side-events-cop31",
+   "summary": "Página logística com os eventos paralelos do IDDRI em Antalya, 9–20 de novembro. Os textos analíticos do IDDRI (eletrificação como teste político central; leitura do roadmap TAFF da presidência da COP30; issue brief sobre TAFF e GST2) já constam da seção Think tanks.",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "can-2026-11-05-climate-justice",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "COP31: Governments must deliver on climate justice as global crises deepen",
+   "date": "2026-11-05",
+   "authors": "Tasneem Essop",
+   "url": "https://climatenetwork.org/2026/11/05/cop31-governments-must-deliver-on-climate-justice-as-global-crises-deepen/",
+   "summary": "Posição oficial da CAN para Antalya: estabelecer o JTM (Belém–Antalya Mechanism) com financiamento público em doações; plano crível para ao menos US$ 120 bi/ano em adaptação bem antes de 2035 e explicação de como fechar o resto da lacuna (triplicar deixa mais de 70% das necessidades descobertas, segundo a UNEP); finanças públicas previsíveis e em doações; eletrificação que substitua fósseis (na África, prioridade é acesso) e extensão do Mitigation Work Programme até 2030; cumprimento das promessas ao FRLD e processo de reposição. Não trata de espaço cívico.",
+   "tracks": [
+    "Transição justa",
+    "Adaptação",
+    "Finanças",
+    "Mitigação e MWP",
+    "Perdas e danos"
+   ],
+   "quotes": [
+    "Essop — \"Promises don't protect people. International law and finance do.\"",
+    "\"Governments must honour their 2025 commitment to at least triple Adaptation finance by 2035\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "chn-2026-11-05-briefing",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
+   "date": "2026-11-05",
+   "authors": "Megan Rowling, Sebastián Rodríguez, Matteo Civillini, Vivian Chime, Chloé Farand, Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+   "summary": "Briefing completo (atualizado em 6 nov). Eletrificação: pledge voluntário lançado no Energy Day (10 nov); Austrália assinou, Europa deve aderir, Índia pode recusar, China indecisa; políticas atuais dão 28%. Cover decision: Austrália admite mencionar overshoot, eletrificação, metano, alerta precoce, finanças para vulneráveis e natureza; UE e SIDS querem referência ao roadmap fóssil, produtores se opõem. Adaptação: Grupo Africano pede itens de agenda; Nepal pede programa sobre montanhas. JTM como entregável principal. IPCC: maioria quer AR7 a tempo do GST2; Arábia Saudita, Índia e Rússia resistem. Comércio: China e Grupo Africano querem item formal. Aprovação da marcha de sábado ainda pendente. Desmatamento saiu da Action Agenda turca.",
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "Adaptação",
+    "Transição justa",
+    "GST2 e IPCC",
+    "Comércio",
+    "Espaço cívico",
+    "Florestas"
+   ],
+   "quotes": [
+    "\"the UN now accepts that overshooting warming of 1.5C is unavoidable\"",
+    "\"Currently electricity's share of final energy consumption is around 23-24%\"",
+    "\"A majority of countries want the AR7 set of IPCC reports ready in time for the second global stocktake\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "chn-2026-11-05-fossil-free-zones",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "Governments must embrace Fossil Free Zones as they head to COP31",
+   "date": "2026-11-05",
+   "authors": "Irene Vélez Torres (ex-ministra, Colômbia) e Ralph Regenvanu (ministro, Vanuatu)",
+   "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
+   "summary": "Propõem Fossil Free Zones (áreas onde o governo exclui permanentemente extração de petróleo, gás e carvão) como operacionalização da TAFF. Colômbia fechou em agosto ~500 mil km² da Amazônia (42% do território) a nova mineração e hidrocarbonetos, medida já revogada pelo novo governo; Vanuatu mira 100% de eletricidade renovável em 2030; Pacífico adotou o Tassiriki Call e propôs primeira zona marinha livre de fósseis em Santa Marta (57 países), a levar à conferência de Tuvalu em julho de 2027.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Oceanos"
+   ],
+   "quotes": [
+    "\"nearly 500,000 square kilometres of the Amazon, roughly 42 percent of the country\"",
+    "\"57 total countries representing nearly half the world's GDP and approximately 20% of the global fossil fuel supply\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "chn-2026-11-05-ozel",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "Turkey must make COP31 a turning point for global climate action",
+   "date": "2026-11-05",
+   "authors": "Özgür Özel (líder da oposição turca)",
+   "url": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
+   "summary": "Pede resultados mensuráveis: roadmap voluntário de transição fóssil com marcos 2030/2035 e relato anual; relato anual da meta de financiamento; indicadores de adaptação virando planos nacionais financiados até a COP32; parceria Mediterrâneo–Pacífico de resiliência com a Austrália. Critica importação de plástico europeu e, sobre espaço cívico, a prisão e remoção de mais de 50 prefeitos de oposição como entrave à adaptação municipal.",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Adaptação",
+    "Espaço cívico"
+   ],
+   "quotes": [
+    "\"Turkey took in more than half a million tons of European plastic waste last year\"",
+    "\"the imprisonment and removal of more than 50 elected opposition mayors\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbonbrief-2026-11-05-text-tracker",
+   "institution": "Carbon Brief",
+   "type": "ferramenta",
+   "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
+   "date": "2026-11-05",
+   "authors": "Simon Evans (texto), Ho Woo Nam (rastreador)",
+   "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
+   "summary": "Rastreador em tempo real com 104 itens substantivos de agenda, semáforo (vermelho sem texto; laranja informal; amarelo texto legal com colchetes; verde acordado; cinza regra 16) e links aos PDFs. Registra: cover text planejado por Türkiye e Austrália podendo reconhecer o overshoot e listar soluções (eletrificação 35/35); GGA a finalizar; AGN pede itens sobre triplicação, tarifas comerciais e GCF; JTM/BAM a detalhar; MWP contestado; dois itens novos já acordados na COP30 (9.1 e 2.1c). Fonte diária durante a COP.",
+   "tracks": [
+    "Decisão de cobertura",
+    "Adaptação",
+    "Transição justa",
+    "Mitigação e MWP",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"Ahead of the opening of the summit, Carbon Brief's text tracker counts 104 substantive items on the agenda\"",
+    "\"Turkey holds the presidency and is hosting COP31, but Australia is jointly running the show\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "wuppertal-2026-11-05-release",
+   "institution": "Wuppertal Institut",
+   "type": "release",
+   "title": "COP31: Focus on Electrification Targets and the Implementation of National Climate Pledges",
+   "date": "2026-11-05",
+   "authors": "Manfred Fischedick e Wolfgang Obergassel",
+   "url": "https://wupperinst.org/en/a/wi/a/s/ad/9493/",
+   "summary": "Quer a meta de 35% ancorada nos resultados formais da COP e alerta que a transição para longe dos fósseis vem sendo empurrada para segundo plano. Registra que os desenvolvidos relutam em apoio financeiro concreto ao mecanismo de transição justa. Já incorporado ao guia.",
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T09:00:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "iddri-2026-11-05-electrifying-breakthrough",
+   "institution": "IDDRI",
+   "type": "blog",
+   "title": "COP31: An electrifying breakthrough or a geopolitical blackout?",
+   "date": "2026-11-05",
+   "authors": "Marta Torres Gunfaus",
+   "url": "https://www.iddri.org/en/publications-and-events/blog-post/cop31-electrifying-breakthrough-or-geopolitical-blackout",
+   "summary": "Chama a eletrificação de teste político central da COP31 e avisa que uma meta sozinha não entrega a transformação. Classifica um avanço em finanças como altamente improvável e a Access to Finance Declaration australiana como sem dentes; prevê que o CBAM será um dos temas mais contenciosos. Vê Türkiye como ponte Norte–Sul. Já incorporado ao guia.",
+   "tracks": [
+    "Eletrificação",
+    "Finanças",
+    "Comércio",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T09:00:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "icc-2026-11-04-sme-climate-finance",
+   "institution": "ICC",
+   "type": "relatório",
+   "title": "Connecting SMEs to climate finance: closing the US$1.1 trillion SME climate finance gap",
+   "date": "2026-11-04",
+   "authors": "ICC e Sage",
+   "url": "https://iccwbo.org/news-publications/report/connecting-smes-to-climate-finance-closing-the-us1-1-trillion-sme-climate-finance-gap/",
+   "summary": "Cerca de 46 milhões de PMEs estão prontas para investir em clima, mas precisam de ~US$ 1,1 tri em financiamento externo nos próximos 12 meses (US$ 946 bi transição, US$ 167 bi adaptação); só 1% recebeu finanças verdes no último ano, apesar de os fluxos globais terem passado de US$ 2 tri em 2024. Três alavancas: dados únicos legíveis por máquina, geração de dados via software de contabilidade com consentimento, e empréstimos verdes pequenos com garantias públicas. Pede que a COP31 trate não só do volume da NCQG, mas de acesso, custo de capital e 'bankability'.",
+   "tracks": [
+    "Finanças",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "\"An estimated 46 million SMEs are ready, willing and able to invest in climate action\"",
+    "\"Yet only one in a hundred received green finance last year.\"",
+    "\"30% of SMEs still collect sustainability data by hand, spending around 12 working days a year on this task.\""
+   ],
+   "first_seen": "2026-11-07T06:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-04-coal-regions-joint-call",
+   "institution": "350.org",
+   "type": "release",
+   "title": "Joint Call from Coal Regions to the COP31 Presidencies: Make Concrete Commitments to Phase Out Coal",
+   "date": "2026-11-04",
+   "authors": "350.org, Coal Action Network, Beyond Fossil Fuels e 50 organizações",
+   "url": "https://350.org/press-release/joint-call-from-coal-regions-to-the-cop31-presidencies-make-concrete-commitments-to-phase-out-coal/",
+   "summary": "Carta de 50 organizações de regiões carboníferas (cerca de 25 da Türkiye e 14 da Austrália, mais Canadá, Reino Unido, EUA, África do Sul, Colômbia, Indonésia, Pacífico e Alemanha) a Kurum e Bowen, pedindo que os anfitriões deem o exemplo: recusar licenças a novas usinas a carvão e ampliações, interromper novas minas e acelerar a cooperação internacional por um futuro sem carvão. Insiste em planos de transição justa para trabalhadores e economias locais; cita a vitória contra uma nova usina em Afşin-Elbistan.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "People for the Plains — \"We want to see a moratorium on new coal expansions and extensions.\"",
+    "Doğan — \"COP31 must be a summit where concrete commitments are made to leave the coal era behind\"",
+    "\"A just transition must be at the heart of phasing out coal\""
+   ],
+   "first_seen": "2026-11-06T18:13:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "e3g-2026-11-04-powering-across-divides",
+   "institution": "E3G",
+   "type": "relatório",
+   "title": "Powering across divides: Clean energy cooperation in a fragmented world",
+   "date": "2026-11-04",
+   "authors": "Dido Gompertz, Jeongha Ju, Samora Levy, Suzie Marshall, Oyku Senlen, Hamsa Srikanth, Matt Webb",
+   "url": "https://www.e3g.org/publications/powering-across-divides-clean-energy-cooperation-fragmented-world/",
+   "summary": "Relatório de economia política em 16 economias (10 middle powers em perfil, 6 em snapshot). Tese: processos multilaterais fixam ambição, mas a entrega depende de alianças menores e flexíveis (bilaterais, regionais, setoriais) em redes, cadeias de suprimento, finanças e integração elétrica regional. Quatro prioridades: segurança energética limpa no centro da diplomacia; caminhos complementares para longe dos fósseis e rumo à eletrificação; parcerias práticas de financiamento; parcerias comerciais e infraestrutura regional. Não menciona COP31 nem 35 by 35 no texto da página.",
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"Connecting these complementary assets can create a cooperation dividend\"",
+    "\"Support complementary pathways away from fossil fuels and towards electrification.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "can-2026-11-04-unep-agr",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "UNEP report: Tripling adaptation finance would leave over 70% of developing countries' needs unmet",
+   "date": "2026-11-04",
+   "authors": "Pooja Dave (CAN), Teresa Anderson (ActionAid), Marlene Achoki (CARE), Mohamed Adow (Power Shift Africa), Baboucarr Nyang (CAN Africa), Sanjay Vashist (CANSA)",
+   "url": "https://climatenetwork.org/2026/11/04/unep-report-tripling-adaptation-finance-would-leave-over-70-of-developing-countries-needs-unmet/",
+   "summary": "Reação ao Adaptation Gap Report 2026: necessidade de US$ 305 bi/ano até 2035 (US$ 420 bi com inflação); triplicar chega a US$ 85–120 bi/ano (20–29%); desenvolvidos deram ~US$ 30 bi em 2024; FRLD recebeu pedidos de US$ 2,8 bi com US$ 342 mi disponíveis (~1 em 8). Demandas: plano para US$ 120 bi/ano bem antes de 2035, novo, adicional, público e em doações; obrigação dos ricos de mostrar como fecham o resto.",
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Perdas e danos"
+   ],
+   "quotes": [
+    "Dave — \"COP31 must agree a credible plan to deliver at least US$120 billion a year in adaptation finance well before 2035\"",
+    "Adow — \"You cannot protect a harvest with a pledge.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "chn-2026-11-04-africa-finance",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "COP31 must deliver finance for Africa or there will be no implementation",
+   "date": "2026-11-04",
+   "authors": "Nana Antwi-Boasiako Amoah (presidente do AGN) e Charles Wanguhu",
+   "url": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
+   "summary": "Posição do presidente do AGN às vésperas: sem avanço em Antalya, a COP32 em Adis Abeba herda as mesmas promessas. África perde 2–5% do PIB/ano; pede finanças previsíveis, em doações, com acesso direto e rastreamento; triplicação para ~US$ 120 bi/ano em 2035; US$ 300 bi como piso; item de agenda sobre medidas comerciais unilaterais; JTM country-led e em doações; finanças devem construir capacidade produtiva começando por energia confiável para processar minerais localmente.",
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Comércio",
+    "Transição justa"
+   ],
+   "quotes": [
+    "\"losing an estimated 2%-5% of GDP each year to climate extremes\"",
+    "\"Value addition is an energy story before it is a minerals story.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "carbonbrief-2026-11-04-deforestation-roadmap",
+   "institution": "Carbon Brief",
+   "type": "explicador",
+   "title": "Q&A: What is the Brazil-led 'deforestation roadmap'?",
+   "date": "2026-11-04",
+   "authors": "Aruna Chandrasekhar e Giuliana Viglione",
+   "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
+   "summary": "Explica o roadmap de florestas lançado em 3 nov: voluntário, sem novos compromissos, três pilares (ação nacional, arquitetura internacional, mecanismos financeiros), cinco dimensões florestais, 18 abordagens de implementação; necessidade de US$ 300 bi/ano até 2030 com cobertura atual abaixo de um terço, ~90% de origem pública doméstica. Quase 100 países apoiaram em Belém, sem consenso; Índia endossa o TFFF; Rússia não apoia. Ancorado no GST1 e aberto a diálogo via GST2.",
+   "tracks": [
+    "Florestas",
+    "GST2 e IPCC",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "\"countries need an estimated $300bn per year by 2030 to halt and reverse deforestation\"",
+    "\"Brazil's deforestation rate had fallen to its lowest level on record – dropping by more than 70% since 2022.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "talanoa-2026-11-04-boletim-adaptacao",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "boletim",
+   "title": "Boletim | Força-Tarefa Adaptação como prioridade | Outubro 2026",
+   "date": "2026-11-04",
+   "authors": "Força-Tarefa de Adaptação (Instituto Talanoa e Secretaria da CANLA)",
+   "url": "https://politicaporinteiro.org/2026/11/04/boletim-forca-tarefa-adaptacao-como-prioridade-outubro-2026/",
+   "summary": "17ª edição, foco América Latina e Caribe: afirma que as presidências turca e australiana pouco fizeram para elevar a adaptação; a triplicação ainda não tem casa nas negociações (em Bonn ficou no texto da GGA; o Programa de Trabalho de Financiamento entra pela primeira vez na agenda provisória; possível cover decision); impasse na composição da taskforce da BAVA; BAR: obstáculo é meios de implementação; NAPs como âncora dos indicadores (146 países iniciaram, 81 apresentaram, 17 na ALC). Mais de 30 membros da Força-Tarefa em Antalya; eventos em 10, 12, 16 e 17 nov.",
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"Até agora, 81 países em desenvolvimento apresentaram seus NAPs\"",
+    "\"passou de 13% antes de 2015 para 47% entre 2023 e 2026\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "greenpeace-2026-11-04-agr",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "Action needed as UNEP adaptation report exposes climate finance injustice",
+   "date": "2026-11-04",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/86934/action-needed-as-unep-adaptation-report-exposes-climate-finance-injustice-greenpeace/",
+   "summary": "Reação ao Adaptation Gap Report 2026: necessidade de US$ 305 bi/ano, subindo a US$ 420 bi em 2035; fluxos públicos internacionais de US$ 28,2–31,7 bi em 2024; triplicar cobriria 20–29%. Pede ao menos US$ 120 bi/ano até 2035. Já incorporado ao guia.",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T09:00:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "climateanalytics-2026-11-03-overshoot",
+   "institution": "Climate Analytics",
+   "type": "briefing",
+   "title": "From setting targets to limiting overshoot — understanding the challenge",
+   "date": "2026-11-03",
+   "authors": "Dimitris Tsekeris, Olivia Waterton, Neil Grant, Richard Black, Claudio Forner",
+   "url": "https://climateanalytics.org/publications/from-setting-targets-to-limiting-overshoot-understanding-the-challenge",
+   "summary": "Avalia o progresso nas metas do GST1 (triplicar renováveis, dobrar eficiência) e na meta de eletrificação da presidência contra uma trajetória que minimize o overshoot e volte a bem abaixo de 1,5 °C antes de 2100. As metas de 2030 cortam emissões do setor elétrico mas não tocam os usos finais; eletrificação é o requisito central para transporte, edifícios e indústria e protege contra volatilidade fóssil. Linha de base de pouco mais de 20%.",
+   "tracks": [
+    "Eletrificação",
+    "GST2 e IPCC",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"Due to insufficient action in recent years, overshoot of the Paris Agreement's 1.5°C limit is now inevitable.\"",
+    "\"the global electrification rate to 35% of final energy by 2035, from just over 20% currently\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "talanoa-2026-11-03-mapas-do-caminho",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "type": "análise",
+   "title": "Brasil apresenta mapas do caminho para longe dos combustíveis fósseis e para fim do desmatamento",
+   "date": "2026-11-03",
+   "authors": "Equipe Editorial, com Natalie Unterstell, Taciana Stec e Caio Victor Vieira",
+   "url": "https://politicaporinteiro.org/2026/11/03/brasil-apresenta-mapas-do-caminho-para-longe-dos-combustiveis-fosseis-e-para-fim-do-desmatamento/",
+   "summary": "Primeira leitura brasileira dos dois mapas: o de fósseis usa arquétipos em três pilares (demanda, oferta, resiliência macroeconômica) e quatro quadrantes, sem classificar países; o de florestas é abrangente, centrado em mobilização financeira e bioeconomia, mas voltado à implementação nacional. Unterstell: sucesso medido pela queda da dependência fóssil, não pelo número de planos. Pouca expectativa de entrar na cover decision em Antalya, mas podem subsidiar o GST2; Capobianco levará os roadmaps a Lula.",
+   "tracks": [
+    "TAFF e fósseis",
+    "Florestas",
+    "GST2 e IPCC"
+   ],
+   "quotes": [
+    "Unterstell — \"seu sucesso deverá ser medido pelo declínio da dependência de fósseis, não pelo número de planos produzidos.\"",
+    "\"Os mapas do caminho seguem como processos à parte da agenda de negociações.\""
+   ],
+   "first_seen": "2026-11-06T12:15:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "germanwatch-2026-11-03-electrifying",
+   "institution": "Germanwatch",
+   "type": "relatório",
+   "title": "Electrifying Climate Action. Opportunities for COP31",
+   "date": "2026-11-03",
+   "authors": "Germanwatch",
+   "url": "https://www.germanwatch.org/en/93615",
+   "summary": "Único scorecard explícito para Antalya, com três critérios: implementação visível do Acordo de Paris, fortalecimento do processo da UNFCCC (Action Agenda com responsabilidades, prazos e monitoramento; desenho do GST2) e mobilização de financiamento adequado. Exige ancorar o 35 por 35 em renováveis, propõe grupo de países dispostos a pioneirar reformas se não houver consenso e põe número em perdas e danos: US$ 50 bi na reposição de 2027, subindo a ~US$ 400 bi em 2035. Já incorporado ao guia.",
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação",
+    "Perdas e danos",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-06T09:00:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "ituc-2026-10-08-demands-cop31",
+   "institution": "ITUC",
+   "type": "briefing",
+   "title": "ITUC demands for COP31",
+   "date": "2026-10-08",
+   "authors": "ITUC (Confederação Sindical Internacional)",
+   "url": "https://www.ituc-csi.org/ituc-demands-for-cop31",
+   "summary": "Documento de posição sindical para Antalya (versões em inglês, francês, espanhol, árabe e turco): integra direitos dos trabalhadores e transição justa à política climática, com remissão ao policy paper 'Just Transition for climate action: Labour rights at the heart of climate policy' (26 out). É a referência sindical para a operacionalização do mecanismo de transição justa (BAM) — modalidades, funções e arranjos institucionais — e para a revisão do JTWP. O PDF (cop31_demands_2026_en.pdf) não pôde ser lido pelo monitor.",
+   "tracks": [
+    "Transição justa",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"Workers and trade union representatives must be at the core of any discussion about climate change.\"",
+    "\"emphasising the integration of workers' rights and Just Transition into climate policy\""
+   ],
+   "first_seen": "2026-11-07T11:37:00-03:00",
+   "lang": "en"
+  }
+ ],
+ "social_round": {
+  "timestamp": "2026-11-07T14:42:00-03:00",
+  "label": "7 nov 2026, 14:42 (Brasília)",
+  "accounts_checked": 37,
+  "blocked": 3,
+  "new_items": 10,
+  "cadence": "a cada 4 horas",
+  "blocked_accounts": [
+   "ClimateChampions (X)",
+   "EUClimateAction (X)",
+   "CarbonPulse (X)"
+  ]
+ }
 }
