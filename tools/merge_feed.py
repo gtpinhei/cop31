@@ -46,7 +46,12 @@ def main(paths):
         for it in new:
             k = key(it)
             if k not in items or (it.get("first_seen") or "") >= (items[k].get("first_seen") or ""):
+                # keep translations already on file when the incoming copy lacks them
+                if k in items and items[k].get("summary_i18n") and not it.get("summary_i18n"):
+                    it["summary_i18n"] = items[k]["summary_i18n"]
                 items[k] = it
+            elif not items[k].get("summary_i18n") and it.get("summary_i18n"):
+                items[k]["summary_i18n"] = it["summary_i18n"]
     if not feed.get("social_round"):
         feed.pop("social_round", None)
     out = sorted(items.values(), key=lambda it: ((it.get("date") or ""), (it.get("first_seen") or "")), reverse=True)

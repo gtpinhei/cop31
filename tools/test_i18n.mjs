@@ -17,6 +17,7 @@ for (const [k, v] of Object.entries(pt)) {
   else fake[k] = "[en]" + v;
 }
 const realLang = process.argv[2]; // optional: test a real i18n/<lang>.json
+const LANGCODE = realLang || "en";
 const dict = realLang ? JSON.parse(fs.readFileSync(path.join(ROOT, "i18n", realLang + ".json"), "utf8")) : fake;
 
 const dom = new JSDOM(html, { runScripts: "outside-only", url: "https://cop31.grupotrie.com.br/", pretendToBeVisual: true,
@@ -55,6 +56,11 @@ assert(txt("#countdown").length > 0, "countdown: " + txt("#countdown"));
 assert(!!d.getElementById("navFeedCount") && d.getElementById("navFeedCount").textContent !== "", "feed badge kept alive: " + d.getElementById("navFeedCount").textContent);
 const dayHeader = txt("#feedList .feed-day");
 assert(dayHeader.length > 0, "feed day header: " + dayHeader);
+{ // feed summaries follow the viewed language
+  const sums = [...d.querySelectorAll("#feedList .fi-sum")].map(e => e.textContent);
+  const withI18n = feed.items.filter(i => i.summary_i18n && i.summary_i18n[LANGCODE]).map(i => i.summary_i18n[LANGCODE]);
+  assert(sums.length > 0 && sums.every(t => withI18n.includes(t)), "feed summaries in " + LANGCODE + ": " + (sums[0] || "").slice(0, 50));
+}
 // search still works (positions view)
 w.location.hash = "#posicoes"; w.dispatchEvent(new w.Event("hashchange")); await sleep(10);
 d.getElementById("q").value = "adapt"; d.getElementById("q").dispatchEvent(new w.Event("input"));

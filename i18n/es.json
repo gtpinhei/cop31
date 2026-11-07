@@ -857,5 +857,17 @@
  "d:Workshops on means of implementation": "Talleres sobre medios de implementación",
  "d:Workshops on transboundary aspects": "Talleres sobre aspectos transfronterizos",
  "d:Workshops organised in conjunction with adaptation events": "Talleres organizados junto con eventos de adaptación",
- "d:Workshops undertaken on key adaptation topics": "Talleres realizados sobre temas clave de adaptación"
+ "d:Workshops undertaken on key adaptation topics": "Talleres realizados sobre temas clave de adaptación",
+ "d:notícia": "noticia",
+ "d:release": "comunicado de prensa",
+ "d:análise": "análisis",
+ "d:relatório": "informe",
+ "d:boletim": "boletín",
+ "d:briefing": "nota informativa",
+ "d:comunicado": "comunicado",
+ "d:explicador": "explicativo",
+ "d:blog": "blog",
+ "d:opinião": "opinión",
+ "d:evento": "evento",
+ "d:ferramenta": "herramienta"
 }

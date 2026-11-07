@@ -857,5 +857,17 @@
  "d:Workshops on means of implementation": "关于实施手段的研讨会",
  "d:Workshops on transboundary aspects": "关于跨境问题的研讨会",
  "d:Workshops organised in conjunction with adaptation events": "与适应活动同期举办的研讨会",
- "d:Workshops undertaken on key adaptation topics": "围绕关键适应议题开展的研讨会"
+ "d:Workshops undertaken on key adaptation topics": "围绕关键适应议题开展的研讨会",
+ "d:notícia": "新闻",
+ "d:release": "新闻稿",
+ "d:análise": "分析",
+ "d:relatório": "报告",
+ "d:boletim": "简报",
+ "d:briefing": "情况简报",
+ "d:comunicado": "声明",
+ "d:explicador": "解读",
+ "d:blog": "博客",
+ "d:opinião": "观点",
+ "d:evento": "活动",
+ "d:ferramenta": "工具"
 }

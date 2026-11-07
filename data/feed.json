@@ -1,16 +1,19 @@
 {
  "schema": 1,
- "generated_at": "2026-11-07T17:12:00-03:00",
+ "generated_at": "2026-11-07T18:12:00-03:00",
  "round": {
-  "timestamp": "2026-11-07T17:12:00-03:00",
-  "label": "7 nov 2026, 17:12 (Brasília)",
-  "sites_checked": 20,
-  "blocked": 1,
+  "timestamp": "2026-11-07T18:12:00-03:00",
+  "label": "7 nov 2026, 18:12 (Brasília)",
+  "sites_checked": 53,
+  "blocked": 4,
   "new_items": 0,
-  "fetches": "20 de 60",
+  "fetches": "54 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Climate Analytics (press releases)"
+   "UNEP",
+   "IEA",
+   "We Mean Business",
+   "ITUC (timeout)"
   ]
  },
  "tracks": [
@@ -32,6 +35,113 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261107-bowen-discurso",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "18:28",
+   "text": "“The world is looking for success at COP31 and looking for a sign that international cooperation and multilateralism can work.” Addressing the COP31 team and young people in Antalya, Australia’s Minister for Climate Change and Energy Chris Bowen highlighted the significance of […]",
+   "summary": "A presidência divulga fala de Chris Bowen à equipe da COP31 e a jovens em Antalya: o mundo busca em Antalya um sinal de que a cooperação internacional e o multilateralismo ainda funcionam.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-07T18:47:55-03:00",
+   "lang": "en",
+   "summary_i18n": {
+    "en": "The Presidency publishes Chris Bowen’s remarks to the COP31 team and young people in Antalya: the world is looking to Antalya for a sign that international cooperation and multilateralism still work.",
+    "es": "La Presidencia difunde el discurso de Chris Bowen al equipo de la COP31 y a jóvenes en Antalya: el mundo busca en Antalya una señal de que la cooperación internacional y el multilateralismo aún funcionan.",
+    "fr": "La présidence diffuse l’intervention de Chris Bowen devant l’équipe de la COP31 et des jeunes à Antalya : le monde attend d’Antalya un signal que la coopération internationale et le multilatéralisme fonctionnent encore.",
+    "ru": "Председательство опубликовало выступление Криса Боуэна перед командой КС-31 и молодёжью в Анталье: мир ждёт от Антальи сигнала, что международное сотрудничество и многосторонность по-прежнему работают.",
+    "zh": "主席国发布了克里斯·鲍恩在安塔利亚向COP31团队和青年发表的讲话：世界期待安塔利亚发出信号，表明国际合作与多边主义依然有效。",
+    "ar": "تنشر الرئاسة كلمة كريس بوين أمام فريق مؤتمر الأطراف الحادي والثلاثين والشباب في أنطاليا: العالم يتطلع إلى أنطاليا لإشارة بأن التعاون الدولي والتعددية لا يزالان يعملان."
+   }
+  },
+  {
+   "id": "x-turkiyecop31-20261107-kurum-jovens",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "18:12",
+   "text": "\"Standing side by side for a common purpose is the language of the future,\" COP31 President-Designate Murat Kurum told young people from all corners of the world. @murat_kurum #COP31 #COP31Türkiye #COP31Antalya",
+   "summary": "Kurum, presidente-designado da COP31, a jovens de todo o mundo em Antalya: “estar lado a lado por um propósito comum é a linguagem do futuro”.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-07T18:47:55-03:00",
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Kurum, COP31 President-Designate, to young people from around the world in Antalya: “standing side by side for a common purpose is the language of the future.”",
+    "es": "Kurum, presidente designado de la COP31, a jóvenes de todo el mundo en Antalya: «estar codo con codo por un propósito común es el lenguaje del futuro».",
+    "fr": "Kurum, président désigné de la COP31, à des jeunes du monde entier à Antalya : « se tenir côte à côte pour un but commun est le langage de l’avenir ».",
+    "ru": "Курум, назначенный председатель КС-31, молодёжи со всего мира в Анталье: «стоять плечом к плечу ради общей цели — это язык будущего».",
+    "zh": "COP31候任主席库鲁姆对安塔利亚的各国青年说：“为共同目标并肩而立，是未来的语言。”",
+    "ar": "كوروم، الرئيس المعيّن لمؤتمر الأطراف الحادي والثلاثين، مخاطبًا شبابًا من أنحاء العالم في أنطاليا: «الوقوف جنبًا إلى جنب من أجل غاية مشتركة هو لغة المستقبل»."
+   }
+  },
+  {
+   "id": "x-turkiyecop31-20261107-voluntarios",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "13:49",
+   "text": "Our energy is high as we count down to #COP31! We came together for a day of motivation with COP31 Volunteers, joined by COP31 President-Designate Murat Kurum, Director of Conference Affairs Wasim Mir and Australia’s Minister for Climate Change and Energy Chris Bowen. Together, […]",
+   "summary": "Dia de motivação com os voluntários da COP31 em Antalya, com Kurum, o diretor de assuntos da conferência Wasim Mir e Chris Bowen — sinal da copresidência turco-australiana já operando no local.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T18:47:55-03:00",
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Motivation day with COP31 volunteers in Antalya, with Kurum, conference affairs director Wasim Mir and Chris Bowen — a sign the Türkiye–Australia co-presidency is already operating on site.",
+    "es": "Jornada de motivación con los voluntarios de la COP31 en Antalya, con Kurum, el director de asuntos de la conferencia Wasim Mir y Chris Bowen: señal de que la copresidencia Türkiye-Australia ya opera en el lugar.",
+    "fr": "Journée de motivation avec les bénévoles de la COP31 à Antalya, avec Kurum, le directeur des affaires de la conférence Wasim Mir et Chris Bowen : signe que la coprésidence Türkiye-Australie fonctionne déjà sur place.",
+    "ru": "День мотивации для волонтёров КС-31 в Анталье с участием Курума, директора по вопросам конференции Васима Мира и Криса Боуэна — признак того, что сопредседательство Турции и Австралии уже работает на месте.",
+    "zh": "COP31志愿者动员日在安塔利亚举行，库鲁姆、大会事务主任瓦西姆·米尔和克里斯·鲍恩出席——表明土耳其与澳大利亚的共同主席团已在现场运作。",
+    "ar": "يوم تحفيزي لمتطوعي مؤتمر الأطراف الحادي والثلاثين في أنطاليا بحضور كوروم ومدير شؤون المؤتمر وسيم مير وكريس بوين، في إشارة إلى أن الرئاسة المشتركة بين تركيا وأستراليا تعمل بالفعل في الموقع."
+   }
+  },
+  {
+   "id": "x-murat_kurum-20261107-antalya-mudou",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "17:31",
+   "text": "COP31’de bizim için asıl başarı, alınan kararların insan hayatında karşılık bulmasıdır. 20 Kasım’da dünya Antalya’dan ayrılırken şunu söylemeli: Antalya’da bir şeyler değişti.",
+   "summary": "Kurum define o critério de sucesso da presidência: decisões que se traduzam na vida das pessoas; em 20 de novembro o mundo deve sair de Antalya dizendo que “algo mudou em Antalya”.",
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-07T18:47:55-03:00",
+   "lang": "tr",
+   "summary_i18n": {
+    "en": "Kurum sets the Presidency’s test of success: decisions that translate into people’s lives; on 20 November the world should leave Antalya saying that “something changed in Antalya.”",
+    "es": "Kurum fija el criterio de éxito de la Presidencia: decisiones que se traduzcan en la vida de las personas; el 20 de noviembre el mundo debe salir de Antalya diciendo que «algo cambió en Antalya».",
+    "fr": "Kurum fixe le critère de réussite de la présidence : des décisions qui se traduisent dans la vie des gens ; le 20 novembre, le monde doit quitter Antalya en disant que « quelque chose a changé à Antalya ».",
+    "ru": "Курум определяет критерий успеха председательства: решения, меняющие жизнь людей; 20 ноября мир должен покинуть Анталью со словами, что «в Анталье что-то изменилось».",
+    "zh": "库鲁姆提出主席国的成功标准：决策要转化为人们生活中的改变；11月20日，世界离开安塔利亚时应当说“安塔利亚有所改变”。",
+    "ar": "يحدد كوروم معيار نجاح الرئاسة: قرارات تنعكس على حياة الناس؛ وفي 20 نوفمبر ينبغي أن يغادر العالم أنطاليا قائلًا إن «شيئًا ما تغيّر في أنطاليا»."
+   }
+  },
+  {
    "id": "x-turkiyecop31-20261107-bowen",
    "kind": "post",
    "platform": "x",
@@ -47,7 +157,15 @@
     "Presidência e anfitrião"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Kurum met Chris Bowen in Antalya; the Presidency reaffirms that Australia will lead the negotiations under the COP31 Presidency and calls for strong cooperation on climate diplomacy.",
+    "es": "Kurum se reunió con Chris Bowen en Antalya; la presidencia reafirma que Australia conducirá las negociaciones bajo la Presidencia de la COP31 y habla de una cooperación sólida en la diplomacia climática.",
+    "fr": "Kurum s'est entretenu avec Chris Bowen à Antalya ; la présidence réaffirme que l'Australie conduira les négociations sous la présidence de la COP31 et appelle à une coopération forte en matière de diplomatie climatique.",
+    "ru": "Курум провёл встречу с Крисом Боуэном в Анталье; председательство подтверждает, что Австралия будет вести переговоры под председательством КС-31, и говорит о прочном сотрудничестве в климатической дипломатии.",
+    "zh": "Kurum在安塔利亚会见Chris Bowen；主席国重申，澳大利亚将在COP31主席国框架下主导谈判，并表示将在气候外交领域开展强有力的合作。",
+    "ar": "التقى Kurum بـ Chris Bowen في أنطاليا؛ وتؤكد الرئاسة أن أستراليا ستقود المفاوضات في إطار رئاسة COP31، وتدعو إلى تعاون قوي في الدبلوماسية المناخية."
+   }
   },
   {
    "id": "x-murat_kurum-20261107-bowen",
@@ -65,7 +183,15 @@
     "Presidência e anfitrião"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "tr"
+   "lang": "tr",
+   "summary_i18n": {
+    "en": "Kurum, in Turkish: meeting with Bowen to assess joint steps with Australia, which will lead the negotiations under the Turkish Presidency; pledges to turn shared will into strong cooperation.",
+    "es": "Kurum, en turco: encuentro con Bowen para evaluar los pasos conjuntos con Australia, que conducirá las negociaciones bajo la presidencia turca; promete convertir la voluntad común en una cooperación sólida.",
+    "fr": "Kurum, en turc : rencontre avec Bowen pour évaluer les étapes communes avec l'Australie, qui conduira les négociations sous la présidence turque ; il promet de transformer la volonté commune en une coopération forte.",
+    "ru": "Курум, на турецком языке: встреча с Боуэном для оценки совместных шагов с Австралией, которая будет вести переговоры под турецким председательством; обещает превратить общую волю в прочное сотрудничество.",
+    "zh": "Kurum以土耳其语发布的内容显示：他与Bowen会晤，评估与澳大利亚联合推进的步骤；澳大利亚将在土耳其主席国框架下主导谈判，并承诺把共同意愿转化为强有力的合作。",
+    "ar": "Kurum، باللغة التركية: لقاء مع Bowen لتقييم الخطوات المشتركة مع أستراليا، التي ستقود المفاوضات تحت الرئاسة التركية؛ ويتعهد بتحويل الإرادة المشتركة إلى تعاون قوي."
+   }
   },
   {
    "id": "x-turkiyecop31-20261107-revisao",
@@ -84,7 +210,15 @@
     "Agenda de Ação"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Kurum's final review meeting with UN representatives and Australian authorities on summit preparations and the Action Agenda, hours before the opening.",
+    "es": "Reunión final de revisión de Kurum con representantes de la ONU y autoridades australianas sobre los preparativos de la cumbre y la Agenda de Acción, a horas de la inauguración.",
+    "fr": "Réunion finale d'examen de Kurum avec des représentants de l'ONU et des autorités australiennes sur les préparatifs du sommet et l'Agenda d'action, à quelques heures de l'ouverture.",
+    "ru": "Заключительная обзорная встреча Курума с представителями ООН и австралийскими властями по подготовке саммита и Повестке действий за несколько часов до открытия.",
+    "zh": "Kurum与联合国代表及澳大利亚官员举行最后一次审查会议，讨论峰会筹备工作和行动议程，距开幕仅剩数小时。",
+    "ar": "اجتماع المراجعة النهائي لـ Kurum مع ممثلين عن الأمم المتحدة وسلطات أسترالية بشأن استعدادات القمة وأجندة العمل، قبل ساعات من الافتتاح."
+   }
   },
   {
    "id": "x-murat_kurum-20261107-revisao",
@@ -103,7 +237,15 @@
     "Agenda de Ação"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "tr"
+   "lang": "tr",
+   "summary_i18n": {
+    "en": "Kurum reports the last pre-summit assessment with the UN and Australia, covering preparations and the Action Agenda; pledges a COP that demonstrates Türkiye's leadership on climate diplomacy.",
+    "es": "Kurum informa sobre la última evaluación previa a la cumbre con la ONU y Australia, que abarca los preparativos y la Agenda de Acción; promete una COP que demuestre el liderazgo turco en la diplomacia climática.",
+    "fr": "Kurum fait le point sur la dernière évaluation avant le sommet avec l'ONU et l'Australie, couvrant les préparatifs et l'Agenda d'action ; il promet une COP qui témoigne du leadership de la Türkiye en diplomatie climatique.",
+    "ru": "Курум сообщает о последней оценке перед саммитом с ООН и Австралией, охватывающей подготовку и Повестку действий; обещает КС, которая продемонстрирует лидерство Турции в климатической дипломатии.",
+    "zh": "Kurum通报了与联合国和澳大利亚进行的最后一次会前评估，内容涵盖筹备工作和行动议程；他承诺举办一届体现土耳其在气候外交中领导力的COP。",
+    "ar": "يعرض Kurum آخر تقييم قبل القمة مع الأمم المتحدة وأستراليا، ويشمل الاستعدادات وأجندة العمل؛ ويتعهد بمؤتمر يُظهر قيادة تركيا في الدبلوماسية المناخية."
+   }
   },
   {
    "id": "x-ItamaratyGovBr-20261107-lula-cop31",
@@ -113,7 +255,7 @@
    "institution": "Itamaraty",
    "verified": false,
    "date": "2026-11-07",
-   "time": null,
+   "time": "10:14",
    "text": "Participação do Presidente Luiz Inácio Lula da Silva na COP 31 na Turquia: gov.br/mre/pt-br/cana…",
    "summary": "Itamaraty divulga nota oficial sobre a participação do presidente Lula na COP31 em Antalya.",
    "url": "https://x.com/ItamaratyGovBr",
@@ -121,7 +263,15 @@
     "Presidência e anfitrião"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Itamaraty issues an official note on President Lula's participation in COP31 in Antalya.",
+    "es": "Itamaraty publica una nota oficial sobre la participación del presidente Lula en la COP31 en Antalya.",
+    "fr": "Le ministère brésilien des Affaires étrangères (Itamaraty) publie une note officielle sur la participation du président Lula à la COP31 à Antalya.",
+    "ru": "Итамарати опубликовало официальное сообщение об участии президента Лулы в КС-31 в Анталье.",
+    "zh": "巴西外交部（Itamaraty）发布官方声明，介绍卢拉总统出席安塔利亚COP31的安排。",
+    "ar": "تنشر Itamaraty بياناً رسمياً بشأن مشاركة الرئيس Lula في COP31 في أنطاليا."
+   }
   },
   {
    "id": "unfccc-2026-11-07-quarterly-update-q3",
@@ -148,7 +298,15 @@
     "\"Global climate finance flows averaged USD 1.9 trillion a year in 2023–2024, up 32% from 2021–2022.\""
    ],
    "first_seen": "2026-11-07T12:12:46-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Featured on 7 Nov on the unfccc.int/cop31 page as a guide to the 'key issues on the table'. Stiell says multilateral climate action 'is delivering important progress', but that collective progress remains 'substantially insufficient'; the Türkiye–Australia Presidency frames Antalya as a 'COP of implementation and acceleration'. It lists what COP31 decides: formal launch of GST2 (two co-facilitators for the technical dialogue still to be named; syntheses in early 2027), whether the MWP continues beyond 2026, operationalization of the UAE Framework for resilience and the LEG review, and the just transition mechanism (informal workshop in Sydney). Figures: 157 Parties with new NDCs; 81 NAPs; global climate finance flows of US$1.9 trillion a year in 2023–24 (+32%); about 330 side events selected from 1,400 requests; a US$1.4 million shortfall in the participation fund. Yearbook of Global Climate Action 2026 'coming soon'.",
+    "es": "Destacado el 7 de noviembre en unfccc.int/cop31 como guía de las 'cuestiones clave sobre la mesa'. Stiell afirma que el multilateralismo climático 'está logrando avances importantes', pero que el progreso colectivo sigue siendo 'sustancialmente insuficiente'; la presidencia Türkiye–Australia presenta Antalya como 'COP de implementación y aceleración'. Enumera lo que decidirá la COP31: el lanzamiento formal del GST2 (dos cofacilitadores del diálogo técnico todavía por designar; síntesis a comienzos de 2027), la continuidad o no del MWP después de 2026, la puesta en marcha del Marco de los EAU para la resiliencia y la revisión del LEG, y el mecanismo de transición justa (taller informal en Sídney). Cifras: 157 Partes con nuevas NDC; 81 NAP; flujos globales de financiamiento climático de US$ 1,9 billones al año en 2023–24 (+32%); unos 330 eventos paralelos seleccionados entre 1.400 solicitudes; una brecha de US$ 1,4 millones en el Fondo de Participación. Yearbook of Global Climate Action 2026 'próximamente'.",
+    "fr": "Mis en avant le 7 novembre sur la page unfccc.int/cop31 comme guide des « questions clés sur la table ». Stiell affirme que le multilatéralisme climatique « apporte des progrès importants », mais que les progrès collectifs restent « substantiellement insuffisants » ; la présidence Türkiye–Australie présente Antalya comme une « COP de mise en œuvre et d'accélération ». Décisions attendues à la COP31 : lancement formel du GST2 (deux co-facilitateurs du dialogue technique restant à désigner ; synthèses début 2027), poursuite ou non du MWP après 2026, opérationnalisation du cadre des EAU pour la résilience et examen du LEG, et mécanisme de transition juste (atelier informel à Sydney). Chiffres : 157 Parties ont soumis de nouvelles NDC ; 81 NAP ; flux mondiaux de financement climatique de 1,9 billion de dollars par an en 2023-2024 (+32 %) ; environ 330 manifestations parallèles retenues sur 1 400 demandes ; déficit de 1,4 million de dollars dans le fonds de participation. Annuaire mondial de l'action climatique 2026 « prochainement ».",
+    "ru": "Выделено 7 ноября на странице unfccc.int/cop31 как путеводитель по «ключевым вопросам на столе». Стиэлл заявляет, что многосторонность в климатической сфере «обеспечивает важный прогресс», но коллективный прогресс остаётся «существенно недостаточным»; председательство Турция–Австралия характеризует Анталью как «КС реализации и ускорения». Перечислены решения КС-31: официальный запуск GST2 (два сопредседателя технического диалога ещё не назначены; синтезы в начале 2027 года); продолжение или прекращение MWP после 2026 года; оперативное внедрение рамок ОАЭ по устойчивости и пересмотр LEG; механизм справедливого перехода (неформальный семинар в Сиднее). Цифры: 157 Сторон с новыми NDC; 81 NAP; глобальные потоки климатического финансирования 1,9 трлн долл. США в год в 2023–2024 гг. (+32%); около 330 параллельных мероприятий из 1400 заявок; разрыв в 1,4 млн долл. в фонде участия. Yearbook of Global Climate Action 2026 «скоро».",
+    "zh": "11月7日，UNFCCC网站unfccc.int/cop31将其列为“待解决关键问题”指南予以推荐。Stiell表示，气候多边主义“正在取得重要进展”，但集体进展仍“严重不足”；土耳其–澳大利亚主席国将安塔利亚定位为“实施与加速之COP”。COP31将作出的决定包括：正式启动第二次全球盘点（GST2），技术对话的两名共同推动者尚待任命，综合报告将于2027年初发布；2026年后是否延续MWP；阿联酋框架在韧性方面的落实及LEG的审议；以及公正转型机制（悉尼非正式研讨会）。数据显示：157个缔约方提交了新的NDC，81份NAP，2023–24年全球气候资金流量为每年1.9万亿美元（增长32%）；从1400份申请中选出约330场边会；参与基金存在140万美元缺口。《2026年全球气候行动年鉴》即将发布。",
+    "ar": "أُبرزت في 7 نوفمبر على الصفحة unfccc.int/cop31 بوصفها دليلاً إلى “القضايا الرئيسية على الطاولة”. يقول Stiell إن العمل المناخي متعدد الأطراف “يحقق تقدماً مهماً”، لكن التقدم الجماعي ما زال “غير كافٍ إلى حد كبير”؛ وتصف رئاسة تركيا وأستراليا أنطاليا بأنها “مؤتمر التنفيذ والتسريع”. ويحدد ما ستقرره COP31: الإطلاق الرسمي لـ GST2، مع تعيين ميسّرَين مشاركين للحوار الفني ما زال معلقاً، وإصدار الخلاصات مطلع 2027؛ ومدى استمرار برنامج عمل التخفيف (MWP) بعد 2026؛ وتفعيل إطار الإمارات للصمود ومراجعة LEG؛ وآلية الانتقال العادل (ورشة غير رسمية في سيدني). الأرقام: 157 طرفاً قدّمت مساهمات محددة وطنياً جديدة؛ و81 خطة وطنية للتكيف (NAPs)؛ والتدفقات العالمية للتمويل المناخي بلغت 1.9 تريليون دولار أمريكي سنوياً في 2023–2024 (بزيادة 32%)؛ واختيرت نحو 330 فعالية جانبية من أصل 1,400 طلب؛ وفجوة قدرها 1.4 مليون دولار في صندوق المشاركة. ومن المنتظر قريباً صدور Yearbook of Global Climate Action 2026."
+   }
   },
   {
    "id": "climateanalytics-2026-11-06-slcf-overshoot",
@@ -170,7 +328,15 @@
     "\"The 1.5°C warming limit enshrined in the Paris Agreement remains the critical benchmark\""
    ],
    "first_seen": "2026-11-07T16:52:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Policy brief (with technical annex) quantifying, using recent integrated model scenarios, how cuts to short-lived climate forcers (methane, HFCs, black carbon) affect the rate of warming, peak temperature and the return below 1.5 °C before 2100, alone and combined with three other levers: transition away from fossil fuels (TAFF), reduced LULUCF emissions and carbon removal. It starts from the premise that the limit could be overshot as early as 2030 and argues the focus should shift to reducing the magnitude and duration of overshoot. This is the study Carbon Pulse covered on 5 Nov (peak of ~1.7 °C around 2050). The page does not cite COP31 or GST2, but it feeds Stiell's priority on methane and the overshoot framing of the cover decision. Full figures appear only in the PDF, which the monitor did not read.",
+    "es": "Documento de políticas (con anexo técnico) que cuantifica, a partir de escenarios recientes de modelos integrados, cómo los recortes de forzantes climáticos de vida corta (metano, HFC, carbono negro) afectan la tasa de calentamiento, el pico de temperatura y el retorno por debajo de 1,5 °C antes de 2100, por separado y combinados con otras tres palancas: salida de los combustibles fósiles (TAFF), reducción de las emisiones de LULUCF y remoción de carbono. Parte de la premisa de que el umbral podría superarse ya en 2030 y de que el foco debe desplazarse hacia reducir la magnitud y la duración del sobrepaso; es el estudio que cubrió Carbon Pulse el 5 de noviembre (pico de ~1,7 °C hacia 2050). La página no menciona la COP31 ni el GST2, pero alimenta la prioridad de Stiell sobre el metano y el encuadre del sobrepaso en la decisión de cobertura. Las cifras completas solo figuran en el PDF, que el monitor no leyó.",
+    "fr": "Note de synthèse (avec annexe technique) quantifiant, à partir de scénarios récents de modèles intégrés, l'effet de la réduction des forçages climatiques de courte durée (méthane, HFC, carbone noir) sur le taux de réchauffement, le pic de température et le retour sous 1,5 °C avant 2100, seuls ou combinés à trois autres leviers : sortie des énergies fossiles (TAFF), réduction des émissions du LULUCF et élimination du carbone. Elle part du principe que le seuil pourrait être dépassé dès 2030 et que l'attention doit se porter sur la réduction de l'ampleur et de la durée du dépassement (overshoot) ; c'est l'étude couverte par Carbon Pulse le 5 novembre (pic d'environ 1,7 °C vers 2050). La page ne mentionne ni la COP31 ni le GST2, mais alimente la priorité de Stiell sur le méthane et le cadrage du dépassement dans la décision de couverture. Les chiffres complets ne figurent que dans le PDF, non lu par le moniteur.",
+    "ru": "Политический бриф (с техническим приложением), в котором на основе недавних сценариев интегрированных моделей оценивается, как сокращение short-lived climate forcers (метан, ГФУ, черный углерод) влияет на темп потепления, пик температуры и возврат ниже 1,5 °C до 2100 года, отдельно и в сочетании с тремя другими рычагами: отказом от ископаемого топлива (TAFF), снижением выбросов LULUCF и удалением углерода. Исходит из того, что порог может быть превышен уже в 2030 году, и предлагает сместить фокус на уменьшение масштаба и продолжительности превышения; это исследование, которое Carbon Pulse освещал 5 ноября (пик около 1,7 °C примерно к 2050 году). На странице не упоминаются COP31 и GST2, но оно подкрепляет приоритет Стиэлла по метану и рамку превышения в cover decision. Полные цифры есть только в PDF, который монитор не читал.",
+    "zh": "政策简报（附技术附件）量化了近期综合模型情景下，短寿命气候强迫因子（甲烷、HFC、黑碳）减排对升温速率、峰值温度以及2100年前回落至1.5 °C以下的影响，既单独考察，也与三项其他杠杆结合考察：摆脱化石燃料转型（TAFF）、LULUCF排放削减和碳去除。该简报假定超过1.5 °C的过冲可能早在2030年发生，并主张工作重心应转向降低过冲的幅度和持续时间。Carbon Pulse于11月5日报道的正是这项研究（升温峰值约1.7 °C，出现在2050年前后）。该页面未提及COP31或GST2，但为Stiell关于甲烷的优先事项以及总括决定中的过冲框架提供依据。完整数据仅见于PDF，监测程序未予读取。",
+    "ar": "ورقة سياسات مع ملحق فني تحسب، استناداً إلى أحدث سيناريوهات النماذج المتكاملة، كيف يؤثر خفض المؤثرات المناخية قصيرة العمر (الميثان ومركبات HFC والكربون الأسود) في معدل الاحترار وذروة درجة الحرارة وعودتها إلى ما دون 1.5 درجة مئوية قبل 2100، منفردةً ومع ثلاث رافعات أخرى: الانتقال بعيداً عن الوقود الأحفوري (TAFF)، وخفض انبعاثات LULUCF، وإزالة الكربون. تنطلق الورقة من افتراض أن تجاوز الحد قد يحدث بحلول 2030، وأن التركيز يجب أن ينتقل إلى تقليص حجم التجاوز ومدته. وقد غطّت Carbon Pulse هذه الدراسة في 5 نوفمبر (ذروة نحو 1.7 درجة مئوية حوالي 2050). لا تذكر الصفحة COP31 ولا GST2، لكنها تغذي أولوية Stiell المتعلقة بالميثان وإطار التجاوز في القرار الجامع. الأرقام الكاملة واردة في ملف PDF فقط، ولم تقرأه أداة الرصد."
+   }
   },
   {
    "id": "x-MarinaSilva-20261106-oque-e-cop",
@@ -188,7 +354,15 @@
     "Espaço cívico"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Marina Silva publishes an explainer video on what the COP is, on the eve of Antalya.",
+    "es": "Marina Silva publica un video explicativo sobre qué es la COP, en vísperas de Antalya.",
+    "fr": "Marina Silva publie une vidéo explicative sur ce qu'est une COP, à la veille d'Antalya.",
+    "ru": "Марина Силва опубликовала обучающее видео о том, что такое КС, накануне Антальи.",
+    "zh": "Marina Silva发布解释性视频，介绍什么是COP，正值安塔利亚会议召开前夕。",
+    "ar": "تنشر Marina Silva مقطعاً مصوراً توضيحياً عمّا هي COP، عشية أنطاليا."
+   }
   },
   {
    "id": "x-LulaOficial-20261106-cnpe",
@@ -207,7 +381,15 @@
     "Transição justa"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Lula announces that the CNPE has approved guidelines to gradually reduce dependence on fossil fuels and build a just and planned energy transition, a signal from Brazil on the eve of COP31.",
+    "es": "Lula anuncia que el CNPE aprobó directrices para reducir gradualmente la dependencia de los combustibles fósiles y construir una transición energética justa y planificada, señal de Brasil en la víspera de la COP31.",
+    "fr": "Lula annonce que le CNPE a approuvé des lignes directrices visant à réduire progressivement la dépendance aux combustibles fossiles et à construire une transition énergétique juste et planifiée, signal du Brésil à la veille de la COP31.",
+    "ru": "Лула объявил, что CNPE утвердил руководящие принципы постепенного снижения зависимости от ископаемого топлива и построения справедливого и планового энергетического перехода; сигнал Бразилии накануне КС-31.",
+    "zh": "卢拉宣布，CNPE已批准相关指导方针，旨在逐步减少对化石燃料的依赖，并建立公正、有计划的能源转型，这是巴西在COP31开幕前夕发出的信号。",
+    "ar": "يعلن Lula أن CNPE أقرّ توجيهات لتقليص الاعتماد على الوقود الأحفوري تدريجياً وبناء انتقال طاقي عادل ومخطط؛ وهي إشارة برازيلية عشية COP31."
+   }
   },
   {
    "id": "x-fatmavarank-20261106-sbsta",
@@ -225,7 +407,15 @@
     "Presidência e anfitrião"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Varank met Adonia Ayebare, Foreign Minister of Uganda and SBSTA Chair, on the eve of the opening.",
+    "es": "Varank se reunió con Adonia Ayebare, canciller de Uganda y presidente del SBSTA, en vísperas de la inauguración.",
+    "fr": "Varank s'est entretenue avec Adonia Ayebare, ministre des Affaires étrangères de l'Ouganda et présidente de la SBSTA, à la veille de l'ouverture.",
+    "ru": "Варанк встретилась с Адонией Аябаре, министром иностранных дел Уганды и председателем SBSTA, накануне открытия.",
+    "zh": "Varank与乌干达外交部长、SBSTA主席Adonia Ayebare在开幕前夕举行会晤。",
+    "ar": "التقت Varank بـ Adonia Ayebare، وزير خارجية أوغندا ورئيس SBSTA، عشية الافتتاح."
+   }
   },
   {
    "id": "x-fatmavarank-20261106-ldc",
@@ -244,7 +434,15 @@
     "Finanças"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Varank received Ambassador Adão Soares (Timor-Leste), LDC Group Chair; the LDC Chair had already reported presenting the group's priorities for an ambitious and inclusive COP31.",
+    "es": "Varank recibió al embajador Adão Soares (Timor-Leste), presidente del Grupo LDC; el LDC Chair ya había informado de que presentó las prioridades del grupo para una COP31 ambiciosa e inclusiva.",
+    "fr": "Varank a reçu l'ambassadeur Adão Soares (Timor-Leste), président du Groupe LDC ; le président du LDC avait déjà indiqué avoir présenté les priorités du groupe pour une COP31 ambitieuse et inclusive.",
+    "ru": "Варанк приняла посла Адана Соареса (Восточный Тимор), председателя Группы НРС; председатель LDC ранее сообщал о представлении приоритетов группы для амбициозной и инклюзивной КС-31.",
+    "zh": "Varank会见了东帝汶大使Adão Soares，后者担任LDC集团主席；此前，LDC主席已表示，已向雄心勃勃、包容性强的COP31提出该集团的优先事项。",
+    "ar": "استقبلت Varank السفير Adão Soares (تيمور-ليشتي)، رئيس مجموعة LDC؛ وكان رئيس المجموعة قد أفاد بأنه عرض أولويات المجموعة من أجل COP31 طموح وشامل."
+   }
   },
   {
    "id": "x-fatmavarank-20261106-coy21",
@@ -263,7 +461,15 @@
     "Presidência e anfitrião"
    ],
    "first_seen": "2026-11-07T14:42:00-03:00",
-   "lang": "tr"
+   "lang": "tr",
+   "summary_i18n": {
+    "en": "Varank attended COY21 at Antalya University; young people are preparing the Global Youth Declaration 2026 to take to COP31.",
+    "es": "Varank participó en la COY21 en la Universidad de Antalya; los jóvenes preparan la Declaración Global de la Juventud 2026 para llevar a la COP31.",
+    "fr": "Varank a participé à la COY21 à l'Université d'Antalya ; des jeunes préparent la Déclaration mondiale de la jeunesse 2026 à présenter à la COP31.",
+    "ru": "Варанк приняла участие в COY21 в Университете Анталии; молодые люди готовят Глобальную декларацию молодёжи 2026 года для представления на КС-31.",
+    "zh": "Varank出席在安塔利亚大学举行的COY21；青年代表正在起草《2026年全球青年宣言》，将提交COP31。",
+    "ar": "شاركت Varank في COY21 بجامعة أنطاليا؛ ويُعدّ الشباب إعلان الشباب العالمي 2026 لعرضه على COP31."
+   }
   },
   {
    "id": "observatorio-do-clima-2026-11-06-expectativas-cop31",
@@ -290,7 +496,15 @@
     "Belmont — \"Não existe transição justa sem justiça racial.\""
    ],
    "first_seen": "2026-11-07T12:12:46-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Expectations document from the Brazilian network (172 members) for Antalya. COP31's success 'will be measured' by progress on an equitable transition away from fossil fuels: the 35% electrification target by 2035 alone is not enough. The COP should recognize, in a decision or in the leaders' segment, the COP30 roadmaps (fossil fuels and deforestation), and the 31 and 32 Presidencies should convene national and regional roadmaps throughout 2027, to be presented by COP32. On negotiations: operationalize the Belém–Antalya Mechanism (BAM) and review the JTWP; create the adaptation indicators task force; advance the finance work programme, the tripling of adaptation finance and the update of the US$1.3 trillion Baku-to-Belém roadmap; renew and strengthen the MWP. Geledés asks that the BAM recognize environmental racism as a structural barrier, with data disaggregated by race and gender.",
+    "es": "Documento de expectativas de la red brasileña (172 integrantes) para Antalya. El éxito de la COP31 'se medirá' por el avance hacia una transición equitativa para abandonar los combustibles fósiles: la meta de 35% de electrificación para 2035 por sí sola no basta; la COP debe reconocer, en una decisión o en el segmento de líderes, las hojas de ruta de la COP30 (fósiles y deforestación), y las presidencias 31 y 32 deben convocar hojas de ruta nacionales y regionales a lo largo de 2027, para presentarlas antes de la COP32. En las negociaciones: poner en marcha el Mecanismo Belém–Antalya (BAM) y revisar el JTWP; crear el grupo de tareas de indicadores de adaptación; avanzar en el programa de trabajo de finanzas, en la triplicación de la adaptación y en la actualización de la Hoja de Ruta de Bakú a Belém (1,3 billones); renovar y fortalecer el MWP. Geledés pide que el BAM reconozca el racismo ambiental como barrera estructural, con datos desagregados por raza y género.",
+    "fr": "Document d'attentes du réseau brésilien (172 membres) pour Antalya. Le succès de la COP31 « se mesurera » à l'avancée vers une sortie équitable des énergies fossiles : l'objectif de 35 % d'électrification d'ici 2035 ne suffit pas à lui seul ; la COP doit reconnaître, dans une décision ou lors du segment des dirigeants, les feuilles de route de la COP30 (fossiles et déforestation), et les présidences 31 et 32 doivent convoquer des feuilles de route nationales et régionales tout au long de 2027, à présenter d'ici la COP32. Dans les négociations : rendre opérationnel le Mécanisme Belém-Antalya (BAM) et réviser le JTWP ; créer le groupe de travail sur les indicateurs d'adaptation ; faire progresser le programme de travail sur le financement, le triplement du financement de l'adaptation et la mise à jour de la feuille de route Bakou–Belém de 1,3 billion de dollars ; renouveler et renforcer le MWP. Geledés demande que le BAM reconnaisse le racisme environnemental comme obstacle structurel, avec des données ventilées par race et par genre.",
+    "ru": "Документ с ожиданиями бразильской сети (172 участника) к Анталье. Успех КС-31 «будет измеряться» продвижением справедливого перехода от ископаемого топлива: одной цели в 35% электрификации к 2035 году недостаточно; КС должна признать в решении или в сегменте лидеров дорожные карты COP30 (ископаемое топливо и обезлесение), а председательства 31 и 32 должны созвать национальные и региональные дорожные карты в течение 2027 года, представить их к COP32. В переговорах: оперативно внедрить Механизм Белен–Анталья (BAM) и пересмотреть JTWP; создать целевую группу по индикаторам адаптации; продвинуть программу работы по финансам, утроение адаптации и обновление дорожной карты Баку–Белен на 1,3 трлн долл. США; обновить и усилить MWP. Geledés просит, чтобы BAM признал экологический расизм структурным барьером, с данными, разбитыми по расе и полу.",
+    "zh": "巴西网络（172名成员）发布的安塔利亚预期文件。COP31的成功“将以”公平的脱离化石燃料转型进展来衡量：仅有2035年35%的电气化目标远远不够；大会应在决定或领导人环节承认COP30的化石燃料和森林砍伐路线图，COP31和COP32主席国应在2027年内召集国家和区域路线图，并于COP32前提交。谈判方面：启动贝伦–安塔利亚机制（BAM）并审议JTWP；设立适应指标特别工作组；推进融资工作方案、适应资金增至三倍，并更新1.3万亿美元的巴库–贝伦路线图；更新并加强MWP。Geledés要求BAM承认环境种族主义是结构性障碍，并提供按种族和性别分列的数据。",
+    "ar": "وثيقة توقعات الشبكة البرازيلية (172 عضواً) لأنطاليا. يُقاس نجاح COP31 بـ“التقدم في الانتقال المنصف بعيداً عن الوقود الأحفوري”، فهدف الكهربة بنسبة 35% بحلول 2035 لا يكفي وحده. ينبغي أن يعترف المؤتمر، في قرار أو في جلسة القادة، بخارطتي الطريق اللتين قدمتهما COP30 (الوقود الأحفوري وإزالة الغابات)، وأن تدعو رئاستا 31 و32 إلى وضع خرائط طريق وطنية/إقليمية خلال 2027، تُقدَّم قبل COP32. وفي المفاوضات: تفعيل آلية بيليم–أنطاليا (BAM) ومراجعة JTWP؛ وإنشاء فرقة عمل لمؤشرات التكيف؛ والمضي في برنامج عمل التمويل ومضاعفة تمويل التكيف ثلاث مرات وتحديث خارطة طريق باكو–بيليم البالغة 1.3 تريليون دولار؛ وتجديد MWP وتعزيزه. وتطالب Geledés بأن تعترف BAM بالعنصرية البيئية حاجزاً بنيوياً، مع بيانات مصنّفة حسب العرق والنوع الاجتماعي."
+   }
   },
   {
    "id": "politica-por-inteiro-2026-11-06-cim-cnpe",
@@ -312,7 +526,15 @@
     "\"aprovou a lista dos 27 minerais críticos e estratégicos\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Roundup of federal approvals on the eve of Lula's trip to Antalya: the CNPE approved 18 guidelines for the National Roadmap for transition away from fossil fuels (not yet a plan); the CIM approved Brazil's 2nd Biennial Transparency Report and 5th National Communication, submitted to the UNFCCC, and launched IndicaClima; the CIMCE approved the list of 27 critical and strategic minerals (Decree 13,146 of 4 Nov). The text argues for tying the fossil roadmap, GST2 and the electrification target into a single implementation narrative, and warns that the race for critical minerals must not override a just transition.",
+    "es": "Balance de las aprobaciones federales en vísperas del viaje de Lula a Antalya: el CNPE aprobó 18 directrices para la Hoja de Ruta Nacional de transición para abandonar los fósiles (todavía no es un plan); la CIM aprobó el 2.º Informe Bienal de Transparencia y la 5.ª Comunicación Nacional, presentados a la UNFCCC, y lanzó IndicaClima; la CIMCE aprobó la lista de 27 minerales críticos y estratégicos (Decreto 13.146, del 4 de nov.). El texto defiende vincular la hoja de ruta de fósiles, el GST2 y la meta de electrificación en una sola narrativa de implementación, y advierte que la carrera por los minerales críticos no puede atropellar la transición justa.",
+    "fr": "Bilan des approbations fédérales à la veille du voyage de Lula à Antalya : le CNPE a approuvé 18 lignes directrices pour la feuille de route nationale de sortie des fossiles (pas encore un plan) ; le CIM a approuvé le 2e Rapport biennal de transparence et la 5e Communication nationale, soumis à la UNFCCC, et lancé l'IndicaClima ; le CIMCE a approuvé la liste de 27 minéraux critiques et stratégiques (décret 13.146 du 4 novembre). Le texte plaide pour lier la feuille de route fossile, le GST2 et l'objectif d'électrification dans un seul récit de mise en œuvre, et met en garde : la course aux minéraux critiques ne doit pas passer outre la transition juste.",
+    "ru": "Итоги федеральных одобрений накануне поездки Лулы в Анталью: CNPE утвердил 18 руководящих принципов для Национальной дорожной карты перехода от ископаемого топлива (пока не план); CIM одобрил 2-й Двухгодичный отчёт о прозрачности и 5-е Национальное сообщение, направленные в UNFCCC, и запустил IndicaClima; CIMCE утвердил перечень из 27 критических и стратегических минералов (Декрет 13.146 от 4 ноября). Текст предлагает связать дорожную карту по ископаемому топливу, GST2 и цель электрификации в единый нарратив реализации и предупреждает, что гонка за критическими минералами не должна опережать справедливый переход.",
+    "zh": "联邦审批情况汇总，正值卢拉赴安塔利亚出行之前：CNPE批准了18项指导方针，用于制定脱离化石燃料的国家路线图（尚非计划）；CIM批准了第二份两年期透明度报告和第五份国家信息通报（均已提交UNFCCC），并推出IndicaClima；CIMCE批准了27种关键和战略矿产清单（2026年11月4日第13.146号法令）。该文本主张将化石燃料路线图、GST2和电气化目标整合为统一的实施叙事，并警告关键矿产竞赛不得压倒公正转型。",
+    "ar": "حصيلة الموافقات الاتحادية عشية رحلة Lula إلى أنطاليا: وافق CNPE على 18 توجيهاً لخارطة الطريق الوطنية للانتقال بعيداً عن الوقود الأحفوري (وهي ليست خطة بعد)؛ ووافقت CIM على التقرير الثنائي الثاني للشفافية والبلاغ الوطني الخامس، المقدَّمين إلى UNFCCC، وأطلقت IndicaClima؛ ووافقت CIMCE على قائمة من 27 معدناً حرجاً واستراتيجياً (المرسوم 13.146 الصادر في 4 نوفمبر). ويدعو النص إلى ربط خارطة طريق الوقود الأحفوري وGST2 وهدف الكهربة في سردية تنفيذ واحدة، ويحذر من أن سباق المعادن الحرجة لا ينبغي أن يطغى على الانتقال العادل."
+   }
   },
   {
    "id": "politica-por-inteiro-2026-11-06-ficar-de-olho",
@@ -336,7 +558,15 @@
     "\"Até agora, 81 países em desenvolvimento apresentaram seus NAPs, e o foco migra do planejamento para a implementação.\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Talanoa's guide to Antalya, with daily updates promised. Energy transition: the COP30 fossil roadmap is useful but not negotiated; GST2 (2024–2028, concluding at CMA10) should explain why commitments are not implemented; the 35% electrification target only cuts emissions if the grid becomes cleaner. Adaptation: tripling without a formal 'home' (GGA, an African Group agenda item, a finance programme or cover decision); Belém indicators task force without agreed composition; BAR with a workshop on 10 Nov; Adaptation Fund still transitioning to the Paris Agreement; 81 NAPs submitted.",
+    "es": "Guía de Talanoa para Antalya, con la promesa de actualizaciones diarias. Transición energética: la hoja de ruta de fósiles de la COP30 es útil, pero no se negocia; el GST2 (2024–2028, conclusión en la CMA10) debe explicar por qué los compromisos no se implementan; la meta de 35% de electrificación solo reduce emisiones si la red se vuelve más limpia. Adaptación: triplicación sin 'casa' formal (GGA, tema del Grupo Africano, programa de finanzas o decisión de cobertura); grupo de tareas de los indicadores de Belém sin composición acordada; BAR con un taller el 10 de nov.; el Fondo de Adaptación todavía en transición hacia el Acuerdo de París; 81 NAP presentados.",
+    "fr": "Guide de Talanoa pour Antalya, avec promesse de mises à jour quotidiennes. Transition énergétique : la feuille de route fossile de la COP30 est utile mais non négociée ; le GST2 (2024–2028, conclusion à la CMA10) doit expliquer pourquoi les engagements ne sont pas mis en œuvre ; l'objectif de 35 % d'électrification ne réduit les émissions que si le réseau devient plus propre. Adaptation : le triplement n'a pas de « foyer » formel (GGA, point du Groupe africain, programme sur le financement ou décision de couverture) ; le groupe de travail sur les indicateurs de Belém n'a pas de composition convenue ; BAR avec atelier le 10 novembre ; le Fonds d'adaptation est encore en transition vers l'Accord de Paris ; 81 NAP soumis.",
+    "ru": "Путеводитель Talanoa по Антальи с обещанием ежедневных обновлений. Энергетический переход: дорожная карта по ископаемому топливу из COP30 полезна, но не согласовывается в переговорах; GST2 (2024–2028, завершение на CMA10) должен объяснить, почему обязательства не выполняются; цель электрификации 35% снижает выбросы, только если сеть становится чище. Адаптация: утроение без формального «дома» (GGA, пункт Африканской группы, программа по финансам или cover decision); целевая группа по индикаторам Белена без согласованного состава; BAR с семинаром 10 ноября; Фонд адаптации всё ещё в переходе к Парижскому соглашению; представлено 81 NAP.",
+    "zh": "Talanoa发布的安塔利亚“关注要点”指南，承诺每日更新。能源转型方面：COP30的化石燃料路线图有用，但未经谈判；GST2（2024–2028年，于CMA10结束）应解释为何承诺未得到落实；仅当电网更加清洁时，35%的电气化目标才能减排。适应方面：资金增至三倍尚无正式归属（GGA、非洲集团议题、融资工作方案或总括决定）；贝伦指标特别工作组的组成尚未商定；BAR研讨会定于11月10日举行；适应基金仍处于向《巴黎协定》过渡的阶段；已提交81份NAP。",
+    "ar": "دليل Talanoa إلى أنطاليا، مع وعد بتحديثات يومية. الانتقال الطاقي: خارطة طريق الوقود الأحفوري من COP30 مفيدة لكنها غير مفاوَض عليها؛ وينبغي أن يوضح GST2 (2024–2028، ويُختتم في CMA10) سبب عدم تنفيذ الالتزامات؛ وهدف الكهربة البالغ 35% لا يخفض الانبعاثات إلا إذا أصبحت الشبكة أنظف. التكيف: مضاعفة التمويل ثلاث مرات دون “بيت” رسمي (GGA، أو بند المجموعة الأفريقية، أو برنامج التمويل، أو القرار الجامع)؛ وفرقة عمل مؤشرات بيليم دون تشكيل متفق عليه؛ وBAR مع ورشة في 10 نوفمبر؛ وما زال صندوق التكيف في مرحلة انتقال نحو اتفاق باريس؛ وقُدّمت 81 خطة وطنية للتكيف."
+   }
   },
   {
    "id": "politica-por-inteiro-2026-11-06-pnuma-adaptacao",
@@ -357,7 +587,15 @@
     "\"os países desenvolvidos enviaram entre US$28,2 – US$ 31,7 bilhões em 2024, quase o mesmo que em 2023.\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Brazilian reading of the Adaptation Gap Report 2026 ('Ready? Not.'): the tripling agreed in Belém has no defined baseline and, in any scenario, would cover only 20–29% of the US$305 billion a year needed in 2035 (US$420 billion adjusted for inflation), while developed countries provided US$28.2–31.7 billion in 2024, nearly the same as in 2023. It lays out, in Portuguese, the figures that AGN, CAN and Germanwatch take into the dispute over the 'home' of the tripling.",
+    "es": "Lectura brasileña del Adaptation Gap Report 2026 ('Ready? Not.'): la triplicación acordada en Belém quedó sin línea de base definida y, en cualquier escenario, cubriría solo 20–29% de las necesidades de US$ 305 mil millones al año en 2035 (US$ 420 mil millones ajustados por inflación), mientras que los países desarrollados enviaron US$ 28,2–31,7 mil millones en 2024, casi lo mismo que en 2023. Fija en portugués las cifras que AGN, CAN y Germanwatch llevan a la disputa sobre la 'casa' de la triplicación.",
+    "fr": "Lecture brésilienne du rapport Adaptation Gap 2026 (« Ready? Not. ») : le triplement convenu à Belém n'a pas de référence de base définie et, dans tous les scénarios, ne couvrirait que 20 à 29 % des besoins de 305 milliards de dollars par an en 2035 (420 milliards corrigés de l'inflation), alors que les pays développés ont versé 28,2 à 31,7 milliards de dollars en 2024, presque autant qu'en 2023. Consigne en portugais les chiffres que l'AGN, la CAN et Germanwatch portent dans le débat sur le « foyer » du triplement.",
+    "ru": "Бразильский разбор Adaptation Gap Report 2026 («Ready? Not.»): утроение, согласованное в Белене, не имеет определённой базовой линии и в любом сценарии покрыло бы лишь 20–29% потребностей в 305 млрд долл. США в год к 2035 году (420 млрд с поправкой на инфляцию), тогда как развитые страны направили 28,2–31,7 млрд долл. в 2024 году, почти столько же, сколько в 2023-м. Цифры, которые AGN, CAN и Germanwatch используют в споре о «доме» для утроения, зафиксированы здесь на португальском языке.",
+    "zh": "巴西视角下对《2026年适应差距报告》（“Ready? Not.”）的解读：贝伦商定的资金增至三倍未确定基线，在任何情景下到2035年都只能覆盖每年3050亿美元需求中的20–29%（按通胀调整后为4200亿美元）；而发达国家2024年仅提供282亿至317亿美元，与2023年几乎持平。该文以葡萄牙语确定了非洲集团、CAN和Germanwatch在“资金归属”争议中所用的数据。",
+    "ar": "قراءة برازيلية لتقرير فجوة التكيف 2026 (“Ready? Not.”): لم يُحدَّد خط أساس للمضاعفة المتفق عليها في بيليم، وفي أي سيناريو ستغطي 20–29% فقط من احتياجات 305 مليارات دولار سنوياً بحلول 2035 (420 مليار دولار بعد تصحيح التضخم)، في حين أرسلت الدول المتقدمة 28.2–31.7 مليار دولار في 2024، أي تقريباً ما أرسلته في 2023. وتثبّت هذه القراءة بالبرتغالية الأرقام التي تحملها AGN وCAN وGermanwatch إلى النزاع حول “مكان” مضاعفة التمويل."
+   }
   },
   {
    "id": "politica-por-inteiro-2026-11-06-mapas-do-caminho",
@@ -376,7 +614,15 @@
     "\"a presidência brasileira da COP30, em seus derradeiros atos de seu mandato, apresentou os Mapas do Caminho\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "Visual summary (eight infographics and a PDF) of the two roadmaps presented by the Brazilian COP30 Presidency in its 'final acts': fossil fuel phase-out in energy systems, and an end to deforestation and degradation by 2030, as roadmaps to implement the GST1 decisions. No figures and no mention of COP31 or GST2; complements the 3 Nov analysis.",
+    "es": "Resumen visual (ocho infografías y un PDF) de las dos hojas de ruta presentadas por la presidencia brasileña de la COP30 en sus 'últimos actos': la salida de los fósiles en los sistemas energéticos y el fin de la deforestación y la degradación para 2030, como caminos para implementar las decisiones del GST1. Sin cifras ni mención a la COP31 o al GST2; complementa el análisis del 3 de nov.",
+    "fr": "Synthèse visuelle (huit infographies et PDF) des deux feuilles de route présentées par la présidence brésilienne de la COP30 dans ses « derniers actes » : sortie des fossiles dans les systèmes énergétiques et fin de la déforestation et de la dégradation d'ici 2030, comme feuilles de route pour mettre en œuvre les décisions du GST1. Sans chiffres ni mention de la COP31 ou du GST2 ; complète l'analyse du 3 novembre.",
+    "ru": "Визуальная сводка (восемь инфографик и PDF) двух дорожных карт, представленных бразильским председательством COP30 в его «последних актах»: отказ от ископаемого топлива в энергетических системах и прекращение вырубки лесов и деградации к 2030 году как путеводители по реализации решений GST1. Без цифр и упоминаний COP31/GST2; дополняет анализ от 3 ноября.",
+    "zh": "巴西COP30主席国在“最后阶段行动”中提交的两份路线图的视觉摘要（八幅信息图及PDF）：能源系统脱离化石燃料，以及到2030年终止森林砍伐和退化，作为落实GST1决定的路线图。未提供数据，也未提及COP31/GST2；补充了11月3日的分析。",
+    "ar": "عرض بصري (ثماني إنفوغرافيات وملف PDF) لخارطتي الطريق اللتين قدّمتهما الرئاسة البرازيلية لـ COP30 في “آخر أعمالها”: الانتقال بعيداً عن الوقود الأحفوري في أنظمة الطاقة، ووقف إزالة الغابات والتدهور بحلول 2030، بوصفهما مساري تنفيذ لقرارات GST1. لا أرقام فيه ولا إشارة إلى COP31 أو GST2، وهو يكمّل تحليل 3 نوفمبر."
+   }
   },
   {
    "id": "icc-2026-11-06-efficiency-principles",
@@ -398,7 +644,15 @@
     "\"around half of countries still lack basic efficiency standards for new buildings\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "On behalf of 45 million companies, the ICC asks governments in Antalya to make energy efficiency a central pillar of the transition: the world is far from Dubai's target of 4% a year (about 1.8% in 2025); efficiency and electrification together could deliver more than a third of the cuts needed by 2030. It publishes ten principles and explicitly backs the Presidency's electrification target (35% by 2035). Three requests: efficiency as a pillar and acceleration of the COP28 goal; NDCs with credible signals to investors; public instruments to attract private capital.",
+    "es": "En nombre de 45 millones de empresas, la ICC pide a los gobiernos en Antalya que hagan de la eficiencia energética un pilar central de la transición: el mundo está lejos de la meta de Dubái de 4% anual (~1,8% en 2025); la eficiencia y la electrificación juntas pueden aportar más de un tercio de los recortes necesarios para 2030. Publica diez principios y respalda explícitamente la meta de electrificación de la presidencia (35% para 2035). Tres solicitudes: la eficiencia como pilar y la aceleración de la meta de la COP28; NDC con señales creíbles para los inversores; instrumentos públicos para atraer capital privado.",
+    "fr": "Au nom de 45 millions d'entreprises, l'ICC demande aux gouvernements réunis à Antalya de faire de l'efficacité énergétique un pilier central de la transition : le monde est loin de l'objectif de Dubaï de 4 % par an (environ 1,8 % en 2025) ; efficacité et électrification ensemble pourraient apporter plus d'un tiers des réductions nécessaires d'ici 2030. Elle publie dix principes et soutient explicitement l'objectif d'électrification de la présidence (35 % en 2035). Trois demandes : faire de l'efficacité un pilier et accélérer l'objectif de la COP28 ; des NDC envoyant des signaux crédibles aux investisseurs ; des instruments publics pour attirer des capitaux privés.",
+    "ru": "От имени 45 млн компаний МТП призывает правительства в Анталье сделать энергоэффективность центральным столпом перехода: мир далёк от цели Дубая в 4% в год (около 1,8% в 2025 году); эффективность и электрификация вместе могут обеспечить более трети необходимых сокращений к 2030 году. Публикует десять принципов и прямо поддерживает цель электрификации председательства (35% к 2035 году). Три требования: эффективность как столп и ускорение цели КС-28; NDC с достоверными сигналами для инвесторов; государственные инструменты для привлечения частного капитала.",
+    "zh": "国际商会（ICC）代表4500万家企业，呼吁安塔利亚的各国政府将能效作为转型的核心支柱：世界距离迪拜确立的每年4%能效提升目标还很远（2025年约为1.8%）；能效与电气化相结合，到2030年可实现所需减排量的三分之一以上。ICC发布了十项原则，并明确支持主席国的电气化目标（2035年达35%）。提出三项要求：将能效作为支柱并加速落实COP28目标；NDC应向投资者发出可信信号；运用公共工具吸引私人资本。",
+    "ar": "باسم 45 مليون شركة، تطلب ICC من الحكومات في أنطاليا أن تجعل كفاءة الطاقة ركيزة محورية للانتقال: فالعالم بعيد عن هدف دبي المتمثل في تحسين بنسبة 4% سنوياً (نحو 1.8% في 2025)، ويمكن للكفاءة والكهربة معاً أن تحققا أكثر من ثلث التخفيضات اللازمة بحلول 2030. تنشر ICC عشرة مبادئ وتؤيد صراحة هدف الكهربة الذي تطرحه الرئاسة (35% بحلول 2035). وتطرح ثلاثة مطالب: الكفاءة ركيزةً وتسريع هدف COP28؛ ومساهمات محددة وطنياً تحمل إشارات موثوقة للمستثمرين؛ وأدوات عامة لجذب رأس المال الخاص."
+   }
   },
   {
    "id": "climate-home-2026-11-06-blue-cop31",
@@ -422,7 +676,15 @@
     "Singh — \"it must lead to funding for ocean conservation and a clear plan for reaching the global target\""
    ],
    "first_seen": "2026-11-07T00:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Türkiye's Presidency is preparing an 'Antalya Ocean Declaration' recognizing the ocean as the largest carbon sink, amid an extreme El Niño with record marine temperatures. Sue Biniaz sees an outcome on oceans as likely, with support from more than 100 countries; the cover decision would be the only opening in the formal track, and campaigners want ocean commitments to feed into GST2. NGOs warn the declaration will only mean something with finance and a plan for 30x30 (only ~12% of the ocean protected; investment in the blue economy at ~2% of the US$550 billion a year needed). The Blue NDC Challenge has 17 countries.",
+    "es": "La presidencia turca prepara una 'Antalya Ocean Declaration' que reconoce el océano como el mayor sumidero de carbono, en medio de un El Niño extremo con récords de temperatura marina. Sue Biniaz prevé probable un resultado sobre océanos, con el apoyo de más de 100 países; la decisión de cobertura sería la única apertura en la vía formal, y las campañas quieren que los compromisos oceánicos alimenten el GST2. Las ONG advierten que la declaración solo tendrá valor con financiamiento y un plan para el 30x30 (solo ~12% del océano protegido; inversión en la economía azul en ~2% de las necesidades de US$ 550 mil millones al año). El Blue NDC Challenge cuenta con 17 países.",
+    "fr": "La présidence turque prépare une « Antalya Ocean Declaration » reconnaissant l'océan comme le plus grand puits de carbone, sur fond d'El Niño extrême et de records de température de la mer. Sue Biniaz juge probable un résultat sur les océans, soutenu par plus de 100 pays ; la décision de couverture serait la seule ouverture dans la filière formelle, et les campagnes veulent que les engagements océaniques alimentent le GST2. Les ONG préviennent que la déclaration ne vaudra que si elle s'accompagne de financements et d'un plan pour le 30x30 (seulement environ 12 % de l'océan protégés ; investissement dans l'économie bleue à environ 2 % des besoins de 550 milliards de dollars par an). Le Blue NDC Challenge compte 17 pays.",
+    "ru": "Председательство Турции готовит «Антальскую декларацию по океанам», признающую океан крупнейшим поглотителем углерода, на фоне экстремального Эль-Ниньо с рекордными температурами морской воды. Sue Biniaz считает вероятным результат по океанам при поддержке более 100 стран; cover decision стала бы единственным проходом в формальном треке, а кампании хотят, чтобы океанские обязательства питали GST2. НПО предупреждают, что декларация имеет смысл только с финансированием и планом по 30x30 (защищено лишь около 12% океана; инвестиции в голубую экономику около 2% от потребности в 550 млрд долл. США в год). Blue NDC Challenge насчитывает 17 стран.",
+    "zh": "土耳其主席国正在筹备《Antalya Ocean Declaration》，承认海洋是最大的碳汇，同时正值极端厄尔尼诺导致海温创纪录之际。Sue Biniaz认为，关于海洋的成果可能性较大，并有100多个国家支持；总括决定将是正式谈判轨道中唯一的突破口，各运动组织则希望海洋承诺能为GST2提供依据。非政府组织警告称，该宣言只有配备资金和30x30计划（目前仅约12%的海洋受到保护；蓝色经济投资仅占每年5500亿美元需求的约2%）才有意义。蓝色NDC挑战赛已有17个国家参加。",
+    "ar": "تعدّ الرئاسة التركية “إعلان أنطاليا للمحيطات” الذي يعترف بالمحيط بوصفه أكبر مصرف للكربون، في ظل ظاهرة El Niño شديدة مع أرقام قياسية لحرارة مياه البحر. ترى Sue Biniaz أن نتيجة بشأن المحيطات مرجحة، بدعم من أكثر من 100 دولة؛ وسيكون القرار الجامع المدخل الوحيد في المسار الرسمي، وتريد الحملات أن تغذي التزامات المحيطات GST2. وتحذر المنظمات غير الحكومية من أن الإعلان لن يكون ذا قيمة إلا مع تمويل وخطة للهدف 30x30 (لم تُحمَ سوى نحو 12% من المحيط؛ والاستثمار في الاقتصاد الأزرق يبلغ نحو 2% من احتياجات 550 مليار دولار سنوياً). ويضم Blue NDC Challenge 17 دولة."
+   }
   },
   {
    "id": "climate-home-2026-11-06-nepal-mountains",
@@ -444,7 +706,15 @@
     "\"around $4.8 billion will be required for recovery and reconstruction\""
    ],
    "first_seen": "2026-11-07T00:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Nepal and Bhutan have proposed an agenda item '1.5°C Warming in Mountains' for COP31: a scientific assessment of overshoot risks in mountains, an annual high-level dialogue, a work programme and better access to finance; consultations with the co-Chairs are ongoing. Context: the Bhote Koshi flood, with more than 6,000 dead or missing, US$2.7 billion in damage and US$4.8 billion needed for reconstruction; the FRLD has provisionally allocated US$21.6 million; Nepal wants to discuss loan-financed projects destroyed by disasters. It adds to requests for agenda items from the AGN and China and to the risk of an agenda clash at the opening.",
+    "es": "Nepal y Bután propusieron el tema de la agenda '1.5°C Warming in Mountains' para la COP31: evaluación científica de los riesgos del sobrepaso en las montañas, diálogo anual de alto nivel, programa de trabajo y mejor acceso al financiamiento; las consultas con las copresidencias siguen en curso. Contexto: la inundación del Bhote Koshi, con más de 6.000 muertos o desaparecidos, US$ 2.700 millones en daños y US$ 4.800 millones para la reconstrucción; el FRLD asignó provisionalmente US$ 21,6 millones; Nepal quiere debatir proyectos financiados con préstamos que fueron destruidos por desastres. Se suma a las solicitudes de temas del AGN y de China, y al riesgo de un choque de agenda en la apertura.",
+    "fr": "Le Népal et le Bhoutan ont proposé le point d'ordre du jour « 1.5°C Warming in Mountains » pour la COP31 : évaluation scientifique des risques de dépassement en montagne, dialogue annuel de haut niveau, programme de travail et meilleur accès au financement ; consultations avec les coprésidences en cours. Contexte : la crue du Bhote Koshi a fait plus de 6 000 morts ou disparus, 2,7 milliards de dollars de dégâts et 4,8 milliards pour la reconstruction ; le FRLD a provisoirement alloué 21,6 millions de dollars ; le Népal veut discuter des projets financés par emprunt détruits par des catastrophes. S'ajoute aux demandes de points du Groupe africain et de la Chine, et au risque de conflit sur l'ordre du jour dès l'ouverture.",
+    "ru": "Непал и Бутан предложили пункт повестки «1.5°C Warming in Mountains» для КС-31: научная оценка рисков превышения в горах, ежегодный диалог на высоком уровне, программа работы и лучший доступ к финансированию; консультации с сопредседателями продолжаются. Контекст: паводок Bhote Koshi с более чем 6000 погибшими или пропавшими, ущерб 2,7 млрд долл. США и 4,8 млрд долл. на восстановление; FRLD временно выделил 21,6 млн долл. США; Непал хочет обсудить финансируемые кредитами проекты, разрушенные стихийными бедствиями. Это добавляется к требованиям пунктов от AGN и Китая и риску конфликта повестки на открытии.",
+    "zh": "尼泊尔和不丹向COP31提议设立“山区1.5°C升温”议程项目：开展关于山区过冲风险的科学评估，举办年度高级别对话，制定工作方案，并改善融资渠道；与共同主席的磋商仍在进行。背景：Bhote Koshi洪灾已造成6000多人死亡或失踪，损失27亿美元，重建需48亿美元；损失和损害基金（FRLD）临时拨款2160万美元；尼泊尔希望讨论因灾害被毁的贷款资助项目。这一提议与非洲集团和中国提出的议程项目请求并列，并增加了开幕时议程之争的风险。",
+    "ar": "اقترحت نيبال وبوتان بنداً في جدول الأعمال بعنوان “الاحترار بمقدار 1.5 درجة مئوية في الجبال” لـ COP31: تقييم علمي لمخاطر التجاوز في المناطق الجبلية، وحوار رفيع سنوي، وبرنامج عمل، وتحسين الوصول إلى التمويل؛ ولا تزال المشاورات مع الرئاستين المشاركتين جارية. السياق: فيضان Bhote Koshi الذي أودى بحياة أكثر من 6,000 شخص بين قتيل ومفقود، وبلغت أضراره 2.7 مليار دولار وكلفة إعادة الإعمار 4.8 مليار دولار؛ وخصّص FRLD مؤقتاً 21.6 مليون دولار؛ وتريد نيبال مناقشة المشاريع الممولة بالقروض التي دمرتها الكوارث. ويضاف ذلك إلى طلبات بنود جدول الأعمال من AGN والصين، ويهدد بخلاف على جدول الأعمال عند الافتتاح."
+   }
   },
   {
    "id": "climate-home-2026-11-06-european-roadmap-support",
@@ -466,7 +736,15 @@
     "Kyte — \"I don't think we got time to wait until the early 2030s.\""
    ],
    "first_seen": "2026-11-07T00:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "André Corrêa do Lago says European governments have signalled support for using Brazil's roadmaps (TAFF and deforestation) to inform GST2, which begins in Antalya and concludes in 2028; he acknowledges that the consensus of around 200 countries may not be the best venue and that 'others will decide' whether the roadmaps enter the UN. Rachel Kyte (UK) fears TAFF will become 'just a slogan' and says supply restrictions cannot wait until the 2030s; she urges Australia, Türkiye and Ethiopia to 'find a way to move forward'. The Santa Marta process is cited as an alternative home, in contrast with Lula, who is expanding oil and gas exploration.",
+    "es": "André Corrêa do Lago dice que los gobiernos europeos han señalado su apoyo a usar las hojas de ruta brasileñas (TAFF y deforestación) para informar el GST2, que comienza en Antalya y concluye en 2028; admite que el consenso de unos 200 países puede no ser el mejor lugar y que 'otros decidirán' si las hojas de ruta entran en la ONU. Rachel Kyte (Reino Unido) teme que la TAFF se convierta en 'solo un eslogan' y afirma que las restricciones de la oferta no pueden esperar a los años 2030; pide que Australia, Türkiye y Etiopía 'encuentren la manera de avanzar'. El Proceso de Santa Marta se menciona como sede alternativa; contraste con Lula, que amplía la exploración de petróleo y gas.",
+    "fr": "André Corrêa do Lago affirme que les gouvernements européens ont signalé leur soutien à l'utilisation des feuilles de route brésiliennes (TAFF et déforestation) pour éclairer le GST2, qui commence à Antalya et se conclut en 2028 ; il reconnaît que le consensus d'environ 200 pays n'est peut-être pas le meilleur lieu et que « d'autres décideront » si les feuilles de route entrent à l'ONU. Rachel Kyte (Royaume-Uni) craint que la TAFF ne devienne « un simple slogan » et affirme que les restrictions de l'offre ne peuvent attendre les années 2030 ; elle demande à l'Australie, à la Türkiye et à l'Éthiopie de « trouver un moyen d'avancer ». Le processus de Santa Marta est cité comme enceinte alternative ; contraste avec Lula, qui élargit l'exploration de pétrole et de gaz.",
+    "ru": "André Corrêa do Lago заявляет, что европейские правительства выразили готовность использовать бразильские дорожные карты (TAFF и обезлесение) для GST2, который начинается в Анталье и завершается в 2028 году; он признаёт, что консенсус примерно 200 стран может быть не лучшим местом, и что «решат другие», войдут ли дорожные карты в ООН. Rachel Kyte (Великобритания) опасается, что TAFF станет «просто лозунгом», и считает, что ограничения предложения не могут ждать 2030-х годов; призывает Австралию, Турцию и Эфиопию «найти способ двигаться вперёд». Процесс Санта-Марты упоминается как альтернативный дом; контраст с Лулой, который расширяет добычу нефти и газа.",
+    "zh": "André Corrêa do Lago表示，欧洲政府已表态支持利用巴西路线图（TAFF和森林砍伐）为GST2提供依据，GST2将于安塔利亚启动，2028年完成；他承认，约200个国家的共识机制或许并非最佳场所，并称联合国是否纳入这些路线图“将由其他人决定”。英国的Rachel Kyte担心TAFF可能“只是一句口号”，并表示供应侧限制不能等到2030年代；她呼吁澳大利亚、土耳其和埃塞俄比亚“想办法推进”。圣玛尔塔进程被视为替代平台；与此形成对比的是，卢拉正在扩大石油和天然气勘探。",
+    "ar": "قال André Corrêa do Lago إن الحكومات الأوروبية أبدت دعمها لاستخدام خارطتي الطريق البرازيليتين (الانتقال بعيداً عن الوقود الأحفوري وإزالة الغابات) لإثراء GST2، الذي يبدأ في أنطاليا ويُختتم في 2028؛ وأقرّ بأن توافق نحو 200 دولة قد لا يكون المكان الأفضل، وبأن “آخرين سيقررون” ما إذا كانت الخارطتان ستدخلان الأمم المتحدة. وتخشى Rachel Kyte (المملكة المتحدة) أن يتحول الانتقال بعيداً عن الوقود الأحفوري إلى “مجرد شعار”، وتقول إن قيود العرض لا يمكن أن تنتظر سنوات 2030؛ وتطالب أستراليا وتركيا وإثيوبيا بأن “تجد طريقة للمضي قدماً”. وتُذكر عملية سانتا مارتا بوصفها مساراً بديلاً، في مقابل Lula الذي يوسّع استكشاف النفط والغاز."
+   }
   },
   {
    "id": "carbon-pulse-2026-11-06-argentina-ndc",
@@ -485,7 +763,15 @@
     "\"Argentina's third NDC, submitted on Friday well beyond the original deadline, opens the door for the country to participate in carbon market mechanisms\""
    ],
    "first_seen": "2026-11-07T00:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Argentina submitted its third NDC on Friday, well after the original deadline; the text opens the way to participation in Article 6 mechanisms, including a jurisdictional REDD+ seeking international buyers. One more late 2035 NDC entering the pre-GST2 synthesis. Paywalled: only the teaser was read.",
+    "es": "Argentina presentó el viernes su tercera NDC, mucho después del plazo original; el texto abre la puerta a la participación en mecanismos del Artículo 6, incluido un REDD+ jurisdiccional en busca de compradores internacionales. Otra NDC 2035 tardía que entra en la síntesis previa al GST2. Muro de pago: solo se leyó el adelanto.",
+    "fr": "L'Argentine a présenté vendredi sa troisième NDC, bien après le délai initial ; le texte ouvre la voie à une participation aux mécanismes de l'article 6, notamment un REDD+ juridictionnel en quête d'acheteurs internationaux. Encore une NDC 2035 tardive à entrer dans la synthèse précédant le GST2. Accès payant : seul le chapô a été lu.",
+    "ru": "Аргентина представила в пятницу свой третий NDC, значительно позже первоначального срока; текст открывает путь к участию в механизмах Статьи 6, включая юрисдикционный REDD+ в поисках международных покупателей. Ещё один поздний NDC 2035 вошёл в синтез перед GST2. Платный доступ: прочитан только анонс.",
+    "zh": "阿根廷于周五提交了第三份NDC，大大晚于原定期限；该文本为参与第六条机制开辟了道路，包括寻求国际买家的辖区级REDD+项目。这是又一份迟到的2035年NDC，将纳入GST2的预备性综述。付费墙：仅阅读了预告内容。",
+    "ar": "قدّمت الأرجنتين يوم الجمعة مساهمتها المحددة وطنياً الثالثة، بعد الموعد الأصلي بوقت طويل؛ ويفتح النص الطريق للمشاركة في آليات المادة 6، بما فيها REDD+ على مستوى الولايات القضائية الباحث عن مشترين دوليين. وهي مساهمة 2035 متأخرة أخرى تدخل في التوليف السابق لـ GST2. حاجز اشتراك: لم يُقرأ سوى المقتطف التمهيدي."
+   }
   },
   {
    "id": "carbon-pulse-2026-11-06-eu-electrification",
@@ -504,7 +790,15 @@
     "\"The EU would be open to including an electrification target in a political cover decision at the COP31 climate summit in Turkiye\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "A senior EU official said the bloc would accept including an electrification target in the COP31 cover decision, arguing it would help attract support from more countries. It is the first public European signal of flexibility on bringing the Action Agenda's '35 by 35' into the negotiated text, a point rejected by the DCJ and the Arab Group. Paywalled: only the teaser was read; the position on the 'clean/renewable' qualifier does not appear.",
+    "es": "Un alto funcionario de la UE dijo que el bloque aceptaría incluir una meta de electrificación en la decisión de cobertura política de la COP31, argumentando que ello ayudaría a atraer el apoyo de más países. Es la primera señal pública europea de flexibilidad para llevar el '35 by 35' de la Agenda de Acción al texto negociado, punto que rechazan la DCJ y el Grupo Árabe. Muro de pago: solo se leyó el adelanto; la posición sobre el calificativo 'limpia/renovable' no aparece.",
+    "fr": "Un haut responsable de l'UE a déclaré que le bloc accepterait d'inclure un objectif d'électrification dans la décision politique de couverture de la COP31, au motif que cela aiderait à rallier davantage de pays. C'est le premier signal public européen de souplesse pour porter le « 35 by 35 » de l'Agenda d'action dans le texte négocié, point que le DCJ et le Groupe arabe rejettent. Accès payant : seul le chapô a été lu ; la position sur le qualificatif « propre/renouvelable » n'apparaît pas.",
+    "ru": "Высокопоставленный чиновник ЕС заявил, что блок согласился бы включить цель электрификации в политическую cover decision КС-31, поскольку это помогло бы привлечь поддержку большего числа стран. Это первый публичный сигнал Европы о гибкости в переносе «35 by 35» из Повестки действий в согласованный текст; DCJ и Арабская группа это отвергают. Платный доступ: прочитан только анонс; позиция по квалификатору «чистая/возобновляемая» не приведена.",
+    "zh": "一位欧盟高级官员表示，欧盟可以接受将电气化目标纳入COP31的政策总括决定，理由是这将有助于争取更多国家的支持。这是欧洲首次公开表示愿意灵活处理，将行动议程中的“35 by 35”纳入谈判文本，而DCJ和阿拉伯集团对此持反对意见。付费墙：仅阅读了预告内容；关于“清洁/可再生”限定词的立场未见提及。",
+    "ar": "قال مسؤول رفيع في الاتحاد الأوروبي إن الكتلة ستقبل إدراج هدف للكهربة في القرار الجامع السياسي لـ COP31، بحجة أن ذلك سيساعد على جذب دعم دول أكثر. وهذه أول إشارة أوروبية علنية إلى مرونة في نقل هدف “35 by 35” من أجندة العمل إلى النص المتفاوض عليه، وهي نقطة يرفضها DCJ والمجموعة العربية. حاجز اشتراك: لم يُقرأ سوى المقتطف التمهيدي، ولم يرد موقف بشأن وصف “النظيفة/المتجددة”."
+   }
   },
   {
    "id": "carbon-pulse-2026-11-06-india-cbam",
@@ -523,7 +817,15 @@
     "\"demand that revenues from carbon border mechanisms help finance decarbonisation at home\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Researchers' analysis recommends that New Delhi seek recognition in COP31 of carbon costs paid under its emerging emissions trading system, and demand that revenues from border carbon adjustment mechanisms fund domestic decarbonization. It reinforces the trade and CBAM front that the AGN, China and CEEW already put on the agenda. Paywalled: only the teaser was read.",
+    "es": "Un análisis de investigadores recomienda que Nueva Delhi busque en la COP31 el reconocimiento de los costos del carbono pagados bajo su sistema de comercio de emisiones en formación y exija que los ingresos de los mecanismos de ajuste de carbono en frontera financien la descarbonización interna. Refuerza el frente de comercio/CBAM que el AGN, China y CEEW ya llevan a la agenda. Muro de pago: solo se leyó el adelanto.",
+    "fr": "Une analyse de chercheurs recommande à New Delhi de chercher à obtenir à la COP31 la reconnaissance des coûts carbone payés au titre de son système d'échange de quotas d'émission en cours de constitution, et d'exiger que les recettes des mécanismes d'ajustement carbone aux frontières financent la décarbonation nationale. Elle renforce le front commerce/CBAM que l'AGN, la Chine et le CEEW portent déjà à l'agenda. Accès payant : seul le chapô a été lu.",
+    "ru": "Анализ исследователей рекомендует Нью-Дели добиваться на КС-31 признания затрат на углерод, уплаченных по формирующейся национальной системе торговли выбросами, и требовать, чтобы доходы от механизмов корректировки углерода на границе финансировали внутреннюю декарбонизацию. Это усиливает направление торговли и CBAM, которое AGN, Китай и CEEW уже выносят на повестку. Платный доступ: прочитан только анонс.",
+    "zh": "研究人员分析认为，印度应在COP31争取承认其正在形成的排放交易体系下已支付的碳成本，并要求边境碳调节机制的收入用于本国脱碳。这强化了非洲集团、中国和CEEW已提上议程的贸易/CBAM议题。付费墙：仅阅读了预告内容。",
+    "ar": "توصي تحليلات لباحثين بأن تسعى نيودلهي في COP31 إلى الاعتراف بتكاليف الكربون التي تدفعها بموجب نظام تداول الانبعاثات الناشئ لديها، وأن تطالب بأن تموّل عائدات آليات تعديل الكربون عند الحدود إزالة الكربون محلياً. وهذا يعزز جبهة التجارة وCBAM التي تطرحها AGN والصين وCEEW على جدول الأعمال. حاجز اشتراك: لم يُقرأ سوى المقتطف التمهيدي."
+   }
   },
   {
    "id": "carbon-brief-2026-11-06-china-co2-q3",
@@ -544,7 +846,15 @@
     "\"transport oil consumption continued to fall sharply, down 9% year-on-year in the third quarter of 2026.\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "China's CO2 emissions fell 3.1% in Q3 2026, the largest quarterly drop since the 2022 lockdowns, and about 0.5% year to date, due to lower oil demand (the Hormuz crisis) and reduced coal burning. Coal power generation fell 3.3%; solar, wind and nuclear together added 110 TWh; transport oil consumption fell 9%, with a record for EVs. It does not mention COP31, but it is the figure that the Chinese delegation and GST2 analysts will cite in Antalya.",
+    "es": "Las emisiones de CO2 de China cayeron un 3,1% en el tercer trimestre de 2026, la mayor caída trimestral desde los confinamientos de 2022, y ~0,5% en el acumulado del año, por menor demanda de petróleo (crisis de Ormuz) y menor quema de carbón. La generación a carbón bajó un 3,3%; la solar, la eólica y la nuclear sumaron 110 TWh; el consumo de petróleo en el transporte cayó un 9% con un récord de vehículos eléctricos. No menciona la COP31, pero es la cifra que la delegación china y los analistas del GST2 citarán en Antalya.",
+    "fr": "Les émissions de CO2 de la Chine ont baissé de 3,1 % au troisième trimestre 2026, la plus forte baisse trimestrielle depuis les confinements de 2022, et d'environ 0,5 % sur l'année, en raison de la baisse de la demande de pétrole (crise d'Ormuz) et de la combustion moindre de charbon. La production d'électricité au charbon a baissé de 3,3 % ; solaire, éolien et nucléaire ont totalisé 110 TWh ; la consommation de pétrole dans les transports a baissé de 9 %, avec un record de véhicules électriques. Il ne mentionne pas la COP31, mais c'est le chiffre que la délégation chinoise et les analystes du GST2 citeront à Antalya.",
+    "ru": "Выбросы CO2 Китая сократились на 3,1% в третьем квартале 2026 года, самое большое квартальное падение с локдаунов 2022 года, и примерно на 0,5% с начала года из-за снижения спроса на нефть (кризис в Ормузе) и меньшего сжигания угля. Выработка на угле снизилась на 3,3%; солнечная, ветровая и атомная генерация дали 110 ТВт·ч; потребление нефти на транспорте упало на 9% при рекордных продажах электромобилей. Статья не упоминает COP31, но это цифра, которую делегация Китая и аналитики GST2 будут приводить в Анталье.",
+    "zh": "中国2026年第三季度二氧化碳排放量下降3.1%，为2022年封锁以来最大的单季降幅；年初至今约下降0.5%，原因是石油需求减少（霍尔木兹危机）和煤炭燃烧减少。燃煤发电下降3.3%；太阳能、风能和核能合计发电110太瓦时；交通领域石油消费下降9%，电动汽车创下纪录。报道未提及COP31，但这是中国代表团和GST2分析人士将在安塔利亚引用的数据。",
+    "ar": "انخفضت انبعاثات ثاني أكسيد الكربون في الصين بنسبة 3.1% في الربع الثالث من 2026، وهو أكبر انخفاض ربعي منذ عمليات الإغلاق في 2022، ونحو 0.5% منذ بداية العام، بسبب تراجع الطلب على النفط (أزمة هرمز) وانخفاض حرق الفحم. وانخفض توليد الكهرباء بالفحم 3.3%؛ وبلغ مجموع الطاقة الشمسية وطاقة الرياح والطاقة النووية 110 تيراواط/ساعة؛ وانخفض استهلاك النفط في النقل بنسبة 9% مع رقم قياسي للمركبات الكهربائية. لا يذكر النص COP31، لكنه الرقم الذي سيستشهد به الوفد الصيني ومحللو GST2 في أنطاليا."
+   }
   },
   {
    "id": "carbon-brief-2026-11-06-super-el-nino",
@@ -564,7 +874,15 @@
     "\"Carbon Brief projects that the 2027 average global temperature will reach around 1.74C above pre-industrial levels.\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Carbon Brief's 'state of the climate' update: El Niño is expected to peak in December with an anomaly of about 4 °C in the Niño3.4 region (daily record of 3.11 °C in September), with its largest effect on global temperatures in 2027. The projection for 2027 is about 1.74 °C above pre-industrial levels, with a 96% chance of the warmest year on record. It underpins the warning about a food price crisis in 2027 and the overshoot framing for Antalya.",
+    "es": "Actualización del 'state of the climate' de Carbon Brief: El Niño debe alcanzar su pico en diciembre con una anomalía de ~4 °C en la región Niño3.4 (récord diario de 3,11 °C en septiembre), con el mayor efecto sobre las temperaturas globales en 2027; proyección para 2027 de ~1,74 °C por encima del preindustrial y un 96% de probabilidad de que sea el año más cálido de la serie. Sustenta la alerta sobre una crisis de precios de los alimentos en 2027 y el encuadre del sobrepaso en Antalya.",
+    "fr": "Mise à jour sur l'« état du climat » de Carbon Brief : El Niño devrait atteindre son pic en décembre avec une anomalie d'environ 4 °C dans la région Niño 3.4 (record quotidien de 3,11 °C en septembre), avec un effet maximal sur les températures mondiales en 2027 ; projection pour 2027 à environ 1,74 °C au-dessus du préindustriel et 96 % de chances d'être l'année la plus chaude de la série. Appuie l'alerte sur une crise des prix alimentaires en 2027 et le cadrage du dépassement à Antalya.",
+    "ru": "Обновление Carbon Brief о состоянии климата: Эль-Ниньо должен достичь пика в декабре с аномалией около 4 °C в регионе Niño3.4 (суточный рекорд 3,11 °C в сентябре), с наибольшим влиянием на глобальные температуры в 2027 году; прогноз для 2027 года около 1,74 °C выше доиндустриального уровня и 96% вероятности самого тёплого года в ряду наблюдений. Это подкрепляет предупреждение о кризисе цен на продовольствие в 2027 году и рамку превышения в Анталье.",
+    "zh": "Carbon Brief的“气候状况”更新：厄尔尼诺预计将于12月达到峰值，尼诺3.4区异常约4 °C（9月日记录为3.11 °C），对全球气温的影响将在2027年最为显著；预测2027年将比工业化前水平高约1.74 °C，有96%的概率成为有记录以来最暖的年份。这为2027年粮食价格危机的警告以及安塔利亚的过冲框架提供了依据。",
+    "ar": "تحديث “حالة المناخ” من Carbon Brief: من المتوقع أن تبلغ ظاهرة El Niño ذروتها في ديسمبر بشذوذ نحو 4 درجات مئوية في منطقة Niño3.4 (بلغ الرقم القياسي اليومي 3.11 درجة مئوية في سبتمبر)، مع أكبر أثر على درجات الحرارة العالمية في 2027؛ والتوقع لعام 2027 نحو 1.74 درجة مئوية فوق مستويات ما قبل الصناعة، باحتمال 96% أن يكون أحر عام في السلسلة. ويدعم ذلك التحذير من أزمة أسعار الغذاء في 2027 وإطار التجاوز في أنطاليا."
+   }
   },
   {
    "id": "e3g-2026-11-06-green-iron-trade",
@@ -583,7 +901,15 @@
     "\"Green iron projects will not succeed at scale, or benefit countries, without government support\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Report on green iron trade (steel accounts for 7–9% of global emissions): six roles for governments and four fronts for international cooperation (demand and standards, project finance, alignment with national plans, trade partnerships). No mention of COP31, TAFF or electrification, but relevant to the trade and industrial decarbonization front.",
+    "es": "Informe sobre el comercio de hierro verde (la siderurgia representa entre el 7% y el 9% de las emisiones globales): seis funciones para los gobiernos y cuatro frentes de cooperación internacional (demanda y normas, financiamiento de proyectos, alineación con los planes nacionales, asociaciones comerciales). Sin mención a la COP31, la TAFF o la electrificación, pero relevante para el frente de comercio y descarbonización industrial.",
+    "fr": "Rapport sur le commerce de fer vert (la sidérurgie représente 7 à 9 % des émissions mondiales) : six rôles pour les gouvernements et quatre axes de coopération internationale (demande et normes, financement de projets, alignement sur les plans nationaux, partenariats commerciaux). Aucune mention de la COP31, de la TAFF ou de l'électrification, mais pertinent pour le front commerce/décarbonation industrielle.",
+    "ru": "Доклад о торговле «зелёным железом» (металлургия отвечает за 7–9% глобальных выбросов): шесть ролей для правительств и четыре направления международного сотрудничества (спрос и стандарты, финансирование проектов, согласование с национальными планами, торговые партнёрства). Без упоминания COP31, TAFF или электрификации, но важно для направления торговли и промышленной декарбонизации.",
+    "zh": "关于绿色钢铁贸易的报告（钢铁行业占全球排放的7–9%）：为政府提供六项角色，并提出国际合作的四个方向（需求与标准、项目融资、与国家规划对接、贸易伙伴关系）。报告未提及COP31、TAFF或电气化，但与贸易和工业脱碳议题相关。",
+    "ar": "تقرير عن تجارة الحديد الأخضر (يسهم قطاع الحديد والصلب بنسبة 7–9% من الانبعاثات العالمية): ستة أدوار للحكومات وأربع جبهات للتعاون الدولي (الطلب والمعايير، وتمويل المشاريع، والمواءمة مع الخطط الوطنية، والشراكات التجارية). لا يرد فيه ذكر لـ COP31 أو TAFF أو الكهربة، لكنه وثيق الصلة بجبهة التجارة وإزالة الكربون عن الصناعة."
+   }
   },
   {
    "id": "e3g-2026-11-06-pacific-mdbs",
@@ -603,7 +929,15 @@
     "\"while just 0.17% mentioned 'locally led' or 'community led'\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "From the Pacific Pre-COP: the financial system is designed for large, standardized transactions and excludes SIDS, LDCs and local institutions. Case of the Maldives (projects deemed too small; a solar programme made viable by a partial IDA guarantee). It calls on MDBs to channel resources through national development banks, expand project preparation and adapt instruments (local currency, proportionate compliance); adaptation should be assessed by resilience and debt sustainability, not just financial return.",
+    "es": "Desde el Pre-COP del Pacífico: el sistema financiero está diseñado para grandes transacciones estandarizadas y excluye a los SIDS, los LDC y las instituciones locales. Caso de las Maldivas (proyectos considerados demasiado pequeños; programa solar viabilizado por una garantía parcial de la IDA). Pide que los MDB canalicen recursos a través de bancos nacionales de desarrollo, amplíen la preparación de proyectos y adapten instrumentos (moneda local, cumplimiento proporcional); la adaptación debe evaluarse por la resiliencia y la sostenibilidad de la deuda, no solo por el retorno.",
+    "fr": "Depuis le Pre-COP du Pacifique : le système financier est conçu pour de grandes transactions standardisées et exclut les SIDS, les PMA et les institutions locales. Cas des Maldives (projets jugés trop petits ; programme solaire rendu viable par une garantie partielle de l'IDA). Demande que les MDB canalisent les ressources via les banques nationales de développement, renforcent la préparation des projets et adaptent les instruments (monnaie locale, conformité proportionnée) ; l'adaptation doit être évaluée à l'aune de la résilience et de la soutenabilité de la dette, et non seulement du retour sur investissement.",
+    "ru": "По итогам Pre-COP для Тихоокеанского региона: финансовая система построена для крупных стандартизированных сделок и исключает SIDS/НРС и местные учреждения. Пример Мальдив: проекты сочли слишком мелкими; солнечная программа стала возможной благодаря частичной гарантии IDA. Призывает МБР направлять ресурсы через национальные банки развития, расширять подготовку проектов и адаптировать инструменты (местная валюта, пропорциональное соблюдение требований); адаптацию следует оценивать по устойчивости и долговой устойчивости, а не только по доходности.",
+    "zh": "源自太平洋Pre-COP的报告：金融体系为大型标准化交易而设计，排除了小岛屿发展中国家（SIDS）、最不发达国家（LDC）及地方机构。以马尔代夫为例：项目被认为规模过小，太阳能方案因国际开发协会（IDA）的部分担保才得以落实。报告呼吁多边开发银行通过国家开发银行渠道提供资金，扩大项目准备，并调整工具（本币融资、相称的合规要求）；适应项目应以韧性和债务可持续性评估，而不仅以回报率衡量。",
+    "ar": "من منتدى ما قبل المؤتمر في المحيط الهادئ: يُصمَّم النظام المالي للصفقات الكبيرة الموحدة، ويستبعد الدول الجزرية الصغيرة النامية (SIDS) والبلدان الأقل نمواً (LDCs) والمؤسسات المحلية. ومثال ذلك ملديف، إذ اعتُبرت المشاريع صغيرة أكثر من اللازم، وأصبح برنامج الطاقة الشمسية ممكناً بفضل ضمان جزئي من IDA. وتطالب بأن تمرّر بنوك التنمية متعددة الأطراف (MDBs) الموارد عبر بنوك التنمية الوطنية، وأن توسّع إعداد المشاريع وتكيّف الأدوات (العملة المحلية، والامتثال المتناسب)، وأن يُقيَّم التكيف بالمرونة واستدامة الدين، لا بالعائد وحده."
+   }
   },
   {
    "id": "germanwatch-2026-11-06-implementation-alliances",
@@ -625,7 +959,15 @@
     "\"Every initiative needs clear responsibilities, deadlines, and transparency on progress.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Pre-COP release: Antalya as a test of cooperation between those accelerating and those seeking to prolong fossil fuel profits. It calls for the voluntary Action Agenda alliances to carry responsibilities, deadlines and public reporting, and for countries to explain how their results will feed into GST2; progress reporting on the 2023 targets (tripling renewables, doubling efficiency, zero deforestation by 2030); a trajectory with interim targets up to US$300 billion a year by 2035; it presses Germany on an electrification strategy and criticizes climate finance budgets; a polluter-pays principle via levies on major emitters and the super-rich. It cites FAO's warning of a food price crisis in 2027.",
+    "es": "Comunicado previo a la COP: Antalya como prueba de cooperación entre quienes aceleran y quienes buscan prolongar las ganancias fósiles. Pide que las alianzas voluntarias de la Agenda de Acción tengan responsabilidades, plazos y reporte público, y que los países digan cómo sus resultados alimentarán el GST2; informe de avance sobre las metas de 2023 (triplicar las renovables, duplicar la eficiencia, deforestación cero para 2030); una trayectoria con metas intermedias de hasta US$ 300 mil millones al año en 2035; exige a Alemania una estrategia de electrificación y critica los presupuestos de financiamiento climático; principio de quien contamina paga mediante tasas a los grandes emisores y a los superricos. Cita la alerta de la FAO sobre una crisis de precios de los alimentos en 2027.",
+    "fr": "Communiqué pré-COP : Antalya comme test de coopération entre ceux qui accélèrent et ceux qui cherchent à prolonger les profits fossiles. Demande que les alliances volontaires de l'Agenda d'action aient des responsabilités, des échéances et un rapportage public, et que les pays expliquent comment leurs résultats alimenteront le GST2 ; rapport sur les progrès vers les objectifs de 2023 (tripler les renouvelables, doubler l'efficacité, déforestation zéro d'ici 2030) ; trajectoire avec des jalons intermédiaires jusqu'à 300 milliards de dollars par an en 2035 ; exige de l'Allemagne une stratégie d'électrification et critique les budgets de financement climatique ; principe pollueur-payeur via des taxes sur les grands émetteurs et les super-riches. Cite l'alerte de la FAO sur une crise des prix alimentaires en 2027.",
+    "ru": "Пресс-релиз перед КС: Антальи как проверка сотрудничества между теми, кто ускоряет переход, и теми, кто стремится продлить прибыли от ископаемого топлива. Требует, чтобы добровольные альянсы Повестки действий несли обязательства, сроки и публичную отчётность, и чтобы страны объясняли, как их результаты поступят в GST2; отчёт о прогрессе по целям 2023 года (утроить возобновляемые источники, удвоить эффективность, обезлесение к 2030 году нулевое); траектория с промежуточными целями до 300 млрд долл. США в год к 2035 году; требует от Германии стратегии электрификации и критикует бюджеты климатического финансирования; принцип «загрязнитель платит» через сборы с крупных эмитентов и сверхбогатых. Ссылается на предупреждение FAO о кризисе цен на продовольствие в 2027 году.",
+    "zh": "Germanwatch预会新闻稿：安塔利亚是加速转型者与试图延长化石燃料利润者之间合作的考验。呼吁行动议程的自愿联盟承担责任、设定期限并公开报告，并要求各国说明其成果将如何纳入GST2；报告2023年目标的进展（可再生能源增至三倍、能效翻番、2030年零砍伐）；设定中期目标，逐步达到2035年每年3000亿美元。Germanwatch要求德国制定电气化战略，并批评气候融资预算；同时主张通过对大排放者和超级富豪征税落实“污染者付费”原则。报告引用了粮农组织（FAO）关于2027年粮食价格危机的警告。",
+    "ar": "بيان صحفي ما قبل المؤتمر: أنطاليا اختبار للتعاون بين من يسرّعون ومن يريدون إطالة أمد أرباح الوقود الأحفوري. وتطالب بأن تتحمل التحالفات الطوعية في أجندة العمل مسؤوليات وآجالاً وإعداد تقارير علنية، وبأن توضح الدول كيف ستغذي نتائجها GST2؛ وبتقرير التقدم نحو أهداف 2023 (مضاعفة الطاقة المتجددة ثلاث مرات، ومضاعفة الكفاءة، وخفض إزالة الغابات إلى الصفر بحلول 2030)؛ وبمسار بأهداف مرحلية حتى 300 مليار دولار سنوياً بحلول 2035. وتطالب ألمانيا باستراتيجية للكهربة، وتنتقد ميزانيات التمويل المناخي، وتدعو إلى مبدأ الملوث يدفع عبر رسوم على كبار المنبعثين والأثرياء جداً. وتستشهد بتحذير منظمة الأغذية والزراعة (FAO) من أزمة أسعار الغذاء في 2027."
+   }
   },
   {
    "id": "carbon-pulse-2026-11-05-fossil-treaty-cdr",
@@ -644,7 +986,15 @@
     "\"has argued against 'speculative' carbon removal technologies to address the global temperature overshoot, as it hopes to use COP31 to gather more support\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "The Fossil Fuel Non-Proliferation Treaty initiative argues against 'speculative' carbon removal technologies as a response to overshoot and intends to use COP31 to build further support for the treaty. It converges with the DCJ position (rejecting CDR and geoengineering). Paywalled: only the teaser was read.",
+    "es": "La iniciativa del Tratado de No Proliferación de Combustibles Fósiles sostiene que las tecnologías 'especulativas' de remoción de carbono no deben ser la respuesta al sobrepaso y pretende usar la COP31 para reunir más apoyo al tratado. Coincide con la posición de la DCJ (rechazo a la CDR y a la geoingeniería). Muro de pago: solo se leyó el adelanto.",
+    "fr": "L'initiative pour un traité de non-prolifération des combustibles fossiles plaide contre les technologies « spéculatives » d'élimination du carbone comme réponse au dépassement, et entend utiliser la COP31 pour rallier davantage de soutien au traité. Rejoint la position du DCJ (rejet du CDR et de la géo-ingénierie). Accès payant : seul le chapô a été lu.",
+    "ru": "Инициатива Договора о нераспространении ископаемого топлива выступает против «спекулятивных» технологий удаления углерода как ответа на превышение и намерена использовать КС-31, чтобы привлечь больше поддержки договора. Совпадает с позицией DCJ (отказ от CDR и геоинженерии). Платный доступ: прочитан только анонс.",
+    "zh": "化石燃料不扩散条约倡议认为，应反对将“投机性”碳去除技术作为过冲的应对手段，并拟借COP31争取更多对该条约的支持。这与DCJ立场（反对CDR和地球工程）相一致。付费墙：仅阅读了预告内容。",
+    "ar": "تحتج مبادرة معاهدة عدم انتشار الوقود الأحفوري على تقنيات إزالة الكربون “المضاربية” بوصفها استجابة للتجاوز، وتنوي استخدام COP31 لجمع دعم أوسع للمعاهدة. وتتقاطع مع موقف DCJ (رفض CDR والهندسة الجيولوجية). حاجز اشتراك: لم يُقرأ سوى المقتطف التمهيدي."
+   }
   },
   {
    "id": "carbon-pulse-2026-11-05-slcf-study",
@@ -664,7 +1014,15 @@
     "\"Global warming could peak by 2050 at around 1.7C if governments rapidly phase out fossil fuels and cut methane and other short-lived climate pollutants\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Coverage of a pre-COP31 study (Climate Analytics' brief on short-lived climate forcers) finding that warming could peak around 2050 at about 1.7 °C, with rapid fossil fuel phase-out and cuts to methane and other short-lived pollutants. Relevant to the overshoot debate and to Stiell's priority on methane. Paywalled: only the teaser was read.",
+    "es": "Cobertura de un estudio previo a la COP31 (el informe de Climate Analytics sobre forzantes de vida corta) según el cual el calentamiento podría alcanzar su pico hacia 2050, en ~1,7 °C, con una salida rápida de los fósiles y recortes del metano y otros contaminantes de vida corta. Es relevante para el debate sobre el sobrepaso y para la prioridad de Stiell sobre el metano. Muro de pago: solo se leyó el adelanto.",
+    "fr": "Couverture d'une étude précédant la COP31 (le briefing de Climate Analytics sur les forçages à courte durée de vie) selon laquelle le réchauffement pourrait culminer vers 2050, à environ 1,7 °C, avec une sortie rapide des fossiles et des réductions du méthane et d'autres polluants à courte durée de vie. Pertinent pour le débat sur le dépassement et pour la priorité de Stiell sur le méthane. Accès payant : seul le chapô a été lu.",
+    "ru": "Освещение исследования перед КС-31 (брифинг Climate Analytics о short-lived climate forcers), согласно которому потепление может достичь пика около 2050 года на уровне около 1,7 °C при быстром отказе от ископаемого топлива и сокращении метана и других короткоживущих загрязнителей. Важно для дискуссии о превышении и для приоритета Стиэлла по метану. Платный доступ: прочитан только анонс.",
+    "zh": "对Climate Analytics于COP31前发布的短寿命气候强迫因子简报的报道称，若快速脱离化石燃料并削减甲烷及其他短寿命污染物，升温可能于2050年左右达到约1.7 °C的峰值。该研究与过冲问题的讨论相关，也与Stiell关于甲烷的优先事项相关。付费墙：仅阅读了预告内容。",
+    "ar": "تغطية لدراسة سابقة لـ COP31 (موجز Climate Analytics عن المؤثرات المناخية قصيرة العمر)، تفيد بأن الاحترار قد يبلغ ذروته نحو 2050 عند نحو 1.7 درجة مئوية، مع خروج سريع من الوقود الأحفوري وخفض الميثان وملوثات أخرى قصيرة العمر. وهي ذات صلة بالنقاش حول التجاوز وبأولوية Stiell المتعلقة بالميثان. حاجز اشتراك: لم يُقرأ سوى المقتطف التمهيدي."
+   }
   },
   {
    "id": "350org-2026-11-05-turkiye-energy-plan-2040",
@@ -687,7 +1045,15 @@
     "\"As host of COP31, Türkiye has an opportunity to show genuine climate leadership.\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Critique of the host country's National Energy Plan 2040: it welcomes the focus on electrification and renewables, in line with the Presidency's messages, but notes the plan expands investment in gas and oil, contains no commitment or deadline to phase out coal (about one-third of electricity; 60% of coal imported) and relies on nuclear. It calls for an end to coal subsidies, a ban on new projects, a just transition timetable and safeguards in the critical minerals supply chain.",
+    "es": "Crítica al Plan Nacional de Energía 2040 del país anfitrión: elogia el foco en la electrificación y las energías renovables, alineado con los mensajes de la presidencia, pero señala que el plan amplía la inversión en gas y petróleo, no incluye un compromiso ni un plazo para salir del carbón (cerca de un tercio de la electricidad; 60% del carbón importado) y apuesta por la nuclear. Pide el fin de los subsidios al carbón, el veto a nuevos proyectos, un calendario de transición justa y salvaguardas en la cadena de minerales críticos.",
+    "fr": "Critique du Plan national de l'énergie 2040 du pays hôte : salue l'accent mis sur l'électrification et les renouvelables, aligné sur les messages de la présidence, mais relève que le plan élargit les investissements dans le gaz et le pétrole, sans engagement ni échéance de sortie du charbon (environ un tiers de l'électricité ; 60 % du charbon importé) et mise sur le nucléaire. Demande la fin des subventions au charbon, un veto sur les nouveaux projets, un calendrier de transition juste et des garde-fous dans la chaîne des minéraux critiques.",
+    "ru": "Критика Национального энергетического плана Турции до 2040 года: одобряет акцент на электрификации и возобновляемых источниках, согласованный с посланиями председательства, но отмечает, что план расширяет инвестиции в газ и нефть, не содержит обязательства и срока отказа от угля (около трети электроэнергии; 60% угля импортируется) и делает ставку на атомную энергетику. Требует прекратить субсидии на уголь, запретить новые проекты, установить график справедливого перехода и гарантии в цепочке критических минералов.",
+    "zh": "对东道国《2040年国家能源计划》的批评：赞扬其侧重电气化和可再生能源，与主席国信息相一致，但指出该计划扩大了天然气和石油投资，未承诺煤炭退出，也未设定退出期限（煤炭约占发电量的三分之一，其中60%为进口煤炭），并押注核能。要求取消煤炭补贴、禁止新建项目、制定公正转型时间表，并在关键矿产供应链中设置保障措施。",
+    "ar": "انتقاد لخطة الطاقة الوطنية 2040 للبلد المضيف: تُثني على التركيز على الكهربة والطاقة المتجددة بما يتوافق مع رسائل الرئاسة، لكنها تشير إلى أن الخطة توسّع الاستثمار في الغاز والنفط، ولا تتضمن التزاماً ولا موعداً للتخلي عن الفحم (نحو ثلث الكهرباء؛ و60% من الفحم مستورد)، وتراهن على الطاقة النووية. وتطالب بإنهاء دعم الفحم، ووقف المشاريع الجديدة، ووضع جدول زمني للانتقال العادل، وإقامة ضمانات في سلسلة المعادن الحرجة."
+   }
   },
   {
    "id": "bruegel-2026-11-05-eu-climate-resilience",
@@ -703,7 +1069,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Analysis of the EU Climate Resilience Framework arguing for dedicated funding for prevention rather than the post-disaster relief cycle; it does not mention COP31 or CBAM. It complements comments from E3G, WRI and IDDRI on the same framework in the European adaptation track.",
+    "es": "Analiza el Marco de Resiliencia Climática de la UE y defiende financiamiento dedicado a la prevención en lugar del ciclo de socorro posterior a los desastres; no menciona la COP31 ni el CBAM. Complementa los comentarios de E3G, WRI e IDDRI sobre el mismo marco en la vía de adaptación europea.",
+    "fr": "Analyse l'EU Climate Resilience Framework et plaide pour un financement dédié à la prévention plutôt qu'au cycle de secours après catastrophe ; ne mentionne ni la COP31 ni le CBAM. Complète les commentaires d'E3G, du WRI et de l'IDDRI sur le même cadre dans la filière européenne d'adaptation.",
+    "ru": "Анализ Климатической рамки устойчивости ЕС; доклад выступает за выделенное финансирование превентивных мер вместо цикла помощи после бедствий. Не упоминает COP31 и CBAM. Дополняет комментарии E3G, WRI и IDDRI по той же рамке в европейском треке адаптации.",
+    "zh": "分析欧盟气候韧性框架，主张为灾前预防提供专项资金，以替代灾后救助的循环模式；未提及COP31或CBAM。它补充了E3G、WRI和IDDRI对同一框架在欧洲适应议程中的评论。",
+    "ar": "يحلل إطار المرونة المناخية للاتحاد الأوروبي (EU Climate Resilience Framework) ويدعو إلى تمويل مخصص للوقاية بدلاً من دورة الإغاثة بعد الكوارث؛ ولا يذكر COP31 ولا CBAM. ويكمّل تعليقات E3G وWRI وIDDRI على الإطار نفسه في مسار التكيف الأوروبي."
+   }
   },
   {
    "id": "unfccc-2026-11-05-preview",
@@ -726,7 +1100,15 @@
     "Stiell — \"Finance must reach people faster, with less red tape.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Pre-COP statements from the three leaders. Stiell frames Antalya as converting pledges into projects through the negotiations and the Action Agenda, with electrification, resilience, faster finance and methane as priorities. Kurum explicitly acknowledges overshoot of 1.5 °C and rejects new finance targets, pointing to delivery of the US$300 billion from Baku with developed countries leading. Bowen lists finance, cheaper energy for households, electrification and the ocean. No mention of JTM.",
+    "es": "Declaraciones previas a la COP de los tres dirigentes. Stiell presenta Antalya como la conversión de promesas en proyectos mediante las negociaciones y la Agenda de Acción, con electrificación, resiliencia, financiamiento más rápido y metano como prioridades. Kurum reconoce explícitamente el sobrepaso de 1,5 °C y descarta nuevas metas de financiamiento, y apunta a la entrega de los US$ 300 mil millones de Bakú con los países desarrollados a la cabeza. Bowen enumera finanzas, energía más barata para los hogares, electrificación y océano. Nada sobre el JTM.",
+    "fr": "Déclarations pré-COP des trois dirigeants. Stiell présente Antalya comme la transformation de promesses en projets via les négociations et l'Agenda d'action, avec pour priorités l'électrification, la résilience, un financement plus rapide et le méthane. Kurum reconnaît explicitement le dépassement de 1,5 °C et refuse de nouveaux objectifs de financement, en renvoyant à la mise en œuvre des 300 milliards de dollars de Bakou, avec les pays développés en tête. Bowen cite le financement, une énergie moins chère pour les ménages, l'électrification et l'océan. Rien sur le JTM.",
+    "ru": "Предкопенгагенские заявления трёх руководителей. Стиэлл рассматривает Анталью как переход от обещаний к проектам через переговоры и Повестку действий, с электрификацией, устойчивостью, более быстрым финансированием и метаном как приоритетами. Курум прямо признаёт превышение 1,5 °C и отвергает новые финансовые цели, указывая на выполнение обязательства в 300 млрд долл. США из Баку с лидерством развитых стран. Боуэн называет финансы, более дешёвую энергию для семей, электрификацию и океан. Ничего о JTM.",
+    "zh": "三位领导人的会前声明。Stiell将安塔利亚定位为通过谈判和行动议程把承诺转化为项目，优先事项包括电气化、韧性、更快的资金和甲烷。Kurum明确承认1.5 °C过冲，并拒绝新的资金目标，主张落实巴库确定的3000亿美元，由发达国家牵头。Bowen列出的重点为资金、家庭更便宜的能源、电气化和海洋。未提及JTM。",
+    "ar": "تصريحات ما قبل المؤتمر للقادة الثلاثة. يؤطر Stiell أنطاليا بوصفها تحويلاً للتعهدات إلى مشاريع عبر المفاوضات وأجندة العمل، مع الكهربة والمرونة وتسريع التمويل والميثان بوصفها أولويات. ويقرّ Kurum صراحةً بتجاوز 1.5 درجة مئوية، ويرفض أهدافاً تمويلية جديدة، ويشير إلى تسليم 300 مليار دولار من باكو مع قيادة الدول المتقدمة. ويعدّد Bowen التمويل والطاقة الأرخص للأسر والكهربة والمحيطات. ولا شيء عن JTM."
+   }
   },
   {
    "id": "germanwatch-2026-11-05-adaptation-deadlock",
@@ -746,7 +1128,15 @@
     "\"Parking the discussion there is just a way of avoiding the conversation, at least at this COP.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Four requests for COP31: adaptation as a political item in the final package (the EU and Germany should treat it on a par with mitigation); a pragmatic mandate and a workable composition for the Belém Indicators task force, agreed early in the COP; turning the tripling into a trajectory, with deadlines, a baseline and accountability focused on grants (it criticizes the North for parking the issue in the finance room); an implementation mandate for the Baku Adaptation Roadmap linked to the GGA, NAPs, just transition and GST2.",
+    "es": "Cuatro pedidos para la COP31: la adaptación como tema político del paquete final (la UE y Alemania deben tratarla en pie de igualdad con la mitigación); un mandato pragmático y una composición viable del grupo de tareas de los Indicadores de Belém, acordados al inicio de la COP; convertir la triplicación en una trayectoria, con plazo, línea de base y rendición de cuentas centrada en las donaciones (critica al Norte por relegar el tema a la sala de financiamiento); un mandato de implementación para la Hoja de Ruta de Adaptación de Bakú vinculado a la GGA, los NAP, la transición justa y el GST2.",
+    "fr": "Quatre demandes pour la COP31 : l'adaptation comme point politique du paquet final (l'UE et l'Allemagne doivent la traiter sur un pied d'égalité avec l'atténuation) ; un mandat pragmatique et une composition viable du groupe de travail sur les indicateurs de Belém, convenus tôt dans la COP ; transformer le triplement en trajectoire, avec échéance, référence de base et redevabilité, axée sur les dons (critique le Nord qui cantonne le sujet à la salle des finances) ; un mandat de mise en œuvre pour la Baku Adaptation Roadmap (BAR), lié à la GGA, aux PNA, à la transition juste et au GST2.",
+    "ru": "Четыре требования к КС-31: адаптация как политический пункт итогового пакета (ЕС и Германия должны рассматривать её наравне со смягчением); прагматичный мандат и жизнеспособный состав целевой группы по индикаторам Белена, согласованные в начале КС; превратить утроение в траекторию со сроками, базовой линией и подотчётностью с упором на безвозмездную помощь (критикует Север за то, что тема задвинута в зал финансов); мандат на реализацию Baku Adaptation Roadmap, связанный с GGA, NAP, справедливым переходом и GST2.",
+    "zh": "Germanwatch对COP31提出四项要求：适应应作为最终一揽子方案中的政治议题，欧盟和德国应与减缓同等对待；尽早在大会期间商定贝伦指标特别工作组的务实任务和可行组成；将资金增至三倍落实为路径、期限、基线和问责机制，重点关注赠款（批评北方国家将此议题搁置在融资会场）；为巴库适应路线图设定与GGA、NAP、公正转型和GST2挂钩的实施任务。",
+    "ar": "أربعة مطالب للـ COP31: أن يكون التكيف بنداً سياسياً في الحزمة النهائية (ينبغي أن يعامله الاتحاد الأوروبي وألمانيا على قدم المساواة مع التخفيف)؛ وتفويض عملي وتشكيل قابل للتطبيق لفرقة عمل مؤشرات بيليم، يُتفق عليهما مبكراً في المؤتمر؛ وتحويل مضاعفة التمويل إلى مسار وأجل وخط أساس ومساءلة، مع التركيز على المنح (وتنتقد الشمال لأنه يضع الموضوع في غرفة التمويل)؛ وتفويض تنفيذ لـ Baku Adaptation Roadmap مرتبط بـ GGA وNAPs والانتقال العادل وGST2."
+   }
   },
   {
    "id": "wuppertal-2026-11-05-gst-acclimate",
@@ -766,7 +1156,15 @@
     "\"a second conference, to be co-hosted by Tuvalu and Ireland in July 2027\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "The report analyses 113 NDCs and three case studies (Brazil, EU, Nigeria) on how GST1 shaped the 2035 NDCs and domestic policies, with lessons for designing GST2. Its conclusion: GST1 served as a general frame of reference, with uneven translation into concrete commitments. The brief proposes four measures for the EU to contribute to TAFF, against the backdrop of the failure of the global roadmap in Belém and the April 2026 TAFF conference (the second Tuvalu–Ireland conference is in July 2027).",
+    "es": "El informe analiza 113 NDC y tres estudios de caso (Brasil, UE, Nigeria) sobre cómo el GST1 moldeó las NDC 2035 y las políticas nacionales, con lecciones para el diseño del GST2; conclusión: el GST1 sirvió como marco de referencia general, con una traducción desigual en compromisos concretos. El documento propone cuatro medidas para que la UE contribuya a la TAFF, en el contexto del fracaso de la hoja de ruta global en Belém y de la conferencia sobre la TAFF de abril de 2026 (segunda conferencia Tuvalu–Irlanda en julio de 2027).",
+    "fr": "Rapport analysant 113 NDC et trois études de cas (Brésil, UE, Nigéria) sur la façon dont le GST1 a façonné les NDC 2035 et les politiques nationales, avec des enseignements pour la conception du GST2 ; conclusion : le GST1 a servi de cadre de référence général, avec une traduction inégale en engagements concrets. Le document propose quatre mesures pour que l'UE contribue à la TAFF, dans le contexte de l'échec de la feuille de route mondiale à Belém et de la conférence TAFF d'avril 2026 (deuxième conférence Tuvalu–Irlande en juillet 2027).",
+    "ru": "Доклад анализирует 113 NDC и три примера (Бразилия, ЕС, Нигерия) о том, как GST1 повлиял на NDC 2035 и внутреннюю политику, с выводами для разработки GST2; вывод: GST1 стал общей рамочной основой, но его перевод в конкретные обязательства неравномерен. Бриф предлагает четыре меры, чтобы ЕС внёс вклад в TAFF, на фоне провала глобальной дорожной карты в Белене и конференции по TAFF в апреле 2026 года (вторая конференция Тувалу–Ирландия в июле 2027 года).",
+    "zh": "报告分析了113份NDC，并以巴西、欧盟和尼日利亚为案例研究，探讨GST1如何塑造2035年NDC及国内政策，为GST2的设计提供经验；结论是：GST1起到了总体参照框架的作用，但在具体承诺上的转化并不均衡。该简报提出欧盟支持TAFF的四项措施，背景是贝伦全球路线图的失败，以及2026年4月的TAFF会议（图瓦卢–爱尔兰第二次会议定于2027年7月举行）。",
+    "ar": "يحلل التقرير 113 مساهمة محددة وطنياً وثلاث دراسات حالة (البرازيل والاتحاد الأوروبي ونيجيريا) حول كيفية تشكيل GST1 لمساهمات 2035 والسياسات المحلية، مع دروس لتصميم GST2. ويخلص إلى أن GST1 قدّم إطاراً مرجعياً عاماً، مع ترجمة غير متكافئة إلى التزامات ملموسة. ويقترح الموجز أربعة إجراءات يساهم بها الاتحاد الأوروبي في TAFF، في سياق إخفاق خارطة الطريق العالمية في بيليم ومؤتمر TAFF في أبريل 2026 (المؤتمر الثاني لتوفالو–أيرلندا في يوليو 2027)."
+   }
   },
   {
    "id": "iddri-2026-11-side-events",
@@ -782,7 +1180,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Logistics page listing IDDRI's side events in Antalya, 9–20 November. IDDRI's analytical texts (electrification as the central political test; reading of the COP30 Presidency's TAFF roadmap; issue brief on TAFF and GST2) are already listed in the Think tanks section.",
+    "es": "Página logística con los eventos paralelos del IDDRI en Antalya, del 9 al 20 de noviembre. Los textos analíticos del IDDRI (la electrificación como prueba política central; lectura de la hoja de ruta TAFF de la presidencia de la COP30; nota temática sobre TAFF y GST2) ya figuran en la sección Think tanks.",
+    "fr": "Page logistique des manifestations parallèles de l'IDDRI à Antalya, du 9 au 20 novembre. Les textes analytiques de l'IDDRI (l'électrification comme test politique central ; lecture de la feuille de route TAFF de la présidence de la COP30 ; note de synthèse sur la TAFF et le GST2) figurent déjà dans la section Think tanks.",
+    "ru": "Логистическая страница с параллельными мероприятиями IDDRI в Анталье, 9–20 ноября. Аналитические материалы IDDRI (электрификация как главный политический тест; разбор дорожной карты TAFF председательства COP30; краткий обзор по TAFF и GST2) уже включены в раздел «Аналитические центры».",
+    "zh": "IDDRI在安塔利亚（11月9–20日）边会的后勤页面。IDDRI的分析文本（电气化作为核心政治考验；对主席国COP30 TAFF路线图的解读；关于TAFF与GST2的议题简报）已列入“智库”部分。",
+    "ar": "صفحة لوجستية بفعاليات IDDRI الجانبية في أنطاليا، من 9 إلى 20 نوفمبر. وترد المواد التحليلية لـ IDDRI (الكهربة بوصفها الاختبار السياسي المحوري؛ وقراءة خارطة طريق TAFF الصادرة عن رئاسة COP30؛ وموجز حول TAFF وGST2) في قسم مراكز الفكر."
+   }
   },
   {
    "id": "can-2026-11-05-climate-justice",
@@ -805,7 +1211,15 @@
     "\"Governments must honour their 2025 commitment to at least triple Adaptation finance by 2035\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "CAN's official position for Antalya: establish the JTM (Belém–Antalya Mechanism) with public grant funding; a credible plan for at least US$120 billion a year in adaptation well before 2035, and an explanation of how to close the rest of the gap (tripling leaves more than 70% of needs unmet, according to UNEP); predictable public finance in grants; electrification that replaces fossil fuels (in Africa, access is the priority) and extension of the Mitigation Work Programme to 2030; delivery of the FRLD pledges and the replenishment process. It does not address civic space.",
+    "es": "Posición oficial de la CAN para Antalya: establecer el JTM (Mecanismo Belém–Antalya) con financiamiento público en donaciones; un plan creíble para al menos US$ 120 mil millones al año en adaptación mucho antes de 2035 y una explicación de cómo cerrar el resto de la brecha (triplicar deja más de 70% de las necesidades sin cubrir, según UNEP); financiamiento público previsible y en donaciones; electrificación que sustituya a los fósiles (en África, la prioridad es el acceso) y extensión del Mitigation Work Programme hasta 2030; cumplimiento de las promesas al FRLD y proceso de reposición. No aborda el espacio cívico.",
+    "fr": "Position officielle de la CAN pour Antalya : établir le JTM (Mécanisme Belém–Antalya) avec un financement public sous forme de dons ; un plan crédible d'au moins 120 milliards de dollars par an pour l'adaptation bien avant 2035, et une explication de la façon de combler le reste du déficit (tripler laisse plus de 70 % des besoins non couverts, selon l'UNEP) ; des financements publics prévisibles et sous forme de dons ; une électrification qui remplace les fossiles (en Afrique, la priorité est l'accès) et la prolongation du Mitigation Work Programme jusqu'en 2030 ; le respect des promesses au FRLD et le processus de reconstitution. Ne traite pas de l'espace civique.",
+    "ru": "Официальная позиция CAN для Антальи: учредить JTM (Механизм Белен–Антальи) с государственным финансированием в виде безвозмездной помощи; правдоподобный план не менее 120 млрд долл. США в год на адаптацию задолго до 2035 года и объяснение, как закрыть остальной разрыв (утроение оставляет более 70% потребностей без покрытия, по оценке UNEP); предсказуемые государственные финансы в виде грантов; электрификация, замещающая ископаемое топливо (в Африке приоритет — доступ), и продление Mitigation Work Programme до 2030 года; выполнение обещаний FRLD и процесс пополнения. Вопросы гражданского пространства не рассматриваются.",
+    "zh": "CAN对安塔利亚的正式立场：设立JTM（贝伦–安塔利亚机制），以公共赠款资助；在2035年之前远早提出可信的每年至少1200亿美元适应资金方案，并说明如何弥补其余缺口（据UNEP，仅将资金增至三倍仍将使70%以上的需求无法满足）；资金应可预测、以公共赠款形式提供；电气化应替代化石燃料（在非洲，优先事项是获取能源），并将减缓工作方案延长至2030年；兑现对损失和损害基金的承诺并推进补充进程。未涉及公民空间问题。",
+    "ar": "الموقف الرسمي لشبكة CAN لأنطاليا: إنشاء آلية الانتقال العادل (JTM، آلية بيليم–أنطاليا) بتمويل عام في شكل منح؛ وخطة موثوقة لتوفير 120 مليار دولار على الأقل سنوياً للتكيف قبل 2035 بكثير، مع توضيح كيفية سد بقية الفجوة (فمضاعفة التمويل ثلاث مرات تترك أكثر من 70% من الاحتياجات دون تمويل وفق UNEP)؛ وتمويل عام يمكن التنبؤ به وفي شكل منح؛ وكهربة تحل محل الوقود الأحفوري (وفي أفريقيا الأولوية للوصول)، وتمديد برنامج عمل التخفيف حتى 2030؛ والوفاء بالتعهدات للصندوق FRLD وعملية تجديد الموارد. ولا يتناول الموقف مسألة الحيّز المدني."
+   }
   },
   {
    "id": "chn-2026-11-05-briefing",
@@ -832,7 +1246,15 @@
     "\"A majority of countries want the AR7 set of IPCC reports ready in time for the second global stocktake\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Full briefing (updated 6 Nov). Electrification: voluntary pledge launched at Energy Day (10 Nov); Australia has signed, Europe is expected to join, India may decline, China undecided; current policies yield 28%. Cover decision: Australia concedes the cover text may mention overshoot, electrification, methane, early warning, finance for vulnerable countries and nature; the EU and SIDS want a reference to the fossil roadmap, producers oppose. Adaptation: the African Group asks for agenda items; Nepal asks for a mountains programme. JTM as the main deliverable. IPCC: most want AR7 in time for GST2; Saudi Arabia, India and Russia resist. Trade: China and the African Group want a formal agenda item. Approval of Saturday's march still pending. Deforestation has dropped out of the Türkiye Action Agenda.",
+    "es": "Briefing completo (actualizado el 6 de nov.). Electrificación: compromiso voluntario lanzado en el Día de la Energía (10 de nov.); Australia lo firmó, Europa debe adherirse, India puede negarse, China no ha decidido; las políticas actuales dan un 28%. Decisión de cobertura: Australia admite mencionar el sobrepaso, la electrificación, el metano, la alerta temprana, el financiamiento para los vulnerables y la naturaleza; la UE y los SIDS quieren una referencia a la hoja de ruta de fósiles, y los productores se oponen. Adaptación: el Grupo Africano pide temas de agenda; Nepal pide un programa sobre montañas. El JTM como principal entregable. IPCC: la mayoría quiere el AR7 a tiempo para el GST2; Arabia Saudita, India y Rusia se resisten. Comercio: China y el Grupo Africano quieren un tema formal. La aprobación de la marcha del sábado sigue pendiente. La deforestación salió de la Agenda de Acción turca.",
+    "fr": "Briefing complet (mis à jour le 6 novembre). Électrification : engagement volontaire lancé à la Journée de l'énergie (10 novembre) ; l'Australie a signé, l'Europe devrait adhérer, l'Inde pourrait refuser, la Chine hésite ; les politiques actuelles donnent 28 %. Décision de couverture : l'Australie admet mentionner le dépassement, l'électrification, le méthane, l'alerte précoce, le financement des plus vulnérables et la nature ; l'UE et les SIDS veulent une référence à la feuille de route fossile, les producteurs s'y opposent. Adaptation : le Groupe africain demande des points d'ordre du jour ; le Népal demande un programme sur les montagnes. Le JTM est le principal livrable. IPCC : la majorité veut le AR7 à temps pour le GST2 ; Arabie saoudite, Inde et Russie résistent. Commerce : la Chine et le Groupe africain veulent un point formel. L'autorisation de la marche de samedi est encore en attente. La déforestation a été retirée de l'Agenda d'action turc.",
+    "ru": "Полный брифинг (обновлён 6 ноября). Электрификация: добровольное обязательство, объявленное в День энергетики (10 ноября); Австралия подписала, Европа должна присоединиться, Индия может отказаться, Китай не определился; действующая политика даёт 28%. Cover decision: Австралия допускает упоминание превышения, электрификации, метана, раннего предупреждения, финансирования уязвимых и природы; ЕС и SIDS хотят ссылки на дорожную карту по ископаемому топливу, производители против. Адаптация: Африканская группа запрашивает пункты повестки; Непал просит программу по горам. JTM как главный результат. МГЭИК: большинство хочет AR7 к GST2; Саудовская Аравия, Индия и Россия сопротивляются. Торговля: Китай и Африканская группа хотят формального пункта. Разрешение на субботний марш ещё не получено. Вырубка лесов исключена из Повестки действий турецкого председательства.",
+    "zh": "完整简报（11月6日更新）。电气化：自愿承诺将于能源日（11月10日）发起；澳大利亚已签署，欧洲应当加入，印度可能拒绝，中国态度未定；现行政策仅能实现28%。总括决定：澳大利亚承认可能提及过冲、电气化、甲烷、早期预警、为弱势群体提供资金以及自然保护；欧盟和小岛屿发展中国家希望提及化石燃料路线图，产油国则反对。适应：非洲集团请求列入议程项目；尼泊尔请求设立山区方案。JTM是主要成果。IPCC：多数国家希望在GST2之前完成AR7，沙特阿拉伯、印度和俄罗斯表示抵制。贸易：中国和非洲集团希望设立正式议程项目。周六游行的批准仍待定。土耳其主办的行动议程中已删除森林砍伐议题。",
+    "ar": "موجز شامل (محدّث في 6 نوفمبر). الكهربة: تعهد طوعي يُطلق في يوم الطاقة (10 نوفمبر)؛ وقّعته أستراليا، ومن المتوقع أن تنضم أوروبا، وقد ترفض الهند، والصين ما زالت مترددة؛ والسياسات الحالية تعطي 28%. القرار الجامع: تقبل أستراليا ذكر التجاوز والكهربة والميثان والإنذار المبكر والتمويل للفئات الضعيفة والطبيعة؛ وتريد الاتحاد الأوروبي والدول الجزرية الصغيرة النامية إشارة إلى خارطة الطريق للوقود الأحفوري، ويعترض المنتجون. التكيف: تطلب المجموعة الأفريقية بنوداً في جدول الأعمال، وتطلب نيبال برنامجاً عن الجبال. JTM بوصفه المخرج الرئيسي. IPCC: يريد معظم الأطراف AR7 في الوقت المناسب لـ GST2، وتقاوم ذلك السعودية والهند وروسيا. التجارة: تريد الصين والمجموعة الأفريقية بنداً رسمياً. ما زالت الموافقة على مسيرة يوم السبت معلّقة. وأُسقطت إزالة الغابات من أجندة العمل التركية."
+   }
   },
   {
    "id": "chn-2026-11-05-fossil-free-zones",
@@ -852,7 +1274,15 @@
     "\"57 total countries representing nearly half the world's GDP and approximately 20% of the global fossil fuel supply\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Proposes Fossil Free Zones (areas where the government permanently excludes oil, gas and coal extraction) as a way to operationalize TAFF. Colombia closed roughly 500,000 km² of the Amazon (42% of its territory) to new mining and hydrocarbons in August, a measure since revoked by the new government; Vanuatu targets 100% renewable electricity by 2030; the Pacific adopted the Tassiriki Call and proposed the first fossil-free marine zone in Santa Marta (57 countries), to be taken to the Tuvalu conference in July 2027.",
+    "es": "Proponen Fossil Free Zones (áreas donde el gobierno excluye de forma permanente la extracción de petróleo, gas y carbón) como forma de poner en práctica la TAFF. Colombia cerró en agosto unos 500.000 km² de la Amazonía (42% del territorio) a la nueva minería e hidrocarburos, medida ya revocada por el nuevo gobierno; Vanuatu apunta al 100% de electricidad renovable en 2030; el Pacífico adoptó el Tassiriki Call y propuso la primera zona marina libre de fósiles en Santa Marta (57 países), que se llevará a la conferencia de Tuvalu en julio de 2027.",
+    "fr": "Proposent des Fossil Free Zones (zones où le gouvernement exclut de façon permanente l'extraction de pétrole, de gaz et de charbon) comme mise en œuvre opérationnelle de la TAFF. La Colombie a fermé en août environ 500 000 km² de l'Amazonie (42 % du territoire) à la nouvelle exploitation minière et aux hydrocarbures, mesure depuis abrogée par le nouveau gouvernement ; Vanuatu vise 100 % d'électricité renouvelable en 2030 ; le Pacifique a adopté le Tassiriki Call et proposé la première zone maritime exempte de fossiles à Santa Marta (57 pays), à porter à la conférence de Tuvalu en juillet 2027.",
+    "ru": "Предлагают «Fossil Free Zones» (территории, где правительство навсегда исключает добычу нефти, газа и угля) как реализацию TAFF. Колумбия в августе закрыла около 500 тыс. км² Амазонии (42% территории) для новой добычи полезных ископаемых и углеводородов, однако новое правительство эту меру отменило; Вануату ставит цель 100% возобновляемой электроэнергии к 2030 году; Тихоокеанский регион принял Tassiriki Call и предложил первую морскую зону, свободную от ископаемого топлива, в Санта-Марте (57 стран), которую вынесут на конференцию в Тувалу в июле 2027 года.",
+    "zh": "提议设立无化石燃料区（政府永久禁止石油、天然气和煤炭开采的区域），作为落实TAFF的具体途径。哥伦比亚于8月将亚马逊约50万平方公里（占国土的42%）划为禁止新开采石油和碳氢化合物的区域，该措施已被新政府撤销；瓦努阿图的目标是2030年实现100%可再生电力；太平洋地区通过了《Tassiriki呼吁》，并提议在圣玛尔塔设立首个无化石燃料海洋区（57个国家参与），并将提交2027年7月的图瓦卢会议。",
+    "ar": "تقترح “المناطق الخالية من الوقود الأحفوري” (Fossil Free Zones)، أي مناطق تستبعد فيها الحكومة بشكل دائم استخراج النفط والغاز والفحم، بوصفها آلية لتنفيذ TAFF. وفي أغسطس، استبعدت كولومبيا نحو 500 ألف كيلومتر مربع من الأمازون (42% من أراضيها) من التعدين الجديد والهيدروكربونات، وهو إجراء ألغته الحكومة الجديدة بالفعل؛ وتستهدف فانواتو توليد 100% من الكهرباء من مصادر متجددة بحلول 2030؛ وتبنّت منطقة المحيط الهادئ Tassiriki Call، واقترحت أول منطقة بحرية خالية من الوقود الأحفوري في سانتا مارتا (57 دولة)، لتُطرح على مؤتمر توفالو في يوليو 2027."
+   }
   },
   {
    "id": "chn-2026-11-05-ozel",
@@ -873,7 +1303,15 @@
     "\"the imprisonment and removal of more than 50 elected opposition mayors\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Calls for measurable results: a voluntary fossil transition roadmap with 2030 and 2035 milestones and annual reporting; annual reporting on the finance target; adaptation indicators becoming funded national plans by COP32; a Mediterranean–Pacific resilience partnership with Australia. It criticizes the import of European plastic and, on civic space, the arrest and removal of more than 50 opposition mayors as an obstacle to municipal adaptation.",
+    "es": "Pide resultados medibles: una hoja de ruta voluntaria de transición fósil con hitos para 2030 y 2035 e informe anual; un informe anual sobre la meta de financiamiento; indicadores de adaptación que se conviertan en planes nacionales financiados antes de la COP32; una asociación Mediterráneo–Pacífico para la resiliencia con Australia. Critica la importación de plástico europeo y, sobre el espacio cívico, la detención y destitución de más de 50 alcaldes de la oposición como obstáculo para la adaptación municipal.",
+    "fr": "Demande des résultats mesurables : une feuille de route volontaire de sortie des fossiles avec des jalons 2030/2035 et un rapport annuel ; un rapport annuel sur l'objectif de financement ; des indicateurs d'adaptation devenant des plans nationaux financés d'ici la COP32 ; un partenariat Méditerranée–Pacifique pour la résilience avec l'Australie. Critique l'importation de plastique européen et, sur l'espace civique, l'arrestation et la révocation de plus de 50 maires de l'opposition, qui entravent l'adaptation municipale.",
+    "ru": "Требует измеримых результатов: добровольная дорожная карта перехода от ископаемого топлива с этапами 2030 и 2035 годов и ежегодной отчётностью; ежегодный отчёт по цели финансирования; индикаторы адаптации становятся финансируемыми национальными планами к COP32; партнёрство Средиземноморье–Тихий океан по устойчивости с Австралией. Критикует импорт европейского пластика и, касаясь гражданского пространства, арест и отстранение более 50 мэров из оппозиции как препятствие для муниципальной адаптации.",
+    "zh": "要求取得可衡量的成果：设立自愿性化石燃料转型路线图，包含2030年和2035年里程碑并每年报告；每年报告资金目标的进展；适应指标须在COP32前转化为有资金支持的国家计划；与澳大利亚共建地中海–太平洋韧性伙伴关系。批评欧洲塑料进口，并就公民空间问题指出：逮捕和罢免50多名反对派市长，阻碍了地方适应工作。",
+    "ar": "تطالب بنتائج قابلة للقياس: خارطة طريق طوعية للانتقال بعيداً عن الوقود الأحفوري بمحطتي 2030 و2035 مع تقرير سنوي؛ وتقرير سنوي عن هدف التمويل؛ وتحويل مؤشرات التكيف إلى خطط وطنية ممولة قبل COP32؛ وشراكة للمرونة بين البحر الأبيض المتوسط والمحيط الهادئ مع أستراليا. وتنتقد استيراد البلاستيك الأوروبي، وفيما يتعلق بالحيز المدني، تنتقد اعتقال وعزل أكثر من 50 عمدة من المعارضة بوصفه عائقاً أمام التكيف البلدي."
+   }
   },
   {
    "id": "carbonbrief-2026-11-05-text-tracker",
@@ -896,7 +1334,15 @@
     "\"Turkey holds the presidency and is hosting COP31, but Australia is jointly running the show\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Real-time tracker with 104 substantive agenda items, a traffic-light system (red: no text; orange: informal; yellow: legal text in brackets; green: agreed; grey: rule 16) and links to the PDFs. It records: cover text planned by Türkiye and Australia that may acknowledge overshoot and list solutions (electrification 35 by 35); the GGA to be finalized; the AGN asks for items on tripling, trade tariffs and the GCF; JTM/BAM to be detailed; MWP contested; two new items already agreed at COP30 (9.1 and 2.1c). Daily source during the COP.",
+    "es": "Rastreador en tiempo real con 104 puntos sustantivos de la agenda, con semáforo (rojo sin texto; naranja informal; amarillo texto legal entre corchetes; verde acordado; gris regla 16) y enlaces a los PDF. Registra: el texto de la decisión de cobertura previsto por Türkiye y Australia, que podría reconocer el sobrepaso y enumerar soluciones (electrificación 35 by 35); la GGA por finalizar; el AGN pide temas sobre la triplicación, los aranceles comerciales y el GCF; el JTM/BAM por detallar; el MWP en disputa; dos temas nuevos ya acordados en la COP30 (9.1 y 2.1c). Fuente diaria durante la COP.",
+    "fr": "Suivi en temps réel de 104 points de fond de l'ordre du jour, avec code couleur (rouge : pas de texte ; orange : informel ; jaune : texte juridique entre crochets ; vert : convenu ; gris : règle 16) et liens vers les PDF. Il relève que le texte de couverture prévu par la Türkiye et l'Australie pourrait reconnaître le dépassement et lister des solutions (électrification 35/35) ; la GGA reste à finaliser ; le Groupe africain demande des points sur le triplement, les tarifs commerciaux et le GCF ; le JTM/BAM reste à détailler ; le MWP est contesté ; deux nouveaux points déjà convenus à la COP30 (9.1 et 2.1c). Source quotidienne pendant la COP.",
+    "ru": "Трекер в реальном времени с 104 пунктами содержательной повестки, светофором (красный — без текста; оранжевый — неформально; жёлтый — юридический текст в скобках; зелёный — согласовано; серый — правило 16) и ссылками на PDF. Фиксирует: запланированный cover text Турции и Австралии может признать превышение и перечислить решения (электрификация 35/35); GGA ещё дорабатывается; AGN требует пункты о утроении, торговых тарифах и GCF; JTM/BAM нужно детализировать; MWP оспаривается; два новых пункта уже согласованы на COP30 (9.1 и 2.1c). Ежедневный источник в ходе КС.",
+    "zh": "实时跟踪器，包含104项实质性议程事项，并以颜色标示状态（红色为无文本；橙色为非正式；黄色为带方括号的法律文本；绿色为已商定；灰色为第16条规则），并附有PDF链接。记录显示：土耳其和澳大利亚计划的总括文本可能承认过冲并列出解决方案（35/35电气化）；GGA仍待定稿；非洲集团要求设立关于资金增至三倍、关税及GCF的议程项目；JTM/BAM仍待细化；MWP存在争议；两项新议题（9.1和2.1c）已在COP30上商定。会议期间每日更新。",
+    "ar": "متتبّع لحظي يضم 104 بنود جوهرية في جدول الأعمال، بنظام إشارات (أحمر: لا نص؛ برتقالي: غير رسمي؛ أصفر: نص قانوني بين أقواس معقوفة؛ أخضر: متفق عليه؛ رمادي: القاعدة 16) مع روابط إلى ملفات PDF. ويسجل: نص القرار الجامع الذي تخطط له تركيا وأستراليا، وقد يقر بالتجاوز ويعدد الحلول (الكهربة 35/35)؛ وGGA ما زال قيد الإنهاء؛ وتطالب المجموعة الأفريقية ببنود عن مضاعفة التمويل والتعريفات التجارية وGCF؛ وJTM/BAM يحتاج إلى تفصيل؛ وMWP موضع خلاف؛ وبندان جديدان متفق عليهما بالفعل في COP30 (9.1 و2.1c). مصدر يومي خلال المؤتمر."
+   }
   },
   {
    "id": "wuppertal-2026-11-05-release",
@@ -914,7 +1360,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T09:00:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Wants the 35% target anchored in the formal COP results and warns that the transition away from fossil fuels is being pushed to the back burner. Notes that developed countries are reluctant to provide concrete financial support for the just transition mechanism. Already incorporated into the guide.",
+    "es": "Quiere que la meta del 35% quede anclada en los resultados formales de la COP y advierte de que la transición para abandonar los fósiles se está relegando a un segundo plano. Señala que los países desarrollados se muestran reacios a aportar apoyo financiero concreto al mecanismo de transición justa. Ya incorporado a la guía.",
+    "fr": "Veut que l'objectif de 35 % soit ancré dans les résultats formels de la COP et alerte que la transition hors des fossiles est reléguée au second plan. Relève que les pays développés hésitent à apporter un soutien financier concret au mécanisme de transition juste. Déjà intégré au guide.",
+    "ru": "Хочет закрепить цель в 35% в формальных результатах КС и предупреждает, что переход от ископаемого топлива оттесняется на второй план. Отмечает, что развитые страны неохотно идут на конкретную финансовую поддержку механизма справедливого перехода. Уже включено в путеводитель.",
+    "zh": "希望将35%的目标锚定在大会正式成果中，并警告摆脱化石燃料转型正被推至次要位置。指出发达国家不愿为公正转型机制提供具体资金支持。已纳入本指南。",
+    "ar": "يريد تثبيت هدف 35% على أساس النتائج الرسمية لـ COP، ويحذر من أن الانتقال بعيداً عن الوقود الأحفوري يُدفع إلى الخلف. ويسجل أن الدول المتقدمة تتردد في تقديم دعم مالي ملموس لآلية الانتقال العادل. وقد أُدمج ذلك في الدليل."
+   }
   },
   {
    "id": "iddri-2026-11-05-electrifying-breakthrough",
@@ -933,7 +1387,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T09:00:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Calls electrification the COP31's central political test and warns that a target alone will not deliver transformation. Rates a breakthrough on finance as highly unlikely and describes Australia's Access to Finance Declaration as toothless; expects CBAM to be one of the most contentious issues. Sees Türkiye as a North–South bridge. Already incorporated into the guide.",
+    "es": "Califica la electrificación como la prueba política central de la COP31 y advierte que una meta por sí sola no logra la transformación. Considera muy improbable un avance en finanzas y califica de sin dientes la Declaración australiana de Acceso a Financiamiento; prevé que el CBAM será uno de los temas más controvertidos. Ve a Türkiye como puente Norte–Sur. Ya incorporado a la guía.",
+    "fr": "Présente l'électrification comme le test politique central de la COP31 et prévient qu'un objectif seul n'apportera pas la transformation. Juge un progrès sur le financement hautement improbable et la Déclaration australienne sur l'accès au financement sans portée réelle ; prévoit que le CBAM sera l'un des sujets les plus conflictuels. Voit la Türkiye comme un pont Nord–Sud. Déjà intégré au guide.",
+    "ru": "Называет электрификацию главным политическим тестом КС-31 и предупреждает, что одна цель сама по себе не даст трансформации. Считает прорыв в финансах крайне маловероятным, а австралийскую Access to Finance Declaration — беззубой; прогнозирует, что CBAM станет одной из самых спорных тем. Видит Турцию как мост между Севером и Югом. Уже включено в путеводитель.",
+    "zh": "将电气化视为COP31的核心政治考验，并警告仅有一项目标无法带来转型。认为资金方面的突破可能性极低，并认为澳大利亚的《资金获取宣言》缺乏实质约束力；预计CBAM将成为最具争议的议题之一。认为土耳其是南北之间的桥梁。已纳入本指南。",
+    "ar": "يصف الكهربة بأنها الاختبار السياسي المركزي لـ COP31، ويحذر من أن هدفاً واحداً لا يحقق التحول وحده. ويصنف أي تقدم في التمويل بأنه مستبعد جداً، ويصف إعلان Access to Finance الأسترالي بأنه عديم الأثر؛ ويتوقع أن تكون آلية CBAM من أكثر الموضوعات خلافاً. ويرى أن تركيا جسر بين الشمال والجنوب. وقد أُدرج ذلك في الدليل بالفعل."
+   }
   },
   {
    "id": "icc-2026-11-04-sme-climate-finance",
@@ -954,7 +1416,15 @@
     "\"30% of SMEs still collect sustainability data by hand, spending around 12 working days a year on this task.\""
    ],
    "first_seen": "2026-11-07T06:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Around 46 million SMEs are ready to invest in climate but need about US$1.1 trillion in external finance over the next 12 months (US$946 billion for transition, US$167 billion for adaptation); only 1% received green finance last year, even though global flows rose above US$2 trillion in 2024. Three levers: single machine-readable data, data generation through accounting software with consent, and small green loans backed by public guarantees. It asks COP31 to address not only the volume of the NCQG but also access, cost of capital and 'bankability'.",
+    "es": "Unos 46 millones de pymes están listas para invertir en clima, pero necesitan ~US$ 1,1 billones de financiamiento externo en los próximos 12 meses (US$ 946 mil millones para transición, US$ 167 mil millones para adaptación); solo el 1% recibió financiamiento verde en el último año, pese a que los flujos globales pasaron de US$ 2 billones en 2024. Tres palancas: datos únicos legibles por máquina, generación de datos mediante software de contabilidad con consentimiento y pequeños préstamos verdes con garantías públicas. Pide que la COP31 aborde no solo el volumen del NCQG, sino el acceso, el costo del capital y la bancabilidad.",
+    "fr": "Environ 46 millions de PME sont prêtes à investir dans le climat, mais ont besoin d'environ 1,1 billion de dollars de financement externe dans les douze prochains mois (946 milliards pour la transition, 167 milliards pour l'adaptation) ; seulement 1 % a reçu des financements verts l'an dernier, alors que les flux mondiaux sont passés de 2 billions de dollars en 2024. Trois leviers : données uniques lisibles par machine, production de données via des logiciels comptables avec consentement, et petits prêts verts garantis par des fonds publics. Demande que la COP31 traite non seulement du volume du NCQG, mais aussi de l'accès, du coût du capital et de la « bancabilité ».",
+    "ru": "Около 46 млн МСП готовы инвестировать в климат, но им нужно около 1,1 трлн долл. США внешнего финансирования в ближайшие 12 месяцев (946 млрд на переход, 167 млрд на адаптацию); только 1% получил зелёное финансирование за последний год, хотя глобальные потоки выросли с 2 трлн долл. в 2024 году. Три рычага: единые машиночитаемые данные, генерация данных через бухгалтерское ПО с согласия, мелкие зелёные кредиты с государственными гарантиями. Призывает КС-31 заниматься не только объёмом NCQG, но и доступом, стоимостью капитала и bankability.",
+    "zh": "约4600万家中小企业准备投资于气候领域，但未来12个月内需要约1.1万亿美元的外部融资（转型9460亿美元，适应1670亿美元）；尽管2024年全球气候资金流量已超过2万亿美元，去年仅有1%的中小企业获得绿色融资。三项杠杆：机器可读的统一数据、在征得同意的前提下通过会计软件生成数据，以及由公共担保支持的小额绿色贷款。要求COP31不仅关注NCQG的规模，还应关注可获得性、资本成本和“可融资性”。",
+    "ar": "نحو 46 مليون مؤسسة صغيرة ومتوسطة مستعدة للاستثمار في المناخ، لكنها تحتاج إلى نحو 1.1 تريليون دولار من التمويل الخارجي خلال الأشهر الاثني عشر المقبلة (946 مليار دولار للانتقال و167 مليار دولار للتكيف)؛ ولم يحصل سوى 1% منها على تمويل أخضر في العام الماضي، رغم أن التدفقات العالمية تجاوزت 2 تريليون دولار في 2024. والروافع الثلاث هي: بيانات موحدة قابلة للقراءة آلياً، وتوليد البيانات عبر برامج المحاسبة بموافقة، وقروض خضراء صغيرة مدعومة بضمانات عامة. وتطالب ICC COP31 بأن تتناول ليس حجم NCQG فحسب، بل أيضاً الوصول وتكلفة رأس المال و“القابلية للتمويل” (bankability)."
+   }
   },
   {
    "id": "350org-2026-11-04-coal-regions-joint-call",
@@ -976,7 +1446,15 @@
     "\"A just transition must be at the heart of phasing out coal\""
    ],
    "first_seen": "2026-11-06T18:13:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Letter from 50 organizations in coal regions (about 25 from Türkiye and 14 from Australia, plus Canada, the UK, the US, South Africa, Colombia, Indonesia, the Pacific and Germany) to Kurum and Bowen, asking the hosts to lead by example: refuse permits for new coal plants and expansions, halt new mines and accelerate international cooperation toward a coal-free future. It insists on just transition plans for workers and local economies, and cites the victory against a new plant in Afşin-Elbistan.",
+    "es": "Carta de 50 organizaciones de regiones carboníferas (unas 25 de Türkiye y 14 de Australia, además de Canadá, Reino Unido, EE. UU., Sudáfrica, Colombia, Indonesia, el Pacífico y Alemania) dirigida a Kurum y Bowen, que pide que los anfitriones den ejemplo: negar licencias a nuevas centrales de carbón y ampliaciones, detener nuevas minas y acelerar la cooperación internacional por un futuro sin carbón. Insiste en planes de transición justa para los trabajadores y las economías locales; menciona la victoria contra una nueva central en Afşin-Elbistan.",
+    "fr": "Lettre de 50 organisations de régions minières (environ 25 de Türkiye et 14 d'Australie, plus le Canada, le Royaume-Uni, les États-Unis, l'Afrique du Sud, la Colombie, l'Indonésie, le Pacifique et l'Allemagne) adressée à Kurum et Bowen, demandant aux pays hôtes de donner l'exemple : refuser les licences pour les nouvelles centrales à charbon et leurs extensions, interrompre les nouvelles mines et accélérer la coopération internationale pour un avenir sans charbon. Insiste sur des plans de transition juste pour les travailleurs et les économies locales ; cite la victoire contre une nouvelle centrale à Afşin-Elbistan.",
+    "ru": "Письмо 50 организаций из угольных регионов (около 25 из Турции и 14 из Австралии, а также из Канады, Великобритании, США, ЮАР, Колумбии, Индонезии, Тихоокеанского региона и Германии) Курум и Боуэну с просьбой, чтобы принимающие стороны подали пример: отказать в лицензиях на новые угольные электростанции и расширение, остановить новые шахты и ускорить международное сотрудничество ради будущего без угля. Настаивает на планах справедливого перехода для работников и местных экономик; упоминает победу над новой электростанцией в Афшин-Эльбистан.",
+    "zh": "由50个煤炭地区组织（约25个来自土耳其，14个来自澳大利亚，另有加拿大、英国、美国、南非、哥伦比亚、印度尼西亚、太平洋地区和德国）联名致信Kurum和Bowen，呼吁东道国以身作则：拒绝新建和扩建燃煤电厂的许可，停止新矿山，并加快开展国际合作，迈向无煤未来。坚持为工人和地方经济制定公正转型计划；援引在Afşin-Elbistan反对新电厂的胜利。",
+    "ar": "رسالة من 50 منظمة من مناطق الفحم (نحو 25 من تركيا و14 من أستراليا، إضافة إلى كندا والمملكة المتحدة والولايات المتحدة وجنوب أفريقيا وكولومبيا وإندونيسيا والمحيط الهادئ وألمانيا) إلى Kurum وBowen، تطالب المضيفين بأن يكونا قدوة: رفض تراخيص محطات فحم جديدة وتوسعاتها، ووقف المناجم الجديدة، وتسريع التعاون الدولي نحو مستقبل بلا فحم. وتصر على خطط انتقال عادل للعمال والاقتصادات المحلية، وتستشهد بالانتصار على محطة جديدة في Afşin-Elbistan."
+   }
   },
   {
    "id": "e3g-2026-11-04-powering-across-divides",
@@ -997,7 +1475,15 @@
     "\"Support complementary pathways away from fossil fuels and towards electrification.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Political economy report covering 16 economies (10 middle powers in profile, 6 in snapshot). Thesis: multilateral processes set ambition, but delivery depends on smaller, flexible alliances (bilateral, regional, sectoral) across networks, supply chains, finance and regional power integration. Four priorities: clean energy security at the center of diplomacy; complementary pathways away from fossil fuels and toward electrification; practical finance partnerships; trade partnerships and regional infrastructure. The page text does not mention COP31 or 35 by 35.",
+    "es": "Informe de economía política sobre 16 economías (10 potencias medias en perfil, 6 en resumen). Tesis: los procesos multilaterales fijan la ambición, pero la ejecución depende de alianzas más pequeñas y flexibles (bilaterales, regionales, sectoriales) en redes, cadenas de suministro, finanzas e integración eléctrica regional. Cuatro prioridades: la seguridad energética limpia en el centro de la diplomacia; caminos complementarios para salir de los fósiles y avanzar hacia la electrificación; alianzas prácticas de financiamiento; asociaciones comerciales e infraestructura regional. El texto de la página no menciona la COP31 ni la 35 by 35.",
+    "fr": "Rapport d'économie politique portant sur 16 économies (10 puissances intermédiaires en profil détaillé, 6 en aperçu). Thèse : les processus multilatéraux fixent l'ambition, mais sa mise en œuvre dépend d'alliances plus petites et souples (bilatérales, régionales, sectorielles) dans les réseaux, chaînes d'approvisionnement, financements et interconnexions électriques régionales. Quatre priorités : sécurité énergétique propre au cœur de la diplomatie ; voies complémentaires pour sortir des fossiles et aller vers l'électrification ; partenariats pratiques de financement ; partenariats commerciaux et infrastructures régionales. Ne mentionne ni la COP31 ni le « 35 by 35 » dans le texte de la page.",
+    "ru": "Доклад о политической экономике 16 экономик (10 средних держав в профиле, 6 в кратком обзоре). Тезис: многосторонние процессы задают амбиции, но реализация зависит от меньших и гибких альянсов (двусторонних, региональных, секторальных) в сетях, цепочках поставок, финансах и региональной интеграции электросетей. Четыре приоритета: чистая энергетическая безопасность в центре дипломатии; взаимодополняющие пути отказа от ископаемого топлива и движения к электрификации; практические финансовые партнёрства; торговые партнёрства и региональная инфраструктура. Ни COP31, ни 35 by 35 в тексте страницы не упоминаются.",
+    "zh": "对16个经济体的政治经济报告（10个中等强国作详细分析，6个作快照分析）。核心观点：多边进程确定雄心，但实施依赖于在网络、供应链、融资和区域电力一体化方面较小、灵活的联盟（双边、区域、部门）。四项优先事项：将清洁能源安全置于外交核心；互补的脱离化石燃料与电气化路径；务实的融资合作；贸易伙伴关系和区域基础设施。页面正文未提及COP31或35 by 35。",
+    "ar": "تقرير اقتصاد سياسي عن 16 اقتصاداً (10 قوى متوسطة بالتفصيل و6 بلقطة سريعة). ويطرح الفرضية التالية: العمليات متعددة الأطراف تحدد الطموح، لكن التنفيذ يعتمد على تحالفات أصغر ومرنة (ثنائية وإقليمية وقطاعية) في الشبكات وسلاسل الإمداد والتمويل والتكامل الكهربائي الإقليمي. وتقدم أربع أولويات: أمن الطاقة النظيفة في صلب الدبلوماسية؛ ومسارات متكاملة للانتقال بعيداً عن الوقود الأحفوري والتوجه نحو الكهربة؛ وشراكات تمويلية عملية؛ وشراكات تجارية وبنية تحتية إقليمية. ولا يذكر نص الصفحة COP31 ولا هدف 35 by 35."
+   }
   },
   {
    "id": "can-2026-11-04-unep-agr",
@@ -1018,7 +1504,15 @@
     "Adow — \"You cannot protect a harvest with a pledge.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Reaction to the Adaptation Gap Report 2026: needs of US$305 billion a year by 2035 (US$420 billion with inflation); tripling reaches US$85–120 billion a year (20–29%); developed countries provided about US$30 billion in 2024; the FRLD received requests for US$2.8 billion with US$342 million available (about 1 in 8). Demands: a plan for US$120 billion a year well before 2035, new, additional, public and grant-based; an obligation for rich countries to show how they will close the rest.",
+    "es": "Reacción al Adaptation Gap Report 2026: se necesitan US$ 305 mil millones al año hasta 2035 (US$ 420 mil millones con inflación); triplicar llega a US$ 85–120 mil millones al año (20–29%); los países desarrollados aportaron unos US$ 30 mil millones en 2024; el FRLD recibió solicitudes por US$ 2,8 mil millones con US$ 342 millones disponibles (aprox. 1 de cada 8). Exigencias: un plan para US$ 120 mil millones al año mucho antes de 2035, nuevo, adicional, público y en donaciones; obligación de los países ricos de mostrar cómo cierran el resto.",
+    "fr": "Réaction au rapport Adaptation Gap 2026 : besoin de 305 milliards de dollars par an d'ici 2035 (420 milliards avec l'inflation) ; tripler atteindrait 85 à 120 milliards de dollars par an (20 à 29 %) ; les pays développés ont versé environ 30 milliards en 2024 ; le FRLD a reçu des demandes de 2,8 milliards de dollars pour 342 millions disponibles (environ 1 sur 8). Revendications : un plan pour 120 milliards de dollars par an bien avant 2035, nouveaux, additionnels, publics et sous forme de dons ; obligation pour les pays riches de montrer comment ils comblent le reste.",
+    "ru": "Реакция на Adaptation Gap Report 2026: потребность 305 млрд долл. США в год к 2035 году (420 млрд с учётом инфляции); утроение даёт 85–120 млрд долл. в год (20–29%); развитые страны выделили около 30 млрд долл. в 2024 году; FRLD получил заявки на 2,8 млрд долл. при 342 млн долл. в наличии (примерно 1 из 8). Требования: план на 120 млрд долл. в год задолго до 2035 года; новое, дополнительное, государственное и безвозмездное финансирование; обязательство богатых стран показать, как закрыть остальное.",
+    "zh": "对《2026年适应差距报告》的回应：到2035年需要每年3050亿美元（按通胀计为4200亿美元）；将资金增至三倍只能达到每年850–1200亿美元（占20–29%）；发达国家2024年约提供300亿美元；损失和损害基金收到28亿美元的申请，而可用资金仅为3.42亿美元（约八分之一）。要求：在2035年之前远早提出每年1200亿美元的方案，该资金应为新增、额外、公共且为赠款；富裕国家有义务说明如何填补其余缺口。",
+    "ar": "ردّ على تقرير فجوة التكيف 2026: الاحتياج 305 مليارات دولار سنوياً حتى 2035 (420 مليار دولار مع التضخم)؛ وتصل مضاعفة التمويل ثلاث مرات إلى 85–120 مليار دولار سنوياً (20–29%)؛ وقدمت الدول المتقدمة نحو 30 مليار دولار في 2024؛ وتلقى FRLD طلبات بقيمة 2.8 مليار دولار مع توفر 342 مليون دولار (نحو واحد من ثمانية). المطالب: خطة لـ 120 مليار دولار سنوياً قبل 2035 بكثير، جديدة وإضافية وعامة وفي شكل منح؛ والتزام الأغنياء بإظهار كيف يسدون بقية الفجوة."
+   }
   },
   {
    "id": "chn-2026-11-04-africa-finance",
@@ -1040,7 +1534,15 @@
     "\"Value addition is an energy story before it is a minerals story.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Position of the AGN chair on the eve of the talks: without progress in Antalya, COP32 in Addis Ababa inherits the same promises. Africa loses 2–5% of GDP a year; it calls for predictable, grant-based finance with direct access and tracking; tripling to about US$120 billion a year by 2035; US$300 billion as a floor; an agenda item on unilateral trade measures; a country-led, grant-based JTM; finance should build productive capacity, starting with reliable energy to process minerals locally.",
+    "es": "Posición del presidente del AGN en vísperas: sin avances en Antalya, la COP32 en Adís Abeba heredará las mismas promesas. África pierde 2–5% del PIB al año; pide financiamiento previsible, en donaciones, con acceso directo y seguimiento; triplicación hasta ~US$ 120 mil millones al año en 2035; US$ 300 mil millones como piso; un tema de agenda sobre medidas comerciales unilaterales; JTM dirigido por los países y en donaciones; el financiamiento debe construir capacidad productiva, empezando por energía confiable para procesar minerales localmente.",
+    "fr": "Position du président de l'AGN à la veille : sans progrès à Antalya, la COP32 à Addis-Abeba héritera des mêmes promesses. L'Afrique perd 2 à 5 % de son PIB par an ; demande des financements prévisibles, sous forme de dons, avec accès direct et suivi ; triplement pour environ 120 milliards de dollars par an en 2035 ; 300 milliards de dollars comme plancher ; un point d'ordre du jour sur les mesures commerciales unilatérales ; JTM piloté par les pays et sous forme de dons ; les financements doivent renforcer les capacités productives, en commençant par une énergie fiable pour transformer localement les minéraux.",
+    "ru": "Позиция председателя AGN накануне: без прогресса в Анталье КС-32 в Аддис-Абебе унаследует те же обещания. Африка теряет 2–5% ВВП в год; требует предсказуемого финансирования в виде грантов с прямым доступом и отслеживанием; утроение до примерно 120 млрд долл. США в год к 2035 году; 300 млрд долл. как нижний предел; пункт повестки о Односторонних торговых мерах; JTM под руководством стран и на основе грантов; финансы должны создавать производственный потенциал, начиная с надёжной энергии для местной переработки минералов.",
+    "zh": "非洲集团（AGN）主席在大会前夕表示：若安塔利亚没有进展，亚的斯亚贝巴的COP32将继承相同的承诺。非洲每年损失GDP的2–5%；要求可预测、以赠款形式提供、可直接获取并可追踪的资金；资金增至三倍至2035年约为每年1200亿美元，3000亿美元为底线；设立关于单边贸易措施的议程项目；由国家主导并以赠款形式提供JTM；资金应建立生产能力，首先保障可靠能源，以便在本地加工关键矿产。",
+    "ar": "موقف رئيس المجموعة الأفريقية عشية المؤتمر: إذا لم يحدث تقدم في أنطاليا، ستورث COP32 في أديس أبابا الوعود نفسها. تخسر أفريقيا 2–5% من ناتجها المحلي الإجمالي سنوياً؛ وتطالب بتمويل يمكن التنبؤ به، في شكل منح، مع وصول مباشر وتتبّع؛ ومضاعفة التمويل ثلاث مرات لتصل إلى نحو 120 مليار دولار سنوياً بحلول 2035، مع 300 مليار دولار حداً أدنى؛ وببند في جدول الأعمال بشأن التدابير التجارية الأحادية؛ وبآلية JTM تقودها الدول وممولة بالمنح؛ ويجب أن يبني التمويل قدرة إنتاجية، بدءاً بطاقة موثوقة لمعالجة المعادن محلياً."
+   }
   },
   {
    "id": "carbonbrief-2026-11-04-deforestation-roadmap",
@@ -1061,7 +1563,15 @@
     "\"Brazil's deforestation rate had fallen to its lowest level on record – dropping by more than 70% since 2022.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Explains the forest roadmap launched on 3 Nov: voluntary, with no new commitments, three pillars (national action, international architecture, financial mechanisms), five forest dimensions and 18 implementation approaches; needs US$300 billion a year by 2030, with current coverage below one-third and about 90% from domestic public sources. Nearly 100 countries supported it in Belém without consensus; India endorses the TFFF; Russia does not. Anchored in GST1 and open to dialogue via GST2.",
+    "es": "Explica la hoja de ruta sobre bosques lanzada el 3 de noviembre: voluntaria, sin nuevos compromisos, con tres pilares (acción nacional, arquitectura internacional, mecanismos financieros), cinco dimensiones forestales y 18 enfoques de implementación; se necesitan US$ 300 mil millones al año hasta 2030, con una cobertura actual inferior a un tercio y ~90% de origen público nacional. Casi 100 países la respaldaron en Belém, sin consenso; India respalda el TFFF; Rusia no. Anclada en el GST1 y abierta al diálogo a través del GST2.",
+    "fr": "Présente la feuille de route sur les forêts lancée le 3 novembre : volontaire, sans nouveaux engagements, reposant sur trois piliers (action nationale, architecture internationale, mécanismes financiers), cinq dimensions forestières et 18 approches de mise en œuvre ; il faut 300 milliards de dollars par an d'ici 2030, alors que la couverture actuelle reste inférieure à un tiers, avec environ 90 % d'origine publique nationale. Près de 100 pays l'ont appuyée à Belém, sans consensus ; l'Inde endosse le TFFF ; la Russie ne l'appuie pas. Ancrée dans le GST1 et ouverte au dialogue via le GST2.",
+    "ru": "Объясняет дорожную карту по лесам, запущенную 3 ноября: добровольная, без новых обязательств, три опоры (национальные действия, международная архитектура, финансовые механизмы), пять лесных измерений, 18 подходов к реализации; требуется 300 млрд долл. США в год к 2030 году при текущем покрытии менее трети, около 90% — внутреннее государственное финансирование. Почти 100 стран поддержали в Белене без консенсуса; Индия поддерживает TFFF; Россия не поддерживает. Опирается на GST1 и открыта для диалога в рамках GST2.",
+    "zh": "解释11月3日发布的森林路线图：自愿性质，不作新承诺，包含三大支柱（国家行动、国际架构、融资机制）、五个森林维度及18种实施方法；到2030年需要每年3000亿美元，目前覆盖不足三分之一，约90%来自国内公共资金。贝伦会议时近100个国家表示支持，但未达成共识；印度认可TFFF，俄罗斯不支持。该路线图以GST1为基础，并通过GST2对话保持开放。",
+    "ar": "يشرح خارطة طريق الغابات التي أُطلقت في 3 نوفمبر: طوعية، بلا التزامات جديدة، وتقوم على ثلاث ركائز (العمل الوطني، والهندسة الدولية، والآليات المالية)، وخمسة أبعاد للغابات، و18 نهجاً للتنفيذ؛ وتحتاج إلى 300 مليار دولار سنوياً حتى 2030 مع تغطية حالية أقل من الثلث، ونحو 90% منها تمويل عام محلي. وقد أيدها قرابة 100 دولة في بيليم دون توافق؛ وتؤيد الهند TFFF، ولا تؤيدها روسيا. وهي مرتكزة على GST1 ومفتوحة للحوار عبر GST2."
+   }
   },
   {
    "id": "talanoa-2026-11-04-boletim-adaptacao",
@@ -1082,7 +1592,15 @@
     "\"passou de 13% antes de 2015 para 47% entre 2023 e 2026\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "17th edition, focusing on Latin America and the Caribbean: it states that the Türkiye and Australian Presidencies have done little to raise adaptation; the tripling still has no home in the negotiations (at Bonn it stayed in the GGA text; the Finance Work Programme appears on the provisional agenda for the first time; possible cover decision); a deadlock over the composition of the BAVA task force; on BAR, the obstacle is means of implementation; NAPs as the anchor for indicators (146 countries started, 81 submitted, 17 in LAC). More than 30 Task Force members in Antalya; events on 10, 12, 16 and 17 Nov.",
+    "es": "Boletín n.º 17, centrado en América Latina y el Caribe: afirma que las presidencias turca y australiana han hecho poco para elevar la adaptación; la triplicación todavía no tiene casa en las negociaciones (en Bonn quedó en el texto de la GGA; el Programa de Trabajo de Financiamiento entra por primera vez en la agenda provisional; posible decisión de cobertura); estancamiento en la composición del grupo de tareas del BAVA; BAR: el obstáculo son los medios de implementación; los NAP como ancla de los indicadores (146 países iniciaron, 81 presentaron, 17 de ALC). Más de 30 miembros del Grupo de Tareas en Antalya; eventos el 10, 12, 16 y 17 de nov.",
+    "fr": "17e édition, centrée sur l'Amérique latine et les Caraïbes : affirme que les présidences turque et australienne ont peu fait pour relever l'adaptation ; le triplement n'a toujours pas de « foyer » dans les négociations (à Bonn, il est resté dans le texte de la GGA ; le programme de travail sur le financement entre pour la première fois à l'ordre du jour provisoire ; possible décision de couverture) ; blocage sur la composition du groupe de travail BAVA ; BAR : l'obstacle est constitué par les moyens de mise en œuvre ; les PNA servent d'ancrage aux indicateurs (146 pays ont commencé, 81 ont soumis, 17 en ALC). Plus de 30 membres du groupe de travail à Antalya ; événements les 10, 12, 16 et 17 novembre.",
+    "ru": "17-й выпуск, фокус на Латинской Америке и Карибском бассейне: утверждает, что турецкое и австралийское председательства мало что сделали для повышения адаптации; утроение пока не имеет «дома» в переговорах (в Бонне оно осталось в тексте GGA; Программа работы по финансам впервые вошла в предварительную повестку; возможна cover decision); тупик с составом целевой группы BAVA; BAR: препятствие — средства реализации; NAP как ориентир для индикаторов (146 стран начали, 81 представили, 17 из ЛАКБ). Более 30 членов Целевой группы в Анталье; мероприятия 10, 12, 16 и 17 ноября.",
+    "zh": "第17期通讯，重点关注拉丁美洲和加勒比地区：认为土耳其和澳大利亚主席国在提升适应方面所做甚少；资金增至三倍在谈判中仍无归属（在波恩仅被写入GGA文本；融资工作方案首次列入临时议程；可能成为总括决定）；BAVA特别工作组的组成陷入僵局；BAR的障碍在于实施手段；NAP是各项指标的锚点（146个国家已启动，81个已提交，其中拉加地区17个）。安塔利亚有30多名工作组成员；11月10、12、16和17日将举办活动。",
+    "ar": "العدد السابع عشر، مع تركيز على أمريكا اللاتينية والكاريبي: يقرر أن الرئاستين التركية والأسترالية فعلتا القليل لرفع مستوى التكيف؛ ولم تجد مضاعفة التمويل بعد “بيتاً” في المفاوضات (في بون بقيت في نص GGA؛ ودخل برنامج عمل التمويل جدول الأعمال المؤقت للمرة الأولى؛ وقد تكون قراراً جامعاً). وهناك جمود في تشكيل فرقة عمل BAVA؛ وفي BAR العائق هو وسائل التنفيذ؛ وتشكّل خطط التكيف الوطنية (NAPs) مرتكزاً لمؤشرات التكيف (بدأ 146 بلداً، وقدّم 81، و17 منها في أمريكا اللاتينية والكاريبي). ويشارك أكثر من 30 عضواً في فرقة العمل في أنطاليا؛ وتُعقد فعاليات في 10 و12 و16 و17 نوفمبر."
+   }
   },
   {
    "id": "greenpeace-2026-11-04-agr",
@@ -1099,7 +1617,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T09:00:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Reaction to the Adaptation Gap Report 2026: needs of US$305 billion a year, rising to US$420 billion in 2035; international public flows of US$28.2–31.7 billion in 2024; tripling would cover 20–29%. Calls for at least US$120 billion a year by 2035. Already incorporated into the guide.",
+    "es": "Reacción al Adaptation Gap Report 2026: se necesitan US$ 305 mil millones al año, que suben a US$ 420 mil millones en 2035; los flujos públicos internacionales fueron de US$ 28,2–31,7 mil millones en 2024; triplicar cubriría 20–29%. Pide al menos US$ 120 mil millones al año hasta 2035. Ya incorporado a la guía.",
+    "fr": "Réaction au rapport Adaptation Gap 2026 : besoin de 305 milliards de dollars par an, passant à 420 milliards en 2035 ; flux publics internationaux de 28,2 à 31,7 milliards de dollars en 2024 ; tripler couvrirait 20 à 29 %. Demande au moins 120 milliards de dollars par an d'ici 2035. Déjà intégré au guide.",
+    "ru": "Реакция на Adaptation Gap Report 2026: потребность 305 млрд долл. США в год, растущая до 420 млрд в 2035 году; международные государственные потоки 28,2–31,7 млрд долл. в 2024 году; утроение покрыло бы 20–29%. Требует не менее 120 млрд долл. США в год к 2035 году. Уже включено в путеводитель.",
+    "zh": "对《2026年适应差距报告》的回应：需要每年3050亿美元，到2035年升至4200亿美元；2024年国际公共资金流量为282亿至317亿美元；将资金增至三倍只能覆盖20–29%。呼吁到2035年至少每年提供1200亿美元。已纳入本指南。",
+    "ar": "ردّ على تقرير فجوة التكيف 2026: الاحتياج 305 مليارات دولار سنوياً، يرتفع إلى 420 مليار دولار في 2035؛ وبلغت التدفقات الدولية العامة 28.2–31.7 مليار دولار في 2024؛ وستغطي المضاعفة ثلاث مرات 20–29% منه. وتطالب بما لا يقل عن 120 مليار دولار سنوياً حتى 2035. وقد أُدمج ذلك في الدليل بالفعل."
+   }
   },
   {
    "id": "climateanalytics-2026-11-03-overshoot",
@@ -1120,7 +1646,15 @@
     "\"the global electrification rate to 35% of final energy by 2035, from just over 20% currently\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Assesses progress on the GST1 targets (tripling renewables, doubling efficiency) and the Presidency's electrification target against a pathway that minimizes overshoot and returns well below 1.5 °C before 2100. The 2030 targets cut emissions from the power sector but do not touch end uses; electrification is the core requirement for transport, buildings and industry and protects against fossil fuel volatility. Baseline: a little over 20%.",
+    "es": "Evalúa el avance en las metas del GST1 (triplicar las renovables, duplicar la eficiencia) y en la meta de electrificación de la presidencia frente a una trayectoria que minimice el sobrepaso y vuelva a estar bien por debajo de 1,5 °C antes de 2100. Las metas de 2030 recortan las emisiones del sector eléctrico, pero no alcanzan los usos finales; la electrificación es el requisito central para el transporte, los edificios y la industria, y protege frente a la volatilidad de los fósiles. Línea de base de algo más de 20%.",
+    "fr": "Évalue les progrès vers les objectifs du GST1 (tripler les renouvelables, doubler l'efficacité) et vers l'objectif d'électrification de la présidence, par rapport à une trajectoire qui minimise le dépassement et revient bien en dessous de 1,5 °C avant 2100. Les objectifs 2030 réduisent les émissions du secteur électrique mais n'agissent pas sur les usages finaux ; l'électrification est l'exigence centrale pour les transports, les bâtiments et l'industrie, et protège contre la volatilité des fossiles. Niveau de référence d'un peu plus de 20 %.",
+    "ru": "Оценивает прогресс по целям GST1 (утроить возобновляемые источники, удвоить эффективность) и по цели председательства в электрификации против траектории, которая минимизирует превышение и возвращает температуру заметно ниже 1,5 °C до 2100 года. Цели на 2030 год сокращают выбросы электроэнергетики, но не затрагивают конечное потребление; электрификация — ключевое условие для транспорта, зданий и промышленности и защищает от волатильности ископаемого топлива. Базовый уровень — чуть более 20%.",
+    "zh": "评估GST1目标（可再生能源增至三倍、能效翻番）以及主席国的电气化目标，是否符合将过冲降至最低并于2100年前回落至远低于1.5 °C的轨迹。2030年目标削减了电力部门排放，但未触及终端用途；电气化是交通、建筑和工业的核心要求，也能防范化石燃料价格波动。基线略高于20%。",
+    "ar": "يقيّم التقدم في أهداف GST1 (مضاعفة الطاقة المتجددة ثلاث مرات، ومضاعفة الكفاءة) وفي هدف الكهربة الذي تطرحه الرئاسة، مقارنةً بمسار يقلل التجاوز ويعيد الاحترار إلى ما دون 1.5 درجة مئوية بوضوح قبل 2100. فالأهداف الخاصة بعام 2030 تخفض انبعاثات قطاع الكهرباء لكنها لا تمسّ الاستخدامات النهائية؛ والكهربة هي الشرط المحوري للنقل والمباني والصناعة، وتحمي من تقلبات الوقود الأحفوري. وخط الأساس يبلغ ما يزيد قليلاً على 20%."
+   }
   },
   {
    "id": "talanoa-2026-11-03-mapas-do-caminho",
@@ -1141,7 +1675,15 @@
     "\"Os mapas do caminho seguem como processos à parte da agenda de negociações.\""
    ],
    "first_seen": "2026-11-06T12:15:00-03:00",
-   "lang": "pt"
+   "lang": "pt",
+   "summary_i18n": {
+    "en": "First Brazilian reading of the two maps: the fossil map uses archetypes across three pillars (demand, supply, macroeconomic resilience) and four quadrants, without classifying countries; the forest map is comprehensive, centred on financial mobilization and the bioeconomy, but geared to national implementation. Unterstell: success is measured by the decline in fossil dependence, not by the number of plans. Little expectation of entering the cover decision in Antalya, but they may inform GST2; Capobianco will take the roadmaps to Lula.",
+    "es": "Primera lectura brasileña de los dos mapas: el de fósiles usa arquetipos en tres pilares (demanda, oferta, resiliencia macroeconómica) y cuatro cuadrantes, sin clasificar países; el de bosques es abarcador, centrado en la movilización financiera y la bioeconomía, pero orientado a la implementación nacional. Unterstell: el éxito se medirá por la caída de la dependencia de los fósiles, no por el número de planes. Poca expectativa de que entren en la decisión de cobertura en Antalya, aunque podrían alimentar el GST2; Capobianco llevará las hojas de ruta a Lula.",
+    "fr": "Première lecture brésilienne des deux feuilles de route : celle sur les fossiles utilise des archétypes sur trois piliers (demande, offre, résilience macroéconomique) et quatre quadrants, sans classer les pays ; celle sur les forêts est exhaustive, centrée sur la mobilisation financière et la bioéconomie, mais tournée vers la mise en œuvre nationale. Unterstell : le succès se mesure à la baisse de la dépendance aux fossiles, non au nombre de plans. Peu d'attentes d'entrée dans la décision de couverture à Antalya, mais elles pourraient nourrir le GST2 ; Capobianco portera les feuilles de route à Lula.",
+    "ru": "Первое бразильское прочтение двух карт: карта по ископаемому топливу использует архетипы по трём опорам (спрос, предложение, макроэкономическая устойчивость) и четыре квадранта, не классифицируя страны; карта по лесам охватывающая, сосредоточена на мобилизации финансов и биоэкономике, но ориентирована на национальную реализацию. Unterstell: успех измеряется снижением зависимости от ископаемого топлива, а не числом планов. Мало ожиданий, что они войдут в cover decision в Анталье, но могут помочь GST2; Capobianco передаст дорожные карты Луле.",
+    "zh": "巴西对两份路线图的首次解读：化石燃料路线图采用三大支柱（需求、供给、宏观经济韧性）和四个象限的原型，不对国家进行分类；森林路线图范围广泛，侧重财政动员和生物经济，但面向国家层面的实施。Unterstell认为，成功应以化石燃料依赖的下降来衡量，而非计划数量。安塔利亚不太可能将其纳入总括决定，但可为GST2提供参考；Capobianco将把路线图呈交卢拉。",
+    "ar": "القراءة البرازيلية الأولى للخريطتين: خريطة الوقود الأحفوري تعتمد نماذج نمطية عبر ثلاث ركائز (الطلب والعرض والمرونة الاقتصادية الكلية) وأربعة أرباع، دون تصنيف للبلدان؛ أما خريطة الغابات فشاملة، وتركز على تعبئة التمويل والاقتصاد الحيوي، لكنها موجهة نحو التنفيذ الوطني. يرى Unterstell أن النجاح يُقاس بانخفاض الاعتماد على الوقود الأحفوري لا بعدد الخطط. وتتوقع أن تدخل الخريطتان القرار الجامع في أنطاليا بفرص ضئيلة، لكنهما قد تغذيان GST2؛ وسيعرض Capobianco الخريطتين على Lula."
+   }
   },
   {
    "id": "germanwatch-2026-11-03-electrifying",
@@ -1160,7 +1702,15 @@
    ],
    "quotes": [],
    "first_seen": "2026-11-06T09:00:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "The only explicit scorecard for Antalya, with three criteria: visible implementation of the Paris Agreement; strengthening of the UNFCCC process (Action Agenda with responsibilities, deadlines and monitoring; design of GST2); and mobilization of adequate finance. It calls for anchoring the 35 by 35 in renewables, proposes a group of countries willing to pioneer reforms if consensus is not reached, and attaches numbers to loss and damage: US$50 billion for the 2027 replenishment, rising to about US$400 billion by 2035. Already incorporated into the guide.",
+    "es": "El único scorecard explícito para Antalya, con tres criterios: implementación visible del Acuerdo de París, fortalecimiento del proceso de la UNFCCC (Agenda de Acción con responsabilidades, plazos y seguimiento; diseño del GST2) y movilización de financiamiento adecuado. Exige anclar el 35 por 35 en renovables, propone un grupo de países dispuestos a liderar reformas si no hay consenso, y pone cifras a las pérdidas y daños: US$ 50 mil millones en la reposición de 2027, que suben a ~US$ 400 mil millones en 2035. Ya incorporado a la guía.",
+    "fr": "Seul barème explicite pour Antalya, avec trois critères : mise en œuvre visible de l'Accord de Paris, renforcement du processus de la UNFCCC (Agenda d'action avec responsabilités, échéances et suivi ; conception du GST2) et mobilisation d'un financement adéquat. Exige d'ancrer le « 35 by 35 » dans les renouvelables, propose un groupe de pays prêts à ouvrir la voie à des réformes en l'absence de consensus, et chiffre les pertes et dommages : 50 milliards de dollars pour la reconstitution de 2027, montant qui atteindrait environ 400 milliards en 2035. Déjà intégré au guide.",
+    "ru": "Единственный явный scorecard для Антальи с тремя критериями: видимая реализация Парижского соглашения, укрепление процесса РКИК ООН (Повестка действий с обязательствами, сроками и мониторингом; дизайн GST2) и мобилизация адекватного финансирования. Требует закрепить 35 by 35 на возобновляемых источниках, предлагает группу стран, готовых первыми провести реформы при отсутствии консенсуса, и вводит цифры по потерям и ущербу: 50 млрд долл. США в восполнении 2027 года, рост примерно до 400 млрд долл. к 2035 году. Уже включено в путеводитель.",
+    "zh": "这是对安塔利亚唯一明确的评分标准，包含三项标准：《巴黎协定》的可见落实；加强UNFCCC进程（行动议程设定责任、期限与监测；GST2设计）；以及充足的资金动员。要求将35 by 35锚定在可再生能源上，提议由愿意先行改革的国家组成小组（若无法达成共识）；并为损失和损害提供具体数字：2027年补充资金500亿美元，到2035年升至约4000亿美元。已纳入本指南。",
+    "ar": "بطاقة تقييم صريحة وحيدة لأنطاليا، بثلاثة معايير: تنفيذ واضح لاتفاق باريس؛ وتعزيز مسار اتفاقية الأمم المتحدة الإطارية (أجندة العمل بمسؤوليات وآجال ورصد، وتصميم GST2)؛ وتعبئة تمويل كافٍ. وتطالب بربط هدف 35 by 35 بالطاقة المتجددة، وتقترح مجموعة من الدول المستعدة لريادة الإصلاحات إذا لم يتحقق توافق، وتضع رقماً على الخسائر والأضرار: 50 مليار دولار في تجديد عام 2027، ترتفع إلى نحو 400 مليار دولار في 2035. وقد أُدمج ذلك في الدليل."
+   }
   },
   {
    "id": "ituc-2026-10-08-demands-cop31",
@@ -1180,20 +1730,24 @@
     "\"emphasising the integration of workers' rights and Just Transition into climate policy\""
    ],
    "first_seen": "2026-11-07T11:37:00-03:00",
-   "lang": "en"
+   "lang": "en",
+   "summary_i18n": {
+    "en": "Trade union position paper for Antalya (versions in English, French, Spanish, Arabic and Turkish): it integrates workers' rights and just transition into climate policy, referring to the policy paper 'Just Transition for climate action: Labour rights at the heart of climate policy' (26 Oct). It is the trade union reference for operationalizing the just transition mechanism (BAM), covering modalities, functions and institutional arrangements, and for the review of the JTWP. The PDF (cop31_demands_2026_en.pdf) could not be read by the monitor.",
+    "es": "Documento de posición sindical para Antalya (versiones en inglés, francés, español, árabe y turco): integra los derechos de los trabajadores y la transición justa en la política climática, con remisión al documento de política 'Just Transition for climate action: Labour rights at the heart of climate policy' (26 de oct.). Es la referencia sindical para poner en marcha el mecanismo de transición justa (BAM) — modalidades, funciones y arreglos institucionales — y para la revisión del JTWP. El PDF (cop31_demands_2026_en.pdf) no pudo ser leído por el monitor.",
+    "fr": "Document de position syndicale pour Antalya (versions en anglais, français, espagnol, arabe et turc) : intègre les droits des travailleurs et la transition juste à la politique climatique, avec renvoi au document de politique « Just Transition for climate action: Labour rights at the heart of climate policy » (26 octobre). C'est la référence syndicale pour l'opérationnalisation du mécanisme de transition juste (BAM) (modalités, fonctions et dispositifs institutionnels) et pour la révision du JTWP. Le PDF (cop31_demands_2026_en.pdf) n'a pas pu être lu par le moniteur.",
+    "ru": "Позиционный документ профсоюзов для Антальи (версии на английском, французском, испанском, арабском и турецком языках): включает права трудящихся и справедливый переход в климатическую политику со ссылкой на policy paper «Just Transition for climate action: Labour rights at the heart of climate policy» (26 октября). Это профсоюзный ориентир для операционализации механизма справедливого перехода (BAM) — модальности, функции и институциональные договорённости — и для пересмотра JTWP. PDF (cop31_demands_2026_en.pdf) монитор прочитать не смог.",
+    "zh": "工会立场文件（提供英文、法文、西班牙文、阿拉伯文和土耳其文版本）：将工人权利和公正转型纳入气候政策，并引用其2026年10月26日的政策文件《Just Transition for climate action: Labour rights at the heart of climate policy》。这是工会关于公正转型机制（BAM）运作的参考文件（涵盖模式、职能和体制安排），并涉及对JTWP的审议。PDF（cop31_demands_2026_en.pdf）未能被监测程序读取。",
+    "ar": "وثيقة موقف النقابات لأنطاليا (بالإنجليزية والفرنسية والإسبانية والعربية والتركية): تدمج حقوق العمال والانتقال العادل في السياسة المناخية، مع إحالة إلى ورقة السياسات “Just Transition for climate action: Labour rights at the heart of climate policy” (26 أكتوبر). وهي المرجع النقابي لتشغيل آلية الانتقال العادل (BAM) من حيث الوسائل والمهام والترتيبات المؤسسية، ولمراجعة JTWP. ولم تتمكن أداة الرصد من قراءة ملف PDF (cop31_demands_2026_en.pdf)."
+   }
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-07T14:42:00-03:00",
-  "label": "7 nov 2026, 14:42 (Brasília)",
-  "accounts_checked": 37,
-  "blocked": 3,
-  "new_items": 10,
+  "timestamp": "2026-11-07T18:47:55-03:00",
+  "label": "7 nov 2026, 18:47 (Brasília)",
+  "accounts_checked": 27,
+  "blocked": 0,
+  "new_items": 4,
   "cadence": "a cada 4 horas",
-  "blocked_accounts": [
-   "ClimateChampions (X)",
-   "EUClimateAction (X)",
-   "CarbonPulse (X)"
-  ]
+  "blocked_accounts": []
  }
 }

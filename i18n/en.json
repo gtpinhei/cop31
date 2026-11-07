@@ -857,5 +857,17 @@
  "d:Workshops on means of implementation": "Workshops on means of implementation",
  "d:Workshops on transboundary aspects": "Workshops on transboundary aspects",
  "d:Workshops organised in conjunction with adaptation events": "Workshops organised in conjunction with adaptation events",
- "d:Workshops undertaken on key adaptation topics": "Workshops undertaken on key adaptation topics"
+ "d:Workshops undertaken on key adaptation topics": "Workshops undertaken on key adaptation topics",
+ "d:notícia": "news",
+ "d:release": "press release",
+ "d:análise": "analysis",
+ "d:relatório": "report",
+ "d:boletim": "bulletin",
+ "d:briefing": "briefing",
+ "d:comunicado": "statement",
+ "d:explicador": "explainer",
+ "d:blog": "blog",
+ "d:opinião": "opinion",
+ "d:evento": "event",
+ "d:ferramenta": "tool"
 }

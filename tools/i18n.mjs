@@ -42,6 +42,7 @@ function extract() {
   for (const r of DATA) { dataStrings.add(r[0]); dataStrings.add(r[1]); dataStrings.add(r[2]); }
   const feed = readJSON(path.join(ROOT, "data", "feed.json"), {});
   for (const t of feed.tracks || []) dataStrings.add(t);
+  for (const it of feed.items || []) if (it.type) dataStrings.add(it.type);
   for (const s of [...dataStrings].sort()) src["d:" + s] = s;
 
   writeJSON(path.join(DIR, "pt.json"), src);

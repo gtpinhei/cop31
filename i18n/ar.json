@@ -857,5 +857,17 @@
  "d:Workshops on transboundary aspects": "ورش عمل بشأن الجوانب العابرة للحدود",
  "d:Workshops organised in conjunction with adaptation events": "ورش عمل تُنظم بالاقتران مع فعاليات التكيف",
  "d:Workshops undertaken on key adaptation topics": "ورش عمل تُنفذ بشأن مواضيع التكيف الرئيسية",
- "j:quote1": "{n} اقتباس"
+ "j:quote1": "{n} اقتباس",
+ "d:notícia": "خبر",
+ "d:release": "بيان صحفي",
+ "d:análise": "تحليل",
+ "d:relatório": "تقرير",
+ "d:boletim": "نشرة",
+ "d:briefing": "إحاطة",
+ "d:comunicado": "بيان",
+ "d:explicador": "شرح",
+ "d:blog": "مدونة",
+ "d:opinião": "رأي",
+ "d:evento": "فعالية",
+ "d:ferramenta": "أداة"
 }

@@ -1133,6 +1133,8 @@ a:hover{text-decoration-color:var(--un)}
   var J = J0, LD = {};
   function F(tpl, v){ return String(tpl).replace(/\{(\w+)\}/g, function(m,k){ return v[k] != null ? v[k] : m; }); }
   function T(s){ var v = LD["d:"+s]; return v != null ? v : s; }
+  // feed items carry the Portuguese summary plus optional summary_i18n {en,es,fr,ru,zh,ar}; fall back to Portuguese
+  function sumOf(it){ var m = it.summary_i18n; return (m && LANG !== "pt" && m[LANG]) || it.summary; }
   var onLang = [];
   var LANGS = {pt:"pt-BR", en:"en", es:"es", fr:"fr", ru:"ru", zh:"zh-Hans", ar:"ar"};
   var UNITS = I18N.collect(document.documentElement), DICT = {pt:{}}, LANG = "pt";
@@ -1406,19 +1408,19 @@ a:hover{text-decoration-color:var(--un)}
           if (isNew) html += '<span class="fi-new">'+J.isNew+'</span>';
           html += '</div>';
           if (it.text) html += '<p class="fi-text">'+esc(it.text)+'</p>';
-          if (it.summary) html += '<p class="fi-sum">'+esc(it.summary)+'</p>';
+          if (it.summary) html += '<p class="fi-sum">'+esc(sumOf(it))+'</p>';
           if (it.url) html += '<p class="fi-link"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+F(esc(J.viewOn), {p:esc(plat)})+'</a></p>';
           if (it.tracks && it.tracks.length) { html += '<div class="fi-tracks">'; it.tracks.forEach(function(t){ html += '<button type="button" class="chip" data-t="'+esc(t)+'" aria-pressed="'+(ff.tracks.indexOf(t) >= 0 ? 'true' : 'false')+'">'+esc(T(t))+'</button>'; }); html += '</div>'; }
           html += '</article>';
           return;
         }
         html += '<article class="fi"><div class="fi-meta"><span class="fi-inst">'+esc(it.institution||"")+'</span>';
-        if (it.type) html += '<span>·</span><span>'+esc(it.type)+'</span>';
+        if (it.type) html += '<span>·</span><span>'+esc(T(it.type))+'</span>';
         if (day) html += '<span>·</span><time datetime="'+esc(day)+'">'+esc(fmtDate(day))+'</time>';
         if (isNew) html += '<span class="fi-new">'+J.isNew+'</span>';
         html += '</div><h3 class="fi-title">'+(it.url ? '<a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title||it.url)+'</a>' : esc(it.title||""))+'</h3>';
         if (it.authors) html += '<p class="fi-auth">'+esc(it.authors)+'</p>';
-        if (it.summary) html += '<p class="fi-sum">'+esc(it.summary)+'</p>';
+        if (it.summary) html += '<p class="fi-sum">'+esc(sumOf(it))+'</p>';
         if (it.quotes && it.quotes.length) { html += '<details class="fi-q"><summary>'+F(it.quotes.length === 1 ? J.quote1 : J.quoteN, {n:it.quotes.length})+'</summary><ul>'; it.quotes.forEach(function(qq){ html += '<li>'+esc(String(qq))+'</li>'; }); html += '</ul></details>'; }
         if (it.tracks && it.tracks.length) { html += '<div class="fi-tracks">'; it.tracks.forEach(function(t){ html += '<button type="button" class="chip" data-t="'+esc(t)+'" aria-pressed="'+(ff.tracks.indexOf(t) >= 0 ? 'true' : 'false')+'">'+esc(T(t))+'</button>'; }); html += '</div>'; }
         html += '</article>';
