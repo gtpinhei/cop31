@@ -1,0 +1,7 @@
+{
+  "name": "cop31-tools",
+  "private": true,
+  "type": "module",
+  "description": "Build helpers for cop31.grupotrie.com.br (i18n extract/merge/test)",
+  "dependencies": { "jsdom": "^25.0.0" }
+}
