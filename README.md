@@ -9,7 +9,7 @@ Site estático servido pelo GitHub Pages a partir da raiz deste repositório (`C
 | Caminho | O que é | Quem edita |
 |---|---|---|
 | `index.html` | A página inteira (HTML + CSS + JS), **sempre em português**. Fonte única do conteúdo. | pessoas / sessões de edição do guia |
-| `data/feed.json` | Itens do monitoramento (publicações e posts). | agentes de monitoramento (web a cada 2 h, redes a cada 4 h) |
+| `data/feed.json` | Itens do monitoramento (publicações e posts). | agentes de monitoramento (web a cada 6 h, redes a cada hora) via artefato + sync horário da sessão principal |
 | `i18n/pt.json` | Tabela de strings extraída de `index.html` (chave → texto em português). Gerada, não editar à mão. | `tools/i18n.mjs extract` |
 | `i18n/<lang>.json` | Traduções (mesmas chaves). O que faltar cai no português automaticamente. | `tools/i18n.mjs merge` |
 | `i18n/glossary.md` | Terminologia obrigatória para tradutores (humanos ou agentes). | pessoas |
@@ -19,7 +19,7 @@ Site estático servido pelo GitHub Pages a partir da raiz deste repositório (`C
 
 ## Como funciona o multilíngue
 
-A página não é duplicada por idioma. O código que identifica as unidades fica em `index.html` entre os marcadores `/*i18n-core-begin*/` e `/*i18n-core-end*/`; `tools/i18n.mjs` executa esse mesmo código em jsdom, por isso as chaves coincidem. No carregamento, o script percorre o DOM estático, identifica cada unidade traduzível (parágrafo, célula, rótulo, atributo `title`/`aria-label`/`placeholder`) e calcula uma chave a partir do texto em português (hash FNV-1a). Ao escolher um idioma, baixa `i18n/<lang>.json` e substitui cada unidade cuja chave exista no arquivo; as demais ficam em português. Strings geradas por script (contagens, datas, status do feed) usam o objeto `J0` e a tabela de dados `d:`; os resumos dos itens do feed permanecem em português.
+A página não é duplicada por idioma. O código que identifica as unidades fica em `index.html` entre os marcadores `/*i18n-core-begin*/` e `/*i18n-core-end*/`; `tools/i18n.mjs` executa esse mesmo código em jsdom, por isso as chaves coincidem. No carregamento, o script percorre o DOM estático, identifica cada unidade traduzível (parágrafo, célula, rótulo, atributo `title`/`aria-label`/`placeholder`) e calcula uma chave a partir do texto em português (hash FNV-1a). Ao escolher um idioma, baixa `i18n/<lang>.json` e substitui cada unidade cuja chave exista no arquivo; as demais ficam em português. Strings geradas por script (contagens, datas, status do feed) usam o objeto `J0` e a tabela de dados `d:`; os resumos do feed vêm em português (`summary`) e nos outros seis idiomas (`summary_i18n`, escritos pelos próprios agentes); o rótulo do tipo usa chaves `d:`. Faltando a tradução, mostra-se o português.
 
 Consequências práticas:
 
