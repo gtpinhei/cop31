@@ -1,16 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T00:20:00-03:00",
+ "generated_at": "2026-11-08T06:30:00-03:00",
  "round": {
-  "timestamp": "2026-11-08T00:14:00-03:00",
-  "label": "8 nov 2026, 00:14 (Brasília)",
-  "sites_checked": 40,
+  "timestamp": "2026-11-08T06:30:00-03:00",
+  "label": "8 nov 2026, 06:30 (Brasília)",
+  "sites_checked": 22,
   "blocked": 3,
-  "new_items": 1,
-  "fetches": "31 de 60",
+  "new_items": 4,
+  "fetches": "25 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "ODI (client_error)",
+   "Carbon Pulse (client_error)",
    "UNEP",
    "IEA"
   ]
@@ -33,6 +33,32 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "x-murat_kurum-20261108-voluntarios",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "06:02",
+   "text": "Gençlerimiz yalnızca COP31’e değil, dünyanın geleceğini de kurtarmak için gönüllü oldu.\n\nHep birlikte sözü eyleme dönüştürecek, dünyaya iz bırakacağız.\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "Kurum diz que os jovens voluntários se engajaram não só pela COP31, mas para salvar o futuro do mundo, e promete transformar a palavra em ação.",
+   "summary_i18n": {
+    "en": "Kurum says the young volunteers signed up not only for COP31 but to save the world's future, and promises to turn words into action.",
+    "es": "Kurum afirma que los jóvenes voluntarios se sumaron no solo por la COP31, sino para salvar el futuro del mundo, y promete convertir las palabras en acción.",
+    "fr": "Kurum affirme que les jeunes volontaires se sont engagés non seulement pour la COP31, mais pour sauver l'avenir du monde, et promet de transformer la parole en action.",
+    "ru": "Куртум заявляет, что молодые волонтёры вызвались помогать не только ради КС-31, но и ради спасения будущего мира, и обещает превратить слова в действия.",
+    "zh": "库鲁姆表示，青年志愿者不仅为COP31而来，更是为拯救世界的未来，并承诺将言语化为行动。",
+    "ar": "يقول كوروم إن المتطوعين الشباب لم ينضموا من أجل مؤتمر الأطراف الحادي والثلاثين فحسب، بل لإنقاذ مستقبل العالم، ويتعهد بتحويل الأقوال إلى أفعال."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T06:50:00-03:00",
+   "lang": "tr"
+  },
   {
    "id": "x-turkiyecop31-20261107-juventude-acao",
    "kind": "post",
@@ -332,6 +358,31 @@
     "zh": "11月7日，UNFCCC网站unfccc.int/cop31将其列为“待解决关键问题”指南予以推荐。Stiell表示，气候多边主义“正在取得重要进展”，但集体进展仍“严重不足”；土耳其–澳大利亚主席国将安塔利亚定位为“实施与加速之COP”。COP31将作出的决定包括：正式启动第二次全球盘点（GST2），技术对话的两名共同推动者尚待任命，综合报告将于2027年初发布；2026年后是否延续MWP；阿联酋框架在韧性方面的落实及LEG的审议；以及公正转型机制（悉尼非正式研讨会）。数据显示：157个缔约方提交了新的NDC，81份NAP，2023–24年全球气候资金流量为每年1.9万亿美元（增长32%）；从1400份申请中选出约330场边会；参与基金存在140万美元缺口。《2026年全球气候行动年鉴》即将发布。",
     "ar": "أُبرزت في 7 نوفمبر على الصفحة unfccc.int/cop31 بوصفها دليلاً إلى “القضايا الرئيسية على الطاولة”. يقول Stiell إن العمل المناخي متعدد الأطراف “يحقق تقدماً مهماً”، لكن التقدم الجماعي ما زال “غير كافٍ إلى حد كبير”؛ وتصف رئاسة تركيا وأستراليا أنطاليا بأنها “مؤتمر التنفيذ والتسريع”. ويحدد ما ستقرره COP31: الإطلاق الرسمي لـ GST2، مع تعيين ميسّرَين مشاركين للحوار الفني ما زال معلقاً، وإصدار الخلاصات مطلع 2027؛ ومدى استمرار برنامج عمل التخفيف (MWP) بعد 2026؛ وتفعيل إطار الإمارات للصمود ومراجعة LEG؛ وآلية الانتقال العادل (ورشة غير رسمية في سيدني). الأرقام: 157 طرفاً قدّمت مساهمات محددة وطنياً جديدة؛ و81 خطة وطنية للتكيف (NAPs)؛ والتدفقات العالمية للتمويل المناخي بلغت 1.9 تريليون دولار أمريكي سنوياً في 2023–2024 (بزيادة 32%)؛ واختيرت نحو 330 فعالية جانبية من أصل 1,400 طلب؛ وفجوة قدرها 1.4 مليون دولار في صندوق المشاركة. ومن المنتظر قريباً صدور Yearbook of Global Climate Action 2026."
    }
+  },
+  {
+   "id": "x-AOSISChair-20261106-preparatoria",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-06",
+   "text": "On Thursday 5th November, AOSIS members from all SIDS regions assembled in Antalya, Türkiye for the first day of critical COP31 preparation.",
+   "summary": "A AOSIS informa que seus membros de todas as regiões de pequenos Estados insulares se reuniram em Antalya, em 5 de novembro, no primeiro dia de preparação para a COP31.",
+   "summary_i18n": {
+    "en": "AOSIS reports that its members from all SIDS regions met in Antalya on 5 November for the first day of preparations for COP31.",
+    "es": "La AOSIS informa de que sus miembros de todas las regiones de los PEID se reunieron en Antalya el 5 de noviembre para el primer día de preparación de la COP31.",
+    "fr": "L'AOSIS indique que ses membres de toutes les régions des PEID se sont réunis à Antalya le 5 novembre pour le premier jour de préparation de la COP31.",
+    "ru": "АОСИС сообщает, что её члены из всех регионов МОСТРГ собрались в Анталье 5 ноября в первый день подготовки к КС-31.",
+    "zh": "小岛屿国家联盟（AOSIS）表示，来自所有小岛屿发展中国家区域的成员于11月5日在安塔利亚集会，开启COP31筹备的第一天。",
+    "ar": "يفيد تحالف الدول الجزرية الصغيرة بأن أعضاءه من جميع مناطق الدول الجزرية الصغيرة النامية اجتمعوا في أنطاليا في 5 تشرين الثاني/نوفمبر في اليوم الأول من التحضير لمؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T06:50:00-03:00",
+   "lang": "en"
   },
   {
    "id": "climateanalytics-2026-11-06-slcf-overshoot",
@@ -995,6 +1046,88 @@
    }
   },
   {
+   "id": "iddri-2026-11-05-fossil-roadmap",
+   "institution": "IDDRI",
+   "type": "blog",
+   "title": "Transitioning Away from Fossil Fuels: what is the COP30 Presidency Roadmap and how can it support countries in implementing this goal?",
+   "date": "2026-11-05",
+   "authors": "Hélène Van Rossum, Marta Torres Gunfaus",
+   "url": "https://www.iddri.org/en/publications-and-events/blog-post/transitioning-away-fossil-fuels-what-cop30-presidency-roadmap-and",
+   "summary": "Descreve o Mapa do Caminho global da Presidência da COP30 como um quadro voluntário que ajuda os países a avaliar sua capacidade de transição e exposição aos fósseis, e o compara ao processo de Santa Marta, de coalizão. Conclui que ambos são úteis, mas que o impacto do Mapa depende de um processo de acompanhamento a ser acordado na COP31. Trilha: TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Describes the COP30 Presidency's global Roadmap as a voluntary framework helping countries assess their transition capacity and fossil fuel exposure, and compares it with the coalition-based Santa Marta process. Concludes that both are useful, but that the Roadmap's impact depends on a follow-up process to be agreed at COP31. Track: TAFF and fossil fuels.",
+    "es": "Describe la Hoja de ruta global de la Presidencia de la COP30 como un marco voluntario que ayuda a los países a evaluar su capacidad de transición y su exposición a los combustibles fósiles, y la compara con el proceso de Santa Marta, basado en coaliciones. Concluye que ambos son útiles, pero que el impacto de la Hoja de ruta depende de un proceso de seguimiento que se acuerde en la COP31. Vía: TAFF y combustibles fósiles.",
+    "fr": "Décrit la feuille de route mondiale de la présidence de la COP30 comme un cadre volontaire aidant les pays à évaluer leur capacité de transition et leur exposition aux combustibles fossiles, et la compare au processus de Santa Marta, fondé sur des coalitions. Conclut que les deux sont utiles, mais que l'impact de la feuille de route dépend d'un processus de suivi à convenir à la COP31. Volet : TAFF et combustibles fossiles.",
+    "ru": "Описывает глобальную дорожную карту президентства КС-30 как добровольную рамку, помогающую странам оценить способность к переходу и зависимость от ископаемого топлива, и сравнивает её с процессом Санта-Марты, основанным на коалициях. Делается вывод, что оба инструмента полезны, но влияние дорожной карты зависит от последующего процесса, который будет согласован на КС-31. Направление: TAFF и ископаемое топливо.",
+    "zh": "将COP30主席国的全球路线图描述为一个自愿性框架，帮助各国评估转型能力和化石燃料依赖程度，并将其与基于联盟的圣玛尔塔进程作比较。结论是两者均有价值，但路线图的影响取决于COP31将商定的后续进程。议题：TAFF与化石燃料。",
+    "ar": "يصف خريطة الطريق العالمية لرئاسة مؤتمر الأطراف الثلاثين بأنها إطار طوعي يساعد البلدان على تقييم قدرتها على الانتقال ومدى انكشافها على الوقود الأحفوري، ويقارنها بعملية سانتا مارتا القائمة على الائتلافات. ويخلص إلى أن كليهما مفيد، لكن أثر خريطة الطريق يتوقف على عملية متابعة يتم الاتفاق عليها في مؤتمر الأطراف الحادي والثلاثين. المسار: TAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "a useful contribution to international discussions on transitioning away from fossil fuels"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "iddri-2026-11-05-european-diplomacy",
+   "institution": "IDDRI",
+   "type": "briefing",
+   "title": "European climate diplomacy at a crossroads: Preliminary conclusions for international cooperation and COP31",
+   "date": "2026-11-05",
+   "authors": "Anna Pérez Català, Pelin Zorlu, Marta Torres Gunfaus, Chris Aylett, Céline Kauffmann",
+   "url": "https://www.iddri.org/en/publications-and-events/note/european-climate-diplomacy-crossroads-preliminary-conclusions",
+   "summary": "Nota conjunta IDDRI–Chatham House (publicada em novembro de 2026, dia exato não informado) sobre a lacuna crescente entre compromissos e implementação e a mudança geopolítica. Recomenda que a Europa vincule mais deliberadamente a diplomacia climática a segurança energética, competitividade industrial, comércio e investimento, e antecipa um relatório completo para o início de 2027 sobre eletricidade, transporte marítimo e aço. Trilhas: mitigação, eletrificação.",
+   "summary_i18n": {
+    "en": "Joint IDDRI–Chatham House note (published November 2026, exact day not stated) on the widening gap between commitments and implementation and a shifting geopolitical landscape. Recommends that Europe more deliberately link climate diplomacy with energy security, industrial competitiveness, trade and investment, and previews a full report due in early 2027 covering electricity systems, shipping and steel. Tracks: mitigation, electrification.",
+    "es": "Nota conjunta de IDDRI y Chatham House (publicada en noviembre de 2026, sin día exacto) sobre la brecha creciente entre compromisos e implementación y el cambio del panorama geopolítico. Recomienda que Europa vincule más deliberadamente la diplomacia climática con la seguridad energética, la competitividad industrial, el comercio y la inversión, y anticipa un informe completo para principios de 2027 sobre sistemas eléctricos, transporte marítimo y acero. Vías: mitigación, electrificación.",
+    "fr": "Note conjointe de l'IDDRI et de Chatham House (publiée en novembre 2026, jour exact non précisé) sur l'écart croissant entre engagements et mise en œuvre et sur l'évolution du paysage géopolitique. Recommande que l'Europe lie plus délibérément la diplomatie climatique à la sécurité énergétique, à la compétitivité industrielle, au commerce et à l'investissement, et annonce un rapport complet début 2027 sur les systèmes électriques, le transport maritime et l'acier. Volets : atténuation, électrification.",
+    "ru": "Совместная записка IDDRI и Chatham House (опубликована в ноябре 2026 г., точный день не указан) о растущем разрыве между обязательствами и реализацией и меняющейся геополитической обстановке. Рекомендует Европе более целенаправленно связывать климатическую дипломатию с энергетической безопасностью, промышленной конкурентоспособностью, торговлей и инвестициями; анонсирует полный доклад в начале 2027 г. об электроэнергетических системах, судоходстве и стали. Направления: смягчение, электрификация.",
+    "zh": "IDDRI与Chatham House联合发布的简报（2026年11月发布，具体日期未注明），涉及承诺与实施之间不断扩大的差距以及不断变化的地缘政治格局。建议欧洲更有意识地将气候外交与能源安全、产业竞争力、贸易和投资联系起来，并预告2027年初将发布涵盖电力系统、航运和钢铁的完整报告。议题：减缓、电气化。",
+    "ar": "مذكرة مشتركة بين IDDRI وChatham House (نُشرت في نوفمبر 2026 دون تحديد اليوم) حول اتساع الفجوة بين الالتزامات والتنفيذ وتغير المشهد الجيوسياسي. توصي بأن تربط أوروبا دبلوماسيتها المناخية على نحو أكثر تعمدًا بأمن الطاقة والقدرة التنافسية الصناعية والتجارة والاستثمار، وتمهد لتقرير كامل مرتقب في أوائل 2027 عن أنظمة الكهرباء والشحن البحري والصلب. المساران: التخفيف والكهربة."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "a growing implementation gap between commitments and action"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-05-media-brief",
+   "institution": "350.org",
+   "type": "briefing",
+   "title": "Media Brief, COP31 in Antalya: A Moment for Action",
+   "date": "2026-11-05",
+   "authors": "Kim Bryan (350.org Media Team)",
+   "url": "https://350.org/press-release/cop31-in-antalya-a-moment-for-action/",
+   "summary": "Briefing para jornalistas sobre a COP31 (9–20 nov): a 350.org quer eliminação gradual de carvão, petróleo e gás com cronograma claro, taxação dos lucros fósseis, expansão de renováveis e redes e financiamento a países pobres e comunidades da linha de frente. Apresenta a cúpula como teste da meta de 1,5 °C dez anos após o Acordo de Paris, em meio a uma crise energética. Trilhas: TAFF e fósseis, finanças.",
+   "summary_i18n": {
+    "en": "Briefing for journalists on COP31 (9–20 Nov): 350.org wants coal, oil and gas phased out on a clear timeline, fossil fuel profits taxed, renewables and grids expanded, and funding for poorer nations and frontline communities. Presents the summit as a test of the 1.5°C goal ten years after the Paris Agreement, amid an energy crisis. Tracks: TAFF and fossil fuels, finance.",
+    "es": "Informe para periodistas sobre la COP31 (9–20 nov): 350.org quiere la eliminación gradual del carbón, el petróleo y el gas con un calendario claro, impuestos a los beneficios de los combustibles fósiles, expansión de las renovables y las redes, y financiación para los países más pobres y las comunidades en primera línea. Presenta la cumbre como una prueba del objetivo de 1,5 °C diez años después del Acuerdo de París, en plena crisis energética. Vías: TAFF y combustibles fósiles, finanzas.",
+    "fr": "Dossier de presse sur la COP31 (9–20 nov.) : 350.org veut l'élimination progressive du charbon, du pétrole et du gaz selon un calendrier clair, la taxation des profits des énergies fossiles, l'expansion des renouvelables et des réseaux, et un financement pour les pays pauvres et les communautés en première ligne. Présente le sommet comme un test de l'objectif de 1,5 °C dix ans après l'Accord de Paris, en pleine crise énergétique. Volets : TAFF et combustibles fossiles, finances.",
+    "ru": "Информационная записка для журналистов о КС-31 (9–20 ноября): 350.org требует поэтапного отказа от угля, нефти и газа по чёткому графику, налогообложения прибыли ископаемых компаний, расширения ВИЭ и сетей, а также финансирования бедных стран и общин на переднем крае. Саммит представлен как проверка цели в 1,5 °C через десять лет после Парижского соглашения на фоне энергетического кризиса. Направления: TAFF и ископаемое топливо, финансы.",
+    "zh": "面向记者的COP31（11月9日至20日）简报：350.org要求按明确时间表逐步淘汰煤炭、石油和天然气，对化石燃料利润征税，扩大可再生能源和电网，并为较贫穷国家和一线社区提供资金。该简报将此次峰会视为《巴黎协定》十年后对1.5°C目标的检验，背景是能源危机。议题：TAFF与化石燃料、资金。",
+    "ar": "إحاطة للصحفيين حول مؤتمر الأطراف الحادي والثلاثين (9–20 نوفمبر): تريد 350.org التخلص التدريجي من الفحم والنفط والغاز وفق جدول زمني واضح، وفرض ضرائب على أرباح الوقود الأحفوري، وتوسيع الطاقة المتجددة والشبكات، وتمويل البلدان الأفقر والمجتمعات في الخطوط الأمامية. وتقدم القمة كاختبار لهدف 1.5 درجة مئوية بعد عشر سنوات على اتفاق باريس في خضم أزمة طاقة. المساران: TAFF والوقود الأحفوري، والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [
+    "But the fight for 1.5°C and a more livable planet is not yet over",
+    "This year’s summit lands in the middle of the biggest energy crisis in history"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "carbon-pulse-2026-11-05-fossil-treaty-cdr",
    "institution": "Carbon Pulse",
    "type": "notícia",
@@ -1423,6 +1556,33 @@
    }
   },
   {
+   "id": "e3g-2026-11-04-isds",
+   "institution": "E3G",
+   "type": "blog",
+   "title": "Investor-state dispute settlement (ISDS) mechanisms are threatening economic, energy and security priorities",
+   "date": "2026-11-04",
+   "authors": "Eunjung Lee",
+   "url": "https://www.e3g.org/news/investor-state-dispute-settlement-isds-mechanisms-are-threatening-economic-energy-and-security-priorities/",
+   "summary": "Explica como cláusulas ISDS em tratados de investimento permitem que empresas contestem decisões regulatórias, com crescimento de ações ligadas a projetos fósseis e à política industrial climática (mina de carvão de Cumbria, British Steel, Nexperia). Argumenta que a COP31 deve impulsionar uma reforma coordenada dos tratados de investimento, pois os governos ainda não reconheceram o ISDS como barreira à ação climática. Toca as trilhas de comércio e de TAFF.",
+   "summary_i18n": {
+    "en": "Explains how ISDS clauses in investment treaties let companies challenge regulatory decisions, with a growing number of claims linked to fossil fuel projects and climate-related industrial policy (Cumbria coalmine, British Steel, Nexperia). Argues that COP31 should advance coordinated investment treaty reform, since governments have not yet recognised ISDS as a barrier to climate action. Bears on the trade and TAFF tracks.",
+    "es": "Explica cómo las cláusulas ISDS de los tratados de inversión permiten a las empresas impugnar decisiones regulatorias, con un número creciente de reclamaciones vinculadas a proyectos de combustibles fósiles y a la política industrial climática (mina de carbón de Cumbria, British Steel, Nexperia). Sostiene que la COP31 debe impulsar una reforma coordinada de los tratados de inversión, ya que los gobiernos aún no reconocen el ISDS como obstáculo para la acción climática. Atañe a las vías de comercio y de TAFF.",
+    "fr": "Explique comment les clauses ISDS des traités d'investissement permettent aux entreprises de contester des décisions réglementaires, avec un nombre croissant de plaintes liées aux projets d'énergies fossiles et à la politique industrielle climatique (mine de charbon de Cumbria, British Steel, Nexperia). Soutient que la COP31 devrait faire avancer une réforme coordonnée des traités d'investissement, les gouvernements n'ayant pas encore reconnu l'ISDS comme un obstacle à l'action climatique. Concerne les volets commerce et TAFF.",
+    "ru": "Объясняет, как положения ISDS в инвестиционных договорах позволяют компаниям оспаривать регуляторные решения; растёт число исков, связанных с проектами в сфере ископаемого топлива и климатической промышленной политикой (угольная шахта в Камбрии, British Steel, Nexperia). Автор утверждает, что КС-31 должна продвинуть скоординированную реформу инвестиционных договоров, поскольку правительства пока не признали ISDS препятствием для климатических действий. Относится к направлениям «Торговля» и TAFF.",
+    "zh": "阐述投资条约中的ISDS条款如何使企业得以挑战监管决定，与化石燃料项目和气候相关产业政策有关的索赔日益增多（坎布里亚煤矿、British Steel、Nexperia）。作者主张COP31应推动协调一致的投资条约改革，因为各国政府尚未认识到ISDS是气候行动的障碍。涉及贸易和TAFF议题。",
+    "ar": "يشرح كيف تتيح بنود ISDS في معاهدات الاستثمار للشركات الطعن في القرارات التنظيمية، مع تزايد المطالبات المرتبطة بمشاريع الوقود الأحفوري والسياسة الصناعية المناخية (منجم الفحم في كمبريا، وBritish Steel، وNexperia). ويرى أن على مؤتمر الأطراف الحادي والثلاثين أن يدفع نحو إصلاح منسق لمعاهدات الاستثمار، إذ لم تعترف الحكومات بعد بأن ISDS يشكل عائقًا أمام العمل المناخي. يتصل بمساري التجارة وTAFF."
+   },
+   "tracks": [
+    "Comércio",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "with the potential cost to the UK government some £300 million"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "icc-2026-11-04-sme-climate-finance",
    "institution": "ICC",
    "type": "relatório",
@@ -1795,11 +1955,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T05:45:00-03:00",
-  "label": "8 nov 2026, 05:45 (Brasília)",
-  "accounts_checked": 6,
+  "timestamp": "2026-11-08T06:50:00-03:00",
+  "label": "8 nov 2026, 06:50 (Brasília)",
+  "accounts_checked": 12,
   "blocked": 0,
-  "new_items": 0,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
