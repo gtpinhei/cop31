@@ -34,6 +34,32 @@
  ],
  "items": [
   {
+   "id": "bluesky-carbonbrief-20261108-bowen",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "08:32",
+   "text": "Recommended watch: The Bloomberg Zero podcast interviewed Chris Bowen, Australia's climate minister and incoming COP31 president of negotiations. \n\nbuff.ly/RnHUaYd",
+   "summary": "Carbon Brief recomenda a entrevista do podcast Bloomberg Zero com Chris Bowen, ministro do Clima da Austrália e futuro presidente de negociações da COP31.",
+   "summary_i18n": {
+    "en": "Carbon Brief recommends the Bloomberg Zero podcast interview with Chris Bowen, Australia's climate minister and incoming COP31 President of Negotiations.",
+    "es": "Carbon Brief recomienda la entrevista del pódcast Bloomberg Zero con Chris Bowen, ministro de Clima de Australia y próximo presidente de negociaciones de la COP31.",
+    "fr": "Carbon Brief recommande l'entretien du podcast Bloomberg Zero avec Chris Bowen, ministre australien du Climat et futur président des négociations de la COP31.",
+    "ru": "Carbon Brief рекомендует интервью подкаста Bloomberg Zero с Крисом Боуэном, министром по вопросам климата Австралии и будущим председателем переговоров COP31.",
+    "zh": "Carbon Brief推荐彭博Zero播客对澳大利亚气候部长、COP31谈判主席人选克里斯·鲍文（Chris Bowen）的访谈。",
+    "ar": "توصي Carbon Brief بمقابلة بودكاست Bloomberg Zero مع كريس بوين، وزير المناخ الأسترالي ورئيس مفاوضات مؤتمر الأطراف الحادي والثلاثين المقبل."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzscstmm5v2t",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-turkiyecop31-20261108-worth-world-iztuzu",
    "kind": "post",
    "platform": "x",
@@ -384,6 +410,60 @@
     "zh": "11月7日，UNFCCC网站unfccc.int/cop31将其列为“待解决关键问题”指南予以推荐。Stiell表示，气候多边主义“正在取得重要进展”，但集体进展仍“严重不足”；土耳其–澳大利亚主席国将安塔利亚定位为“实施与加速之COP”。COP31将作出的决定包括：正式启动第二次全球盘点（GST2），技术对话的两名共同推动者尚待任命，综合报告将于2027年初发布；2026年后是否延续MWP；阿联酋框架在韧性方面的落实及LEG的审议；以及公正转型机制（悉尼非正式研讨会）。数据显示：157个缔约方提交了新的NDC，81份NAP，2023–24年全球气候资金流量为每年1.9万亿美元（增长32%）；从1400份申请中选出约330场边会；参与基金存在140万美元缺口。《2026年全球气候行动年鉴》即将发布。",
     "ar": "أُبرزت في 7 نوفمبر على الصفحة unfccc.int/cop31 بوصفها دليلاً إلى “القضايا الرئيسية على الطاولة”. يقول Stiell إن العمل المناخي متعدد الأطراف “يحقق تقدماً مهماً”، لكن التقدم الجماعي ما زال “غير كافٍ إلى حد كبير”؛ وتصف رئاسة تركيا وأستراليا أنطاليا بأنها “مؤتمر التنفيذ والتسريع”. ويحدد ما ستقرره COP31: الإطلاق الرسمي لـ GST2، مع تعيين ميسّرَين مشاركين للحوار الفني ما زال معلقاً، وإصدار الخلاصات مطلع 2027؛ ومدى استمرار برنامج عمل التخفيف (MWP) بعد 2026؛ وتفعيل إطار الإمارات للصمود ومراجعة LEG؛ وآلية الانتقال العادل (ورشة غير رسمية في سيدني). الأرقام: 157 طرفاً قدّمت مساهمات محددة وطنياً جديدة؛ و81 خطة وطنية للتكيف (NAPs)؛ والتدفقات العالمية للتمويل المناخي بلغت 1.9 تريليون دولار أمريكي سنوياً في 2023–2024 (بزيادة 32%)؛ واختيرت نحو 330 فعالية جانبية من أصل 1,400 طلب؛ وفجوة قدرها 1.4 مليون دولار في صندوق المشاركة. ومن المنتظر قريباً صدور Yearbook of Global Climate Action 2026."
    }
+  },
+  {
+   "id": "bluesky-ldcchairunfccc-20261106-varank",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "05:41",
+   "text": "Meeting with H.E. Ms. Fatma Varank, CEO of the COP31 Presidency, to discuss how COP31 can best respond to LDCs’ needs. I shared our Group’s key priorities and expectations for an ambitious and inclusive COP31.\n\n#LDCGroup #COP31 #United4ClimateAction",
+   "summary": "A presidência do Grupo dos PMDs reuniu-se com Fatma Varank, CEO da presidência da COP31, para apresentar as prioridades e expectativas dos PMDs para uma COP31 ambiciosa e inclusiva.",
+   "summary_i18n": {
+    "en": "The LDC Group Chair met Fatma Varank, CEO of the COP31 Presidency, to present the LDCs' priorities and expectations for an ambitious and inclusive COP31.",
+    "es": "La presidencia del Grupo de PMA se reunió con Fatma Varank, directora ejecutiva de la Presidencia de la COP31, para presentar las prioridades y expectativas de los PMA para una COP31 ambiciosa e inclusiva.",
+    "fr": "La présidence du Groupe des PMA a rencontré Fatma Varank, directrice générale de la présidence de la COP31, pour présenter les priorités et les attentes des PMA pour une COP31 ambitieuse et inclusive.",
+    "ru": "Председатель Группы НРС встретился с Фатмой Варанк, исполнительным директором председательства COP31, чтобы изложить приоритеты и ожидания НРС в отношении амбициозной и инклюзивной COP31.",
+    "zh": "最不发达国家集团主席会见了COP31主席团首席执行官法特玛·瓦朗克（Fatma Varank），介绍最不发达国家对一届有雄心、包容的COP31的优先事项和期待。",
+    "ar": "التقى رئيس مجموعة أقل البلدان نموا بفاطمة فارانك، الرئيسة التنفيذية لرئاسة مؤتمر الأطراف الحادي والثلاثين، لعرض أولويات وتوقعات أقل البلدان نموا لمؤتمر أطراف طموح وشامل."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzmyecdyhs2g",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-carbonbrief-20261106-debriefed",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "11:01",
+   "text": "DeBriefed: COP31 countdown | Fossil-fuel and forest ‘roadmaps’ | ‘Staggering shortfall’ in adaptation funds\n\n✍️ Written by @ayeshatandon.carbonbrief.org \n📝 Edited by @daisydunne.carbonbrief.org \n\nRead here ➡️ buff.ly/VLVs9EZ\n\nSubscribe to Carbon Brief's newsletters ⬇️\ncarbonbrief.org/newsletters",
+   "summary": "Newsletter DeBriefed da Carbon Brief traz contagem regressiva da COP31, \"roteiros\" para combustíveis fósseis e florestas e um \"déficit impressionante\" no financiamento de adaptação.",
+   "summary_i18n": {
+    "en": "Carbon Brief's DeBriefed newsletter covers the COP31 countdown, fossil-fuel and forest 'roadmaps', and a 'staggering shortfall' in adaptation finance.",
+    "es": "El boletín DeBriefed de Carbon Brief trata la cuenta atrás de la COP31, las «hojas de ruta» sobre combustibles fósiles y bosques, y un «déficit asombroso» en la financiación de la adaptación.",
+    "fr": "La newsletter DeBriefed de Carbon Brief aborde le compte à rebours de la COP31, les « feuilles de route » sur les combustibles fossiles et les forêts, et un « déficit stupéfiant » du financement de l'adaptation.",
+    "ru": "Рассылка DeBriefed от Carbon Brief посвящена обратному отсчёту до COP31, «дорожным картам» по ископаемому топливу и лесам и «огромному дефициту» финансирования адаптации.",
+    "zh": "Carbon Brief的DeBriefed通讯涵盖COP31倒计时、化石燃料和森林“路线图”，以及适应资金的“惊人缺口”。",
+    "ar": "تتناول نشرة DeBriefed من Carbon Brief العد التنازلي لمؤتمر الأطراف الحادي والثلاثين و«خرائط الطريق» بشأن الوقود الأحفوري والغابات و«العجز الهائل» في تمويل التكيف."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mznka47r322n",
+   "tracks": [
+    "Adaptação",
+    "TAFF e fósseis",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
   },
   {
    "id": "x-AOSISChair-20261106-preparatoria",
@@ -1070,6 +1150,32 @@
     "zh": "Germanwatch预会新闻稿：安塔利亚是加速转型者与试图延长化石燃料利润者之间合作的考验。呼吁行动议程的自愿联盟承担责任、设定期限并公开报告，并要求各国说明其成果将如何纳入GST2；报告2023年目标的进展（可再生能源增至三倍、能效翻番、2030年零砍伐）；设定中期目标，逐步达到2035年每年3000亿美元。Germanwatch要求德国制定电气化战略，并批评气候融资预算；同时主张通过对大排放者和超级富豪征税落实“污染者付费”原则。报告引用了粮农组织（FAO）关于2027年粮食价格危机的警告。",
     "ar": "بيان صحفي ما قبل المؤتمر: أنطاليا اختبار للتعاون بين من يسرّعون ومن يريدون إطالة أمد أرباح الوقود الأحفوري. وتطالب بأن تتحمل التحالفات الطوعية في أجندة العمل مسؤوليات وآجالاً وإعداد تقارير علنية، وبأن توضح الدول كيف ستغذي نتائجها GST2؛ وبتقرير التقدم نحو أهداف 2023 (مضاعفة الطاقة المتجددة ثلاث مرات، ومضاعفة الكفاءة، وخفض إزالة الغابات إلى الصفر بحلول 2030)؛ وبمسار بأهداف مرحلية حتى 300 مليار دولار سنوياً بحلول 2035. وتطالب ألمانيا باستراتيجية للكهربة، وتنتقد ميزانيات التمويل المناخي، وتدعو إلى مبدأ الملوث يدفع عبر رسوم على كبار المنبعثين والأثرياء جداً. وتستشهد بتحذير منظمة الأغذية والزراعة (FAO) من أزمة أسعار الغذاء في 2027."
    }
+  },
+  {
+   "id": "bluesky-ldcchairunfccc-20261105-prepmeeting",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "16:22",
+   "text": "We concluded our Preparatory Meeting in Antalya with aligned priorities and a united voice for COP31. We had a privilege of hosting SB Chairs, COP Presidencies and UNFCCC Executive Secretary to convey our expectations of COP31\n\n#LDCGroup #COP31",
+   "summary": "O Grupo dos PMDs encerrou em Antalya sua reunião preparatória, com prioridades alinhadas e voz unida para a COP31, recebendo presidentes dos órgãos subsidiários, presidências da COP e o secretário-executivo da UNFCCC.",
+   "summary_i18n": {
+    "en": "The LDC Group concluded its preparatory meeting in Antalya with aligned priorities and a united voice for COP31, hosting SB Chairs, COP Presidencies and the UNFCCC Executive Secretary.",
+    "es": "El Grupo de PMA concluyó su reunión preparatoria en Antalya con prioridades alineadas y una voz unida para la COP31, y recibió a los presidentes de los órganos subsidiarios, las presidencias de la COP y el Secretario Ejecutivo de la CMNUCC.",
+    "fr": "Le Groupe des PMA a clôturé sa réunion préparatoire à Antalya avec des priorités alignées et une voix unie pour la COP31, en accueillant les présidents des organes subsidiaires, les présidences de la COP et le Secrétaire exécutif de la CCNUCC.",
+    "ru": "Группа НРС завершила подготовительное совещание в Анталье, согласовав приоритеты и выработав единую позицию на COP31; в нём приняли участие председатели вспомогательных органов, председательства COP и Исполнительный секретарь РКИК ООН.",
+    "zh": "最不发达国家集团在安塔利亚结束筹备会议，就COP31达成一致的优先事项和共同立场，会议邀请了附属机构主席、历届COP主席团和《联合国气候变化框架公约》执行秘书出席。",
+    "ar": "اختتمت مجموعة أقل البلدان نموا اجتماعها التحضيري في أنطاليا بأولويات متوافقة وصوت موحد لمؤتمر الأطراف الحادي والثلاثين، واستضافت رؤساء الهيئتين الفرعيتين ورئاسات المؤتمر والأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzllozci5c2u",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
   },
   {
    "id": "iddri-2026-11-05-fossil-roadmap",
@@ -1981,11 +2087,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T07:46:00-03:00",
-  "label": "8 nov 2026, 07:46 (Brasília)",
-  "accounts_checked": 4,
+  "timestamp": "2026-11-08T08:50:00-03:00",
+  "label": "8 nov 2026, 08:50 (Brasília)",
+  "accounts_checked": 2,
   "blocked": 0,
-  "new_items": 1,
+  "new_items": 4,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
