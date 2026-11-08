@@ -35,6 +35,32 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261107-juventude-acao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "19:04",
+   "text": "Now is the time to turn the promise of youth into action!",
+   "summary": "A presidência da COP31 chama a transformar a promessa da juventude em ação, em vídeo publicado após os eventos com jovens em Antalya.",
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-07T22:50:00-03:00",
+   "lang": "en",
+   "summary_i18n": {
+    "en": "The COP31 Presidency calls for turning the promise of youth into action, in a video posted after the youth events in Antalya.",
+    "es": "La Presidencia de la COP31 pide convertir la promesa de la juventud en acción, en un video publicado tras los actos con jóvenes en Antalya.",
+    "fr": "La présidence de la COP31 appelle à transformer la promesse de la jeunesse en action, dans une vidéo publiée après les événements avec les jeunes à Antalya.",
+    "ru": "Председательство КС-31 призывает превратить обещание молодёжи в действия в видеоролике, опубликованном после мероприятий с молодёжью в Анталье.",
+    "zh": "COP31主席团在安塔利亚青年活动后发布视频，呼吁将青年的承诺转化为行动。",
+    "ar": "تدعو رئاسة مؤتمر الأطراف الحادي والثلاثين في مقطع فيديو نُشر بعد فعاليات الشباب في أنطاليا إلى تحويل وعد الشباب إلى عمل."
+   }
+  },
+  {
    "id": "x-turkiyecop31-20261107-bowen-discurso",
    "kind": "post",
    "platform": "x",
@@ -1742,12 +1768,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-07T18:47:55-03:00",
-  "label": "7 nov 2026, 18:47 (Brasília)",
-  "accounts_checked": 27,
+  "timestamp": "2026-11-07T22:50:00-03:00",
+  "label": "7 nov 2026, 22:50 (Brasília)",
+  "accounts_checked": 11,
   "blocked": 0,
-  "new_items": 4,
-  "cadence": "a cada 4 horas",
+  "new_items": 1,
+  "cadence": "a cada hora",
   "blocked_accounts": []
  }
 }
