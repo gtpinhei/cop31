@@ -22,3 +22,4 @@ jobs:
           node tools/test_i18n.mjs
           for l in en es fr ru zh ar; do node tools/test_i18n.mjs $l; done
           node tests/test_v1.mjs
+          node tests/test_qa.mjs

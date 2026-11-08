@@ -60,5 +60,5 @@ Mudanças só no `data/feed.json` (agentes) não exigem nada disso.
 - **Hoje na COP31** (`#hoje`, topo do Panorama): curadoria editorial em `data/today.json`, publicada só com aprovação humana e fonte verificada. Fluxo em `docs/editorial.md`.
 - **Pulso social** (`#pulso`): posts brutos das contas monitoradas; Bluesky ao vivo pela API pública, X, Instagram e YouTube como cartões e incorporações sob demanda. Contas em `data/pulse.json` (`tools/build_pulse.py`).
 - Atualizações: hora da coleta separada da hora de carregamento, cobertura, estados de lentidão e erro com nova tentativa, posts com link de perfil sinalizados.
-- Validação e testes: `python3 -I tools/validate_feed.py`, `python3 -I -m unittest discover -s tests`, `node tests/test_v1.mjs`, `node tools/test_i18n.mjs [lang]`; rodam no GitHub Actions (`.github/workflows/tests.yml`).
+- Validação e testes: `python3 -I tools/validate_feed.py`, `python3 -I -m unittest discover -s tests`, `node tests/test_v1.mjs`, `node tests/test_qa.mjs` (regressões das issues #2–#9), `node tools/test_i18n.mjs [lang]`; rodam no GitHub Actions (`.github/workflows/tests.yml`).
 - Arquitetura, auditoria das plataformas e limitações: `docs/v1.md`.

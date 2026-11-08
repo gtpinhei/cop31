@@ -1,5 +1,5 @@
 {
- "schema": 1,
+ "schema": 2,
  "updated": "2026-11-07",
  "bluesky_list": null,
  "x_list": null,
@@ -10,6 +10,10 @@
    "handle": "turkiyecop31",
    "institution": "Presidência da COP31 (Türkiye)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -17,6 +21,10 @@
    "handle": "turkiyecop31",
    "institution": "Presidência da COP31 (Türkiye)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -24,6 +32,10 @@
    "handle": "@Turkiyecop31",
    "institution": "Presidência da COP31 (Türkiye)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true,
    "channel_id": null
   },
@@ -32,6 +44,10 @@
    "handle": "murat_kurum",
    "institution": "Murat Kurum",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -39,6 +55,10 @@
    "handle": "muratkurum",
    "institution": "Murat Kurum",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -46,6 +66,10 @@
    "handle": "iklimbaskanligi",
    "institution": "Ministério ÇŞB / Diretoria de Clima (Türkiye)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -53,6 +77,10 @@
    "handle": "ABayraktar",
    "institution": "Alparslan Bayraktar",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -60,6 +88,10 @@
    "handle": "samedagirbas",
    "institution": "Samed Ağırbaş (High-Level Champion)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -67,6 +99,10 @@
    "handle": "chrisbowenmp",
    "institution": "Chris Bowen",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -74,6 +110,10 @@
    "handle": "DCCEEW",
    "institution": "DCCEEW (Austrália)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -81,6 +121,10 @@
    "handle": "UNFCCC",
    "institution": "UNFCCC",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -88,6 +132,10 @@
    "handle": "unclimatechange",
    "institution": "UNFCCC",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -95,6 +143,10 @@
    "handle": "@UNClimateChangeEvents",
    "institution": "UNFCCC",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true,
    "channel_id": "UCJlvsGJAR8NsiyLzuBf_cQg"
   },
@@ -103,6 +155,10 @@
    "handle": "@UNClimateChange",
    "institution": "UNFCCC",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true,
    "channel_id": null
   },
@@ -111,6 +167,10 @@
    "handle": "simonstiell",
    "institution": "Simon Stiell",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -118,6 +178,10 @@
    "handle": "AOSISChair",
    "institution": "AOSIS",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -125,6 +189,10 @@
    "handle": "aosis_chair",
    "institution": "AOSIS",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -132,6 +200,10 @@
    "handle": "LDCChairUNFCCC",
    "institution": "LDC Group",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -139,6 +211,10 @@
    "handle": "ldcchairunfccc.bsky.social",
    "institution": "LDC Group",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -146,6 +222,10 @@
    "handle": "CfRN_org",
    "institution": "Coalition for Rainforest Nations",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -153,6 +233,10 @@
    "handle": "caricomorg",
    "institution": "CARICOM",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -160,6 +244,10 @@
    "handle": "Ireland2026eu",
    "institution": "Presidência irlandesa do Conselho da UE",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -167,6 +255,10 @@
    "handle": "WBHoekstra",
    "institution": "Wopke Hoekstra",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -174,6 +266,10 @@
    "handle": "LulaOficial",
    "institution": "Lula",
    "priority": "A",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -181,6 +277,10 @@
    "handle": "lulaoficial",
    "institution": "Lula",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -188,6 +288,10 @@
    "handle": "mmeioambiente",
    "institution": "MMA (Brasil)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -195,6 +299,10 @@
    "handle": "mmeioambiente",
    "institution": "MMA (Brasil)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -202,6 +310,10 @@
    "handle": "ItamaratyGovBr",
    "institution": "Itamaraty",
    "priority": "A",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -209,6 +321,10 @@
    "handle": "MarinaSilva",
    "institution": "Marina Silva",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -216,6 +332,10 @@
    "handle": "marinasilvaoficial",
    "institution": "Marina Silva",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -223,6 +343,10 @@
    "handle": "institutotalanoa",
    "institution": "Instituto Talanoa / Política por Inteiro",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -230,6 +354,10 @@
    "handle": "TalanoaReal",
    "institution": "Instituto Talanoa / Política por Inteiro",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -237,6 +365,10 @@
    "handle": "Política por Inteiro",
    "institution": "Instituto Talanoa / Política por Inteiro",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true,
    "channel_id": null
   },
@@ -245,6 +377,10 @@
    "handle": "unatalie",
    "institution": "Natalie Unterstell",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -252,6 +388,10 @@
    "handle": "observatoriodoclima",
    "institution": "Observatório do Clima",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -259,6 +399,10 @@
    "handle": "obsclima",
    "institution": "Observatório do Clima",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -266,6 +410,10 @@
    "handle": "moefcc",
    "institution": "Índia (MoEFCC)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -273,6 +421,10 @@
    "handle": "byadavbjp",
    "institution": "Bhupender Yadav",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -280,6 +432,10 @@
    "handle": "CANIntl",
    "institution": "CAN International",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -287,13 +443,24 @@
    "handle": "caneurope.bsky.social",
    "institution": "CAN Europe",
    "priority": "B",
-   "verified": false
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false,
+   "health": "not_found",
+   "health_checked_at": "2026-11-08",
+   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "instagram",
    "handle": "greenpeaceturkiye",
    "institution": "Greenpeace Türkiye",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -301,6 +468,10 @@
    "handle": "greenpeace.org",
    "institution": "Greenpeace International",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -308,6 +479,10 @@
    "handle": "350.org",
    "institution": "350.org",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -315,13 +490,24 @@
    "handle": "priceofoil.org",
    "institution": "Oil Change International",
    "priority": "B",
-   "verified": false
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false,
+   "health": "not_found",
+   "health_checked_at": "2026-11-08",
+   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "x",
    "handle": "PowerShftAfrica",
    "institution": "Power Shift Africa",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -329,20 +515,32 @@
    "handle": "hiz_2026",
    "institution": "Halkların İklim Zirvesi (Cúpula dos Povos)",
    "priority": "A",
-   "verified": true
+   "identity": "reported",
+   "identity_basis": "reportado",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false
   },
   {
    "platform": "instagram",
    "handle": "halklariniklimzirvesi",
    "institution": "Halkların İklim Zirvesi (Cúpula dos Povos)",
    "priority": "B",
-   "verified": true
+   "identity": "reported",
+   "identity_basis": "reportado",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false
   },
   {
    "platform": "x",
    "handle": "LossandDamage",
    "institution": "Loss and Damage Collaboration",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -350,6 +548,10 @@
    "handle": "e3g.bsky.social",
    "institution": "E3G",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -357,6 +559,10 @@
    "handle": "E3G",
    "institution": "E3G",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -364,6 +570,10 @@
    "handle": "germanwatch.bsky.social",
    "institution": "Germanwatch",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -371,6 +581,10 @@
    "handle": "iddri.bsky.social",
    "institution": "IDDRI",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -378,6 +592,10 @@
    "handle": "wuppertalinstitut.bsky.social",
    "institution": "Wuppertal Institut",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -385,6 +603,10 @@
    "handle": "worldresources.bsky.social",
    "institution": "WRI",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -392,13 +614,24 @@
    "handle": "climateanalytics.bsky.social",
    "institution": "Climate Analytics",
    "priority": "B",
-   "verified": true
+   "identity": "unverified",
+   "identity_basis": "página (qual handle é o atual: resolver)",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false,
+   "health": "not_found",
+   "health_checked_at": "2026-11-08",
+   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "bluesky",
    "handle": "billhare.bsky.social",
    "institution": "Bill Hare (Climate Analytics)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -406,6 +639,10 @@
    "handle": "climateactiontr",
    "institution": "Climate Action Tracker",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -413,13 +650,21 @@
    "handle": "chesc.bsky.social",
    "institution": "Chatham House (Environment and Society Centre)",
    "priority": "B",
-   "verified": true
+   "identity": "reported",
+   "identity_basis": "reportado",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false
   },
   {
    "platform": "bluesky",
    "handle": "eamaberg.bsky.social",
    "institution": "Anna Åberg (Chatham House)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -427,6 +672,10 @@
    "handle": "carbonbrief.org",
    "institution": "Carbon Brief",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -434,6 +683,10 @@
    "handle": "drsimevans.carbonbrief.org",
    "institution": "Simon Evans (Carbon Brief)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -441,6 +694,10 @@
    "handle": "daisydunne.carbonbrief.org",
    "institution": "Daisy Dunne (Carbon Brief)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -448,6 +705,10 @@
    "handle": "mollylempriere.carbonbrief.org",
    "institution": "Molly Lempriere (Carbon Brief)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -455,6 +716,10 @@
    "handle": "leohickman.carbonbrief.org",
    "institution": "Leo Hickman (Carbon Brief)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -462,6 +727,10 @@
    "handle": "climatechangenews.com",
    "institution": "Climate Home News",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -469,6 +738,10 @@
    "handle": "meganrowling.bsky.social",
    "institution": "Megan Rowling (Climate Home)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -476,6 +749,10 @@
    "handle": "joeloclimate.bsky.social",
    "institution": "Joe Lo (Climate Home)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -483,6 +760,10 @@
    "handle": "mcivillini.bsky.social",
    "institution": "Matteo Civillini (Climate Home)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -490,6 +771,10 @@
    "handle": "sebastianrodvar.bsky.social",
    "institution": "Sebastián Rodríguez (Climate Home)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -497,6 +782,10 @@
    "handle": "chloefarand.bsky.social",
    "institution": "Chloé Farand (Climate Home)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -504,6 +793,10 @@
    "handle": "enb.iisd.org",
    "institution": "IISD / ENB",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -511,6 +804,10 @@
    "handle": "IISD_ENB",
    "institution": "IISD / ENB",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -518,6 +815,10 @@
    "handle": "CarbonPulse",
    "institution": "Carbon Pulse",
    "priority": "A",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -525,6 +826,10 @@
    "handle": "kateabnett.bsky.social",
    "institution": "Kate Abnett (Reuters)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -532,6 +837,10 @@
    "handle": "fionaharvey.bsky.social",
    "institution": "Fiona Harvey (The Guardian)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -539,6 +848,10 @@
    "handle": "borenbears.bsky.social",
    "institution": "Seth Borenstein (AP)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -546,6 +859,10 @@
    "handle": "audreygarric.bsky.social",
    "institution": "Audrey Garric (Le Monde)",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -553,6 +870,10 @@
    "handle": "rkyte365.bsky.social",
    "institution": "Rachel Kyte",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -560,13 +881,24 @@
    "handle": "byfordtsang.bsky.social",
    "institution": "Byford Tsang (E3G)",
    "priority": "B",
-   "verified": false
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false,
+   "health": "not_found",
+   "health_checked_at": "2026-11-08",
+   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "bluesky",
    "handle": "bianet.org",
    "institution": "bianet",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -574,6 +906,10 @@
    "handle": "Turkeyrecap",
    "institution": "Turkey recap",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -581,7 +917,11 @@
    "handle": "@Medyascope",
    "institution": "Medyascope / İklim Haber",
    "priority": "B",
-   "verified": true,
+   "identity": "reported",
+   "identity_basis": "reportado",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": false,
    "channel_id": null
   },
   {
@@ -589,6 +929,10 @@
    "handle": "unep.org",
    "institution": "UNEP",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -596,6 +940,10 @@
    "handle": "amnesty.org",
    "institution": "Amnesty International",
    "priority": "B",
+   "identity": "unverified",
+   "identity_basis": "não",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": false
   },
   {
@@ -603,6 +951,10 @@
    "handle": "fatmavarank",
    "institution": "Fatma Varank (CEO da COP31)",
    "priority": "A",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   },
   {
@@ -610,6 +962,10 @@
    "handle": "Miatsf",
    "institution": "Miatta Fahnbulleh (DESNZ, Reino Unido)",
    "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
    "verified": true
   }
  ]
