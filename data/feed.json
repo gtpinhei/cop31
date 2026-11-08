@@ -1,18 +1,19 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T12:35:00-03:00",
+ "generated_at": "2026-11-08T18:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-08T12:35:00-03:00",
-  "label": "8 nov 2026, 12:35 (Brasília)",
-  "sites_checked": 37,
-  "blocked": 3,
-  "new_items": 2,
-  "fetches": "37 de 60",
+  "timestamp": "2026-11-08T18:20:00-03:00",
+  "label": "8 nov 2026, 18:20 (Brasília)",
+  "sites_checked": 27,
+  "blocked": 4,
+  "new_items": 1,
+  "fetches": "32 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "cop31.tr (erro do servidor)",
-   "IPCC (sem itens recentes)",
-   "We Mean Business (client_error)"
+   "ENB/IISD (client_error)",
+   "Loss and Damage Collaboration (client_error)",
+   "Observatório do Clima (client_error)",
+   "ITUC (client_error)"
   ]
  },
  "tracks": [
@@ -33,6 +34,163 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "instagram-muratkurum-20261108-saatler-kaldi",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:39",
+   "text": "#COP31'e artık saatler kaldı. Hazırız ✨ @turkiyecop31",
+   "summary": "Faltam apenas horas para a COP31: Kurum diz que a presidência está pronta.",
+   "summary_i18n": {
+    "en": "Only hours remain until COP31: Kurum says the Presidency is ready.",
+    "es": "Faltan solo horas para la COP31: Kurum afirma que la Presidencia está lista.",
+    "fr": "Il ne reste que quelques heures avant la COP31 : Kurum affirme que la présidence est prête.",
+    "ru": "До COP31 остаются считаные часы: Курум заявляет, что Председательство готово.",
+    "zh": "距COP31开幕仅剩数小时：Kurum表示主席团已准备就绪。",
+    "ar": "تبقّت ساعات قليلة على مؤتمر الأطراف الحادي والثلاثين: قوروم يقول إن الرئاسة جاهزة."
+   },
+   "url": "https://www.instagram.com/p/DffvhfdInks/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261108-malawi-fmcp4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:15",
+   "text": "Malawis FMCP4. Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of Malawi during SB65@COP31 in Antalya, November 2026",
+   "summary": "UNFCCC publicou a apresentação gravada de Malawi para a FMCP4 (consideração multilateral facilitadora do progresso) na SB65@COP31, em Antalya.",
+   "summary_i18n": {
+    "en": "UNFCCC published the pre-recorded presentation of Malawi for the FMCP4 (Facilitative Multilateral Consideration of Progress) at SB65@COP31 in Antalya.",
+    "es": "La CMNUCC publicó la presentación pregrabada de Malawi para la FMCP4 (Consideración Multilateral Facilitadora de los Progresos) en la SB65@COP31 en Antalya.",
+    "fr": "La CCNUCC a publié la présentation préenregistrée de Malawi pour la FMCP4 (examen multilatéral facilitateur des progrès) à la SB65@COP31 à Antalya.",
+    "ru": "РКИК ООН опубликовала предварительно записанную презентацию (Malawi) для FMCP4 (содействующее многостороннее рассмотрение прогресса) на SB65@COP31 в Анталье.",
+    "zh": "《公约》秘书处发布了Malawi为SB65@COP31（安塔利亚）FMCP4（促进性多边进展审议）预先录制的陈述。",
+    "ar": "نشرت أمانة الاتفاقية العرض المسجل مسبقاً (Malawi) للنظر المتعدد الأطراف التيسيري في التقدم (FMCP4) في الدورة SB65@COP31 في أنطاليا."
+   },
+   "url": "https://www.youtube.com/watch?v=0TxJ51B4TOg",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261108-holysee-fmcp4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:04",
+   "text": "Holy See FMCP4. Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of the Holy See during SB65@COP31 in Antalya, November 2026",
+   "summary": "UNFCCC publicou a apresentação gravada de Santa Sé para a FMCP4 (consideração multilateral facilitadora do progresso) na SB65@COP31, em Antalya.",
+   "summary_i18n": {
+    "en": "UNFCCC published the pre-recorded presentation of the Holy See for the FMCP4 (Facilitative Multilateral Consideration of Progress) at SB65@COP31 in Antalya.",
+    "es": "La CMNUCC publicó la presentación pregrabada de the Holy See para la FMCP4 (Consideración Multilateral Facilitadora de los Progresos) en la SB65@COP31 en Antalya.",
+    "fr": "La CCNUCC a publié la présentation préenregistrée de the Holy See pour la FMCP4 (examen multilatéral facilitateur des progrès) à la SB65@COP31 à Antalya.",
+    "ru": "РКИК ООН опубликовала предварительно записанную презентацию (the Holy See) для FMCP4 (содействующее многостороннее рассмотрение прогресса) на SB65@COP31 в Анталье.",
+    "zh": "《公约》秘书处发布了the Holy See为SB65@COP31（安塔利亚）FMCP4（促进性多边进展审议）预先录制的陈述。",
+    "ar": "نشرت أمانة الاتفاقية العرض المسجل مسبقاً (the Holy See) للنظر المتعدد الأطراف التيسيري في التقدم (FMCP4) في الدورة SB65@COP31 في أنطاليا."
+   },
+   "url": "https://www.youtube.com/watch?v=Y3bKJtDrB2o",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261108-saatler-kaldi",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:38",
+   "text": "#COP31'e artık saatler kaldı. Hazırız ✨ @turkiyecop31",
+   "summary": "Faltam apenas horas para a COP31: Kurum diz que a presidência está pronta.",
+   "summary_i18n": {
+    "en": "Only hours remain until COP31: Kurum says the Presidency is ready.",
+    "es": "Faltan solo horas para la COP31: Kurum afirma que la Presidencia está lista.",
+    "fr": "Il ne reste que quelques heures avant la COP31 : Kurum affirme que la présidence est prête.",
+    "ru": "До COP31 остаются считаные часы: Курум заявляет, что Председательство готово.",
+    "zh": "距COP31开幕仅剩数小时：Kurum表示主席团已准备就绪。",
+    "ar": "تبقّت ساعات قليلة على مؤتمر الأطراف الحادي والثلاثين: قوروم يقول إن الرئاسة جاهزة."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-fatmavarank-20261108-selwin-hart-pavilion",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:07",
+   "text": "BM Genel Sekreter Yardımcısı ve BM Genel Sekreteri'nin İklim Eylemi Özel Danışmanı Sayın Selwin Hart ile ikili bir görüşme gerçekleştirdik ve Türkiye Pavilyonu'nu ziyaret ettik.",
+   "summary": "Varank reuniu-se bilateralmente com Selwin Hart, assessor especial do secretário-geral da ONU para ação climática, e visitou o Pavilhão da Türkiye.",
+   "summary_i18n": {
+    "en": "Varank held a bilateral meeting with Selwin Hart, Special Adviser to the UN Secretary-General on Climate Action, and visited the Turkey Pavilion.",
+    "es": "Varank mantuvo una reunión bilateral con Selwin Hart, Asesor Especial del Secretario General de la ONU sobre Acción Climática, y visitó el Pabellón de Turquía.",
+    "fr": "Varank a tenu une rencontre bilatérale avec Selwin Hart, Conseiller spécial du Secrétaire général de l'ONU pour l'action climatique, et a visité le Pavillon de la Turquie.",
+    "ru": "Варанк провела двустороннюю встречу с Селвином Хартом, Специальным советником Генерального секретаря ООН по климатическим действиям, и посетила Павильон Турции.",
+    "zh": "Varank与联合国秘书长气候行动特别顾问Selwin Hart举行双边会晤，并参观了土耳其展馆。",
+    "ar": "عقدت فارانك اجتماعاً ثنائياً مع سيلوين هارت، المستشار الخاص للأمين العام للأمم المتحدة للعمل المناخي، وزارت جناح تركيا."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-fatmavarank-20261108-trilateral-stiell-bowen",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "17:48",
+   "text": "A trilateral meeting was held with H.E. Simon Stiell, UNFCCC Executive Secretary, Minister H.E. Chris Bowen, and their respective delegations. UNFCCC icra Sekreteri Sayın Simon Stiell ve Avustralya Bakanı Sayın Chris Bowen ve heyetleriyle üçlü bir görüşme gerçekleştirdik.",
+   "summary": "Reunião trilateral com Simon Stiell (UNFCCC) e o ministro australiano Chris Bowen e suas delegações.",
+   "summary_i18n": {
+    "en": "Trilateral meeting with UNFCCC Executive Secretary Simon Stiell and Australian Minister Chris Bowen and their delegations.",
+    "es": "Reunión trilateral con el Secretario Ejecutivo de la CMNUCC, Simon Stiell, y el ministro australiano Chris Bowen, junto con sus delegaciones.",
+    "fr": "Réunion trilatérale avec le Secrétaire exécutif de la CCNUCC, Simon Stiell, et le ministre australien Chris Bowen, ainsi que leurs délégations.",
+    "ru": "Трёхсторонняя встреча с Исполнительным секретарём РКИК ООН Саймоном Стеллом и министром Австралии Крисом Боуэном и их делегациями.",
+    "zh": "与《联合国气候变化框架公约》执行秘书Simon Stiell及澳大利亚部长Chris Bowen及其代表团举行三方会晤。",
+    "ar": "اجتماع ثلاثي مع الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ سايمون ستيل ووزير أستراليا كريس بوين ووفديهما."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
   {
    "id": "x-fatmavarank-20261108-equipes-cop31",
    "kind": "post",
@@ -2169,6 +2327,36 @@
    }
   },
   {
+   "id": "cop31-presidency-2026-11-04-unep-adaptation",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "New UNEP findings highlight urgent need to scale up adaptation finance ahead of COP31",
+   "date": "2026-11-04",
+   "authors": "COP31 Türkiye (a partir de comunicado do PNUMA)",
+   "url": "https://cop31.tr/news-detail/unep-findings-urgent-need-scale-up-adaptation-finance-cop31",
+   "summary": "O site da presidência da COP31 repercute o Relatório de Lacuna de Adaptação 2026 do PNUMA: o financiamento público internacional de adaptação para países em desenvolvimento ficou em cerca de US$ 28–32 bi em 2024, contra uma necessidade de cerca de US$ 305 bi por ano em 2035; mesmo o triplo proposto cobriria só entre um quinto e menos de um terço. O texto destaca barreiras institucionais e a demanda por perdas e danos muito acima dos recursos (pedidos de US$ 2,8 bi para um envelope inicial de US$ 342 mi). Toca as trilhas de adaptação, finanças e perdas e danos.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency website echoes UNEP's 2026 Adaptation Gap Report: international public adaptation finance to developing countries was about US$28–32 billion in 2024, against a need of about US$305 billion a year by 2035; even the proposed tripling would cover only between one fifth and under one third. The text highlights institutional barriers and loss and damage demand far above available resources (requests of US$2.8 billion for an initial envelope of US$342 million). It bears on the adaptation, finance and loss and damage tracks.",
+    "es": "El sitio de la Presidencia de la COP31 se hace eco del Informe sobre la Brecha de Adaptación 2026 del PNUMA: la financiación pública internacional para la adaptación en los países en desarrollo fue de unos 28.000–32.000 millones de dólares en 2024, frente a una necesidad de unos 305.000 millones anuales en 2035; incluso el triplicado propuesto cubriría solo entre una quinta parte y menos de un tercio. El texto destaca las barreras institucionales y una demanda de pérdidas y daños muy superior a los recursos (solicitudes por 2.800 millones de dólares para un fondo inicial de 342 millones). Afecta a las vías de adaptación, finanzas y pérdidas y daños.",
+    "fr": "Le site de la présidence de la COP31 relaie le Rapport 2026 du PNUE sur l'écart en matière d'adaptation : le financement public international de l'adaptation pour les pays en développement s'élevait à environ 28–32 milliards de dollars en 2024, pour un besoin d'environ 305 milliards par an en 2035 ; même le triplement proposé ne couvrirait qu'entre un cinquième et moins d'un tiers. Le texte souligne les obstacles institutionnels et une demande au titre des pertes et préjudices très supérieure aux ressources (demandes de 2,8 milliards de dollars pour une enveloppe initiale de 342 millions). Il concerne les volets adaptation, finance et pertes et préjudices.",
+    "ru": "Сайт председательства COP31 приводит выводы Доклада ЮНЕП о разрыве в адаптации 2026 года: международное публичное финансирование адаптации в развивающихся странах составило около 28–32 млрд долл. США в 2024 году при потребности около 305 млрд долл. в год к 2035 году; даже предлагаемое утроение покрыло бы лишь от одной пятой до менее трети. В тексте подчёркиваются институциональные барьеры и спрос по линии потерь и ущерба, намного превышающий ресурсы (заявки на 2,8 млрд долл. при первоначальном объёме 342 млн). Затрагиваются направления адаптации, финансов и потерь и ущерба.",
+    "zh": "COP31主席国网站转述了联合国环境规划署《2026年适应差距报告》：2024年面向发展中国家的国际公共适应资金约为280亿至320亿美元，而到2035年每年需求约为3050亿美元；即使实现拟议的三倍增长，也只能覆盖五分之一至不足三分之一。文章强调了体制性障碍，以及损失与损害资金需求远超可用资源（对初始3.42亿美元资金规模提出了28亿美元的申请）。涉及适应、资金以及损失与损害议题。",
+    "ar": "يعرض موقع رئاسة مؤتمر الأطراف الحادي والثلاثين نتائج تقرير فجوة التكيف لعام 2026 الصادر عن برنامج الأمم المتحدة للبيئة: بلغ التمويل العام الدولي للتكيف في البلدان النامية نحو 28 إلى 32 مليار دولار أمريكي في عام 2024، مقابل حاجة تبلغ نحو 305 مليارات دولار سنويًا بحلول عام 2035؛ وحتى المضاعفة ثلاث مرات المقترحة لن تغطي سوى ما بين خُمس وأقل من ثلث الحاجة. ويبرز النص العقبات المؤسسية وطلبًا على تمويل الخسائر والأضرار يفوق بكثير الموارد المتاحة (طلبات بقيمة 2.8 مليار دولار مقابل غلاف أولي قدره 342 مليون دولار). ويتصل بمساري التكيف والتمويل والخسائر والأضرار."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Perdas e danos",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Inger Andersen, UNEP: \"The world is not ready to adapt to current climactic conditions, never mind what overshoot of 1.5°C will bring.\"",
+    "UNEP report: \"generated requests worth US$2.8 billion, outstripping the initial funding envelope of US$342 million\""
+   ],
+   "first_seen": "2026-11-08T18:20:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-AOSISChair-20261104-pedro-financas",
    "kind": "post",
    "platform": "x",
@@ -2647,11 +2835,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T17:42:00-03:00",
-  "label": "8 nov 2026, 17:42 (Brasília)",
+  "timestamp": "2026-11-08T18:43:00-03:00",
+  "label": "8 nov 2026, 18:43 (Brasília)",
   "accounts_checked": 27,
   "blocked": 0,
-  "new_items": 4,
+  "new_items": 6,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
