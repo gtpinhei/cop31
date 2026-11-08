@@ -1795,11 +1795,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-07T22:50:00-03:00",
-  "label": "7 nov 2026, 22:50 (Brasília)",
+  "timestamp": "2026-11-08T01:55:00-03:00",
+  "label": "8 nov 2026, 01:55 (Brasília)",
   "accounts_checked": 11,
   "blocked": 0,
-  "new_items": 1,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
