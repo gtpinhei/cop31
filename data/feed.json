@@ -1,18 +1,19 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T00:20:00-03:00",
+ "generated_at": "2026-11-08T18:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-08T00:14:00-03:00",
-  "label": "8 nov 2026, 00:14 (Brasília)",
-  "sites_checked": 40,
-  "blocked": 3,
+  "timestamp": "2026-11-08T18:20:00-03:00",
+  "label": "8 nov 2026, 18:20 (Brasília)",
+  "sites_checked": 27,
+  "blocked": 4,
   "new_items": 1,
-  "fetches": "31 de 60",
+  "fetches": "32 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "ODI (client_error)",
-   "UNEP",
-   "IEA"
+   "ENB/IISD (client_error)",
+   "Loss and Damage Collaboration (client_error)",
+   "Observatório do Clima (client_error)",
+   "ITUC (client_error)"
   ]
  },
  "tracks": [
@@ -33,6 +34,534 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "instagram-muratkurum-20261108-saatler-kaldi",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:39",
+   "text": "#COP31'e artık saatler kaldı. Hazırız ✨ @turkiyecop31",
+   "summary": "Faltam apenas horas para a COP31: Kurum diz que a presidência está pronta.",
+   "summary_i18n": {
+    "en": "Only hours remain until COP31: Kurum says the Presidency is ready.",
+    "es": "Faltan solo horas para la COP31: Kurum afirma que la Presidencia está lista.",
+    "fr": "Il ne reste que quelques heures avant la COP31 : Kurum affirme que la présidence est prête.",
+    "ru": "До COP31 остаются считаные часы: Курум заявляет, что Председательство готово.",
+    "zh": "距COP31开幕仅剩数小时：Kurum表示主席团已准备就绪。",
+    "ar": "تبقّت ساعات قليلة على مؤتمر الأطراف الحادي والثلاثين: قوروم يقول إن الرئاسة جاهزة."
+   },
+   "url": "https://www.instagram.com/p/DffvhfdInks/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261108-malawi-fmcp4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:15",
+   "text": "Malawis FMCP4. Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of Malawi during SB65@COP31 in Antalya, November 2026",
+   "summary": "UNFCCC publicou a apresentação gravada de Malawi para a FMCP4 (consideração multilateral facilitadora do progresso) na SB65@COP31, em Antalya.",
+   "summary_i18n": {
+    "en": "UNFCCC published the pre-recorded presentation of Malawi for the FMCP4 (Facilitative Multilateral Consideration of Progress) at SB65@COP31 in Antalya.",
+    "es": "La CMNUCC publicó la presentación pregrabada de Malawi para la FMCP4 (Consideración Multilateral Facilitadora de los Progresos) en la SB65@COP31 en Antalya.",
+    "fr": "La CCNUCC a publié la présentation préenregistrée de Malawi pour la FMCP4 (examen multilatéral facilitateur des progrès) à la SB65@COP31 à Antalya.",
+    "ru": "РКИК ООН опубликовала предварительно записанную презентацию (Malawi) для FMCP4 (содействующее многостороннее рассмотрение прогресса) на SB65@COP31 в Анталье.",
+    "zh": "《公约》秘书处发布了Malawi为SB65@COP31（安塔利亚）FMCP4（促进性多边进展审议）预先录制的陈述。",
+    "ar": "نشرت أمانة الاتفاقية العرض المسجل مسبقاً (Malawi) للنظر المتعدد الأطراف التيسيري في التقدم (FMCP4) في الدورة SB65@COP31 في أنطاليا."
+   },
+   "url": "https://www.youtube.com/watch?v=0TxJ51B4TOg",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261108-holysee-fmcp4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:04",
+   "text": "Holy See FMCP4. Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of the Holy See during SB65@COP31 in Antalya, November 2026",
+   "summary": "UNFCCC publicou a apresentação gravada de Santa Sé para a FMCP4 (consideração multilateral facilitadora do progresso) na SB65@COP31, em Antalya.",
+   "summary_i18n": {
+    "en": "UNFCCC published the pre-recorded presentation of the Holy See for the FMCP4 (Facilitative Multilateral Consideration of Progress) at SB65@COP31 in Antalya.",
+    "es": "La CMNUCC publicó la presentación pregrabada de the Holy See para la FMCP4 (Consideración Multilateral Facilitadora de los Progresos) en la SB65@COP31 en Antalya.",
+    "fr": "La CCNUCC a publié la présentation préenregistrée de the Holy See pour la FMCP4 (examen multilatéral facilitateur des progrès) à la SB65@COP31 à Antalya.",
+    "ru": "РКИК ООН опубликовала предварительно записанную презентацию (the Holy See) для FMCP4 (содействующее многостороннее рассмотрение прогресса) на SB65@COP31 в Анталье.",
+    "zh": "《公约》秘书处发布了the Holy See为SB65@COP31（安塔利亚）FMCP4（促进性多边进展审议）预先录制的陈述。",
+    "ar": "نشرت أمانة الاتفاقية العرض المسجل مسبقاً (the Holy See) للنظر المتعدد الأطراف التيسيري في التقدم (FMCP4) في الدورة SB65@COP31 في أنطاليا."
+   },
+   "url": "https://www.youtube.com/watch?v=Y3bKJtDrB2o",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261108-saatler-kaldi",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:38",
+   "text": "#COP31'e artık saatler kaldı. Hazırız ✨ @turkiyecop31",
+   "summary": "Faltam apenas horas para a COP31: Kurum diz que a presidência está pronta.",
+   "summary_i18n": {
+    "en": "Only hours remain until COP31: Kurum says the Presidency is ready.",
+    "es": "Faltan solo horas para la COP31: Kurum afirma que la Presidencia está lista.",
+    "fr": "Il ne reste que quelques heures avant la COP31 : Kurum affirme que la présidence est prête.",
+    "ru": "До COP31 остаются считаные часы: Курум заявляет, что Председательство готово.",
+    "zh": "距COP31开幕仅剩数小时：Kurum表示主席团已准备就绪。",
+    "ar": "تبقّت ساعات قليلة على مؤتمر الأطراف الحادي والثلاثين: قوروم يقول إن الرئاسة جاهزة."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-fatmavarank-20261108-selwin-hart-pavilion",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "18:07",
+   "text": "BM Genel Sekreter Yardımcısı ve BM Genel Sekreteri'nin İklim Eylemi Özel Danışmanı Sayın Selwin Hart ile ikili bir görüşme gerçekleştirdik ve Türkiye Pavilyonu'nu ziyaret ettik.",
+   "summary": "Varank reuniu-se bilateralmente com Selwin Hart, assessor especial do secretário-geral da ONU para ação climática, e visitou o Pavilhão da Türkiye.",
+   "summary_i18n": {
+    "en": "Varank held a bilateral meeting with Selwin Hart, Special Adviser to the UN Secretary-General on Climate Action, and visited the Turkey Pavilion.",
+    "es": "Varank mantuvo una reunión bilateral con Selwin Hart, Asesor Especial del Secretario General de la ONU sobre Acción Climática, y visitó el Pabellón de Turquía.",
+    "fr": "Varank a tenu une rencontre bilatérale avec Selwin Hart, Conseiller spécial du Secrétaire général de l'ONU pour l'action climatique, et a visité le Pavillon de la Turquie.",
+    "ru": "Варанк провела двустороннюю встречу с Селвином Хартом, Специальным советником Генерального секретаря ООН по климатическим действиям, и посетила Павильон Турции.",
+    "zh": "Varank与联合国秘书长气候行动特别顾问Selwin Hart举行双边会晤，并参观了土耳其展馆。",
+    "ar": "عقدت فارانك اجتماعاً ثنائياً مع سيلوين هارت، المستشار الخاص للأمين العام للأمم المتحدة للعمل المناخي، وزارت جناح تركيا."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-fatmavarank-20261108-trilateral-stiell-bowen",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "17:48",
+   "text": "A trilateral meeting was held with H.E. Simon Stiell, UNFCCC Executive Secretary, Minister H.E. Chris Bowen, and their respective delegations. UNFCCC icra Sekreteri Sayın Simon Stiell ve Avustralya Bakanı Sayın Chris Bowen ve heyetleriyle üçlü bir görüşme gerçekleştirdik.",
+   "summary": "Reunião trilateral com Simon Stiell (UNFCCC) e o ministro australiano Chris Bowen e suas delegações.",
+   "summary_i18n": {
+    "en": "Trilateral meeting with UNFCCC Executive Secretary Simon Stiell and Australian Minister Chris Bowen and their delegations.",
+    "es": "Reunión trilateral con el Secretario Ejecutivo de la CMNUCC, Simon Stiell, y el ministro australiano Chris Bowen, junto con sus delegaciones.",
+    "fr": "Réunion trilatérale avec le Secrétaire exécutif de la CCNUCC, Simon Stiell, et le ministre australien Chris Bowen, ainsi que leurs délégations.",
+    "ru": "Трёхсторонняя встреча с Исполнительным секретарём РКИК ООН Саймоном Стеллом и министром Австралии Крисом Боуэном и их делегациями.",
+    "zh": "与《联合国气候变化框架公约》执行秘书Simon Stiell及澳大利亚部长Chris Bowen及其代表团举行三方会晤。",
+    "ar": "اجتماع ثلاثي مع الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ سايمون ستيل ووزير أستراليا كريس بوين ووفديهما."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T18:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-fatmavarank-20261108-equipes-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "17:36",
+   "text": "One day ahead of COP31, H.E. Murat Kurum, our Minister and President of COP31, came together with all the teams working towards COP31.\n\nCOP31'e bir gün kala, Bakanımız ve COP31 Başkanımız Sayın Murat Kurum ile COP31 için emek veren tüm ekiplerimizle bir araya geldik.",
+   "summary": "A um dia da COP31, a CEO Fatma Varank e as equipes da presidência reuniram-se com o ministro e presidente da COP31, Murat Kurum.",
+   "summary_i18n": {
+    "en": "One day before COP31, CEO Fatma Varank and the Presidency teams met with Minister and COP31 President Murat Kurum.",
+    "es": "A un día de la COP31, la directora ejecutiva Fatma Varank y los equipos de la Presidencia se reunieron con el ministro y presidente de la COP31, Murat Kurum.",
+    "fr": "À un jour de la COP31, la directrice générale Fatma Varank et les équipes de la présidence ont rencontré le ministre et président de la COP31, Murat Kurum.",
+    "ru": "За день до COP31 генеральный директор Фатма Варанк и команды Председательства встретились с министром и Председателем COP31 Мурадом Курумом.",
+    "zh": "COP31开幕前一天，首席执行官Fatma Varank与主席团各工作组会见了部长兼COP31主席Murat Kurum。",
+    "ar": "قبل يوم من مؤتمر الأطراف الحادي والثلاثين، اجتمعت الرئيسة التنفيذية فاطمة فارانك وفرق الرئاسة مع الوزير ورئيس المؤتمر مراد قوروم."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T17:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-fatmavarank-20261108-voluntarios",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "17:20",
+   "text": "Bakanımız ve COP31 Başkanımız Sayın Murat Kurum, tarihi zirve öncesinde dünyanın dört bir yanından gelen COP31 gönüllüleriyle bir araya geldi.",
+   "summary": "Murat Kurum, presidente da COP31, encontrou-se com voluntários da conferência vindos de todo o mundo antes da cúpula.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum met COP31 volunteers from around the world ahead of the summit.",
+    "es": "El presidente de la COP31, Murat Kurum, se reunió con voluntarios de la COP31 llegados de todo el mundo antes de la cumbre.",
+    "fr": "Le président de la COP31, Murat Kurum, a rencontré des volontaires de la COP31 venus du monde entier avant le sommet.",
+    "ru": "Председатель COP31 Мурат Курум встретился с волонтёрами COP31 со всего мира накануне саммита.",
+    "zh": "COP31主席Murat Kurum在峰会前会见了来自世界各地的COP31志愿者。",
+    "ar": "التقى رئيس مؤتمر الأطراف الحادي والثلاثين مراد قوروم بمتطوعي المؤتمر القادمين من أنحاء العالم قبيل القمة."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T17:42:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-fatmavarank-20261108-avaliacao-unfccc-australia",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "17:09",
+   "text": "A final assessment was conducted with the UNFCCC Secretariat and Australian officials ahead of COP31 in Antalya.\n\nCOP31 Antalya öncesinde UNFCCC Sekretaryası ve Avustralyalı yetkililerle son değerlendirmemizi gerçekleştirdik.",
+   "summary": "Varank informa avaliação final com o Secretariado da UNFCCC e autoridades australianas antes da COP31 em Antalya.",
+   "summary_i18n": {
+    "en": "Varank reports a final assessment with the UNFCCC Secretariat and Australian officials ahead of COP31 in Antalya.",
+    "es": "Varank informa de una evaluación final con la secretaría de la CMNUCC y funcionarios australianos antes de la COP31 en Antalya.",
+    "fr": "Varank fait état d'une évaluation finale avec le secrétariat de la CCNUCC et des responsables australiens avant la COP31 à Antalya.",
+    "ru": "Варанк сообщает об итоговой оценке готовности с секретариатом РКИК ООН и официальными лицами Австралии накануне COP31 в Анталье.",
+    "zh": "Varank表示，在安塔利亚COP31召开前，已与《联合国气候变化框架公约》秘书处和澳大利亚官员完成最终评估。",
+    "ar": "تفيد فارانك بإجراء تقييم نهائي مع أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ ومسؤولين أستراليين قبيل مؤتمر الأطراف الحادي والثلاثين في أنطاليا."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T17:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261108-coy21",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "13:15",
+   "text": "Thrilled to support the Global Conference of Children and Youth on Climate Change in Antalya! Three days of big ideas, powerful youth voices and connections from around the world, all building momentum towards COP31. Proud to be part of a space where young people are shaping the climate conversation. 🌏💫 #COY21 #COP31 #PYCC #YouthClimateAction #GYS2026",
+   "summary": "A presidência da COP31 apoia a Conferência Global de Crianças e Jovens sobre Mudança do Clima (COY21), em Antalya, como parte da preparação para a COP31.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency supports the Global Conference of Children and Youth on Climate Change (COY21) in Antalya as momentum builds towards COP31.",
+    "es": "La Presidencia de la COP31 apoya la Conferencia Mundial de la Infancia y la Juventud sobre el Cambio Climático (COY21) en Antalya, de cara a la COP31.",
+    "fr": "La présidence de la COP31 soutient la Conférence mondiale des enfants et des jeunes sur les changements climatiques (COY21) à Antalya, en préparation de la COP31.",
+    "ru": "Председательство COP31 поддерживает Всемирную конференцию детей и молодёжи по изменению климата (COY21) в Анталье в преддверии COP31.",
+    "zh": "COP31主席团在安塔利亚支持全球儿童和青年气候变化大会（COY21），为COP31积聚势头。",
+    "ar": "تدعم رئاسة مؤتمر الأطراف الحادي والثلاثين المؤتمر العالمي للأطفال والشباب المعني بتغير المناخ (COY21) في أنطاليا تمهيدا للمؤتمر."
+   },
+   "url": "https://www.instagram.com/p/DffKYfVCEAL/",
+   "tracks": [
+    "Agenda de Ação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T17:42:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-ldcchairunfccc-20261108-pressconf",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "16:26",
+   "text": "📢 𝗣𝗥𝗘𝗦𝗦 𝗖𝗢𝗡𝗙𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗟𝗗𝗖𝘀’ 𝗘𝗫𝗣𝗘𝗖𝗧𝗔𝗧𝗜𝗢𝗡𝗦 𝗙𝗥𝗢𝗠 𝗖𝗢𝗣𝟯𝟭\n\n📅 10 November 2026\n🕚 11:00–11:30 AM (UTC+3)\n📍 Press Conference Room 1, D3, Mevlana\n\nRegister now! Submit questions: media@ldc-climate.org\n\n#LDCs #COP31 #ClimateAction",
+   "summary": "O Grupo dos PMDs convoca coletiva de imprensa sobre suas expectativas para a COP31 em 10 de novembro, às 11h00–11h30 (UTC+3), na Sala de Imprensa 1, D3, Mevlana.",
+   "summary_i18n": {
+    "en": "The LDC Group announces a press conference on its expectations for COP31 on 10 November, 11:00–11:30 (UTC+3), Press Conference Room 1, D3, Mevlana.",
+    "es": "El Grupo de PMA anuncia una conferencia de prensa sobre sus expectativas para la COP31 el 10 de noviembre, de 11:00 a 11:30 (UTC+3), en la Sala de Prensa 1, D3, Mevlana.",
+    "fr": "Le Groupe des PMA annonce une conférence de presse sur ses attentes pour la COP31 le 10 novembre, de 11 h 00 à 11 h 30 (UTC+3), en salle de presse 1, D3, Mevlana.",
+    "ru": "Группа НРС объявляет пресс-конференцию об ожиданиях в отношении COP31 10 ноября, 11:00–11:30 (UTC+3), пресс-зал 1, D3, Mevlana.",
+    "zh": "最不发达国家集团宣布将于11月10日11:00–11:30（UTC+3）在Mevlana D3区1号新闻发布厅举行新闻发布会，介绍其对COP31的期待。",
+    "ar": "تعلن مجموعة أقل البلدان نموا عن مؤتمر صحفي بشأن توقعاتها من مؤتمر الأطراف الحادي والثلاثين في 10 نوفمبر، من 11:00 إلى 11:30 (بتوقيت UTC+3)، في قاعة المؤتمرات الصحفية 1، D3، مولانا."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzt5dadvs22k",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T16:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-UNFCCC-20261108-stiell-explica-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "12:28",
+   "text": "No single COP can stop climate change overnight. But every recent COP has made essential progress. Listen to UN Climate Change Executive Secretary @simonstiell explain what #COP31 is all about.",
+   "summary": "A UNFCCC publica vídeo em que Simon Stiell explica do que trata a COP31: nenhuma COP resolve a crise do clima de uma vez, mas todas as recentes trouxeram avanços essenciais.",
+   "summary_i18n": {
+    "en": "UNFCCC posts a video in which Simon Stiell explains what COP31 is about: no single COP can stop climate change overnight, but every recent COP has made essential progress.",
+    "es": "La CMNUCC publica un video en el que Simon Stiell explica de qué trata la COP31: ninguna COP puede detener el cambio climático de la noche a la mañana, pero todas las recientes han logrado avances esenciales.",
+    "fr": "La CCNUCC publie une vidéo où Simon Stiell explique l'enjeu de la COP31 : aucune COP ne peut arrêter le changement climatique du jour au lendemain, mais chaque COP récente a réalisé des progrès essentiels.",
+    "ru": "РКИК ООН публикует видео, в котором Саймон Стелл объясняет, о чём КС-31: ни одна КС не может остановить изменение климата за одну ночь, но каждая из последних КС добилась важного прогресса.",
+    "zh": "《联合国气候变化框架公约》发布视频，Simon Stiell 阐释第31届缔约方大会的意义：没有哪一届缔约方大会能一夜之间遏制气候变化，但近几届大会都取得了重要进展。",
+    "ar": "تنشر اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ مقطع فيديو يشرح فيه Simon Stiell مغزى مؤتمر الأطراف الحادي والثلاثين: لا يستطيع أي مؤتمر للأطراف وقف تغير المناخ بين عشية وضحاها، لكن كل مؤتمر حديث حقق تقدمًا أساسيًا."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T13:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-08-cop31-starts",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31: World cannot afford another decade of fossil fuel dependence as climate crisis deepens",
+   "date": "2026-11-08",
+   "authors": "Débora Gastal",
+   "url": "https://350.org/press-release/cop31-starts/",
+   "summary": "Na véspera da abertura, a 350.org pede que as presidências da Türkiye e da Austrália entreguem um caminho de eliminação dos fósseis com marcos temporais, responsabilização e financiamento, apoiando-se no impulso da COP30 e da conferência de Santa Marta (cerca de 80 países). Cita lucros de cerca de US$ 56 bi de cinco petroleiras até o fim do 3º trimestre de 2026. Quatro prioridades: transição crível, poluidor-pagador, renováveis e eletrificação, e finanças para transição justa. Toca as trilhas TAFF, transição justa e finanças.",
+   "summary_i18n": {
+    "en": "On the eve of the opening, 350.org urges the Turkish and Australian presidencies to deliver a fossil fuel phase-out pathway with time-bound milestones, accountability and finance, building on momentum from COP30 and the Santa Marta conference (about 80 countries). It cites about US$56 billion in combined profits for five oil majors by the end of Q3 2026. Four priorities: a credible transition, polluters paying, renewables and electrification, and finance for a just transition. It bears on the TAFF, just transition and finance tracks.",
+    "es": "En la víspera de la apertura, 350.org pide a las presidencias de Türkiye y Australia que presenten una hoja de ruta de eliminación de los combustibles fósiles con hitos temporales, rendición de cuentas y financiación, aprovechando el impulso de la COP30 y de la conferencia de Santa Marta (unos 80 países). Cita beneficios de unos 56.000 millones de dólares de cinco petroleras hasta finales del tercer trimestre de 2026. Cuatro prioridades: transición creíble, que pague el contaminador, renovables y electrificación, y financiación para una transición justa. Afecta a las vías TAFF, transición justa y finanzas.",
+    "fr": "À la veille de l'ouverture, 350.org demande aux présidences de la Türkiye et de l'Australie de présenter une trajectoire de sortie des combustibles fossiles assortie d'étapes datées, de redevabilité et de financement, en s'appuyant sur l'élan de la COP30 et de la conférence de Santa Marta (environ 80 pays). Elle cite environ 56 milliards de dollars de bénéfices cumulés pour cinq pétrolières à la fin du troisième trimestre 2026. Quatre priorités : une transition crédible, le principe pollueur-payeur, les renouvelables et l'électrification, et le financement d'une transition juste. Cela concerne les volets TAFF, transition juste et finance.",
+    "ru": "Накануне открытия 350.org призывает председательствующие стороны — Турцию и Австралию — предложить траекторию отказа от ископаемого топлива с временными вехами, подотчётностью и финансированием, опираясь на импульс КС-30 и конференции в Санта-Марте (около 80 стран). Организация приводит совокупную прибыль пяти нефтяных компаний около 56 млрд долларов США к концу третьего квартала 2026 года. Четыре приоритета: надёжный переход, принцип «загрязнитель платит», возобновляемые источники и электрификация, финансирование справедливого перехода. Затрагивает направления TAFF, справедливый переход и финансы.",
+    "zh": "在开幕前夕，350.org 呼吁土耳其和澳大利亚两个主席国提出一条有时间节点、问责机制和资金支持的化石燃料退出路径，并以COP30和圣玛尔塔会议（约80个国家支持）的势头为基础。文件援引五家石油公司截至2026年第三季度末约560亿美元的合计利润。四项优先事项：可信的转型、污染者付费、可再生能源与电气化、公正转型资金。涉及TAFF、公正转型和资金议题。",
+    "ar": "عشية الافتتاح، تحث 350.org رئاستَي تركيا وأستراليا على تقديم مسار للتخلص من الوقود الأحفوري بمراحل زمنية ومساءلة وتمويل، مستفيدةً من زخم مؤتمر الأطراف الثلاثين ومؤتمر سانتا مارتا (نحو 80 دولة). وتشير إلى أرباح مجمّعة لخمس شركات نفط بنحو 56 مليار دولار أمريكي حتى نهاية الربع الثالث من عام 2026. أربع أولويات: انتقال موثوق، ودفع الملوِّث، والطاقة المتجددة والكهربة، وتمويل الانتقال العادل. ويتصل ذلك بمسارات TAFF والانتقال العادل والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa",
+    "Finanças",
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Efe Baysal, 350.org — \"Türkiye has a unique opportunity to demonstrate what climate leadership looks like.\"",
+    "Rukiya Khamis, 350.org — \"We can't wait until COP32 in Ethiopia to fix what needs fixing now.\"",
+    "Fanny Petitbon, 350.org — \"COP31 must be where governments stop promising and start delivering.\""
+   ],
+   "first_seen": "2026-11-08T12:35:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-turkiyecop31-20261108-trilateral",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "10:12",
+   "text": "Ahead of the opening of #COP31, COP31 President-Designate Murat Kurum held a trilateral meeting with UNFCCC Executive Secretary Simon Stiell and Australian Minister for Climate Change and Energy Chris Bowen, alongside their respective delegations.",
+   "summary": "Na véspera da abertura, Kurum reuniu-se com Simon Stiell (UNFCCC) e Chris Bowen (Austrália) em encontro trilateral com as respectivas delegações.",
+   "summary_i18n": {
+    "en": "On the eve of the opening, Kurum held a trilateral meeting with Simon Stiell (UNFCCC) and Chris Bowen (Australia), together with their delegations.",
+    "es": "En vísperas de la apertura, Kurum celebró una reunión trilateral con Simon Stiell (CMNUCC) y Chris Bowen (Australia), junto con sus delegaciones.",
+    "fr": "À la veille de l'ouverture, Kurum a tenu une réunion trilatérale avec Simon Stiell (CCNUCC) et Chris Bowen (Australie), accompagnés de leurs délégations.",
+    "ru": "В преддверии открытия Курум провёл трёхстороннюю встречу с Саймоном Стеллом (РКИК ООН) и Крисом Боуэном (Австралия) в сопровождении делегаций.",
+    "zh": "开幕前夕，Kurum与Simon Stiell（《联合国气候变化框架公约》）和Chris Bowen（澳大利亚）及各自代表团举行了三方会晤。",
+    "ar": "عشية الافتتاح، عقد Kurum اجتماعًا ثلاثيًا مع Simon Stiell (اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ) وChris Bowen (أستراليا) بمشاركة وفديهما."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261108-trilateral",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": null,
+   "text": "Yarın açılışını yapacağımız #COP31 öncesinde UNFCCC İcra Sekreteri Sayın Simon Stiell ve Avustralya İklim Değişikliği ve Enerji Bakanı Sayın Chris Bowen ve heyetler ile üçlü bir görüşme gerçekleştirdik.",
+   "summary": "Kurum, em turco: encontro trilateral com Stiell e Bowen e suas delegações na véspera da abertura da COP31, marcada para amanhã.",
+   "summary_i18n": {
+    "en": "Kurum, in Turkish: trilateral meeting with Stiell and Bowen and their delegations on the eve of the COP31 opening, set for tomorrow.",
+    "es": "Kurum, en turco: reunión trilateral con Stiell y Bowen y sus delegaciones en vísperas de la apertura de la COP31, prevista para mañana.",
+    "fr": "Kurum, en turc : réunion trilatérale avec Stiell et Bowen et leurs délégations à la veille de l'ouverture de la COP31, prévue demain.",
+    "ru": "Курум, на турецком языке: трёхсторонняя встреча со Стеллом и Боуэном и их делегациями накануне открытия КС-31, запланированного на завтра.",
+    "zh": "Kurum以土耳其语发布：在定于明天举行的COP31开幕前夕，与Stiell、Bowen及各自代表团举行了三方会晤。",
+    "ar": "Kurum، باللغة التركية: اجتماع ثلاثي مع Stiell وBowen ووفديهما عشية افتتاح COP31 المقرر غدًا."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "bluesky-carbonbrief-20261108-bowen",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "08:32",
+   "text": "Recommended watch: The Bloomberg Zero podcast interviewed Chris Bowen, Australia's climate minister and incoming COP31 president of negotiations. \n\nbuff.ly/RnHUaYd",
+   "summary": "Carbon Brief recomenda a entrevista do podcast Bloomberg Zero com Chris Bowen, ministro do Clima da Austrália e futuro presidente de negociações da COP31.",
+   "summary_i18n": {
+    "en": "Carbon Brief recommends the Bloomberg Zero podcast interview with Chris Bowen, Australia's climate minister and incoming COP31 President of Negotiations.",
+    "es": "Carbon Brief recomienda la entrevista del pódcast Bloomberg Zero con Chris Bowen, ministro de Clima de Australia y próximo presidente de negociaciones de la COP31.",
+    "fr": "Carbon Brief recommande l'entretien du podcast Bloomberg Zero avec Chris Bowen, ministre australien du Climat et futur président des négociations de la COP31.",
+    "ru": "Carbon Brief рекомендует интервью подкаста Bloomberg Zero с Крисом Боуэном, министром по вопросам климата Австралии и будущим председателем переговоров COP31.",
+    "zh": "Carbon Brief推荐彭博Zero播客对澳大利亚气候部长、COP31谈判主席人选克里斯·鲍文（Chris Bowen）的访谈。",
+    "ar": "توصي Carbon Brief بمقابلة بودكاست Bloomberg Zero مع كريس بوين، وزير المناخ الأسترالي ورئيس مفاوضات مؤتمر الأطراف الحادي والثلاثين المقبل."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzscstmm5v2t",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-turkiyecop31-20261108-worth-world-iztuzu",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "06:50",
+   "text": "Worth The World | Iztuzu\n\n“This world does not belong to us; we have borrowed it from future generations. And together, we shall keep the future alive.”\n\nFrom the millions-of-years-old, quiet journey of the loggerhead turtles to the devoted vigils lasting until dawn on the…",
+   "summary": "A presidência da COP31 lança a série \"Worth The World\" com Iztuzu, praia de nidificação das tartarugas-comuns, e a mensagem de que o mundo foi emprestado às futuras gerações.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency launches the \"Worth The World\" series with Iztuzu, a nesting beach for loggerhead turtles, and the message that the world is borrowed from future generations.",
+    "es": "La Presidencia de la COP31 lanza la serie \"Worth The World\" con Iztuzu, playa de anidación de tortugas bobas, y el mensaje de que el mundo se ha tomado prestado de las generaciones futuras.",
+    "fr": "La présidence de la COP31 lance la série « Worth The World » avec Iztuzu, plage de nidification des tortues caouannes, et le message que le monde est emprunté aux générations futures.",
+    "ru": "Председательство COP31 запускает серию «Worth The World» об Изтузу, пляже гнездования логгерхедов, с посылом о том, что мир взят в долг у будущих поколений.",
+    "zh": "COP31主席团推出“Worth The World”系列，以海龟筑巢地伊兹图祖海滩为主题，传达“世界是向子孙后代借来的”这一信息。",
+    "ar": "تطلق رئاسة COP31 سلسلة \"Worth The World\" عن شاطئ إيزتوزو لتعشيش السلاحف الضخمة الرأس، برسالة مفادها أن العالم مستعار من الأجيال القادمة."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T07:46:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261108-voluntarios",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "06:02",
+   "text": "Gençlerimiz yalnızca COP31’e değil, dünyanın geleceğini de kurtarmak için gönüllü oldu.\n\nHep birlikte sözü eyleme dönüştürecek, dünyaya iz bırakacağız.\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "Kurum diz que os jovens voluntários se engajaram não só pela COP31, mas para salvar o futuro do mundo, e promete transformar a palavra em ação.",
+   "summary_i18n": {
+    "en": "Kurum says the young volunteers signed up not only for COP31 but to save the world's future, and promises to turn words into action.",
+    "es": "Kurum afirma que los jóvenes voluntarios se sumaron no solo por la COP31, sino para salvar el futuro del mundo, y promete convertir las palabras en acción.",
+    "fr": "Kurum affirme que les jeunes volontaires se sont engagés non seulement pour la COP31, mais pour sauver l'avenir du monde, et promet de transformer la parole en action.",
+    "ru": "Куртум заявляет, что молодые волонтёры вызвались помогать не только ради КС-31, но и ради спасения будущего мира, и обещает превратить слова в действия.",
+    "zh": "库鲁姆表示，青年志愿者不仅为COP31而来，更是为拯救世界的未来，并承诺将言语化为行动。",
+    "ar": "يقول كوروم إن المتطوعين الشباب لم ينضموا من أجل مؤتمر الأطراف الحادي والثلاثين فحسب، بل لإنقاذ مستقبل العالم، ويتعهد بتحويل الأقوال إلى أفعال."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T06:50:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "x-MarinaSilva-20261107-cop-explica",
+   "kind": "post",
+   "platform": "x",
+   "account": "@MarinaSilva",
+   "institution": "Marina Silva",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": null,
+   "text": "Se você já ouviu a palavra COP e não sabia o que significava, esse vídeo é pra você!\n\nA COP é a Conferência das Partes, o maior encontro global sobre mudança do clima. Mais de 200 países se reúnem para decidir, juntos, o que vai ser feito para enfrentar os extremos climáticos.",
+   "summary": "Marina Silva publica vídeo explicativo sobre o que é a COP, a Conferência das Partes, em que mais de 200 países decidem como enfrentar os extremos climáticos.",
+   "summary_i18n": {
+    "en": "Marina Silva posts an explainer video on what the COP (Conference of the Parties) is, where more than 200 countries decide how to tackle climate extremes.",
+    "es": "Marina Silva publica un video explicativo sobre qué es la COP (Conferencia de las Partes), en la que más de 200 países deciden cómo enfrentar los extremos climáticos.",
+    "fr": "Marina Silva publie une vidéo explicative sur ce qu'est la COP (Conférence des Parties), où plus de 200 pays décident comment faire face aux extrêmes climatiques.",
+    "ru": "Марина Силва публикует видео о том, что такое КС (Конференция сторон), на которой более 200 стран решают, как противостоять климатическим экстремумам.",
+    "zh": "Marina Silva发布科普视频，介绍缔约方会议（COP）：200多个国家在会上共同决定如何应对极端气候。",
+    "ar": "تنشر Marina Silva فيديو توضيحيًا عن مؤتمر الأطراف (COP)، حيث تقرر أكثر من 200 دولة معًا كيفية مواجهة الظواهر المناخية المتطرفة."
+   },
+   "url": "https://x.com/MarinaSilva",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "x-turkiyecop31-20261107-sentimento-recomeco",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "18:00",
+   "text": "Though we express it in different words, the disasters we face and the pain we feel are shared. Yet every end is the beginning of a new, stronger story.\n\nWe have so many reasons to start afresh. We are ready for the future of our world, and we begin.",
+   "summary": "A presidência da COP31 publica mensagem institucional sobre os desastres e a dor compartilhados e a disposição de recomeçar, em tom de abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency posts an institutional message on shared disasters and pain and the readiness to start afresh, setting the tone for the opening of the conference.",
+    "es": "La Presidencia de la COP31 publica un mensaje institucional sobre los desastres y el dolor compartidos y la disposición a empezar de nuevo, como tono de apertura de la conferencia.",
+    "fr": "La présidence de la COP31 publie un message institutionnel sur les catastrophes et la douleur partagées et sur la volonté de repartir à zéro, donnant le ton de l'ouverture de la conférence.",
+    "ru": "Президентство COP31 публикует институциональное сообщение об общих бедствиях и боли и о готовности начать заново, задавая тон открытию конференции.",
+    "zh": "COP31主席团发布机构信息，谈及共同面对的灾害与痛苦以及重新开始的决心，为大会开幕定下基调。",
+    "ar": "تنشر رئاسة مؤتمر الأطراف الحادي والثلاثين رسالة مؤسسية عن الكوارث والألم المشتركين والاستعداد للبدء من جديد، تمهيدًا لافتتاح المؤتمر."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
   {
    "id": "x-turkiyecop31-20261107-juventude-acao",
    "kind": "post",
@@ -332,6 +861,113 @@
     "zh": "11月7日，UNFCCC网站unfccc.int/cop31将其列为“待解决关键问题”指南予以推荐。Stiell表示，气候多边主义“正在取得重要进展”，但集体进展仍“严重不足”；土耳其–澳大利亚主席国将安塔利亚定位为“实施与加速之COP”。COP31将作出的决定包括：正式启动第二次全球盘点（GST2），技术对话的两名共同推动者尚待任命，综合报告将于2027年初发布；2026年后是否延续MWP；阿联酋框架在韧性方面的落实及LEG的审议；以及公正转型机制（悉尼非正式研讨会）。数据显示：157个缔约方提交了新的NDC，81份NAP，2023–24年全球气候资金流量为每年1.9万亿美元（增长32%）；从1400份申请中选出约330场边会；参与基金存在140万美元缺口。《2026年全球气候行动年鉴》即将发布。",
     "ar": "أُبرزت في 7 نوفمبر على الصفحة unfccc.int/cop31 بوصفها دليلاً إلى “القضايا الرئيسية على الطاولة”. يقول Stiell إن العمل المناخي متعدد الأطراف “يحقق تقدماً مهماً”، لكن التقدم الجماعي ما زال “غير كافٍ إلى حد كبير”؛ وتصف رئاسة تركيا وأستراليا أنطاليا بأنها “مؤتمر التنفيذ والتسريع”. ويحدد ما ستقرره COP31: الإطلاق الرسمي لـ GST2، مع تعيين ميسّرَين مشاركين للحوار الفني ما زال معلقاً، وإصدار الخلاصات مطلع 2027؛ ومدى استمرار برنامج عمل التخفيف (MWP) بعد 2026؛ وتفعيل إطار الإمارات للصمود ومراجعة LEG؛ وآلية الانتقال العادل (ورشة غير رسمية في سيدني). الأرقام: 157 طرفاً قدّمت مساهمات محددة وطنياً جديدة؛ و81 خطة وطنية للتكيف (NAPs)؛ والتدفقات العالمية للتمويل المناخي بلغت 1.9 تريليون دولار أمريكي سنوياً في 2023–2024 (بزيادة 32%)؛ واختيرت نحو 330 فعالية جانبية من أصل 1,400 طلب؛ وفجوة قدرها 1.4 مليون دولار في صندوق المشاركة. ومن المنتظر قريباً صدور Yearbook of Global Climate Action 2026."
    }
+  },
+  {
+   "id": "x-AOSISChair-20261106-thibyan-corais",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": null,
+   "text": "For Thibyan from The Maldives, enjoying the coral reefs of his home are precious memories.\n\n𝐀𝐭 1.5°𝐂, 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐫𝐢𝐬𝐤𝐬 𝐥𝐨𝐬𝐢𝐧𝐠 70–90% 𝐨𝐟 𝐰𝐚𝐫𝐦-𝐰𝐚𝐭𝐞𝐫 𝐜𝐨𝐫𝐚𝐥 𝐫𝐞𝐞𝐟𝐬. 𝐀𝐭 2°𝐂, 𝐭𝐡𝐚𝐭 𝐫𝐢𝐬𝐞𝐬 𝐭𝐨 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 99%.\n\n#NotJustANumber",
+   "summary": "AOSIS destaca que a 1,5°C o mundo arrisca perder 70–90% dos recifes de coral de águas quentes, e mais de 99% a 2°C (campanha #NotJustANumber, voz das Maldivas).",
+   "summary_i18n": {
+    "en": "AOSIS highlights that at 1.5°C the world risks losing 70–90% of warm-water coral reefs, and more than 99% at 2°C (#NotJustANumber campaign, voice from the Maldives).",
+    "es": "AOSIS destaca que a 1,5°C el mundo corre el riesgo de perder entre el 70 % y el 90 % de los arrecifes de coral de aguas cálidas, y más del 99 % a 2°C (campaña #NotJustANumber, voz de Maldivas).",
+    "fr": "L'AOSIS souligne qu'à 1,5°C le monde risque de perdre 70 à 90 % des récifs coralliens d'eaux chaudes, et plus de 99 % à 2°C (campagne #NotJustANumber, voix des Maldives).",
+    "ru": "АОСИС подчёркивает, что при 1,5°C мир рискует потерять 70–90 % коралловых рифов тёплых вод, а при 2°C — более 99 % (кампания #NotJustANumber, голос Мальдив).",
+    "zh": "小岛屿国家联盟（AOSIS）强调，升温1.5°C时全球可能失去70–90%的暖水珊瑚礁，升温2°C时则超过99%（#NotJustANumber行动，来自马尔代夫的声音）。",
+    "ar": "يؤكد تحالف الدول الجزرية الصغيرة (AOSIS) أنه عند 1.5 درجة مئوية يواجه العالم خطر فقدان 70–90% من الشعاب المرجانية في المياه الدافئة، وأكثر من 99% عند درجتين مئويتين (حملة #NotJustANumber، بصوت من ملديف)."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Adaptação",
+    "Mitigação e MWP",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-08T15:55:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-ldcchairunfccc-20261106-varank",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "05:41",
+   "text": "Meeting with H.E. Ms. Fatma Varank, CEO of the COP31 Presidency, to discuss how COP31 can best respond to LDCs’ needs. I shared our Group’s key priorities and expectations for an ambitious and inclusive COP31.\n\n#LDCGroup #COP31 #United4ClimateAction",
+   "summary": "A presidência do Grupo dos PMDs reuniu-se com Fatma Varank, CEO da presidência da COP31, para apresentar as prioridades e expectativas dos PMDs para uma COP31 ambiciosa e inclusiva.",
+   "summary_i18n": {
+    "en": "The LDC Group Chair met Fatma Varank, CEO of the COP31 Presidency, to present the LDCs' priorities and expectations for an ambitious and inclusive COP31.",
+    "es": "La presidencia del Grupo de PMA se reunió con Fatma Varank, directora ejecutiva de la Presidencia de la COP31, para presentar las prioridades y expectativas de los PMA para una COP31 ambiciosa e inclusiva.",
+    "fr": "La présidence du Groupe des PMA a rencontré Fatma Varank, directrice générale de la présidence de la COP31, pour présenter les priorités et les attentes des PMA pour une COP31 ambitieuse et inclusive.",
+    "ru": "Председатель Группы НРС встретился с Фатмой Варанк, исполнительным директором председательства COP31, чтобы изложить приоритеты и ожидания НРС в отношении амбициозной и инклюзивной COP31.",
+    "zh": "最不发达国家集团主席会见了COP31主席团首席执行官法特玛·瓦朗克（Fatma Varank），介绍最不发达国家对一届有雄心、包容的COP31的优先事项和期待。",
+    "ar": "التقى رئيس مجموعة أقل البلدان نموا بفاطمة فارانك، الرئيسة التنفيذية لرئاسة مؤتمر الأطراف الحادي والثلاثين، لعرض أولويات وتوقعات أقل البلدان نموا لمؤتمر أطراف طموح وشامل."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzmyecdyhs2g",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-carbonbrief-20261106-debriefed",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": "11:01",
+   "text": "DeBriefed: COP31 countdown | Fossil-fuel and forest ‘roadmaps’ | ‘Staggering shortfall’ in adaptation funds\n\n✍️ Written by @ayeshatandon.carbonbrief.org \n📝 Edited by @daisydunne.carbonbrief.org \n\nRead here ➡️ buff.ly/VLVs9EZ\n\nSubscribe to Carbon Brief's newsletters ⬇️\ncarbonbrief.org/newsletters",
+   "summary": "Newsletter DeBriefed da Carbon Brief traz contagem regressiva da COP31, \"roteiros\" para combustíveis fósseis e florestas e um \"déficit impressionante\" no financiamento de adaptação.",
+   "summary_i18n": {
+    "en": "Carbon Brief's DeBriefed newsletter covers the COP31 countdown, fossil-fuel and forest 'roadmaps', and a 'staggering shortfall' in adaptation finance.",
+    "es": "El boletín DeBriefed de Carbon Brief trata la cuenta atrás de la COP31, las «hojas de ruta» sobre combustibles fósiles y bosques, y un «déficit asombroso» en la financiación de la adaptación.",
+    "fr": "La newsletter DeBriefed de Carbon Brief aborde le compte à rebours de la COP31, les « feuilles de route » sur les combustibles fossiles et les forêts, et un « déficit stupéfiant » du financement de l'adaptation.",
+    "ru": "Рассылка DeBriefed от Carbon Brief посвящена обратному отсчёту до COP31, «дорожным картам» по ископаемому топливу и лесам и «огромному дефициту» финансирования адаптации.",
+    "zh": "Carbon Brief的DeBriefed通讯涵盖COP31倒计时、化石燃料和森林“路线图”，以及适应资金的“惊人缺口”。",
+    "ar": "تتناول نشرة DeBriefed من Carbon Brief العد التنازلي لمؤتمر الأطراف الحادي والثلاثين و«خرائط الطريق» بشأن الوقود الأحفوري والغابات و«العجز الهائل» في تمويل التكيف."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mznka47r322n",
+   "tracks": [
+    "Adaptação",
+    "TAFF e fósseis",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-AOSISChair-20261106-preparatoria",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-06",
+   "text": "On Thursday 5th November, AOSIS members from all SIDS regions assembled in Antalya, Türkiye for the first day of critical COP31 preparation.",
+   "summary": "A AOSIS informa que seus membros de todas as regiões de pequenos Estados insulares se reuniram em Antalya, em 5 de novembro, no primeiro dia de preparação para a COP31.",
+   "summary_i18n": {
+    "en": "AOSIS reports that its members from all SIDS regions met in Antalya on 5 November for the first day of preparations for COP31.",
+    "es": "La AOSIS informa de que sus miembros de todas las regiones de los PEID se reunieron en Antalya el 5 de noviembre para el primer día de preparación de la COP31.",
+    "fr": "L'AOSIS indique que ses membres de toutes les régions des PEID se sont réunis à Antalya le 5 novembre pour le premier jour de préparation de la COP31.",
+    "ru": "АОСИС сообщает, что её члены из всех регионов МОСТРГ собрались в Анталье 5 ноября в первый день подготовки к КС-31.",
+    "zh": "小岛屿国家联盟（AOSIS）表示，来自所有小岛屿发展中国家区域的成员于11月5日在安塔利亚集会，开启COP31筹备的第一天。",
+    "ar": "يفيد تحالف الدول الجزرية الصغيرة بأن أعضاءه من جميع مناطق الدول الجزرية الصغيرة النامية اجتمعوا في أنطاليا في 5 تشرين الثاني/نوفمبر في اليوم الأول من التحضير لمؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T06:50:00-03:00",
+   "lang": "en"
   },
   {
    "id": "climateanalytics-2026-11-06-slcf-overshoot",
@@ -995,6 +1631,274 @@
    }
   },
   {
+   "id": "iddri-2026-11-gst2-etaff-issue-brief",
+   "institution": "IDDRI",
+   "type": "briefing",
+   "title": "Transition away from fossil fuels: How the information gathering for the second Global Stocktake can facilitate its implementation",
+   "date": "2026-11-05",
+   "authors": "Hélène Van Rossum, Marta Torres Gunfaus, Julie Pouzol, Anna Pérez Català",
+   "url": "https://www.iddri.org/en/publications-and-events/issue-brief/transition-away-fossil-fuels-how-information-gathering-second",
+   "summary": "O issue brief propõe como os países podem reunir, na fase de coleta de informações do GST2 (que começa na COP31), dados sobre transições equitativas para longe dos fósseis. Organiza barreiras e facilitadores em seis dimensões (restrições técnicas, financiamento, dependência macrofiscal, aspectos socioeconômicos e emprego, governança, participação pública) e sugere usar o Mapa do Caminho global de TAFF da Presidência da COP30 como base. As informações podem vir de roteiros nacionais de transição ou estratégias de longo prazo. Trilhas: GST2 e TAFF. Data exata não informada (nov 2026; registrada como 5 nov).",
+   "summary_i18n": {
+    "en": "The issue brief proposes how countries can gather, during the GST2 information-collection phase (which begins at COP31), information on equitable transitions away from fossil fuels. It organises barriers and enablers across six dimensions (technical constraints, financing, macro-fiscal dependence, socio-economic aspects and employment, governance, public participation) and suggests using the COP30 Presidency Global TAFF Roadmap as a basis. Inputs can come from national transition roadmaps or long-term strategies. Tracks: GST2 and TAFF. Exact date not given (Nov 2026; recorded as 5 Nov).",
+    "es": "El issue brief propone cómo los países pueden reunir, en la fase de recopilación de información del GST2 (que comienza en la COP31), datos sobre transiciones equitativas para abandonar los combustibles fósiles. Organiza obstáculos y facilitadores en seis dimensiones (restricciones técnicas, financiación, dependencia macrofiscal, aspectos socioeconómicos y empleo, gobernanza, participación pública) y sugiere usar la Hoja de ruta global de TAFF de la Presidencia de la COP30 como base. Los insumos pueden proceder de hojas de ruta nacionales de transición o estrategias a largo plazo. Vías: GST2 y TAFF. Fecha exacta no indicada (nov. 2026; registrada como 5 nov.).",
+    "fr": "La note de synthèse propose aux pays une méthode pour réunir, lors de la phase de collecte d'informations du GST2 (qui débute à la COP31), des données sur les transitions équitables hors des combustibles fossiles. Elle organise obstacles et facteurs favorables en six dimensions (contraintes techniques, financement, dépendance macro-budgétaire, aspects socio-économiques et emploi, gouvernance, participation du public) et suggère de s'appuyer sur la feuille de route mondiale TAFF de la présidence de la COP30. Les contributions peuvent venir de feuilles de route nationales de transition ou de stratégies à long terme. Volets : GST2 et TAFF. Date exacte non indiquée (nov. 2026 ; enregistrée au 5 nov.).",
+    "ru": "В аналитической записке предлагается, как страны могут в ходе этапа сбора информации для GST2 (начинается на КС-31) собирать данные о справедливом отходе от ископаемого топлива. Препятствия и факторы содействия сгруппированы по шести измерениям (технические ограничения, финансирование, макрофискальная зависимость, социально-экономические аспекты и занятость, управление, участие общественности); в качестве основы предлагается использовать глобальную дорожную карту TAFF председательства КС-30. Материалы могут поступать из национальных дорожных карт перехода или долгосрочных стратегий. Направления: GST2 и TAFF. Точная дата не указана (ноябрь 2026 г.; записана как 5 ноября).",
+    "zh": "这份议题简报提出，各国可在COP31启动的GST2信息收集阶段，如何汇集有关公平转型、摆脱化石燃料的信息。简报将障碍与促进因素归为六个维度（技术限制、融资、宏观财政依赖、社会经济与就业、治理、公众参与），并建议以COP30主席国的全球TAFF路线图为基础。信息可来自国家转型路线图或长期战略。涉及议题：GST2和TAFF。确切日期未注明（2026年11月；记为11月5日）。",
+    "ar": "تقترح الموجز السياساتي كيف يمكن للبلدان جمع معلومات عن التحولات العادلة بعيداً عن الوقود الأحفوري خلال مرحلة جمع المعلومات للحصيلة العالمية الثانية (GST2) التي تبدأ في مؤتمر الأطراف الحادي والثلاثين. ويرتب العقبات والعوامل الميسِّرة في ست أبعاد (القيود التقنية، والتمويل، والاعتماد المالي الكلي، والجوانب الاجتماعية والاقتصادية والعمالة، والحوكمة، ومشاركة الجمهور)، ويقترح استخدام خارطة الطريق العالمية TAFF لرئاسة مؤتمر الأطراف الثلاثين أساساً. ويمكن أن تأتي المدخلات من خرائط طريق وطنية للانتقال أو استراتيجيات طويلة الأجل. المسارات: GST2 وTAFF. التاريخ الدقيق غير مذكور (نوفمبر 2026؛ سُجّل كـ 5 نوفمبر)."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "IDDRI — \"Framing information around barriers and enablers can provide a useful structure\"",
+    "IDDRI — \"The COP30 Presidency Global TAFF Roadmap provides a valuable basis for organizing this evidence\""
+   ],
+   "first_seen": "2026-11-08T12:35:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-UNFCCC-20261105-cop31-acao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-05",
+   "text": "Climate action is about protecting people, strengthening economies and unlocking opportunity.\nAt #COP31, the focus is on turning commitments into action and accelerating solutions that deliver for people everywhere.\nNow is the time to move further, faster.\n9–20 Nov | Antalya, 🇹🇷",
+   "summary": "UNFCCC afirma que o foco da COP31 (9–20 nov, Antalya) é transformar compromissos em ação e acelerar soluções.",
+   "summary_i18n": {
+    "en": "UNFCCC says the focus of COP31 (9–20 Nov, Antalya) is turning commitments into action and accelerating solutions.",
+    "es": "La CMNUCC afirma que el foco de la COP31 (9–20 nov, Antalya) es convertir los compromisos en acción y acelerar las soluciones.",
+    "fr": "La CCNUCC affirme que la COP31 (9–20 nov., Antalya) vise à transformer les engagements en action et à accélérer les solutions.",
+    "ru": "РКИК ООН заявляет, что главная задача COP31 (9–20 нояб., Анталья) — превратить обязательства в действия и ускорить внедрение решений.",
+    "zh": "《联合国气候变化框架公约》表示，COP31（11月9日至20日，安塔利亚）的重点是将承诺转化为行动并加快落实解决方案。",
+    "ar": "تؤكد اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ أن محور مؤتمر الأطراف الحادي والثلاثين (9–20 نوفمبر، أنطاليا) هو تحويل الالتزامات إلى عمل وتسريع الحلول."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-AOSISChair-20261105-carlon-1o5",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "09:05",
+   "text": "For Carlon from Trinidad and Tobago 🇹🇹, it's #1point5ToStayAlive, period. 🙌\nAccepting extended overshoot of 1.5°C is not an option.\nAt #COP31, action to accelerate the just transition and reduce #fossilfuel dependence is a must ‼️\n\n#NotJustANumber #ClimateActionNow",
+   "summary": "AOSIS rejeita o overshoot prolongado de 1,5°C e defende na COP31 acelerar a transição justa e reduzir a dependência de fósseis.",
+   "summary_i18n": {
+    "en": "AOSIS rejects extended overshoot of 1.5°C and calls for COP31 to accelerate the just transition and reduce fossil fuel dependence.",
+    "es": "AOSIS rechaza el sobrepaso prolongado de 1,5°C y pide que la COP31 acelere la transición justa y reduzca la dependencia de los combustibles fósiles.",
+    "fr": "L'AOSIS rejette un dépassement prolongé de 1,5°C et demande à la COP31 d'accélérer la transition juste et de réduire la dépendance aux combustibles fossiles.",
+    "ru": "АОСИС отвергает затяжное превышение 1,5°C и призывает COP31 ускорить справедливый переход и сократить зависимость от ископаемого топлива.",
+    "zh": "小岛屿国家联盟（AOSIS）反对长期超过1.5°C，并呼吁COP31加快公正转型、减少对化石燃料的依赖。",
+    "ar": "ترفض مجموعة التحالف الدولي للدول الجزرية الصغيرة تجاوز 1.5 درجة مئوية لفترة ممتدة، وتدعو مؤتمر الأطراف الحادي والثلاثين إلى تسريع التحول العادل وخفض الاعتماد على الوقود الأحفوري."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Transição justa",
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-germanwatch-20261105-erwartungspapier",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "germanwatch.bsky.social",
+   "institution": "Germanwatch",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "07:16",
+   "text": "🌍 Die Klimakrise wartet nicht. Die Politik darf es auch nicht.\nVom 9. bis 20. November findet die #COP31 in #Antalya statt. \n#Germanwatch ist vor Ort und begleitet die Verhandlungen. Was wir konkret fordern, lest ihr in unserem COP31-Erwartungspapier: www.germanwatch.org/de/93615?mtm...",
+   "summary": "Germanwatch estará em Antalya acompanhando as negociações e publicou seu documento de expectativas para a COP31.",
+   "summary_i18n": {
+    "en": "Germanwatch will be in Antalya following the negotiations and has published its COP31 expectations paper.",
+    "es": "Germanwatch estará en Antalya siguiendo las negociaciones y ha publicado su documento de expectativas para la COP31.",
+    "fr": "Germanwatch sera présent à Antalya pour suivre les négociations et a publié son document d'attentes pour la COP31.",
+    "ru": "Germanwatch будет в Анталье следить за переговорами и опубликовало документ с ожиданиями от COP31.",
+    "zh": "Germanwatch将赴安塔利亚跟踪谈判，并发布了其对COP31的期望文件。",
+    "ar": "ستتابع منظمة Germanwatch المفاوضات في أنطاليا، ونشرت ورقة توقعاتها بشأن مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/germanwatch.bsky.social/post/3mzkn7mpqnc2t",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "de"
+  },
+  {
+   "id": "x-fatmavarank-20261105-selwin-hart",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "18:50",
+   "text": "An online bilateral meeting was held with H.E. Selwin Hart, UNASG and Special Adviser to the Secretary-General on Climate Action.\n\nBM Genel Sekreter Yardımcısı ve Genel Sekreter’in İklim Eylemi Özel Danışmanı Sayın Selwin Hart ile çevrim içi ikili bir görüşme gerçekleştirdik.",
+   "summary": "Fatma Varank, CEO da COP31, realizou reunião bilateral online com Selwin Hart, assessor especial do Secretário-Geral da ONU para a Ação Climática.",
+   "summary_i18n": {
+    "en": "Fatma Varank, COP31 CEO, held an online bilateral meeting with Selwin Hart, Special Adviser to the UN Secretary-General on Climate Action.",
+    "es": "Fatma Varank, directora ejecutiva de la COP31, mantuvo una reunión bilateral en línea con Selwin Hart, Asesor Especial del Secretario General de la ONU sobre Acción Climática.",
+    "fr": "Fatma Varank, directrice générale de la COP31, a tenu une réunion bilatérale en ligne avec Selwin Hart, Conseiller spécial du Secrétaire général de l'ONU pour l'action climatique.",
+    "ru": "Фатма Варанк, генеральный директор COP31, провела онлайн-встречу один на один с Селвином Хартом, специальным советником Генерального секретаря ООН по климатическим действиям.",
+    "zh": "COP31首席执行官法特玛·瓦兰克（Fatma Varank）与联合国秘书长气候行动特别顾问塞尔温·哈特（Selwin Hart）举行了线上双边会晤。",
+    "ar": "عقدت فاطمة فارانك، الرئيسة التنفيذية لمؤتمر الأطراف الحادي والثلاثين، اجتماعًا ثنائيًا عبر الإنترنت مع سيلوين هارت، المستشار الخاص للأمين العام للأمم المتحدة للعمل المناخي."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-drsimevans-20261105-text-tracker",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "12:30",
+   "text": "COP31 TEXT TRACKER: We've just fired up the Carbon Brief text tracker, to help you stay on top of the latest draft documents at the negotiations in Antalya, Turkey\n\nwww.carbonbrief.org/...",
+   "summary": "Carbon Brief lança o rastreador de textos da COP31 para acompanhar os rascunhos de decisões nas negociações em Antalya.",
+   "summary_i18n": {
+    "en": "Carbon Brief launches its COP31 text tracker to follow the latest draft documents in the Antalya negotiations.",
+    "es": "Carbon Brief lanza su rastreador de textos de la COP31 para seguir los últimos borradores de documentos en las negociaciones de Antalya.",
+    "fr": "Carbon Brief lance son suivi des textes de la COP31 pour suivre les derniers projets de documents des négociations d'Antalya.",
+    "ru": "Carbon Brief запускает трекер текстов COP31 для отслеживания последних проектов документов на переговорах в Анталье.",
+    "zh": "Carbon Brief推出COP31文本追踪器，帮助跟踪安塔利亚谈判中的最新草案文件。",
+    "ar": "تطلق Carbon Brief أداة تتبع نصوص مؤتمر الأطراف الحادي والثلاثين لمتابعة أحدث مسودات الوثائق في مفاوضات أنطاليا."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3mzl6qgmizf2l",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-ldcchairunfccc-20261105-prepmeeting",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "16:22",
+   "text": "We concluded our Preparatory Meeting in Antalya with aligned priorities and a united voice for COP31. We had a privilege of hosting SB Chairs, COP Presidencies and UNFCCC Executive Secretary to convey our expectations of COP31\n\n#LDCGroup #COP31",
+   "summary": "O Grupo dos PMDs encerrou em Antalya sua reunião preparatória, com prioridades alinhadas e voz unida para a COP31, recebendo presidentes dos órgãos subsidiários, presidências da COP e o secretário-executivo da UNFCCC.",
+   "summary_i18n": {
+    "en": "The LDC Group concluded its preparatory meeting in Antalya with aligned priorities and a united voice for COP31, hosting SB Chairs, COP Presidencies and the UNFCCC Executive Secretary.",
+    "es": "El Grupo de PMA concluyó su reunión preparatoria en Antalya con prioridades alineadas y una voz unida para la COP31, y recibió a los presidentes de los órganos subsidiarios, las presidencias de la COP y el Secretario Ejecutivo de la CMNUCC.",
+    "fr": "Le Groupe des PMA a clôturé sa réunion préparatoire à Antalya avec des priorités alignées et une voix unie pour la COP31, en accueillant les présidents des organes subsidiaires, les présidences de la COP et le Secrétaire exécutif de la CCNUCC.",
+    "ru": "Группа НРС завершила подготовительное совещание в Анталье, согласовав приоритеты и выработав единую позицию на COP31; в нём приняли участие председатели вспомогательных органов, председательства COP и Исполнительный секретарь РКИК ООН.",
+    "zh": "最不发达国家集团在安塔利亚结束筹备会议，就COP31达成一致的优先事项和共同立场，会议邀请了附属机构主席、历届COP主席团和《联合国气候变化框架公约》执行秘书出席。",
+    "ar": "اختتمت مجموعة أقل البلدان نموا اجتماعها التحضيري في أنطاليا بأولويات متوافقة وصوت موحد لمؤتمر الأطراف الحادي والثلاثين، واستضافت رؤساء الهيئتين الفرعيتين ورئاسات المؤتمر والأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzllozci5c2u",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T08:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "iddri-2026-11-05-fossil-roadmap",
+   "institution": "IDDRI",
+   "type": "blog",
+   "title": "Transitioning Away from Fossil Fuels: what is the COP30 Presidency Roadmap and how can it support countries in implementing this goal?",
+   "date": "2026-11-05",
+   "authors": "Hélène Van Rossum, Marta Torres Gunfaus",
+   "url": "https://www.iddri.org/en/publications-and-events/blog-post/transitioning-away-fossil-fuels-what-cop30-presidency-roadmap-and",
+   "summary": "Descreve o Mapa do Caminho global da Presidência da COP30 como um quadro voluntário que ajuda os países a avaliar sua capacidade de transição e exposição aos fósseis, e o compara ao processo de Santa Marta, de coalizão. Conclui que ambos são úteis, mas que o impacto do Mapa depende de um processo de acompanhamento a ser acordado na COP31. Trilha: TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Describes the COP30 Presidency's global Roadmap as a voluntary framework helping countries assess their transition capacity and fossil fuel exposure, and compares it with the coalition-based Santa Marta process. Concludes that both are useful, but that the Roadmap's impact depends on a follow-up process to be agreed at COP31. Track: TAFF and fossil fuels.",
+    "es": "Describe la Hoja de ruta global de la Presidencia de la COP30 como un marco voluntario que ayuda a los países a evaluar su capacidad de transición y su exposición a los combustibles fósiles, y la compara con el proceso de Santa Marta, basado en coaliciones. Concluye que ambos son útiles, pero que el impacto de la Hoja de ruta depende de un proceso de seguimiento que se acuerde en la COP31. Vía: TAFF y combustibles fósiles.",
+    "fr": "Décrit la feuille de route mondiale de la présidence de la COP30 comme un cadre volontaire aidant les pays à évaluer leur capacité de transition et leur exposition aux combustibles fossiles, et la compare au processus de Santa Marta, fondé sur des coalitions. Conclut que les deux sont utiles, mais que l'impact de la feuille de route dépend d'un processus de suivi à convenir à la COP31. Volet : TAFF et combustibles fossiles.",
+    "ru": "Описывает глобальную дорожную карту президентства КС-30 как добровольную рамку, помогающую странам оценить способность к переходу и зависимость от ископаемого топлива, и сравнивает её с процессом Санта-Марты, основанным на коалициях. Делается вывод, что оба инструмента полезны, но влияние дорожной карты зависит от последующего процесса, который будет согласован на КС-31. Направление: TAFF и ископаемое топливо.",
+    "zh": "将COP30主席国的全球路线图描述为一个自愿性框架，帮助各国评估转型能力和化石燃料依赖程度，并将其与基于联盟的圣玛尔塔进程作比较。结论是两者均有价值，但路线图的影响取决于COP31将商定的后续进程。议题：TAFF与化石燃料。",
+    "ar": "يصف خريطة الطريق العالمية لرئاسة مؤتمر الأطراف الثلاثين بأنها إطار طوعي يساعد البلدان على تقييم قدرتها على الانتقال ومدى انكشافها على الوقود الأحفوري، ويقارنها بعملية سانتا مارتا القائمة على الائتلافات. ويخلص إلى أن كليهما مفيد، لكن أثر خريطة الطريق يتوقف على عملية متابعة يتم الاتفاق عليها في مؤتمر الأطراف الحادي والثلاثين. المسار: TAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "a useful contribution to international discussions on transitioning away from fossil fuels"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "iddri-2026-11-05-european-diplomacy",
+   "institution": "IDDRI",
+   "type": "briefing",
+   "title": "European climate diplomacy at a crossroads: Preliminary conclusions for international cooperation and COP31",
+   "date": "2026-11-05",
+   "authors": "Anna Pérez Català, Pelin Zorlu, Marta Torres Gunfaus, Chris Aylett, Céline Kauffmann",
+   "url": "https://www.iddri.org/en/publications-and-events/note/european-climate-diplomacy-crossroads-preliminary-conclusions",
+   "summary": "Nota conjunta IDDRI–Chatham House (publicada em novembro de 2026, dia exato não informado) sobre a lacuna crescente entre compromissos e implementação e a mudança geopolítica. Recomenda que a Europa vincule mais deliberadamente a diplomacia climática a segurança energética, competitividade industrial, comércio e investimento, e antecipa um relatório completo para o início de 2027 sobre eletricidade, transporte marítimo e aço. Trilhas: mitigação, eletrificação.",
+   "summary_i18n": {
+    "en": "Joint IDDRI–Chatham House note (published November 2026, exact day not stated) on the widening gap between commitments and implementation and a shifting geopolitical landscape. Recommends that Europe more deliberately link climate diplomacy with energy security, industrial competitiveness, trade and investment, and previews a full report due in early 2027 covering electricity systems, shipping and steel. Tracks: mitigation, electrification.",
+    "es": "Nota conjunta de IDDRI y Chatham House (publicada en noviembre de 2026, sin día exacto) sobre la brecha creciente entre compromisos e implementación y el cambio del panorama geopolítico. Recomienda que Europa vincule más deliberadamente la diplomacia climática con la seguridad energética, la competitividad industrial, el comercio y la inversión, y anticipa un informe completo para principios de 2027 sobre sistemas eléctricos, transporte marítimo y acero. Vías: mitigación, electrificación.",
+    "fr": "Note conjointe de l'IDDRI et de Chatham House (publiée en novembre 2026, jour exact non précisé) sur l'écart croissant entre engagements et mise en œuvre et sur l'évolution du paysage géopolitique. Recommande que l'Europe lie plus délibérément la diplomatie climatique à la sécurité énergétique, à la compétitivité industrielle, au commerce et à l'investissement, et annonce un rapport complet début 2027 sur les systèmes électriques, le transport maritime et l'acier. Volets : atténuation, électrification.",
+    "ru": "Совместная записка IDDRI и Chatham House (опубликована в ноябре 2026 г., точный день не указан) о растущем разрыве между обязательствами и реализацией и меняющейся геополитической обстановке. Рекомендует Европе более целенаправленно связывать климатическую дипломатию с энергетической безопасностью, промышленной конкурентоспособностью, торговлей и инвестициями; анонсирует полный доклад в начале 2027 г. об электроэнергетических системах, судоходстве и стали. Направления: смягчение, электрификация.",
+    "zh": "IDDRI与Chatham House联合发布的简报（2026年11月发布，具体日期未注明），涉及承诺与实施之间不断扩大的差距以及不断变化的地缘政治格局。建议欧洲更有意识地将气候外交与能源安全、产业竞争力、贸易和投资联系起来，并预告2027年初将发布涵盖电力系统、航运和钢铁的完整报告。议题：减缓、电气化。",
+    "ar": "مذكرة مشتركة بين IDDRI وChatham House (نُشرت في نوفمبر 2026 دون تحديد اليوم) حول اتساع الفجوة بين الالتزامات والتنفيذ وتغير المشهد الجيوسياسي. توصي بأن تربط أوروبا دبلوماسيتها المناخية على نحو أكثر تعمدًا بأمن الطاقة والقدرة التنافسية الصناعية والتجارة والاستثمار، وتمهد لتقرير كامل مرتقب في أوائل 2027 عن أنظمة الكهرباء والشحن البحري والصلب. المساران: التخفيف والكهربة."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "a growing implementation gap between commitments and action"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-05-media-brief",
+   "institution": "350.org",
+   "type": "briefing",
+   "title": "Media Brief, COP31 in Antalya: A Moment for Action",
+   "date": "2026-11-05",
+   "authors": "Kim Bryan (350.org Media Team)",
+   "url": "https://350.org/press-release/cop31-in-antalya-a-moment-for-action/",
+   "summary": "Briefing para jornalistas sobre a COP31 (9–20 nov): a 350.org quer eliminação gradual de carvão, petróleo e gás com cronograma claro, taxação dos lucros fósseis, expansão de renováveis e redes e financiamento a países pobres e comunidades da linha de frente. Apresenta a cúpula como teste da meta de 1,5 °C dez anos após o Acordo de Paris, em meio a uma crise energética. Trilhas: TAFF e fósseis, finanças.",
+   "summary_i18n": {
+    "en": "Briefing for journalists on COP31 (9–20 Nov): 350.org wants coal, oil and gas phased out on a clear timeline, fossil fuel profits taxed, renewables and grids expanded, and funding for poorer nations and frontline communities. Presents the summit as a test of the 1.5°C goal ten years after the Paris Agreement, amid an energy crisis. Tracks: TAFF and fossil fuels, finance.",
+    "es": "Informe para periodistas sobre la COP31 (9–20 nov): 350.org quiere la eliminación gradual del carbón, el petróleo y el gas con un calendario claro, impuestos a los beneficios de los combustibles fósiles, expansión de las renovables y las redes, y financiación para los países más pobres y las comunidades en primera línea. Presenta la cumbre como una prueba del objetivo de 1,5 °C diez años después del Acuerdo de París, en plena crisis energética. Vías: TAFF y combustibles fósiles, finanzas.",
+    "fr": "Dossier de presse sur la COP31 (9–20 nov.) : 350.org veut l'élimination progressive du charbon, du pétrole et du gaz selon un calendrier clair, la taxation des profits des énergies fossiles, l'expansion des renouvelables et des réseaux, et un financement pour les pays pauvres et les communautés en première ligne. Présente le sommet comme un test de l'objectif de 1,5 °C dix ans après l'Accord de Paris, en pleine crise énergétique. Volets : TAFF et combustibles fossiles, finances.",
+    "ru": "Информационная записка для журналистов о КС-31 (9–20 ноября): 350.org требует поэтапного отказа от угля, нефти и газа по чёткому графику, налогообложения прибыли ископаемых компаний, расширения ВИЭ и сетей, а также финансирования бедных стран и общин на переднем крае. Саммит представлен как проверка цели в 1,5 °C через десять лет после Парижского соглашения на фоне энергетического кризиса. Направления: TAFF и ископаемое топливо, финансы.",
+    "zh": "面向记者的COP31（11月9日至20日）简报：350.org要求按明确时间表逐步淘汰煤炭、石油和天然气，对化石燃料利润征税，扩大可再生能源和电网，并为较贫穷国家和一线社区提供资金。该简报将此次峰会视为《巴黎协定》十年后对1.5°C目标的检验，背景是能源危机。议题：TAFF与化石燃料、资金。",
+    "ar": "إحاطة للصحفيين حول مؤتمر الأطراف الحادي والثلاثين (9–20 نوفمبر): تريد 350.org التخلص التدريجي من الفحم والنفط والغاز وفق جدول زمني واضح، وفرض ضرائب على أرباح الوقود الأحفوري، وتوسيع الطاقة المتجددة والشبكات، وتمويل البلدان الأفقر والمجتمعات في الخطوط الأمامية. وتقدم القمة كاختبار لهدف 1.5 درجة مئوية بعد عشر سنوات على اتفاق باريس في خضم أزمة طاقة. المساران: TAFF والوقود الأحفوري، والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [
+    "But the fight for 1.5°C and a more livable planet is not yet over",
+    "This year’s summit lands in the middle of the biggest energy crisis in history"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "carbon-pulse-2026-11-05-fossil-treaty-cdr",
    "institution": "Carbon Pulse",
    "type": "notícia",
@@ -1423,6 +2327,90 @@
    }
   },
   {
+   "id": "cop31-presidency-2026-11-04-unep-adaptation",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "New UNEP findings highlight urgent need to scale up adaptation finance ahead of COP31",
+   "date": "2026-11-04",
+   "authors": "COP31 Türkiye (a partir de comunicado do PNUMA)",
+   "url": "https://cop31.tr/news-detail/unep-findings-urgent-need-scale-up-adaptation-finance-cop31",
+   "summary": "O site da presidência da COP31 repercute o Relatório de Lacuna de Adaptação 2026 do PNUMA: o financiamento público internacional de adaptação para países em desenvolvimento ficou em cerca de US$ 28–32 bi em 2024, contra uma necessidade de cerca de US$ 305 bi por ano em 2035; mesmo o triplo proposto cobriria só entre um quinto e menos de um terço. O texto destaca barreiras institucionais e a demanda por perdas e danos muito acima dos recursos (pedidos de US$ 2,8 bi para um envelope inicial de US$ 342 mi). Toca as trilhas de adaptação, finanças e perdas e danos.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency website echoes UNEP's 2026 Adaptation Gap Report: international public adaptation finance to developing countries was about US$28–32 billion in 2024, against a need of about US$305 billion a year by 2035; even the proposed tripling would cover only between one fifth and under one third. The text highlights institutional barriers and loss and damage demand far above available resources (requests of US$2.8 billion for an initial envelope of US$342 million). It bears on the adaptation, finance and loss and damage tracks.",
+    "es": "El sitio de la Presidencia de la COP31 se hace eco del Informe sobre la Brecha de Adaptación 2026 del PNUMA: la financiación pública internacional para la adaptación en los países en desarrollo fue de unos 28.000–32.000 millones de dólares en 2024, frente a una necesidad de unos 305.000 millones anuales en 2035; incluso el triplicado propuesto cubriría solo entre una quinta parte y menos de un tercio. El texto destaca las barreras institucionales y una demanda de pérdidas y daños muy superior a los recursos (solicitudes por 2.800 millones de dólares para un fondo inicial de 342 millones). Afecta a las vías de adaptación, finanzas y pérdidas y daños.",
+    "fr": "Le site de la présidence de la COP31 relaie le Rapport 2026 du PNUE sur l'écart en matière d'adaptation : le financement public international de l'adaptation pour les pays en développement s'élevait à environ 28–32 milliards de dollars en 2024, pour un besoin d'environ 305 milliards par an en 2035 ; même le triplement proposé ne couvrirait qu'entre un cinquième et moins d'un tiers. Le texte souligne les obstacles institutionnels et une demande au titre des pertes et préjudices très supérieure aux ressources (demandes de 2,8 milliards de dollars pour une enveloppe initiale de 342 millions). Il concerne les volets adaptation, finance et pertes et préjudices.",
+    "ru": "Сайт председательства COP31 приводит выводы Доклада ЮНЕП о разрыве в адаптации 2026 года: международное публичное финансирование адаптации в развивающихся странах составило около 28–32 млрд долл. США в 2024 году при потребности около 305 млрд долл. в год к 2035 году; даже предлагаемое утроение покрыло бы лишь от одной пятой до менее трети. В тексте подчёркиваются институциональные барьеры и спрос по линии потерь и ущерба, намного превышающий ресурсы (заявки на 2,8 млрд долл. при первоначальном объёме 342 млн). Затрагиваются направления адаптации, финансов и потерь и ущерба.",
+    "zh": "COP31主席国网站转述了联合国环境规划署《2026年适应差距报告》：2024年面向发展中国家的国际公共适应资金约为280亿至320亿美元，而到2035年每年需求约为3050亿美元；即使实现拟议的三倍增长，也只能覆盖五分之一至不足三分之一。文章强调了体制性障碍，以及损失与损害资金需求远超可用资源（对初始3.42亿美元资金规模提出了28亿美元的申请）。涉及适应、资金以及损失与损害议题。",
+    "ar": "يعرض موقع رئاسة مؤتمر الأطراف الحادي والثلاثين نتائج تقرير فجوة التكيف لعام 2026 الصادر عن برنامج الأمم المتحدة للبيئة: بلغ التمويل العام الدولي للتكيف في البلدان النامية نحو 28 إلى 32 مليار دولار أمريكي في عام 2024، مقابل حاجة تبلغ نحو 305 مليارات دولار سنويًا بحلول عام 2035؛ وحتى المضاعفة ثلاث مرات المقترحة لن تغطي سوى ما بين خُمس وأقل من ثلث الحاجة. ويبرز النص العقبات المؤسسية وطلبًا على تمويل الخسائر والأضرار يفوق بكثير الموارد المتاحة (طلبات بقيمة 2.8 مليار دولار مقابل غلاف أولي قدره 342 مليون دولار). ويتصل بمساري التكيف والتمويل والخسائر والأضرار."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Perdas e danos",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Inger Andersen, UNEP: \"The world is not ready to adapt to current climactic conditions, never mind what overshoot of 1.5°C will bring.\"",
+    "UNEP report: \"generated requests worth US$2.8 billion, outstripping the initial funding envelope of US$342 million\""
+   ],
+   "first_seen": "2026-11-08T18:20:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-AOSISChair-20261104-pedro-financas",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-04",
+   "time": "13:00",
+   "text": "Pedro is from The Dominican Republic 🇩🇴 , where #sargassum seaweed is invading the shores. \n\nHis heartfelt call ahead of #COP31 to big emitters: Cut emissions. Deliver climate finance. Do not continue to worsen a crisis SIDS did not create.\n\n#Keep1point5Alive #NotJustANumber",
+   "summary": "AOSIS pede aos grandes emissores, antes da COP31, que cortem emissões e entreguem financiamento climático.",
+   "summary_i18n": {
+    "en": "Ahead of COP31, AOSIS calls on major emitters to cut emissions and deliver climate finance.",
+    "es": "De cara a la COP31, la AOSIS pide a los grandes emisores que reduzcan las emisiones y aporten financiación climática.",
+    "fr": "À l'approche de la COP31, l'AOSIS appelle les grands émetteurs à réduire leurs émissions et à fournir des financements climatiques.",
+    "ru": "В преддверии COP31 АОСИС призывает крупнейших эмитентов сократить выбросы и обеспечить климатическое финансирование.",
+    "zh": "在COP31之前，小岛屿国家联盟（AOSIS）呼吁主要排放国削减排放并落实气候资金。",
+    "ar": "قبيل مؤتمر الأطراف الحادي والثلاثين، تدعو مجموعة التحالف الدولي للدول الجزرية الصغيرة كبرى الدول المسببة للانبعاثات إلى خفض الانبعاثات وتوفير التمويل المناخي."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Finanças",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "e3g-2026-11-04-isds",
+   "institution": "E3G",
+   "type": "blog",
+   "title": "Investor-state dispute settlement (ISDS) mechanisms are threatening economic, energy and security priorities",
+   "date": "2026-11-04",
+   "authors": "Eunjung Lee",
+   "url": "https://www.e3g.org/news/investor-state-dispute-settlement-isds-mechanisms-are-threatening-economic-energy-and-security-priorities/",
+   "summary": "Explica como cláusulas ISDS em tratados de investimento permitem que empresas contestem decisões regulatórias, com crescimento de ações ligadas a projetos fósseis e à política industrial climática (mina de carvão de Cumbria, British Steel, Nexperia). Argumenta que a COP31 deve impulsionar uma reforma coordenada dos tratados de investimento, pois os governos ainda não reconheceram o ISDS como barreira à ação climática. Toca as trilhas de comércio e de TAFF.",
+   "summary_i18n": {
+    "en": "Explains how ISDS clauses in investment treaties let companies challenge regulatory decisions, with a growing number of claims linked to fossil fuel projects and climate-related industrial policy (Cumbria coalmine, British Steel, Nexperia). Argues that COP31 should advance coordinated investment treaty reform, since governments have not yet recognised ISDS as a barrier to climate action. Bears on the trade and TAFF tracks.",
+    "es": "Explica cómo las cláusulas ISDS de los tratados de inversión permiten a las empresas impugnar decisiones regulatorias, con un número creciente de reclamaciones vinculadas a proyectos de combustibles fósiles y a la política industrial climática (mina de carbón de Cumbria, British Steel, Nexperia). Sostiene que la COP31 debe impulsar una reforma coordinada de los tratados de inversión, ya que los gobiernos aún no reconocen el ISDS como obstáculo para la acción climática. Atañe a las vías de comercio y de TAFF.",
+    "fr": "Explique comment les clauses ISDS des traités d'investissement permettent aux entreprises de contester des décisions réglementaires, avec un nombre croissant de plaintes liées aux projets d'énergies fossiles et à la politique industrielle climatique (mine de charbon de Cumbria, British Steel, Nexperia). Soutient que la COP31 devrait faire avancer une réforme coordonnée des traités d'investissement, les gouvernements n'ayant pas encore reconnu l'ISDS comme un obstacle à l'action climatique. Concerne les volets commerce et TAFF.",
+    "ru": "Объясняет, как положения ISDS в инвестиционных договорах позволяют компаниям оспаривать регуляторные решения; растёт число исков, связанных с проектами в сфере ископаемого топлива и климатической промышленной политикой (угольная шахта в Камбрии, British Steel, Nexperia). Автор утверждает, что КС-31 должна продвинуть скоординированную реформу инвестиционных договоров, поскольку правительства пока не признали ISDS препятствием для климатических действий. Относится к направлениям «Торговля» и TAFF.",
+    "zh": "阐述投资条约中的ISDS条款如何使企业得以挑战监管决定，与化石燃料项目和气候相关产业政策有关的索赔日益增多（坎布里亚煤矿、British Steel、Nexperia）。作者主张COP31应推动协调一致的投资条约改革，因为各国政府尚未认识到ISDS是气候行动的障碍。涉及贸易和TAFF议题。",
+    "ar": "يشرح كيف تتيح بنود ISDS في معاهدات الاستثمار للشركات الطعن في القرارات التنظيمية، مع تزايد المطالبات المرتبطة بمشاريع الوقود الأحفوري والسياسة الصناعية المناخية (منجم الفحم في كمبريا، وBritish Steel، وNexperia). ويرى أن على مؤتمر الأطراف الحادي والثلاثين أن يدفع نحو إصلاح منسق لمعاهدات الاستثمار، إذ لم تعترف الحكومات بعد بأن ISDS يشكل عائقًا أمام العمل المناخي. يتصل بمساري التجارة وTAFF."
+   },
+   "tracks": [
+    "Comércio",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "with the potential cost to the UK government some £300 million"
+   ],
+   "first_seen": "2026-11-08T06:30:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "icc-2026-11-04-sme-climate-finance",
    "institution": "ICC",
    "type": "relatório",
@@ -1653,6 +2641,33 @@
    }
   },
   {
+   "id": "x-AOSISChair-20261103-amber-responsab",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-03",
+   "time": "10:00",
+   "text": "Meet Amber from the Bahamas! 🇧🇸\n\nSIDS are more than tourist destinations.\n\nWe are communities with rich cultures that cannot be lost.\n\nThis is why 1.5 is #NotJustANumber. \n\nAt #COP31, stand with SIDS to demand accountability from developed countries and #Keep1point5Alive!",
+   "summary": "AOSIS convoca a COP31 a apoiar os pequenos Estados insulares e cobrar responsabilidade dos países desenvolvidos para manter 1,5°C vivo.",
+   "summary_i18n": {
+    "en": "AOSIS urges COP31 to stand with SIDS and demand accountability from developed countries to keep 1.5°C alive.",
+    "es": "La AOSIS insta a la COP31 a apoyar a los PEID y a exigir responsabilidades a los países desarrollados para mantener vivo el 1,5°C.",
+    "fr": "L'AOSIS appelle la COP31 à soutenir les PEID et à exiger des comptes des pays développés pour maintenir l'objectif de 1,5°C.",
+    "ru": "АОСИС призывает COP31 поддержать МОСТРАР и потребовать ответственности от развитых стран ради сохранения цели 1,5°C.",
+    "zh": "小岛屿国家联盟（AOSIS）呼吁COP31支持小岛屿发展中国家，要求发达国家承担责任，守住1.5°C目标。",
+    "ar": "تدعو مجموعة التحالف الدولي للدول الجزرية الصغيرة مؤتمر الأطراف الحادي والثلاثين إلى دعم الدول الجزرية الصغيرة النامية ومساءلة الدول المتقدمة للحفاظ على هدف 1.5 درجة مئوية."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Mitigação e MWP",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "climateanalytics-2026-11-03-overshoot",
    "institution": "Climate Analytics",
    "type": "briefing",
@@ -1738,6 +2753,31 @@
    }
   },
   {
+   "id": "x-UNFCCC-20261102-uma-semana",
+   "kind": "post",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-02",
+   "text": "📢 One week till #COP31 kicks of in Antalya, Türkiye.\n\nCOP31 is where the world comes together to advance climate cooperation and turn commitments into action.\n\nLet's make it count. 💙\n \nTo find out more follow this link  👉 unfccc.int/cop31",
+   "summary": "UNFCCC anuncia que falta uma semana para a abertura da COP31 em Antalya, Türkiye.",
+   "summary_i18n": {
+    "en": "UNFCCC announces one week to go until COP31 opens in Antalya, Türkiye.",
+    "es": "La CMNUCC anuncia que falta una semana para la apertura de la COP31 en Antalya, Türkiye.",
+    "fr": "La CCNUCC annonce qu'il reste une semaine avant l'ouverture de la COP31 à Antalya, Türkiye.",
+    "ru": "РКИК ООН объявляет, что до открытия COP31 в Анталье (Турция) осталась неделя.",
+    "zh": "《联合国气候变化框架公约》宣布，COP31将在一周后于土耳其安塔利亚开幕。",
+    "ar": "تعلن اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ أنه تبقى أسبوع على افتتاح مؤتمر الأطراف الحادي والثلاثين في أنطاليا بتركيا."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T10:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "climate-action-tracker-2026-11-02-unpacking-electrification",
    "institution": "Climate Action Tracker",
    "type": "análise",
@@ -1795,11 +2835,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T05:45:00-03:00",
-  "label": "8 nov 2026, 05:45 (Brasília)",
-  "accounts_checked": 6,
+  "timestamp": "2026-11-08T18:43:00-03:00",
+  "label": "8 nov 2026, 18:43 (Brasília)",
+  "accounts_checked": 27,
   "blocked": 0,
-  "new_items": 0,
+  "new_items": 6,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
