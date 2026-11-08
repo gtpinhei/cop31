@@ -2,3 +2,4 @@ tools/node_modules/
 i18n/work/
 i18n/todo.*.json
 i18n/rejected.*.json
+.last_artifact_version

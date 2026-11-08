@@ -1,19 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-07T18:12:00-03:00",
+ "generated_at": "2026-11-08T00:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-07T18:12:00-03:00",
-  "label": "7 nov 2026, 18:12 (Brasília)",
-  "sites_checked": 53,
-  "blocked": 4,
-  "new_items": 0,
-  "fetches": "54 de 60",
+  "timestamp": "2026-11-08T00:14:00-03:00",
+  "label": "8 nov 2026, 00:14 (Brasília)",
+  "sites_checked": 40,
+  "blocked": 3,
+  "new_items": 1,
+  "fetches": "31 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
+   "ODI (client_error)",
    "UNEP",
-   "IEA",
-   "We Mean Business",
-   "ITUC (timeout)"
+   "IEA"
   ]
  },
  "tracks": [
@@ -1737,6 +1736,34 @@
     "zh": "这是对安塔利亚唯一明确的评分标准，包含三项标准：《巴黎协定》的可见落实；加强UNFCCC进程（行动议程设定责任、期限与监测；GST2设计）；以及充足的资金动员。要求将35 by 35锚定在可再生能源上，提议由愿意先行改革的国家组成小组（若无法达成共识）；并为损失和损害提供具体数字：2027年补充资金500亿美元，到2035年升至约4000亿美元。已纳入本指南。",
     "ar": "بطاقة تقييم صريحة وحيدة لأنطاليا، بثلاثة معايير: تنفيذ واضح لاتفاق باريس؛ وتعزيز مسار اتفاقية الأمم المتحدة الإطارية (أجندة العمل بمسؤوليات وآجال ورصد، وتصميم GST2)؛ وتعبئة تمويل كافٍ. وتطالب بربط هدف 35 by 35 بالطاقة المتجددة، وتقترح مجموعة من الدول المستعدة لريادة الإصلاحات إذا لم يتحقق توافق، وتضع رقماً على الخسائر والأضرار: 50 مليار دولار في تجديد عام 2027، ترتفع إلى نحو 400 مليار دولار في 2035. وقد أُدمج ذلك في الدليل."
    }
+  },
+  {
+   "id": "climate-action-tracker-2026-11-02-unpacking-electrification",
+   "institution": "Climate Action Tracker",
+   "type": "análise",
+   "title": "Unpacking electrification for a 1.5°C-aligned world",
+   "date": "2026-11-02",
+   "authors": "Climate Action Tracker (NewClimate Institute e Climate Analytics)",
+   "url": "https://climateactiontracker.org/publications/unpacking-electrification-for-a-15c-aligned-world/",
+   "summary": "O Climate Action Tracker explica o que significa eletrificação, como medi-la e como se aplica a transporte, edifícios e indústria num mundo alinhado a 1,5 °C. Trata a meta de 35% de eletrificação até 2035, adotada pela dupla presidência da COP31, como marco importante e não ponto final, pois a parcela precisa continuar subindo depois. Alcançar 35% em 2035 exigiria acelerar quase quatro vezes as taxas atuais de eletrificação frente ao progresso histórico. Os autores defendem referenciais setoriais e nacionais, porque uma parcela única de eletricidade esconde detalhes. Trilha: eletrificação.",
+   "summary_i18n": {
+    "en": "Climate Action Tracker explains what electrification means, how to measure it and how it applies to transport, buildings and industry in a 1.5°C-aligned world. It treats the 35% electrification target by 2035, adopted by the COP31 twin presidency, as an important milestone rather than the destination, since the share must keep rising afterwards. Reaching 35% in 2035 would require current electrification rates to accelerate almost fourfold compared with historical progress. The authors call for sectoral and national benchmarks, because a single electricity share hides important details. Track: electrification.",
+    "es": "Climate Action Tracker explica qué significa la electrificación, cómo medirla y cómo se aplica al transporte, los edificios y la industria en un mundo alineado con 1,5 °C. Considera la meta de 35 % de electrificación para 2035, adoptada por la doble presidencia de la COP31, un hito importante y no el punto de llegada, ya que la proporción debe seguir aumentando después. Alcanzar el 35 % en 2035 exigiría acelerar casi cuatro veces las tasas actuales de electrificación respecto del progreso histórico. Los autores abogan por referencias sectoriales y nacionales, porque una única cuota de electricidad oculta detalles. Vía: electrificación.",
+    "fr": "Climate Action Tracker explique ce que signifie l'électrification, comment la mesurer et comment elle s'applique aux transports, aux bâtiments et à l'industrie dans un monde aligné sur 1,5 °C. Il considère l'objectif de 35 % d'électrification d'ici 2035, adopté par la double présidence de la COP31, comme une étape importante et non comme une destination, car la part doit continuer à croître ensuite. Atteindre 35 % en 2035 exigerait d'accélérer presque quatre fois les taux actuels d'électrification par rapport aux progrès historiques. Les auteurs plaident pour des références sectorielles et nationales, car une part unique d'électricité masque des détails. Volet : électrification.",
+    "ru": "Climate Action Tracker объясняет, что означает электрификация, как её измерять и как она применяется в транспорте, зданиях и промышленности в мире, согласованном с целью 1,5 °C. Целевой показатель электрификации 35 % к 2035 году, принятый двойным председательством COP31, рассматривается как важная промежуточная веха, а не конечная цель, поскольку долю необходимо продолжать повышать. Достижение 35 % в 2035 году потребует почти четырёхкратного ускорения нынешних темпов электрификации по сравнению с историческим прогрессом. Авторы призывают к отраслевым и национальным ориентирам, так как единый показатель доли электроэнергии скрывает важные детали. Направление: электрификация.",
+    "zh": "气候行动追踪（Climate Action Tracker）阐释了电气化的含义、衡量方法，以及在与1.5°C目标一致的世界中电气化如何适用于交通、建筑和工业。报告认为，COP31双主席国采纳的2035年电气化率达35%的目标是重要里程碑而非终点，此后该比例仍须持续上升。要在2035年达到35%，现有电气化速度需比历史进展加快近四倍。作者呼吁制定分部门和国别基准，因为单一的电力占比会掩盖重要细节。议题：电气化。",
+    "ar": "يشرح Climate Action Tracker معنى الكهربة وكيفية قياسها وتطبيقها في النقل والمباني والصناعة في عالم متسق مع هدف 1.5 درجة مئوية. ويعدّ هدف بلوغ 35% من الكهربة بحلول عام 2035، الذي اعتمدته رئاسة COP31 المزدوجة، محطة مهمة وليس نقطة النهاية، إذ يجب أن تواصل النسبة الارتفاع بعد ذلك. وبلوغ 35% في عام 2035 سيتطلب تسريع معدلات الكهربة الحالية نحو أربعة أضعاف مقارنةً بالتقدم التاريخي. ويدعو المؤلفون إلى معايير قطاعية ووطنية، لأن نسبة الكهرباء الموحدة تخفي تفاصيل مهمة. المسار: الكهربة."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "would require current electrification rates to accelerate almost four times compared to historical progress",
+    "An electricity share of 35% does not mean that 35% of services are electrified."
+   ],
+   "first_seen": "2026-11-08T00:14:00-03:00",
+   "lang": "en"
   },
   {
    "id": "ituc-2026-10-08-demands-cop31",
