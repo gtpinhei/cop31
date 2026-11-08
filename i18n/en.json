@@ -997,5 +997,7 @@
  "j:pUnavailable": "account not found at the last check",
  "j:qNone": "No results for “{t}” in this language.",
  "j:qSome": "“{t}”: results in {n} sections (counts in the menu).",
- "j:qScope": "Search the guide, the updates and the loaded social pulse"
+ "j:qScope": "Search the guide, the updates and the loaded social pulse",
+ "hc56a4c58": "Try loading more",
+ "j:pMoreErr": "Could not load more posts ({r}). The posts already shown have been kept."
 }

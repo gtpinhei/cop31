@@ -255,5 +255,76 @@ async function stateFor(resp, wait = 450) {
   assert(b2.d.querySelectorAll("#ytCards iframe").length === 1, "#9 retry keeps one player per card");
 }
 
+// ---------- Release blocker A: language switch with a nonempty feed and an active pagination cursor
+{
+  const dict = l => read("i18n/" + l + ".json");
+  const PT = { "j:pOpen": "Abrir no Bluesky", "j:unv": "não verificado" };
+  const want = (l, k) => (l === "pt" ? PT[k] : dict(l)[k]);
+  const setLang = async (w, d, l) => { d.getElementById("langSel").value = l; d.getElementById("langSel").dispatchEvent(new w.Event("change")); await sleep(120); };
+  const { w, d, calls } = boot({ lang: "en", bsky: u => Promise.resolve(res(200, u.includes("cursor=") ? bigPage("p2-", null) : bigPage("p1-", "c1"))) });
+  await sleep(150); await go(w, "pulso"); await sleep(20);
+  choose(w, d.getElementById("pInst"), "Fixture A"); await sleep(120);
+  const n0 = calls.filter(u => u.includes("bsky.app")).length;
+  assert(d.querySelectorAll("#pList .bp").length === 15 && !d.getElementById("pMore").hidden, "A: 15 posts shown with a next-page cursor pending");
+  const check = l => {
+    const cards = [...d.querySelectorAll("#pList .bp")];
+    const opens = cards.map(c => c.querySelector(".bp-foot a").textContent);
+    const badges = cards.map(c => (c.querySelector(".bp-who .badge") || {}).textContent);
+    return cards.length === 15 && opens.every(t => t === want(l, "j:pOpen")) && badges.every(t => t === want(l, "j:unv"));
+  };
+  assert(check("en"), "A: cards and identity warnings in English");
+  for (const l of ["ar", "en", "es", "fr", "ru", "zh", "ar", "pt"]) {
+    await setLang(w, d, l);
+    assert(check(l) && (l !== "ar" || d.documentElement.dir === "rtl"), `A: switch to ${l}: 15 cards, link and warning re-rendered in ${l}`);
+  }
+  assert(calls.filter(u => u.includes("bsky.app")).length === n0, "A: language switches made no new Bluesky requests");
+  assert(!d.getElementById("pMore").hidden, "A: pagination still available after switching");
+  // switching while the first page is still loading: status relabelled, posts drawn in the new language
+  const g = gated(); const b2 = boot({ lang: "en", bsky: g });
+  await sleep(150); await go(b2.w, "pulso"); await sleep(20);
+  await setLang(b2.w, b2.d, "ar");
+  const loadingAr = dict("ar")["j:pLoading"].split("{n}")[0].trim();
+  assert(txt(b2.d, "#pStatus").startsWith(loadingAr.slice(0, 6)), "A: loading status relabelled while loading: " + txt(b2.d, "#pStatus"));
+  for (let k = 0; k < 20 && g.pending.length; k++) { g.release(g.pending[0].a); await sleep(10); }
+  await sleep(60);
+  const first = b2.d.querySelector("#pList .bp .bp-foot a");
+  assert(first && first.textContent === dict("ar")["j:pOpen"], "A: posts drawn after loading use the new language");
+}
+
+// ---------- Release blocker B: a failed 'load more' keeps the posts already shown
+{
+  let fail503 = true; const seen = [];
+  const bsky = u => { seen.push(u);
+    if (!u.includes("cursor=")) return Promise.resolve(res(200, bigPage("p1-", "c1")));
+    if (fail503) return Promise.resolve({ ok: false, status: 503, json: () => Promise.reject(new SyntaxError("html")) });
+    return Promise.resolve(res(200, bigPage("p2-", null))); };
+  const { w, d } = boot({ bsky });
+  await go(w, "pulso"); await sleep(20);
+  choose(w, d.getElementById("pInst"), "Fixture A"); await sleep(120);
+  assert(d.querySelectorAll("#pList .bp").length === 15, "B: 15 cards before load more");
+  d.getElementById("pMore").click(); await sleep(120);
+  const cards = d.querySelectorAll("#pList .bp").length, fallbacks = d.querySelectorAll("#pList .pc").length;
+  const err = d.getElementById("pMoreErr"), retry = d.getElementById("pMoreRetry");
+  assert(cards === 15 && fallbacks === 0, `B: HTTP 503 on load more keeps the 15 cards (cards ${cards}, fallback cards ${fallbacks})`);
+  assert(!err.hidden && /Não foi possível carregar mais posts \(erro de rede\)/.test(err.textContent) && !retry.hidden && d.getElementById("pMore").hidden,
+    "B: localized pagination error with a retry action: " + err.textContent);
+  assert(!d.getElementById("pStatus").className.includes("err") && /15 posts/.test(txt(d, "#pStatus")), "B: main status still reports the loaded posts");
+  fail503 = false;
+  const before = seen.length;
+  retry.click(); await sleep(150);
+  const retried = seen.slice(before);
+  assert(retried.length >= 1 && retried.every(u => /cursor=c1/.test(u)), "B: retry asks for the same failed cursor");
+  assert(d.querySelectorAll("#pList .bp").length === 30 && err.hidden && retry.hidden, "B: successful continuation shows 30 cards and clears the error");
+  // language switch while the pagination error is showing keeps the cards too
+  fail503 = true;
+  const b3 = boot({ bsky });
+  await go(b3.w, "pulso"); await sleep(20);
+  choose(b3.w, b3.d.getElementById("pInst"), "Fixture A"); await sleep(120);
+  b3.d.getElementById("pMore").click(); await sleep(120);
+  b3.d.getElementById("langSel").value = "ar"; b3.d.getElementById("langSel").dispatchEvent(new b3.w.Event("change")); await sleep(150);
+  assert(b3.d.querySelectorAll("#pList .bp").length === 15 && b3.d.getElementById("pMoreErr").textContent === read("i18n/ar.json")["j:pMoreErr"].replace("{r}", read("i18n/ar.json")["j:pReasonNet"]),
+    "B: pagination error survives a language switch, localized");
+}
+
 console.log(failed ? `${failed} CHECK(S) FAILED` : "ALL OK");
 process.exit(failed ? 1 : 0);

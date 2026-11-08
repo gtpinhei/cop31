@@ -997,5 +997,7 @@
  "j:pUnavailable": "compte introuvable lors de la dernière vérification",
  "j:qNone": "Aucun résultat pour « {t} » dans cette langue.",
  "j:qSome": "« {t} » : résultats dans {n} sections (nombres dans le menu).",
- "j:qScope": "Rechercher dans le guide, les mises à jour et le pouls social chargé"
+ "j:qScope": "Rechercher dans le guide, les mises à jour et le pouls social chargé",
+ "hc56a4c58": "Réessayer de charger plus",
+ "j:pMoreErr": "Impossible de charger d’autres publications ({r}). Les publications déjà affichées ont été conservées."
 }

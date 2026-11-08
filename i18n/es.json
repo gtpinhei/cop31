@@ -997,5 +997,7 @@
  "j:pUnavailable": "cuenta no encontrada en la última comprobación",
  "j:qNone": "Sin resultados para «{t}» en este idioma.",
  "j:qSome": "«{t}»: resultados en {n} secciones (cifras en el menú).",
- "j:qScope": "Buscar en la guía, las actualizaciones y el pulso social cargado"
+ "j:qScope": "Buscar en la guía, las actualizaciones y el pulso social cargado",
+ "hc56a4c58": "Intentar cargar más",
+ "j:pMoreErr": "No se pudieron cargar más publicaciones ({r}). Se mantuvieron las publicaciones ya mostradas."
 }

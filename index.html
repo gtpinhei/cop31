@@ -428,7 +428,7 @@ a:hover{text-decoration-color:var(--un)}
 <div class="feed" id="feedList"></div>
 <p class="empty" id="feedEmpty" hidden>Nenhum item corresponde aos filtros. Limpe um filtro para ver mais.</p>
 <p class="empty" id="feedError" hidden>Não foi possível carregar o feed de monitoramento. Recarregue a página; se persistir, o arquivo de dados ainda não foi publicado nesta versão.</p>
-</section><section class="view" id="view-pulso" data-view="pulso" hidden><h2 class="view-title">Pulso social: o que os atores estão dizendo</h2><p class="pulse-note">Conteúdo bruto, sem curadoria e no idioma original, publicado pelas contas monitoradas. Não é avaliação editorial: para o que importa, veja <a href="#hoje">Hoje na COP31</a>. O Bluesky é lido ao vivo pelo seu navegador; X, Instagram e YouTube só carregam conteúdo das plataformas quando você pede.</p><div class="pulse-bar"><fieldset class="f f-pos"><legend>Plataforma</legend><div class="chips" id="pTabs"><button type="button" class="chip" data-p="bluesky" aria-pressed="true">Bluesky <span class="n num"></span></button><button type="button" class="chip" data-p="x" aria-pressed="false">X <span class="n num"></span></button><button type="button" class="chip" data-p="instagram" aria-pressed="false">Instagram <span class="n num"></span></button><button type="button" class="chip" data-p="youtube" aria-pressed="false">YouTube <span class="n num"></span></button></div></fieldset><label class="f"><span>Instituição ou conta</span><select id="pInst"><option value="">Todas</option></select></label><label class="f chk" id="pAllWrap"><input type="checkbox" id="pAll"> <span>Incluir contas de prioridade B</span></label><button type="button" class="p-btn" id="pRefresh">Atualizar</button></div><div id="pPanelBluesky"><p class="p-status" id="pStatus" aria-live="polite">Abra esta seção para carregar os posts.</p><button type="button" class="p-btn" id="pRetry" hidden>Tentar de novo</button><div class="p-list" id="pList"></div><button type="button" class="p-btn" id="pMore" hidden>Carregar mais</button></div><div id="pPanelX" hidden><p class="pulse-note">Timelines do X incorporadas a sites muitas vezes não aparecem para quem não está conectado ao X, mas uma timeline vazia também pode ter outras causas, como conta sem posts, conta removida ou bloqueio do navegador. Se nada aparecer, use os links de perfil abaixo. Carregar a timeline baixa scripts do X.</p><div class="pulse-bar"><label class="f"><span>Timeline</span><select id="xSel"></select></label><button type="button" class="p-btn primary" id="xLoad">Carregar timeline do X</button></div><div class="x-frame" id="xFrame"></div><p class="p-status" id="xStatus" aria-live="polite"></p><div class="p-cards" id="xCards"></div></div><div id="pPanelInstagram" hidden><p class="pulse-note">O Instagram só permite incorporar posts individuais, não o feed de uma conta. Os cartões levam aos perfis; posts registrados pelo monitoramento podem ser exibidos um a um.</p><div class="p-cards" id="igCards"></div></div><div id="pPanelYoutube" hidden><p class="pulse-note">Os vídeos usam o player do YouTube em modo de privacidade aprimorada e só carregam quando você pede.</p><div class="p-cards" id="ytCards"></div></div></section><section class="view" id="view-belem" data-view="belem" hidden><h2 class="view-title">De Belém a Antalya: o que ficou pronto e o que ficou aberto</h2><p>Belém avançou a agenda de implementação, mas deixou a entrega para Antalya. A regra prática para ler qualquer anúncio: distinguir <strong>decisões adotadas</strong> (negociadas, vinculantes), <strong>sinais políticos</strong> (texto de decisão sem número ou prazo operacional) e <strong>iniciativas de presidência</strong> (voluntárias, fora do processo negociado).</p>
+</section><section class="view" id="view-pulso" data-view="pulso" hidden><h2 class="view-title">Pulso social: o que os atores estão dizendo</h2><p class="pulse-note">Conteúdo bruto, sem curadoria e no idioma original, publicado pelas contas monitoradas. Não é avaliação editorial: para o que importa, veja <a href="#hoje">Hoje na COP31</a>. O Bluesky é lido ao vivo pelo seu navegador; X, Instagram e YouTube só carregam conteúdo das plataformas quando você pede.</p><div class="pulse-bar"><fieldset class="f f-pos"><legend>Plataforma</legend><div class="chips" id="pTabs"><button type="button" class="chip" data-p="bluesky" aria-pressed="true">Bluesky <span class="n num"></span></button><button type="button" class="chip" data-p="x" aria-pressed="false">X <span class="n num"></span></button><button type="button" class="chip" data-p="instagram" aria-pressed="false">Instagram <span class="n num"></span></button><button type="button" class="chip" data-p="youtube" aria-pressed="false">YouTube <span class="n num"></span></button></div></fieldset><label class="f"><span>Instituição ou conta</span><select id="pInst"><option value="">Todas</option></select></label><label class="f chk" id="pAllWrap"><input type="checkbox" id="pAll"> <span>Incluir contas de prioridade B</span></label><button type="button" class="p-btn" id="pRefresh">Atualizar</button></div><div id="pPanelBluesky"><p class="p-status" id="pStatus" aria-live="polite">Abra esta seção para carregar os posts.</p><button type="button" class="p-btn" id="pRetry" hidden>Tentar de novo</button><div class="p-list" id="pList"></div><p class="p-status err" id="pMoreErr" role="status" hidden></p><button type="button" class="p-btn" id="pMoreRetry" hidden>Tentar carregar mais</button><button type="button" class="p-btn" id="pMore" hidden>Carregar mais</button></div><div id="pPanelX" hidden><p class="pulse-note">Timelines do X incorporadas a sites muitas vezes não aparecem para quem não está conectado ao X, mas uma timeline vazia também pode ter outras causas, como conta sem posts, conta removida ou bloqueio do navegador. Se nada aparecer, use os links de perfil abaixo. Carregar a timeline baixa scripts do X.</p><div class="pulse-bar"><label class="f"><span>Timeline</span><select id="xSel"></select></label><button type="button" class="p-btn primary" id="xLoad">Carregar timeline do X</button></div><div class="x-frame" id="xFrame"></div><p class="p-status" id="xStatus" aria-live="polite"></p><div class="p-cards" id="xCards"></div></div><div id="pPanelInstagram" hidden><p class="pulse-note">O Instagram só permite incorporar posts individuais, não o feed de uma conta. Os cartões levam aos perfis; posts registrados pelo monitoramento podem ser exibidos um a um.</p><div class="p-cards" id="igCards"></div></div><div id="pPanelYoutube" hidden><p class="pulse-note">Os vídeos usam o player do YouTube em modo de privacidade aprimorada e só carregam quando você pede.</p><div class="p-cards" id="ytCards"></div></div></section><section class="view" id="view-belem" data-view="belem" hidden><h2 class="view-title">De Belém a Antalya: o que ficou pronto e o que ficou aberto</h2><p>Belém avançou a agenda de implementação, mas deixou a entrega para Antalya. A regra prática para ler qualquer anúncio: distinguir <strong>decisões adotadas</strong> (negociadas, vinculantes), <strong>sinais políticos</strong> (texto de decisão sem número ou prazo operacional) e <strong>iniciativas de presidência</strong> (voluntárias, fora do processo negociado).</p>
 <div class="tscroll"><table class="tbl">
 <thead><tr>
 <th>Tema</th>
@@ -1258,7 +1258,7 @@ a:hover{text-decoration-color:var(--un)}
     pNoAcc:"Nenhuma conta desta plataforma para a instituição selecionada.", pAllGone:"As contas selecionadas não foram encontradas no Bluesky na última checagem: {l}.", pAllNotFound:"As contas selecionadas não foram encontradas no Bluesky.",
     pTimeout:"O Bluesky demorou demais para responder. Tente de novo; os perfis continuam acessíveis em bsky.app.", pBad:"O Bluesky enviou uma resposta inválida. Tente de novo; os perfis continuam acessíveis em bsky.app.",
     pReasonRate:"limite de consultas", pReasonTimeout:"sem resposta", pReasonBad:"resposta inválida", pReasonNet:"erro de rede",
-    pGone:"{n} contas indisponíveis (não encontradas na última checagem): {l}", pUnavailable:"conta não encontrada na última checagem",
+    pGone:"{n} contas indisponíveis (não encontradas na última checagem): {l}", pMoreErr:"Não foi possível carregar mais posts ({r}). Os posts já exibidos foram mantidos.", pUnavailable:"conta não encontrada na última checagem",
     qNone:"Nenhum resultado para “{t}” neste idioma.", qSome:"“{t}”: resultados em {n} seções (números no menu).", qScope:"Buscar no guia, nas atualizações e no pulso social carregado"
   };
   /*i18n-js-end*/
@@ -1727,6 +1727,7 @@ a:hover{text-decoration-color:var(--un)}
     var HIDE = ["porn", "sexual", "nudity", "graphic-media", "gore", "!hide", "!takedown"], WARN = ["!warn", "sexual-figurative", "nsfl"];
     var tabs = document.getElementById("pTabs"), sel = document.getElementById("pInst"), all = document.getElementById("pAll"), allWrap = document.getElementById("pAllWrap");
     var statusEl = document.getElementById("pStatus"), listEl = document.getElementById("pList"), more = document.getElementById("pMore"), retryBtn = document.getElementById("pRetry");
+    var moreErr = document.getElementById("pMoreErr"), moreRetry = document.getElementById("pMoreRetry");
     var CFG = null, TAB = "bluesky", started = false, hiddenN = 0;
     var cur = null;   // carregamento atual do Bluesky; respostas de carregamentos anteriores são descartadas
     var PANELS = {bluesky:"pPanelBluesky", x:"pPanelX", instagram:"pPanelInstagram", youtube:"pPanelYoutube"};
@@ -1860,7 +1861,7 @@ a:hover{text-decoration-color:var(--un)}
     }
     function page(s, run){
       if (run !== cur) { s.done = true; return Promise.resolve(); }
-      if (Date.now() < pauseUntil) { s.err = fail("rate", 429); s.done = true; return Promise.resolve(); }
+      if (Date.now() < pauseUntil) { stall(s, fail("rate", 429)); return Promise.resolve(); }
       if (run.budget <= 0) { s.done = true; return Promise.resolve(); }
       run.budget--;
       var u = s.list ? API + "app.bsky.feed.getListFeed?list=" + encodeURIComponent(s.list) + "&limit=30"
@@ -1869,13 +1870,17 @@ a:hover{text-decoration-color:var(--un)}
       return fetchJSON(u, run).then(function(j){
         if (run !== cur) return;
         var f = j.feed.filter(function(fv){ return fv && fv.post && typeof fv.post.uri === "string"; });
-        s.items = s.items.concat(f); s.cursor = typeof j.cursor === "string" ? j.cursor : null; s.done = !s.cursor || f.length === 0; s.err = null;
+        s.items = s.items.concat(f); s.cursor = typeof j.cursor === "string" ? j.cursor : null; s.done = !s.cursor || f.length === 0; s.err = null; s.pageErr = null;
       }, function(e){
         if (e.kind === "rate") pauseUntil = Date.now() + PAUSE_MS;
         if (run !== cur || e.kind === "aborted") return;
-        s.err = e; s.done = true;
+        stall(s, e);
       });
     }
+    // falha na primeira página = conta sem posts carregados (s.err); falha numa página seguinte = paginação
+    // interrompida (s.pageErr): os posts já carregados ficam e o mesmo cursor pode ser tentado de novo
+    function stall(s, e){ if (s.items.length) s.pageErr = e; else { s.err = e; s.done = true; } }
+    function idle(s){ return s.done || !!s.pageErr; }
     function pool(tasks, n){
       var i = 0;
       function next(){ if (i >= tasks.length) return Promise.resolve(); var t = tasks[i++]; return t().then(next, next); }
@@ -1900,9 +1905,9 @@ a:hover{text-decoration-color:var(--un)}
     function ensure(n, run, round){
       if (run !== cur) return Promise.resolve();
       var m = merged(run), b = boundary(run), safe = m.filter(function(x){ return x.t >= b; });
-      if (safe.length >= n || round >= 4 || run.streams.every(function(s){ return s.done; })) return Promise.resolve();
+      if (safe.length >= n || round >= 4 || run.streams.every(idle)) return Promise.resolve();
       var cut = m.length >= n ? m[n - 1].t : "";
-      var need = run.streams.filter(function(s){ return !s.done && (!s.items.length || key(s.items[s.items.length - 1]) >= cut); });
+      var need = run.streams.filter(function(s){ return !idle(s) && (!s.items.length || key(s.items[s.items.length - 1]) >= cut); });
       if (!need.length) return Promise.resolve();
       return pool(need.map(function(s){ return function(){ return page(s, run); }; }), MAX_PAR).then(function(){ return ensure(n, run, round + 1); });
     }
@@ -1930,8 +1935,11 @@ a:hover{text-decoration-color:var(--un)}
         if (errs.length) { msg += " · " + F(J.pPartial, {n:errs.length, l:errs.map(function(s){ return s.label + " (" + J[REASON[s.err.kind] || "pReasonNet"] + ")"; }).join(", ")}); canRetry = errs.some(function(s){ return s.err.kind !== "notfound" && s.err.kind !== "rate"; }); }
         if (run.gone.length) msg += " · " + F(J.pGone, {n:run.gone.length, l:run.gone.map(function(a){ return a.handle; }).join(", ")});
       }
-      more.hidden = !ok || !(safe.length > run.shownN || (run.budget > 0 && Date.now() >= pauseUntil && run.streams.some(function(s){ return !s.done; })));
-      more.disabled = false;
+      var perr = ok ? run.streams.filter(function(s){ return s.pageErr; }) : [];
+      moreErr.hidden = !perr.length; moreRetry.hidden = !perr.length;
+      if (perr.length) moreErr.textContent = F(J.pMoreErr, {r:perr.map(function(s){ return J[REASON[s.pageErr.kind] || "pReasonNet"]; }).filter(function(x, i, a){ return a.indexOf(x) === i; }).join(", ")});
+      more.hidden = !ok || !!perr.length || !(safe.length > run.shownN || (run.budget > 0 && Date.now() >= pauseUntil && run.streams.some(function(s){ return !s.done; })));
+      more.disabled = !!run.moreBusy; moreRetry.disabled = !!run.moreBusy;
       statusEl.textContent = msg;
       retryBtn.hidden = !canRetry || Date.now() < pauseUntil;
       research();
@@ -1942,17 +1950,25 @@ a:hover{text-decoration-color:var(--un)}
         return '<div class="pc"><h4>' + esc(a.institution) + idBadge(a) + '</h4><div class="h">@' + esc(a.handle) + (a.health === "not_found" ? ' · ' + esc(J.pUnavailable) : '') + '</div><div class="links"><a href="https://bsky.app/profile/' + encodeURIComponent(a.handle) + '" target="_blank" rel="noopener">' + esc(J.pOpen) + '</a></div></div>';
       }).join("") + '</div>';
     }
+    function showPaused(run){ statusEl.className = "p-status err"; statusEl.textContent = J.pPaused; listEl.innerHTML = fallback(run); }
+    // troca de idioma: redesenha o que já foi carregado (primeira carga concluída), sem novos pedidos
+    function relabel(){
+      if (!cur) return;
+      if (cur.ready) draw(cur);
+      else if (cur.paused) showPaused(cur);
+      else { statusEl.className = "p-status"; statusEl.textContent = F(J.pLoading, {n:cur.streams.length}); }
+    }
     function load(force){
       if (!CFG) return;
       if (cur) cur.ctls.forEach(function(c){ try { c.abort(); } catch (e) {} });
       var run = cur = selection();
       var rb = document.getElementById("pRefresh");
       if (!force) { rb.disabled = true; clearTimeout(cooldownT); cooldownT = setTimeout(function(){ rb.disabled = false; }, COOLDOWN_MS); }
-      retryBtn.hidden = true; more.hidden = true;
-      if (!run.streams.length) { draw(run); return; }
-      if (Date.now() < pauseUntil) { statusEl.className = "p-status err"; statusEl.textContent = J.pPaused; listEl.innerHTML = fallback(run); return; }
+      retryBtn.hidden = true; more.hidden = true; moreErr.hidden = true; moreRetry.hidden = true;
+      if (!run.streams.length) { run.ready = true; draw(run); return; }
+      if (Date.now() < pauseUntil) { run.paused = true; showPaused(run); return; }
       listEl.innerHTML = ""; statusEl.className = "p-status"; statusEl.textContent = F(J.pLoading, {n:run.streams.length});
-      ensure(run.shownN, run, 0).then(function(){ draw(run); });
+      ensure(run.shownN, run, 0).then(function(){ run.ready = true; draw(run); });
     }
     listEl.addEventListener("error", function(e){
       var im = e.target; if (!im || im.tagName !== "IMG") return;
@@ -1962,11 +1978,17 @@ a:hover{text-decoration-color:var(--un)}
       a.textContent = im.getAttribute("data-video") ? "▶ " + J.pVideo : J.pMediaFail;
       if (box && box.querySelectorAll("img").length <= 1) box.replaceWith(a); else (im.closest("a") || im).replaceWith(a);
     }, true);
-    more.addEventListener("click", function(){
+    function loadMore(retry){
       var run = cur; if (!run || run.moreBusy) return;
-      run.moreBusy = true; more.disabled = true; run.shownN += 15;
-      ensure(run.shownN, run, 0).then(function(){ run.moreBusy = false; draw(run); });
-    });
+      run.moreBusy = true; more.disabled = true; moreRetry.disabled = true;
+      if (retry) run.streams.forEach(function(s){ s.pageErr = null; });   // mesmo cursor, mesmo total pedido
+      else run.target = run.shownN + 15;
+      var before = run.shownN; run.shownN = run.target;
+      // se a página não chegou, a lista fica exatamente como estava
+      ensure(run.shownN, run, 0).then(function(){ run.moreBusy = false; if (run.streams.some(function(s){ return s.pageErr; })) run.shownN = before; draw(run); });
+    }
+    more.addEventListener("click", function(){ loadMore(false); });
+    moreRetry.addEventListener("click", function(){ loadMore(true); });
     retryBtn.addEventListener("click", function(){ load(true); });
     // ---- X, Instagram, YouTube: cartões primeiro; scripts das plataformas só a pedido
     var MON = [];
@@ -2081,7 +2103,7 @@ a:hover{text-decoration-color:var(--un)}
     sel.addEventListener("change", function(){ clearX(); cards(); if (TAB === "bluesky") load(true); else cur = null; });
     all.addEventListener("change", function(){ store.pulseAll = all.checked; save(); if (TAB === "bluesky") load(true); else cur = null; });
     document.getElementById("pRefresh").addEventListener("click", function(){ load(false); });
-    onLang.push(function(){ if (!CFG) return; fill(); cards(); if (cur && cur.streams.every(function(s){ return s.done; })) draw(cur); });
+    onLang.push(function(){ if (!CFG) return; fill(); cards(); relabel(); });
     function start(){
       if (started) return; started = true;
       statusEl.textContent = J.pCfg;
