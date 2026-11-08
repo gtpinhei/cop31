@@ -1716,23 +1716,34 @@ a:hover{text-decoration-color:var(--un)}
     function when(iso){ var d = new Date(iso); if (isNaN(d.getTime())) return ""; var m = Math.round((Date.now() - d.getTime()) / 60000); if (m < 1) return J.agoNow; if (m < 60) return F(J.agoMin, {n:m}); if (m < 1440) return F(J.agoH, {n:Math.round(m / 60)}); return d.getDate() + " " + J.mon[d.getMonth()]; }
     function safeUrl(u){ return /^https?:\/\//i.test(u || "") ? u : ""; }
     // rich text: facets use UTF-8 byte offsets
+    // byte offset (UTF-8) -> string index, without relying on TextEncoder
+    function byteMap(t){
+      var map = [0], b = 0;
+      for (var i = 0; i < t.length; i++) {
+        var c = t.charCodeAt(i), n = c < 0x80 ? 1 : c < 0x800 ? 2 : (c >= 0xD800 && c <= 0xDBFF) ? 4 : (c >= 0xDC00 && c <= 0xDFFF) ? 0 : 3;
+        for (var k = 0; k < n; k++) map[b + k + 1] = i + ((c >= 0xD800 && c <= 0xDBFF) ? 2 : 1);
+        b += n;
+      }
+      map.length = b + 1; return map;
+    }
     function rich(text, facets){
       text = text || "";
-      if (!facets || !facets.length || typeof TextEncoder === "undefined") return linkify(esc(text));
-      var enc = new TextEncoder(), dec = new TextDecoder(), b = enc.encode(text), out = "", pos = 0;
-      facets.slice().filter(function(f){ return f && f.index && f.index.byteStart >= 0 && f.index.byteEnd <= b.length && f.index.byteEnd > f.index.byteStart; })
+      if (!facets || !facets.length) return linkify(esc(text));
+      var map = byteMap(text), nb = map.length - 1, out = "", pos = 0;
+      facets.slice().filter(function(f){ return f && f.index && f.index.byteStart >= 0 && f.index.byteEnd <= nb && f.index.byteEnd > f.index.byteStart && map[f.index.byteStart] != null && map[f.index.byteEnd] != null; })
         .sort(function(x, y){ return x.index.byteStart - y.index.byteStart; })
         .forEach(function(f){
-          if (f.index.byteStart < pos) return;
-          out += esc(dec.decode(b.slice(pos, f.index.byteStart)));
-          var seg = esc(dec.decode(b.slice(f.index.byteStart, f.index.byteEnd))), ft = (f.features || [])[0] || {}, href = "";
+          var a = map[f.index.byteStart], z = map[f.index.byteEnd];
+          if (a < pos) return;
+          out += esc(text.slice(pos, a));
+          var seg = esc(text.slice(a, z)), ft = (f.features || [])[0] || {}, href = "";
           if (/#link$/.test(ft.$type || "")) href = safeUrl(ft.uri);
           else if (/#mention$/.test(ft.$type || "") && ft.did) href = "https://bsky.app/profile/" + encodeURIComponent(ft.did);
           else if (/#tag$/.test(ft.$type || "") && ft.tag) href = "https://bsky.app/hashtag/" + encodeURIComponent(ft.tag);
           out += href ? '<a href="' + esc(href) + '" target="_blank" rel="noopener nofollow">' + seg + '</a>' : seg;
-          pos = f.index.byteEnd;
+          pos = z;
         });
-      return out + esc(dec.decode(b.slice(pos)));
+      return out + esc(text.slice(pos));
     }
     function linkify(h){ return h.replace(/https?:\/\/[^\s<]+/g, function(u){ return '<a href="' + u + '" target="_blank" rel="noopener nofollow">' + u + '</a>'; }); }
     function postUrl(post){ var m = /^at:\/\/([^\/]+)\/app\.bsky\.feed\.post\/([^\/]+)$/.exec(post && post.uri || ""); return m ? "https://bsky.app/profile/" + encodeURIComponent((post.author && post.author.handle) || m[1]) + "/post/" + encodeURIComponent(m[2]) : ""; }

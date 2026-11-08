@@ -85,6 +85,8 @@ const txt = (d, s) => (d.querySelector(s)?.textContent || "").trim();
   assert(enb && /IISD \/ ENB/.test(enb.textContent), "institution taken from the post author, not the reposter");
   assert(enb && enb.querySelector('a[href="https://bsky.app/profile/enb.iisd.org/post/3mzopsjeufk2o"]'), "canonical post URL built from at:// uri");
   assert(enb && enb.querySelector('a[href^="https://bsky.app/hashtag/Ozone"]') && enb.querySelector('a[href^="https://enb.iisd.org/montreal"]'), "facets: hashtag and link resolved by UTF-8 byte offsets");
+  const anchors = enb ? [...enb.querySelectorAll(".bp-text a")].map(x => x.textContent) : [];
+  assert(anchors.join("|") === "#Ozone|#MOP38|@unepozone.bsky.social|enb.iisd.org/montreal-pro...", "facet spans exact after multibyte emoji: " + anchors.join("|"));
   assert(enb && enb.querySelector(".bp-imgs img[loading=lazy]"), "images lazy-loaded");
   assert(posts.some(p => p.textContent.includes("post citado indisponível")), "unavailable quoted post handled");
   assert(posts.some(p => p.querySelector(".bp-card") && p.textContent.includes("link card")), "external link card");
