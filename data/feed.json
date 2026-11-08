@@ -34,6 +34,32 @@
  ],
  "items": [
   {
+   "id": "x-UNFCCC-20261108-stiell-explica-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "12:28",
+   "text": "No single COP can stop climate change overnight. But every recent COP has made essential progress. Listen to UN Climate Change Executive Secretary @simonstiell explain what #COP31 is all about.",
+   "summary": "A UNFCCC publica vídeo em que Simon Stiell explica do que trata a COP31: nenhuma COP resolve a crise do clima de uma vez, mas todas as recentes trouxeram avanços essenciais.",
+   "summary_i18n": {
+    "en": "UNFCCC posts a video in which Simon Stiell explains what COP31 is about: no single COP can stop climate change overnight, but every recent COP has made essential progress.",
+    "es": "La CMNUCC publica un video en el que Simon Stiell explica de qué trata la COP31: ninguna COP puede detener el cambio climático de la noche a la mañana, pero todas las recientes han logrado avances esenciales.",
+    "fr": "La CCNUCC publie une vidéo où Simon Stiell explique l'enjeu de la COP31 : aucune COP ne peut arrêter le changement climatique du jour au lendemain, mais chaque COP récente a réalisé des progrès essentiels.",
+    "ru": "РКИК ООН публикует видео, в котором Саймон Стелл объясняет, о чём КС-31: ни одна КС не может остановить изменение климата за одну ночь, но каждая из последних КС добилась важного прогресса.",
+    "zh": "《联合国气候变化框架公约》发布视频，Simon Stiell 阐释第31届缔约方大会的意义：没有哪一届缔约方大会能一夜之间遏制气候变化，但近几届大会都取得了重要进展。",
+    "ar": "تنشر اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ مقطع فيديو يشرح فيه Simon Stiell مغزى مؤتمر الأطراف الحادي والثلاثين: لا يستطيع أي مؤتمر للأطراف وقف تغير المناخ بين عشية وضحاها، لكن كل مؤتمر حديث حقق تقدمًا أساسيًا."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T13:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "350org-2026-11-08-cop31-starts",
    "institution": "350.org",
    "type": "release",
@@ -2462,11 +2488,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T12:45:00-03:00",
-  "label": "8 nov 2026, 12:45 (Brasília)",
-  "accounts_checked": 6,
+  "timestamp": "2026-11-08T13:50:00-03:00",
+  "label": "8 nov 2026, 13:50 (Brasília)",
+  "accounts_checked": 8,
   "blocked": 0,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
