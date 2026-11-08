@@ -1,0 +1,5 @@
+{
+ "error": "RateLimitExceeded",
+ "message": "Rate Limit Exceeded",
+ "_fixture": "SYNTHETIC: minimal test response. Never loaded by the site."
+}

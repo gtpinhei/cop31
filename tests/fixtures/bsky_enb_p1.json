@@ -1,0 +1,99 @@
+{
+ "feed": [
+  {
+   "post": {
+    "uri": "at://did:plc:sy46sp7hq6g5rtgagijggqeg/app.bsky.feed.post/3mzopsjeufk2o",
+    "cid": "bafyreiap566pwiisye3vbk6te4h32suxrjdx7w56rspgglhoei636njx6q",
+    "author": {
+     "did": "did:plc:sy46sp7hq6g5rtgagijggqeg",
+     "handle": "enb.iisd.org",
+     "displayName": "Earth Negotiations Bulletin",
+     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreicalvep2xpfo3s6rcn5pxekep33lle4pu2ngemhnceo2zppzr6qz4",
+     "labels": [],
+     "createdAt": "2024-02-09T13:34:21.817Z"
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-07T01:13:49.635Z",
+     "facets": [
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#tag",
+         "tag": "Ozone"
+        }
+       ],
+       "index": {
+        "byteEnd": 6,
+        "byteStart": 0
+       }
+      },
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#tag",
+         "tag": "MOP38"
+        }
+       ],
+       "index": {
+        "byteEnd": 13,
+        "byteStart": 7
+       }
+      },
+      {
+       "$type": "app.bsky.richtext.facet",
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#mention",
+         "did": "did:plc:biqgs2qsh7iggcqmnzhclbjt"
+        }
+       ],
+       "index": {
+        "byteEnd": 210,
+        "byteStart": 188
+       }
+      },
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#link",
+         "uri": "https://enb.iisd.org/montreal-protocol-meeting-parties-ozone-mop38-6nov2026?utm_source=bluesky&utm_medium=social&utm_campaign=mop38_2026"
+        }
+       ],
+       "index": {
+        "byteEnd": 248,
+        "byteStart": 220
+       }
+      }
+     ],
+     "langs": [
+      "es"
+     ],
+     "text": "#Ozone #MOP38 In the early morning hours, Parties ended up adopting a USD 695 million replenishment of the Multilateral Fund for the Implementation of the Montreal Protocol for 2027-2029. @unepozone.bsky.social \n\n➡️ enb.iisd.org/montreal-pro..."
+    },
+    "embed": {
+     "images": [
+      {
+       "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreiba4qiyehca4t63qxpk2d73zbrw66hjpa3xyx73sw7t4butpnotiy",
+       "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreiba4qiyehca4t63qxpk2d73zbrw66hjpa3xyx73sw7t4butpnotiy",
+       "alt": "",
+       "aspectRatio": {
+        "height": 1333,
+        "width": 2000
+       }
+      }
+     ],
+     "$type": "app.bsky.embed.images#view"
+    },
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "indexedAt": "2026-11-07T01:13:54.084Z",
+    "labels": []
+   }
+  }
+ ],
+ "cursor": "2026-11-07T01:13:49.635Z",
+ "_fixture": "AUTHENTIC: public response captured from public.api.bsky.app (getAuthorFeed, enb.iisd.org) on 8 Nov 2026 via the monitoring tool. Test data only; never loaded by the site."
+}

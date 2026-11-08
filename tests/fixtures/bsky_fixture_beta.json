@@ -1,0 +1,105 @@
+{
+ "_fixture": "SYNTHETIC: invented test data for fictional accounts on the reserved .test domain. Not real content; never loaded by the site.",
+ "feed": [
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-beta/app.bsky.feed.post/fb001",
+    "cid": "bafyfixturefb001",
+    "author": {
+     "did": "did:plc:fixture-beta",
+     "handle": "fixture-beta.test",
+     "displayName": "Fixture beta (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T10:30:00.000Z",
+     "text": "[TEST FIXTURE] beta newest post"
+    },
+    "indexedAt": "2026-11-08T10:30:00.000Z",
+    "labels": []
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-outsider/app.bsky.feed.post/fo001",
+    "cid": "bafyfixturefo001",
+    "author": {
+     "did": "did:plc:fixture-outsider",
+     "handle": "outsider.fixture.test",
+     "displayName": "Outsider (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T10:00:00.000Z",
+     "text": "[TEST FIXTURE] post by an account outside the watchlist"
+    },
+    "indexedAt": "2026-11-08T10:00:00.000Z",
+    "labels": []
+   },
+   "reason": {
+    "$type": "app.bsky.feed.defs#reasonRepost",
+    "by": {
+     "did": "did:plc:fixture-beta",
+     "handle": "fixture-beta.test",
+     "displayName": "Fixture beta (test)"
+    },
+    "indexedAt": "2026-11-08T10:10:00.000Z"
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-beta/app.bsky.feed.post/fb002",
+    "cid": "bafyfixturefb002",
+    "author": {
+     "did": "did:plc:fixture-beta",
+     "handle": "fixture-beta.test",
+     "displayName": "Fixture beta (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T09:30:00.000Z",
+     "text": "[TEST FIXTURE] beta quoting an outsider"
+    },
+    "indexedAt": "2026-11-08T09:30:00.000Z",
+    "labels": [],
+    "embed": {
+     "$type": "app.bsky.embed.record#view",
+     "record": {
+      "$type": "app.bsky.embed.record#viewRecord",
+      "uri": "at://did:plc:fixture-outsider/app.bsky.feed.post/fo002",
+      "author": {
+       "did": "did:plc:fixture-outsider",
+       "handle": "outsider.fixture.test",
+       "displayName": "Outsider (test)"
+      },
+      "value": {
+       "text": "[TEST FIXTURE] quoted outsider text"
+      }
+     }
+    }
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-beta/app.bsky.feed.post/fb003",
+    "cid": "bafyfixturefb003",
+    "author": {
+     "did": "did:plc:fixture-beta",
+     "handle": "fixture-beta.test",
+     "displayName": "Fixture beta (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2025-12-05T12:00:00.000Z",
+     "text": "[TEST FIXTURE] beta post from last year"
+    },
+    "indexedAt": "2025-12-05T12:00:00.000Z",
+    "labels": []
+   }
+  }
+ ]
+}
