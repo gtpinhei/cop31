@@ -34,6 +34,32 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261108-worth-world-iztuzu",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "06:50",
+   "text": "Worth The World | Iztuzu\n\n“This world does not belong to us; we have borrowed it from future generations. And together, we shall keep the future alive.”\n\nFrom the millions-of-years-old, quiet journey of the loggerhead turtles to the devoted vigils lasting until dawn on the…",
+   "summary": "A presidência da COP31 lança a série \"Worth The World\" com Iztuzu, praia de nidificação das tartarugas-comuns, e a mensagem de que o mundo foi emprestado às futuras gerações.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency launches the \"Worth The World\" series with Iztuzu, a nesting beach for loggerhead turtles, and the message that the world is borrowed from future generations.",
+    "es": "La Presidencia de la COP31 lanza la serie \"Worth The World\" con Iztuzu, playa de anidación de tortugas bobas, y el mensaje de que el mundo se ha tomado prestado de las generaciones futuras.",
+    "fr": "La présidence de la COP31 lance la série « Worth The World » avec Iztuzu, plage de nidification des tortues caouannes, et le message que le monde est emprunté aux générations futures.",
+    "ru": "Председательство COP31 запускает серию «Worth The World» об Изтузу, пляже гнездования логгерхедов, с посылом о том, что мир взят в долг у будущих поколений.",
+    "zh": "COP31主席团推出“Worth The World”系列，以海龟筑巢地伊兹图祖海滩为主题，传达“世界是向子孙后代借来的”这一信息。",
+    "ar": "تطلق رئاسة COP31 سلسلة \"Worth The World\" عن شاطئ إيزتوزو لتعشيش السلاحف الضخمة الرأس، برسالة مفادها أن العالم مستعار من الأجيال القادمة."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T07:46:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-murat_kurum-20261108-voluntarios",
    "kind": "post",
    "platform": "x",
@@ -1955,11 +1981,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T06:50:00-03:00",
-  "label": "8 nov 2026, 06:50 (Brasília)",
-  "accounts_checked": 12,
+  "timestamp": "2026-11-08T07:46:00-03:00",
+  "label": "8 nov 2026, 07:46 (Brasília)",
+  "accounts_checked": 4,
   "blocked": 0,
-  "new_items": 2,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
