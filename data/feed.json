@@ -34,6 +34,58 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261108-trilateral",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "10:12",
+   "text": "Ahead of the opening of #COP31, COP31 President-Designate Murat Kurum held a trilateral meeting with UNFCCC Executive Secretary Simon Stiell and Australian Minister for Climate Change and Energy Chris Bowen, alongside their respective delegations.",
+   "summary": "Na véspera da abertura, Kurum reuniu-se com Simon Stiell (UNFCCC) e Chris Bowen (Austrália) em encontro trilateral com as respectivas delegações.",
+   "summary_i18n": {
+    "en": "On the eve of the opening, Kurum held a trilateral meeting with Simon Stiell (UNFCCC) and Chris Bowen (Australia), together with their delegations.",
+    "es": "En vísperas de la apertura, Kurum celebró una reunión trilateral con Simon Stiell (CMNUCC) y Chris Bowen (Australia), junto con sus delegaciones.",
+    "fr": "À la veille de l'ouverture, Kurum a tenu une réunion trilatérale avec Simon Stiell (CCNUCC) et Chris Bowen (Australie), accompagnés de leurs délégations.",
+    "ru": "В преддверии открытия Курум провёл трёхстороннюю встречу с Саймоном Стеллом (РКИК ООН) и Крисом Боуэном (Австралия) в сопровождении делегаций.",
+    "zh": "开幕前夕，Kurum与Simon Stiell（《联合国气候变化框架公约》）和Chris Bowen（澳大利亚）及各自代表团举行了三方会晤。",
+    "ar": "عشية الافتتاح، عقد Kurum اجتماعًا ثلاثيًا مع Simon Stiell (اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ) وChris Bowen (أستراليا) بمشاركة وفديهما."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-murat_kurum-20261108-trilateral",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": null,
+   "text": "Yarın açılışını yapacağımız #COP31 öncesinde UNFCCC İcra Sekreteri Sayın Simon Stiell ve Avustralya İklim Değişikliği ve Enerji Bakanı Sayın Chris Bowen ve heyetler ile üçlü bir görüşme gerçekleştirdik.",
+   "summary": "Kurum, em turco: encontro trilateral com Stiell e Bowen e suas delegações na véspera da abertura da COP31, marcada para amanhã.",
+   "summary_i18n": {
+    "en": "Kurum, in Turkish: trilateral meeting with Stiell and Bowen and their delegations on the eve of the COP31 opening, set for tomorrow.",
+    "es": "Kurum, en turco: reunión trilateral con Stiell y Bowen y sus delegaciones en vísperas de la apertura de la COP31, prevista para mañana.",
+    "fr": "Kurum, en turc : réunion trilatérale avec Stiell et Bowen et leurs délégations à la veille de l'ouverture de la COP31, prévue demain.",
+    "ru": "Курум, на турецком языке: трёхсторонняя встреча со Стеллом и Боуэном и их делегациями накануне открытия КС-31, запланированного на завтра.",
+    "zh": "Kurum以土耳其语发布：在定于明天举行的COP31开幕前夕，与Stiell、Bowen及各自代表团举行了三方会晤。",
+    "ar": "Kurum، باللغة التركية: اجتماع ثلاثي مع Stiell وBowen ووفديهما عشية افتتاح COP31 المقرر غدًا."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "tr"
+  },
+  {
    "id": "bluesky-carbonbrief-20261108-bowen",
    "kind": "post",
    "platform": "bluesky",
@@ -110,6 +162,32 @@
    ],
    "first_seen": "2026-11-08T06:50:00-03:00",
    "lang": "tr"
+  },
+  {
+   "id": "x-MarinaSilva-20261107-cop-explica",
+   "kind": "post",
+   "platform": "x",
+   "account": "@MarinaSilva",
+   "institution": "Marina Silva",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": null,
+   "text": "Se você já ouviu a palavra COP e não sabia o que significava, esse vídeo é pra você!\n\nA COP é a Conferência das Partes, o maior encontro global sobre mudança do clima. Mais de 200 países se reúnem para decidir, juntos, o que vai ser feito para enfrentar os extremos climáticos.",
+   "summary": "Marina Silva publica vídeo explicativo sobre o que é a COP, a Conferência das Partes, em que mais de 200 países decidem como enfrentar os extremos climáticos.",
+   "summary_i18n": {
+    "en": "Marina Silva posts an explainer video on what the COP (Conference of the Parties) is, where more than 200 countries decide how to tackle climate extremes.",
+    "es": "Marina Silva publica un video explicativo sobre qué es la COP (Conferencia de las Partes), en la que más de 200 países deciden cómo enfrentar los extremos climáticos.",
+    "fr": "Marina Silva publie une vidéo explicative sur ce qu'est la COP (Conférence des Parties), où plus de 200 pays décident comment faire face aux extrêmes climatiques.",
+    "ru": "Марина Силва публикует видео о том, что такое КС (Конференция сторон), на которой более 200 стран решают, как противостоять климатическим экстремумам.",
+    "zh": "Marina Silva发布科普视频，介绍缔约方会议（COP）：200多个国家在会上共同决定如何应对极端气候。",
+    "ar": "تنشر Marina Silva فيديو توضيحيًا عن مؤتمر الأطراف (COP)، حيث تقرر أكثر من 200 دولة معًا كيفية مواجهة الظواهر المناخية المتطرفة."
+   },
+   "url": "https://x.com/MarinaSilva",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-08T11:50:00-03:00",
+   "lang": "pt"
   },
   {
    "id": "x-turkiyecop31-20261107-sentimento-recomeco",
@@ -2324,11 +2402,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T10:50:00-03:00",
-  "label": "8 nov 2026, 10:50 (Brasília)",
+  "timestamp": "2026-11-08T11:50:00-03:00",
+  "label": "8 nov 2026, 11:50 (Brasília)",
   "accounts_checked": 6,
   "blocked": 0,
-  "new_items": 6,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
