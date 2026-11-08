@@ -574,6 +574,34 @@
    }
   },
   {
+   "id": "x-AOSISChair-20261106-thibyan-corais",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-06",
+   "time": null,
+   "text": "For Thibyan from The Maldives, enjoying the coral reefs of his home are precious memories.\n\n𝐀𝐭 1.5°𝐂, 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐫𝐢𝐬𝐤𝐬 𝐥𝐨𝐬𝐢𝐧𝐠 70–90% 𝐨𝐟 𝐰𝐚𝐫𝐦-𝐰𝐚𝐭𝐞𝐫 𝐜𝐨𝐫𝐚𝐥 𝐫𝐞𝐞𝐟𝐬. 𝐀𝐭 2°𝐂, 𝐭𝐡𝐚𝐭 𝐫𝐢𝐬𝐞𝐬 𝐭𝐨 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 99%.\n\n#NotJustANumber",
+   "summary": "AOSIS destaca que a 1,5°C o mundo arrisca perder 70–90% dos recifes de coral de águas quentes, e mais de 99% a 2°C (campanha #NotJustANumber, voz das Maldivas).",
+   "summary_i18n": {
+    "en": "AOSIS highlights that at 1.5°C the world risks losing 70–90% of warm-water coral reefs, and more than 99% at 2°C (#NotJustANumber campaign, voice from the Maldives).",
+    "es": "AOSIS destaca que a 1,5°C el mundo corre el riesgo de perder entre el 70 % y el 90 % de los arrecifes de coral de aguas cálidas, y más del 99 % a 2°C (campaña #NotJustANumber, voz de Maldivas).",
+    "fr": "L'AOSIS souligne qu'à 1,5°C le monde risque de perdre 70 à 90 % des récifs coralliens d'eaux chaudes, et plus de 99 % à 2°C (campagne #NotJustANumber, voix des Maldives).",
+    "ru": "АОСИС подчёркивает, что при 1,5°C мир рискует потерять 70–90 % коралловых рифов тёплых вод, а при 2°C — более 99 % (кампания #NotJustANumber, голос Мальдив).",
+    "zh": "小岛屿国家联盟（AOSIS）强调，升温1.5°C时全球可能失去70–90%的暖水珊瑚礁，升温2°C时则超过99%（#NotJustANumber行动，来自马尔代夫的声音）。",
+    "ar": "يؤكد تحالف الدول الجزرية الصغيرة (AOSIS) أنه عند 1.5 درجة مئوية يواجه العالم خطر فقدان 70–90% من الشعاب المرجانية في المياه الدافئة، وأكثر من 99% عند درجتين مئويتين (حملة #NotJustANumber، بصوت من ملديف)."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Adaptação",
+    "Mitigação e MWP",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-08T15:55:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "bluesky-ldcchairunfccc-20261106-varank",
    "kind": "post",
    "platform": "bluesky",
@@ -2488,11 +2516,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T14:43:00-03:00",
-  "label": "8 nov 2026, 14:43 (Brasília)",
+  "timestamp": "2026-11-08T15:55:00-03:00",
+  "label": "8 nov 2026, 15:55 (Brasília)",
   "accounts_checked": 7,
   "blocked": 0,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
