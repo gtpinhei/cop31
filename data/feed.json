@@ -34,6 +34,32 @@
  ],
  "items": [
   {
+   "id": "bluesky-ldcchairunfccc-20261108-pressconf",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "16:26",
+   "text": "📢 𝗣𝗥𝗘𝗦𝗦 𝗖𝗢𝗡𝗙𝗘𝗥𝗘𝗡𝗖𝗘 | 𝗟𝗗𝗖𝘀’ 𝗘𝗫𝗣𝗘𝗖𝗧𝗔𝗧𝗜𝗢𝗡𝗦 𝗙𝗥𝗢𝗠 𝗖𝗢𝗣𝟯𝟭\n\n📅 10 November 2026\n🕚 11:00–11:30 AM (UTC+3)\n📍 Press Conference Room 1, D3, Mevlana\n\nRegister now! Submit questions: media@ldc-climate.org\n\n#LDCs #COP31 #ClimateAction",
+   "summary": "O Grupo dos PMDs convoca coletiva de imprensa sobre suas expectativas para a COP31 em 10 de novembro, às 11h00–11h30 (UTC+3), na Sala de Imprensa 1, D3, Mevlana.",
+   "summary_i18n": {
+    "en": "The LDC Group announces a press conference on its expectations for COP31 on 10 November, 11:00–11:30 (UTC+3), Press Conference Room 1, D3, Mevlana.",
+    "es": "El Grupo de PMA anuncia una conferencia de prensa sobre sus expectativas para la COP31 el 10 de noviembre, de 11:00 a 11:30 (UTC+3), en la Sala de Prensa 1, D3, Mevlana.",
+    "fr": "Le Groupe des PMA annonce une conférence de presse sur ses attentes pour la COP31 le 10 novembre, de 11 h 00 à 11 h 30 (UTC+3), en salle de presse 1, D3, Mevlana.",
+    "ru": "Группа НРС объявляет пресс-конференцию об ожиданиях в отношении COP31 10 ноября, 11:00–11:30 (UTC+3), пресс-зал 1, D3, Mevlana.",
+    "zh": "最不发达国家集团宣布将于11月10日11:00–11:30（UTC+3）在Mevlana D3区1号新闻发布厅举行新闻发布会，介绍其对COP31的期待。",
+    "ar": "تعلن مجموعة أقل البلدان نموا عن مؤتمر صحفي بشأن توقعاتها من مؤتمر الأطراف الحادي والثلاثين في 10 نوفمبر، من 11:00 إلى 11:30 (بتوقيت UTC+3)، في قاعة المؤتمرات الصحفية 1، D3، مولانا."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzt5dadvs22k",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T16:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-UNFCCC-20261108-stiell-explica-cop31",
    "kind": "post",
    "platform": "x",
@@ -2516,9 +2542,9 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T15:55:00-03:00",
-  "label": "8 nov 2026, 15:55 (Brasília)",
-  "accounts_checked": 7,
+  "timestamp": "2026-11-08T16:50:00-03:00",
+  "label": "8 nov 2026, 16:50 (Brasília)",
+  "accounts_checked": 15,
   "blocked": 0,
   "new_items": 1,
   "cadence": "a cada hora",
