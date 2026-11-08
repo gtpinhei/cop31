@@ -112,6 +112,32 @@
    "lang": "tr"
   },
   {
+   "id": "x-turkiyecop31-20261107-sentimento-recomeco",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-07",
+   "time": "18:00",
+   "text": "Though we express it in different words, the disasters we face and the pain we feel are shared. Yet every end is the beginning of a new, stronger story.\n\nWe have so many reasons to start afresh. We are ready for the future of our world, and we begin.",
+   "summary": "A presidência da COP31 publica mensagem institucional sobre os desastres e a dor compartilhados e a disposição de recomeçar, em tom de abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency posts an institutional message on shared disasters and pain and the readiness to start afresh, setting the tone for the opening of the conference.",
+    "es": "La Presidencia de la COP31 publica un mensaje institucional sobre los desastres y el dolor compartidos y la disposición a empezar de nuevo, como tono de apertura de la conferencia.",
+    "fr": "La présidence de la COP31 publie un message institutionnel sur les catastrophes et la douleur partagées et sur la volonté de repartir à zéro, donnant le ton de l'ouverture de la conférence.",
+    "ru": "Президентство COP31 публикует институциональное сообщение об общих бедствиях и боли и о готовности начать заново, задавая тон открытию конференции.",
+    "zh": "COP31主席团发布机构信息，谈及共同面对的灾害与痛苦以及重新开始的决心，为大会开幕定下基调。",
+    "ar": "تنشر رئاسة مؤتمر الأطراف الحادي والثلاثين رسالة مؤسسية عن الكوارث والألم المشتركين والاستعداد للبدء من جديد، تمهيدًا لافتتاح المؤتمر."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-turkiyecop31-20261107-juventude-acao",
    "kind": "post",
    "platform": "x",
@@ -1152,6 +1178,58 @@
    }
   },
   {
+   "id": "x-fatmavarank-20261105-selwin-hart",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "18:50",
+   "text": "An online bilateral meeting was held with H.E. Selwin Hart, UNASG and Special Adviser to the Secretary-General on Climate Action.\n\nBM Genel Sekreter Yardımcısı ve Genel Sekreter’in İklim Eylemi Özel Danışmanı Sayın Selwin Hart ile çevrim içi ikili bir görüşme gerçekleştirdik.",
+   "summary": "Fatma Varank, CEO da COP31, realizou reunião bilateral online com Selwin Hart, assessor especial do Secretário-Geral da ONU para a Ação Climática.",
+   "summary_i18n": {
+    "en": "Fatma Varank, COP31 CEO, held an online bilateral meeting with Selwin Hart, Special Adviser to the UN Secretary-General on Climate Action.",
+    "es": "Fatma Varank, directora ejecutiva de la COP31, mantuvo una reunión bilateral en línea con Selwin Hart, Asesor Especial del Secretario General de la ONU sobre Acción Climática.",
+    "fr": "Fatma Varank, directrice générale de la COP31, a tenu une réunion bilatérale en ligne avec Selwin Hart, Conseiller spécial du Secrétaire général de l'ONU pour l'action climatique.",
+    "ru": "Фатма Варанк, генеральный директор COP31, провела онлайн-встречу один на один с Селвином Хартом, специальным советником Генерального секретаря ООН по климатическим действиям.",
+    "zh": "COP31首席执行官法特玛·瓦兰克（Fatma Varank）与联合国秘书长气候行动特别顾问塞尔温·哈特（Selwin Hart）举行了线上双边会晤。",
+    "ar": "عقدت فاطمة فارانك، الرئيسة التنفيذية لمؤتمر الأطراف الحادي والثلاثين، اجتماعًا ثنائيًا عبر الإنترنت مع سيلوين هارت، المستشار الخاص للأمين العام للأمم المتحدة للعمل المناخي."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "bluesky-drsimevans-20261105-text-tracker",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-05",
+   "time": "12:30",
+   "text": "COP31 TEXT TRACKER: We've just fired up the Carbon Brief text tracker, to help you stay on top of the latest draft documents at the negotiations in Antalya, Turkey\n\nwww.carbonbrief.org/...",
+   "summary": "Carbon Brief lança o rastreador de textos da COP31 para acompanhar os rascunhos de decisões nas negociações em Antalya.",
+   "summary_i18n": {
+    "en": "Carbon Brief launches its COP31 text tracker to follow the latest draft documents in the Antalya negotiations.",
+    "es": "Carbon Brief lanza su rastreador de textos de la COP31 para seguir los últimos borradores de documentos en las negociaciones de Antalya.",
+    "fr": "Carbon Brief lance son suivi des textes de la COP31 pour suivre les derniers projets de documents des négociations d'Antalya.",
+    "ru": "Carbon Brief запускает трекер текстов COP31 для отслеживания последних проектов документов на переговорах в Анталье.",
+    "zh": "Carbon Brief推出COP31文本追踪器，帮助跟踪安塔利亚谈判中的最新草案文件。",
+    "ar": "تطلق Carbon Brief أداة تتبع نصوص مؤتمر الأطراف الحادي والثلاثين لمتابعة أحدث مسودات الوثائق في مفاوضات أنطاليا."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3mzl6qgmizf2l",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-08T09:55:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "bluesky-ldcchairunfccc-20261105-prepmeeting",
    "kind": "post",
    "platform": "bluesky",
@@ -2087,11 +2165,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T08:50:00-03:00",
-  "label": "8 nov 2026, 08:50 (Brasília)",
-  "accounts_checked": 2,
+  "timestamp": "2026-11-08T09:55:00-03:00",
+  "label": "8 nov 2026, 09:55 (Brasília)",
+  "accounts_checked": 5,
   "blocked": 0,
-  "new_items": 4,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
