@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T06:30:00-03:00",
+ "generated_at": "2026-11-08T12:35:00-03:00",
  "round": {
-  "timestamp": "2026-11-08T06:30:00-03:00",
-  "label": "8 nov 2026, 06:30 (Brasília)",
-  "sites_checked": 22,
+  "timestamp": "2026-11-08T12:35:00-03:00",
+  "label": "8 nov 2026, 12:35 (Brasília)",
+  "sites_checked": 37,
   "blocked": 3,
-  "new_items": 4,
-  "fetches": "25 de 60",
+  "new_items": 2,
+  "fetches": "37 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Carbon Pulse (client_error)",
-   "UNEP",
-   "IEA"
+   "cop31.tr (erro do servidor)",
+   "IPCC (sem itens recentes)",
+   "We Mean Business (client_error)"
   ]
  },
  "tracks": [
@@ -33,6 +33,38 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "350org-2026-11-08-cop31-starts",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31: World cannot afford another decade of fossil fuel dependence as climate crisis deepens",
+   "date": "2026-11-08",
+   "authors": "Débora Gastal",
+   "url": "https://350.org/press-release/cop31-starts/",
+   "summary": "Na véspera da abertura, a 350.org pede que as presidências da Türkiye e da Austrália entreguem um caminho de eliminação dos fósseis com marcos temporais, responsabilização e financiamento, apoiando-se no impulso da COP30 e da conferência de Santa Marta (cerca de 80 países). Cita lucros de cerca de US$ 56 bi de cinco petroleiras até o fim do 3º trimestre de 2026. Quatro prioridades: transição crível, poluidor-pagador, renováveis e eletrificação, e finanças para transição justa. Toca as trilhas TAFF, transição justa e finanças.",
+   "summary_i18n": {
+    "en": "On the eve of the opening, 350.org urges the Turkish and Australian presidencies to deliver a fossil fuel phase-out pathway with time-bound milestones, accountability and finance, building on momentum from COP30 and the Santa Marta conference (about 80 countries). It cites about US$56 billion in combined profits for five oil majors by the end of Q3 2026. Four priorities: a credible transition, polluters paying, renewables and electrification, and finance for a just transition. It bears on the TAFF, just transition and finance tracks.",
+    "es": "En la víspera de la apertura, 350.org pide a las presidencias de Türkiye y Australia que presenten una hoja de ruta de eliminación de los combustibles fósiles con hitos temporales, rendición de cuentas y financiación, aprovechando el impulso de la COP30 y de la conferencia de Santa Marta (unos 80 países). Cita beneficios de unos 56.000 millones de dólares de cinco petroleras hasta finales del tercer trimestre de 2026. Cuatro prioridades: transición creíble, que pague el contaminador, renovables y electrificación, y financiación para una transición justa. Afecta a las vías TAFF, transición justa y finanzas.",
+    "fr": "À la veille de l'ouverture, 350.org demande aux présidences de la Türkiye et de l'Australie de présenter une trajectoire de sortie des combustibles fossiles assortie d'étapes datées, de redevabilité et de financement, en s'appuyant sur l'élan de la COP30 et de la conférence de Santa Marta (environ 80 pays). Elle cite environ 56 milliards de dollars de bénéfices cumulés pour cinq pétrolières à la fin du troisième trimestre 2026. Quatre priorités : une transition crédible, le principe pollueur-payeur, les renouvelables et l'électrification, et le financement d'une transition juste. Cela concerne les volets TAFF, transition juste et finance.",
+    "ru": "Накануне открытия 350.org призывает председательствующие стороны — Турцию и Австралию — предложить траекторию отказа от ископаемого топлива с временными вехами, подотчётностью и финансированием, опираясь на импульс КС-30 и конференции в Санта-Марте (около 80 стран). Организация приводит совокупную прибыль пяти нефтяных компаний около 56 млрд долларов США к концу третьего квартала 2026 года. Четыре приоритета: надёжный переход, принцип «загрязнитель платит», возобновляемые источники и электрификация, финансирование справедливого перехода. Затрагивает направления TAFF, справедливый переход и финансы.",
+    "zh": "在开幕前夕，350.org 呼吁土耳其和澳大利亚两个主席国提出一条有时间节点、问责机制和资金支持的化石燃料退出路径，并以COP30和圣玛尔塔会议（约80个国家支持）的势头为基础。文件援引五家石油公司截至2026年第三季度末约560亿美元的合计利润。四项优先事项：可信的转型、污染者付费、可再生能源与电气化、公正转型资金。涉及TAFF、公正转型和资金议题。",
+    "ar": "عشية الافتتاح، تحث 350.org رئاستَي تركيا وأستراليا على تقديم مسار للتخلص من الوقود الأحفوري بمراحل زمنية ومساءلة وتمويل، مستفيدةً من زخم مؤتمر الأطراف الثلاثين ومؤتمر سانتا مارتا (نحو 80 دولة). وتشير إلى أرباح مجمّعة لخمس شركات نفط بنحو 56 مليار دولار أمريكي حتى نهاية الربع الثالث من عام 2026. أربع أولويات: انتقال موثوق، ودفع الملوِّث، والطاقة المتجددة والكهربة، وتمويل الانتقال العادل. ويتصل ذلك بمسارات TAFF والانتقال العادل والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa",
+    "Finanças",
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Efe Baysal, 350.org — \"Türkiye has a unique opportunity to demonstrate what climate leadership looks like.\"",
+    "Rukiya Khamis, 350.org — \"We can't wait until COP32 in Ethiopia to fix what needs fixing now.\"",
+    "Fanny Petitbon, 350.org — \"COP31 must be where governments stop promising and start delivering.\""
+   ],
+   "first_seen": "2026-11-08T12:35:00-03:00",
+   "lang": "en"
+  },
   {
    "id": "x-turkiyecop31-20261108-trilateral",
    "kind": "post",
@@ -1256,6 +1288,34 @@
    }
   },
   {
+   "id": "iddri-2026-11-gst2-etaff-issue-brief",
+   "institution": "IDDRI",
+   "type": "briefing",
+   "title": "Transition away from fossil fuels: How the information gathering for the second Global Stocktake can facilitate its implementation",
+   "date": "2026-11-05",
+   "authors": "Hélène Van Rossum, Marta Torres Gunfaus, Julie Pouzol, Anna Pérez Català",
+   "url": "https://www.iddri.org/en/publications-and-events/issue-brief/transition-away-fossil-fuels-how-information-gathering-second",
+   "summary": "O issue brief propõe como os países podem reunir, na fase de coleta de informações do GST2 (que começa na COP31), dados sobre transições equitativas para longe dos fósseis. Organiza barreiras e facilitadores em seis dimensões (restrições técnicas, financiamento, dependência macrofiscal, aspectos socioeconômicos e emprego, governança, participação pública) e sugere usar o Mapa do Caminho global de TAFF da Presidência da COP30 como base. As informações podem vir de roteiros nacionais de transição ou estratégias de longo prazo. Trilhas: GST2 e TAFF. Data exata não informada (nov 2026; registrada como 5 nov).",
+   "summary_i18n": {
+    "en": "The issue brief proposes how countries can gather, during the GST2 information-collection phase (which begins at COP31), information on equitable transitions away from fossil fuels. It organises barriers and enablers across six dimensions (technical constraints, financing, macro-fiscal dependence, socio-economic aspects and employment, governance, public participation) and suggests using the COP30 Presidency Global TAFF Roadmap as a basis. Inputs can come from national transition roadmaps or long-term strategies. Tracks: GST2 and TAFF. Exact date not given (Nov 2026; recorded as 5 Nov).",
+    "es": "El issue brief propone cómo los países pueden reunir, en la fase de recopilación de información del GST2 (que comienza en la COP31), datos sobre transiciones equitativas para abandonar los combustibles fósiles. Organiza obstáculos y facilitadores en seis dimensiones (restricciones técnicas, financiación, dependencia macrofiscal, aspectos socioeconómicos y empleo, gobernanza, participación pública) y sugiere usar la Hoja de ruta global de TAFF de la Presidencia de la COP30 como base. Los insumos pueden proceder de hojas de ruta nacionales de transición o estrategias a largo plazo. Vías: GST2 y TAFF. Fecha exacta no indicada (nov. 2026; registrada como 5 nov.).",
+    "fr": "La note de synthèse propose aux pays une méthode pour réunir, lors de la phase de collecte d'informations du GST2 (qui débute à la COP31), des données sur les transitions équitables hors des combustibles fossiles. Elle organise obstacles et facteurs favorables en six dimensions (contraintes techniques, financement, dépendance macro-budgétaire, aspects socio-économiques et emploi, gouvernance, participation du public) et suggère de s'appuyer sur la feuille de route mondiale TAFF de la présidence de la COP30. Les contributions peuvent venir de feuilles de route nationales de transition ou de stratégies à long terme. Volets : GST2 et TAFF. Date exacte non indiquée (nov. 2026 ; enregistrée au 5 nov.).",
+    "ru": "В аналитической записке предлагается, как страны могут в ходе этапа сбора информации для GST2 (начинается на КС-31) собирать данные о справедливом отходе от ископаемого топлива. Препятствия и факторы содействия сгруппированы по шести измерениям (технические ограничения, финансирование, макрофискальная зависимость, социально-экономические аспекты и занятость, управление, участие общественности); в качестве основы предлагается использовать глобальную дорожную карту TAFF председательства КС-30. Материалы могут поступать из национальных дорожных карт перехода или долгосрочных стратегий. Направления: GST2 и TAFF. Точная дата не указана (ноябрь 2026 г.; записана как 5 ноября).",
+    "zh": "这份议题简报提出，各国可在COP31启动的GST2信息收集阶段，如何汇集有关公平转型、摆脱化石燃料的信息。简报将障碍与促进因素归为六个维度（技术限制、融资、宏观财政依赖、社会经济与就业、治理、公众参与），并建议以COP30主席国的全球TAFF路线图为基础。信息可来自国家转型路线图或长期战略。涉及议题：GST2和TAFF。确切日期未注明（2026年11月；记为11月5日）。",
+    "ar": "تقترح الموجز السياساتي كيف يمكن للبلدان جمع معلومات عن التحولات العادلة بعيداً عن الوقود الأحفوري خلال مرحلة جمع المعلومات للحصيلة العالمية الثانية (GST2) التي تبدأ في مؤتمر الأطراف الحادي والثلاثين. ويرتب العقبات والعوامل الميسِّرة في ست أبعاد (القيود التقنية، والتمويل، والاعتماد المالي الكلي، والجوانب الاجتماعية والاقتصادية والعمالة، والحوكمة، ومشاركة الجمهور)، ويقترح استخدام خارطة الطريق العالمية TAFF لرئاسة مؤتمر الأطراف الثلاثين أساساً. ويمكن أن تأتي المدخلات من خرائط طريق وطنية للانتقال أو استراتيجيات طويلة الأجل. المسارات: GST2 وTAFF. التاريخ الدقيق غير مذكور (نوفمبر 2026؛ سُجّل كـ 5 نوفمبر)."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "IDDRI — \"Framing information around barriers and enablers can provide a useful structure\"",
+    "IDDRI — \"The COP30 Presidency Global TAFF Roadmap provides a valuable basis for organizing this evidence\""
+   ],
+   "first_seen": "2026-11-08T12:35:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-UNFCCC-20261105-cop31-acao",
    "kind": "post",
    "platform": "x",
@@ -2402,11 +2462,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T11:50:00-03:00",
-  "label": "8 nov 2026, 11:50 (Brasília)",
+  "timestamp": "2026-11-08T12:45:00-03:00",
+  "label": "8 nov 2026, 12:45 (Brasília)",
   "accounts_checked": 6,
   "blocked": 0,
-  "new_items": 3,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
