@@ -1,0 +1,266 @@
+{
+ "_fixture": "SYNTHETIC: invented test data for a fictional account on the reserved .test domain. Not real content; never loaded by the site.",
+ "feed": [
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx001",
+    "cid": "bafyfixturefx001",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T09:00:00.000Z",
+     "text": "[TEST FIXTURE] escaping check <script>alert(1)</script> https://example.test/a"
+    },
+    "indexedAt": "2026-11-08T09:00:00.000Z",
+    "labels": [],
+    "embed": {
+     "$type": "app.bsky.embed.external#view",
+     "external": {
+      "uri": "https://example.test/a",
+      "title": "[TEST FIXTURE] link card",
+      "description": "Synthetic description"
+     }
+    }
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:sy46sp7hq6g5rtgagijggqeg/app.bsky.feed.post/3mzopsjeufk2o",
+    "cid": "bafyreiap566pwiisye3vbk6te4h32suxrjdx7w56rspgglhoei636njx6q",
+    "author": {
+     "did": "did:plc:sy46sp7hq6g5rtgagijggqeg",
+     "handle": "enb.iisd.org",
+     "displayName": "Earth Negotiations Bulletin",
+     "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreicalvep2xpfo3s6rcn5pxekep33lle4pu2ngemhnceo2zppzr6qz4",
+     "labels": [],
+     "createdAt": "2024-02-09T13:34:21.817Z"
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-07T01:13:49.635Z",
+     "facets": [
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#tag",
+         "tag": "Ozone"
+        }
+       ],
+       "index": {
+        "byteEnd": 6,
+        "byteStart": 0
+       }
+      },
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#tag",
+         "tag": "MOP38"
+        }
+       ],
+       "index": {
+        "byteEnd": 13,
+        "byteStart": 7
+       }
+      },
+      {
+       "$type": "app.bsky.richtext.facet",
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#mention",
+         "did": "did:plc:biqgs2qsh7iggcqmnzhclbjt"
+        }
+       ],
+       "index": {
+        "byteEnd": 210,
+        "byteStart": 188
+       }
+      },
+      {
+       "features": [
+        {
+         "$type": "app.bsky.richtext.facet#link",
+         "uri": "https://enb.iisd.org/montreal-protocol-meeting-parties-ozone-mop38-6nov2026?utm_source=bluesky&utm_medium=social&utm_campaign=mop38_2026"
+        }
+       ],
+       "index": {
+        "byteEnd": 248,
+        "byteStart": 220
+       }
+      }
+     ],
+     "langs": [
+      "es"
+     ],
+     "text": "#Ozone #MOP38 In the early morning hours, Parties ended up adopting a USD 695 million replenishment of the Multilateral Fund for the Implementation of the Montreal Protocol for 2027-2029. @unepozone.bsky.social \n\n➡️ enb.iisd.org/montreal-pro..."
+    },
+    "embed": {
+     "images": [
+      {
+       "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreiba4qiyehca4t63qxpk2d73zbrw66hjpa3xyx73sw7t4butpnotiy",
+       "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sy46sp7hq6g5rtgagijggqeg/bafkreiba4qiyehca4t63qxpk2d73zbrw66hjpa3xyx73sw7t4butpnotiy",
+       "alt": "",
+       "aspectRatio": {
+        "height": 1333,
+        "width": 2000
+       }
+      }
+     ],
+     "$type": "app.bsky.embed.images#view"
+    },
+    "replyCount": 0,
+    "repostCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "indexedAt": "2026-11-07T01:13:54.084Z",
+    "labels": []
+   },
+   "reason": {
+    "$type": "app.bsky.feed.defs#reasonRepost",
+    "by": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)"
+    },
+    "indexedAt": "2026-11-08T08:00:00.000Z"
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx002",
+    "cid": "bafyfixturefx002",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T07:00:00.000Z",
+     "text": "[TEST FIXTURE] quoting a deleted post"
+    },
+    "indexedAt": "2026-11-08T07:00:00.000Z",
+    "labels": [],
+    "embed": {
+     "$type": "app.bsky.embed.record#view",
+     "record": {
+      "$type": "app.bsky.embed.record#viewNotFound",
+      "uri": "at://did:plc:fixture-gone/app.bsky.feed.post/zz",
+      "notFound": true
+     }
+    }
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx003",
+    "cid": "bafyfixturefx003",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T06:00:00.000Z",
+     "text": "[TEST FIXTURE] hidden by label"
+    },
+    "indexedAt": "2026-11-08T06:00:00.000Z",
+    "labels": [
+     {
+      "val": "porn",
+      "src": "did:plc:fixture-moderation"
+     }
+    ]
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx004",
+    "cid": "bafyfixturefx004",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T05:00:00.000Z",
+     "text": "[TEST FIXTURE] warned post"
+    },
+    "indexedAt": "2026-11-08T05:00:00.000Z",
+    "labels": [
+     {
+      "val": "!warn",
+      "src": "did:plc:fixture-moderation"
+     }
+    ]
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx005",
+    "cid": "bafyfixturefx005",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T04:00:00.000Z",
+     "text": "[TEST FIXTURE] video without thumbnail"
+    },
+    "indexedAt": "2026-11-08T04:00:00.000Z",
+    "labels": [],
+    "embed": {
+     "$type": "app.bsky.embed.video#view",
+     "cid": "v",
+     "playlist": "https://video.example.test/x.m3u8"
+    }
+   }
+  },
+  {
+   "post": {
+    "uri": "at://did:plc:fixture-alpha/app.bsky.feed.post/fx006",
+    "cid": "bafyfixturefx006",
+    "author": {
+     "did": "did:plc:fixture-alpha",
+     "handle": "fixture-alpha.test",
+     "displayName": "Fixture account (test)",
+     "labels": []
+    },
+    "record": {
+     "$type": "app.bsky.feed.post",
+     "createdAt": "2026-11-08T03:00:00.000Z",
+     "text": "[TEST FIXTURE] image with thumbnail"
+    },
+    "indexedAt": "2026-11-08T03:00:00.000Z",
+    "labels": [],
+    "embed": {
+     "$type": "app.bsky.embed.images#view",
+     "images": [
+      {
+       "thumb": "https://cdn.example.test/t.jpg",
+       "fullsize": "https://cdn.example.test/f.jpg",
+       "alt": "",
+       "aspectRatio": {
+        "width": 4,
+        "height": 3
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
