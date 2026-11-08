@@ -217,7 +217,8 @@ const txt = (d, s) => (d.querySelector(s)?.textContent || "").trim();
   assert(b.d.getElementById("feedStatus").className.match(/ok|warn/) && b.d.querySelectorAll("#feedList .fi").length > 0, "retry recovers");
   const st = txt(b.d, "#feedStatusText");
   assert(/Coleta web:.*há/.test(st) && /Coleta redes:/.test(st) && /Página carregada às/.test(st), "status separates collection time from page load time");
-  assert(/bloqueadas nesta rodada: ODI/i.test(st), "blocked sources listed");
+  const bl = (feed.round && feed.round.blocked_sites) || [];
+  assert(bl.length ? st.includes(bl[0]) : !/Bloqueadas nesta rodada/.test(st), "blocked sources listed when the round reports any (" + (bl[0] || "none") + ")");
   const prof = [...b.d.querySelectorAll("#feedList .fi.post")].find(p => p.querySelector(".fi-plink"));
   assert(prof && /Ver perfil @/.test(prof.textContent) && !/Ver no X$/.test(prof.querySelector(".fi-link").textContent), "profile-only posts labelled, not presented as the post");
 }
