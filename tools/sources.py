@@ -656,6 +656,8 @@ def views(reg):
                             **({"channel_id": s.get("channel_id")} if s["platform"] == "youtube" else {}),
                             "priority": s["priority"], "cadence": s["collection"]["cadence"],
                             "verified": legacy_basis(s), "rights": s["rights"],
+                            **({"evidence_url": s["identity"]["evidence_url"]} if s["identity"].get("evidence_url") else {}),
+                            **({"checked_at": s["identity"]["checked_at"][:10]} if s["identity"].get("checked_at") and s["identity"].get("evidence_url") else {}),
                             **({"note": s["provenance"].get("note")} if s["provenance"].get("note") else {}), **due_view(s)}
                            for s in act if s["platform"] in SOCIAL],
               "manual_only": [{"id": s["id"], "institution": s["institution"], "platform": s["platform"], "urls": s.get("urls")}
