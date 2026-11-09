@@ -156,6 +156,25 @@ class Sources(unittest.TestCase):
         self.assertIn("do not edit", web["generated_from"])
         self.assertTrue((out / "report.md").exists())
 
+    def test_new_active_source_flagged_until_first_agent_run(self):
+        self.seed()
+        p, _ = self.batch("https://bsky.app/profile/wmo.int | category=multilateral | priority=B")
+        probes = self.tmp / "probes.json"
+        probes.write_text(json.dumps({"1": {"outcome": "success", "metadata": {}}}))
+        self.run_tool("apply", p, probes, "--by", "Editor")
+        out = self.tmp / "views"
+        self.run_tool("export", out)
+        acc = {a["id"]: a for a in json.loads((out / "social.json").read_text())["accounts"]}
+        self.assertTrue(acc["bsky-wmo-int"].get("first_collection_pending"))   # probe alone does not count
+        self.assertNotIn("first_collection_pending", acc["x-unfccc"])          # legacy source
+        st = self.tmp / "st.json"
+        st.write_text(json.dumps({"agent": "social", "run_at": "2026-11-09T12:00:00-03:00",
+                                  "results": [{"source_id": "bsky-wmo-int", "outcome": "success_empty"}]}))
+        self.run_tool("ingest", st)
+        self.run_tool("export", out)
+        acc = {a["id"]: a for a in json.loads((out / "social.json").read_text())["accounts"]}
+        self.assertNotIn("first_collection_pending", acc["bsky-wmo-int"])
+
     def test_unavailable_three_times_pauses(self):
         self.seed()
         for i in range(3):

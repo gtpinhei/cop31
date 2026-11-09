@@ -638,6 +638,13 @@ def legacy_basis(s):
 
 
 def due_view(s):
+    out = _due(s)
+    if s["status"] == "active" and not out["last_attempt"] and s["provenance"].get("origin") not in ("legacy-watchlist-social", "legacy-watchlist-web"):
+        out["first_collection_pending"] = True
+    return out
+
+
+def _due(s):
     h = s["health"]
     agent_runs = [x for x in h["history"] if x.get("agent") != "probe" and x.get("outcome") != "skipped"]
     last = agent_runs[-1] if agent_runs else {}
@@ -650,7 +657,8 @@ def views(reg):
     social = {"schema": 2, "generated_at": now(), "generated_from": "source registry (do not edit; propose changes in the status file)",
               "rules": {"cadence": "every_run = each run; daily = once a day (06:42 Brasília run or not read in 24 h); weekly = once a week",
                         "rights": "link_and_summary: summary, short quotes and link; link_only: summary of the public teaser and link, no quotes; never republish full content",
-                        "report": "report every configured source of this view in the status file: success, success_empty, blocked, unavailable, error or skipped (not due). Blocked or unavailable is never 'nothing new'."},
+                        "report": "report every configured source of this view in the status file: success, success_empty, blocked, unavailable, error or skipped (not due). Blocked or unavailable is never 'nothing new'.",
+                        "first_collection": "a source with first_collection_pending: true was activated recently and has never been read by an agent: read it in this run whatever its cadence, before any priority-B source"},
               "methods": METHOD, "notes": (reg.get("agent_notes") or {}).get("social"),
               "accounts": [{"id": s["id"], "institution": s["institution"], "platform": s["platform"], "handle": s["handle"],
                             **({"channel_id": s.get("channel_id")} if s["platform"] == "youtube" else {}),
