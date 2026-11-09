@@ -1,19 +1,17 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T00:15:00-03:00",
+ "generated_at": "2026-11-09T06:15:00-03:00",
  "round": {
-  "timestamp": "2026-11-09T00:15:00-03:00",
-  "label": "9 nov 2026, 00:15 (Brasília)",
-  "sites_checked": 29,
-  "blocked": 4,
+  "timestamp": "2026-11-09T06:15:00-03:00",
+  "label": "9 nov 2026, 06:15 (Brasília)",
+  "sites_checked": 22,
+  "blocked": 2,
   "new_items": 1,
-  "fetches": "31 de 60",
+  "fetches": "17 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "ENB/IISD (conteúdo vazio)",
-   "TWN (client_error)",
-   "Chatham House (sem listagem)",
-   "ODI/IPCC/Ember (sem datas ou desatualizado)"
+   "Climate Analytics (client_error)",
+   "TWN / Chatham House / CSE (sem listagem datada)"
   ]
  },
  "tracks": [
@@ -34,6 +32,302 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "x-turkiyecop31-20261109-kurum-assume",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "06:31",
+   "text": "Murat Kurum has officially assumed the Presidency of #COP31. @murat_kurum #COP31Türkiye #COP31Antalya",
+   "summary": "A Presidência da COP31 anuncia que Murat Kurum assumiu oficialmente a presidência da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency announces that Murat Kurum has officially assumed the presidency of the conference.",
+    "es": "La Presidencia de la COP31 anuncia que Murat Kurum ha asumido oficialmente la presidencia de la conferencia.",
+    "fr": "La présidence de la COP31 annonce que Murat Kurum a officiellement pris la présidence de la conférence.",
+    "ru": "Президентство КС-31 объявляет, что Мурат Курум официально вступил в должность Председателя конференции.",
+    "zh": "COP31主席团宣布,穆拉特·库鲁姆已正式就任大会主席。",
+    "ar": "تعلن رئاسة مؤتمر COP31 أن مراد كوروم تولى رسميًا رئاسة المؤتمر."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "instagram-aosis_chair-20261109-whipps-15",
+   "platform": "instagram",
+   "account": "@aosis_chair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "01:24",
+   "text": "As #COP31 officially commences today, message from H.E. President Whipps, Jr. of Palau, Chair of AOSIS: “1.5°C is not an abstract number. The science is settled. We ask for leadership. We ask you to choose integrity over convenience, and courage over delay. 1.5°C is the redline. It is the boundary between survival and loss and it is the promise we must keep for our children.” #Keep1Point5Alive",
+   "summary": "O presidente de Palau, Whipps Jr., na presidência da AOSIS, abre a COP31 pedindo liderança: 1,5 °C é a linha vermelha entre sobrevivência e perda. (data aproximada)",
+   "summary_i18n": {
+    "en": "The AOSIS Chair, President Whipps Jr. of Palau, opens COP31 calling for leadership: 1.5°C is the red line between survival and loss. (approximate date)",
+    "es": "El Presidente de Palau, Whipps Jr., que preside la AOSIS, inaugura la COP31 pidiendo liderazgo: 1,5 °C es la línea roja entre la supervivencia y la pérdida. (fecha aproximada)",
+    "fr": "Le président des Palaos, Whipps Jr., président de l'AOSIS, ouvre la COP31 en appelant au leadership : 1,5 °C est la ligne rouge entre survie et perte. (date approximative)",
+    "ru": "Президент Палау Уиппс-младший, возглавляющий АОСИС, открывает КС-31 призывом к лидерству: 1,5 °C — красная линия между выживанием и потерями. (дата приблизительная)",
+    "zh": "帕劳总统小惠普斯作为小岛屿国家联盟(AOSIS)主席,在COP31开幕之际呼吁发挥领导力:1.5°C是生存与损失之间的红线。(日期为大致日期)",
+    "ar": "يفتتح رئيس بالاو ويبس الابن، رئيس تحالف الدول الجزرية الصغيرة (AOSIS)، مؤتمر COP31 بدعوة إلى القيادة: 1.5 درجة مئوية هي الخط الأحمر بين البقاء والخسارة. (تاريخ تقريبي)"
+   },
+   "url": "https://www.instagram.com/p/Dfgd51HiEdJ/",
+   "tracks": [
+    "Mitigação e MWP",
+    "Perdas e danos"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "instagram-halklariniklimzirvesi-20261109-sociedade-civil",
+   "platform": "instagram",
+   "account": "@halklariniklimzirvesi",
+   "institution": "Halkların İklim Zirvesi (Cúpula dos Povos)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "02:53",
+   "text": "(Turkish) Civil society is promised a seat at the table, but on the ground there are detentions. COP31 Vision's first pillar promises to bring civil society and youth voices into negotiation rooms. In Cerattepe, Artvin, locals won the case and the EIA was cancelled; the company got a new EIA and machinery entered with gendarmerie. Without freedom of expression and assembly, climate diplomacy is a showcase. People's Climate Summit: 14–18 Nov, Antalya (hiz2026.org).",
+   "summary": "A Cúpula dos Povos critica a promessa de participação da sociedade civil na COP31 diante de detenções e do caso Cerattepe (Artvin), e lembra sua cúpula em Antalya de 14 a 18 nov. (data aproximada)",
+   "summary_i18n": {
+    "en": "The People's Climate Summit criticizes the COP31 promise of civil society participation in light of detentions and the Cerattepe (Artvin) case, and recalls its summit in Antalya on 14–18 Nov. (approximate date)",
+    "es": "La Cumbre Climática de los Pueblos critica la promesa de participación de la sociedad civil en la COP31 ante las detenciones y el caso de Cerattepe (Artvin), y recuerda su cumbre en Antalya del 14 al 18 de nov. (fecha aproximada)",
+    "fr": "Le Sommet climatique des peuples critique la promesse de participation de la société civile à la COP31 face aux arrestations et à l'affaire de Cerattepe (Artvin), et rappelle son sommet à Antalya du 14 au 18 nov. (date approximative)",
+    "ru": "Народный климатический саммит критикует обещание участия гражданского общества в КС-31 на фоне задержаний и дела Джерраттепе (Артвин) и напоминает о своём саммите в Анталье 14–18 нояб. (дата приблизительная)",
+    "zh": "人民气候峰会批评COP31关于公民社会参与的承诺,理由是出现拘留事件及阿特温省杰拉特佩(Cerattepe)案,并提醒其峰会将于11月14日至18日在安塔利亚举行。(日期为大致日期)",
+    "ar": "تنتقد قمة الشعوب للمناخ وعد مؤتمر COP31 بمشاركة المجتمع المدني في ظل الاعتقالات وقضية جيراتيبي (أرتفين)، وتذكّر بقمتها في أنطاليا من 14 إلى 18 نوفمبر. (تاريخ تقريبي)"
+   },
+   "url": "https://www.instagram.com/p/Dfgn_jQiCbq/",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261109-daily-briefing",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "06:43",
+   "text": "Daily Briefing:COP31 begins | Democrats' clean-energy 'push' | UK to 'cut EV targets'. Read today's briefing here (buff.ly/NSBHJbI). Sign up to our email briefings (buff.ly/TwwsRyc)",
+   "summary": "O Daily Briefing do Carbon Brief destaca o início da COP31, a ofensiva de energia limpa dos democratas e o corte de metas de veículos elétricos no Reino Unido.",
+   "summary_i18n": {
+    "en": "Carbon Brief's Daily Briefing highlights the start of COP31, the Democrats' clean-energy push and the UK's cut to EV targets.",
+    "es": "El Daily Briefing de Carbon Brief destaca el inicio de la COP31, el impulso de energía limpia de los demócratas y el recorte de los objetivos de vehículos eléctricos en el Reino Unido.",
+    "fr": "Le Daily Briefing de Carbon Brief met en avant l'ouverture de la COP31, l'offensive des démocrates sur l'énergie propre et la baisse des objectifs de véhicules électriques au Royaume-Uni.",
+    "ru": "Ежедневный обзор Carbon Brief: начало КС-31, продвижение чистой энергетики демократами и сокращение целевых показателей по электромобилям в Великобритании.",
+    "zh": "Carbon Brief每日简报重点关注:COP31开幕、民主党推动清洁能源,以及英国削减电动汽车目标。",
+    "ar": "تسلط النشرة اليومية لـ Carbon Brief الضوء على انطلاق COP31 ودفع الديمقراطيين نحو الطاقة النظيفة وخفض المملكة المتحدة لأهداف المركبات الكهربائية."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzun7vrfo32a",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261109-kurum-cultura",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "06:18",
+   "text": "At #COP31, COP President Murat Kurum urges Parties to ensure #COP31Türkiye produces more than a list of decisions but also a culture of working together and trusting one another. #UNFCCC",
+   "summary": "O ENB relata que o presidente da COP31, Murat Kurum, pediu às Partes que a conferência produza não só decisões, mas uma cultura de trabalho conjunto e confiança.",
+   "summary_i18n": {
+    "en": "ENB reports that COP31 President Murat Kurum urged Parties to ensure the conference produces not only decisions but also a culture of working together and mutual trust.",
+    "es": "El ENB informa de que el Presidente de la COP31, Murat Kurum, instó a las Partes a que la conferencia produzca no solo decisiones, sino también una cultura de trabajo conjunto y confianza mutua.",
+    "fr": "L'ENB rapporte que le président de la COP31, Murat Kurum, a exhorté les Parties à faire en sorte que la conférence produise non seulement des décisions, mais aussi une culture de travail collectif et de confiance mutuelle.",
+    "ru": "ENB сообщает, что Председатель КС-31 Мурат Курум призвал Стороны добиться того, чтобы конференция дала не только решения, но и культуру совместной работы и взаимного доверия.",
+    "zh": "《地球谈判通报》(ENB)报道,COP31主席穆拉特·库鲁姆呼吁各缔约方确保大会不仅产出决定,还要形成合作与相互信任的文化。",
+    "ar": "تفيد نشرة ENB بأن رئيس COP31 مراد كوروم حثّ الأطراف على أن يثمر المؤتمر لا قرارات فحسب بل ثقافة عمل مشترك وثقة متبادلة."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3mzulthp5cs2y",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261109-do-lago-abertura",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "06:01",
+   "text": "#COP31 opens on Monday, with #COP30 President André Corrêa do Lago reiterating the need for urgent action on #climatechange with people & science at the center; and drawing attention to the Presidency roadmaps on transitioning away from fossil fuels & halting deforestation. #UNFCCC #COP31Türkiye",
+   "summary": "O ENB registra a abertura da COP31, com o presidente da COP30, André Corrêa do Lago, defendendo ação urgente e destacando os mapas do caminho da Presidência sobre transição dos fósseis e desmatamento.",
+   "summary_i18n": {
+    "en": "ENB covers the opening of COP31, with COP30 President André Corrêa do Lago calling for urgent action and highlighting the Presidency roadmaps on transitioning away from fossil fuels and halting deforestation.",
+    "es": "El ENB cubre la apertura de la COP31, con el Presidente de la COP30, André Corrêa do Lago, pidiendo acción urgente y destacando las hojas de ruta de la Presidencia sobre la transición para dejar atrás los combustibles fósiles y detener la deforestación.",
+    "fr": "L'ENB couvre l'ouverture de la COP31, le président de la COP30, André Corrêa do Lago, appelant à une action urgente et soulignant les feuilles de route de la présidence sur la transition hors des combustibles fossiles et l'arrêt de la déforestation.",
+    "ru": "ENB освещает открытие КС-31: Председатель КС-30 Андре Корреа ду Лаго призвал к срочным действиям и выделил дорожные карты Президентства по отказу от ископаемого топлива и прекращению обезлесения.",
+    "zh": "ENB报道COP31开幕:COP30主席安德烈·科雷亚·杜·拉戈呼吁紧急行动,并强调主席团关于转型脱离化石燃料和遏制毁林的路线图。",
+    "ar": "تغطي ENB افتتاح COP31، حيث دعا رئيس COP30 أندريه كوريا دو لاغو إلى عمل عاجل وسلّط الضوء على خرائط طريق الرئاسة بشأن التحول بعيدًا عن الوقود الأحفوري ووقف إزالة الغابات."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3mzukuswhqk2p",
+   "tracks": [
+    "TAFF e fósseis",
+    "Florestas",
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-unep.org-20261109-cop31-overshoot",
+   "platform": "bluesky",
+   "account": "unep.org",
+   "institution": "UNEP",
+   "verified": false,
+   "date": "2026-11-09",
+   "time": "02:14",
+   "text": "#COP31 kicks off today in Antalya, Türkiye. With the world entering a period of temperature overshoot, every fraction of a degree matters. Climate science must guide action to reduce near-term warming and protect people. See UNEP's week one events: https://ow.ly/S4G05104STU",
+   "summary": "O PNUMA marca o início da COP31 alertando que, com o mundo em período de overshoot de temperatura, cada fração de grau importa e a ciência deve guiar a ação.",
+   "summary_i18n": {
+    "en": "UNEP marks the start of COP31, warning that with the world entering a period of temperature overshoot every fraction of a degree matters and science must guide action.",
+    "es": "El PNUMA señala el inicio de la COP31 y advierte de que, con el mundo entrando en un período de superación de la temperatura, cada fracción de grado importa y la ciencia debe guiar la acción.",
+    "fr": "Le PNUE marque l'ouverture de la COP31 en avertissant qu'avec le monde entrant dans une période de dépassement de température, chaque fraction de degré compte et la science doit guider l'action.",
+    "ru": "ЮНЕП отмечает начало КС-31, предупреждая: когда мир входит в период превышения температуры, важна каждая доля градуса, и действия должны опираться на науку.",
+    "zh": "联合国环境规划署(UNEP)在COP31开幕之际警告:全球进入温度超调期,每一分度都至关重要,行动必须以科学为指引。",
+    "ar": "يشير برنامج الأمم المتحدة للبيئة إلى انطلاق COP31 محذرًا من أنه مع دخول العالم فترة تجاوز حراري فإن كل جزء من الدرجة مهم ويجب أن يوجّه العلم العمل."
+   },
+   "url": "https://bsky.app/profile/unep.org/post/3mzu67cvnld2n",
+   "tracks": [
+    "Mitigação e MWP",
+    "GST2 e IPCC"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-audreygarric.bsky.social-20261109-omm-elnino",
+   "platform": "bluesky",
+   "account": "audreygarric.bsky.social",
+   "institution": "Audrey Garric (Le Monde)",
+   "verified": false,
+   "date": "2026-11-09",
+   "time": "05:44",
+   "text": "« Un El Niño hors norme entre en collision avec une planète déjà surchauffée » : l'année 2026 sera l'une des 4 plus chaudes jamais enregistrées. L'Organisation météorologique mondiale estime qu'il y a 80 % de chance pour qu'elle se classe au deuxième rang derrière 2024 (Le Monde, bulletin annuel OMM sur l'état du climat, publié à l'ouverture de la COP31)",
+   "summary": "Le Monde, via Audrey Garric: boletim anual da OMM, divulgado na abertura da COP31, indica 80% de chance de 2026 ser o segundo ano mais quente, atrás de 2024, com um El Niño excepcional.",
+   "summary_i18n": {
+    "en": "Le Monde, via Audrey Garric: the WMO annual climate bulletin, released at the opening of COP31, gives an 80% chance that 2026 will be the second-warmest year, behind 2024, with an exceptional El Niño.",
+    "es": "Le Monde, vía Audrey Garric: el boletín anual de la OMM, publicado en la apertura de la COP31, da un 80 % de probabilidad de que 2026 sea el segundo año más cálido, tras 2024, con un El Niño excepcional.",
+    "fr": "Le Monde, via Audrey Garric : le bulletin annuel de l'OMM, publié à l'ouverture de la COP31, donne 80 % de chances que 2026 soit la deuxième année la plus chaude, derrière 2024, avec un El Niño exceptionnel.",
+    "ru": "Le Monde, через Одри Гарик: ежегодный бюллетень ВМО, опубликованный при открытии КС-31, оценивает в 80 % вероятность того, что 2026 год станет вторым самым тёплым после 2024-го на фоне исключительного Эль-Ниньо.",
+    "zh": "《世界报》(通过奥德蕾·加里克):世界气象组织(WMO)在COP31开幕时发布的年度气候公报称,2026年有80%的可能成为仅次于2024年的第二热年份,伴随异常强的厄尔尼诺。",
+    "ar": "لوموند عبر أودري غاريك: النشرة المناخية السنوية للمنظمة العالمية للأرصاد الجوية (WMO)، الصادرة عند افتتاح COP31، ترجّح بنسبة 80% أن يكون 2026 ثاني أكثر الأعوام حرارة بعد 2024 مع ظاهرة إل نينيو استثنائية."
+   },
+   "url": "https://bsky.app/profile/audreygarric.bsky.social/post/3mzujwhra2s2w",
+   "tracks": [
+    "GST2 e IPCC",
+    "Adaptação"
+   ],
+   "lang": "fr",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "bluesky-audreygarric.bsky.social-20261109-cop31-desafios",
+   "platform": "bluesky",
+   "account": "audreygarric.bsky.social",
+   "institution": "Audrey Garric (Le Monde)",
+   "verified": false,
+   "date": "2026-11-09",
+   "time": "05:43",
+   "text": "La COP31, qui s'ouvre en Turquie, vise à remettre le climat en haut de l'agenda, dans un monde percuté par les crises. @pmouterde.bsky.social vous explique les principaux enjeux : le message politique, l'accélération de l'électrification ou encore le financement (Le Monde)",
+   "summary": "Le Monde explica os principais desafios da COP31: recolocar o clima no topo da agenda, a mensagem política, a aceleração da eletrificação e o financiamento.",
+   "summary_i18n": {
+    "en": "Le Monde explains the main stakes of COP31: putting climate back at the top of the agenda, the political message, accelerating electrification and finance.",
+    "es": "Le Monde explica los principales retos de la COP31: volver a situar el clima en lo más alto de la agenda, el mensaje político, la aceleración de la electrificación y la financiación.",
+    "fr": "Le Monde explique les principaux enjeux de la COP31 : remettre le climat en haut de l'agenda, le message politique, l'accélération de l'électrification et le financement.",
+    "ru": "Le Monde разъясняет главные ставки КС-31: возвращение климата на вершину повестки, политический сигнал, ускорение электрификации и финансирование.",
+    "zh": "《世界报》解读COP31的主要议题:让气候重回议程首位、政治信号、加速电气化与资金。",
+    "ar": "تشرح لوموند أبرز رهانات COP31: إعادة المناخ إلى رأس جدول الأعمال، والرسالة السياسية، وتسريع الكهربة، والتمويل."
+   },
+   "url": "https://bsky.app/profile/audreygarric.bsky.social/post/3mzujtofwyk2w",
+   "tracks": [
+    "Finanças",
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "lang": "fr",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-clean-power",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "06:14",
+   "text": "From Clean Power to an Electrified Economy",
+   "summary": "Side event gravado pela UNFCCC: \"From Clean Power to an Electrified Economy\", sobre eletrificação.",
+   "summary_i18n": {
+    "en": "UNFCCC recorded side event: \"From Clean Power to an Electrified Economy\", on electrification.",
+    "es": "Evento paralelo grabado por la CMNUCC: «From Clean Power to an Electrified Economy», sobre electrificación.",
+    "fr": "Événement parallèle enregistré par la CCNUCC : « From Clean Power to an Electrified Economy », sur l'électrification.",
+    "ru": "Запись параллельного мероприятия РКИК ООН «From Clean Power to an Electrified Economy» об электрификации.",
+    "zh": "UNFCCC边会录像:“From Clean Power to an Electrified Economy”,主题为电气化。",
+    "ar": "تسجيل فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC): «From Clean Power to an Electrified Economy» حول الكهربة."
+   },
+   "url": "https://www.youtube.com/watch?v=haopgI5u_so",
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-dfsa-drylands",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "03:27",
+   "text": "Scaling Country Solutions from Country-led Action to Scale through the DFSA. Thriving Drylands: Scaling Country Solutions at the Climate, Land and Biodiversity Interface from Country-led Action to Scale through the Dryland Forest Support Accelerator (DFSA)",
+   "summary": "Side event gravado pela UNFCCC sobre ampliação de soluções lideradas pelos países em terras secas, via Dryland Forest Support Accelerator (DFSA).",
+   "summary_i18n": {
+    "en": "UNFCCC recorded side event on scaling country-led solutions in drylands through the Dryland Forest Support Accelerator (DFSA).",
+    "es": "Evento paralelo grabado por la CMNUCC sobre la ampliación de soluciones lideradas por los países en tierras secas mediante el Dryland Forest Support Accelerator (DFSA).",
+    "fr": "Événement parallèle enregistré par la CCNUCC sur le passage à l'échelle de solutions menées par les pays dans les zones arides via le Dryland Forest Support Accelerator (DFSA).",
+    "ru": "Запись параллельного мероприятия РКИК ООН о масштабировании национальных решений в засушливых землях через Dryland Forest Support Accelerator (DFSA).",
+    "zh": "UNFCCC边会录像:通过旱地森林支持加速器(DFSA)扩大各国主导的旱地解决方案。",
+    "ar": "تسجيل فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول توسيع الحلول التي تقودها الدول في الأراضي الجافة عبر Dryland Forest Support Accelerator (DFSA)."
+   },
+   "url": "https://www.youtube.com/watch?v=a45ZQh7v4-g",
+   "tracks": [
+    "Florestas",
+    "Adaptação"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T06:55:00-03:00"
+  },
   {
    "id": "x-turkiyecop31-20261109-abertura-ao-vivo",
    "platform": "x",
@@ -2803,6 +3097,36 @@
    }
   },
   {
+   "id": "iisd-enb-2026-11-04-antalya-curtain-raiser",
+   "institution": "IISD / ENB",
+   "type": "explicador",
+   "title": "2026 UN Climate Change Conference – Antalya, Türkiye",
+   "date": "2026-11-04",
+   "authors": "Pamela Chasek",
+   "url": "https://enb.iisd.org/articles/2026-un-climate-change-conference-antalya-turkiye",
+   "summary": "O Earth Negotiations Bulletin publica o texto de abertura da COP31 em Antalya, que marca o início do segundo Balanço Global (GST2) e traz a parceria inédita entre Türkiye (Presidência e Agenda de Ação) e Austrália (Presidente de Negociações). Resume o contexto pós-Belém e lista os pontos a observar: continuidade do Programa de Trabalho de Mitigação (MWP), mecanismo de transição justa, programa de trabalho de finanças (Art. 9.1), triplicar o financiamento de adaptação até 2035, Fundo de Perdas e Danos e os mapas do caminho de fósseis e desmatamento. Alerta que a conferência é a primeira desde a saída dos EUA do Acordo de Paris.",
+   "summary_i18n": {
+    "en": "The Earth Negotiations Bulletin publishes its curtain raiser for COP31 in Antalya, which marks the start of the second Global Stocktake (GST2) and features the unprecedented partnership between Türkiye (Presidency and Action Agenda) and Australia (President of Negotiations). It summarizes the post-Belém context and lists what to watch: continuation of the Mitigation Work Programme (MWP), the just transition mechanism, the climate finance work programme (Art. 9.1), tripling adaptation finance by 2035, the Fund for responding to Loss and Damage, and the fossil fuel and deforestation roadmaps. It notes this is the first conference since the United States' withdrawal from the Paris Agreement.",
+    "es": "El Earth Negotiations Bulletin publica su texto introductorio sobre la COP31 en Antalya, que marca el inicio del segundo Balance Mundial (GST2) y presenta la inédita alianza entre Türkiye (Presidencia y Agenda de Acción) y Australia (Presidente de Negociaciones). Resume el contexto posterior a Belém y enumera los puntos clave: continuidad del Programa de Trabajo sobre Mitigación (MWP), el mecanismo de transición justa, el programa de trabajo sobre finanzas (Art. 9.1), triplicar la financiación para la adaptación para 2035, el Fondo para hacer frente a las pérdidas y los daños y las hojas de ruta sobre combustibles fósiles y deforestación. Señala que es la primera conferencia desde la retirada de Estados Unidos del Acuerdo de París.",
+    "fr": "L'Earth Negotiations Bulletin publie son texte de présentation de la COP31 à Antalya, qui marque le début du deuxième bilan mondial (GST2) et met en avant le partenariat inédit entre la Türkiye (Présidence et Programme d'action) et l'Australie (Présidente des négociations). Il résume le contexte post-Belém et énumère les points à suivre : poursuite du Programme de travail sur l'atténuation (MWP), mécanisme de transition juste, programme de travail sur le financement climatique (art. 9.1), triplement du financement de l'adaptation d'ici 2035, Fonds pour répondre aux pertes et préjudices et feuilles de route sur les combustibles fossiles et la déforestation. Il souligne qu'il s'agit de la première conférence depuis le retrait des États-Unis de l'Accord de Paris.",
+    "ru": "Earth Negotiations Bulletin опубликовал вводный материал о КС-31 в Анталье, которая открывает второй Глобальный обзор (GST2) и проходит в рамках беспрецедентного партнёрства между Турцией (Председательство и Повестка действий) и Австралией (Председатель переговоров). В нём кратко описан контекст после Белена и перечислены ключевые вопросы: продление Рабочей программы по смягчению (MWP), механизм справедливого перехода, рабочая программа по финансированию (ст. 9.1), утроение финансирования адаптации к 2035 году, Фонд для реагирования на потери и ущерб, а также дорожные карты по ископаемому топливу и обезлесению. Отмечается, что это первая конференция после выхода США из Парижского соглашения.",
+    "zh": "《地球谈判公报》(Earth Negotiations Bulletin)发布了安塔利亚COP31的前瞻文章。本届大会标志着第二次全球盘点(GST2)的启动，并由土耳其（主席国和行动议程）与澳大利亚（谈判主席）以史无前例的伙伴关系共同主导。文章概述了贝伦大会之后的背景，并列出需关注的议题：减缓工作方案(MWP)的延续、公正转型机制、气候融资工作方案（第9.1条）、到2035年将适应融资增至三倍、应对损失和损害基金，以及化石燃料和毁林路线图。文章指出，这是美国退出《巴黎协定》后的首次大会。",
+    "ar": "نشرت نشرة مفاوضات الأرض (Earth Negotiations Bulletin) مقالها التمهيدي عن مؤتمر الأطراف الحادي والثلاثين في أنطاليا، الذي يشهد بدء الحصيلة العالمية الثانية (GST2) في إطار شراكة غير مسبوقة بين تركيا (الرئاسة وخطة العمل) وأستراليا (رئيس المفاوضات). وتلخّص المقالة السياق الذي أعقب مؤتمر بيليم وتعرض أبرز المسائل المطروحة: استمرار برنامج عمل التخفيف (MWP)، وآلية الانتقال العادل، وبرنامج عمل التمويل المناخي (المادة 9-1)، ومضاعفة تمويل التكيف ثلاث مرات بحلول عام 2035، وصندوق الاستجابة للخسائر والأضرار، وخريطتا الطريق بشأن الوقود الأحفوري وإزالة الغابات. وتشير إلى أنه أول مؤتمر منذ انسحاب الولايات المتحدة من اتفاق باريس."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP",
+    "Transição justa",
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Ultimately, the Antalya Climate Change Conference must send a signal that the UNFCCC and the Paris Agreement are fit for purpose. — Pamela Chasek (ENB)"
+   ],
+   "first_seen": "2026-11-09T06:15:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "cop31-presidency-2026-11-04-unep-adaptation",
    "institution": "COP31 Presidency (Türkiye/Australia)",
    "type": "notícia",
@@ -3311,14 +3635,20 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T05:55:00-03:00",
-  "label": "9 nov 2026, 05:55 (Brasília)",
-  "accounts_checked": 28,
-  "blocked": 1,
-  "new_items": 6,
+  "timestamp": "2026-11-09T06:55:00-03:00",
+  "label": "9 nov 2026, 06:55 (Brasília)",
+  "accounts_checked": 81,
+  "blocked": 7,
+  "new_items": 11,
   "cadence": "a cada hora",
   "blocked_accounts": [
-   "mmeioambiente (perfil vazio)"
+   "mmeioambiente (perfil vazio)",
+   "iklimbaskanligi (perfil vazio)",
+   "DCCEEW (conta protegida)",
+   "caneurope.bsky.social (não encontrado)",
+   "priceofoil.org (não encontrado)",
+   "climateanalytics.bsky.social (não encontrado)",
+   "byfordtsang.bsky.social (não encontrado)"
   ]
  }
 }
