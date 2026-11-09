@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-07",
+ "updated": "2026-11-09",
  "bluesky_list": null,
  "x_list": null,
  "hidden": [],
@@ -961,6 +961,17 @@
    "platform": "x",
    "handle": "Miatsf",
    "institution": "Miatta Fahnbulleh (DESNZ, Reino Unido)",
+   "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": null,
+   "identity_checked_at": null,
+   "verified": true
+  },
+  {
+   "platform": "x",
+   "handle": "WMO",
+   "institution": "WMO",
    "priority": "B",
    "identity": "checked",
    "identity_basis": "página",
