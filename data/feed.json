@@ -35,6 +35,85 @@
  ],
  "items": [
   {
+   "id": "x-UNFCCC-20261109-abertura-ao-vivo",
+   "kind": "post",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "04:30",
+   "text": "COP31 is about to officially begin, follow the opening ceremony here – starting soon. 📍youtube.com/live/6qEWOzzO3…",
+   "summary": "A UNFCCC anuncia que a COP31 está prestes a ser aberta oficialmente e convida a acompanhar a cerimônia de abertura ao vivo no YouTube.",
+   "summary_i18n": {
+    "en": "UNFCCC announces that COP31 is about to officially open and invites followers to watch the opening ceremony live on YouTube.",
+    "es": "La CMNUCC anuncia que la COP31 está a punto de inaugurarse oficialmente e invita a seguir la ceremonia de apertura en directo en YouTube.",
+    "fr": "La CCNUCC annonce que la COP31 va s'ouvrir officiellement et invite à suivre la cérémonie d'ouverture en direct sur YouTube.",
+    "ru": "РКИК ООН сообщает, что КС-31 вот-вот будет официально открыта, и предлагает следить за церемонией открытия в прямом эфире на YouTube.",
+    "zh": "联合国气候变化框架公约秘书处宣布COP31即将正式开幕，并邀请大家在YouTube上观看开幕式直播。",
+    "ar": "تعلن اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ أن مؤتمر COP31 على وشك الافتتاح الرسمي وتدعو إلى متابعة حفل الافتتاح مباشرة على يوتيوب."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T04:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "x-CANIntl-20261109-mundo-em-chamas",
+   "kind": "post",
+   "platform": "x",
+   "account": "@CANIntl",
+   "institution": "CAN International",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "03:44",
+   "text": "🌍 THE WORLD IS BURNING. LEADERS MUST STEP UP. COP31 begins today in Antalya, Türkiye. Floods, droughts, extreme heat and displacement; the climate crisis is already a daily reality. Yet the money needed to protect people is still falling far short. bit.ly/ECOatCOP31",
+   "summary": "A CAN International diz que a COP31 começa hoje em Antalya e cobra que os líderes ajam: o financiamento para proteger as pessoas segue muito aquém do necessário.",
+   "summary_i18n": {
+    "en": "CAN International says COP31 begins today in Antalya and urges leaders to step up: finance to protect people is still falling far short.",
+    "es": "CAN International señala que la COP31 comienza hoy en Antalya e insta a los líderes a actuar: la financiación para proteger a las personas sigue siendo muy insuficiente.",
+    "fr": "CAN International indique que la COP31 s'ouvre aujourd'hui à Antalya et exhorte les dirigeants à agir : les financements pour protéger les populations restent très insuffisants.",
+    "ru": "CAN International сообщает, что КС-31 начинается сегодня в Анталье, и призывает лидеров действовать: финансирование для защиты людей по-прежнему намного ниже необходимого.",
+    "zh": "国际气候行动网络（CAN International）表示COP31今天在安塔利亚开幕，呼吁各国领导人采取行动：用于保护民众的资金仍远远不足。",
+    "ar": "تقول شبكة العمل المناخي الدولية إن مؤتمر COP31 يبدأ اليوم في أنطاليا وتحث القادة على التحرك: فالتمويل اللازم لحماية الناس لا يزال أقل بكثير من المطلوب."
+   },
+   "url": "https://x.com/CANIntl",
+   "tracks": [
+    "Finanças",
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-09T04:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261109-one-home",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "04:39",
+   "text": "“One Home” by @sertaberener One World. One Home. #LetsCOP Let’s Change Our Planet! #COP31 #COP31Türkiye #COP31Antalya",
+   "summary": "A presidência da COP31 divulga a canção \"One Home\", de Serta Berener, com o lema \"Um mundo. Uma casa\", na abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 presidency releases the song \"One Home\" by Serta Berener, with the motto \"One World. One Home.\", as the conference opens.",
+    "es": "La presidencia de la COP31 presenta la canción \"One Home\" de Serta Berener, con el lema \"Un mundo. Un hogar\", en la apertura de la conferencia.",
+    "fr": "La présidence de la COP31 dévoile la chanson \"One Home\" de Serta Berener, sur le thème « Un monde. Un foyer », à l'ouverture de la conférence.",
+    "ru": "Президентство КС-31 представляет песню «One Home» Серты Берене под девизом «Один мир. Один дом» в день открытия конференции.",
+    "zh": "COP31主席团在大会开幕之际发布Serta Berener创作的歌曲《One Home》，主题为“同一个世界，同一个家园”。",
+    "ar": "تطلق رئاسة COP31 أغنية «One Home» لسيرتا بيرينير بشعار «عالم واحد. بيت واحد.» مع افتتاح المؤتمر."
+   },
+   "url": "https://www.instagram.com/p/Dfg0JKVM3U5/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T04:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-turkiyecop31-20261109-welcome",
    "kind": "post",
    "platform": "x",
@@ -3074,11 +3153,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T03:50:00-03:00",
-  "label": "9 nov 2026, 03:50 (Brasília)",
+  "timestamp": "2026-11-09T04:50:00-03:00",
+  "label": "9 nov 2026, 04:50 (Brasília)",
   "accounts_checked": 27,
   "blocked": 1,
-  "new_items": 2,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "mmeioambiente (perfil vazio)"
