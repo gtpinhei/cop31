@@ -35,6 +35,164 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261109-abertura-ao-vivo",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "05:10",
+   "text": "🔴 COP31 I Opening Ceremony LIVE",
+   "summary": "A Presidência da COP31 transmite ao vivo a cerimônia de abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency is broadcasting the conference's opening ceremony live.",
+    "es": "La Presidencia de la COP31 transmite en directo la ceremonia de apertura de la conferencia.",
+    "fr": "La présidence de la COP31 diffuse en direct la cérémonie d'ouverture de la conférence.",
+    "ru": "Президентство КС-31 транслирует церемонию открытия конференции в прямом эфире.",
+    "zh": "COP31主席团正在直播大会开幕式。",
+    "ar": "تبث رئاسة مؤتمر COP31 حفل افتتاح المؤتمر مباشرة."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
+   "id": "x-murat_kurum-20261109-sertab-erener",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "05:08",
+   "text": "Tek bir dünya, Tek bir yuva, Tek bir gökyüzü, Tek bir umut, Tek bir ses. Toroslar'ın eteklerinden küresel iklim diplomasisinin zirvesine güçlü bir soluk taşıyoruz.✨ Şarkısıyla #COP31'e güçlü bir destek veren değerli sanatçımız Sertab Erener'e çok teşekkür ediyorum.",
+   "summary": "Kurum agradece à cantora Sertab Erener pela canção \"One Home\" em apoio à COP31 e diz levar um sopro forte do Tauro à cúpula da diplomacia climática global.",
+   "summary_i18n": {
+    "en": "Kurum thanks singer Sertab Erener for her song \"One Home\" supporting COP31, saying the Taurus foothills are bringing a strong breath to the summit of global climate diplomacy.",
+    "es": "Kurum agradece a la cantante Sertab Erener su canción \"One Home\" en apoyo de la COP31 y afirma que lleva un fuerte aliento desde las faldas del Tauro a la cumbre de la diplomacia climática mundial.",
+    "fr": "Kurum remercie la chanteuse Sertab Erener pour sa chanson \"One Home\" en soutien à la COP31 et dit apporter un souffle puissant depuis les contreforts du Taurus au sommet de la diplomatie climatique mondiale.",
+    "ru": "Курум благодарит певицу Сертаб Эренер за песню «One Home» в поддержку КС-31 и говорит, что приносит мощное дыхание с предгорий Тавра на вершину глобальной климатической дипломатии.",
+    "zh": "库鲁姆感谢歌手塞尔塔布·埃雷内尔（Sertab Erener）以歌曲《One Home》支持COP31，并表示将托罗斯山麓的强劲气息带到全球气候外交的峰会。",
+    "ar": "يشكر كوروم المغنية سرتاب إرينر على أغنيتها «One Home» دعمًا لمؤتمر COP31، ويقول إنه يحمل نفَسًا قويًا من سفوح جبال طوروس إلى قمة الدبلوماسية المناخية العالمية."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "tr",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
+   "id": "x-turkiyecop31-20261109-one-home",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "04:52",
+   "text": "“One Home” by @sertaberener One World. One Home. #LetsCOP Let's Change Our Planet! #COP31 #COP31Türkiye #COP31Antalya",
+   "summary": "A Presidência da COP31 divulga o vídeo da canção \"One Home\", de Sertab Erener, com o lema \"One World. One Home.\"",
+   "summary_i18n": {
+    "en": "The COP31 Presidency shares the video of the song \"One Home\" by Sertab Erener, under the motto \"One World. One Home.\"",
+    "es": "La Presidencia de la COP31 difunde el vídeo de la canción \"One Home\", de Sertab Erener, bajo el lema \"One World. One Home.\"",
+    "fr": "La présidence de la COP31 diffuse la vidéo de la chanson \"One Home\" de Sertab Erener, sous la devise \"One World. One Home.\"",
+    "ru": "Президентство КС-31 публикует видео песни «One Home» Сертаб Эренер под девизом «One World. One Home.»",
+    "zh": "COP31主席团发布塞尔塔布·埃雷内尔演唱的《One Home》视频，口号为“One World. One Home.”",
+    "ar": "تنشر رئاسة مؤتمر COP31 فيديو أغنية «One Home» لسرتاب إرينر تحت شعار «One World. One Home.»"
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
+   "id": "bluesky-carbonbrief-20261109-belem-antalya",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "05:01",
+   "text": "NEW – Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?\n\n✍️ Written by @mollylempriere.carbonbrief.org\n💬 With comments from @bertdewel.bsky.social @prosocial.bsky.social @anabellarosemberg.bsky.social\n\nRead here: buff.ly/a5shMyh",
+   "summary": "A Carbon Brief publica perguntas e respostas sobre o mecanismo Belém-Antalya para a transição justa, com comentários de especialistas.",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes a Q&A on the Belém-Antalya mechanism for a just transition, with comments from experts.",
+    "es": "Carbon Brief publica unas preguntas y respuestas sobre el mecanismo Belém-Antalya para una transición justa, con comentarios de expertos.",
+    "fr": "Carbon Brief publie une série de questions-réponses sur le mécanisme Belém-Antalya pour une transition juste, avec des commentaires d'experts.",
+    "ru": "Carbon Brief публикует вопросы и ответы о механизме Белен–Анталья для справедливого перехода с комментариями экспертов.",
+    "zh": "Carbon Brief发布关于公正转型“Belém-Antalya机制”的问答，并附专家评论。",
+    "ar": "تنشر Carbon Brief أسئلة وأجوبة حول آلية بيليم–أنطاليا للانتقال العادل مع تعليقات من خبراء."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzuhiic3xt2x",
+   "tracks": [
+    "Transição justa"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261109-blue-cop",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "03:39",
+   "text": "From Convergence to Implementation: Realizing the Blue COP",
+   "summary": "Vídeo do side event \"From Convergence to Implementation: Realizing the Blue COP\" (oceanos) publicado no canal de eventos da UNFCCC.",
+   "summary_i18n": {
+    "en": "Video of the side event \"From Convergence to Implementation: Realizing the Blue COP\" (oceans) posted on the UNFCCC events channel.",
+    "es": "Vídeo del evento paralelo \"From Convergence to Implementation: Realizing the Blue COP\" (océanos), publicado en el canal de eventos de la CMNUCC.",
+    "fr": "Vidéo de l'événement parallèle \"From Convergence to Implementation: Realizing the Blue COP\" (océans), publiée sur la chaîne d'événements de la CCNUCC.",
+    "ru": "Видео параллельного мероприятия «From Convergence to Implementation: Realizing the Blue COP» (океаны) на канале мероприятий РКИК ООН.",
+    "zh": "联合国气候变化框架公约秘书处活动频道发布了“From Convergence to Implementation: Realizing the Blue COP”（海洋）边会视频。",
+    "ar": "فيديو الفعالية الجانبية «From Convergence to Implementation: Realizing the Blue COP» (المحيطات) على قناة فعاليات اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ."
+   },
+   "url": "https://www.youtube.com/watch?v=OiTCE8tpgWg",
+   "tracks": [
+    "Oceanos",
+    "Agenda de Ação"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
+   "id": "youtube-unclimatechangeevents-20261109-forest-finance-gap",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "02:28",
+   "text": "Closing the Forest Finance Gap: Scaling Investment in Forest Landscapes. Forest Stewardship Council (FSC), FSC Indigenous Foundation (FSC-IF): Forests are essential for climate, biodiversity and economic stability, yet remain dangerously underfunded. Join governments, Indigenous Peoples, investors and forest leaders to explore practical approaches for mobilizing finance and scaling high-integrity forest landscapes worldwide.",
+   "summary": "Vídeo do side event do FSC sobre como fechar a lacuna de financiamento florestal e ampliar investimentos em paisagens florestais.",
+   "summary_i18n": {
+    "en": "Video of the FSC side event on closing the forest finance gap and scaling investment in forest landscapes.",
+    "es": "Vídeo del evento paralelo del FSC sobre cómo cerrar la brecha de financiación forestal y ampliar la inversión en paisajes forestales.",
+    "fr": "Vidéo de l'événement parallèle du FSC sur la réduction du déficit de financement forestier et l'augmentation des investissements dans les paysages forestiers.",
+    "ru": "Видео параллельного мероприятия FSC о преодолении дефицита финансирования лесов и наращивании инвестиций в лесные ландшафты.",
+    "zh": "FSC边会视频：弥合森林融资缺口，扩大对森林景观的投资。",
+    "ar": "فيديو الفعالية الجانبية لمجلس رعاية الغابات (FSC) حول سد فجوة تمويل الغابات وزيادة الاستثمار في المناظر الطبيعية الحرجية."
+   },
+   "url": "https://www.youtube.com/watch?v=8lf134qyWO4",
+   "tracks": [
+    "Florestas",
+    "Finanças"
+   ],
+   "lang": "en",
+   "kind": "post",
+   "first_seen": "2026-11-09T05:55:00-03:00"
+  },
+  {
    "id": "x-UNFCCC-20261109-abertura-ao-vivo",
    "kind": "post",
    "platform": "x",
@@ -3153,11 +3311,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T04:50:00-03:00",
-  "label": "9 nov 2026, 04:50 (Brasília)",
-  "accounts_checked": 27,
+  "timestamp": "2026-11-09T05:55:00-03:00",
+  "label": "9 nov 2026, 05:55 (Brasília)",
+  "accounts_checked": 28,
   "blocked": 1,
-  "new_items": 3,
+  "new_items": 6,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "mmeioambiente (perfil vazio)"
