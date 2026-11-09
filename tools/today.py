@@ -17,6 +17,7 @@ receive content only through `publish` and `publish-article`, which copy a white
   python3 -I tools/today.py resolve ID FLAG_NO --by NAME --note "what was checked"
   python3 -I tools/today.py i18n-export ID                   # Portuguese fields to translate (card or article)
   python3 -I tools/today.py i18n-import ID LANG FILE --method human|machine-reviewed|machine [--by NAME]
+  python3 -I tools/today.py check ID [ID ...]   # dry run of every publication gate; writes nothing
   python3 -I tools/today.py publish ID --by "Name" [--verified-source N ...] [--pending-langs en,ru]
   python3 -I tools/today.py publish-article ARTICLE_ID --by "Name" [--pending-langs ...]
   python3 -I tools/today.py correct ID --by NAME --note "..." [--field F --text "..."]
@@ -125,10 +126,28 @@ def permission_errors(en):
             errs.append("contributor-only card without internal provenance (claims with paragraph references)")
         if "verified" in (en.get("basis") or {}).values():
             errs.append("a card supported only by the contributor's account cannot carry 'verified'")
+    errs += standing_errors(pv)
     for i, f in enumerate(pv.get("flags") or [], 1):
         if not f.get("resolved_by"):
             errs.append(f"flag {i} unresolved: {f['msg']} (today.py resolve {en['id']} {i} --by NAME --note ...)")
     return errs
+
+
+def standing_errors(pv):
+    """A draft that relied on a standing contributor profile is blocked once that profile is revoked,
+    unless the permissions were re-confirmed for this item after the revocation (intake.py permissions)."""
+    st = pv.get("standing") or {}
+    if not st.get("profile"):
+        return []
+    import contributors as C
+    prof = C.get(st["profile"]) or {}
+    if prof.get("status") == "active":
+        return []
+    when = prof.get("revoked_at_s") or ""
+    meta = P.load_json(P.ensure() / "intake" / str(pv.get("submission")) / "meta.json", {})
+    reconfirmed = bool(when) and any(h.get("at_s", "") > when and not str(h.get("by", "")).startswith("standing profile")
+                                     for h in meta.get("permissions_history") or [])
+    return [] if reconfirmed else [f"contributor profile {st['profile']} was revoked: re-confirm this item's permissions (intake.py permissions) before publishing"]
 
 
 def _s(v):
@@ -402,6 +421,48 @@ def publish(eid, by, verified, pending):
     print(f"published {eid} (approved by {by}); commit data/today.json to deploy")
 
 
+def check(ids):
+    """Dry run of the publication gates for cards and readouts: what still blocks them. Writes nothing."""
+    drafts = load(drafts_path())
+    blocked = 0
+    for x in ids:
+        ap = _article_path(x)
+        if ap.exists():
+            a = P.load_json(ap, {})
+            pv, perm = a.get("_private") or {}, (a.get("_private") or {}).get("permissions") or {}
+            errs = [] if perm.get("publish_analysis") is True else ["the contributor has not authorized publication of the full analysis (intake.py permissions --publish-analysis yes)"]
+            c = a.get("contributor") or {}
+            if c.get("display") == "named" and perm.get("attribute") != "named":
+                errs.append("the contributor has not authorized public attribution by name")
+            errs += standing_errors(pv)
+            live = {e["id"] for e in load(TODAY)["entries"]}
+            if not any(e in live for e in a.get("entries") or []):
+                errs.append("publish at least one of its Today cards first")
+            e2, _ = V.check_article(public_article(dict(a, status="published", approved_by="(dry run)",
+                                                        approved_at=P.now(), assessed_at=P.now())), public=True)
+            errs += e2
+        else:
+            en = json.loads(json.dumps(find(drafts, x, "the private drafts or articles")))
+            # the editor confirms official sources at publication (--verified-source N): simulate that here
+            unver = [i for i, s in enumerate(en.get("sources") or [], 1)
+                     if s.get("kind") == "official" and str(s.get("url") or "").startswith("https://") and not s.get("verified")]
+            if not unver and not any(s.get("verified") for s in en.get("sources") or []):
+                # first-hand account only: the editor confirms the contributor's provenance instead
+                unver = [i for i, s in enumerate(en.get("sources") or [], 1) if s.get("kind") == "contributor"]
+            for i in unver:
+                en["sources"][i - 1]["verified"] = True
+            trial = dict(en, status="published", approved_by="(dry run)", approved_at=P.now(), assessed_at=P.now())
+            errs = permission_errors(en)
+            e2, _ = V.check_entry(public_entry(trial), public=True)
+            errs += e2
+            if unver:
+                print(f"{x}: at publication, confirm source(s) with --verified-source {' '.join(map(str, unver))}")
+        blocked += bool(errs)
+        print(f"{x}: " + ("READY (needs only the editor's approval)" if not errs else "blocked:\n  - " + "\n  - ".join(errs)))
+    if blocked:
+        sys.exit(1)
+
+
 def publish_article(aid, by, pending):
     ap = _article_path(aid)
     if not ap.exists():
@@ -417,6 +478,7 @@ def publish_article(aid, by, pending):
     c = a.get("contributor")
     if c and c.get("display") == "named" and perm.get("attribute") != "named":
         errs.append("the contributor has not authorized public attribution by name")
+    errs += standing_errors(pv)
     pub = load(TODAY)
     live = {e["id"] for e in pub["entries"]}
     if not any(x in live for x in a.get("entries") or []):
@@ -521,6 +583,7 @@ def main(a):
     elif cmd == "i18n-export": i18n_export(a[1])
     elif cmd == "i18n-import":
         i18n_import(a[1], a[2], a[3], opt(a, "--method"), opt(a, "--by"))
+    elif cmd == "check": check(a[1:])
     elif cmd == "publish":
         if not opt(a, "--by"): sys.exit("--by NAME is required (human approval)")
         ver = [int(a[i + 1]) for i, x in enumerate(a) if x == "--verified-source"]

@@ -8,7 +8,9 @@ published: drafts go through tools/today.py (translation, flags, human approval)
         [--affiliation "Org"] [--kind readout|analysis|meeting-note|field-report] [--event-date YYYY-MM-DD]
         [--confidentiality public|chatham|confidential] [--attribute named|anonymous|ask] [--display-default named|anonymous]
         [--anonymity-reason "..."] [--publish-analysis yes|no] [--publish-document yes|no]
-        [--received-by EDITOR] [--source-url URL ...]
+        [--received-by EDITOR] [--source-url URL ...] [--sensitivity sensitive|routine]
+  python3 -I tools/intake.py add FILE|- --title "..." --profile SLUG [--sensitivity sensitive|routine] ...
+        # reuse a trusted contributor's standing authorization (tools/contributors.py)
   python3 -I tools/intake.py prompt SID      # extraction brief for the AI assistant (numbered paragraphs + rules)
   python3 -I tools/intake.py propose SID FILE  # check the AI's structured proposal and create private drafts
   python3 -I tools/intake.py related SID|ENTRY_ID  # monitoring items that may describe the same development
@@ -163,16 +165,28 @@ def sub_dir(sid):
 def add(a):
     src = a[1]
     title = opt(a, "--title")
-    who = opt(a, "--contributor")
-    role = opt(a, "--role")
+    profile = opt(a, "--profile")
+    sensitivity = opt(a, "--sensitivity", "sensitive")
+    if sensitivity not in ("sensitive", "routine"):
+        sys.exit("--sensitivity must be sensitive (default) or routine")
+    standing = None
+    if profile:
+        if any(k in a for k in ("--contributor", "--role", "--affiliation", "--attribute", "--publish-analysis", "--publish-document")):
+            sys.exit("--profile already sets the contributor and permissions: record per-item changes afterwards with intake.py permissions")
+        import contributors as C
+        pc_, perm_, standing, hist_, reason_ = C.apply_to_submission(profile, sensitivity)
+        who, role = pc_["name"], pc_["role"]
+    else:
+        who = opt(a, "--contributor")
+        role = opt(a, "--role")
     if not title or not who or role not in V.ROLES:
-        sys.exit(f"--title, --contributor and --role ({'|'.join(sorted(V.ROLES))}) are required")
+        sys.exit(f"--title, --contributor and --role ({'|'.join(sorted(V.ROLES))}) are required (or --profile SLUG)")
     kind = opt(a, "--kind", "readout")
     conf = opt(a, "--confidentiality", "public")
-    attr = opt(a, "--attribute", "ask")
+    attr = perm_["attribute"] if profile else opt(a, "--attribute", "ask")
     if kind not in KINDS or conf not in CONF or attr not in ATTR:
         sys.exit(f"--kind {sorted(KINDS)}, --confidentiality {sorted(CONF)}, --attribute {sorted(ATTR)}")
-    if attr == "anonymous" and not opt(a, "--anonymity-reason"):
+    if attr == "anonymous" and not profile and not opt(a, "--anonymity-reason"):
         sys.exit("anonymous attribution needs --anonymity-reason (kept internal)")
     store = P.ensure()
     if src == "-":
@@ -213,8 +227,14 @@ def add(a):
         "anonymity_reason": opt(a, "--anonymity-reason"),
         "display_default": opt(a, "--display-default", "named" if attr == "named" else "anonymous"),
         "source_urls": [u for u in opts(a, "--source-url") if u.startswith("https://")],
-        "extraction_notes": notes, "paragraphs": len(paras),
+        "extraction_notes": notes, "paragraphs": len(paras), "sensitivity": sensitivity,
     }
+    if profile:
+        meta["contributor"], meta["permissions"] = pc_, perm_
+        meta["anonymity_reason"] = reason_
+        meta["display_default"] = perm_["attribute"]
+        meta["standing"] = standing
+        meta["permissions_history"] = [hist_]
     P.save_json(d / "meta.json", meta)
     print(f"submission {sid}: {len(paras)} paragraphs extracted ({orig.name}, {len(data)} bytes) into the private store")
     for n in notes:
@@ -471,7 +491,8 @@ def propose(sid, path):
                          "matches": [{"feed": r, "decision": "proposed", "reason": (dv.get("related_reasons") or {}).get(r, "suggested in the extraction proposal"),
                                       "by": "extraction (IA)", "at": P.now()} for r in sorted(linked)],
                          "confidentiality": meta["confidentiality"], "anonymity_reason": meta.get("anonymity_reason"),
-                         "contributor": pc, "article": aid, "ai_assisted": True, "proposal_key": dv["key"]},
+                         "contributor": pc, "article": aid, "ai_assisted": True, "proposal_key": dv["key"],
+                         "standing": meta.get("standing"), "sensitivity": meta.get("sensitivity", "sensitive")},
         }
         for f in FACT_FIELDS:
             if isinstance(dv.get(f), dict):
@@ -493,7 +514,8 @@ def propose(sid, path):
              "i18n": {},
              "_private": {"submission": sid, "block_paras": [b.get("paras") for b in art["blocks"]],
                           "block_claims": [b.get("claims") for b in art["blocks"]], "permissions": perm,
-                          "confidentiality": meta["confidentiality"]}}
+                          "confidentiality": meta["confidentiality"], "standing": meta.get("standing"),
+                          "sensitivity": meta.get("sensitivity", "sensitive")}}
         P.save_json(P.ensure() / "articles" / f"{aid}.json", a)
     meta["drafts"] = [m[0] for m in made]
     meta["article"] = aid
@@ -530,7 +552,9 @@ def permissions(a):
             pc[k] = change[k] = opt(a, f"--{k}") or None
     if not change:
         sys.exit("nothing to record")
-    meta.setdefault("permissions_history", []).append({"at": P.now(), "by": by, "changes": change})
+    import datetime
+    meta.setdefault("permissions_history", []).append({"at": P.now(), "by": by, "changes": change,
+        "at_s": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="microseconds")})
     P.save_json(d / "meta.json", meta)
     import today as T
     dp = T.drafts_path()
