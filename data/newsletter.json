@@ -1,0 +1,10 @@
+{
+ "schema": 1,
+ "mode": "off",
+ "provider": "buttondown",
+ "action": null,
+ "processor": null,
+ "controller": null,
+ "privacy": {"status": "draft", "version": null},
+ "note": "Public configuration only; never put subscriber data here. mode: off (nothing shown) | preview (form works, sends nothing) | live (requires action, processor, controller and a final privacy notice). See docs/newsletter.md."
+}
