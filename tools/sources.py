@@ -683,19 +683,21 @@ def counts(reg):
         if s["status"] != "active":
             continue
         h["configured"] += 1
-        hl = s["health"]
-        if not hl["last_attempt"]:
+        dv = due_view(s)   # agent runs only: a registration probe is not collection
+        if s.get("probe"):
+            h["probed_at_registration"] += 1
+        if not dv["last_attempt"]:
             h["never_attempted"] += 1
         else:
             h["attempted"] += 1
             h[{"success": "successful", "success_empty": "successful", "blocked": "blocked",
-               "unavailable": "unavailable"}.get(hl["last_outcome"], "error")] += 1
+               "unavailable": "unavailable"}.get(dv["last_outcome"], "error")] += 1
     c["health"] = h
     return c
 
 
 def stale(s, hours=26):
-    la = s["health"]["last_attempt"]
+    la = due_view(s)["last_attempt"]
     if not la:
         return True
     try:
@@ -711,9 +713,10 @@ def report_md(reg):
     L = [f"# Registro de fontes COP31 — situação em {now()[:16].replace('T', ' ')}", ""]
     L.append(f"{c['total']} fontes registradas: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_status"].items())))
     L.append("")
-    L.append("## Coleta das fontes ativas (última tentativa)")
+    L.append("## Coleta das fontes ativas (última tentativa de um agente)")
     h = c["health"]
-    L.append(f"- configuradas: {h['configured']}; tentadas: {h['attempted']}; nunca tentadas: {h['never_attempted']}")
+    L.append(f"- configuradas: {h['configured']}; tentadas por um agente: {h['attempted']}; ainda não tentadas: {h['never_attempted']} "
+             f"(testadas só no registro: {h['probed_at_registration']})")
     L.append(f"- com sucesso: {h['successful']}; bloqueadas: {h['blocked']}; indisponíveis: {h['unavailable']}; erro: {h['error']}")
     L.append("- por plataforma: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_platform"].items())))
     L.append("- por prioridade: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_priority"].items())))
@@ -725,7 +728,7 @@ def report_md(reg):
         tgt = s.get("handle") or (s.get("urls") or [""])[0]
         why = (s.get("decision") or {}).get("reason") or (s.get("proposal") or {}).get("relevance") or ""
         L.append(f"- `{s['id']}` {s['platform']} {tgt} — {s['institution']} [{s['category']}, {s['priority']}] — {why}")
-    bad = [s for s in reg["sources"] if s["status"] == "active" and s["health"]["last_outcome"] in ("blocked", "unavailable", "error")]
+    bad = [s for s in reg["sources"] if s["status"] == "active" and due_view(s)["last_outcome"] in ("blocked", "unavailable", "error")]
     L.append("")
     L.append(f"## Ativas com problema na última tentativa ({len(bad)})")
     for s in sorted(bad, key=lambda x: -x["health"]["consecutive_failures"]):
