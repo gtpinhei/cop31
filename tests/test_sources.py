@@ -3,7 +3,7 @@ Synthetic data only; runs against a throwaway private store.
 
   python3 -I -m unittest discover -s tests -k Sources
 """
-import json, os, pathlib, shutil, subprocess, sys, tempfile, unittest
+import json, os, pathlib, re, shutil, subprocess, sys, tempfile, unittest
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 
@@ -174,6 +174,58 @@ class Sources(unittest.TestCase):
         self.run_tool("export", out)
         acc = {a["id"]: a for a in json.loads((out / "social.json").read_text())["accounts"]}
         self.assertNotIn("first_collection_pending", acc["bsky-wmo-int"])
+
+    def test_coverage_against_cadence_and_items_apart_from_success(self):
+        self.seed()
+        import datetime as dt
+        now = dt.datetime.now(dt.timezone(dt.timedelta(hours=-3)))
+        iso = lambda h: (now - dt.timedelta(hours=h)).isoformat(timespec="minutes")   # noqa: E731
+        for i, (h, res) in enumerate([
+                (30, [{"source_id": "x-unfccc", "outcome": "success", "new_items": 4}]),
+                (2, [{"source_id": "x-unfccc", "outcome": "success_empty"},
+                     {"source_id": "bsky-examplelab-bsky-social", "outcome": "blocked", "note": "login wall"}])]):
+            st = self.tmp / f"c{i}.json"
+            st.write_text(json.dumps({"agent": "social", "run_at": iso(h), "results": res}))
+            self.run_tool("ingest", st)
+        t = json.loads(self.run_tool("coverage"))
+        self.assertEqual(t["A"]["on_time"], 1)              # read 2 h ago, every_run window 5 h
+        self.assertEqual(t["A"]["new_items_24h"], 0)        # the 4 items were 30 h ago: success is not intelligence
+        self.assertEqual(t["B"]["blocked"], 1)
+        self.assertEqual(t["B"]["covered_24h"], 0)
+        web = [k for k in t if k == "all"]
+        self.assertTrue(web)
+        self.assertGreaterEqual(t["all"]["never"], 1)       # web sources never read by an agent
+        self.assertIn("Cobertura nas últimas 24 h", self.run_tool("report"))
+
+    def test_distinct_from_clears_near_duplicate_warning(self):
+        self.seed()
+        p, _ = self.batch("x:UNFCCCEvents | institution=UNFCCC | category=unfccc")
+        (self.tmp / "none.json").write_text("{}")
+        self.run_tool("apply", p, self.tmp / "none.json", "--by", "E")
+        self.assertIn("possible duplicate", self.run_tool("validate"))
+        self.run_tool("set", "x-gone", "distinct_from", "x-unfccc", "--by", "E")   # unrelated pair: warning stays
+        w = self.run_tool("validate")
+        self.assertIn("possible duplicate", w)
+        dup = [x for x in w.splitlines() if "possible duplicate" in x][0]
+        a, b = re.findall(r"([a-z0-9-]+) and ([a-z0-9-]+)", dup)[0]
+        self.run_tool("set", a, "distinct_from", b, "--by", "E")
+        self.assertNotIn("possible duplicate", self.run_tool("validate"))
+
+    def test_due_flag_from_cadence(self):
+        self.seed()
+        out = self.tmp / "views"
+        self.run_tool("export", out)
+        acc = {a["id"]: a for a in json.loads((out / "social.json").read_text())["accounts"]}
+        self.assertTrue(acc["bsky-examplelab-bsky-social"]["due"])     # daily, never read: due
+        st = self.tmp / "d.json"
+        import datetime as dt
+        st.write_text(json.dumps({"agent": "social", "run_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
+                                  "results": [{"source_id": "bsky-examplelab-bsky-social", "outcome": "success_empty"}]}))
+        self.run_tool("ingest", st)
+        self.run_tool("export", out)
+        acc = {a["id"]: a for a in json.loads((out / "social.json").read_text())["accounts"]}
+        self.assertFalse(acc["bsky-examplelab-bsky-social"]["due"])    # read just now: not due until tomorrow
+        self.assertTrue(acc["x-unfccc"]["due"])                        # every_run: always due
 
     def test_unavailable_three_times_pauses(self):
         self.seed()

@@ -62,9 +62,31 @@ Every agent run reports one outcome per source in its view:
 - `skipped` (not due, or over the run's budget)
 
 The hourly sync folds the reports into each source's `health` (last attempt, last success, last outcome,
-consecutive failures, newest item seen, last 12 runs). The dashboard counts active sources as
+consecutive failures, newest item seen, last 36 runs). The dashboard counts active sources as
 configured, attempted, never attempted, successful, blocked, unavailable and error. These are
 separate numbers, never merged.
+
+Each view entry carries `due`, computed at export from the source's cadence and the last agent read
+(never-read sources are due; daily = not read in 23 h, weekly = 167 h). The agents follow `due` and do
+not interpret cadence themselves. When a run's budget is short they read newly activated sources first,
+then priority A, then the due sources read longest ago, so priority-B accounts rotate across runs.
+
+### Coverage (`coverage`, `out/coverage.json`, dashboard section "Cobertura nas últimas 24 h")
+
+Computed from agent runs only, never from registration probes, for active sources:
+
+- state: `on_time` (last agent success within the cadence window: every run = 5 h social, 7 h web;
+  daily = 26 h; weekly = 170 h), `overdue`, `never` (no agent attempt), or the failed outcome of the
+  latest attempt (`blocked`, `unavailable`, `error`);
+- `covered_24h`: a successful agent read within max(24 h, window); `coverage_24h` is the share of
+  active sources covered, overall and per priority;
+- operational success (`checks_24h`, `ok_checks_24h`) is kept apart from intelligence produced
+  (`new_items_24h`, `sources_with_new_items_24h`): a source read fine with nothing relevant is
+  healthy but produced nothing;
+- per source: `last_success`, `last_item_date`.
+
+`set A distinct_from B` records that an editor confirmed two similar sources (same institution and
+platform, or same domain) are separate identities, which clears the near-duplicate warning.
 
 ## Workflows
 
@@ -89,7 +111,7 @@ python3 -I tools/sources.py export OUT --pulse data/pulse.json         # views, 
 python3 -I tools/sources.py approve ID --by EDITOR
 python3 -I tools/sources.py reject ID --reason "..." --by EDITOR
 python3 -I tools/sources.py pause|retire ID --reason "..." --by EDITOR
-python3 -I tools/sources.py set ID priority|themes|category|rights|cadence|urls|identity VALUE --by EDITOR
+python3 -I tools/sources.py set ID priority|themes|category|rights|cadence|urls|identity|distinct_from VALUE --by EDITOR
 ```
 
 **Hourly sync:** read both status files from the artifact, `sources.py ingest` them, process the inbox,

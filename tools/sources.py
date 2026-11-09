@@ -15,7 +15,7 @@ sources there; the hourly sync folds those reports back in (`ingest`).
   python3 -I tools/sources.py set ID FIELD VALUE --by EDITOR           # priority|status|category|themes|...
   python3 -I tools/sources.py approve ID --by EDITOR | reject ID --reason "..." --by EDITOR | retire ID --reason "..." --by EDITOR
   python3 -I tools/sources.py export OUT_DIR [--pulse data/pulse.json] # agent views, dashboard, report
-  python3 -I tools/sources.py validate | report | show ID
+  python3 -I tools/sources.py validate | report | coverage | show ID   # coverage = rolling 24 h against cadence
 
 Batch lines: a URL, a handle (@x_handle with --platform or "x:handle", "bsky:handle", "ig:handle",
 "yt:@handle") and optional "| key=value" pairs: institution, category, priority, themes (a,b),
@@ -51,6 +51,10 @@ METHOD = {"bluesky": "nimble vx6: public.api.bsky.app getAuthorFeed (JSON)",
           "youtube": "nimble vx6 youtube.com/feeds/videos.xml?channel_id=<id>",
           "web": "WebFetch; Nimble extract when blocked", "rss": "WebFetch of the feed"}
 AGENT = {**{p: "social" for p in SOCIAL}, "web": "web", "rss": "web"}
+HISTORY = 36   # agent runs kept per source: covers 24 h of hourly social runs
+# longest normal gap between two runs of each agent, plus slack: an every_run source is on time if read within it
+RUN_GAP_H = {"social": 5, "web": 7}
+CADENCE_H = {"daily": 26, "weekly": 170}
 RULES = {
     "auto_activate": "official category (presidency, unfccc, government, multilateral, negotiating_group) "
                      "+ identity checked + a successful probe with the collector's own method",
@@ -264,7 +268,8 @@ def validate(reg):
             k = ("domain", domain(s))
         else:
             k = (s.get("platform"), slug(s.get("institution", "")))
-        if k in seen:
+        if k in seen and not ({seen[k]} & set(s.get("distinct_from") or []) or {s["id"]} & set(
+                next(x for x in live if x["id"] == seen[k]).get("distinct_from") or [])):
             warns.append(f"possible duplicate: {s['id']} and {seen[k]} ({k[0]} {k[1]})")
         else:
             seen[k] = s["id"]
@@ -524,7 +529,7 @@ def record(s, h):
     hl = s["health"]
     if any(x.get("at") == h["at"] and x.get("agent") == h.get("agent") for x in hl["history"]):
         return False
-    hl["history"] = (hl["history"] + [{k: v for k, v in h.items() if v is not None}])[-12:]
+    hl["history"] = (hl["history"] + [{k: v for k, v in h.items() if v is not None}])[-HISTORY:]
     out = h["outcome"]
     if out == "skipped":
         return True
@@ -615,11 +620,15 @@ def set_field(a):
         s["collection"]["cadence"] = val
     elif field == "urls":
         s["urls"] = [u.strip() for u in val.split(",") if u.strip()]
+    elif field == "distinct_from":
+        other = next((x for x in reg["sources"] if x["id"] == val), None) or sys.exit(f"no source {val}")
+        for x, y in ((s, other), (other, s)):
+            x["distinct_from"] = sorted(set(x.get("distinct_from") or []) | {y["id"]})
     elif field == "identity":
         st, _, ev = val.partition(" ")
         s["identity"].update(status=st, basis=f"editor: {ev or 'confirmed'}", evidence_url=ev or None, checked_at=now(), checked_by=by)
     else:
-        sys.exit("field: priority|themes|institution|category|language|rights|notes|channel_id|cadence|urls|identity")
+        sys.exit("field: priority|themes|institution|category|language|rights|notes|channel_id|cadence|urls|identity|distinct_from")
     s.setdefault("edits", []).append({"at": now(), "by": by, "field": field})
     save(reg, f"set {s['id']} {field} by {by}")
     print(f"{s['id']}: {field} updated")
@@ -637,10 +646,17 @@ def legacy_basis(s):
     return LEGACY_VER.get(s["identity"]["status"], "não")
 
 
-def due_view(s):
+DUE_H = {"daily": 23, "weekly": 167}   # a little under the cadence, since views are regenerated hourly
+
+
+def due_view(s, at=None):
     out = _due(s)
     if s["status"] == "active" and not out["last_attempt"] and s["provenance"].get("origin") not in ("legacy-watchlist-social", "legacy-watchlist-web"):
         out["first_collection_pending"] = True
+    cad = s["collection"]["cadence"]
+    last = _ts(out["last_attempt"]) if out["last_attempt"] else None
+    at = at or datetime.datetime.now(datetime.timezone.utc)
+    out["due"] = cad not in DUE_H or not last or (at - last).total_seconds() >= DUE_H[cad] * 3600
     return out
 
 
@@ -655,10 +671,11 @@ def _due(s):
 def views(reg):
     act = [s for s in reg["sources"] if s["status"] == "active"]
     social = {"schema": 2, "generated_at": now(), "generated_from": "source registry (do not edit; propose changes in the status file)",
-              "rules": {"cadence": "every_run = each run; daily = once a day (06:42 Brasília run or not read in 24 h); weekly = once a week",
+              "rules": {"cadence": "every_run = each run; daily = once a day; weekly = once a week; the due field already applies it",
                         "rights": "link_and_summary: summary, short quotes and link; link_only: summary of the public teaser and link, no quotes; never republish full content",
                         "report": "report every configured source of this view in the status file: success, success_empty, blocked, unavailable, error or skipped (not due). Blocked or unavailable is never 'nothing new'.",
-                        "first_collection": "a source with first_collection_pending: true was activated recently and has never been read by an agent: read it in this run whatever its cadence, before any priority-B source"},
+                        "first_collection": "a source with first_collection_pending: true was activated recently and has never been read by an agent: read it in this run whatever its cadence, before any priority-B source",
+                        "due": "read every source whose due is true (computed from its cadence and the last agent read; never-read sources are due); report the others as skipped. If the budget runs short, read first_collection_pending first, then priority A, then the due sources with the oldest last_attempt (missing = oldest); report the rest skipped with note \"budget\""},
               "methods": METHOD, "notes": (reg.get("agent_notes") or {}).get("social"),
               "accounts": [{"id": s["id"], "institution": s["institution"], "platform": s["platform"], "handle": s["handle"],
                             **({"channel_id": s.get("channel_id")} if s["platform"] == "youtube" else {}),
@@ -704,15 +721,66 @@ def counts(reg):
     return c
 
 
-def stale(s, hours=26):
-    la = due_view(s)["last_attempt"]
-    if not la:
-        return True
+def _ts(x):
     try:
-        t = datetime.datetime.fromisoformat(la)
-        return (datetime.datetime.now(t.tzinfo) - t).total_seconds() > hours * 3600 * (7 if s["collection"]["cadence"] == "weekly" else 1)
-    except ValueError:
-        return True
+        t = datetime.datetime.fromisoformat(x)
+        return t if t.tzinfo else t.replace(tzinfo=datetime.timezone.utc)
+    except (TypeError, ValueError):
+        return None
+
+
+def window_h(s):
+    """Hours within which an agent must have read the source successfully to count as on time for its cadence."""
+    cad = s["collection"]["cadence"]
+    return CADENCE_H.get(cad) or RUN_GAP_H.get(s["collection"].get("agent"), 7)
+
+
+def coverage(reg, at=None):
+    """Rolling 24 h coverage of active sources against their own cadence, from agent runs only (never registration probes).
+
+    on_time: last agent success within the cadence window; overdue: read before but not within it, or never read
+    successfully; never: no agent attempt yet; blocked / unavailable / error: the latest agent attempt failed.
+    Operational success (a source was read) is kept apart from intelligence (new relevant items reported)."""
+    at = at or datetime.datetime.now(datetime.timezone.utc)
+    since = at - datetime.timedelta(hours=24)
+    rows, tot = [], {}
+    for s in reg["sources"]:
+        if s["status"] != "active":
+            continue
+        runs = [x for x in s["health"]["history"] if x.get("agent") != "probe" and x.get("outcome") != "skipped"]
+        ok = [x for x in runs if x.get("outcome") in ("success", "success_empty")]
+        last_ok = _ts(ok[-1]["at"]) if ok else None
+        w = window_h(s)
+        last = runs[-1].get("outcome") if runs else None
+        if not runs:
+            state = "never"
+        elif last in ("blocked", "unavailable", "error"):
+            state = last
+        elif last_ok and (at - last_ok).total_seconds() <= w * 3600:
+            state = "on_time"
+        else:
+            state = "overdue"
+        recent = [x for x in runs if (_ts(x["at"]) or since) > since]
+        items = sum(int(x.get("new_items") or 0) for x in recent)
+        covered = bool(last_ok and (at - last_ok).total_seconds() <= max(24, w) * 3600)
+        rows.append({"id": s["id"], "platform": s["platform"], "priority": s["priority"], "cadence": s["collection"]["cadence"],
+                     "state": state, "covered_24h": covered, "checks_24h": len(recent),
+                     "ok_checks_24h": sum(1 for x in recent if x.get("outcome") in ("success", "success_empty")),
+                     "new_items_24h": items, "last_success": ok[-1]["at"] if ok else None,
+                     "last_item_date": s["health"].get("latest_item_date")})
+    for key in ("all", "A", "B", "C"):
+        rs = [r for r in rows if key == "all" or r["priority"] == key]
+        if not rs:
+            continue
+        from collections import Counter
+        st = Counter(r["state"] for r in rs)
+        tot[key] = {"active": len(rs), "covered_24h": sum(r["covered_24h"] for r in rs),
+                    "coverage_24h": round(sum(r["covered_24h"] for r in rs) / len(rs), 3), **{k: st.get(k, 0) for k in
+                    ("on_time", "overdue", "never", "blocked", "unavailable", "error")},
+                    "checks_24h": sum(r["checks_24h"] for r in rs), "ok_checks_24h": sum(r["ok_checks_24h"] for r in rs),
+                    "sources_with_new_items_24h": sum(1 for r in rs if r["new_items_24h"]),
+                    "new_items_24h": sum(r["new_items_24h"] for r in rs)}
+    return {"at": at.isoformat(timespec="minutes"), "totals": tot, "sources": rows}
 
 
 def report_md(reg):
@@ -726,6 +794,17 @@ def report_md(reg):
     L.append(f"- configuradas: {h['configured']}; tentadas por um agente: {h['attempted']}; ainda não tentadas: {h['never_attempted']} "
              f"(testadas só no registro: {h['probed_at_registration']})")
     L.append(f"- com sucesso: {h['successful']}; bloqueadas: {h['blocked']}; indisponíveis: {h['unavailable']}; erro: {h['error']}")
+    cv = coverage(reg)["totals"]
+    L.append("")
+    L.append("## Cobertura nas últimas 24 h (contra a cadência de cada fonte; só leituras de agentes)")
+    for k, lab in (("all", "todas"), ("A", "prioridade A"), ("B", "prioridade B"), ("C", "prioridade C")):
+        t = cv.get(k)
+        if t:
+            L.append(f"- {lab}: {t['covered_24h']}/{t['active']} cobertas ({t['coverage_24h']:.0%}); em dia {t['on_time']}, atrasadas {t['overdue']}, "
+                     f"nunca lidas {t['never']}, bloqueadas {t['blocked']}, indisponíveis {t['unavailable']}, erro {t['error']}; "
+                     f"leituras {t['ok_checks_24h']}/{t['checks_24h']} com sucesso; itens novos relevantes {t['new_items_24h']} "
+                     f"de {t['sources_with_new_items_24h']} fontes")
+    L.append("")
     L.append("- por plataforma: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_platform"].items())))
     L.append("- por prioridade: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_priority"].items())))
     L.append("- por categoria: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_category"].items())))
@@ -742,9 +821,10 @@ def report_md(reg):
     for s in sorted(bad, key=lambda x: -x["health"]["consecutive_failures"]):
         note = next((x.get("note") for x in reversed(s["health"]["history"]) if x.get("note")), "")
         L.append(f"- `{s['id']}` {s['institution']}: {s['health']['last_outcome']} ×{s['health']['consecutive_failures']} {note}")
-    st = [s for s in reg["sources"] if s["status"] == "active" and s["priority"] == "A" and stale(s)]
+    cvs = {r["id"]: r for r in coverage(reg)["sources"]}
+    st = [s for s in reg["sources"] if s["status"] == "active" and s["priority"] == "A" and cvs[s["id"]]["state"] != "on_time"]
     L.append("")
-    L.append(f"## Prioridade A sem tentativa recente ({len(st)})")
+    L.append(f"## Prioridade A sem leitura bem-sucedida dentro da cadência ({len(st)})")
     L.append(", ".join(f"`{s['id']}`" for s in st) or "nenhuma")
     if warns:
         L.append("")
@@ -769,6 +849,7 @@ def export(a):
             p.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"); changed.append(name)
     (out / "sources.json").write_text(json.dumps(reg, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     (out / "report.md").write_text(report_md(reg), encoding="utf-8")
+    (out / "coverage.json").write_text(json.dumps(coverage(reg), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     pulse = opt(a, "--pulse")
     if pulse:
         legacy = {"updated": now()[:10], "accounts": [dict(x, handle=x["handle"]) for x in social["accounts"]]}
@@ -806,6 +887,7 @@ def main(a):
         print("\n".join([f"error: {x}" for x in e] + [f"warning: {x}" for x in w]) or "OK")
         sys.exit(1 if e else 0)
     elif cmd == "report": print(report_md(load()))
+    elif cmd == "coverage": print(json.dumps(coverage(load())["totals"], ensure_ascii=False, indent=1))
     elif cmd == "show": print(json.dumps(next((s for s in load()["sources"] if s["id"] == a[1]), {}), ensure_ascii=False, indent=1))
     else: sys.exit(__doc__)
 
