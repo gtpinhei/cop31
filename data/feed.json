@@ -33,6 +33,164 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261109-cerimonia-abertura",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "08:38",
+   "text": "Day 1 | Opening Ceremony  #COP31 #COP31Türkiye #COP31Antalya",
+   "summary": "A Presidência da COP31 publica o vídeo do Dia 1, a cerimônia de abertura.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency posts a video of Day 1, the opening ceremony.",
+    "es": "La Presidencia de la COP31 publica un vídeo del primer día, la ceremonia de apertura.",
+    "fr": "La présidence de la COP31 publie une vidéo du jour 1, la cérémonie d'ouverture.",
+    "ru": "Президентство КС-31 публикует видео первого дня — церемонии открытия.",
+    "zh": "COP31主席团发布第一天开幕式的视频。",
+    "ar": "تنشر رئاسة مؤتمر COP31 فيديو اليوم الأول، حفل الافتتاح."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261109-cerimonia-abertura",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "08:34",
+   "text": "Day 1 | Opening Ceremony  #COP31 #COP31Türkiye #COP31Antalya",
+   "summary": "A Presidência da COP31 publica o vídeo do Dia 1, a cerimônia de abertura.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency posts a video of Day 1, the opening ceremony.",
+    "es": "La Presidencia de la COP31 publica un vídeo del primer día, la ceremonia de apertura.",
+    "fr": "La présidence de la COP31 publie une vidéo du jour 1, la cérémonie d'ouverture.",
+    "ru": "Президентство КС-31 публикует видео первого дня — церемонии открытия.",
+    "zh": "COP31主席团发布第一天开幕式的视频。",
+    "ar": "تنشر رئاسة مؤتمر COP31 فيديو اليوم الأول، حفل الافتتاح."
+   },
+   "url": "https://www.instagram.com/p/DfhPE8WMTO-/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-agri-finance",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "08:42",
+   "text": "Climate-Resilient Agriculture Finance and the Food-Water-Climate Nexus",
+   "summary": "Vídeo de side event da UNFCCC sobre financiamento agrícola resiliente ao clima e o nexo alimentos-água-clima.",
+   "summary_i18n": {
+    "en": "UNFCCC side event video on climate-resilient agriculture finance and the food-water-climate nexus.",
+    "es": "Vídeo de un evento paralelo de la CMNUCC sobre financiación agrícola resiliente al clima y el nexo alimentación-agua-clima.",
+    "fr": "Vidéo d'un événement parallèle de la CCNUCC sur le financement agricole résilient au climat et le lien alimentation-eau-climat.",
+    "ru": "Видео параллельного мероприятия РКИК ООН о финансировании климатоустойчивого сельского хозяйства и взаимосвязи продовольствия, воды и климата.",
+    "zh": "UNFCCC边会视频:气候韧性农业融资与粮食-水-气候关联。",
+    "ar": "فيديو فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول تمويل الزراعة القادرة على التكيف مع المناخ والترابط بين الغذاء والمياه والمناخ."
+   },
+   "url": "https://www.youtube.com/watch?v=bkDc0Jo6cs8",
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-environmental-racism",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "07:53",
+   "text": "From Advisory Opinions to Reparations: Confronting Environmental Racism and Promoting Human Rights. Geledés-Black Women's Institute, Conectas Human Rights and Engajamundo Youth Association: how recent advisory opinions and the Ghana Declaration on reparations connect to the fight against environmental racism, with demands grounded in human rights, racial and climate justice.",
+   "summary": "Side event gravado pela UNFCCC (Geledés, Conectas, Engajamundo) sobre pareceres consultivos, reparações e racismo ambiental, com demandas de justiça racial e climática para a agenda de negociação.",
+   "summary_i18n": {
+    "en": "UNFCCC recorded side event (Geledés, Conectas, Engajamundo) on advisory opinions, reparations and environmental racism, with racial and climate justice demands for the negotiating agenda.",
+    "es": "Evento paralelo grabado por la CMNUCC (Geledés, Conectas, Engajamundo) sobre opiniones consultivas, reparaciones y racismo ambiental, con demandas de justicia racial y climática para la agenda de negociación.",
+    "fr": "Événement parallèle enregistré par la CCNUCC (Geledés, Conectas, Engajamundo) sur les avis consultatifs, les réparations et le racisme environnemental, avec des revendications de justice raciale et climatique pour l'agenda des négociations.",
+    "ru": "Запись параллельного мероприятия РКИК ООН (Geledés, Conectas, Engajamundo) о консультативных заключениях, репарациях и экологическом расизме с требованиями расовой и климатической справедливости для повестки переговоров.",
+    "zh": "UNFCCC边会录像(Geledés、Conectas、Engajamundo):咨询意见、赔偿与环境种族主义,并提出面向谈判议程的种族与气候正义诉求。",
+    "ar": "تسجيل فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (Geledés وConectas وEngajamundo) حول الفتاوى الاستشارية والتعويضات والعنصرية البيئية، مع مطالب بالعدالة العرقية والمناخية لجدول أعمال التفاوض."
+   },
+   "url": "https://www.youtube.com/watch?v=AX1iPbHTmHM",
+   "tracks": [
+    "Espaço cívico",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-namibia-fmcp4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "07:42",
+   "text": "Namibia FMCP4. Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of Namibia during SB65@COP31 in Antalya, November 2026",
+   "summary": "UNFCCC publicou a apresentação gravada da Namíbia para a FMCP4 (consideração multilateral facilitadora do progresso) na SB65@COP31, em Antalya.",
+   "summary_i18n": {
+    "en": "UNFCCC published Namibia's pre-recorded presentation for the FMCP4 (Facilitative Multilateral Consideration of Progress) at SB65@COP31 in Antalya.",
+    "es": "La CMNUCC publicó la presentación pregrabada de Namibia para la FMCP4 (Consideración Multilateral Facilitadora de los Progresos) en la SB65@COP31 en Antalya.",
+    "fr": "La CCNUCC a publié la présentation préenregistrée de la Namibie pour la FMCP4 (examen multilatéral facilitateur des progrès) à la SB65@COP31 à Antalya.",
+    "ru": "РКИК ООН опубликовала предварительно записанную презентацию Намибии для FMCP4 (содействующее многостороннее рассмотрение прогресса) на SB65@COP31 в Анталье.",
+    "zh": "UNFCCC发布了纳米比亚为SB65@COP31(安塔利亚)FMCP4(促进性多边进展审议)预先录制的陈述。",
+    "ar": "نشرت أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ العرض المسجل مسبقاً لناميبيا للنظر المتعدد الأطراف التيسيري في التقدم (FMCP4) في الدورة SB65@COP31 في أنطاليا."
+   },
+   "url": "https://www.youtube.com/watch?v=mnlPwcVpawM",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-africa-health",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "07:02",
+   "text": "Africa Ministerial Dialogue: Advancing Global Health through Climate-Resilient Health Systems. Location: UN Climate Change Pavilion, COP 31. Organized by: Amref Health Africa",
+   "summary": "Vídeo do diálogo ministerial africano, no pavilhão da UNFCCC, sobre sistemas de saúde resilientes ao clima (Amref Health Africa).",
+   "summary_i18n": {
+    "en": "Video of the Africa ministerial dialogue at the UN Climate Change Pavilion on climate-resilient health systems (Amref Health Africa).",
+    "es": "Vídeo del diálogo ministerial africano en el pabellón de la CMNUCC sobre sistemas de salud resilientes al clima (Amref Health Africa).",
+    "fr": "Vidéo du dialogue ministériel africain au pavillon de la CCNUCC sur les systèmes de santé résilients au climat (Amref Health Africa).",
+    "ru": "Видео министерского диалога стран Африки в павильоне РКИК ООН о климатоустойчивых системах здравоохранения (Amref Health Africa).",
+    "zh": "非洲部长级对话视频(UNFCCC展馆):气候韧性卫生系统(Amref Health Africa)。",
+    "ar": "فيديو الحوار الوزاري الأفريقي في جناح اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول النظم الصحية القادرة على التكيف مع المناخ (Amref Health Africa)."
+   },
+   "url": "https://www.youtube.com/watch?v=ojVg2Y_DgJU",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-09T08:43:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-turkiyecop31-20261109-passagem-martelo",
    "platform": "x",
    "account": "@turkiyecop31",
@@ -3878,11 +4036,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T07:45:00-03:00",
-  "label": "9 nov 2026, 07:45 (Brasília)",
+  "timestamp": "2026-11-09T08:43:00-03:00",
+  "label": "9 nov 2026, 08:43 (Brasília)",
   "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 9,
+  "new_items": 6,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "mmeioambiente (perfil vazio)"
