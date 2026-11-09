@@ -11,7 +11,9 @@ receive content only through `publish` and `publish-article`, which copy a white
   python3 -I tools/today.py set ID FIELD TEXT                # edit a draft field (no JSON editing)
          FIELD: headline summary what_happened what_changed why_it_matters watch_next open_questions
                 theme classification verification event_at basis.<field> contributor.display
-  python3 -I tools/today.py link ID FEED_ITEM_ID [--unlink]  # cross-reference a monitoring item
+  python3 -I tools/today.py link ID FEED_ITEM_ID --reason "..." --by NAME [--unlink]  # cross-reference (reason recorded)
+  python3 -I tools/today.py distinct ID FEED_ITEM_ID --reason "..." --by NAME       # not the same development
+  python3 -I tools/today.py priority ID lead|supporting      # editorial priority (private)
   python3 -I tools/today.py resolve ID FLAG_NO --by NAME --note "what was checked"
   python3 -I tools/today.py i18n-export ID                   # Portuguese fields to translate (card or article)
   python3 -I tools/today.py i18n-import ID LANG FILE --method human|machine-reviewed|machine [--by NAME]
@@ -114,6 +116,15 @@ def permission_errors(en):
             for k in ("name", "affiliation"):
                 if _s(who.get(k)) and who[k] in pub:
                     errs.append(f"anonymous card still mentions the contributor's {k}: remove it from the text and sources")
+    if not any(isinstance(s.get("url"), str) and s["url"].startswith("https://") for s in en.get("sources") or []):
+        # first-hand account only: no public URL needed, but provenance and an authorized attribution are
+        if perm.get("attribute") not in ("named", "anonymous"):
+            errs.append("only the contributor's own account supports this card: record the contributor's authorized attribution first (intake.py permissions)")
+        cited = [c for c in pv.get("claims") or [] if c.get("category") in ("attributed", "unverified")]
+        if not cited or any(not isinstance(c.get("para"), int) for c in cited):
+            errs.append("contributor-only card without internal provenance (claims with paragraph references)")
+        if "verified" in (en.get("basis") or {}).values():
+            errs.append("a card supported only by the contributor's account cannot carry 'verified'")
     for i, f in enumerate(pv.get("flags") or [], 1):
         if not f.get("resolved_by"):
             errs.append(f"flag {i} unresolved: {f['msg']} (today.py resolve {en['id']} {i} --by NAME --note ...)")
@@ -194,10 +205,21 @@ def set_field(eid, field, text):
     print(f"{eid}: {field} updated" + (f" (draft still has {len(errs)} issue(s) before publication)" if errs else ""))
 
 
-def link(eid, fid, unlink=False):
+def _match(en, fid, decision, reason, by):
+    """Every cross-reference decision is recorded with its reason (brief: never link silently)."""
+    pv = en.setdefault("_private", {})
+    pv.setdefault("matches", []).append({"feed": fid, "decision": decision, "reason": reason, "by": by, "at": P.now()})
+    for f in pv.get("flags") or []:
+        if f.get("code") in ("possible_duplicate", "confirm_link") and f.get("ref") == fid and not f.get("resolved_by"):
+            f.update(resolved_by=by, note=f"{decision}: {reason}", resolved_at=P.now())
+
+
+def link(eid, fid, reason, by, unlink=False):
     feed_ids = {i.get("id") for i in json.loads(FEED.read_text(encoding="utf-8"))["items"]}
     if fid not in feed_ids:
         sys.exit(f"no feed item {fid!r}")
+    if not _s(reason) or not _s(by):
+        sys.exit("--reason and --by are required: record why the items describe the same development")
     dp = drafts_path()
     doc = load(dp)
     en = find(doc, eid, "the private drafts")
@@ -205,12 +227,32 @@ def link(eid, fid, unlink=False):
     if not unlink:
         rel.append(fid)
     en["related"] = rel
-    # linking settles a possible-duplicate flag for that item
-    for f in (en.get("_private") or {}).get("flags") or []:
-        if f.get("code") == "possible_duplicate" and f.get("ref") == fid and not f.get("resolved_by"):
-            f.update(resolved_by="(linked)", note=f"cross-referenced to {fid}", resolved_at=P.now())
+    _match(en, fid, "unlinked" if unlink else "linked", reason, by)
     save(dp, doc)
     print(f"{eid}: {'unlinked' if unlink else 'linked'} {fid}")
+
+
+def distinct(eid, fid, reason, by):
+    if not _s(reason) or not _s(by):
+        sys.exit("--reason and --by are required")
+    dp = drafts_path()
+    doc = load(dp)
+    en = find(doc, eid, "the private drafts")
+    en["related"] = [r for r in en.get("related") or [] if r != fid]
+    _match(en, fid, "distinct", reason, by)
+    save(dp, doc)
+    print(f"{eid}: {fid} recorded as a different development")
+
+
+def set_priority(eid, level):
+    if level not in ("lead", "supporting"):
+        sys.exit("priority must be lead or supporting")
+    dp = drafts_path()
+    doc = load(dp)
+    en = find(doc, eid, "the private drafts")
+    en.setdefault("_private", {}).setdefault("editorial", {})["priority"] = level
+    save(dp, doc)
+    print(f"{eid}: editorial priority {level}")
 
 
 def resolve(eid, n, by, note):
@@ -234,6 +276,8 @@ def show(eid):
                 for i, f in enumerate(pv.get("flags") or [], 1):
                     st = f"resolved by {f['resolved_by']}: {f.get('note', '')}" if f.get("resolved_by") else "OPEN"
                     print(f"flag {i} [{f['code']}] {f['msg']} -> {st}")
+                for m in pv.get("matches") or []:
+                    print(f"match {m['feed']}: {m['decision']} by {m['by']} ({m['at']}): {m['reason']}")
                 errs, _ = V.check_entry(dict(en, status="published", approved_by="x", approved_at=P.now()), public=False)
                 errs += permission_errors(en) if name == "draft" else []
                 print(f"[{name}] before publication: " + ("ready" if not errs else "; ".join(errs)))
@@ -458,7 +502,8 @@ def main(a):
             for en in doc["entries"]:
                 langs = ",".join(sorted((en.get("i18n") or {}).keys())) or "-"
                 nf = sum(1 for f in (en.get("_private") or {}).get("flags") or [] if not f.get("resolved_by"))
-                print(f"{name:7} {en['status']:9} {en['id']}  [{langs}] flags:{nf}  {en['headline'][:60]}")
+                pr = ((en.get("_private") or {}).get("editorial") or {}).get("priority", "-")
+                print(f"{name:7} {en['status']:9} {en['id']}  [{langs}] flags:{nf} priority:{pr}  {en['headline'][:60]}")
         for ap in sorted((P.ensure() / "articles").glob("*.json")):
             ar = P.load_json(ap, {})
             print(f"article {ar.get('status', '?'):9} {ar.get('id')}  cards: {', '.join(ar.get('entries') or [])}")
@@ -467,7 +512,9 @@ def main(a):
     if cmd == "promote": promote(a[1])
     elif cmd == "show": show(a[1])
     elif cmd == "set": set_field(a[1], a[2], a[3])
-    elif cmd == "link": link(a[1], a[2], "--unlink" in a)
+    elif cmd == "link": link(a[1], a[2], opt(a, "--reason"), opt(a, "--by"), "--unlink" in a)
+    elif cmd == "distinct": distinct(a[1], a[2], opt(a, "--reason"), opt(a, "--by"))
+    elif cmd == "priority": set_priority(a[1], a[2])
     elif cmd == "resolve":
         if not opt(a, "--by") or not opt(a, "--note"): sys.exit("--by and --note are required")
         resolve(a[1], int(a[2]), opt(a, "--by"), opt(a, "--note"))

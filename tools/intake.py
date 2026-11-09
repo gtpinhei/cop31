@@ -6,12 +6,14 @@ published: drafts go through tools/today.py (translation, flags, human approval)
 
   python3 -I tools/intake.py add FILE|- --title "..." --contributor "Name" --role author|observer|analyst|organization
         [--affiliation "Org"] [--kind readout|analysis|meeting-note|field-report] [--event-date YYYY-MM-DD]
-        [--confidentiality public|chatham|confidential] [--attribute named|anonymous|ask]
+        [--confidentiality public|chatham|confidential] [--attribute named|anonymous|ask] [--display-default named|anonymous]
         [--anonymity-reason "..."] [--publish-analysis yes|no] [--publish-document yes|no]
         [--received-by EDITOR] [--source-url URL ...]
   python3 -I tools/intake.py prompt SID      # extraction brief for the AI assistant (numbered paragraphs + rules)
   python3 -I tools/intake.py propose SID FILE  # check the AI's structured proposal and create private drafts
   python3 -I tools/intake.py related SID|ENTRY_ID  # monitoring items that may describe the same development
+  python3 -I tools/intake.py permissions SID --by EDITOR [--attribute named|anonymous] [--publish-analysis yes|no]
+        [--anonymity-reason "..."] [--name "..."] [--affiliation "..."]   # record the contributor's authorization
   python3 -I tools/intake.py list | show SID
 
 Supported inputs: .docx, .pdf (with a text layer), .md, .txt, or pasted text on stdin ("-").
@@ -208,6 +210,7 @@ def add(a):
         "permissions": {"attribute": attr, "publish_analysis": opt(a, "--publish-analysis", "no") == "yes",
                         "publish_document": opt(a, "--publish-document", "no") == "yes"},
         "anonymity_reason": opt(a, "--anonymity-reason"),
+        "display_default": opt(a, "--display-default", "named" if attr == "named" else "anonymous"),
         "source_urls": [u for u in opts(a, "--source-url") if u.startswith("https://")],
         "extraction_notes": notes, "paragraphs": len(paras),
     }
@@ -249,7 +252,8 @@ Submission {sid} — kind: {kind}; contributor role: {role}; confidentiality: {c
 8. If the document preserves analysis worth reading in full, propose an "article": blocks in the order of the
    document, each with basis and the ¶ numbers it comes from, keeping the contributor's reasoning and nuance.
    Mark reported material "attributed" and the contributor's interpretation "analysis".
-9. "related": ids of monitoring items below that describe the SAME development (not just the same topic).
+9. "related": ids of monitoring items below that describe the SAME development (not just the same topic), each with a
+   reason in "related_reasons". The editor confirms every link; nothing is linked silently.
 
 ## Output: one JSON object, nothing else
 {schema}
@@ -270,7 +274,7 @@ SCHEMA = """{
    "what_changed": {"text": "...", "basis": "attributed", "claims": ["c2"]},
    "why_it_matters": {"text": "...", "basis": "analysis", "claims": ["c3"]},
    "watch_next": {"text": "...", "basis": "analysis", "claims": ["c3"]},
-   "open_questions": "...", "actors": ["..."], "related": ["feed-item-id"],
+   "open_questions": "...", "actors": ["..."], "related": ["feed-item-id"], "related_reasons": {"feed-item-id": "why it is the same development"},
    "sources": [{"title": "...", "publisher": "...", "url": "https://...", "kind": "official|media|analysis"}],
    "claims": [{"id": "c1", "text": "...", "category": "attributed", "speaker": "...", "para": 3, "quote": "exact words"},
               {"id": "c3", "text": "...", "category": "analysis", "speaker": "autor do readout", "para": 9, "quote": "..."}]}
@@ -412,7 +416,7 @@ def propose(sid, path):
     public_ids = {e["id"] for e in T.load(T.TODAY)["entries"]}
     perm = meta["permissions"]
     pc = meta["contributor"]
-    if perm["attribute"] == "named":
+    if perm["attribute"] == "named" or (perm["attribute"] == "ask" and meta.get("display_default") == "named"):
         contrib = {"display": "named", "name": pc["name"], "affiliation": pc.get("affiliation"), "role": pc["role"]}
         contrib = {k: v for k, v in contrib.items() if v}
     else:
@@ -438,14 +442,17 @@ def propose(sid, path):
             if c["category"] == "verified":
                 flags.append({"code": "verify_source", "msg": f"open {c['source_url']} and confirm claim {c['id']}: {c['text']}"})
         if not any(s.get("url") for s in sources):
-            flags.append({"code": "missing_source_url", "msg": "no public source URL: only the contributor's account supports this card; look for an official document"})
+            flags.append({"code": "contributor_only", "msg": "only the contributor's first-hand account supports this card: keep internal provenance (¶ references) and publish only with authorized attribution; nothing here may be labelled verified"})
         if meta["confidentiality"] == "chatham":
             flags.append({"code": "chatham", "msg": "Chatham House rule: confirm no speaker or affiliation is identifiable"})
         if meta["confidentiality"] == "confidential":
             flags.append({"code": "confidential", "msg": "confidential submission: not publishable"})
         if perm["attribute"] == "ask":
-            flags.append({"code": "attribution", "msg": "contributor's attribution preference not recorded: confirm named or anonymous"})
+            flags.append({"code": "attribution", "msg": ("named attribution prepared but NOT authorized: " if contrib["display"] == "named" else "attribution preference not recorded: ")
+                          + f"record the contributor's decision with intake.py permissions {sid} --attribute named|anonymous --by EDITOR"})
         linked = set(dv.get("related") or [])
+        for r in sorted(linked):
+            flags.append({"code": "confirm_link", "ref": r, "msg": f"cross-reference to {r} proposed during extraction: confirm with today.py link (with a reason) or record as distinct"})
         card_text = " ".join([dv["headline"]] + [dv[f]["text"] for f in FACT_FIELDS if isinstance(dv.get(f), dict)])
         for r in related_items(card_text, dv.get("event_at") or meta["event_date"], n=5):
             if r["id"] not in linked and r["score"] >= 0.15:
@@ -460,6 +467,8 @@ def propose(sid, path):
             "actors": dv.get("actors") or [], "sources": sources, "related": sorted(linked),
             "contributor": contrib, "i18n": {},
             "_private": {"submission": sid, "claims": claims, "flags": flags, "permissions": perm,
+                         "matches": [{"feed": r, "decision": "proposed", "reason": (dv.get("related_reasons") or {}).get(r, "suggested in the extraction proposal"),
+                                      "by": "extraction (IA)", "at": P.now()} for r in sorted(linked)],
                          "confidentiality": meta["confidentiality"], "anonymity_reason": meta.get("anonymity_reason"),
                          "contributor": pc, "article": aid, "ai_assisted": True, "proposal_key": dv["key"]},
         }
@@ -495,6 +504,66 @@ def propose(sid, path):
     print("review: python3 -I tools/today.py show <id>; preview: python3 -I tools/preview.py")
 
 
+def permissions(a):
+    sid = a[1]
+    by = opt(a, "--by")
+    if not by:
+        sys.exit("--by EDITOR is required: the authorization is recorded with who confirmed it")
+    d = sub_dir(sid)
+    meta = P.load_json(d / "meta.json", {})
+    perm, pc = meta["permissions"], meta["contributor"]
+    change = {}
+    attr = opt(a, "--attribute")
+    if attr:
+        if attr not in ("named", "anonymous"): sys.exit("--attribute must be named or anonymous")
+        if attr == "anonymous" and not (opt(a, "--anonymity-reason") or meta.get("anonymity_reason")):
+            sys.exit("anonymous attribution needs --anonymity-reason (kept internal)")
+        perm["attribute"] = change["attribute"] = attr
+    if opt(a, "--publish-analysis"):
+        perm["publish_analysis"] = change["publish_analysis"] = opt(a, "--publish-analysis") == "yes"
+    if opt(a, "--anonymity-reason"):
+        meta["anonymity_reason"] = change["anonymity_reason"] = opt(a, "--anonymity-reason")
+    for k in ("name", "affiliation"):
+        if opt(a, f"--{k}") is not None:
+            pc[k] = change[k] = opt(a, f"--{k}") or None
+    if not change:
+        sys.exit("nothing to record")
+    meta.setdefault("permissions_history", []).append({"at": P.now(), "by": by, "changes": change})
+    P.save_json(d / "meta.json", meta)
+    import today as T
+    dp = T.drafts_path()
+    drafts = T.load(dp)
+
+    def apply(x):
+        pv = x.setdefault("_private", {})
+        pv["permissions"] = dict(perm)
+        pv["contributor"] = dict(pc)
+        if meta.get("anonymity_reason"): pv["anonymity_reason"] = meta["anonymity_reason"]
+        c = x.get("contributor") or {}
+        if perm["attribute"] == "named":
+            c = {k: v for k, v in {"display": "named", "name": pc["name"], "affiliation": pc.get("affiliation"), "role": pc["role"]}.items() if v}
+        elif perm["attribute"] == "anonymous":
+            c = {"display": "anonymous", "role": pc["role"]}
+        x["contributor"] = c
+        for s in x.get("sources") or []:
+            if s.get("kind") == "contributor":
+                s["publisher"] = c.get("name") or T.ANON
+        if perm["attribute"] in ("named", "anonymous"):
+            for f in pv.get("flags") or []:
+                if f.get("code") == "attribution" and not f.get("resolved_by"):
+                    f.update(resolved_by=by, note=f"contributor authorization recorded: {perm['attribute']}", resolved_at=P.now())
+    n = 0
+    for en in drafts["entries"]:
+        if (en.get("_private") or {}).get("submission") == sid:
+            apply(en); n += 1
+    T.save(dp, drafts)
+    if meta.get("article"):
+        ap = P.ensure() / "articles" / f"{meta['article']}.json"
+        if ap.exists():
+            art = P.load_json(ap, {}); apply(art); P.save_json(ap, art)
+    print(f"{sid}: recorded {change} by {by}; updated {n} draft(s)" + (" and the readout" if meta.get("article") else ""))
+
+
 def related_cmd(x):
     import today as T
     d = P.ensure() / "intake" / x
@@ -527,6 +596,7 @@ def main(a):
     elif cmd == "prompt": prompt(a[1])
     elif cmd == "propose": propose(a[1], a[2])
     elif cmd == "related": related_cmd(a[1])
+    elif cmd == "permissions": permissions(a)
     elif cmd == "list": list_cmd()
     elif cmd == "show": show_cmd(a[1])
     else: sys.exit(__doc__)

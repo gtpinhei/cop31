@@ -164,7 +164,7 @@ class Provenance(Base):
         codes = [f["code"] for f in en["_private"]["flags"]]
         self.assertIn("ai_draft", codes)
         self.assertIn("unverified_claim", codes)
-        self.assertIn("missing_source_url", codes)
+        self.assertIn("contributor_only", codes)
         self.assertEqual(en["basis"]["why_it_matters"], "analysis")
         self.assertEqual(en["basis"]["watch_next"], "unverified")
         self.assertEqual(en["sources"][0]["kind"], "contributor")
@@ -301,10 +301,19 @@ class Publication(Base):
         eid = self.card("-scenarios")
         feed = json.loads((self.root / "data" / "feed.json").read_text())
         fid = feed["items"][0]["id"]
-        self.run_tool("today.py", "link", eid, fid)
+        out = self.run_tool("today.py", "link", eid, fid, ok=False)
+        self.assertIn("--reason and --by are required", out)
+        self.run_tool("today.py", "link", eid, fid, "--reason", "same report", "--by", "Editor")
         en = next(e for e in self.drafts() if e["id"] == eid)
         self.assertIn(fid, en["related"])
-        self.run_tool("today.py", "link", eid, "no-such-item", ok=False)
+        self.assertEqual(en["_private"]["matches"][-1]["decision"], "linked")
+        self.assertEqual(en["_private"]["matches"][-1]["reason"], "same report")
+        self.run_tool("today.py", "link", eid, "no-such-item", "--reason", "x", "--by", "E", ok=False)
+        fid2 = feed["items"][1]["id"]
+        self.run_tool("today.py", "distinct", eid, fid2, "--reason", "same topic, different event", "--by", "Editor")
+        en = next(e for e in self.drafts() if e["id"] == eid)
+        self.assertNotIn(fid2, en["related"])
+        self.assertEqual(en["_private"]["matches"][-1]["decision"], "distinct")
 
     def test_correction_marks_translations_pending_and_retraction_leaves_notice(self):
         self.ready()
@@ -322,6 +331,60 @@ class Publication(Base):
         self.assertEqual(doc["entries"], [])
         self.assertEqual(doc["retractions"][0]["id"], eid)
         self.assertEqual(self.drafts()[0]["status"], "retracted")
+
+
+class EditorialDecisions(Base):
+    def card(self, key):
+        return next(e["id"] for e in self.drafts() if key + "-" in e["id"])
+
+    def test_named_by_default_but_unauthorized_until_recorded(self):
+        sid = self.add(FIX / "synthetic_readout.md", "--attribute", "ask", "--display-default", "named", "--publish-analysis", "no")
+        self.run_tool("intake.py", "propose", sid, self.proposal())
+        eid = self.card("-grid")
+        en = next(e for e in self.drafts() if e["id"] == eid)
+        self.assertEqual(en["contributor"]["display"], "named")          # prepared as named
+        self.assertEqual(en["_private"]["permissions"]["attribute"], "ask")  # but not authorized
+        self.assertTrue(any(f["code"] == "attribution" and "NOT authorized" in f["msg"] for f in en["_private"]["flags"]))
+        others = [i for i, f in enumerate(en["_private"]["flags"], 1) if f["code"] != "attribution"]
+        for i in others:
+            self.run_tool("today.py", "resolve", eid, i, "--by", "Editor", "--note", "checked")
+        self.translate_all(eid)
+        out = self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1, ok=False)
+        self.assertIn("not authorized public attribution", out)
+        self.run_tool("intake.py", "permissions", sid, "--attribute", "named", ok=False)   # --by required
+        self.run_tool("intake.py", "permissions", sid, "--attribute", "named", "--by", "Editor")
+        meta = json.loads((self.store / "intake" / sid / "meta.json").read_text())
+        self.assertEqual(meta["permissions_history"][0]["by"], "Editor")
+        self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1)
+
+    def test_contributor_only_card_needs_authorized_attribution_and_never_verified(self):
+        sid = self.add(FIX / "synthetic_readout.md", "--attribute", "ask")
+        self.run_tool("intake.py", "propose", sid, self.proposal())
+        eid = self.card("-grid")
+        self.resolve_all(eid)
+        self.translate_all(eid)
+        out = self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1, ok=False)
+        self.assertIn("record the contributor's authorized attribution first", out)
+        self.run_tool("today.py", "set", eid, "basis.what_happened", "verified")
+        self.run_tool("intake.py", "permissions", sid, "--attribute", "anonymous", "--anonymity-reason", "safety", "--by", "Editor")
+        out = self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1, ok=False)
+        self.assertIn("cannot carry 'verified'", out)
+
+    def test_priority_and_proposed_links_need_confirmation(self):
+        sid = self.add()
+        feed = json.loads((self.root / "data" / "feed.json").read_text())
+        fid = feed["items"][0]["id"]
+        def m(p):
+            p["developments"][1]["related"] = [fid]
+            p["developments"][1]["related_reasons"] = {fid: "test reason"}
+        self.run_tool("intake.py", "propose", sid, self.proposal(m))
+        eid = self.card("-grid")
+        en = next(e for e in self.drafts() if e["id"] == eid)
+        self.assertEqual(en["_private"]["matches"][0], {**en["_private"]["matches"][0], "decision": "proposed", "reason": "test reason"})
+        self.assertTrue(any(f["code"] == "confirm_link" and f["ref"] == fid for f in en["_private"]["flags"]))
+        self.run_tool("today.py", "priority", eid, "lead")
+        self.run_tool("today.py", "priority", eid, "urgent", ok=False)
+        self.assertIn("priority:lead", self.run_tool("today.py", "list"))
 
 
 class Compatibility(Base):
