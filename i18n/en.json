@@ -966,7 +966,6 @@
  "j:ytTitle": "Recent videos from {n}",
  "j:unv": "unverified",
  "j:listOpt": "List: {n}",
- "h3a2d5da3": "Local preview: drafts from editorial/drafts.json, which are not part of the published site.",
  "j:tPending": "Translation not yet available in this language; original text in Portuguese.",
  "j:tMachine": "Machine translation from the Portuguese original.",
  "j:tMachineRev": "Machine translation from the Portuguese original, reviewed.",
@@ -999,5 +998,41 @@
  "j:qSome": "“{t}”: results in {n} sections (counts in the menu).",
  "j:qScope": "Search the guide, the updates and the loaded social pulse",
  "hc56a4c58": "Try loading more",
- "j:pMoreErr": "Could not load more posts ({r}). The posts already shown have been kept."
+ "j:pMoreErr": "Could not load more posts ({r}). The posts already shown have been kept.",
+ "h1e43f6d3": "Local preview: drafts from the private editorial store, which are not part of the published site.",
+ "j:tLegend": "Each passage shows what it rests on: verified fact, attributed (statement or first-hand observation), analysis, or unverified.",
+ "j:tOpen": "Open questions",
+ "j:tActors": "Actors",
+ "j:tRelated": "In the monitoring",
+ "j:tReadFull": "Read the full readout",
+ "j:tContrib": "Contribution by {w}",
+ "j:tContribAnon": "Contribution by a contributor known to the editors, whose anonymity is preserved",
+ "j:tNoEndorse": "The affiliation identifies the contributor and does not imply that the institution endorses the published interpretations.",
+ "j:tOwnAccount": "contributor's account, no public link",
+ "j:tCorrected": "Correction on {d}: {n}",
+ "j:tRetracted": "Retracted on {d}: {n}",
+ "j:tRetractedH": "Retracted entries",
+ "j:tBack": "Back to Today at COP31",
+ "j:tArticle": "Full readout",
+ "j:tArtMissing": "This readout is not available.",
+ "j:tArtNote": "Full version of the contribution, reviewed and approved by the editors. The labels show what was reported and what is the contributor's analysis.",
+ "j:bL": [
+  "verified fact",
+  "attributed",
+  "analysis",
+  "unverified"
+ ],
+ "j:bTip": [
+  "Confirmed by the editors against an official source.",
+  "Statement by the person quoted, or the contributor's first-hand observation; not independently verified.",
+  "Interpretation by the contributor or the editors, not a fact.",
+  "Assertion not yet confirmed."
+ ],
+ "j:tRoleL": [
+  "author",
+  "observer",
+  "analyst",
+  "organization"
+ ],
+ "j:tReportNote": "Reporting note"
 }

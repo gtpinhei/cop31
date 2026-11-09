@@ -1,0 +1,35 @@
+{
+ "developments": [
+  {"key": "scenarios", "headline": "[TESTE] Presidência fictícia apresenta três cenários para o Fundo Northwind",
+   "summary": {"text": "[TESTE] Segundo a presidência, o fundo dependeria de três cenários de contribuição pública.", "basis": "attributed", "claims": ["c1", "c2"]},
+   "theme": "Finanças", "areas": ["financiamento"], "classification": "processo", "verification": "fonte única", "event_at": "2099-01-01",
+   "what_happened": {"text": "[TESTE] A presidência apresentou um roteiro para levar o Fundo Northwind a 500 bilhões de créditos por ano até 2110, com três cenários.", "basis": "attributed", "claims": ["c1", "c2"]},
+   "what_changed": {"text": "[TESTE] Os cenários vão de 320 a 610 bilhões de créditos, segundo a presidência.", "basis": "attributed", "claims": ["c3"]},
+   "why_it_matters": {"text": "[TESTE] O autor avalia que o resultado depende da continuidade pela próxima presidência.", "basis": "analysis", "claims": ["c4"]},
+   "watch_next": {"text": "[TESTE] Se doadores confirmam os apoios mencionados por um participante.", "basis": "unverified", "claims": ["c5"]},
+   "open_questions": "[TESTE] Quais doadores e valores? Não foram informados.",
+   "actors": ["Presidência fictícia"], "related": [], "sources": [],
+   "claims": [
+    {"id": "c1", "text": "Roteiro para 500 bilhões de créditos por ano até 2110", "category": "attributed", "speaker": "Presidência fictícia", "para": 4, "quote": "presented a roadmap for scaling an imaginary Northwind Fund to 500 billion credits per year by 2110"},
+    {"id": "c2", "text": "Três cenários de contribuição pública", "category": "attributed", "speaker": "chefe de finanças da presidência", "para": 5, "quote": "would rely on three scenarios, each assuming a different level of public contributions"},
+    {"id": "c3", "text": "Cenário baixo 320 bi; alto 610 bi", "category": "attributed", "speaker": "Presidência fictícia", "para": 6, "quote": "the low scenario reaches 320 billion credits and the high scenario 610 billion credits"},
+    {"id": "c4", "text": "Continuidade depende da próxima presidência", "category": "analysis", "speaker": "autor do readout", "para": 11, "quote": "the grid will matter only if a successor presidency agrees to maintain it after 2100"},
+    {"id": "c5", "text": "Dois doadores teriam prometido apoio", "category": "unverified", "speaker": "um participante", "para": 13, "quote": "two donors had already pledged support, but no names or amounts were given"}
+   ]},
+  {"key": "grid", "headline": "[TESTE] Grade 3×3 de acompanhamento é voluntária, diz presidência",
+   "theme": "Presidência e anfitrião", "classification": "anúncio", "verification": "fonte única", "event_at": "2099-01-01",
+   "what_happened": {"text": "[TESTE] Foi proposta uma Grade de Entrega 3×3; a presidência disse que ela é voluntária.", "basis": "attributed", "claims": ["g1", "g2"]},
+   "why_it_matters": {"text": "[TESTE] O autor observou que nenhum representante da próxima presidência falou.", "basis": "attributed", "claims": ["g3"]},
+   "actors": ["Presidência fictícia"], "sources": [],
+   "claims": [
+    {"id": "g1", "text": "Grade 3×3 proposta", "category": "attributed", "speaker": "Presidência fictícia", "para": 8, "quote": "A 3×3 Delivery Grid was proposed to track progress"},
+    {"id": "g2", "text": "Grade voluntária", "category": "attributed", "speaker": "Presidência fictícia", "para": 9, "quote": "is voluntary and creates no new obligations for any party"},
+    {"id": "g3", "text": "Nenhum representante da próxima presidência falou", "category": "attributed", "speaker": "autor do readout (observação direta)", "para": 12, "quote": "no successor presidency representative spoke during the briefing"}
+   ]}
+ ],
+ "article": {"title": "[TESTE] Readout sintético completo", "standfirst": "[TESTE] Documento inventado para testes.",
+  "blocks": [
+   {"basis": "attributed", "heading": "O que foi apresentado", "md": "[TESTE] A presidência apresentou **três cenários** (¶4–6).", "paras": [4, 5, 6], "claims": ["c1", "c2", "c3"]},
+   {"basis": "analysis", "heading": "Avaliação do autor", "md": "[TESTE] A grade só terá efeito se a próxima presidência a mantiver.", "paras": [11], "claims": ["c4"]}
+  ]}
+}
