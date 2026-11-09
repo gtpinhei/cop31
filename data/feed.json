@@ -35,6 +35,63 @@
  ],
  "items": [
   {
+   "id": "instagram-observatoriodoclima-20261109-agenda-aprovada",
+   "platform": "instagram",
+   "account": "@observatoriodoclima",
+   "institution": "Observatório do Clima",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "16:16",
+   "text": "A COP31 começa com agenda aprovada, mas com o principal assunto fora dela. O fim dos combustíveis fósseis continua sem espaço formal nas negociações. A agenda provisória foi mantida, o programa de trabalho sobre financiamento climático sobreviveu e os mapas do caminho apresentados pela presidência brasileira da COP30 colocam sobre a mesa propostas para avançar nessa discussão. No primeiro dia da conferência, Stela Herschmann, líder de Política Internacional do Observatório do Clima, conta os bastidores do comecinho das negociações e o que esperar dos próximos dias em Antália, na Turquia.",
+   "summary": "No primeiro dia da COP31, o Observatório do Clima avalia que a agenda foi aprovada sem espaço formal para o fim dos combustíveis fósseis; o programa de trabalho sobre finanças sobreviveu e os mapas do caminho da presidência da COP30 seguem na mesa.",
+   "summary_i18n": {
+    "en": "On COP31's first day, Observatório do Clima says the agenda was adopted without formal space for the phase-out of fossil fuels; the climate finance work programme survived and the COP30 Presidency roadmaps remain on the table.",
+    "es": "En el primer día de la COP31, el Observatório do Clima señala que se aprobó la agenda sin espacio formal para la eliminación de los combustibles fósiles; el programa de trabajo sobre financiamiento climático sobrevivió y las hojas de ruta de la Presidencia de la COP30 siguen sobre la mesa.",
+    "fr": "Au premier jour de la COP31, l'Observatório do Clima indique que l'ordre du jour a été adopté sans place formelle pour la sortie des combustibles fossiles ; le programme de travail sur la finance climatique a survécu et les feuilles de route de la présidence de la COP30 restent sur la table.",
+    "ru": "В первый день COP31 Observatório do Clima отмечает, что повестка принята без формального места для отказа от ископаемого топлива; рабочая программа по климатическому финансированию сохранена, а дорожные карты председательства COP30 остаются на столе.",
+    "zh": "在COP31第一天，气候观察站（Observatório do Clima）指出，议程已获通过，但未正式纳入逐步淘汰化石燃料议题；气候融资工作方案得以保留，COP30主席国提出的路线图仍在讨论之列。",
+    "ar": "في اليوم الأول من COP31، ترى Observatório do Clima أنه جرى اعتماد جدول الأعمال دون مساحة رسمية للتخلص التدريجي من الوقود الأحفوري؛ وبقي برنامج العمل بشأن التمويل المناخي، وما زالت خرائط الطريق التي قدمتها رئاسة COP30 مطروحة."
+   },
+   "url": "https://www.instagram.com/p/DfiD4ZGBPNH/",
+   "tracks": [
+    "TAFF e fósseis",
+    "Finanças",
+    "Decisão de cobertura"
+   ],
+   "source_id": "ig-observatoriodoclima",
+   "kind": "post",
+   "first_seen": "2026-11-09T16:55:00-03:00",
+   "lang": "pt"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-under2-investment-forum",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "16:29",
+   "text": "Under2 Coalition's Subnational Investment Forum Opening Welcome",
+   "summary": "Vídeo da abertura do Fórum de Investimento Subnacional da Under2 Coalition, evento paralelo da COP31 sobre investimento climático de governos subnacionais.",
+   "summary_i18n": {
+    "en": "Video of the opening of the Under2 Coalition's Subnational Investment Forum, a COP31 side event on climate investment by subnational governments.",
+    "es": "Video de la apertura del Foro de Inversión Subnacional de la Coalición Under2, evento paralelo de la COP31 sobre inversión climática de gobiernos subnacionales.",
+    "fr": "Vidéo de l'ouverture du Forum d'investissement infranational de la Coalition Under2, événement parallèle de la COP31 sur l'investissement climatique des gouvernements infranationaux.",
+    "ru": "Видео открытия Субнационального инвестиционного форума Коалиции Under2 — параллельного мероприятия COP31 об климатических инвестициях субнациональных властей.",
+    "zh": "Under2联盟次国家级投资论坛开幕致辞视频，这是COP31的一场边会，主题为次国家级政府的气候投资。",
+    "ar": "فيديو افتتاح منتدى الاستثمار دون الوطني التابع لتحالف Under2، وهو حدث جانبي في COP31 حول الاستثمار المناخي للحكومات دون الوطنية."
+   },
+   "url": "https://www.youtube.com/watch?v=T0o1PUcG8Gw",
+   "tracks": [
+    "Finanças",
+    "Agenda de Ação"
+   ],
+   "source_id": "yt-unclimatechangeevents",
+   "kind": "post",
+   "first_seen": "2026-11-09T16:55:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "instagram-turkiyecop31-20261109-dia-tematico-alimentos",
    "platform": "instagram",
    "account": "@turkiyecop31",
@@ -5659,11 +5716,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T15:55:00-03:00",
-  "label": "9 nov 2026, 15:55 (Brasília)",
+  "timestamp": "2026-11-09T16:55:00-03:00",
+  "label": "9 nov 2026, 16:55 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 3,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
