@@ -111,6 +111,9 @@ class Sources(unittest.TestCase):
         self.assertEqual(res[6]["result"], "awaiting_activation"); self.assertIn("not probed", res[6]["reason"])
         wmo = next(s for s in self.reg()["sources"] if s.get("handle") == "wmo.int")
         self.assertEqual(wmo["health"]["last_outcome"], "success")
+        rep = self.run_tool("report")
+        self.assertIn("tentadas por um agente: 0", rep)          # a probe is not collection
+        self.assertIn("testadas só no registro: 1", rep)
         self.assertEqual(wmo["identity"]["status"], "checked")
         # editor can approve one that is awaiting; rejecting needs a reason
         rid = res[3]["id"]
@@ -138,7 +141,7 @@ class Sources(unittest.TestCase):
         rep = self.run_tool("report")
         self.assertIn("bloqueadas: 1", rep)
         self.assertIn("com sucesso: 1", rep)
-        self.assertIn("nunca tentadas", rep)
+        self.assertIn("ainda não tentadas", rep)
         self.assertIn("bsky-newvoice-bsky-social", rep)
 
     def test_views_only_active_and_never_edit_hint(self):
