@@ -35,6 +35,58 @@
  ],
  "items": [
   {
+   "id": "x-murat_kurum-20261109-cop31-basliyor",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "00:51",
+   "text": "#COP31 başlıyor ✨",
+   "summary": "A COP31 começa: Kurum anuncia a abertura da conferência.",
+   "summary_i18n": {
+    "en": "COP31 is starting: Kurum announces the opening of the conference.",
+    "es": "La COP31 comienza: Kurum anuncia la apertura de la conferencia.",
+    "fr": "La COP31 commence : Kurum annonce l'ouverture de la conférence.",
+    "ru": "COP31 начинается: Курум объявляет об открытии конференции.",
+    "zh": "COP31开幕在即：Kurum宣布大会开始。",
+    "ar": "بدء مؤتمر الأطراف الحادي والثلاثين: قوروم يعلن افتتاح المؤتمر."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T01:50:00-03:00",
+   "lang": "tr"
+  },
+  {
+   "id": "instagram-muratkurum-20261109-cop31-basliyor",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "00:52",
+   "text": "#COP31 başlıyor ✨",
+   "summary": "A COP31 começa: Kurum anuncia a abertura da conferência.",
+   "summary_i18n": {
+    "en": "COP31 is starting: Kurum announces the opening of the conference.",
+    "es": "La COP31 comienza: Kurum anuncia la apertura de la conferencia.",
+    "fr": "La COP31 commence : Kurum annonce l'ouverture de la conférence.",
+    "ru": "COP31 начинается: Курум объявляет об открытии конференции.",
+    "zh": "COP31开幕在即：Kurum宣布大会开始。",
+    "ar": "بدء مؤتمر الأطراف الحادي والثلاثين: قوروم يعلن افتتاح المؤتمر."
+   },
+   "url": "https://www.instagram.com/p/DfgaJH0ISMB/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T01:50:00-03:00",
+   "lang": "tr"
+  },
+  {
    "id": "wri-2026-11-08-1-3t-statement",
    "institution": "WRI",
    "type": "comunicado",
@@ -2889,11 +2941,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T22:50:00-03:00",
-  "label": "8 nov 2026, 22:50 (Brasília)",
-  "accounts_checked": 19,
+  "timestamp": "2026-11-09T01:50:00-03:00",
+  "label": "9 nov 2026, 01:50 (Brasília)",
+  "accounts_checked": 29,
   "blocked": 2,
-  "new_items": 1,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "mmeioambiente (perfil vazio)",
