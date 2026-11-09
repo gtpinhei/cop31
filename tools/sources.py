@@ -768,8 +768,9 @@ def coverage(reg, at=None):
                      "ok_checks_24h": sum(1 for x in recent if x.get("outcome") in ("success", "success_empty")),
                      "new_items_24h": items, "last_success": ok[-1]["at"] if ok else None,
                      "last_item_date": s["health"].get("latest_item_date")})
-    for key in ("all", "A", "B", "C"):
-        rs = [r for r in rows if key == "all" or r["priority"] == key]
+    plats = sorted({r["platform"] for r in rows})
+    for key in ("all", "A", "B", "C", *plats):
+        rs = [r for r in rows if key == "all" or r["priority"] == key or r["platform"] == key]
         if not rs:
             continue
         from collections import Counter
@@ -797,7 +798,8 @@ def report_md(reg):
     cv = coverage(reg)["totals"]
     L.append("")
     L.append("## Cobertura nas últimas 24 h (contra a cadência de cada fonte; só leituras de agentes)")
-    for k, lab in (("all", "todas"), ("A", "prioridade A"), ("B", "prioridade B"), ("C", "prioridade C")):
+    for k, lab in (("all", "todas"), ("A", "prioridade A"), ("B", "prioridade B"), ("C", "prioridade C"),
+                   *((p, p) for p in ("web", "rss", "x", "bluesky", "instagram", "youtube"))):
         t = cv.get(k)
         if t:
             L.append(f"- {lab}: {t['covered_24h']}/{t['active']} cobertas ({t['coverage_24h']:.0%}); em dia {t['on_time']}, atrasadas {t['overdue']}, "

@@ -191,6 +191,8 @@ class Sources(unittest.TestCase):
         self.assertEqual(t["A"]["on_time"], 1)              # read 2 h ago, every_run window 5 h
         self.assertEqual(t["A"]["new_items_24h"], 0)        # the 4 items were 30 h ago: success is not intelligence
         self.assertEqual(t["B"]["blocked"], 1)
+        self.assertEqual(t["bluesky"]["blocked"], 1)                 # per-platform totals too
+        self.assertEqual(t["x"]["on_time"], 1)
         self.assertEqual(t["B"]["covered_24h"], 0)
         web = [k for k in t if k == "all"]
         self.assertTrue(web)
