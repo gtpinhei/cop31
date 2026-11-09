@@ -975,8 +975,8 @@
    "priority": "B",
    "identity": "checked",
    "identity_basis": "página",
-   "identity_evidence": null,
-   "identity_checked_at": null,
+   "identity_evidence": "https://wmo.int/news",
+   "identity_checked_at": "2026-11-09",
    "verified": true
   }
  ]
