@@ -35,6 +35,58 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261109-welcome",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "03:36",
+   "text": "Welcome to #COP31 Türkiye. 🇹🇷 #COP31Antalya",
+   "summary": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
+    "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
+    "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
+    "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
+    "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
+    "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T03:50:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261109-welcome",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "03:34",
+   "text": "Welcome to #COP31 Türkiye. 🇹🇷  #COP31Türkiye'ye hoş geldiniz. 🇹🇷  #COP31Antalya",
+   "summary": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
+   "summary_i18n": {
+    "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
+    "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
+    "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
+    "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
+    "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
+    "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
+   },
+   "url": "https://www.instagram.com/p/Dfgsu-Isz-H/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T03:50:00-03:00",
+   "lang": "en"
+  },
+  {
    "id": "x-turkiyecop31-20261109-day1-theme",
    "kind": "post",
    "platform": "x",
@@ -3022,15 +3074,14 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T02:42:00-03:00",
-  "label": "9 nov 2026, 02:42 (Brasília)",
+  "timestamp": "2026-11-09T03:50:00-03:00",
+  "label": "9 nov 2026, 03:50 (Brasília)",
   "accounts_checked": 27,
-  "blocked": 2,
-  "new_items": 3,
+  "blocked": 1,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
-   "mmeioambiente (perfil vazio)",
-   "youtube UNClimateChangeEvents (feed 404)"
+   "mmeioambiente (perfil vazio)"
   ]
  }
 }
