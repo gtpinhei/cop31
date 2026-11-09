@@ -12,6 +12,7 @@ published: drafts go through tools/today.py (translation, flags, human approval)
   python3 -I tools/intake.py prompt SID      # extraction brief for the AI assistant (numbered paragraphs + rules)
   python3 -I tools/intake.py propose SID FILE  # check the AI's structured proposal and create private drafts
   python3 -I tools/intake.py related SID|ENTRY_ID  # monitoring items that may describe the same development
+  python3 -I tools/intake.py note SID --reporting-note "..." --by EDITOR   # contributor's own note on how the reporting was done
   python3 -I tools/intake.py permissions SID --by EDITOR [--attribute named|anonymous] [--publish-analysis yes|no]
         [--anonymity-reason "..."] [--name "..."] [--affiliation "..."]   # record the contributor's authorization
   python3 -I tools/intake.py list | show SID
@@ -484,6 +485,7 @@ def propose(sid, path):
         art = prop["article"]
         a = {"schema": 1, "id": aid, "entries": [m[0] for m in made], "status": "draft", "title": art["title"],
              "standfirst": art.get("standfirst") or "", "event_at": meta["event_date"], "assessed_at": P.now(),
+             **({"reporting_note": meta["reporting_note"]} if meta.get("reporting_note") else {}),
              "blocks": [{k: b[k] for k in ("basis", "heading", "md") if b.get(k)} for b in art["blocks"]],
              "contributor": contrib,
              "sources": [{"title": KIND_LABEL[meta["kind"]], "publisher": contrib.get("name") or T.ANON,
@@ -564,6 +566,27 @@ def permissions(a):
     print(f"{sid}: recorded {change} by {by}; updated {n} draft(s)" + (" and the readout" if meta.get("article") else ""))
 
 
+def note(a):
+    """The contributor's statement of how the material was gathered (attendance, sources), shown with the readout."""
+    sid, text, by = a[1], opt(a, "--reporting-note"), opt(a, "--by")
+    if not V._str(text) or not by:
+        sys.exit("--reporting-note and --by are required")
+    d = sub_dir(sid)
+    meta = P.load_json(d / "meta.json", {})
+    meta["reporting_note"] = text
+    meta.setdefault("permissions_history", []).append({"at": P.now(), "by": by, "changes": {"reporting_note": "set"}})
+    P.save_json(d / "meta.json", meta)
+    if meta.get("article"):
+        ap = P.ensure() / "articles" / f"{meta['article']}.json"
+        if ap.exists():
+            art = P.load_json(ap, {})
+            art["reporting_note"] = text
+            for tr in (art.get("i18n") or {}).values():
+                tr.pop("reporting_note", None)   # stale translation
+            P.save_json(ap, art)
+    print(f"{sid}: reporting note recorded by {by}")
+
+
 def related_cmd(x):
     import today as T
     d = P.ensure() / "intake" / x
@@ -597,6 +620,7 @@ def main(a):
     elif cmd == "propose": propose(a[1], a[2])
     elif cmd == "related": related_cmd(a[1])
     elif cmd == "permissions": permissions(a)
+    elif cmd == "note": note(a)
     elif cmd == "list": list_cmd()
     elif cmd == "show": show_cmd(a[1])
     else: sys.exit(__doc__)

@@ -329,6 +329,7 @@ a:hover{text-decoration-color:var(--un)}
 .art{max-width:44em}
 .art h3.art-title{font-size:24px !important;line-height:1.25;margin:4px 0 6px !important;font-family:var(--font-body)}
 .art .art-sf{font-size:17px;color:var(--fg-2);margin:0 0 10px !important}
+.art .art-rn{font-family:var(--font-ui);font-size:13px;color:var(--fg-2);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 12px;margin:8px 0 14px !important}
 .art .art-note{font-family:var(--font-ui);font-size:12.5px;color:var(--fg-3);margin:0 0 14px !important}
 .art-block{border-inline-start:3px solid var(--line-2);padding-block:2px;padding-inline:14px 0;margin:0 0 16px}
 .art-block.b-analysis{border-inline-start-color:var(--p2)}
@@ -1274,6 +1275,7 @@ a:hover{text-decoration-color:var(--un)}
     tNoEndorse:"A afiliação identifica o colaborador e não implica endosso da instituição às interpretações publicadas.",
     tOwnAccount:"relato do colaborador, sem link público", tCorrected:"Correção em {d}: {n}", tRetracted:"Retirado em {d}: {n}",
     tRetractedH:"Entradas retiradas", tBack:"Voltar a Hoje na COP31", tArticle:"Readout completo", tArtMissing:"Este readout não está disponível.",
+    tReportNote:"Nota de apuração",
     tArtNote:"Versão integral da contribuição, revisada e aprovada pela editoria. Os rótulos indicam o que foi relatado e o que é análise do colaborador.",
     verL:["confirmado","fonte única","não confirmado"], clsL:["decisão","sinal político","anúncio","disputa","processo","análise"],
     pCfg:"Carregando a lista de contas…", pCfgErr:"Não foi possível carregar a lista de contas monitoradas. Recarregue a página.", pAllInst:"Todas",
@@ -1798,6 +1800,8 @@ a:hover{text-decoration-color:var(--un)}
       var sf = t ? t.standfirst : a.standfirst;
       if (sf) h += '<p class="art-sf">' + esc(sf) + '</p>';
       h += '<p class="art-note">' + esc(J.tArtNote) + '</p>' + contribLine(a.contributor);
+      var rn = t ? t.reporting_note : a.reporting_note;   // como o colaborador apurou (presença, fontes), nas palavras dele
+      if (rn) h += '<p class="art-rn"><strong>' + esc(J.tReportNote) + ':</strong> ' + esc(rn) + '</p>';
       (a.blocks || []).forEach(function(b, i){
         var tb = t ? t.blocks[i] : b;
         h += '<section class="art-block b-' + esc(b.basis) + '">' + (tb.heading ? '<h4>' + esc(tb.heading) + badge(b.basis) + '</h4>' : '<p>' + badge(b.basis) + '</p>') + md(tb.md) + '</section>';

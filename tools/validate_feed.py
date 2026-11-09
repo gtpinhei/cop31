@@ -140,9 +140,9 @@ PUBLIC_ENTRY_KEYS = {"id", "status", "headline", "summary", "theme", "areas", "c
                      "article", "i18n", "i18n_pending", "approved_by", "approved_at", "corrections"}
 PUBLIC_SOURCE_KEYS = {"title", "publisher", "url", "verified", "kind", "note", "date"}
 PUBLIC_CONTRIB_KEYS = {"display", "name", "affiliation", "role"}
-ARTICLE_KEYS = {"schema", "id", "entries", "status", "title", "standfirst", "blocks", "contributor", "sources",
+ARTICLE_KEYS = {"schema", "id", "entries", "status", "title", "standfirst", "reporting_note", "blocks", "contributor", "sources",
                 "event_at", "assessed_at", "approved_by", "approved_at", "i18n", "i18n_pending", "corrections"}
-ARTICLE_TEXT = ("title", "standfirst")
+ARTICLE_TEXT = ("title", "standfirst", "reporting_note")
 SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{2,79}$")
 PRIVATE_HINTS = ("cop31-private", "/intake/", "drafts.json", "sha256:")
 

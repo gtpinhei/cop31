@@ -279,6 +279,13 @@ class Publication(Base):
         self.assertIn("not authorized publication of the full analysis", out)
         self.assertIn("publish at least one of its Today cards first", out)
 
+    def test_reporting_note_reaches_the_readout(self):
+        sid = self.ready()
+        self.run_tool("intake.py", "note", sid, "--reporting-note", "Presença direta na coletiva.", ok=False)   # --by required
+        self.run_tool("intake.py", "note", sid, "--reporting-note", "Presença direta na coletiva.", "--by", "Editor")
+        art = json.loads(next((self.store / "articles").glob("*.json")).read_text())
+        self.assertEqual(art["reporting_note"], "Presença direta na coletiva.")
+
     def test_article_publication_links_card(self):
         self.ready()
         eid = self.card("-grid")

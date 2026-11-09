@@ -35,13 +35,13 @@ function entry(over = {}) {
 }
 function article(over = {}) {
   const a = { schema: 1, id: "2099-01-01-test-readout", entries: ["2099-01-01-test-grid"], status: "published",
-    title: "[TESTE] Readout completo", standfirst: "[TESTE] Linha fina.", event_at: "2099-01-01",
+    title: "[TESTE] Readout completo", standfirst: "[TESTE] Linha fina.", reporting_note: "[TESTE] Presença direta na coletiva.", event_at: "2099-01-01",
     blocks: [{ basis: "attributed", heading: "Relato", md: "[TESTE] A presidência disse **três** cenários.\n\n- item um\n- item dois" },
              { basis: "analysis", heading: "Avaliação", md: "[TESTE] Ver [documento](https://example.org/doc) e [mau](javascript:alert(1)) <img src=x onerror=alert(1)>" }],
     contributor: { display: "named", name: "Test Author", affiliation: "Example Institute", role: "observer" },
     sources: [{ title: "Readout", publisher: "Test Author", url: null, kind: "contributor", verified: false }],
     approved_by: "Editor", approved_at: "2099-01-01T12:00+03:00", i18n: {} };
-  for (const l of LANGS) a.i18n[l] = { title: `[${l}] ${a.title}`, standfirst: `[${l}] ${a.standfirst}`, method: "machine-reviewed",
+  for (const l of LANGS) a.i18n[l] = { title: `[${l}] ${a.title}`, standfirst: `[${l}] ${a.standfirst}`, reporting_note: `[${l}] ${a.reporting_note}`, method: "machine-reviewed",
     blocks: a.blocks.map(b => ({ heading: `[${l}] ${b.heading}`, md: `[${l}] ${b.md}` })) };
   return Object.assign(a, over);
 }
@@ -119,6 +119,7 @@ const setLang = async (b, l) => { const s = b.d.getElementById("langSel"); s.val
   assert(links.length === 1 && links[0] === "https://example.org/doc", "only https links become links");
   assert(!blocks[1].querySelector("img") && /&lt;img|<img/.test(blocks[1].innerHTML) && blocks[1].innerHTML.includes("&lt;img"), "raw HTML is escaped, never executed");
   assert(a.querySelector(".art-back a").getAttribute("href") === "#hoje", "back to Today");
+  assert(/Nota de apuração: \[TESTE\] Presença direta na coletiva\./.test(a.querySelector(".art-rn").textContent), "contributor's reporting note shown with the readout");
   await go(b.w, "hoje");
   assert(b.d.getElementById("todayArticle").hidden && !b.d.getElementById("todayList").hidden, "leaving the readout restores the list");
   await go(b.w, "hoje/leitura/2099-01-01-missing");
@@ -137,7 +138,7 @@ const setLang = async (b, l) => { const s = b.d.getElementById("langSel"); s.val
     assert(l !== "ru" || /машин/i.test(c.querySelector(".ti-note").textContent), `${l}: machine translation disclosed`);
     await go(b.w, "hoje/leitura/2099-01-01-test-readout"); await sleep(60);
     const a = b.d.getElementById("todayArticle");
-    assert(a.querySelector(".art-title").textContent === `[${l}] [TESTE] Readout completo` && a.querySelectorAll(".art-block").length === 2, `${l}: article translated`);
+    assert(a.querySelector(".art-title").textContent === `[${l}] [TESTE] Readout completo` && a.querySelectorAll(".art-block").length === 2 && a.querySelector(".art-rn").textContent.includes(`[${l}]`), `${l}: article and reporting note translated`);
     if (l === "ar") assert(b.d.documentElement.dir === "rtl", "ar: right-to-left");
   }
   await setLang(b, "pt");
