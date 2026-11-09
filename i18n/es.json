@@ -966,7 +966,6 @@
  "j:ytTitle": "Videos recientes de {n}",
  "j:unv": "no verificado",
  "j:listOpt": "Lista: {n}",
- "h3a2d5da3": "Vista previa local: borradores de editorial/drafts.json, que no forman parte del sitio publicado.",
  "j:tPending": "Traducción aún no disponible en este idioma; texto original en portugués.",
  "j:tMachine": "Traducción automática del original en portugués.",
  "j:tMachineRev": "Traducción automática del original en portugués, revisada.",
@@ -999,5 +998,40 @@
  "j:qSome": "«{t}»: resultados en {n} secciones (cifras en el menú).",
  "j:qScope": "Buscar en la guía, las actualizaciones y el pulso social cargado",
  "hc56a4c58": "Intentar cargar más",
- "j:pMoreErr": "No se pudieron cargar más publicaciones ({r}). Se mantuvieron las publicaciones ya mostradas."
+ "j:pMoreErr": "No se pudieron cargar más publicaciones ({r}). Se mantuvieron las publicaciones ya mostradas.",
+ "h1e43f6d3": "Vista previa local: borradores del archivo editorial privado, que no forman parte del sitio publicado.",
+ "j:tLegend": "Cada pasaje indica en qué se apoya: hecho verificado, atribuido (declaración u observación directa), análisis o no verificado.",
+ "j:tOpen": "Preguntas abiertas",
+ "j:tActors": "Actores",
+ "j:tRelated": "En el monitoreo",
+ "j:tReadFull": "Leer el informe completo",
+ "j:tContrib": "Contribución de {w}",
+ "j:tContribAnon": "Contribución de un colaborador identificado por la editorial, que preserva su anonimato",
+ "j:tNoEndorse": "La afiliación identifica al colaborador y no implica que la institución respalde las interpretaciones publicadas.",
+ "j:tOwnAccount": "relato del colaborador, sin enlace público",
+ "j:tCorrected": "Corrección el {d}: {n}",
+ "j:tRetracted": "Retirado el {d}: {n}",
+ "j:tRetractedH": "Entradas retiradas",
+ "j:tBack": "Volver a Hoy en la COP31",
+ "j:tArticle": "Informe completo",
+ "j:tArtMissing": "Este informe no está disponible.",
+ "j:tArtNote": "Versión íntegra de la contribución, revisada y aprobada por la editorial. Las etiquetas indican qué se informó y qué es análisis del colaborador.",
+ "j:bL": [
+  "hecho verificado",
+  "atribuido",
+  "análisis",
+  "no verificado"
+ ],
+ "j:bTip": [
+  "Confirmado por la editorial en una fuente oficial.",
+  "Declaración de la persona citada, u observación directa del colaborador; no verificado de forma independiente.",
+  "Interpretación del colaborador o de la editorial, no un hecho.",
+  "Afirmación aún sin confirmar."
+ ],
+ "j:tRoleL": [
+  "autor",
+  "observador",
+  "analista",
+  "organización"
+ ]
 }

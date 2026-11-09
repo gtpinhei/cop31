@@ -966,7 +966,6 @@
  "j:ytTitle": "Vidéos récentes de {n}",
  "j:unv": "non vérifié",
  "j:listOpt": "Liste : {n}",
- "h3a2d5da3": "Aperçu local : brouillons de editorial/drafts.json, qui ne font pas partie du site publié.",
  "j:tPending": "Traduction pas encore disponible dans cette langue ; texte original en portugais.",
  "j:tMachine": "Traduction automatique de l’original en portugais.",
  "j:tMachineRev": "Traduction automatique de l’original en portugais, révisée.",
@@ -999,5 +998,40 @@
  "j:qSome": "« {t} » : résultats dans {n} sections (nombres dans le menu).",
  "j:qScope": "Rechercher dans le guide, les mises à jour et le pouls social chargé",
  "hc56a4c58": "Réessayer de charger plus",
- "j:pMoreErr": "Impossible de charger d’autres publications ({r}). Les publications déjà affichées ont été conservées."
+ "j:pMoreErr": "Impossible de charger d’autres publications ({r}). Les publications déjà affichées ont été conservées.",
+ "h1e43f6d3": "Aperçu local : brouillons du fonds éditorial privé, qui ne font pas partie du site publié.",
+ "j:tLegend": "Chaque passage indique sur quoi il repose : fait vérifié, attribué (déclaration ou observation directe), analyse ou non vérifié.",
+ "j:tOpen": "Questions ouvertes",
+ "j:tActors": "Acteurs",
+ "j:tRelated": "Dans la veille",
+ "j:tReadFull": "Lire le compte rendu complet",
+ "j:tContrib": "Contribution de {w}",
+ "j:tContribAnon": "Contribution d'un contributeur connu de la rédaction, dont l'anonymat est préservé",
+ "j:tNoEndorse": "L'affiliation identifie le contributeur et n'implique pas que l'institution approuve les interprétations publiées.",
+ "j:tOwnAccount": "récit du contributeur, sans lien public",
+ "j:tCorrected": "Correction du {d} : {n}",
+ "j:tRetracted": "Retiré le {d} : {n}",
+ "j:tRetractedH": "Entrées retirées",
+ "j:tBack": "Retour à Aujourd'hui à la COP31",
+ "j:tArticle": "Compte rendu complet",
+ "j:tArtMissing": "Ce compte rendu n'est pas disponible.",
+ "j:tArtNote": "Version intégrale de la contribution, revue et approuvée par la rédaction. Les étiquettes indiquent ce qui a été rapporté et ce qui relève de l'analyse du contributeur.",
+ "j:bL": [
+  "fait vérifié",
+  "attribué",
+  "analyse",
+  "non vérifié"
+ ],
+ "j:bTip": [
+  "Confirmé par la rédaction auprès d'une source officielle.",
+  "Déclaration de la personne citée, ou observation directe du contributeur ; non vérifié de façon indépendante.",
+  "Interprétation du contributeur ou de la rédaction, et non un fait.",
+  "Affirmation pas encore confirmée."
+ ],
+ "j:tRoleL": [
+  "auteur",
+  "observateur",
+  "analyste",
+  "organisation"
+ ]
 }

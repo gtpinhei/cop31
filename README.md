@@ -55,6 +55,11 @@ Mudanças só no `data/feed.json` (agentes) não exigem nada disso.
 - Fontes em ordem alfabética.
 - Contas de redes sociais não verificadas aparecem marcadas como tal no feed.
 
+## Versão 1.1 (branch `feature/human-intelligence-v1.1`)
+
+- **Inteligência humana:** readouts, análises, notas de reunião e relatos de campo (DOCX, PDF, Markdown ou texto colado) viram rascunhos de cards e, opcionalmente, um readout completo (`#hoje/leitura/<id>`). Ferramentas: `tools/intake.py`, `tools/today.py`, `tools/preview.py`. Desenho e limites em `docs/v1.1.md`; fluxo em `docs/editorial.md`.
+- **Acervo privado** fora do repositório (`../cop31-private` ou `$COP31_PRIVATE`); `tools/check_public.py` bloqueia no CI e no pre-commit qualquer documento, rascunho ou campo privado.
+
 ## Versão 1.0 (branch `v1-launch`)
 
 - **Hoje na COP31** (`#hoje`, topo do Panorama): curadoria editorial em `data/today.json`, publicada só com aprovação humana e fonte verificada. Fluxo em `docs/editorial.md`.
