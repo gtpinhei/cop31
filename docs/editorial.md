@@ -20,6 +20,8 @@ To preview drafts: `python3 -I tools/preview.py` and open `http://127.0.0.1:8000
 
 ## B. From a contribution (readout, analysis, meeting notes, field report)
 
+Trusted contributors can be onboarded once with a standing profile (`tools/contributors.py`, see `docs/contributors.md`). Then `intake.py add FILE --title ... --profile SLUG` applies their byline choice. Publication and politically sensitive analysis are still approved per item. Run `today.py check ID` at any time to see what still blocks a card or readout; it writes nothing.
+
 1. **Intake** (keeps a private copy, numbers the paragraphs, records permissions):
    ```sh
    python3 -I tools/intake.py add readout.docx --title "COP30 press briefing readout" --kind readout \

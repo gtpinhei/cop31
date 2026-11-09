@@ -394,6 +394,98 @@ class EditorialDecisions(Base):
         self.assertIn("priority:lead", self.run_tool("today.py", "list"))
 
 
+class ContributorProfiles(Base):
+    """Standing authorizations: onboard a trusted contributor once, keep per-item approval of substance."""
+    def register(self, *extra):
+        self.run_tool("contributors.py", "register", "test-author", "--name", "Test Author", "--role", "observer",
+                      "--attribute", "named", "--consent", "synthetic consent for tests", "--by", "Editor", *extra)
+
+    def card(self, key):
+        return next(e["id"] for e in self.drafts() if key + "-" in e["id"])
+
+    def from_profile(self, *extra):
+        out = self.run_tool("intake.py", "add", FIX / "synthetic_readout.md", "--title", "Synthetic briefing readout",
+                            "--profile", "test-author", "--event-date", "2099-01-01", *extra)
+        sid = out.split("submission ")[1].split(":")[0]
+        self.run_tool("intake.py", "propose", sid, self.proposal())
+        return sid
+
+    def test_profile_needs_a_decision_and_consent(self):
+        self.run_tool("contributors.py", "register", "x-y", "--name", "X", "--role", "observer", "--attribute", "ask",
+                      "--consent", "c", "--by", "E", ok=False)
+        self.run_tool("contributors.py", "register", "x-y", "--name", "X", "--role", "observer", "--attribute", "named",
+                      "--by", "E", ok=False)
+        self.run_tool("contributors.py", "register", "x-y", "--name", "X", "--role", "observer", "--attribute", "anonymous",
+                      "--consent", "c", "--by", "E", ok=False)   # anonymous needs a reason
+        self.assertFalse((self.store / "contributors.json").exists() and "x-y" in (self.store / "contributors.json").read_text())
+
+    def test_profile_reused_without_reonboarding_and_no_attribution_flag(self):
+        self.register()
+        sid = self.from_profile()
+        meta = json.loads((self.store / "intake" / sid / "meta.json").read_text())
+        self.assertEqual(meta["permissions"]["attribute"], "named")
+        self.assertIsNone(meta["contributor"]["affiliation"])          # affiliation hidden unless the profile shows it
+        self.assertEqual(meta["standing"]["profile"], "test-author")
+        self.assertTrue(meta["permissions_history"][0]["by"].startswith("standing profile"))
+        eid = self.card("-grid")
+        en = next(e for e in self.drafts() if e["id"] == eid)
+        self.assertFalse(any(f["code"] == "attribution" for f in en["_private"]["flags"]))
+        self.assertEqual(en["contributor"]["name"], "Test Author")
+        self.resolve_all(eid); self.translate_all(eid)
+        self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1)   # editor still approves
+
+    def test_profile_cannot_be_mixed_with_manual_permissions(self):
+        self.register()
+        self.run_tool("intake.py", "add", FIX / "synthetic_readout.md", "--title", "T", "--profile", "test-author",
+                      "--publish-analysis", "yes", ok=False)
+
+    def test_sensitive_analysis_needs_per_item_approval(self):
+        self.register("--routine-analysis", "yes")
+        sid = self.from_profile()                                # default: politically sensitive
+        meta = json.loads((self.store / "intake" / sid / "meta.json").read_text())
+        self.assertFalse(meta["permissions"]["publish_analysis"])
+        aid = json.loads((self.store / "intake" / sid / "meta.json").read_text())["article"]
+        out = self.run_tool("today.py", "check", aid, ok=False)
+        self.assertIn("not authorized publication of the full analysis", out)
+        self.run_tool("intake.py", "permissions", sid, "--publish-analysis", "yes", "--by", "Editor")
+        out = self.run_tool("today.py", "check", aid, ok=False)
+        self.assertNotIn("full analysis", out)
+
+    def test_routine_analysis_uses_standing_consent_only_if_granted(self):
+        self.register()                                          # routine analysis not granted
+        sid = self.from_profile("--sensitivity", "routine")
+        self.assertFalse(json.loads((self.store / "intake" / sid / "meta.json").read_text())["permissions"]["publish_analysis"])
+        self.run_tool("contributors.py", "update", "test-author", "--routine-analysis", "yes", "--by", "Editor")
+        sid2 = self.run_tool("intake.py", "add", "-", "--title", "Other routine note",
+                             "--profile", "test-author", "--sensitivity", "routine", stdin="Synthetic routine note.\n\nSecond synthetic paragraph.").split("submission ")[1].split(":")[0]
+        self.assertTrue(json.loads((self.store / "intake" / sid2 / "meta.json").read_text())["permissions"]["publish_analysis"])
+
+    def test_revocation_blocks_unpublished_drafts_until_reconfirmed(self):
+        self.register()
+        sid = self.from_profile()
+        eid = self.card("-grid")
+        self.resolve_all(eid); self.translate_all(eid)
+        self.run_tool("contributors.py", "revoke", "test-author", "--by", "Editor", "--reason", "contributor withdrew")
+        out = self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1, ok=False)
+        self.assertIn("was revoked", out)
+        self.run_tool("intake.py", "add", "-", "--title", "New", "--profile", "test-author", ok=False, stdin="Synthetic text.")
+        self.run_tool("intake.py", "permissions", sid, "--attribute", "named", "--by", "Editor")   # re-confirmed per item
+        self.run_tool("today.py", "publish", eid, "--by", "Editor", "--verified-source", 1)
+
+    def test_check_is_a_dry_run(self):
+        self.register()
+        self.from_profile()
+        eid = self.card("-grid")
+        before = (self.store / "drafts.json").read_text()
+        out = self.run_tool("today.py", "check", eid, ok=False)
+        self.assertIn("flag 1 unresolved", out)
+        self.assertIn("--verified-source 1", out)
+        self.assertEqual(before, (self.store / "drafts.json").read_text())
+        self.assertEqual(json.loads((self.root / "data" / "today.json").read_text())["entries"], [])
+        self.resolve_all(eid); self.translate_all(eid)
+        self.assertIn("READY", self.run_tool("today.py", "check", eid))
+
+
 class Compatibility(Base):
     def test_feed_merge_unaffected(self):
         feed = self.root / "data" / "feed.json"
