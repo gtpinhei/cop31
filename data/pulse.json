@@ -157,10 +157,10 @@
    "priority": "B",
    "identity": "checked",
    "identity_basis": "página",
-   "identity_evidence": null,
-   "identity_checked_at": null,
+   "identity_evidence": "https://www.youtube.com/@UNClimateChange",
+   "identity_checked_at": "2026-11-09",
    "verified": true,
-   "channel_id": null
+   "channel_id": "UCuLEr-GWiwCBB6zBDX3elOQ"
   },
   {
    "platform": "x",
@@ -966,6 +966,17 @@
    "identity_basis": "página",
    "identity_evidence": null,
    "identity_checked_at": null,
+   "verified": true
+  },
+  {
+   "platform": "bluesky",
+   "handle": "iisd.org",
+   "institution": "IISD",
+   "priority": "B",
+   "identity": "checked",
+   "identity_basis": "página",
+   "identity_evidence": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfiles?actors=iisd.org&actors=enb.iisd.org",
+   "identity_checked_at": "2026-11-09",
    "verified": true
   },
   {
