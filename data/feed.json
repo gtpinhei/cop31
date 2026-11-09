@@ -1,19 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T12:20:00-03:00",
+ "generated_at": "2026-11-09T18:40:00-03:00",
  "round": {
-  "timestamp": "2026-11-09T12:18:00-03:00",
-  "label": "9 nov 2026, 12:18 (Brasília)",
-  "sites_checked": 28,
-  "blocked": 4,
-  "new_items": 3,
-  "fetches": "28 de 60",
+  "timestamp": "2026-11-09T18:40:00-03:00",
+  "label": "9 nov 2026, 18:40 (Brasília)",
+  "sites_checked": 56,
+  "blocked": 21,
+  "new_items": 6,
+  "fetches": "59 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "ENB/IISD (client_error)",
-   "IPCC (sem itens datados)",
-   "CSE India (sem listagem datada)",
-   "Ember (sem datas)"
+   "IEA/UNEP/ITUC/TWN/ENB/Carbon Pulse/OC/OCI/WMB (client_error)",
+   "Circle of Finance, Min. Exteriores AU (robots.txt)",
+   "Chatham House, Christian Aid, CAN Europe, CSE, Ember, ODI, Eurodad, CSIS, FoEI, ICCCAD (sem listagem datada)"
   ]
  },
  "tracks": [
@@ -34,6 +33,484 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "bluesky-ldcchairunfccc.bsky.social-20261109-cop31-ldc-chair",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "18:25",
+   "text": "Every fraction of a degree matters. Every delay costs lives.\n\nAt #COP31, LDC Chair Amb. Adão Soares Barbosa urged deeper emissions cuts, grant-based finance, stronger adaptation and urgent loss & damage funding.\n\nFor 44 LDCs, action cannot wait.\n\n#ClimateJustice",
+   "summary": "O presidente do Grupo dos PMDs, embaixador Adão Soares Barbosa, pediu na COP31 cortes de emissões mais profundos, financiamento em forma de doações, mais adaptação e recursos urgentes para perdas e danos.",
+   "summary_i18n": {
+    "en": "LDC Group Chair Ambassador Adão Soares Barbosa called at COP31 for deeper emissions cuts, grant-based finance, stronger adaptation and urgent funding for loss and damage.",
+    "es": "El presidente del Grupo de los PMA, embajador Adão Soares Barbosa, pidió en la COP31 mayores reducciones de emisiones, financiación en forma de donaciones, más adaptación y fondos urgentes para pérdidas y daños.",
+    "fr": "Le président du Groupe des PMA, l'ambassadeur Adão Soares Barbosa, a appelé à la COP31 à des réductions d'émissions plus fortes, à un financement sous forme de dons, à une adaptation renforcée et à un financement urgent pour les pertes et préjudices.",
+    "ru": "Председатель Группы НРС посол Адан Соареш Барбоза призвал на COP31 к более глубокому сокращению выбросов, финансированию в форме грантов, усилению адаптации и срочному финансированию в связи с потерями и ущербом.",
+    "zh": "最不发达国家集团主席阿丹·苏亚雷斯·巴尔博萨大使在COP31上呼吁更大幅度减排、提供赠款形式的资金、加强适应行动，并紧急落实损失与损害资金。",
+    "ar": "دعا رئيس مجموعة أقل البلدان نمواً السفير أداو سواريس باربوزا في COP31 إلى خفض أعمق للانبعاثات وتمويل في شكل منح وتعزيز التكيف وتوفير تمويل عاجل للخسائر والأضرار."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3mzvuguzydc2r",
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "bsky-ldcchairunfccc-bsky-social"
+  },
+  {
+   "id": "x-LDCChairUNFCCC-20261109-cop31-ldc-chair",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LDCChairUNFCCC",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "18:25",
+   "text": "Every fraction of a degree matters. Every delay costs lives.\n\nAt #COP31, LDC Chair Amb. Adão Soares Barbosa urged deeper emissions cuts, grant-based finance, stronger adaptation and urgent loss & damage funding.\n\nFor 44 LDCs, action cannot wait.",
+   "summary": "O presidente do Grupo dos PMDs, embaixador Adão Soares Barbosa, pediu na COP31 cortes de emissões mais profundos, financiamento em forma de doações, mais adaptação e recursos urgentes para perdas e danos.",
+   "summary_i18n": {
+    "en": "LDC Group Chair Ambassador Adão Soares Barbosa called at COP31 for deeper emissions cuts, grant-based finance, stronger adaptation and urgent funding for loss and damage.",
+    "es": "El presidente del Grupo de los PMA, embajador Adão Soares Barbosa, pidió en la COP31 mayores reducciones de emisiones, financiación en forma de donaciones, más adaptación y fondos urgentes para pérdidas y daños.",
+    "fr": "Le président du Groupe des PMA, l'ambassadeur Adão Soares Barbosa, a appelé à la COP31 à des réductions d'émissions plus fortes, à un financement sous forme de dons, à une adaptation renforcée et à un financement urgent pour les pertes et préjudices.",
+    "ru": "Председатель Группы НРС посол Адан Соареш Барбоза призвал на COP31 к более глубокому сокращению выбросов, финансированию в форме грантов, усилению адаптации и срочному финансированию в связи с потерями и ущербом.",
+    "zh": "最不发达国家集团主席阿丹·苏亚雷斯·巴尔博萨大使在COP31上呼吁更大幅度减排、提供赠款形式的资金、加强适应行动，并紧急落实损失与损害资金。",
+    "ar": "دعا رئيس مجموعة أقل البلدان نمواً السفير أداو سواريس باربوزا في COP31 إلى خفض أعمق للانبعاثات وتمويل في شكل منح وتعزيز التكيف وتوفير تمويل عاجل للخسائر والأضرار."
+   },
+   "url": "https://x.com/LDCChairUNFCCC",
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "x-ldcchairunfccc"
+  },
+  {
+   "id": "instagram-institutotalanoa-20261109-mapas-do-caminho",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@institutotalanoa",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "18:18",
+   "text": "No 1º dia da COP31 (9/11), o Brasil apresentou o Mapa do Caminho para Intensificação dos Esforços para Deter e Reverter o Desmatamento e a Degradação Florestal até 2030. No 2º dia, a presidência da COP30 apresentará o Mapa do Caminho para a Transição para Longe dos Combustíveis Fósseis nos Sistemas Energéticos. Confira nesta edição do Tá Lá no Gráfico o que são esses documentos e como podem ajudar os países a pôr em prática as decisões da COP28, quando foi finalizado o Primeiro Balanço Global (GST2). Neste ano, em Antália, na Turquia, inicia-se o GST2. #cop31",
+   "summary": "O Instituto Talanoa explica os dois mapas do caminho da presidência da COP30: desmatamento (apresentado no 1º dia) e transição para longe dos combustíveis fósseis (2º dia), e como apoiam a implementação do GST1 enquanto o GST2 começa em Antália.",
+   "summary_i18n": {
+    "en": "Instituto Talanoa explains the two COP30 Presidency roadmaps: on deforestation (presented on day 1) and on transitioning away from fossil fuels (day 2), and how they support implementation of the first Global Stocktake as GST2 begins in Antalya.",
+    "es": "El Instituto Talanoa explica las dos hojas de ruta de la Presidencia de la COP30: sobre deforestación (presentada el día 1) y sobre la transición para abandonar los combustibles fósiles (día 2), y cómo respaldan la aplicación del primer Balance Mundial mientras el GST2 comienza en Antalya.",
+    "fr": "L'Instituto Talanoa explique les deux feuilles de route de la présidence de la COP30 : sur la déforestation (présentée le jour 1) et sur la transition hors des combustibles fossiles (jour 2), et comment elles soutiennent la mise en œuvre du premier bilan mondial alors que le GST2 démarre à Antalya.",
+    "ru": "Институт Таланоа разъясняет две дорожные карты председательства COP30: по лесоуничтожению (представлена в первый день) и по отходу от ископаемого топлива (второй день), и то, как они помогают реализации итогов первой глобальной инвентаризации, пока в Анталье стартует GST2.",
+    "zh": "塔拉诺阿研究所解读COP30主席国的两份路线图：关于森林砍伐（第1天发布）和摆脱化石燃料转型（第2天发布），以及它们如何在GST2于安塔利亚启动之际支持首次全球盘点成果的落实。",
+    "ar": "يشرح معهد تالانوا خارطتَي طريق رئاسة COP30: واحدة بشأن إزالة الغابات (قُدمت في اليوم الأول) وأخرى بشأن التحول بعيداً عن الوقود الأحفوري (اليوم الثاني)، وكيف تدعمان تنفيذ نتائج الحصيلة العالمية الأولى مع انطلاق GST2 في أنطاليا."
+   },
+   "url": "https://www.instagram.com/p/DfiR8jVDN75/",
+   "tracks": [
+    "Florestas",
+    "TAFF e fósseis",
+    "GST2 e IPCC"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "pt",
+   "source_id": "ig-institutotalanoa"
+  },
+  {
+   "id": "instagram-observatoriodoclima-20261109-raio-do-dia-brasil",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@observatoriodoclima",
+   "institution": "Observatório do Clima",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "17:33",
+   "text": "Enquanto a Nova Zelândia ganha o prêmio simbólico Fossil Of The Day, dado por organizações de atuação em proteção ambiental aos países que mais atrapalham as negociações climáticas, “Raio do Dia” foi para o Brasil por fazer algo que parece cada vez mais revolucionário em uma cúpula climática: definir como cumprir o que foi acordado. O Brasil apresentou dois planos de ação para implementar os resultados históricos do primeiro Balanço Global: um para deter e reverter o desmatamento e a degradação florestal, e outro para a transição para longe dos combustíveis fósseis. Cada país parte de uma situação diferente, mas os planos de ação deixam uma coisa clara: nenhum país precisa esperar…",
+   "summary": "O Observatório do Clima diz que o Brasil levou o “Raio do Dia” por apresentar dois planos de ação (desmatamento e transição para longe dos fósseis) para implementar o Balanço Global, enquanto a Nova Zelândia recebeu o Fossil of the Day.",
+   "summary_i18n": {
+    "en": "Observatório do Clima says Brazil won the “Ray of the Day” for presenting two action plans (deforestation, and transition away from fossil fuels) to implement the Global Stocktake, while New Zealand received the Fossil of the Day.",
+    "es": "El Observatório do Clima señala que Brasil recibió el «Rayo del Día» por presentar dos planes de acción (deforestación y transición para abandonar los combustibles fósiles) para aplicar el Balance Mundial, mientras que Nueva Zelanda recibió el Fósil del Día.",
+    "fr": "L'Observatório do Clima indique que le Brésil a reçu le « Rayon du jour » pour avoir présenté deux plans d'action (déforestation et transition hors des combustibles fossiles) afin de mettre en œuvre le bilan mondial, tandis que la Nouvelle-Zélande a reçu le Fossile du jour.",
+    "ru": "Observatório do Clima сообщает, что Бразилия получила «Луч дня» за представление двух планов действий (по лесоуничтожению и по отходу от ископаемого топлива) для реализации итогов глобальной инвентаризации, а Новая Зеландия получила «Ископаемое дня».",
+    "zh": "气候观察站（Observatório do Clima）称，巴西因提出两项落实全球盘点的行动计划（森林砍伐和摆脱化石燃料转型）而获得“今日之光”，而新西兰获得“今日化石奖”。",
+    "ar": "يقول مرصد المناخ (Observatório do Clima) إن البرازيل نالت «شعاع اليوم» لتقديمها خطتي عمل (إزالة الغابات والتحول بعيداً عن الوقود الأحفوري) لتنفيذ الحصيلة العالمية، بينما نالت نيوزيلندا «أحفورة اليوم»."
+   },
+   "url": "https://www.instagram.com/p/DfiMwqdhtPQ/",
+   "tracks": [
+    "Florestas",
+    "TAFF e fósseis",
+    "GST2 e IPCC"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "pt",
+   "source_id": "ig-observatoriodoclima"
+  },
+  {
+   "id": "x-samedagirbas-20261109-aosis-financiamento",
+   "kind": "post",
+   "platform": "x",
+   "account": "@samedagirbas",
+   "institution": "Samed Ağırbaş (High-Level Champion)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "14:14",
+   "text": "COP31 temaslarımız kapsamında Küçük Ada Devletleri İttifakı (AOSIS) temsilcileri ile bir araya geldik.\n\nİklim krizine karşı kırılgan coğrafyaların sesini daha gür duyurmak ve adil bir iklim finansmanı mekanizmasının hayata geçirilmesi adına ortak adımları değerlendirdik.\n\n📍 …",
+   "summary": "Ağırbaş, Campeão de Alto Nível, reuniu-se com representantes da AOSIS na COP31 para discutir passos conjuntos por um mecanismo justo de financiamento climático e mais voz às regiões vulneráveis.",
+   "summary_i18n": {
+    "en": "High-Level Champion Ağırbaş met AOSIS representatives at COP31 to discuss joint steps towards a fair climate finance mechanism and a stronger voice for vulnerable regions.",
+    "es": "El Campeón de Alto Nivel Ağırbaş se reunió en la COP31 con representantes de la AOSIS para analizar medidas conjuntas hacia un mecanismo justo de financiación climática y una voz más fuerte para las regiones vulnerables.",
+    "fr": "Le champion de haut niveau Ağırbaş a rencontré à la COP31 des représentants de l'AOSIS pour examiner des mesures communes en faveur d'un mécanisme équitable de financement climatique et d'une voix plus forte pour les régions vulnérables.",
+    "ru": "Высокопоставленный представитель Агырбаш встретился на COP31 с представителями АОСИС, чтобы обсудить совместные шаги к справедливому механизму климатического финансирования и усилению голоса уязвимых регионов.",
+    "zh": "高级别倡导者阿厄尔巴什（Ağırbaş）在COP31期间会见了小岛屿国家联盟（AOSIS）代表，讨论为建立公平的气候融资机制和增强脆弱地区话语权采取共同行动。",
+    "ar": "التقى بطل المناخ رفيع المستوى أغيرباش في COP31 ممثلي تحالف الدول الجزرية الصغيرة (AOSIS) لبحث خطوات مشتركة نحو آلية عادلة لتمويل المناخ وإسماع صوت المناطق الضعيفة بصورة أقوى."
+   },
+   "url": "https://x.com/samedagirbas",
+   "tracks": [
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "tr",
+   "source_id": "x-samedagirbas"
+  },
+  {
+   "id": "x-samedagirbas-20261109-eixo3-sistemas-alimentares",
+   "kind": "post",
+   "platform": "x",
+   "account": "@samedagirbas",
+   "institution": "Samed Ağırbaş (High-Level Champion)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "13:32",
+   "text": "COP31 kapsamında düzenlenen Eksen 3 Örnek Uygulamalar Etkinliği’nde kapanış konuşmamızı gerçekleştirdik.\n\nKonuşmamızda, gıda sistemlerinin dönüşümünde somut uygulamaların, ölçülebilir sonuçların ve uluslararası iş birliklerinin önemine dikkat çekerken sürdürülebilir tarım, gıda …",
+   "summary": "Ağırbaş fez o discurso de encerramento do evento de boas práticas do Eixo 3 da COP31, destacando a importância de práticas concretas, resultados mensuráveis e cooperação internacional na transformação dos sistemas alimentares.",
+   "summary_i18n": {
+    "en": "Ağırbaş gave the closing speech at the COP31 Axis 3 good-practice event, stressing concrete practices, measurable results and international cooperation in transforming food systems.",
+    "es": "Ağırbaş pronunció el discurso de clausura del evento de buenas prácticas del Eje 3 de la COP31, destacando la importancia de prácticas concretas, resultados medibles y cooperación internacional en la transformación de los sistemas alimentarios.",
+    "fr": "Ağırbaş a prononcé le discours de clôture de l'événement sur les bonnes pratiques de l'Axe 3 de la COP31, soulignant l'importance de pratiques concrètes, de résultats mesurables et de la coopération internationale dans la transformation des systèmes alimentaires.",
+    "ru": "Агырбаш выступил с заключительной речью на мероприятии по передовому опыту Оси 3 на COP31, подчеркнув значение конкретных практик, измеримых результатов и международного сотрудничества в трансформации продовольственных систем.",
+    "zh": "阿厄尔巴什在COP31第3轴线最佳实践活动上作闭幕致辞，强调具体做法、可衡量成果和国际合作对粮食系统转型的重要性。",
+    "ar": "ألقى أغيرباش الكلمة الختامية في فعالية الممارسات الجيدة للمحور 3 في COP31، مشدداً على أهمية الممارسات الملموسة والنتائج القابلة للقياس والتعاون الدولي في تحويل النظم الغذائية."
+   },
+   "url": "https://x.com/samedagirbas",
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "tr",
+   "source_id": "x-samedagirbas"
+  },
+  {
+   "id": "x-samedagirbas-20261109-one-billion-challenge",
+   "kind": "post",
+   "platform": "x",
+   "account": "@samedagirbas",
+   "institution": "Samed Ağırbaş (High-Level Champion)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "09:52",
+   "text": "COP31 kapsamında düzenlediğimiz, uluslararası ölçekte gıda israfıyla mücadeleyi güçlendirmeyi amaçlayan One Billion Challenge Lansmanı’nda açılış konuşmamızı gerçekleştirdik.\n\nDünyada milyonlarca insan açlıkla karşı karşıyayken her gün bir milyardan fazla öğünün israf edilmesine …",
+   "summary": "Ağırbaş discursou na abertura do lançamento do One Billion Challenge, iniciativa da COP31 contra o desperdício de alimentos: mais de um bilhão de refeições são desperdiçadas por dia.",
+   "summary_i18n": {
+    "en": "Ağırbaş delivered the opening speech at the launch of the One Billion Challenge, a COP31 initiative against food waste: over a billion meals are wasted every day.",
+    "es": "Ağırbaş pronunció el discurso inaugural en el lanzamiento del One Billion Challenge, una iniciativa de la COP31 contra el desperdicio de alimentos: se desperdician más de mil millones de comidas al día.",
+    "fr": "Ağırbaş a prononcé le discours d'ouverture du lancement du One Billion Challenge, initiative de la COP31 contre le gaspillage alimentaire : plus d'un milliard de repas sont gaspillés chaque jour.",
+    "ru": "Агырбаш выступил со вступительной речью на запуске One Billion Challenge — инициативы COP31 по борьбе с пищевыми отходами: ежедневно выбрасывается более миллиарда порций еды.",
+    "zh": "阿厄尔巴什在“十亿挑战”（One Billion Challenge）启动仪式上致开幕辞，这是COP31的一项减少食物浪费倡议：全球每天浪费超过十亿份餐食。",
+    "ar": "ألقى أغيرباش الكلمة الافتتاحية في إطلاق «تحدي المليار» (One Billion Challenge)، وهي مبادرة في COP31 لمكافحة هدر الغذاء: يُهدر أكثر من مليار وجبة كل يوم."
+   },
+   "url": "https://x.com/samedagirbas",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "tr",
+   "source_id": "x-samedagirbas"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261109-kurum-abertura",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "14:34",
+   "text": "Let Antalya be remembered not for the words spoken, but for the action delivered. #COP31 — COP31 President Murat Kurum calls on all countries and partners to join forces in Antalya, turn commitments into results, decisions into investment and knowledge into action.",
+   "summary": "Vídeo da presidência: Murat Kurum convoca todos os países e parceiros a unir forças em Antália para transformar compromissos em resultados, decisões em investimento e conhecimento em ação.",
+   "summary_i18n": {
+    "en": "Presidency video: Murat Kurum calls on all countries and partners to join forces in Antalya to turn commitments into results, decisions into investment and knowledge into action.",
+    "es": "Video de la Presidencia: Murat Kurum insta a todos los países y socios a unir fuerzas en Antalya para convertir los compromisos en resultados, las decisiones en inversión y el conocimiento en acción.",
+    "fr": "Vidéo de la présidence : Murat Kurum appelle tous les pays et partenaires à unir leurs forces à Antalya pour transformer les engagements en résultats, les décisions en investissements et les connaissances en action.",
+    "ru": "Видео председательства: Мурат Курум призывает все страны и партнёров объединить усилия в Анталье, чтобы превратить обязательства в результаты, решения — в инвестиции, а знания — в действия.",
+    "zh": "主席国视频：穆拉特·库鲁姆呼吁各国和伙伴在安塔利亚携手合作，将承诺转化为成果、将决定转化为投资、将知识转化为行动。",
+    "ar": "فيديو الرئاسة: يدعو مراد كوروم جميع الدول والشركاء إلى توحيد الجهود في أنطاليا لتحويل التعهدات إلى نتائج والقرارات إلى استثمارات والمعرفة إلى عمل."
+   },
+   "url": "https://www.youtube.com/watch?v=ZRf23M7e8nw",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261109-correa-do-lago-abertura",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "14:51",
+   "text": "Climate action must be guided by a clear moral compass, with people and science at its heart. — COP30 President André Corrêa do Lago at the COP31 Opening Ceremony recognised the COP31 Presidency's commitment and called for continued cooperation and urgent climate action.",
+   "summary": "Na cerimônia de abertura, o presidente da COP30, André Corrêa do Lago, reconheceu o compromisso da presidência da COP31 e pediu cooperação contínua e ação climática urgente, guiada por pessoas e ciência.",
+   "summary_i18n": {
+    "en": "At the opening ceremony, COP30 President André Corrêa do Lago recognised the COP31 Presidency's commitment and called for continued cooperation and urgent climate action guided by people and science.",
+    "es": "En la ceremonia de apertura, el presidente de la COP30, André Corrêa do Lago, reconoció el compromiso de la Presidencia de la COP31 y pidió una cooperación continua y una acción climática urgente guiada por las personas y la ciencia.",
+    "fr": "Lors de la cérémonie d'ouverture, le président de la COP30, André Corrêa do Lago, a salué l'engagement de la présidence de la COP31 et appelé à une coopération continue et à une action climatique urgente, guidée par les personnes et la science.",
+    "ru": "На церемонии открытия председатель COP30 Андре Корреа ду Лаго отметил приверженность председательства COP31 и призвал к продолжению сотрудничества и срочным климатическим действиям, в центре которых люди и наука.",
+    "zh": "在开幕式上，COP30主席安德烈·科雷亚·多拉戈肯定了COP31主席国的承诺，并呼吁继续合作、以人民和科学为中心采取紧急气候行动。",
+    "ar": "في حفل الافتتاح، أشاد رئيس COP30 أندريه كوريا دو لاغو بالتزام رئاسة COP31 ودعا إلى مواصلة التعاون واتخاذ إجراءات مناخية عاجلة يتصدرها الناس والعلم."
+   },
+   "url": "https://www.youtube.com/watch?v=Kk-A8KUncyc",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261109-saude-belem-financiamento",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "18:01",
+   "text": "Dynamic and Resilient Health Systems: Financing The Belem Health Action Plan",
+   "summary": "Evento paralelo no canal da UNFCCC sobre como financiar o Plano de Ação de Saúde de Belém para sistemas de saúde dinâmicos e resilientes.",
+   "summary_i18n": {
+    "en": "UNFCCC side event on financing the Belém Health Action Plan for dynamic and resilient health systems.",
+    "es": "Evento paralelo de la CMNUCC sobre la financiación del Plan de Acción de Salud de Belém para sistemas de salud dinámicos y resilientes.",
+    "fr": "Événement parallèle de la CCNUCC sur le financement du Plan d'action de Belém pour la santé en faveur de systèmes de santé dynamiques et résilients.",
+    "ru": "Параллельное мероприятие РКИК ООН о финансировании Белемского плана действий в области здравоохранения для создания динамичных и устойчивых систем здравоохранения.",
+    "zh": "《联合国气候变化框架公约》边会：为贝伦卫生行动计划筹资，建设有活力、有韧性的卫生系统。",
+    "ar": "نشاط جانبي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول تمويل خطة عمل بيليم للصحة من أجل نظم صحية ديناميكية وقادرة على الصمود."
+   },
+   "url": "https://www.youtube.com/watch?v=IkL9BAkR0FE",
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261109-taff-implementacao",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "13:43",
+   "text": "Implementing the Transition Away from Fossil Fuels",
+   "summary": "Sessão no canal da UNFCCC sobre a implementação da transição para longe dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Session on the UNFCCC channel on implementing the transition away from fossil fuels.",
+    "es": "Sesión en el canal de la CMNUCC sobre la aplicación de la transición para abandonar los combustibles fósiles.",
+    "fr": "Session sur la chaîne de la CCNUCC consacrée à la mise en œuvre de la transition hors des combustibles fossiles.",
+    "ru": "Сессия на канале РКИК ООН, посвящённая осуществлению отхода от ископаемого топлива.",
+    "zh": "《联合国气候变化框架公约》频道上关于落实摆脱化石燃料转型的会议。",
+    "ar": "جلسة على قناة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول تنفيذ التحول بعيداً عن الوقود الأحفوري."
+   },
+   "url": "https://www.youtube.com/watch?v=FoADjDUuKcw",
+   "tracks": [
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261109-scf-relatorios",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "13:04",
+   "text": "Key reports of the Standing Committee on Finance",
+   "summary": "Sessão no canal da UNFCCC sobre os principais relatórios do Comitê Permanente de Finanças (SCF).",
+   "summary_i18n": {
+    "en": "Session on the UNFCCC channel on the key reports of the Standing Committee on Finance.",
+    "es": "Sesión en el canal de la CMNUCC sobre los principales informes del Comité Permanente de Finanzas.",
+    "fr": "Session sur la chaîne de la CCNUCC consacrée aux principaux rapports du Comité permanent des finances.",
+    "ru": "Сессия на канале РКИК ООН, посвящённая основным докладам Постоянного комитета по финансам.",
+    "zh": "《联合国气候变化框架公约》频道上关于常设财务委员会主要报告的会议。",
+    "ar": "جلسة على قناة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول التقارير الرئيسية للجنة الدائمة المعنية بالتمويل."
+   },
+   "url": "https://www.youtube.com/watch?v=N1Cf7KF2GXU",
+   "tracks": [
+    "Finanças"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261109-cb-hub-eletrificacao",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-09",
+   "time": "13:02",
+   "text": "CB Hub: Powering NDC Implementation: Electrification and the GST Energy Goals",
+   "summary": "Sessão do Hub de Capacitação no canal da UNFCCC sobre eletrificação e as metas de energia do Balanço Global para implementar as NDCs.",
+   "summary_i18n": {
+    "en": "Capacity-Building Hub session on the UNFCCC channel on electrification and the Global Stocktake energy goals for NDC implementation.",
+    "es": "Sesión del Centro de Creación de Capacidad en el canal de la CMNUCC sobre electrificación y los objetivos energéticos del Balance Mundial para aplicar las NDC.",
+    "fr": "Session du Pôle de renforcement des capacités sur la chaîne de la CCNUCC consacrée à l'électrification et aux objectifs énergétiques du bilan mondial pour mettre en œuvre les CDN.",
+    "ru": "Сессия Хаба по наращиванию потенциала на канале РКИК ООН об электрификации и энергетических целях глобальной инвентаризации для реализации НВУ.",
+    "zh": "《联合国气候变化框架公约》频道上的能力建设中心会议：电气化与全球盘点能源目标，助力国家自主贡献的落实。",
+    "ar": "جلسة مركز بناء القدرات على قناة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ حول الكهربة وأهداف الطاقة في الحصيلة العالمية لتنفيذ المساهمات المحددة وطنياً."
+   },
+   "url": "https://www.youtube.com/watch?v=TkNTtkLBHhg",
+   "tracks": [
+    "Eletrificação",
+    "GST2 e IPCC"
+   ],
+   "first_seen": "2026-11-09T18:42:42-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "icc-2026-11-09-bingo-opening-statement",
+   "institution": "ICC",
+   "type": "comunicado",
+   "title": "ICC delivers Business and Industry NGOs opening statement at COP31",
+   "date": "2026-11-09",
+   "authors": "ICC",
+   "url": "https://iccwbo.org/news-publications/news/icc-delivers-business-and-industry-ngos-opening-statement-at-cop31/",
+   "summary": "A ICC apresentou, na plenária de abertura da COP31 em Antalya, a declaração da constituency BINGO (empresas e indústria). O texto reafirma o apoio empresarial ao Acordo de Paris e pede um pacote de implementação prático, com três prioridades: transição energética, adaptação e finanças, além de mercados de carbono de alta integridade. Cita a meta \"35 by 35\" de eletrificação como facilitadora central. Atinge as trilhas de Eletrificação, Finanças e Adaptação.",
+   "summary_i18n": {
+    "en": "At the COP31 opening plenary in Antalya, ICC delivered the statement of the BINGO constituency (business and industry). The text reaffirms business support for the Paris Agreement and calls for a practical implementation package with three priorities: the energy transition, adaptation and finance, plus high-integrity carbon markets. It cites the \"35 by 35\" electrification goal as a central enabler. It bears on the Electrification, Finance and Adaptation tracks.",
+    "es": "En la plenaria de apertura de la COP31 en Antalya, la ICC presentó la declaración del grupo BINGO (empresas e industria). El texto reafirma el apoyo empresarial al Acuerdo de París y pide un paquete práctico de implementación con tres prioridades: la transición energética, la adaptación y la financiación, además de mercados de carbono de alta integridad. Cita la meta «35 by 35» de electrificación como facilitador central. Afecta a las vías de Electrificación, Finanzas y Adaptación.",
+    "fr": "Lors de la plénière d'ouverture de la COP31 à Antalya, la ICC a présenté la déclaration du groupe BINGO (entreprises et industrie). Le texte réaffirme le soutien des entreprises à l'Accord de Paris et demande un ensemble pratique de mise en œuvre autour de trois priorités : la transition énergétique, l'adaptation et le financement, ainsi que des marchés du carbone de haute intégrité. Il cite l'objectif « 35 by 35 » d'électrification comme levier central. Concerne les volets Électrification, Finance et Adaptation.",
+    "ru": "На открытом пленарном заседании КС-31 в Анталье ICC огласила заявление группы BINGO (бизнес и промышленность). В тексте подтверждается поддержка бизнесом Парижского соглашения и содержится призыв к практическому пакету мер по осуществлению с тремя приоритетами: энергетический переход, адаптация и финансирование, а также углеродные рынки высокой добросовестности. Цель электрификации «35 by 35» названа ключевым фактором. Относится к направлениям «Электрификация», «Финансы» и «Адаптация».",
+    "zh": "在安塔利亚举行的COP31开幕全体会议上,ICC代表BINGO(工商界)团体发表声明。声明重申企业界对《巴黎协定》的支持,呼吁出台务实的落实方案,并提出三项优先事项:能源转型、适应和融资,以及高完整性碳市场。声明将“35 by 35”电气化目标视为核心推动因素。涉及电气化、融资和适应议题。",
+    "ar": "في الجلسة العامة الافتتاحية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، ألقت غرفة التجارة الدولية (ICC) بيان مجموعة BINGO (الأعمال والصناعة). يؤكد البيان دعم قطاع الأعمال لاتفاق باريس ويدعو إلى حزمة تنفيذ عملية بثلاث أولويات: التحول في مجال الطاقة والتكيف والتمويل، إضافةً إلى أسواق كربون عالية النزاهة. ويشير إلى هدف التكهرب «35 by 35» بوصفه عاملاً تمكينياً رئيسياً. يتصل بمسارات التكهرب والتمويل والتكيف."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "Business commitment to the Paris Agreement remains unwavering. — ICC, for BINGO",
+    "Implementation will not succeed through declarations alone. — ICC, for BINGO"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "icc-2026-11-09-electrification-pledge",
+   "institution": "ICC",
+   "type": "notícia",
+   "title": "ICC network mobilsed to drive COP31 ambition on electrification",
+   "date": "2026-11-09",
+   "authors": "ICC",
+   "url": "https://iccwbo.org/news-publications/news/icc-network-mobilsed-to-drive-cop31-ambition-on-electrification/",
+   "summary": "A ICC apoia o Compromisso Global de Eletrificação \"35 by 35\" da COP31, antes da Ministerial de Eletrificação. O secretário-geral John Denton diz que o compromisso define a ambição, mas que o êxito depende de um arcabouço de implementação, com sistemas de energia capazes de escalar renováveis. Cita ainda precificação de carbono, contabilidade harmonizada e medidas de fronteira interoperáveis. Atinge a trilha de Eletrificação.",
+   "summary_i18n": {
+    "en": "ICC backs the COP31 \"35 by 35\" Global Electrification Pledge ahead of the Electrification Ministerial. Secretary General John Denton says the pledge sets the ambition but success depends on an implementation framework, with energy systems able to scale renewables. He also points to carbon pricing, harmonised carbon accounting and interoperable border measures. It bears on the Electrification track.",
+    "es": "La ICC respalda el Compromiso Mundial de Electrificación «35 by 35» de la COP31 antes de la Ministerial de Electrificación. El secretario general John Denton afirma que el compromiso fija la ambición, pero que el éxito depende de un marco de implementación, con sistemas energéticos capaces de ampliar las renovables. También menciona la fijación de precios del carbono, la contabilidad armonizada y las medidas fronterizas interoperables. Afecta a la vía de Electrificación.",
+    "fr": "La ICC soutient l'Engagement mondial d'électrification « 35 by 35 » de la COP31 avant la Ministérielle sur l'électrification. Le secrétaire général John Denton affirme que l'engagement fixe l'ambition, mais que le succès dépend d'un cadre de mise en œuvre, avec des systèmes énergétiques capables de déployer les énergies renouvelables. Il évoque aussi la tarification du carbone, la comptabilité harmonisée et des mesures aux frontières interopérables. Concerne le volet Électrification.",
+    "ru": "ICC поддерживает Глобальное обязательство по электрификации «35 by 35» КС-31 в преддверии министерской встречи по электрификации. Генеральный секретарь Джон Дентон заявляет, что обязательство задаёт уровень амбиций, но успех зависит от механизма осуществления и энергосистем, способных наращивать ВИЭ. Он также упоминает ценообразование на углерод, согласованный учёт выбросов и совместимые пограничные меры. Относится к направлению «Электрификация».",
+    "zh": "在电气化部长级会议之前,ICC支持COP31“35 by 35”全球电气化承诺。秘书长约翰·登顿表示,该承诺确立了雄心,但成功取决于落实框架以及能够扩大可再生能源规模的能源系统。他还提到碳定价、统一的碳核算和可互操作的边境措施。涉及电气化议题。",
+    "ar": "تدعم غرفة التجارة الدولية (ICC) التعهد العالمي للتكهرب «35 by 35» الصادر عن مؤتمر الأطراف الحادي والثلاثين قبيل الاجتماع الوزاري المعني بالتكهرب. ويقول الأمين العام جون دينتون إن التعهد يحدد الطموح لكن النجاح يتوقف على إطار للتنفيذ ونظم طاقة قادرة على توسيع نطاق مصادر الطاقة المتجددة. كما يشير إلى تسعير الكربون والمحاسبة الموحدة للكربون وتدابير الحدود القابلة للتشغيل البيني. يتصل بمسار التكهرب."
+   },
+   "tracks": [
+    "Eletrificação"
+   ],
+   "quotes": [
+    "The Pledge sets the ambition. Delivering it will require an effective implementation framework — John W.H. Denton, ICC",
+    "We urge COP31 Minister to look beyond the big headlines about the goal — John W.H. Denton, ICC"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "icc-2026-11-09-electrification-principles",
+   "institution": "ICC",
+   "type": "briefing",
+   "title": "ICC Principles for the Age of Electrification",
+   "date": "2026-11-09",
+   "authors": "ICC",
+   "url": "https://iccwbo.org/news-publications/principles/icc-principles-for-the-age-of-electrification/",
+   "summary": "Documento da ICC com 10 princípios para a era da eletrificação, argumentando que energia renovável barata não basta sem redes, eficiência, flexibilidade, investimento e competências. Apoia a meta de elevar a participação da eletricidade no consumo final de energia de pouco mais de 20% para cerca de 35% até 2035. Atinge a trilha de Eletrificação.",
+   "summary_i18n": {
+    "en": "ICC paper setting out 10 principles for the age of electrification, arguing that cheap renewable power is not enough without grids, efficiency, flexibility, investment and skills. It backs raising electricity's share of final energy consumption from just over 20% to about 35% by 2035. It bears on the Electrification track.",
+    "es": "Documento de la ICC con 10 principios para la era de la electrificación, que sostiene que la energía renovable barata no basta sin redes, eficiencia, flexibilidad, inversión y capacidades. Respalda elevar la proporción de la electricidad en el consumo final de energía de poco más del 20 % a cerca del 35 % para 2035. Afecta a la vía de Electrificación.",
+    "fr": "Document de la ICC présentant 10 principes pour l'ère de l'électrification, selon lequel une électricité renouvelable bon marché ne suffit pas sans réseaux, efficacité, flexibilité, investissement et compétences. Il soutient l'objectif de faire passer la part de l'électricité dans la consommation finale d'énergie d'un peu plus de 20 % à environ 35 % d'ici 2035. Concerne le volet Électrification.",
+    "ru": "Документ ICC с 10 принципами для эпохи электрификации: дешёвой возобновляемой энергии недостаточно без сетей, эффективности, гибкости, инвестиций и квалификации. Поддерживается цель повысить долю электроэнергии в конечном потреблении энергии с чуть более 20% примерно до 35% к 2035 году. Относится к направлению «Электрификация».",
+    "zh": "ICC发布电气化时代十项原则文件,指出若缺乏电网、能效、灵活性、投资和技能,廉价可再生电力并不足够。文件支持到2035年将电力在终端能源消费中的占比从略高于20%提高到约35%。涉及电气化议题。",
+    "ar": "ورقة صادرة عن غرفة التجارة الدولية (ICC) تحدد عشرة مبادئ لعصر التكهرب، وترى أن الكهرباء المتجددة الرخيصة لا تكفي دون شبكات وكفاءة ومرونة واستثمار ومهارات. وتدعم رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من أكثر من 20% بقليل إلى نحو 35% بحلول عام 2035. يتصل بمسار التكهرب."
+   },
+   "tracks": [
+    "Eletrificação"
+   ],
+   "quotes": [
+    "Clean energy generation is no longer enough on its own. — ICC"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "actionaid-2026-11-09-cop31-survival",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "ActionAid calls on governments at COP31 to invest in survival and move past empty rhetoric",
+   "date": "2026-11-09",
+   "authors": "ActionAid (Teresa Anderson)",
+   "url": "https://actionaid.org/news/2026/actionaid-calls-governments-cop31-invest-survival-and-move-past-empty-rhetoric",
+   "summary": "A ActionAid alerta que a inação dos governos expõe comunidades da linha de frente a riscos graves e pede que a COP31 priorize financiamento de adaptação em larga escala. A organização também defende um novo Mecanismo de Transição Justa, com órgão dedicado, para proteger trabalhadores, mulheres e comunidades. Atinge as trilhas de Adaptação, Transição justa e Finanças.",
+   "summary_i18n": {
+    "en": "ActionAid warns that government inaction puts frontline communities at grave risk and calls on COP31 to prioritise large-scale adaptation finance. The organisation also backs a new Just Transition Mechanism with a dedicated body to protect workers, women and communities. It bears on the Adaptation, Just Transition and Finance tracks.",
+    "es": "ActionAid advierte de que la inacción de los gobiernos expone a las comunidades en primera línea a graves riesgos y pide que la COP31 dé prioridad a la financiación de la adaptación a gran escala. La organización también respalda un nuevo Mecanismo de Transición Justa, con un órgano específico, para proteger a trabajadores, mujeres y comunidades. Afecta a las vías de Adaptación, Transición Justa y Finanzas.",
+    "fr": "ActionAid avertit que l'inaction des gouvernements expose gravement les communautés en première ligne et demande que la COP31 donne la priorité à un financement de l'adaptation à grande échelle. L'organisation soutient aussi un nouveau mécanisme pour une transition juste, doté d'un organe dédié, afin de protéger les travailleurs, les femmes et les communautés. Concerne les volets Adaptation, Transition juste et Finance.",
+    "ru": "ActionAid предупреждает, что бездействие правительств подвергает серьёзному риску сообщества, находящиеся на передовой, и призывает КС-31 уделить приоритетное внимание финансированию адаптации в больших масштабах. Организация также поддерживает создание нового механизма справедливого перехода со специальным органом для защиты трудящихся, женщин и общин. Относится к направлениям «Адаптация», «Справедливый переход» и «Финансы».",
+    "zh": "ActionAid警告称,各国政府的不作为使一线社区面临严重风险,呼吁COP31优先安排大规模适应融资。该组织还支持设立新的公正转型机制并配备专门机构,以保护工人、妇女和社区。涉及适应、公正转型和融资议题。",
+    "ar": "تحذر منظمة ActionAid من أن تقاعس الحكومات يعرّض المجتمعات في الخطوط الأمامية لمخاطر جسيمة، وتدعو مؤتمر الأطراف الحادي والثلاثين إلى إعطاء الأولوية لتمويل التكيف على نطاق واسع. كما تؤيد المنظمة إنشاء آلية جديدة للانتقال العادل مع هيئة مخصصة لحماية العمال والنساء والمجتمعات. يتصل بمسارات التكيف والانتقال العادل والتمويل."
+   },
+   "tracks": [
+    "Adaptação",
+    "Transição justa",
+    "Finanças"
+   ],
+   "quotes": [
+    "the world is failing to invest in its own survival — Teresa Anderson, ActionAid",
+    "No one should be forced to choose between a secure job and a safe planet. — Teresa Anderson, ActionAid"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
+  },
   {
    "id": "x-murat_kurum-20261109-abertura-nova-era",
    "kind": "post",
@@ -4592,6 +5069,61 @@
    }
   },
   {
+   "id": "e3g-2026-11-05-eu-el-nino",
+   "institution": "E3G",
+   "type": "análise",
+   "title": "The EU and El Niño – a strategic external response",
+   "date": "2026-11-05",
+   "authors": "Helen Civil / Anton Jaekel (E3G)",
+   "url": "https://www.e3g.org/news/eu-threats-from-el-nino/",
+   "summary": "A E3G alerta que o El Niño de 2026–27 pode corroer os investimentos da UE em estabilidade global por meio de insegurança alimentar e energética e de choques nas cadeias de suprimento. Recomenda ação antecipada, apoio precoce a parceiros e resiliência no centro da ação externa, usando a COP31 para demonstrar liderança. Atinge a trilha de Adaptação.",
+   "summary_i18n": {
+    "en": "E3G warns that the 2026–27 El Niño could erode EU investments in global stability through food and energy insecurity and supply-chain shocks. It recommends acting early, backing partners early and putting resilience at the centre of external action, using COP31 to show leadership. It bears on the Adaptation track.",
+    "es": "E3G advierte de que El Niño 2026-27 podría erosionar las inversiones de la UE en estabilidad mundial mediante inseguridad alimentaria y energética y perturbaciones de las cadenas de suministro. Recomienda actuar con antelación, apoyar pronto a los socios y situar la resiliencia en el centro de la acción exterior, aprovechando la COP31 para mostrar liderazgo. Afecta a la vía de Adaptación.",
+    "fr": "E3G avertit que El Niño 2026-27 pourrait éroder les investissements de l'UE dans la stabilité mondiale par l'insécurité alimentaire et énergétique et les chocs sur les chaînes d'approvisionnement. Le texte recommande d'agir tôt, de soutenir rapidement les partenaires et de placer la résilience au cœur de l'action extérieure, en saisissant la COP31 pour montrer le leadership de l'UE. Concerne le volet Adaptation.",
+    "ru": "E3G предупреждает, что Эль-Ниньо 2026–27 годов может подорвать инвестиции ЕС в глобальную стабильность из-за продовольственной и энергетической необеспеченности и сбоев в цепочках поставок. Рекомендуется действовать заблаговременно, рано поддерживать партнёров и поставить устойчивость в центр внешней политики, используя КС-31 для демонстрации лидерства. Относится к направлению «Адаптация».",
+    "zh": "E3G警告称,2026–27年厄尔尼诺可能通过粮食和能源不安全以及供应链冲击,削弱欧盟在全球稳定方面的投入。文章建议提前行动、尽早支持伙伴,并将韧性置于对外行动的中心,借COP31展现领导力。涉及适应议题。",
+    "ar": "تحذر E3G من أن ظاهرة النينيو في 2026–2027 قد تقوّض استثمارات الاتحاد الأوروبي في الاستقرار العالمي عبر انعدام الأمن الغذائي والطاقي وصدمات سلاسل الإمداد. وتوصي بالتحرك المبكر ودعم الشركاء مبكراً وجعل القدرة على الصمود في صميم العمل الخارجي، مع استغلال مؤتمر الأطراف الحادي والثلاثين لإظهار القيادة. يتصل بمسار التكيف."
+   },
+   "tracks": [
+    "Adaptação"
+   ],
+   "quotes": [
+    "one of the strongest since at least 1950 — E3G, on the current El Niño"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-e3g-org-news"
+  },
+  {
+   "id": "wri-2026-11-05-forest-roadmap",
+   "institution": "WRI",
+   "type": "comunicado",
+   "title": "STATEMENT: COP30 Presidency's Global Roadmap on Halting Deforestation",
+   "date": "2026-11-05",
+   "authors": "WRI (Mariana Oliveira)",
+   "url": "https://www.wri.org/news/statement-cop30-presidencys-global-roadmap-halting-deforestation",
+   "summary": "O WRI comenta o mapa do caminho global da Presidência da COP30 para deter o desmatamento, que reúne opções de proteção, uso sustentável e restauração por meio de ação nacional, cooperação e financiamento. Mariana Oliveira (WRI Brasil) diz que não há solução única e destaca direitos de terra, monitoramento e reforma de incentivos econômicos. Segundo o WRI, o desmatamento global em 2025 ficou 70% acima do nível necessário para zerar a perda florestal até 2030. Atinge a trilha de Florestas.",
+   "summary_i18n": {
+    "en": "WRI comments on the COP30 Presidency's global roadmap on halting deforestation, which sets out options for protection, sustainable use and restoration through national action, cooperation and funding. Mariana Oliveira (WRI Brasil) says there is no silver bullet and highlights land rights, monitoring and reform of economic incentives. According to WRI, global deforestation in 2025 was 70% above the level needed to halt forest loss by 2030. It bears on the Forests track.",
+    "es": "El WRI comenta la hoja de ruta mundial de la Presidencia de la COP30 para detener la deforestación, que reúne opciones de protección, uso sostenible y restauración mediante acción nacional, cooperación y financiación. Mariana Oliveira (WRI Brasil) afirma que no hay una solución única y destaca los derechos sobre la tierra, el seguimiento y la reforma de los incentivos económicos. Según el WRI, la deforestación mundial en 2025 fue un 70 % superior al nivel necesario para detener la pérdida de bosques en 2030. Afecta a la vía de Bosques.",
+    "fr": "Le WRI commente la feuille de route mondiale de la présidence de la COP30 pour mettre fin à la déforestation, qui propose des options de protection, d'utilisation durable et de restauration par l'action nationale, la coopération et le financement. Mariana Oliveira (WRI Brasil) estime qu'il n'existe pas de solution unique et souligne les droits fonciers, le suivi et la réforme des incitations économiques. Selon le WRI, la déforestation mondiale en 2025 était supérieure de 70 % au niveau requis pour mettre fin à la perte de forêts d'ici 2030. Concerne le volet Forêts.",
+    "ru": "WRI комментирует глобальную дорожную карту председательства КС-30 по прекращению обезлесения, где изложены варианты защиты, устойчивого использования и восстановления лесов через национальные действия, сотрудничество и финансирование. Мариана Оливейра (WRI Brasil) отмечает, что универсального решения нет, и выделяет права на землю, мониторинг и реформу экономических стимулов. По данным WRI, мировое обезлесение в 2025 году на 70% превысило уровень, необходимый для прекращения потери лесов к 2030 году. Относится к направлению «Леса».",
+    "zh": "WRI评论了COP30主席国提出的遏制毁林全球路线图,该路线图通过国家行动、国际合作和资金提供保护、可持续利用和恢复方面的多种选择。WRI巴西办公室的马里亚纳·奥利维拉表示不存在万能方案,并强调土地权利、监测和经济激励改革。据WRI称,2025年全球毁林量比2030年前制止森林损失所需水平高出70%。涉及森林议题。",
+    "ar": "يعلّق معهد الموارد العالمية (WRI) على خريطة الطريق العالمية لرئاسة مؤتمر الأطراف الثلاثين لوقف إزالة الغابات، التي تتضمن خيارات للحماية والاستخدام المستدام والاستعادة عبر العمل الوطني والتعاون والتمويل. وتقول ماريانا أوليفيرا (WRI البرازيل) إنه لا يوجد حل سحري، وتبرز حقوق الأراضي والرصد وإصلاح الحوافز الاقتصادية. ووفق المعهد، كانت إزالة الغابات عالمياً في عام 2025 أعلى بنسبة 70% من المستوى اللازم لوقف فقدان الغابات بحلول عام 2030. يتصل بمسار الغابات."
+   },
+   "tracks": [
+    "Florestas"
+   ],
+   "quotes": [
+    "there's no silver bullet — Mariana Oliveira, WRI Brasil",
+    "align economic incentives with conservation goals — Mariana Oliveira, WRI Brasil"
+   ],
+   "first_seen": "2026-11-09T18:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
    "id": "iddri-2026-11-gst2-etaff-issue-brief",
    "institution": "IDDRI",
    "type": "briefing",
@@ -5826,11 +6358,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-09T17:46:35-03:00",
-  "label": "9 nov 2026, 17:46 (Brasília)",
-  "accounts_checked": 47,
+  "timestamp": "2026-11-09T18:42:42-03:00",
+  "label": "9 nov 2026, 18:42 (Brasília)",
+  "accounts_checked": 49,
   "blocked": 0,
-  "new_items": 4,
+  "new_items": 13,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
