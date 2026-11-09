@@ -60,7 +60,7 @@ const txt = (d, s) => (d.querySelector(s)?.textContent || "").trim();
   const original = ["panorama", "atualizacoes", "belem", "testes", "mapa", "radar", "thinktanks", "agenda", "posicoes", "brasil", "quem", "calendario", "terreno", "glossario", "fontes"];
   assert(original.every(v => views.includes(v)), "all 15 original sections present");
   assert(views.includes("pulso") && views.includes("hoje"), "new sections: hoje, pulso");
-  assert(d.querySelectorAll(".nav-item").length === 17, "17 navigation items");
+  assert([...d.querySelectorAll(".nav-item")].filter(a => !a.hidden).length === 17, "17 visible navigation items (newsletter hidden while switched off)");
 }
 
 // ---------- 2. Bluesky happy path, ordering, safety, repost context

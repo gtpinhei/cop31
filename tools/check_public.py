@@ -39,10 +39,39 @@ def main(argv):
     r = subprocess.run([sys.executable, "-I", str(ROOT / "tools" / "validate_feed.py"), "-q"], capture_output=True, text=True)
     if r.returncode != 0:
         bad.append("public data does not validate:\n" + r.stdout)
+    bad += newsletter_problems()
     for b in bad:
         print("BLOCKED:", b)
     print("OK" if not bad else f"{len(bad)} problem(s)")
     return 1 if bad else 0
+
+
+NL_KEYS = {"schema", "mode", "provider", "action", "processor", "controller", "privacy", "note"}
+
+
+def newsletter_problems():
+    """data/newsletter.json is public configuration: no subscriber data, and live only with a final privacy notice."""
+    import json
+    p = ROOT / "data" / "newsletter.json"
+    if not p.exists():
+        return []
+    try:
+        c = json.loads(p.read_text(encoding="utf-8"))
+    except ValueError as e:
+        return [f"data/newsletter.json does not parse: {e}"]
+    out = [f"data/newsletter.json: unexpected key {k!r} (public configuration only)" for k in c if k not in NL_KEYS]
+    if c.get("mode") not in ("off", "preview", "live"):
+        out.append("data/newsletter.json: mode must be off, preview or live")
+    if c.get("mode") == "live":
+        html = (ROOT / "index.html").read_text(encoding="utf-8")
+        priv = html[html.find('id="view-privacidade"'):]
+        priv = priv[:priv.find("</section>")]
+        if "a confirmar" in priv:
+            out.append("newsletter live, but the privacy notice still says 'a confirmar'")
+        ctl = c.get("controller") or {}
+        if not (ctl.get("name") and ctl.get("contact") and c.get("processor") and (c.get("privacy") or {}).get("status") == "final"):
+            out.append("newsletter live without controller, processor and a final privacy notice")
+    return out
 
 
 if __name__ == "__main__":
