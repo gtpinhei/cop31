@@ -35,6 +35,33 @@
  ],
  "items": [
   {
+   "id": "x-marinasilva-20261108-mapa-do-caminho",
+   "kind": "post",
+   "platform": "x",
+   "account": "@MarinaSilva",
+   "institution": "Marina Silva",
+   "verified": true,
+   "date": "2026-11-08",
+   "time": "21:27",
+   "text": "NOTA SOBRE DIRETRIZES DO MAPA DO CAMINHO\n\nA aprovação das diretrizes para a construção do Mapa do Caminho brasileiro é um passo importante para enfrentarmos uma das tarefas mais complexas e necessárias do nosso tempo: superar progressivamente a dependência dos combustíveis",
+   "summary": "Marina Silva celebra a aprovação das diretrizes para o Mapa do Caminho brasileiro, passo para superar progressivamente a dependência dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Marina Silva welcomes the approval of the guidelines for Brazil's Roadmap, a step towards progressively overcoming dependence on fossil fuels.",
+    "es": "Marina Silva celebra la aprobación de las directrices para la Hoja de Ruta brasileña, un paso para superar progresivamente la dependencia de los combustibles fósiles.",
+    "fr": "Marina Silva salue l'approbation des lignes directrices de la feuille de route brésilienne, une étape pour sortir progressivement de la dépendance aux combustibles fossiles.",
+    "ru": "Марина Силва приветствует утверждение руководящих принципов бразильской дорожной карты — шаг к постепенному преодолению зависимости от ископаемого топлива.",
+    "zh": "玛丽娜·席尔瓦欢迎巴西路线图指导方针获得批准，这是逐步摆脱化石燃料依赖的一步。",
+    "ar": "ترحب مارينا سيلفا بالموافقة على المبادئ التوجيهية لخارطة الطريق البرازيلية، وهي خطوة نحو التخلص تدريجياً من الاعتماد على الوقود الأحفوري."
+   },
+   "url": "https://x.com/MarinaSilva",
+   "tracks": [
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-08T22:50:00-03:00",
+   "lang": "pt"
+  },
+  {
    "id": "instagram-muratkurum-20261108-saatler-kaldi",
    "kind": "post",
    "platform": "instagram",
@@ -2835,12 +2862,15 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-08T18:43:00-03:00",
-  "label": "8 nov 2026, 18:43 (Brasília)",
-  "accounts_checked": 27,
-  "blocked": 0,
-  "new_items": 6,
+  "timestamp": "2026-11-08T22:50:00-03:00",
+  "label": "8 nov 2026, 22:50 (Brasília)",
+  "accounts_checked": 19,
+  "blocked": 2,
+  "new_items": 1,
   "cadence": "a cada hora",
-  "blocked_accounts": []
+  "blocked_accounts": [
+   "mmeioambiente (perfil vazio)",
+   "youtube UNClimateChangeEvents (feed 404)"
+  ]
  }
 }
