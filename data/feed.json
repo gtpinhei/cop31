@@ -1,19 +1,19 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T18:20:00-03:00",
+ "generated_at": "2026-11-09T00:15:00-03:00",
  "round": {
-  "timestamp": "2026-11-08T18:20:00-03:00",
-  "label": "8 nov 2026, 18:20 (Brasília)",
-  "sites_checked": 27,
+  "timestamp": "2026-11-09T00:15:00-03:00",
+  "label": "9 nov 2026, 00:15 (Brasília)",
+  "sites_checked": 29,
   "blocked": 4,
   "new_items": 1,
-  "fetches": "32 de 60",
+  "fetches": "31 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "ENB/IISD (client_error)",
-   "Loss and Damage Collaboration (client_error)",
-   "Observatório do Clima (client_error)",
-   "ITUC (client_error)"
+   "ENB/IISD (conteúdo vazio)",
+   "TWN (client_error)",
+   "Chatham House (sem listagem)",
+   "ODI/IPCC/Ember (sem datas ou desatualizado)"
   ]
  },
  "tracks": [
@@ -34,6 +34,33 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "wri-2026-11-08-1-3t-statement",
+   "institution": "WRI",
+   "type": "comunicado",
+   "title": "STATEMENT: Reaching $1.3 Trillion Climate Finance Relies on Swift, Sweeping Actions",
+   "date": "2026-11-08",
+   "authors": "WRI (Gaia Larsen)",
+   "url": "https://www.wri.org/news/statement-reaching-13-trillion-climate-finance-relies-swift-sweeping-actions",
+   "summary": "O WRI avalia o relatório da Presidência da COP30 sobre como mobilizar US$ 1,3 trilhão por ano em financiamento climático para países em desenvolvimento até 2035, meta fixada na COP29. Segundo o instituto, as medidas em seis áreas temáticas poderiam gerar cerca de US$ 1,27 a 1,41 trilhão em fluxos internacionais até 2035. Gaia Larsen defende reformas rápidas, com mais risco assumido pelos bancos multilaterais de desenvolvimento, novos tributos internacionais e mais recursos públicos dos países desenvolvidos. Atinge a trilha de Finanças.",
+   "summary_i18n": {
+    "en": "WRI assesses the COP30 Presidency's report on how to mobilize US$1.3 trillion a year in climate finance for developing countries by 2035, the goal set at COP29. According to the institute, measures across six thematic areas could generate roughly US$1.27 to 1.41 trillion in international flows by 2035. Gaia Larsen calls for swift reforms, with greater risk-taking by multilateral development banks, new international levies and more public funding from developed countries. It bears on the Finance track.",
+    "es": "El WRI evalúa el informe de la Presidencia de la COP30 sobre cómo movilizar 1,3 billones de dólares anuales en financiación climática para los países en desarrollo de aquí a 2035, meta fijada en la COP29. Según el instituto, las medidas en seis áreas temáticas podrían generar entre 1,27 y 1,41 billones de dólares en flujos internacionales para 2035. Gaia Larsen aboga por reformas rápidas, con mayor asunción de riesgos por los bancos multilaterales de desarrollo, nuevos gravámenes internacionales y más fondos públicos de los países desarrollados. Afecta a la vía de Finanzas.",
+    "fr": "Le WRI évalue le rapport de la présidence de la COP30 sur la manière de mobiliser 1 300 milliards de dollars par an de financement climatique pour les pays en développement d'ici 2035, objectif fixé à la COP29. Selon l'institut, les mesures dans six domaines thématiques pourraient générer environ 1 270 à 1 410 milliards de dollars de flux internationaux d'ici 2035. Gaia Larsen plaide pour des réformes rapides, avec une prise de risque accrue des banques multilatérales de développement, de nouveaux prélèvements internationaux et davantage de fonds publics des pays développés. Concerne la voie Finance.",
+    "ru": "WRI оценивает доклад Председательства COP30 о том, как мобилизовать 1,3 трлн долларов США в год климатического финансирования для развивающихся стран к 2035 году — цель, установленная на COP29. По данным института, меры в шести тематических областях могут обеспечить примерно 1,27–1,41 трлн долларов международных потоков к 2035 году. Гайя Ларсен призывает к быстрым реформам: большему принятию рисков многосторонними банками развития, новым международным сборам и увеличению государственного финансирования со стороны развитых стран. Относится к направлению «Финансы».",
+    "zh": "世界资源研究所(WRI)评估了COP30主席国关于如何到2035年每年为发展中国家筹集1.3万亿美元气候资金(COP29确定的目标)的报告。该机构称,六大主题领域的措施到2035年可产生约1.27万亿至1.41万亿美元的国际资金流。盖亚·拉尔森(Gaia Larsen)呼吁迅速改革,包括多边开发银行承担更多风险、征收新的国际税费以及发达国家增加公共资金。涉及“财政”(Finanças)议题。",
+    "ar": "يقيّم معهد الموارد العالمية (WRI) تقرير رئاسة COP30 بشأن كيفية حشد 1.3 تريليون دولار أمريكي سنوياً من التمويل المناخي للبلدان النامية بحلول عام 2035، وهو الهدف الذي تحدد في COP29. ووفقاً للمعهد، يمكن للتدابير في ستة مجالات موضوعية أن تولّد نحو 1.27 إلى 1.41 تريليون دولار من التدفقات الدولية بحلول عام 2035. وتدعو غايا لارسن إلى إصلاحات سريعة، تشمل تحمّل بنوك التنمية المتعددة الأطراف مخاطر أكبر، وفرض رسوم دولية جديدة، وزيادة التمويل العام من البلدان المتقدمة. ويتصل ذلك بمسار التمويل."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [
+    "mobilizing $1.3 trillion a year by 2035 is achievable, but only with swift reforms across nearly every channel of finance. — Gaia Larsen, WRI",
+    "The road to $1.3 trillion is long, but we have a clear sense of how to get there. — Gaia Larsen, WRI"
+   ],
+   "first_seen": "2026-11-09T00:15:00-03:00",
+   "lang": "en"
+  },
   {
    "id": "x-marinasilva-20261108-mapa-do-caminho",
    "kind": "post",
