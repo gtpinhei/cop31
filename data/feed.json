@@ -7049,11 +7049,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T02:42:00-03:00",
-  "label": "10 nov 2026, 02:42 (Brasília)",
+  "timestamp": "2026-11-10T03:45:00-03:00",
+  "label": "10 nov 2026, 03:45 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 4,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
