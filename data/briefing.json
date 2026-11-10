@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T12:59+03:00",
+ "generated_at": "2026-11-10T13:59+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T06:16:42-03:00",
-  "social_round": "2026-11-10T06:50:00-03:00",
+  "social_round": "2026-11-10T07:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 69,
-  "stories": 63,
+  "candidates": 74,
+  "stories": 67,
   "top": 8,
   "publishers": [
    "350.org",
@@ -575,6 +575,44 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261110-skea-ciencia",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-skea-ciencia",
+     "title": "@turkiyecop31: Climate science serves as the compass guiding effective climate action. Addressing the Opening Ceremony of #COP31,…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfjtygZM5X1/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "07:41",
+     "language": "en",
+     "tracks": [
+      "GST2 e IPCC",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Na abertura da COP31, o presidente do IPCC, Jim Skea, afirmou que a ciência é a bússola da ação climática e que evidências sólidas são vitais para orientar a implementação.",
+     "collected_at": "2026-11-10T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 opening ceremony, IPCC Chair Jim Skea said climate science is the compass for effective climate action and that robust evidence is vital to steering implementation.",
+      "es": "En la ceremonia de apertura de la COP31, el Presidente del IPCC, Jim Skea, afirmó que la ciencia del clima es la brújula de la acción climática eficaz y que las pruebas sólidas son vitales para orientar la implementación.",
+      "fr": "Lors de la cérémonie d'ouverture de la COP31, le Président du GIEC, Jim Skea, a déclaré que la science du climat est la boussole d'une action climatique efficace et que des preuves solides sont essentielles pour orienter la mise en œuvre.",
+      "ru": "На церемонии открытия КС-31 Председатель МГЭИК Джим Скеа заявил, что климатическая наука — компас эффективных действий по климату, а надёжные данные жизненно важны для направления осуществления.",
+      "zh": "在COP31开幕式上，IPCC主席吉姆·斯凯表示，气候科学是有效气候行动的指南针，可靠的科学证据对引导落实至关重要。",
+      "ar": "في حفل افتتاح مؤتمر الأطراف الحادي والثلاثين، قال رئيس الهيئة الحكومية الدولية المعنية بتغير المناخ جيم سكيا إن علم المناخ هو البوصلة للعمل المناخي الفعّال وإن الأدلة القوية حيوية لتوجيه التنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-wmo-2026-11-09-state-of-climate-2026",
     "section": "negotiations",
     "score": 0.51,
@@ -608,6 +646,43 @@
     "related": [],
     "publishers": [
      "WMO"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-mwp-genero",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-mwp-genero",
+     "title": "enb.iisd.org: Following Monday’s late finish, Parties at #COP31 get straight to work on a range of issues. #Mitigation Work…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzx6tzlp722v",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "07:04",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: no segundo dia da COP31, negociadores do Programa de Trabalho de Mitigação discutem desenho e duração, e Partes debatem barreiras à ação climática sensível a gênero.",
+     "collected_at": "2026-11-10T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: on COP31 Day 2, Mitigation Work Programme negotiators consider its design and duration, and Parties discuss barriers to gender-responsive climate action.",
+      "es": "ENB: en el segundo día de la COP31, los negociadores del Programa de Trabajo sobre Mitigación examinan su diseño y duración, y las Partes debaten los obstáculos a la acción climática con perspectiva de género.",
+      "fr": "ENB : au deuxième jour de la COP31, les négociateurs du Programme de travail sur l'atténuation examinent sa conception et sa durée, et les Parties débattent des obstacles à une action climatique sensible au genre.",
+      "ru": "ENB: на второй день КС-31 переговорщики по Программе работы по смягчению рассматривают её структуру и продолжительность, а Стороны обсуждают препятствия на пути гендерно-ориентированных климатических действий.",
+      "zh": "ENB：COP31第二天，减缓工作方案谈判代表审议其设计与期限，各缔约方讨论促进性别平等的气候行动所面临的障碍。",
+      "ar": "نشرة مفاوضات الأرض: في اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين، يبحث مفاوضو برنامج عمل التخفيف تصميمه ومدته، وتناقش الأطراف عوائق العمل المناخي المراعي للنوع الاجتماعي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1065,6 +1140,73 @@
     ]
    },
    {
+    "id": "st-instagram-muratkurum-20261110-apoio-ex-presidencias",
+    "section": "action",
+    "score": 0.484,
+    "lead": {
+     "id": "instagram-muratkurum-20261110-apoio-ex-presidencias",
+     "title": "@muratkurum: Bugün COP tarihinde bir ilk yaşandı. Geçmiş COP Başkanlıkları yayınladıkları ortak bildiri ile ülkemizin COP31…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfjlJVTiOKo/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-10",
+     "time": "06:25",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum, presidente da COP31, diz que ex-presidências de COP publicaram pela primeira vez uma declaração conjunta de forte apoio à presidência turca e reafirma o compromisso com a solidariedade internacional sem deixar ninguém para trás.",
+     "collected_at": "2026-11-10T06:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum says past COP Presidencies issued, for the first time, a joint statement strongly supporting the Turkish COP31 Presidency, and reaffirms commitment to international solidarity that leaves no one behind.",
+      "es": "El presidente de la COP31, Murat Kurum, afirma que las anteriores Presidencias de la COP publicaron por primera vez una declaración conjunta de firme apoyo a la Presidencia turca y reafirma el compromiso con la solidaridad internacional sin dejar a nadie atrás.",
+      "fr": "Le président de la COP31, Murat Kurum, indique que les anciennes présidences de la COP ont publié pour la première fois une déclaration commune apportant un fort soutien à la présidence turque, et réaffirme son engagement en faveur d'une solidarité internationale qui ne laisse personne de côté.",
+      "ru": "Президент КС-31 Мурат Курум сообщает, что бывшие председатели КС впервые выступили с совместным заявлением в решительную поддержку турецкого председательства КС-31, и подтверждает приверженность международной солидарности, при которой никто не остаётся позади.",
+      "zh": "COP31主席穆拉特·库鲁姆表示，历届COP主席团首次发表联合声明，有力支持土耳其担任的COP31主席团，并重申致力于不让任何人掉队的国际团结。",
+      "ar": "قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن رئاسات مؤتمرات الأطراف السابقة أصدرت لأول مرة بياناً مشتركاً يدعم بقوة رئاسة تركيا للمؤتمر، وجدد الالتزام بالتضامن الدولي بحيث لا يُترك أحد خلف الركب."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261110-apoio-ex-presidencias",
+      "title": "@turkiyecop31: Former COP Presidencies have issued a joint statement expressing their strong support for Türkiye’s COP31…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfjo4fSjOH5/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "06:58",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Ex-presidências de COP divulgaram declaração conjunta de forte apoio à presidência turca da COP31; Murat Kurum saudou o compromisso na reunião do COP Circle.",
+      "collected_at": "2026-11-10T07:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Former COP Presidencies issued a joint statement strongly supporting the Turkish COP31 Presidency; COP31 President Murat Kurum welcomed the commitment at the COP Circle meeting.",
+       "es": "Las anteriores Presidencias de la COP emitieron una declaración conjunta de firme apoyo a la Presidencia turca de la COP31; el presidente Murat Kurum acogió con satisfacción el compromiso en la reunión del Círculo de la COP.",
+       "fr": "D'anciennes présidences de la COP ont publié une déclaration commune apportant un fort soutien à la présidence turque de la COP31 ; le président Murat Kurum a salué cet engagement lors de la réunion du Cercle de la COP.",
+       "ru": "Бывшие председатели КС выступили с совместным заявлением о решительной поддержке турецкого председательства КС-31; президент Мурат Курум приветствовал это обязательство на встрече «Круга КС».",
+       "zh": "历届COP主席团发表联合声明，大力支持土耳其担任COP31主席国；COP31主席穆拉特·库鲁姆在COP圈会议上对这一承诺表示欢迎。",
+       "ar": "أصدرت رئاسات سابقة لمؤتمر الأطراف بيانًا مشتركًا يدعم بقوة الرئاسة التركية لمؤتمر الأطراف الحادي والثلاثين؛ ورحّب الرئيس مراد كوروم بهذا الالتزام في اجتماع دائرة مؤتمر الأطراف."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-icc-2026-11-09-electrification-pledge",
     "section": "action",
     "score": 0.45,
@@ -1367,34 +1509,73 @@
     ]
    },
    {
-    "id": "st-instagram-muratkurum-20261110-apoio-ex-presidencias",
+    "id": "st-instagram-turkiyecop31-20261110-stiell-cop-implementacao",
     "section": "action",
     "score": 0.413,
     "lead": {
-     "id": "instagram-muratkurum-20261110-apoio-ex-presidencias",
-     "title": "@muratkurum: Bugün COP tarihinde bir ilk yaşandı. Geçmiş COP Başkanlıkları yayınladıkları ortak bildiri ile ülkemizin COP31…",
+     "id": "instagram-turkiyecop31-20261110-stiell-cop-implementacao",
+     "title": "@turkiyecop31: COP31 is the Implementation COP: a moment to build on past progress and turn global ambition into faster, tangible…",
      "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfjlJVTiOKo/",
-     "publisher": "Murat Kurum",
+     "url": "https://www.instagram.com/p/DfjnfOysW1l/",
+     "publisher": "Presidência da COP31 (Türkiye)",
      "published": "2026-11-10",
-     "time": "06:25",
-     "language": "tr",
+     "time": "06:46",
+     "language": "en",
      "tracks": [
-      "Presidência e anfitrião"
+      "Presidência e anfitrião",
+      "Agenda de Ação"
      ],
      "content_type": "official",
      "kind": "post",
      "platform": "instagram",
-     "description": "Murat Kurum, presidente da COP31, diz que ex-presidências de COP publicaram pela primeira vez uma declaração conjunta de forte apoio à presidência turca e reafirma o compromisso com a solidariedade internacional sem deixar ninguém para trás.",
-     "collected_at": "2026-11-10T06:50:00-03:00",
+     "description": "Na abertura da COP31, Simon Stiell (UNFCCC) chamou a COP31 de \"COP da implementação\" e pediu que as Partes assumam responsabilidade e acelerem a implementação.",
+     "collected_at": "2026-11-10T07:50:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "COP31 President Murat Kurum says past COP Presidencies issued, for the first time, a joint statement strongly supporting the Turkish COP31 Presidency, and reaffirms commitment to international solidarity that leaves no one behind.",
-      "es": "El presidente de la COP31, Murat Kurum, afirma que las anteriores Presidencias de la COP publicaron por primera vez una declaración conjunta de firme apoyo a la Presidencia turca y reafirma el compromiso con la solidaridad internacional sin dejar a nadie atrás.",
-      "fr": "Le président de la COP31, Murat Kurum, indique que les anciennes présidences de la COP ont publié pour la première fois une déclaration commune apportant un fort soutien à la présidence turque, et réaffirme son engagement en faveur d'une solidarité internationale qui ne laisse personne de côté.",
-      "ru": "Президент КС-31 Мурат Курум сообщает, что бывшие председатели КС впервые выступили с совместным заявлением в решительную поддержку турецкого председательства КС-31, и подтверждает приверженность международной солидарности, при которой никто не остаётся позади.",
-      "zh": "COP31主席穆拉特·库鲁姆表示，历届COP主席团首次发表联合声明，有力支持土耳其担任的COP31主席团，并重申致力于不让任何人掉队的国际团结。",
-      "ar": "قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن رئاسات مؤتمرات الأطراف السابقة أصدرت لأول مرة بياناً مشتركاً يدعم بقوة رئاسة تركيا للمؤتمر، وجدد الالتزام بالتضامن الدولي بحيث لا يُترك أحد خلف الركب."
+      "en": "At the COP31 opening ceremony, UNFCCC Executive Secretary Simon Stiell called COP31 the \"Implementation COP\" and urged all Parties to take responsibility and accelerate implementation.",
+      "es": "En la ceremonia de apertura de la COP31, el Secretario Ejecutivo de la CMNUCC, Simon Stiell, calificó la COP31 de \"COP de la implementación\" e instó a todas las Partes a asumir responsabilidades y acelerar la implementación.",
+      "fr": "Lors de la cérémonie d'ouverture de la COP31, le Secrétaire exécutif de la CCNUCC, Simon Stiell, a qualifié la COP31 de « COP de la mise en œuvre » et exhorté toutes les Parties à assumer leurs responsabilités et à accélérer la mise en œuvre.",
+      "ru": "На церемонии открытия КС-31 Исполнительный секретарь РКИК ООН Саймон Стилл назвал КС-31 «КС по осуществлению» и призвал все Стороны взять на себя ответственность и ускорить осуществление.",
+      "zh": "在COP31开幕式上，《联合国气候变化框架公约》执行秘书西蒙·斯蒂尔称COP31为“落实COP”，并呼吁各缔约方承担责任、加快落实。",
+      "ar": "في حفل افتتاح مؤتمر الأطراف الحادي والثلاثين، وصف الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، سايمون ستيل، المؤتمر بأنه «مؤتمر التنفيذ» وحثّ جميع الأطراف على تحمل المسؤولية وتسريع التنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261110-eletrificacao-coletiva",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-muratkurum-20261110-eletrificacao-coletiva",
+     "title": "@muratkurum: Avustralya İklim Değişikliği ve Enerji Bakanı, COP31 Müzakereler Başkanı Sayın Chris Bowen ve BM İklim Değişikliği…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfjt66BiKgP/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-10",
+     "time": "07:42",
+     "language": "tr",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Em entrevista coletiva com Chris Bowen e Simon Stiell, Murat Kurum destacou a eletrificação (transportes, edifícios e indústria) como prioridade da Agenda de Ação da COP31.",
+     "collected_at": "2026-11-10T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At a press conference with Chris Bowen and Simon Stiell, Murat Kurum highlighted electrification (transport, buildings and industry) as a priority of the COP31 Action Agenda.",
+      "es": "En una rueda de prensa con Chris Bowen y Simon Stiell, Murat Kurum destacó la electrificación (transporte, edificios e industria) como prioridad de la Agenda de Acción de la COP31.",
+      "fr": "Lors d'une conférence de presse avec Chris Bowen et Simon Stiell, Murat Kurum a souligné l'électrification (transports, bâtiments et industrie) comme priorité de l'Agenda d'action de la COP31.",
+      "ru": "На пресс-конференции с Крисом Боуэном и Саймоном Стиллом Мурат Курум выделил электрификацию (транспорт, здания и промышленность) как приоритет Повестки действий КС-31.",
+      "zh": "在与克里斯·鲍文和西蒙·斯蒂尔举行的新闻发布会上，穆拉特·库鲁姆强调电气化（交通、建筑和工业）是COP31行动议程的优先事项。",
+      "ar": "في مؤتمر صحفي مع كريس بوين وسايمون ستيل، أبرز مراد كوروم كهربة قطاعات النقل والمباني والصناعة بوصفها أولوية في أجندة العمل لمؤتمر الأطراف الحادي والثلاثين."
      },
      "description_i18n_method": "machine"
     },
