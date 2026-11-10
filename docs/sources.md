@@ -123,3 +123,11 @@ refresh the dashboard doc.
 The legacy watchlists (`claude/COP31 watchlist.json`, `claude/COP31 social watchlist.json`) are left
 untouched in the Project. To roll back, point step 1 of each agent prompt back at its watchlist and drop
 the status-file step (4d/5d); the feed format is unchanged.
+
+## Sources with their own collector
+
+Some series need a collector of their own instead of the generic web agent. They keep `collection.agent` set to that
+collector, are left out of the web agent's view, and report their health to the registry directly. Cadence `every_3h`
+(due after 2 h 45 min, on time within 4 h) is available for them.
+
+- `cop30-presidency-daily-brief` — `tools/cop30_brief.py`, see [cop30-brief.md](cop30-brief.md).

@@ -1345,6 +1345,9 @@ a:hover{text-decoration-color:var(--un)}
   function T(s){ var v = LD["d:"+s]; return v != null ? v : s; }
   // feed items carry the Portuguese summary plus optional summary_i18n {en,es,fr,ru,zh,ar}; fall back to Portuguese
   function sumOf(it){ var m = it.summary_i18n; return (m && LANG !== "pt" && m[LANG]) || it.summary; }
+  // a publication in several languages (e.g. the COP30 Presidency Daily Brief, EN + PT): link the reader's version
+  function urlOf(it){ var m = it.url_i18n, u = m && m[LANG]; return (typeof u === "string" && /^https:\/\//.test(u)) ? u : it.url; }
+  function titleOf(it){ var m = it.title_i18n, t = m && m[LANG]; return (typeof t === "string" && t) ? t : it.title; }
   var onLang = [];
   var LANGS = {pt:"pt-BR", en:"en", es:"es", fr:"fr", ru:"ru", zh:"zh-Hans", ar:"ar"};
   var UNITS = I18N.collect(document.documentElement), DICT = {pt:{}}, LANG = "pt";
@@ -1644,10 +1647,11 @@ a:hover{text-decoration-color:var(--un)}
         if (it.type) html += '<span>·</span><span>'+esc(T(it.type))+'</span>';
         if (day) html += '<span>·</span><time datetime="'+esc(day)+'">'+esc(fmtDate(day))+'</time>';
         if (isNew) html += '<span class="fi-new">'+J.isNew+'</span>';
-        html += '</div><h3 class="fi-title">'+(it.url ? '<a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title||it.url)+'</a>' : esc(it.title||""))+'</h3>';
+        var iu = urlOf(it), itl = titleOf(it);
+        html += '</div><h3 class="fi-title">'+(iu ? '<a href="'+esc(iu)+'" target="_blank" rel="noopener">'+esc(itl||iu)+'</a>' : esc(itl||""))+'</h3>';
         if (it.authors) html += '<p class="fi-auth">'+esc(it.authors)+'</p>';
-        var dom = (/^https:\/\/([^\/]+)/.exec(it.url||"")||["",""])[1].replace(/^www\./, "");
-        if (dom || it.first_seen) html += '<p class="fi-src">'+(dom ? '<a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(dom)+'</a>' : '')+(dom && it.first_seen ? ' · ' : '')+(it.first_seen ? esc(F(J.seenAt, {t:fmtStamp(it.first_seen)})) : '')+'</p>';
+        var dom = (/^https:\/\/([^\/]+)/.exec(iu||"")||["",""])[1].replace(/^www\./, "");
+        if (dom || it.first_seen) html += '<p class="fi-src">'+(dom ? '<a href="'+esc(iu)+'" target="_blank" rel="noopener">'+esc(dom)+'</a>' : '')+(dom && it.first_seen ? ' · ' : '')+(it.first_seen ? esc(F(J.seenAt, {t:fmtStamp(it.first_seen)})) : '')+'</p>';
         if (it.summary) html += '<p class="fi-sum">'+esc(sumOf(it))+'</p>';
         if (it.quotes && it.quotes.length) { html += '<details class="fi-q"><summary>'+F(it.quotes.length === 1 ? J.quote1 : J.quoteN, {n:it.quotes.length})+'</summary><ul>'; it.quotes.forEach(function(qq){ html += '<li>'+esc(String(qq))+'</li>'; }); html += '</ul></details>'; }
         if (it.tracks && it.tracks.length) { html += '<div class="fi-tracks">'; it.tracks.forEach(function(t){ html += '<button type="button" class="chip" data-t="'+esc(t)+'" aria-pressed="'+(ff.tracks.indexOf(t) >= 0 ? 'true' : 'false')+'">'+esc(T(t))+'</button>'; }); html += '</div>'; }
@@ -1757,10 +1761,10 @@ a:hover{text-decoration-color:var(--un)}
     function brfCard(st){
       var it = st.lead, d = brfDesc(it), typ = (J.brfTypes || [])[["reporting", "analysis", "advocacy", "official", "document"].indexOf(it.content_type)] || "";
       var plat = it.kind === "post" && it.platform ? F(J.brfPost, {p: ({x:"X", bluesky:"Bluesky", instagram:"Instagram"})[it.platform] || it.platform}) : "";
-      var also = (st.related || []).filter(function(r){ return /^https:\/\//.test(r.url || ""); });
+      var also = (st.related || []).filter(function(r){ return /^https:\/\//.test(r.url || ""); }), tl = titleOf(it);
       return '<article class="brf-card"><p class="brf-k"><span class="brf-t t-' + esc(String(it.content_type || "")) + '">' + esc(typ) + '</span>'
         + '<span class="brf-pub">' + esc(String(it.publisher || "")) + '</span><span>' + esc(stamp(it.published)) + '</span>' + (plat ? '<span>' + esc(plat) + '</span>' : '') + '</p>'
-        + '<h4 dir="auto"' + (it.language ? ' lang="' + esc(String(it.language)) + '"' : '') + '><a href="' + esc(String(it.url)) + '" target="_blank" rel="noopener">' + esc(String(it.title || "")) + '</a></h4>'
+        + '<h4 dir="auto"' + (tl !== it.title ? ' lang="' + esc(LANGS[LANG] || LANG) + '"' : it.language ? ' lang="' + esc(String(it.language)) + '"' : '') + '><a href="' + esc(String(urlOf(it))) + '" target="_blank" rel="noopener">' + esc(String(tl || "")) + '</a></h4>'
         + (d.text ? '<p class="brf-d" dir="auto" lang="' + d.lang + '">' + esc(d.text) + '</p>' : '')
         + (d.mt ? '<p class="brf-mt">' + esc(J.brfMT) + '</p>' : '')
         + (also.length ? '<p class="brf-also">' + esc(J.brfAlso) + ': ' + also.slice(0, 4).map(function(r){ return '<a href="' + esc(String(r.url)) + '" target="_blank" rel="noopener">' + esc(String(r.publisher || host(r.url))) + '</a>'; }).join(", ") + '</p>' : '')
