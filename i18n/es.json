@@ -871,7 +871,6 @@
  "d:ferramenta": "herramienta",
  "h216dfd40": "Hoy en la COP31",
  "hc51d6a93": "Pulso social",
- "hd0524e53": "Novedades seleccionadas por la curaduría editorial, con lo que cambió, por qué importa y qué observar. Cada entrada incluye fuentes y el grado de verificación, y solo se publica después de revisión humana. El flujo bruto de las cuentas monitoreadas está en <a href=\"#pulso\">Pulso social</a>; todo lo que recogen los agentes está en <a href=\"#atualizacoes\">Actualizaciones</a>.",
  "hcd02fe8c": "La curaduría diaria comienza con la apertura de la COP31, el 9 de noviembre. Mientras tanto, consulte <a href=\"#atualizacoes\">Actualizaciones</a>.",
  "h9bbc69fd": "No fue posible cargar la curaduría editorial. Recargue la página.",
  "he9acbc46": "curaduría editorial",
@@ -1100,5 +1099,27 @@
  "j:nlBadEmail": "Revise el correo electrónico: parece incompleto.",
  "j:nlNeedPref": "Elija al menos un boletín.",
  "j:nlPreviewOk": "Vista previa: el formulario está bien completado, pero no se envió ni se guardó nada. En el lanzamiento, ahora recibiría un correo para confirmar su suscripción.",
- "j:nlSent": "Casi listo: confirme la suscripción en la página que se abrió y después en el correo que recibirá."
+ "j:nlSent": "Casi listo: confirme la suscripción en la página que se abrió y después en el correo que recibirá.",
+ "hee40d731": "La selección del día de lo que medios, think tanks, redes de la sociedad civil y fuentes oficiales monitoreados ya han publicado sobre la COP31: el titular original, un enlace directo y una breve descripción atribuida a cada fuente, sin análisis propio. Las contribuciones originales aprobadas por la redacción aparecen aparte, en Desde la comunidad. El flujo bruto de las cuentas está en <a href=\"#pulso\">Pulso social</a>; todo lo que recogen los agentes está en <a href=\"#atualizacoes\">Actualizaciones</a>.",
+ "h2dc729ec": "Lectura esencial",
+ "hacbe05b5": "Negociaciones",
+ "hf3b0eff3": "Acción e implementación",
+ "h207dc52e": "Sociedad civil en foco",
+ "h624dbacb": "Desde la comunidad",
+ "j:brfMeta": "Actualizado el {t} · {s} historias de {p} fuentes publicadas desde el {d} · fechas de publicación de los propios medios",
+ "j:brfStale": "La recogida más reciente de los agentes tiene más de 12 horas ({t}). Esta es la última edición válida; no significa que no haya habido novedades.",
+ "j:brfNone": "Las fuentes monitoreadas no han publicado ningún reportaje ni análisis desde el {d}. Consulte Actualizaciones para ver el historial completo.",
+ "j:brfMore": "{n} más en esta sección",
+ "j:brfAlso": "También lo cubrieron",
+ "j:brfMT": "descripción en traducción automática",
+ "j:brfPost": "publicación en {p}",
+ "j:brfNote": "Enlaces a material ya público de las fuentes del registro de monitoreo; titulares en su idioma original y descripciones breves que resumen cada fuente, elaboradas por el Navegador. No es análisis propio. Fuentes con acceso limitado en esta edición: {g}.",
+ "j:brfNoteOk": "Enlaces a material ya público de las fuentes del registro de monitoreo; titulares en su idioma original y descripciones breves que resumen cada fuente, elaboradas por el Navegador. No es análisis propio.",
+ "j:brfTypes": [
+  "reportaje",
+  "análisis",
+  "posicionamiento",
+  "comunicado oficial",
+  "documento"
+ ]
 }

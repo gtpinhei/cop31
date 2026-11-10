@@ -871,7 +871,6 @@
  "d:ferramenta": "outil",
  "h216dfd40": "Aujourd'hui à la COP31",
  "hc51d6a93": "Pouls social",
- "hd0524e53": "Développements sélectionnés par la rédaction éditoriale, avec ce qui a changé, pourquoi c'est important et ce qu'il faut surveiller. Chaque entrée présente ses sources et son degré de vérification, et n'est publiée qu'après relecture humaine. Le flux brut des comptes suivis se trouve dans <a href=\"#pulso\">Pouls social</a> ; tout ce que les agents collectent est dans <a href=\"#atualizacoes\">Mises à jour</a>.",
  "hcd02fe8c": "La curation quotidienne commence avec l'ouverture de la COP31, le 9 novembre. D'ici là, consultez <a href=\"#atualizacoes\">Mises à jour</a>.",
  "h9bbc69fd": "Impossible de charger la curation éditoriale. Rechargez la page.",
  "he9acbc46": "curation éditoriale",
@@ -1100,5 +1099,27 @@
  "j:nlBadEmail": "Vérifiez l’adresse e-mail : elle semble incomplète.",
  "j:nlNeedPref": "Choisissez au moins une lettre d’information.",
  "j:nlPreviewOk": "Aperçu : le formulaire est correctement rempli, mais rien n’a été envoyé ni conservé. Lors du lancement, vous recevriez maintenant un e-mail pour confirmer votre abonnement.",
- "j:nlSent": "Presque terminé : confirmez votre abonnement sur la page qui s’est ouverte, puis dans l’e-mail que vous allez recevoir."
+ "j:nlSent": "Presque terminé : confirmez votre abonnement sur la page qui s’est ouverte, puis dans l’e-mail que vous allez recevoir.",
+ "hee40d731": "La sélection du jour de ce que les médias, think tanks, réseaux de la société civile et sources officielles suivis ont déjà publié sur la COP31 : le titre original, un lien direct et une courte description attribuée à chaque source, sans analyse propre. Les contributions originales validées par la rédaction figurent à part, dans « De la communauté ». Le flux brut des comptes se trouve dans <a href=\"#pulso\">Pouls social</a> ; tout ce que collectent les agents se trouve dans <a href=\"#atualizacoes\">Mises à jour</a>.",
+ "h2dc729ec": "À lire absolument",
+ "hacbe05b5": "Négociations",
+ "hf3b0eff3": "Action et mise en œuvre",
+ "h207dc52e": "Regard de la société civile",
+ "h624dbacb": "De la communauté",
+ "j:brfMeta": "Mis à jour le {t} · {s} sujets issus de {p} sources publiés depuis le {d} · dates de publication fournies par les éditeurs",
+ "j:brfStale": "La dernière collecte des agents date de plus de 12 heures ({t}). Ceci est la dernière édition valide ; cela ne signifie pas qu’il ne s’est rien passé.",
+ "j:brfNone": "Aucun reportage ni aucune analyse des sources suivies n’a été publié depuis le {d}. Voir Mises à jour pour l’historique complet.",
+ "j:brfMore": "{n} de plus dans cette rubrique",
+ "j:brfAlso": "Également couvert par",
+ "j:brfMT": "description en traduction automatique",
+ "j:brfPost": "publication sur {p}",
+ "j:brfNote": "Liens vers des contenus déjà publics des sources du registre de suivi ; titres dans leur langue d’origine, courtes descriptions résumant chaque source rédigées par le Navigateur. Il ne s’agit pas d’une analyse propre. Sources à accès limité dans cette édition : {g}.",
+ "j:brfNoteOk": "Liens vers des contenus déjà publics des sources du registre de suivi ; titres dans leur langue d’origine, courtes descriptions résumant chaque source rédigées par le Navigateur. Il ne s’agit pas d’une analyse propre.",
+ "j:brfTypes": [
+  "reportage",
+  "analyse",
+  "prise de position",
+  "communiqué officiel",
+  "document"
+ ]
 }
