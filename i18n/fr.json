@@ -873,8 +873,6 @@
  "hc51d6a93": "Pouls social",
  "hcd02fe8c": "La curation quotidienne commence avec l'ouverture de la COP31, le 9 novembre. D'ici là, consultez <a href=\"#atualizacoes\">Mises à jour</a>.",
  "h9bbc69fd": "Impossible de charger la curation éditoriale. Rechargez la page.",
- "he9acbc46": "curation éditoriale",
- "h8e576ef8": "<a href=\"#hoje\">Voir tous les développements</a>",
  "hd6a3c107": "Nouveaux éléments trouvés par les agents qui suivent environ 66 sources sur le web (think tanks, réseaux de la société civile, presse spécialisée, UNFCCC et présidence) toutes les six heures, et environ 85 comptes sur Bluesky, X, Instagram et YouTube toutes les heures pendant la journée. Les résumés suivent la langue du site ; les titres, posts et citations restent dans la langue d'origine. Les identifiants marqués « non vérifié » proviennent de sources tierces et n'ont pas encore été confirmés. Lorsque l'agent n'identifie pas l'adresse du post, le lien mène au profil du compte et l'élément est marqué « lien du profil ». Les synthèses consolidées figurent dans <a href=\"#thinktanks\">Think tanks</a> et <a href=\"#radar\">Radar pré-COP</a>.",
  "h3e4ea7be": "Réessayer",
  "hb51a61d2": "Pouls social : ce que disent les acteurs",
@@ -1124,5 +1122,6 @@
  ],
  "haaa49a5d": "Moins de bruit. L’essentiel, chaque jour.",
  "he1c43042": "Votre fenêtre quotidienne sur les négociations, les développements politiques et l’action climatique de la COP31 : journalisme de référence, regards d’experts et sources officielles réunis.",
- "hd53c288d": "Notre méthode de sélection"
+ "hd53c288d": "Notre méthode de sélection",
+ "h6b20d6eb": "Les temps forts du jour, avec les liens vers les sources, sont dans <a href=\"#hoje\">Aujourd'hui à la COP31</a>."
 }

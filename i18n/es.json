@@ -873,8 +873,6 @@
  "hc51d6a93": "Pulso social",
  "hcd02fe8c": "La curaduría diaria comienza con la apertura de la COP31, el 9 de noviembre. Mientras tanto, consulte <a href=\"#atualizacoes\">Actualizaciones</a>.",
  "h9bbc69fd": "No fue posible cargar la curaduría editorial. Recargue la página.",
- "he9acbc46": "curaduría editorial",
- "h8e576ef8": "<a href=\"#hoje\">Ver todas las novedades</a>",
  "hd6a3c107": "Ítems nuevos encontrados por los agentes que siguen unas 66 fuentes en la web (think tanks, redes de la sociedad civil, prensa especializada, UNFCCC y presidencia) cada seis horas, y unas 85 cuentas en Bluesky, X, Instagram y YouTube cada hora durante el día. Los resúmenes siguen el idioma del sitio; títulos, publicaciones y citas quedan en el idioma original. Los identificadores marcados como “no verificado” provienen de fuentes de terceros y aún no han sido confirmados. Cuando el agente no identifica la dirección de la publicación, el enlace lleva al perfil de la cuenta y el ítem se marca como “enlace al perfil”. Las recopilaciones consolidadas están en <a href=\"#thinktanks\">Think tanks</a> y <a href=\"#radar\">Radar pre-COP</a>.",
  "h3e4ea7be": "Intentar de nuevo",
  "hb51a61d2": "Pulso social: lo que dicen los actores",
@@ -1124,5 +1122,6 @@
  ],
  "haaa49a5d": "Menos ruido. Lo que de verdad importa.",
  "he1c43042": "Su ventana diaria a las negociaciones, la política y la acción climática de la COP31: periodismo de confianza, análisis de expertos y fuentes oficiales, en un solo lugar.",
- "hd53c288d": "Cómo seleccionamos"
+ "hd53c288d": "Cómo seleccionamos",
+ "h6b20d6eb": "Lo más destacado del día, con enlaces a las fuentes, está en <a href=\"#hoje\">Hoy en la COP31</a>."
 }
