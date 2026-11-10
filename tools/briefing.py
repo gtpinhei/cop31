@@ -70,12 +70,14 @@ def registry_index():
         by_inst.setdefault(s.get("institution", "").lower(), meta)
     gaps = []
     for s in reg["sources"]:
-        if s.get("status") != "active" or s.get("platform") not in ("web", "rss"):
+        if s.get("status") not in ("active", "paused") or s.get("platform") not in ("web", "rss"):
             continue
         if not any(re.search(p, s.get("institution", ""), re.I) for p in PRIORITY):
             continue
         last = s["health"].get("last_outcome")
-        if last in ("blocked", "unavailable", "error"):
+        if s.get("status") == "paused":                   # e.g. robots.txt refusal: disclosed, never worked around
+            gaps.append({"publisher": s.get("institution"), "outcome": "paused", "note": ((s.get("decision") or {}).get("reason") or "")[:120]})
+        elif last in ("blocked", "unavailable", "error"):
             note = next((h.get("note") for h in reversed(s["health"]["history"]) if h.get("note")), "") or ""
             gaps.append({"publisher": s.get("institution"), "outcome": last, "note": note[:120]})
     return by_id, by_inst, gaps
