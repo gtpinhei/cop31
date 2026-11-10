@@ -169,7 +169,7 @@ const txt = (d, s) => (d.querySelector(s)?.textContent || "").trim();
   assert([...b.d.querySelectorAll("#todayList h4")].some(h => h.textContent === "Rascunho local") && !b.d.getElementById("todayPreviewFlag").hidden, "local preview reads the private store (via tools/preview.py), marked");
   assert(!b.d.body.textContent.includes("Rascunho perdido"), "a draft inside data/today.json is never shown, even in preview");
   b = boot({ bsky: () => res(200, { feed: [] }) }); await sleep(60); await go(b.w, "hoje");
-  assert(b.d.querySelectorAll("#todayList .ti").length === 0 && !b.d.getElementById("todayEmpty").hidden && b.d.getElementById("todayTeaser").hidden, "shipped today.json is empty; honest empty state");
+  assert(b.d.querySelectorAll("#todayList .ti").length === 0 && !b.d.getElementById("todayEmpty").hidden && !b.d.getElementById("todayTeaser"), "shipped today.json is empty; honest empty state");
   for (const l of LG) {
     b = boot({ today: doc, bsky: () => res(200, { feed: [] }), lang: l }); await sleep(160); await go(b.w, "hoje");
     const cards = [...b.d.querySelectorAll("#todayList .ti")];

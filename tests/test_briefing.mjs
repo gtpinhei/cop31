@@ -114,11 +114,18 @@ const sec = (d, k) => d.querySelector(`.brf-sec[data-sec="${k}"]`);
   assert(n.d.getElementById("brf").hidden && !n.d.getElementById("todayEmpty").hidden, "without briefing.json the old empty state is unchanged");
 }
 
-// 6. Panorama teaser and Social Pulse keep working
+// 6. Panorama no longer duplicates the daily briefing (one discreet link to #hoje); Hoje and Social Pulse keep working
 {
-  const b = boot({ briefing: brief() }); await sleep(150);
+  const b = boot({ briefing: brief(), today: { schema: 1, entries: [human] } }); await sleep(150);
   b.w.location.hash = "#panorama"; b.w.dispatchEvent(new b.w.Event("hashchange")); await sleep(80);
-  assert(!b.d.getElementById("todayTeaser").hidden && b.d.querySelectorAll("#todayTeaserList .brf-card").length === 2, "Panorama teaser shows the top stories");
+  const pan = b.d.getElementById("view-panorama");
+  assert(!pan.hidden && !b.d.getElementById("todayTeaser") && !b.d.getElementById("todayTeaserList"), "Panorama has no Today teaser section");
+  assert(pan.querySelectorAll(".brf-card, .ti, .today-list, .brf-sec").length === 0 && !pan.textContent.includes("[TEST] Headline") && !pan.textContent.includes("[TESTE] Contribuição humana"), "Panorama shows no briefing or contribution cards");
+  const links = [...pan.querySelectorAll('a[href="#hoje"]')];
+  assert(links.length === 1 && links[0].closest(".pan-hoje"), "Panorama keeps one discreet link to Hoje na COP31");
+  assert(pan.querySelector(".glance") && pan.querySelector(".glance-grid .g-cell"), "Panorama keeps its 'Em resumo' overview");
+  b.w.location.hash = "#hoje"; b.w.dispatchEvent(new b.w.Event("hashchange")); await sleep(80);
+  assert(!b.d.getElementById("view-hoje").hidden && sec(b.d, "essential").querySelectorAll(".brf-card").length === 2 && b.d.querySelectorAll("#todayList .ti").length === 1, "Hoje still renders the briefing and the human contribution");
   b.w.location.hash = "#pulso"; b.w.dispatchEvent(new b.w.Event("hashchange")); await sleep(250);
   assert(b.calls.some(u => u.includes("data/pulse.json")), "Social Pulse still loads its accounts");
 }
@@ -138,6 +145,18 @@ const sec = (d, k) => d.querySelector(`.brf-sec[data-sec="${k}"]`);
   const b = boot({ briefing: brief() }); await sleep(120);
   assert(!b.d.querySelector("#view-hoje > p.intro"), "the long introduction is gone from the page body");
   assert(sec(b.d, "essential").querySelector(".brf-card h4 a").getAttribute("href").startsWith("https://"), "stories keep their source links");
+}
+
+// 7b. the Panorama link is translated in every language (and RTL in Arabic)
+{
+  const exp = { en: "Today at COP31", es: "Hoy en la COP31", fr: "Aujourd'hui à la COP31", ru: "Сегодня на COP31", zh: "COP31今日要闻", ar: "اليوم في COP31" };
+  for (const [l, t] of Object.entries(exp)) {
+    const b = boot({ briefing: brief(), lang: l }); await sleep(300);
+    b.w.location.hash = "#panorama"; b.w.dispatchEvent(new b.w.Event("hashchange")); await sleep(60);
+    const a = b.d.querySelector("#view-panorama .pan-hoje a[href='#hoje']");
+    assert(a && a.textContent === t && !b.d.getElementById("todayTeaser"), l + ": Panorama link translated, no teaser");
+    if (l === "ar") assert(b.d.documentElement.dir === "rtl", "ar: Panorama in right-to-left");
+  }
 }
 
 // 8. a bilingual publication (COP30 Presidency Daily Brief): the reader's language version is linked
