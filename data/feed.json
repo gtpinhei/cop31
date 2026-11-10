@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T18:40:00-03:00",
+ "generated_at": "2026-11-10T00:16:00-03:00",
  "round": {
-  "timestamp": "2026-11-09T18:40:00-03:00",
-  "label": "9 nov 2026, 18:40 (Brasília)",
-  "sites_checked": 56,
-  "blocked": 21,
-  "new_items": 6,
-  "fetches": "59 de 60",
+  "timestamp": "2026-11-10T00:16:00-03:00",
+  "label": "10 nov 2026, 00:16 (Brasília)",
+  "sites_checked": 59,
+  "blocked": 17,
+  "new_items": 4,
+  "fetches": "64 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "IEA/UNEP/ITUC/TWN/ENB/Carbon Pulse/OC/OCI/WMB (client_error)",
-   "Circle of Finance, Min. Exteriores AU (robots.txt)",
-   "Chatham House, Christian Aid, CAN Europe, CSE, Ember, ODI, Eurodad, CSIS, FoEI, ICCCAD (sem listagem datada)"
+   "UNEP/IEA/ENB/ECCO/ITUC/TWN/OC/OCI (client_error)",
+   "Circle of Finance (cop30.br, robots.txt)",
+   "Chatham House, Christian Aid, CAN Europe, CSE, FoEI, ODI, Ember, Política por Inteiro (sem listagem datada)"
   ]
  },
  "tracks": [
@@ -33,6 +33,123 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-09-cop31-supercharge-solutions",
+   "institution": "UNFCCC",
+   "type": "comunicado",
+   "title": "\"COP31 must supercharge solutions\" (UN Climate Chief on opening day of COP31)",
+   "date": "2026-11-09",
+   "authors": "Secretariado da UNFCCC (Simon Stiell)",
+   "url": "https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31",
+   "summary": "Na abertura da COP31 em Antalya, Simon Stiell, o presidente Murat Kurum e o presidente das negociações Chris Bowen pediram implementação mais rápida dos compromissos. Stiell afirmou que 90% dos grandes projetos de renováveis já são mais baratos que as alternativas fósseis; Kurum definiu a COP31 como a \"COP da Implementação\" e propôs elevar a eletricidade a 35% do consumo final de energia até 2035. Bowen alertou que o mundo segue rumo a cerca de 2,6°C e que o financiamento climático ainda chega menos a quem mais precisa. Toca as trilhas de Presidência e anfitrião, Eletrificação e Finanças.",
+   "summary_i18n": {
+    "en": "At the opening of COP31 in Antalya, Simon Stiell, President Murat Kurum and Negotiations President Chris Bowen called for faster implementation of commitments. Stiell said 90% of large renewable projects are now cheaper than fossil alternatives; Kurum framed COP31 as the \"Implementation COP\" and proposed raising electricity to 35% of final energy consumption by 2035. Bowen warned that the world is still heading for about 2.6°C and that climate finance still reaches those who need it most the least. It bears on the Presidency and host, Electrification and Finance tracks.",
+    "es": "En la apertura de la COP31 en Antalya, Simon Stiell, el Presidente Murat Kurum y el Presidente de las negociaciones Chris Bowen pidieron una implementación más rápida de los compromisos. Stiell afirmó que el 90% de los grandes proyectos de energías renovables ya son más baratos que las alternativas fósiles; Kurum presentó la COP31 como la \"COP de la Implementación\" y propuso elevar la electricidad al 35% del consumo final de energía para 2035. Bowen advirtió que el mundo sigue encaminado hacia unos 2,6°C y que la financiación climática sigue llegando en menor medida a quienes más la necesitan. Afecta a las líneas de Presidencia y país anfitrión, Electrificación y Finanzas.",
+    "fr": "À l'ouverture de la COP31 à Antalya, Simon Stiell, le Président Murat Kurum et le Président des négociations Chris Bowen ont appelé à une mise en œuvre plus rapide des engagements. M. Stiell a affirmé que 90 % des grands projets d'énergies renouvelables sont désormais moins chers que les solutions fossiles ; M. Kurum a présenté la COP31 comme la « COP de la mise en œuvre » et proposé de porter l'électricité à 35 % de la consommation finale d'énergie d'ici 2035. M. Bowen a averti que le monde se dirige encore vers environ 2,6 °C et que le financement climatique parvient le moins à ceux qui en ont le plus besoin. Cela concerne les volets Présidence et pays hôte, Électrification et Finance.",
+    "ru": "На открытии COP31 в Анталье Саймон Стилл, Президент Мурат Курум и Председатель переговоров Крис Боуэн призвали ускорить выполнение обязательств. Стилл заявил, что 90% крупных проектов в области возобновляемой энергетики уже дешевле ископаемых альтернатив; Курум назвал COP31 «COP по выполнению обязательств» и предложил довести долю электричества до 35% конечного потребления энергии к 2035 году. Боуэн предупредил, что мир по-прежнему движется к потеплению примерно на 2,6°C, а климатическое финансирование меньше всего достаётся тем, кто в нём больше всего нуждается. Касается направлений «Президентство и страна-хозяйка», «Электрификация» и «Финансы».",
+    "zh": "在安塔利亚举行的COP31开幕式上，西蒙·斯蒂尔、大会主席穆拉特·库鲁姆和谈判主席克里斯·鲍恩呼吁加快落实各项承诺。斯蒂尔表示，90%的大型可再生能源项目现已比化石能源替代方案更便宜；库鲁姆将COP31定位为“落实之COP”，并提议到2035年将电力在终端能源消费中的占比提高到35%。鲍恩警告称，世界仍朝着约2.6°C的升温轨迹前进，而最需要气候资金的国家获得的资金最少。涉及主席国与东道国、电气化和资金议题。",
+    "ar": "في افتتاح مؤتمر الأطراف الحادي والثلاثين في أنطاليا، دعا سايمون ستيل والرئيس مراد قوروم ورئيس المفاوضات كريس بوين إلى تسريع تنفيذ الالتزامات. وقال ستيل إن 90% من مشاريع الطاقة المتجددة الكبيرة أصبحت أرخص من البدائل الأحفورية؛ ووصف قوروم المؤتمر بأنه «مؤتمر التنفيذ» واقترح رفع حصة الكهرباء إلى 35% من الاستهلاك النهائي للطاقة بحلول عام 2035. وحذّر بوين من أن العالم لا يزال متجهاً نحو ارتفاع في درجة الحرارة بنحو 2.6 درجة مئوية، وأن التمويل المناخي يصل بأقل قدر إلى من هم في أشد الحاجة إليه. ويمس مسارات الرئاسة والدولة المضيفة والكهربة والتمويل."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "Finanças"
+   ],
+   "quotes": [
+    "Progress is nowhere near far enough or fair enough. (Simon Stiell)",
+    "Trust, too, is infrastructure for climate action. (Murat Kurum)",
+    "The countries that need climate finance the most, are getting it the least. (Chris Bowen)"
+   ],
+   "first_seen": "2026-11-10T00:16:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-09-yearbook-global-climate-action",
+   "institution": "UNFCCC",
+   "type": "comunicado",
+   "title": "Yearbook of Global Climate Action 2026 provides new evidence that climate action is delivering results and driving implementation",
+   "date": "2026-11-09",
+   "authors": "Secretariado da UNFCCC",
+   "url": "https://unfccc.int/news/yearbook-of-global-climate-action-2026-provides-new-evidence-that-climate-action-is-delivering",
+   "summary": "O Yearbook of Global Climate Action 2026, lançado na COP31, acompanha 44 indicadores globais dentro de um conjunto de 96 indicadores socioeconômicos alinhados ao primeiro balanço global (GST1). Aponta avanço em capacidade renovável, desaceleração do desmatamento e crescimento de medidas de adaptação, mas lacunas em metano de petróleo e gás e em perdas de alimentos. Registra recorde de relatórios NAZCA (83 iniciativas cooperativas, mais de 200 ações) e 84% dos Planos para Acelerar Soluções com progresso após um ano. Toca a trilha de Agenda de Ação.",
+   "summary_i18n": {
+    "en": "The Yearbook of Global Climate Action 2026, launched at COP31, tracks 44 global indicators within a set of 96 socio-economic indicators aligned with the first global stocktake (GST1). It points to progress in renewable capacity, slowing deforestation and growing adaptation measures, but gaps in oil and gas methane and in food loss. It records a record number of NAZCA reports (83 cooperative initiatives, more than 200 actions) and 84% of Plans to Accelerate Solutions reporting progress after one year. It bears on the Action Agenda track.",
+    "es": "El Anuario de la Acción Climática Mundial 2026, presentado en la COP31, da seguimiento a 44 indicadores mundiales dentro de un conjunto de 96 indicadores socioeconómicos alineados con el primer balance mundial (GST1). Señala avances en capacidad renovable, desaceleración de la deforestación y mayor número de medidas de adaptación, pero lagunas en el metano del petróleo y el gas y en la pérdida de alimentos. Registra una cifra récord de informes NAZCA (83 iniciativas cooperativas, más de 200 acciones) y que el 84% de los Planes para Acelerar las Soluciones informó avances tras un año. Afecta a la línea de la Agenda de Acción.",
+    "fr": "L'Annuaire de l'action climatique mondiale 2026, présenté à la COP31, suit 44 indicateurs mondiaux parmi un ensemble de 96 indicateurs socio-économiques alignés sur le premier bilan mondial (GST1). Il fait état de progrès dans la capacité renouvelable, du ralentissement de la déforestation et de la multiplication des mesures d'adaptation, mais de lacunes sur le méthane du pétrole et du gaz et sur les pertes alimentaires. Il enregistre un nombre record de rapports NAZCA (83 initiatives coopératives, plus de 200 actions) et 84 % des Plans pour accélérer les solutions signalant des progrès après un an. Cela concerne le volet Programme d'action.",
+    "ru": "Ежегодник глобальных климатических действий 2026, представленный на COP31, отслеживает 44 глобальных показателя из набора в 96 социально-экономических показателей, согласованных с первой глобальной инвентаризацией (GST1). В нём отмечены прогресс в наращивании возобновляемых мощностей, замедление обезлесения и рост мер по адаптации, но сохраняются пробелы по метану нефтегазового сектора и потерям продовольствия. Зафиксировано рекордное число отчётов NAZCA (83 кооперативные инициативы, более 200 действий), а 84% Планов по ускорению решений сообщили о прогрессе спустя год. Касается направления «Повестка действий».",
+    "zh": "在COP31上发布的《2026年全球气候行动年鉴》追踪了与首次全球盘点（GST1）相一致的96项社会经济指标中的44项全球指标。年鉴指出，可再生能源装机容量上升、毁林放缓、适应措施增多，但石油和天然气甲烷以及粮食损失方面仍存在差距。NAZCA报告数量创历史新高（83项合作气候倡议，逾200项行动），84%的“加速解决方案计划”在实施一年后报告了进展。涉及行动议程议题。",
+    "ar": "يتتبّع حولية العمل المناخي العالمي لعام 2026، التي أُطلقت في مؤتمر الأطراف الحادي والثلاثين، 44 مؤشراً عالمياً ضمن مجموعة من 96 مؤشراً اجتماعياً واقتصادياً متوائمة مع الحصيلة العالمية الأولى (GST1). وتشير إلى تقدم في القدرة المتجددة وتباطؤ إزالة الغابات وتزايد تدابير التكيف، مع وجود فجوات في ميثان النفط والغاز وفي فقد الأغذية. وتسجّل عدداً قياسياً من تقارير NAZCA (83 مبادرة تعاونية وأكثر من 200 إجراء)، وأبلغت 84% من خطط تسريع الحلول عن إحراز تقدم بعد عام من التنفيذ. ويمس مسار خطة العمل."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "But we can and must go much further, faster. (Simon Stiell)",
+    "COP 31 must help scale up solutions, mobilize finance and bring the benefits of climate action to many more people. (Simon Stiell)"
+   ],
+   "first_seen": "2026-11-10T00:16:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-09-health-day-stiell",
+   "institution": "UNFCCC",
+   "type": "comunicado",
+   "title": "\"Health belongs at the heart of climate action\" (UN Climate Chief at COP31 health day ministerial)",
+   "date": "2026-11-09",
+   "authors": "Secretariado da UNFCCC (Simon Stiell)",
+   "url": "https://unfccc.int/news/health-belongs-at-the-heart-of-climate-action-un-climate-chief-at-cop31-health-day-ministerial",
+   "summary": "No Dia da Saúde da COP31, Simon Stiell defendeu que a saúde esteja no centro da política climática, citando os indicadores de adaptação de Belém e o Plano de Ação em Saúde. Apoiou a meta da COP30 de triplicar o financiamento de adaptação até 2035 e pediu triplicar as renováveis e dobrar a eficiência energética, citando dados da Wellcome sobre profissionais de saúde materna que atenderam casos de calor extremo. Pediu que os planos nacionais mantenham clínicas abertas em ondas de calor e com água segura após enchentes. Toca as trilhas de Adaptação e Finanças.",
+   "summary_i18n": {
+    "en": "At the COP31 Health Day, Simon Stiell argued that health should be central to climate policy, citing the Belém adaptation indicators and the Health Action Plan. He backed the COP30 goal of tripling adaptation finance by 2035 and called for tripling renewables and doubling energy efficiency, citing Wellcome data on maternal-health professionals who had treated patients affected by extreme heat. He asked that national plans keep clinics open during heatwaves and ensure safe water after floods. It bears on the Adaptation and Finance tracks.",
+    "es": "En el Día de la Salud de la COP31, Simon Stiell defendió que la salud ocupe un lugar central en la política climática, citando los indicadores de adaptación de Belém y el Plan de Acción en materia de Salud. Respaldó la meta de la COP30 de triplicar la financiación para la adaptación para 2035 y pidió triplicar las energías renovables y duplicar la eficiencia energética, citando datos de Wellcome sobre profesionales de salud materna que atendieron casos de calor extremo. Pidió que los planes nacionales mantengan abiertas las clínicas durante las olas de calor y garanticen agua potable tras las inundaciones. Afecta a las líneas de Adaptación y Finanzas.",
+    "fr": "Lors de la Journée de la santé de la COP31, Simon Stiell a plaidé pour que la santé soit au cœur de la politique climatique, en citant les indicateurs d'adaptation de Belém et le Plan d'action pour la santé. Il a soutenu l'objectif de la COP30 de tripler le financement de l'adaptation d'ici 2035 et appelé à tripler les énergies renouvelables et à doubler l'efficacité énergétique, citant des données de Wellcome sur des professionnels de santé maternelle ayant soigné des patientes touchées par la chaleur extrême. Il a demandé que les plans nationaux maintiennent les cliniques ouvertes pendant les vagues de chaleur et garantissent une eau salubre après les inondations. Cela concerne les volets Adaptation et Finance.",
+    "ru": "В День здоровья на COP31 Саймон Стилл заявил, что здоровье должно стоять в центре климатической политики, сославшись на белемские показатели адаптации и План действий в области здравоохранения. Он поддержал цель COP30 утроить финансирование адаптации к 2035 году и призвал утроить возобновляемую энергетику и удвоить энергоэффективность, сославшись на данные Wellcome о работниках здравоохранения в сфере охраны материнства, имевших дело с последствиями экстремальной жары. Он попросил, чтобы национальные планы обеспечивали работу клиник во время волн жары и безопасную воду после наводнений. Касается направлений «Адаптация» и «Финансы».",
+    "zh": "在COP31健康日上，西蒙·斯蒂尔主张将健康置于气候政策的核心，并提及贝伦适应指标和《健康行动计划》。他支持COP30提出的到2035年将适应资金增至三倍的目标，并呼吁将可再生能源增至三倍、能效提高一倍，同时引用Wellcome关于接诊极端高温患者的孕产保健专业人员的数据。他呼吁各国国家计划确保诊所在热浪期间保持开放，并在洪灾后保障安全用水。涉及适应和资金议题。",
+    "ar": "في يوم الصحة ضمن مؤتمر الأطراف الحادي والثلاثين، دعا سايمون ستيل إلى وضع الصحة في صميم السياسة المناخية، مشيراً إلى مؤشرات بيليم للتكيف وخطة العمل الصحية. وأيّد هدف مؤتمر الأطراف الثلاثين بمضاعفة تمويل التكيف ثلاث مرات بحلول عام 2035، ودعا إلى مضاعفة الطاقة المتجددة ثلاث مرات وتحسين كفاءة الطاقة إلى الضعف، مستشهداً ببيانات من مؤسسة Wellcome عن مهنيي صحة الأمهات الذين عالجوا مرضى تأثروا بالحرارة الشديدة. وطلب أن تُبقي الخطط الوطنية العيادات مفتوحة خلال موجات الحر وتضمن مياهاً آمنة بعد الفيضانات. ويمس مساري التكيف والتمويل."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "Health belongs at the heart of climate action. (Simon Stiell)",
+    "It can be the difference between life and death. (Simon Stiell)"
+   ],
+   "first_seen": "2026-11-10T00:16:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "wmo-2026-11-09-state-of-climate-2026",
+   "institution": "WMO",
+   "type": "comunicado",
+   "title": "State of the climate in 2026 gives new meaning to phrase \"off the charts\"",
+   "date": "2026-11-09",
+   "authors": "WMO",
+   "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts",
+   "summary": "A atualização do Estado do Clima 2026 da OMM mostra que os últimos 12 anos foram os mais quentes já registrados, com a temperatura média global de janeiro a setembro de 2026 cerca de 1,47°C acima do nível pré-industrial. O desequilíbrio energético da Terra está no maior nível desde o início do monitoramento, o oceano caminha para o décimo ano seguido de recorde de calor e o nível do mar é recorde, com um El Niño em fortalecimento. Os países com sistemas de alerta precoce multirriscos passaram de 56 (2015) para 136 (2025). Alimenta os debates de GST2 e IPCC e de Adaptação.",
+   "summary_i18n": {
+    "en": "WMO's State of the Climate Update 2026 shows that the past 12 years were the warmest on record, with global mean temperature from January to September 2026 about 1.47°C above pre-industrial levels. Earth's energy imbalance is at its highest since monitoring began, the ocean is on track for its tenth consecutive year of record warmth and sea level is at a record high, with a strengthening El Niño. Countries with multi-hazard early warning systems rose from 56 (2015) to 136 (2025). It feeds the GST2 and IPCC and Adaptation discussions.",
+    "es": "La Actualización del estado del clima 2026 de la OMM muestra que los últimos 12 años fueron los más cálidos jamás registrados, con una temperatura media mundial de enero a septiembre de 2026 de aproximadamente 1,47°C por encima del nivel preindustrial. El desequilibrio energético de la Tierra es el más alto desde que se realizan mediciones, el océano se encamina a su décimo año consecutivo de calor récord y el nivel del mar es récord, con un El Niño en fortalecimiento. Los países con sistemas de alerta temprana multirriesgo pasaron de 56 (2015) a 136 (2025). Alimenta los debates sobre el GST2 y el IPCC y sobre Adaptación.",
+    "fr": "La Mise à jour 2026 sur l'état du climat de l'OMM montre que les 12 dernières années ont été les plus chaudes jamais enregistrées, la température moyenne mondiale de janvier à septembre 2026 se situant environ 1,47 °C au-dessus des niveaux préindustriels. Le déséquilibre énergétique de la Terre est à son plus haut niveau depuis le début des observations, l'océan est en passe de connaître une dixième année consécutive de chaleur record et le niveau de la mer est à un record, avec un El Niño qui se renforce. Le nombre de pays dotés de systèmes d'alerte précoce multirisques est passé de 56 (2015) à 136 (2025). Cela nourrit les débats sur le GST2 et le GIEC et sur l'Adaptation.",
+    "ru": "Обновление ВМО «Состояние климата в 2026 году» показывает, что последние 12 лет были самыми тёплыми за всю историю наблюдений, а средняя глобальная температура с января по сентябрь 2026 года примерно на 1,47°C превысила доиндустриальный уровень. Энергетический дисбаланс Земли — самый высокий с начала наблюдений, океан движется к десятому подряд рекордно тёплому году, уровень моря рекордный, а Эль-Ниньо усиливается. Число стран с системами раннего предупреждения о многих опасностях выросло с 56 (2015) до 136 (2025). Служит материалом для обсуждений по GST2 и МГЭИК и по адаптации.",
+    "zh": "世界气象组织《2026年气候状况更新》显示，过去12年是有记录以来最暖的12年，2026年1月至9月全球平均气温比工业化前水平高出约1.47°C。地球能量失衡达到有观测以来的最高水平，海洋正迈向连续第十年创纪录高温，海平面处于历史高位，厄尔尼诺正在增强。拥有多灾种预警系统的国家从2015年的56个增至2025年的136个。为GST2与IPCC以及适应方面的讨论提供依据。",
+    "ar": "يُظهر تحديث المنظمة العالمية للأرصاد الجوية عن حالة المناخ لعام 2026 أن السنوات الاثنتي عشرة الأخيرة كانت الأدفأ على الإطلاق، إذ بلغ متوسط درجة الحرارة العالمية من يناير إلى سبتمبر 2026 نحو 1.47 درجة مئوية فوق مستويات ما قبل الثورة الصناعية. ووصل اختلال توازن الطاقة في الأرض إلى أعلى مستوى منذ بدء الرصد، والمحيط في طريقه إلى عامه العاشر على التوالي من الحرارة القياسية، ومستوى سطح البحر في أعلى مستوياته، مع ظاهرة النينيو المتزايدة القوة. وارتفع عدد البلدان التي لديها أنظمة إنذار مبكر متعددة المخاطر من 56 (2015) إلى 136 (2025). ويغذّي النقاشات حول GST2 والهيئة الحكومية الدولية المعنية بتغير المناخ والتكيف."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Adaptação"
+   ],
+   "quotes": [
+    "We have entered a new age of climate extremes. (António Guterres)",
+    "There is simply more heat available to release. (Celeste Saulo)"
+   ],
+   "first_seen": "2026-11-10T00:16:00-03:00",
+   "lang": "en",
+   "source_id": "web-wmo-int-news"
+  },
   {
    "id": "instagram-mmeioambiente-20261109-pavilhao-brasil",
    "kind": "post",
