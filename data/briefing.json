@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T09:59+03:00",
+ "generated_at": "2026-11-10T10:58+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T00:16:00-03:00",
-  "social_round": "2026-11-10T03:45:00-03:00",
+  "social_round": "2026-11-10T04:47:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 60,
-  "stories": 55,
+  "candidates": 61,
+  "stories": 56,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1119,6 +1119,44 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
+     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "04:11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
+     "collected_at": "2026-11-10T04:47:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
+      "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
+      "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
+      "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
+      "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
+      "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
