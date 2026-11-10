@@ -7134,14 +7134,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T04:47:00-03:00",
-  "label": "10 nov 2026, 04:47 (Brasília)",
+  "timestamp": "2026-11-10T05:42:35-03:00",
+  "label": "10 nov 2026, 05:42 (Brasília)",
   "accounts_checked": 30,
-  "blocked": 1,
-  "new_items": 3,
+  "blocked": 0,
+  "new_items": 9,
   "cadence": "a cada hora",
-  "blocked_accounts": [
-   "yt-unclimatechangeevents"
-  ]
+  "blocked_accounts": []
  }
 }
