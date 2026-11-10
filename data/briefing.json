@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T09:02+03:00",
+ "generated_at": "2026-11-10T09:37+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -13,8 +13,8 @@
   "stale": false
  },
  "coverage": {
-  "candidates": 58,
-  "stories": 53,
+  "candidates": 60,
+  "stories": 55,
   "top": 8,
   "publishers": [
    "350.org",
@@ -29,6 +29,7 @@
    "Lula",
    "MMA (Brasil)",
    "Murat Kurum",
+   "Presidência da COP30",
    "Presidência da COP31 (Türkiye)",
    "UNEP",
    "UNFCCC",
@@ -66,6 +67,50 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-10",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-10",
+     "title": "COP30 Presidency Daily Brief – November 10: From roadmap to action on the energy transition",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação",
+      "TAFF e fósseis",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 2º dia da COP31 (tema: energia e transporte), a Presidência da COP30 anuncia que apresenta às Partes seu Mapa do Caminho para a transição para longe dos combustíveis fósseis nos sistemas energéticos, com fala de abertura de António Guterres;",
+     "collected_at": "2026-11-10T03:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov10_bd_n3yzrvo0"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 10 de novembro: Do Mapa do Caminho à ação na transição energética"
+     },
+     "description_i18n": {
+      "en": "In its Day 2 brief (theme: energy and transport), the COP30 Presidency says it is presenting to Parties its Roadmap for transitioning away from fossil fuels in energy systems, with opening remarks by António Guterres;",
+      "es": "En su boletín del 2.º día de la COP31 (tema: energía y transporte), la Presidencia de la COP30 anuncia que presenta a las Partes su Hoja de Ruta para la transición para dejar atrás los combustibles fósiles en los sistemas energéticos, con palabras de apertura de António Guterres;",
+      "fr": "Dans son bulletin du 2e jour de la COP31 (thème : énergie et transports), la Présidence de la COP30 annonce présenter aux Parties sa Feuille de route pour s'éloigner des combustibles fossiles dans les systèmes énergétiques, avec une allocution d'ouverture d'António Guterres ;",
+      "ru": "В бюллетене второго дня КС-31 (тема: энергетика и транспорт) Председательство КС-30 сообщает, что представляет Сторонам свою «дорожную карту» по отказу от ископаемого топлива в энергосистемах, со вступительным словом Антониу Гутерриша;",
+      "zh": "在COP31第二天（主题：能源与交通）的简报中，COP30主席团表示正向缔约方介绍其《能源系统转型脱离化石燃料路线图》，联合国秘书长古特雷斯致开幕辞；据主席团介绍，该文本收到267份公开意见，并以涵盖需求、供应和整体经济三大支柱的“贝伦准备度”方法为基础。当日议程还包括配合COP31“到2035年电力占终端能源需求35%”目标的电气化展示、共同主持巴库适应问题高级别对话，以及全球气候行动议程开幕和《2026年全球气候行动年鉴》发布；简报还回顾了第一天主席职位移交土耳其的情况。涉及“主席团与东道国”“TAFF与化石燃料”“电气化”和“行动议程”议题。",
+      "ar": "في نشرة اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين (الموضوع: الطاقة والنقل)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تعرض على الأطراف خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري في أنظمة الطاقة، بكلمة افتتاحية من أنطونيو غوتيريش؛ وبحسب الرئاسة، تلقى النص 267 مساهمة عامة ويستند إلى نهج بيليم للجاهزية القائم على…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-09-cop31-supercharge-solutions",
     "section": "action",
@@ -320,6 +365,52 @@
     ]
    },
    {
+    "id": "st-cop30-presidency-daily-brief-2026-11-09",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-09",
+     "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Finanças",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
+     "collected_at": "2026-11-10T03:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
+     },
+     "description_i18n": {
+      "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
+      "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
+      "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
+      "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
+      "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
+      "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   }
+  ],
+  "negotiations": [
+   {
     "id": "st-unfccc-2026-11-09-health-day-stiell",
     "section": "negotiations",
     "score": 0.68,
@@ -355,45 +446,6 @@
      "UNFCCC"
     ]
    },
-   {
-    "id": "st-actionaid-2026-11-09-cop31-survival",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "actionaid-2026-11-09-cop31-survival",
-     "title": "ActionAid calls on governments at COP31 to invest in survival and move past empty rhetoric",
-     "url": "https://actionaid.org/news/2026/actionaid-calls-governments-cop31-invest-survival-and-move-past-empty-rhetoric",
-     "publisher": "ActionAid International",
-     "author": "ActionAid (Teresa Anderson)",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Transição justa",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A ActionAid alerta que a inação dos governos expõe comunidades da linha de frente a riscos graves e pede que a COP31 priorize financiamento de adaptação em larga escala. A organização também defende um novo Mecanismo de Transição Justa, com órgão dedicado, para proteger trabalhadores, mulheres e comunidades.",
-     "collected_at": "2026-11-09T18:40:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ActionAid warns that government inaction puts frontline communities at grave risk and calls on COP31 to prioritise large-scale adaptation finance. The organisation also backs a new Just Transition Mechanism with a dedicated body to protect workers, women and communities.",
-      "es": "ActionAid advierte de que la inacción de los gobiernos expone a las comunidades en primera línea a graves riesgos y pide que la COP31 dé prioridad a la financiación de la adaptación a gran escala.",
-      "fr": "ActionAid avertit que l'inaction des gouvernements expose gravement les communautés en première ligne et demande que la COP31 donne la priorité à un financement de l'adaptation à grande échelle.",
-      "ru": "ActionAid предупреждает, что бездействие правительств подвергает серьёзному риску сообщества, находящиеся на передовой, и призывает КС-31 уделить приоритетное внимание финансированию адаптации в больших масштабах.",
-      "zh": "ActionAid警告称,各国政府的不作为使一线社区面临严重风险,呼吁COP31优先安排大规模适应融资。该组织还支持设立新的公正转型机制并配备专门机构,以保护工人、妇女和社区。涉及适应、公正转型和融资议题。",
-      "ar": "تحذر منظمة ActionAid من أن تقاعس الحكومات يعرّض المجتمعات في الخطوط الأمامية لمخاطر جسيمة، وتدعو مؤتمر الأطراف الحادي والثلاثين إلى إعطاء الأولوية لتمويل التكيف على نطاق واسع. كما تؤيد المنظمة إنشاء آلية جديدة للانتقال العادل مع هيئة مخصصة لحماية العمال والنساء والمجتمعات. يتصل بمسارات التكيف والانتقال العادل والتمويل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "ActionAid International"
-    ]
-   }
-  ],
-  "negotiations": [
    {
     "id": "st-bluesky-enb-20261109-agendas-adotadas",
     "section": "negotiations",
@@ -2127,6 +2179,43 @@
   ],
   "civil": [
    {
+    "id": "st-actionaid-2026-11-09-cop31-survival",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "actionaid-2026-11-09-cop31-survival",
+     "title": "ActionAid calls on governments at COP31 to invest in survival and move past empty rhetoric",
+     "url": "https://actionaid.org/news/2026/actionaid-calls-governments-cop31-invest-survival-and-move-past-empty-rhetoric",
+     "publisher": "ActionAid International",
+     "author": "ActionAid (Teresa Anderson)",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A ActionAid alerta que a inação dos governos expõe comunidades da linha de frente a riscos graves e pede que a COP31 priorize financiamento de adaptação em larga escala. A organização também defende um novo Mecanismo de Transição Justa, com órgão dedicado, para proteger trabalhadores, mulheres e comunidades.",
+     "collected_at": "2026-11-09T18:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ActionAid warns that government inaction puts frontline communities at grave risk and calls on COP31 to prioritise large-scale adaptation finance. The organisation also backs a new Just Transition Mechanism with a dedicated body to protect workers, women and communities.",
+      "es": "ActionAid advierte de que la inacción de los gobiernos expone a las comunidades en primera línea a graves riesgos y pide que la COP31 dé prioridad a la financiación de la adaptación a gran escala.",
+      "fr": "ActionAid avertit que l'inaction des gouvernements expose gravement les communautés en première ligne et demande que la COP31 donne la priorité à un financement de l'adaptation à grande échelle.",
+      "ru": "ActionAid предупреждает, что бездействие правительств подвергает серьёзному риску сообщества, находящиеся на передовой, и призывает КС-31 уделить приоритетное внимание финансированию адаптации в больших масштабах.",
+      "zh": "ActionAid警告称,各国政府的不作为使一线社区面临严重风险,呼吁COP31优先安排大规模适应融资。该组织还支持设立新的公正转型机制并配备专门机构,以保护工人、妇女和社区。涉及适应、公正转型和融资议题。",
+      "ar": "تحذر منظمة ActionAid من أن تقاعس الحكومات يعرّض المجتمعات في الخطوط الأمامية لمخاطر جسيمة، وتدعو مؤتمر الأطراف الحادي والثلاثين إلى إعطاء الأولوية لتمويل التكيف على نطاق واسع. كما تؤيد المنظمة إنشاء آلية جديدة للانتقال العادل مع هيئة مخصصة لحماية العمال والنساء والمجتمعات. يتصل بمسارات التكيف والانتقال العادل والتمويل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ActionAid International"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-09-financas-agenda",
     "section": "civil",
     "score": 0.383,
@@ -2208,6 +2297,8 @@
    "actionaid-2026-11-09-cop31-survival",
    "bluesky-enb.iisd.org-20261109-do-lago-abertura",
    "carbonbrief-2026-11-09-belem-antalya-jt",
+   "cop30-presidency-daily-brief-2026-11-09",
+   "cop30-presidency-daily-brief-2026-11-10",
    "cop31-presidencia-2026-11-09-abertura",
    "icc-2026-11-09-bingo-opening-statement",
    "unfccc-2026-11-09-cop31-supercharge-solutions",
