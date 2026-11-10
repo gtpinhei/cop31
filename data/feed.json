@@ -34,6 +34,87 @@
  ],
  "items": [
   {
+   "id": "x-ItamaratyGovBr-20261110-vieira-antalya",
+   "kind": "post",
+   "platform": "x",
+   "account": "@ItamaratyGovBr",
+   "institution": "Itamaraty",
+   "verified": false,
+   "date": "2026-11-10",
+   "time": "08:50",
+   "text": "Ao final da sessão do G7, o Ministro Mauro Vieira partiu para a Turquia, onde se juntará à comitiva presidencial que participa da COP31, em Antália.",
+   "summary": "Itamaraty: o ministro Mauro Vieira, ao fim da sessão do G7, seguiu para a Turquia para integrar a comitiva presidencial brasileira na COP31, em Antália.",
+   "summary_i18n": {
+    "en": "Itamaraty: Minister Mauro Vieira, after the G7 session, left for Turkey to join the Brazilian presidential delegation at COP31 in Antalya.",
+    "es": "Itamaraty: tras la sesión del G7, el ministro Mauro Vieira partió hacia Turquía para sumarse a la comitiva presidencial brasileña en la COP31, en Antalya.",
+    "fr": "Itamaraty : à l'issue de la session du G7, le ministre Mauro Vieira est parti pour la Turquie afin de rejoindre la délégation présidentielle brésilienne à la COP31, à Antalya.",
+    "ru": "Итамарати: по окончании сессии G7 министр Мауро Виейра отбыл в Турцию, чтобы присоединиться к президентской делегации Бразилии на КС-31 в Анталье.",
+    "zh": "巴西外交部：G7会议结束后，部长毛罗·维埃拉前往土耳其，加入巴西总统代表团出席在安塔利亚举行的COP31。",
+    "ar": "الخارجية البرازيلية (إيتاماراتي): بعد انتهاء جلسة مجموعة السبع، غادر الوزير ماورو فييرا إلى تركيا للانضمام إلى الوفد الرئاسي البرازيلي المشارك في مؤتمر الأطراف الحادي والثلاثين (COP31) في أنطاليا."
+   },
+   "url": "https://x.com/ItamaratyGovBr",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T09:55:00-03:00",
+   "lang": "pt",
+   "source_id": "x-itamaratygovbr"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-bacia-congo",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "09:42",
+   "text": "Conseil des Ministres de la Commission Climat du Bassin du Congo",
+   "summary": "Vídeo UNFCCC: reunião do Conselho de Ministros da Comissão do Clima da Bacia do Congo.",
+   "summary_i18n": {
+    "en": "UNFCCC video: meeting of the Council of Ministers of the Congo Basin Climate Commission.",
+    "es": "Vídeo de la CMNUCC: reunión del Consejo de Ministros de la Comisión del Clima de la Cuenca del Congo.",
+    "fr": "Vidéo de la CCNUCC : réunion du Conseil des Ministres de la Commission Climat du Bassin du Congo.",
+    "ru": "Видео РКИК ООН: заседание Совета министров Климатической комиссии бассейна Конго.",
+    "zh": "《联合国气候变化框架公约》视频：刚果盆地气候委员会部长理事会会议。",
+    "ar": "فيديو اتفاقية الأمم المتحدة الإطارية: اجتماع مجلس وزراء لجنة المناخ لحوض الكونغو."
+   },
+   "url": "https://www.youtube.com/watch?v=x6CDzBNIG5s",
+   "tracks": [
+    "Florestas"
+   ],
+   "first_seen": "2026-11-10T09:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-rio-sendai",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "09:37",
+   "text": "Breaking Silos, Building Resilience: Aligning Rio Conventions, Sendai Framework, and the 2030 Agenda",
+   "summary": "Vídeo UNFCCC: evento sobre alinhar as Convenções do Rio, o Marco de Sendai e a Agenda 2030 para construir resiliência.",
+   "summary_i18n": {
+    "en": "UNFCCC video: event on aligning the Rio Conventions, the Sendai Framework and the 2030 Agenda to build resilience.",
+    "es": "Vídeo de la CMNUCC: evento sobre la armonización de las Convenciones de Río, el Marco de Sendái y la Agenda 2030 para fomentar la resiliencia.",
+    "fr": "Vidéo de la CCNUCC : événement sur l'alignement des Conventions de Rio, du Cadre de Sendai et du Programme 2030 pour renforcer la résilience.",
+    "ru": "Видео РКИК ООН: мероприятие о согласовании Рио-де-Жанейрских конвенций, Сендайской рамочной программы и Повестки дня до 2030 года для укрепления устойчивости.",
+    "zh": "《联合国气候变化框架公约》视频：关于协调《里约公约》、《仙台框架》与《2030年议程》以增强韧性的活动。",
+    "ar": "فيديو اتفاقية الأمم المتحدة الإطارية: فعالية حول مواءمة اتفاقيات ريو وإطار سنداي وخطة عام 2030 لبناء القدرة على الصمود."
+   },
+   "url": "https://www.youtube.com/watch?v=_8vpcULFwbY",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T09:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
    "id": "x-turkiyecop31-20261110-coletiva-eletrificacao",
    "kind": "post",
    "platform": "x",
@@ -8116,11 +8197,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T08:50:00-03:00",
-  "label": "10 nov 2026, 08:50 (Brasília)",
+  "timestamp": "2026-11-10T09:55:00-03:00",
+  "label": "10 nov 2026, 09:55 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 7,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
