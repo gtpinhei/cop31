@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-09",
+ "updated": "2026-11-11",
  "bluesky_list": null,
  "x_list": null,
  "hidden": [],
@@ -37,7 +37,7 @@
    "identity_evidence": null,
    "identity_checked_at": null,
    "verified": true,
-   "channel_id": null
+   "channel_id": "UCGyDZA3OM4R69kgGZGuxO6Q"
   },
   {
    "platform": "x",
@@ -370,7 +370,7 @@
    "identity_evidence": null,
    "identity_checked_at": null,
    "verified": true,
-   "channel_id": null
+   "channel_id": "UCfFoRSQqIzLeNwgJ9blfjjg"
   },
   {
    "platform": "x",
