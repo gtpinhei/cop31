@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-10T00:16:00-03:00",
+ "generated_at": "2026-11-10T06:16:42-03:00",
  "round": {
-  "timestamp": "2026-11-10T00:16:00-03:00",
-  "label": "10 nov 2026, 00:16 (Brasília)",
-  "sites_checked": 59,
-  "blocked": 17,
-  "new_items": 4,
-  "fetches": "64 de 60",
+  "timestamp": "2026-11-10T06:16:42-03:00",
+  "label": "10 nov 2026, 06:16 (Brasília)",
+  "sites_checked": 55,
+  "blocked": 15,
+  "new_items": 7,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "UNEP/IEA/ENB/ECCO/ITUC/TWN/OC/OCI (client_error)",
-   "Circle of Finance (cop30.br, robots.txt)",
-   "Chatham House, Christian Aid, CAN Europe, CSE, FoEI, ODI, Ember, Política por Inteiro (sem listagem datada)"
+   "UNEP/IEA/ITUC/Oil Change/OC/We Mean Business (client_error)",
+   "Chatham House, CAN Europe, FoEI, CSE, Eurodad, Carbon Pulse, Política por Inteiro, Transforma (sem listagem datada)",
+   "Climate Champions (redirect sem listagem)"
   ]
  },
  "tracks": [
@@ -33,6 +33,275 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "x-murat_kurum-20261110-apoio-ex-presidencias",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "06:24",
+   "text": "Bugün COP tarihinde bir ilk yaşandı.\n\nGeçmiş COP Başkanlıkları yayınladıkları ortak bildiri ile ülkemizin COP31 Başkanlığına çok güçlü bir destek verdiler.\n\nKimseyi geride bırakmadan, iklim mücadelemizde uluslararası dayanışmayı büyütmek için kararlıyız.\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "Murat Kurum, presidente da COP31, diz que ex-presidências de COP publicaram pela primeira vez uma declaração conjunta de forte apoio à presidência turca e reafirma o compromisso com a solidariedade internacional sem deixar ninguém para trás.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum says past COP Presidencies issued, for the first time, a joint statement strongly supporting the Turkish COP31 Presidency, and reaffirms commitment to international solidarity that leaves no one behind.",
+    "es": "El presidente de la COP31, Murat Kurum, afirma que las anteriores Presidencias de la COP publicaron por primera vez una declaración conjunta de firme apoyo a la Presidencia turca y reafirma el compromiso con la solidaridad internacional sin dejar a nadie atrás.",
+    "fr": "Le président de la COP31, Murat Kurum, indique que les anciennes présidences de la COP ont publié pour la première fois une déclaration commune apportant un fort soutien à la présidence turque, et réaffirme son engagement en faveur d'une solidarité internationale qui ne laisse personne de côté.",
+    "ru": "Президент КС-31 Мурат Курум сообщает, что бывшие председатели КС впервые выступили с совместным заявлением в решительную поддержку турецкого председательства КС-31, и подтверждает приверженность международной солидарности, при которой никто не остаётся позади.",
+    "zh": "COP31主席穆拉特·库鲁姆表示，历届COP主席团首次发表联合声明，有力支持土耳其担任的COP31主席团，并重申致力于不让任何人掉队的国际团结。",
+    "ar": "قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن رئاسات مؤتمرات الأطراف السابقة أصدرت لأول مرة بياناً مشتركاً يدعم بقوة رئاسة تركيا للمؤتمر، وجدد الالتزام بالتضامن الدولي بحيث لا يُترك أحد خلف الركب."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T06:50:00-03:00",
+   "lang": "tr",
+   "source_id": "x-murat-kurum"
+  },
+  {
+   "id": "instagram-muratkurum-20261110-apoio-ex-presidencias",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "06:25",
+   "text": "Bugün COP tarihinde bir ilk yaşandı.\n\nGeçmiş COP Başkanlıkları yayınladıkları ortak bildiri ile ülkemizin COP31 Başkanlığına çok güçlü bir destek verdiler.\n\nKimseyi geride bırakmadan, iklim mücadelemizde uluslararası dayanışmayı büyütmek için kararlıyız.\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "Murat Kurum, presidente da COP31, diz que ex-presidências de COP publicaram pela primeira vez uma declaração conjunta de forte apoio à presidência turca e reafirma o compromisso com a solidariedade internacional sem deixar ninguém para trás.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum says past COP Presidencies issued, for the first time, a joint statement strongly supporting the Turkish COP31 Presidency, and reaffirms commitment to international solidarity that leaves no one behind.",
+    "es": "El presidente de la COP31, Murat Kurum, afirma que las anteriores Presidencias de la COP publicaron por primera vez una declaración conjunta de firme apoyo a la Presidencia turca y reafirma el compromiso con la solidaridad internacional sin dejar a nadie atrás.",
+    "fr": "Le président de la COP31, Murat Kurum, indique que les anciennes présidences de la COP ont publié pour la première fois une déclaration commune apportant un fort soutien à la présidence turque, et réaffirme son engagement en faveur d'une solidarité internationale qui ne laisse personne de côté.",
+    "ru": "Президент КС-31 Мурат Курум сообщает, что бывшие председатели КС впервые выступили с совместным заявлением в решительную поддержку турецкого председательства КС-31, и подтверждает приверженность международной солидарности, при которой никто не остаётся позади.",
+    "zh": "COP31主席穆拉特·库鲁姆表示，历届COP主席团首次发表联合声明，有力支持土耳其担任的COP31主席团，并重申致力于不让任何人掉队的国际团结。",
+    "ar": "قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن رئاسات مؤتمرات الأطراف السابقة أصدرت لأول مرة بياناً مشتركاً يدعم بقوة رئاسة تركيا للمؤتمر، وجدد الالتزام بالتضامن الدولي بحيث لا يُترك أحد خلف الركب."
+   },
+   "url": "https://www.instagram.com/p/DfjlJVTiOKo/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T06:50:00-03:00",
+   "lang": "tr",
+   "source_id": "ig-muratkurum"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-nigeria-pecuaria",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:46",
+   "text": "Implementation of climate action in the livestock sector: Nigeria rising to the challenge",
+   "summary": "Vídeo da UNFCCC sobre a implementação da ação climática no setor pecuário, com a Nigéria como estudo de caso.",
+   "summary_i18n": {
+    "en": "UNFCCC video on implementing climate action in the livestock sector, with Nigeria as a case study.",
+    "es": "Vídeo de la CMNUCC sobre la aplicación de la acción climática en el sector ganadero, con Nigeria como caso de estudio.",
+    "fr": "Vidéo de la CCNUCC sur la mise en œuvre de l'action climatique dans le secteur de l'élevage, avec le Nigeria comme étude de cas.",
+    "ru": "Видеоматериал РКИК ООН о реализации климатических действий в животноводческом секторе на примере Нигерии.",
+    "zh": "《联合国气候变化框架公约》关于畜牧业气候行动落实的视频，以尼日利亚为案例。",
+    "ar": "فيديو لأمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ عن تنفيذ العمل المناخي في قطاع الثروة الحيوانية، مع نيجيريا كدراسة حالة."
+   },
+   "url": "https://www.youtube.com/watch?v=JU-ZIC8LlIQ",
+   "tracks": [
+    "Mitigação e MWP",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "bluesky-carbonbrief-20261110-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "06:42",
+   "text": "Daily Briefing: Clean electrification call | CO2 drop | Permitting bill ‘advances’ \n\nRead today's briefing here ➡️ buff.ly/IrFL0NN \n\nSign up to our email briefings ➡️ buff.ly/TwwsRyc",
+   "summary": "O Daily Briefing do Carbon Brief destaca um apelo por eletrificação limpa, uma queda nas emissões de CO2 e o avanço de um projeto de lei de licenciamento.",
+   "summary_i18n": {
+    "en": "Carbon Brief's Daily Briefing highlights a call for clean electrification, a drop in CO2 emissions and the advance of a permitting bill.",
+    "es": "El Daily Briefing de Carbon Brief destaca un llamamiento a la electrificación limpia, un descenso de las emisiones de CO2 y el avance de un proyecto de ley de permisos.",
+    "fr": "Le Daily Briefing de Carbon Brief met en avant un appel à l'électrification propre, une baisse des émissions de CO2 et l'avancée d'un projet de loi sur les autorisations.",
+    "ru": "Ежедневный брифинг Carbon Brief выделяет призыв к чистой электрификации, снижение выбросов CO2 и продвижение законопроекта о разрешениях.",
+    "zh": "Carbon Brief每日简报重点关注清洁电气化呼吁、二氧化碳排放下降以及一项许可法案的推进。",
+    "ar": "تسلط النشرة اليومية لموقع Carbon Brief الضوء على دعوة إلى الكهربة النظيفة، وانخفاض انبعاثات ثاني أكسيد الكربون، وتقدم مشروع قانون التراخيص."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzx5mbtkw42l",
+   "tracks": [
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-10T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-drsimevansca-20261110-ongs-transicao-justa",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "06:12",
+   "text": "NGO protestors at COP31 call for the summit to \"deliver just transition\"",
+   "summary": "Manifestantes de ONGs na COP31 pedem que a cúpula \"entregue a transição justa\".",
+   "summary_i18n": {
+    "en": "NGO protesters at COP31 call on the summit to \"deliver just transition\".",
+    "es": "Manifestantes de ONG en la COP31 piden que la cumbre \"logre una transición justa\".",
+    "fr": "Des manifestants d'ONG à la COP31 appellent le sommet à « réaliser une transition juste ».",
+    "ru": "Представители НПО на КС-31 в ходе акции призывают саммит «обеспечить справедливый переход».",
+    "zh": "非政府组织抗议者在COP31上呼吁峰会“落实公正转型”。",
+    "ar": "يدعو محتجون من منظمات غير حكومية في مؤتمر الأطراف الحادي والثلاثين القمة إلى «تحقيق انتقال عادل»."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3mzx3whdnw227",
+   "tracks": [
+    "Transição justa",
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-10T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "cop31-presidency-2026-11-10-electrification-pledge",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "comunicado",
+   "title": "COP31 flicks the switch on 'age of electricity'",
+   "date": "2026-11-10",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge",
+   "summary": "A Presidência da COP31 lançou o Global Electrification Pledge, que busca elevar a participação da eletricidade no consumo final de energia de cerca de 23% para 35% até 2035. A iniciativa tem o apoio de uma coalizão de mais de 180 empresas (US$ 1,69 tri em receita anual), de uma aliança de utilities que subiu seu compromisso anual de investimento de US$ 148 bi para US$ 156 bi e de uma nova coalizão financeira. A IEA acompanhará as tendências de eletrificação e a IRENA apoiará redes elétricas em países em desenvolvimento.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency launched the Global Electrification Pledge, which aims to raise electricity's share of final energy consumption from about 23% to 35% by 2035. The initiative is backed by a coalition of more than 180 companies (US$ 1.69 trillion in annual revenue), by a utilities alliance that raised its annual investment commitment from US$ 148 billion to US$ 156 billion, and by a new finance coalition. The IEA will track electrification trends and IRENA will support power grids in developing countries.",
+    "es": "La Presidencia de la COP31 lanzó el Global Electrification Pledge, que busca elevar la participación de la electricidad en el consumo final de energía de cerca del 23% al 35% para 2035. La iniciativa cuenta con el apoyo de una coalición de más de 180 empresas (US$ 1,69 billones de ingresos anuales), de una alianza de empresas de servicios públicos que elevó su compromiso anual de inversión de US$ 148 000 millones a US$ 156 000 millones y de una nueva coalición financiera. La IEA seguirá las tendencias de electrificación y la IRENA apoyará las redes eléctricas en los países en desarrollo.",
+    "fr": "La présidence de la COP31 a lancé le Global Electrification Pledge, qui vise à faire passer la part de l'électricité dans la consommation finale d'énergie d'environ 23 % à 35 % d'ici 2035. L'initiative est soutenue par une coalition de plus de 180 entreprises (1,69 billion de dollars de chiffre d'affaires annuel), par une alliance de services publics qui a porté son engagement annuel d'investissement de 148 à 156 milliards de dollars et par une nouvelle coalition financière. L'IEA suivra les tendances de l'électrification et l'IRENA soutiendra les réseaux électriques dans les pays en développement.",
+    "ru": "Президентство COP31 запустило Global Electrification Pledge, цель которого — повысить долю электроэнергии в конечном потреблении энергии с примерно 23% до 35% к 2035 году. Инициативу поддерживают коалиция из более чем 180 компаний (годовая выручка 1,69 трлн долл. США), альянс коммунальных предприятий, увеличивший годовое инвестиционное обязательство со 148 до 156 млрд долл. США, и новая финансовая коалиция. IEA будет отслеживать тенденции электрификации, а IRENA поддержит электрические сети в развивающихся странах.",
+    "zh": "COP31主席团发起了“全球电气化承诺”（Global Electrification Pledge），目标是到2035年将电力在终端能源消费中的占比从目前约23%提高到35%。该倡议得到一个由180多家企业（年收入合计1.69万亿美元）组成的联盟、一个将年度投资承诺从1480亿美元提高到1560亿美元的公用事业联盟以及一个新的金融联盟的支持。IEA将跟踪电气化趋势，IRENA将支持发展中国家的电网建设。",
+    "ar": "أطلقت رئاسة COP31 «التعهد العالمي بالكهربة» (Global Electrification Pledge) الذي يهدف إلى رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من نحو 23% إلى 35% بحلول عام 2035. وتدعم المبادرة ائتلاف يضم أكثر من 180 شركة (إيرادات سنوية قدرها 1.69 تريليون دولار أمريكي)، وتحالف للمرافق رفع التزامه السنوي بالاستثمار من 148 مليار دولار إلى 156 مليار دولار، وائتلاف مالي جديد. وستتابع IEA اتجاهات الكهربة وستدعم IRENA شبكات الكهرباء في البلدان النامية."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"The age of electricity is taking shape – and COP31 will be remembered as the moment we flicked the switch.\" (Murat Kurum, COP31 President)",
+    "\"The global clean energy transition is well underway and the task at COP31 is to accelerate it.\" (Chris Bowen, President of Negotiations)"
+   ],
+   "lang": "en",
+   "source_id": "web-cop31-tr",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
+  {
+   "id": "carbon-brief-2026-11-10-global-carbon-budget",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+   "date": "2026-11-10",
+   "authors": "Carbon Brief Staff",
+   "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+   "summary": "Com base nas projeções do Global Carbon Project, a análise indica que as emissões fósseis de CO2 devem cair cerca de 0,4% em 2026, sobretudo pela queda no uso de petróleo após o conflito com o Irã e o fechamento do Estreito de Ormuz. As emissões de uso da terra sobem por incêndios de turfa ligados ao El Niño, de modo que o total projetado atinge novo recorde. A energia limpa compensa cerca de dois terços do aumento de emissões que a maior demanda energética causaria. Relevante para o debate de mitigação e para o GST2.",
+   "summary_i18n": {
+    "en": "Based on Global Carbon Project projections, the analysis finds that fossil CO2 emissions are set to fall by about 0.4% in 2026, mainly because oil use drops after the Iran conflict and the closure of the Strait of Hormuz. Land-use emissions are rising due to El Niño-linked peat fires, so total emissions are projected to reach a new record. Clean energy offsets about two-thirds of the emissions growth that rising energy demand would otherwise cause. Relevant to the mitigation debate and to the second Global Stocktake (GST2).",
+    "es": "Basado en las proyecciones del Global Carbon Project, el análisis indica que las emisiones fósiles de CO2 caerán alrededor de un 0,4% en 2026, sobre todo porque el uso de petróleo disminuye tras el conflicto con el Irán y el cierre del Estrecho de Ormuz. Las emisiones por uso de la tierra aumentan por los incendios de turba vinculados a El Niño, por lo que se proyecta un nuevo récord de emisiones totales. La energía limpia compensa cerca de dos tercios del aumento de emisiones que provocaría la mayor demanda energética. Es pertinente para el debate sobre mitigación y para el segundo balance mundial (GST2).",
+    "fr": "Sur la base des projections du Global Carbon Project, l'analyse indique que les émissions fossiles de CO2 devraient diminuer d'environ 0,4 % en 2026, principalement parce que la consommation de pétrole baisse après le conflit avec l'Iran et la fermeture du détroit d'Ormuz. Les émissions liées à l'utilisation des terres augmentent en raison des incendies de tourbières liés à El Niño, de sorte que les émissions totales devraient atteindre un nouveau record. L'énergie propre compense environ les deux tiers de la hausse des émissions que provoquerait la demande d'énergie croissante. Pertinent pour le débat sur l'atténuation et pour le deuxième bilan mondial (GST2).",
+    "ru": "Согласно прогнозам Global Carbon Project, в анализе говорится, что выбросы CO2 от ископаемого топлива в 2026 году снизятся примерно на 0,4%, главным образом из-за сокращения потребления нефти после конфликта с Ираном и закрытия Ормузского пролива. Выбросы от землепользования растут из-за торфяных пожаров, связанных с Эль-Ниньо, поэтому общий объём выбросов, по прогнозу, достигнет нового рекорда. Чистая энергия компенсирует около двух третей прироста выбросов, который вызвал бы рост спроса на энергию. Важно для обсуждения смягчения изменения климата и второго глобального обзора (GST2).",
+    "zh": "该分析基于全球碳计划（Global Carbon Project）的预测，指出2026年化石燃料CO2排放预计下降约0.4%，主要原因是伊朗冲突和霍尔木兹海峡关闭后石油使用量下降。与厄尔尼诺相关的泥炭火灾导致土地利用排放上升，因此预计总排放量将创历史新高。清洁能源抵消了能源需求增长本会带来的约三分之二的排放增量。与减缓议题和第二次全球盘点（GST2）相关。",
+    "ar": "استناداً إلى توقعات مشروع الكربون العالمي (Global Carbon Project)، يشير التحليل إلى أن انبعاثات ثاني أكسيد الكربون من الوقود الأحفوري ستنخفض بنحو 0.4% في عام 2026، ويعود ذلك أساساً إلى تراجع استخدام النفط بعد النزاع مع إيران وإغلاق مضيق هرمز. وترتفع انبعاثات استخدام الأراضي بسبب حرائق الخث المرتبطة بظاهرة النينيو، ومن المتوقع أن يبلغ إجمالي الانبعاثات مستوى قياسياً جديداً. وتعوّض الطاقة النظيفة نحو ثلثي الزيادة في الانبعاثات التي كان سيسببها ارتفاع الطلب على الطاقة. وهذا ذو صلة بنقاش التخفيف وبالحصيلة العالمية الثانية (GST2)."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "GST2 e IPCC"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-carbonbrief-org-interactive-tracking-negotiating",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
+  {
+   "id": "climate-home-news-2026-11-10-loan-repayments",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Developing countries face climate finance deficit as loan repayments soar",
+   "date": "2026-11-10",
+   "authors": "Matteo Civillini",
+   "url": "https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/",
+   "summary": "Uma análise da CARE mostra que os pagamentos de empréstimos públicos de clima feitos por países em desenvolvimento quase triplicaram entre 2020 e 2024, chegando a US$ 20,1 bilhões. Se o volume de empréstimos ficar no nível de 2024, os reembolsos podem superar os novos empréstimos até 2036. O dado alimenta o debate de finanças da COP31 sobre qualidade do financiamento, subvenções versus dívida e a meta de triplicar o financiamento de adaptação.",
+   "summary_i18n": {
+    "en": "An analysis by CARE shows that repayments on public climate loans by developing countries nearly tripled between 2020 and 2024, reaching US$ 20.1 billion. If lending stays at 2024 levels, repayments could exceed new lending by 2036. The figures feed the COP31 climate finance debate on the quality of finance, grants versus debt, and the goal of tripling adaptation finance.",
+    "es": "Un análisis de CARE muestra que los pagos de préstamos públicos para el clima realizados por países en desarrollo casi se triplicaron entre 2020 y 2024, hasta alcanzar US$ 20 100 millones. Si los préstamos se mantienen en los niveles de 2024, los reembolsos podrían superar los nuevos préstamos en 2036. Los datos alimentan el debate sobre financiación climática en la COP31 acerca de la calidad de la financiación, las donaciones frente a la deuda y el objetivo de triplicar la financiación para la adaptación.",
+    "fr": "Une analyse de CARE montre que les remboursements de prêts publics pour le climat par les pays en développement ont presque triplé entre 2020 et 2024, pour atteindre 20,1 milliards de dollars. Si les prêts restent au niveau de 2024, les remboursements pourraient dépasser les nouveaux prêts d'ici 2036. Ces chiffres alimentent le débat sur le financement climatique à la COP31, sur la qualité des financements, les dons par rapport à la dette et l'objectif de tripler le financement de l'adaptation.",
+    "ru": "Анализ CARE показывает, что выплаты развивающихся стран по государственным климатическим кредитам почти утроились с 2020 по 2024 год и достигли 20,1 млрд долл. США. Если объём кредитования останется на уровне 2024 года, к 2036 году выплаты могут превысить новые кредиты. Эти данные подпитывают обсуждение климатического финансирования на COP31: качество финансирования, гранты против долга и цель утроить финансирование адаптации.",
+    "zh": "CARE的一项分析显示，2020至2024年间，发展中国家偿还公共气候贷款的金额几乎增至三倍，达到201亿美元。如果贷款规模维持在2024年的水平，到2036年偿还额可能超过新增贷款。这些数据为COP31的气候资金讨论提供了依据，涉及资金质量、赠款与债务之比，以及将适应资金增至三倍的目标。",
+    "ar": "يُظهر تحليل أجرته منظمة CARE أن مدفوعات سداد القروض العامة المتعلقة بالمناخ من جانب البلدان النامية تضاعفت ثلاث مرات تقريباً بين عامي 2020 و2024 لتصل إلى 20.1 مليار دولار أمريكي. وإذا بقي الإقراض عند مستويات عام 2024، فقد تتجاوز المدفوعات القروض الجديدة بحلول عام 2036. وتغذي هذه الأرقام نقاش تمويل المناخ في COP31 حول جودة التمويل والمنح مقابل الديون وهدف مضاعفة تمويل التكيف ثلاث مرات."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-climatechangenews-com",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
+  {
+   "id": "icccad-2026-11-10-neld-policy-brief",
+   "institution": "ICCCAD",
+   "type": "briefing",
+   "title": "Policy Brief | Beyond Economic Losses: Strengthening Bangladesh's National Mechanism on Loss and Damage through NELD Evidence",
+   "date": "2026-11-10",
+   "authors": "ICCCAD",
+   "url": "https://icccad.net/publications/policy-brief/policy-brief-beyond-economic-losses/",
+   "summary": "O policy brief do ICCCAD defende que o mecanismo nacional de perdas e danos de Bangladesh passe a incorporar evidências de perdas e danos não econômicas (NELD), além das perdas materiais. Trata-se de insumo para o debate de perdas e danos e para a operacionalização do fundo. Resumo baseado apenas na listagem pública da página.",
+   "summary_i18n": {
+    "en": "The ICCCAD policy brief argues that Bangladesh's national loss and damage mechanism should incorporate evidence on non-economic loss and damage (NELD) in addition to material losses. It is an input to the loss and damage debate and to the operationalization of the fund. Summary based only on the public listing.",
+    "es": "El informe de políticas del ICCCAD sostiene que el mecanismo nacional de pérdidas y daños de Bangladesh debería incorporar pruebas sobre pérdidas y daños no económicos (NELD), además de las pérdidas materiales. Es un insumo para el debate sobre pérdidas y daños y para la puesta en marcha del fondo. Resumen basado únicamente en el listado público.",
+    "fr": "La note d'orientation de l'ICCCAD soutient que le mécanisme national de pertes et préjudices du Bangladesh devrait intégrer des données sur les pertes et préjudices non économiques (NELD) en plus des pertes matérielles. Elle alimente le débat sur les pertes et préjudices et l'opérationnalisation du fonds. Résumé fondé uniquement sur la liste publique.",
+    "ru": "В аналитической записке ICCCAD утверждается, что национальный механизм Бангладеш по потерям и ущербу должен учитывать данные о неэкономических потерях и ущербе (NELD) наряду с материальными потерями. Документ служит вкладом в обсуждение потерь и ущерба и в запуск фонда. Резюме составлено только по публичному списку.",
+    "zh": "ICCCAD的政策简报主张，孟加拉国国家损失与损害机制除物质损失外，还应纳入非经济损失与损害（NELD）的证据。该简报为损失与损害议题的讨论以及基金的运作提供参考。摘要仅依据公开列表信息。",
+    "ar": "تحتج الموجز السياساتي الصادر عن ICCCAD بأن على الآلية الوطنية لبنغلاديش بشأن الخسائر والأضرار أن تدمج أدلة عن الخسائر والأضرار غير الاقتصادية (NELD) إلى جانب الخسائر المادية. وهو مساهمة في نقاش الخسائر والأضرار وفي تفعيل الصندوق. الملخص مبني على القائمة العامة فقط."
+   },
+   "tracks": [
+    "Perdas e danos"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-icccad-net-news",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
+  {
+   "id": "icccad-2026-11-10-neld-case-stories",
+   "institution": "ICCCAD",
+   "type": "relatório",
+   "title": "Case Stories on Non-Economic Loss and Damage (NELD) from Bangladesh",
+   "date": "2026-11-10",
+   "authors": "ICCCAD",
+   "url": "https://icccad.net/publications/case-study/case-stories-on-non-economic-loss-and-damage-neld-from-bangladesh/",
+   "summary": "O ICCCAD publicou estudos de caso sobre perdas e danos não econômicas (NELD) em Bangladesh, ilustrando impactos como deslocamento, perda de patrimônio cultural e de modos de vida. O material complementa o policy brief e o working paper recentes do instituto para a pauta de perdas e danos na COP31. Resumo baseado apenas na listagem pública da página.",
+   "summary_i18n": {
+    "en": "ICCCAD published case stories on non-economic loss and damage (NELD) in Bangladesh, illustrating impacts such as displacement and loss of cultural heritage and livelihoods. The material complements the institute's recent policy brief and working paper for the loss and damage agenda at COP31. Summary based only on the public listing.",
+    "es": "El ICCCAD publicó estudios de caso sobre pérdidas y daños no económicos (NELD) en Bangladesh, que ilustran impactos como el desplazamiento y la pérdida de patrimonio cultural y de medios de vida. El material complementa el informe de políticas y el documento de trabajo recientes del instituto para la agenda de pérdidas y daños en la COP31. Resumen basado únicamente en el listado público.",
+    "fr": "L'ICCCAD a publié des études de cas sur les pertes et préjudices non économiques (NELD) au Bangladesh, illustrant des impacts tels que le déplacement et la perte du patrimoine culturel et des moyens de subsistance. Ce document complète la note d'orientation et le document de travail récents de l'institut pour le programme sur les pertes et préjudices à la COP31. Résumé fondé uniquement sur la liste publique.",
+    "ru": "ICCCAD опубликовал тематические исследования о неэкономических потерях и ущербе (NELD) в Бангладеш, иллюстрирующие такие последствия, как перемещение населения и утрата культурного наследия и источников средств к существованию. Материал дополняет недавние аналитическую записку и рабочий документ института для повестки по потерям и ущербу на COP31. Резюме составлено только по публичному списку.",
+    "zh": "ICCCAD发布了关于孟加拉国非经济损失与损害（NELD）的案例研究，展示了流离失所以及文化遗产和生计丧失等影响。该材料补充了该研究所近期的政策简报和工作文件，服务于COP31的损失与损害议程。摘要仅依据公开列表信息。",
+    "ar": "نشر ICCCAD دراسات حالة عن الخسائر والأضرار غير الاقتصادية (NELD) في بنغلاديش، توضح آثاراً مثل التشرد وفقدان التراث الثقافي وسبل العيش. وتكمل هذه المواد الموجز السياساتي وورقة العمل الأخيرين للمعهد لدعم جدول أعمال الخسائر والأضرار في COP31. الملخص مبني على القائمة العامة فقط."
+   },
+   "tracks": [
+    "Perdas e danos"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-icccad-net-news",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
   {
    "id": "x-turkiyecop31-20261110-bowen-abertura",
    "platform": "x",
@@ -453,6 +722,60 @@
    "first_seen": "2026-11-10T02:42:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "climate-home-news-2026-11-09-cop31-bulletin-day1",
+   "institution": "Climate Home News",
+   "type": "boletim",
+   "title": "COP31 Bulletin Day 1: Agenda settled as COP urged to \"supercharge solutions\"",
+   "date": "2026-11-09",
+   "authors": "Sebastian Rodriguez, Matteo Civillini, Joe Lo, Tais Gadea Lara",
+   "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
+   "summary": "O boletim do primeiro dia relata que a sessão de abertura fechou a agenda, com a questão de adaptação africana e a das montanhas tratadas em outras vias e consultas. O presidente das negociações, Chris Bowen, disse que a decisão de cobertura não trará surpresas, e Simon Stiell pediu mais velocidade. Trilhas: decisão de cobertura e presidência anfitriã.",
+   "summary_i18n": {
+    "en": "The Day 1 bulletin reports that the opening session settled the agenda, with African adaptation finance and mountain issues handled through other strands and consultations. President of Negotiations Chris Bowen said the cover decision would hold no surprises, and Simon Stiell urged faster progress. Tracks: cover decision and host presidency.",
+    "es": "El boletín del primer día informa de que la sesión de apertura cerró el programa, y que la financiación de la adaptación en África y las cuestiones de montaña se tratarán en otras vías y consultas. El Presidente de las Negociaciones, Chris Bowen, dijo que la decisión de cobertura no deparará sorpresas, y Simon Stiell instó a avanzar más rápido. Ejes: decisión de cobertura y presidencia anfitriona.",
+    "fr": "Le bulletin du premier jour indique que la séance d'ouverture a arrêté l'ordre du jour, la question du financement de l'adaptation en Afrique et celle des montagnes étant traitées dans d'autres cadres et consultations. Le Président des négociations, Chris Bowen, a déclaré que la décision de couverture ne réserverait pas de surprises, et Simon Stiell a appelé à accélérer. Volets : décision de couverture et présidence hôte.",
+    "ru": "В бюллетене первого дня сообщается, что на открытии была согласована повестка дня, при этом вопросы финансирования адаптации в Африке и горные вопросы будут рассматриваться в рамках других процессов и консультаций. Председатель переговоров Крис Боуэн заявил, что итоговое решение не преподнесёт сюрпризов, а Саймон Стилл призвал ускорить прогресс. Направления: итоговое решение и принимающее президентство.",
+    "zh": "第一天简报称，开幕会议确定了议程，非洲适应资金和山区问题将通过其他渠道和磋商处理。谈判主席克里斯·鲍文（Chris Bowen）表示，总括决定不会有意外，西蒙·斯蒂尔（Simon Stiell）则敦促加快进展。议题：总括决定与东道主主席团。",
+    "ar": "تفيد نشرة اليوم الأول بأن الجلسة الافتتاحية أقرّت جدول الأعمال، على أن تُعالج مسألة تمويل التكيف في أفريقيا وقضايا الجبال عبر مسارات ومشاورات أخرى. وقال رئيس المفاوضات كريس بوين إن قرار الغلاف لن يحمل مفاجآت، وحثّ سايمون ستيل على تسريع التقدم. المسارات: قرار الغلاف والرئاسة المضيفة."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião",
+    "Adaptação"
+   ],
+   "quotes": [
+    "\"no surprises\" (Chris Bowen, on the cover decision)"
+   ],
+   "lang": "en",
+   "source_id": "web-climatechangenews-com",
+   "first_seen": "2026-11-10T06:16:42-03:00"
+  },
+  {
+   "id": "unfccc-2026-11-09-jtwp-review-synthesis",
+   "institution": "UNFCCC",
+   "type": "relatório",
+   "title": "Synthesis report by the secretariat on views on reviewing the UAE just transition work programme (FCCC/SB/2026/6)",
+   "date": "2026-11-09",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/documents/663510",
+   "summary": "O secretariado da UNFCCC publicou o relatório de síntese (FCCC/SB/2026/6) com as opiniões das Partes sobre a revisão do programa de trabalho de transição justa dos EAU, documento de base para as negociações de transição justa e do mecanismo Belém-Antalya na COP31. Resumo baseado apenas no título e na listagem pública do documento.",
+   "summary_i18n": {
+    "en": "The UNFCCC secretariat published the synthesis report (FCCC/SB/2026/6) on Parties' views on reviewing the UAE just transition work programme, a background document for the just transition and Belém-Antalya mechanism negotiations at COP31. Summary based only on the title and the public document listing.",
+    "es": "La secretaría de la CMNUCC publicó el informe de síntesis (FCCC/SB/2026/6) sobre las opiniones de las Partes acerca de la revisión del programa de trabajo de los EAU sobre transición justa, documento de base para las negociaciones sobre transición justa y el mecanismo Belém-Antalya en la COP31. Resumen basado únicamente en el título y en el listado público del documento.",
+    "fr": "Le secrétariat de la CCNUCC a publié le rapport de synthèse (FCCC/SB/2026/6) sur les vues des Parties concernant l'examen du programme de travail des EAU sur la transition juste, document de base pour les négociations sur la transition juste et le mécanisme Belém-Antalya à la COP31. Résumé fondé uniquement sur le titre et la liste publique du document.",
+    "ru": "Секретариат РКИК ООН опубликовал сводный доклад (FCCC/SB/2026/6) о мнениях Сторон по обзору программы работы ОАЭ по справедливому переходу — справочный документ для переговоров по справедливому переходу и механизму Белен–Анталья на COP31. Резюме составлено только по названию и публичному списку документа.",
+    "zh": "《联合国气候变化框架公约》秘书处发布了关于缔约方对审议阿联酋公正转型工作方案的意见的综合报告（FCCC/SB/2026/6），这是COP31上公正转型和贝伦—安塔利亚机制谈判的背景文件。摘要仅依据文件标题和公开列表信息。",
+    "ar": "نشرت أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC) التقرير التجميعي (FCCC/SB/2026/6) عن آراء الأطراف بشأن استعراض برنامج عمل الإمارات للانتقال العادل، وهو وثيقة خلفية لمفاوضات الانتقال العادل وآلية بيليم–أنطاليا في COP31. الملخص مبني على العنوان والقائمة العامة للوثيقة فقط."
+   },
+   "tracks": [
+    "Transição justa"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h",
+   "first_seen": "2026-11-10T06:16:42-03:00"
   },
   {
    "id": "cop30-presidency-daily-brief-2026-11-09",
@@ -7378,11 +7701,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T05:42:35-03:00",
-  "label": "10 nov 2026, 05:42 (Brasília)",
+  "timestamp": "2026-11-10T06:50:00-03:00",
+  "label": "10 nov 2026, 06:50 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 9,
+  "new_items": 5,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
