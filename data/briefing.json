@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T16:59+03:00",
+ "generated_at": "2026-11-10T17:58+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T06:16:42-03:00",
-  "social_round": "2026-11-10T10:45:00-03:00",
+  "social_round": "2026-11-10T11:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 79,
-  "stories": 71,
+  "candidates": 82,
+  "stories": 73,
   "top": 8,
   "publishers": [
    "350.org",
@@ -536,6 +536,105 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-varank-yumakli",
+    "section": "negotiations",
+    "score": 0.645,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-varank-yumakli",
+     "title": "@turkiyecop31: #COP31 CEO and Deputy Minister Fatma Varank joined Minister of Agriculture and Forestry İbrahim Yumaklı for a…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkEeB4jK9C/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "10:59",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31: a CEO da COP31, Fatma Varank, participou com o ministro da Agricultura İbrahim Yumaklı de debate sobre o futuro da agricultura no contexto climático e o abastecimento de alimentos.",
+     "collected_at": "2026-11-10T11:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency: COP31 CEO Fatma Varank joined Agriculture Minister İbrahim Yumaklı for a discussion on the future of agriculture in a changing climate and food supply.",
+      "es": "Presidencia de la COP31: la directora ejecutiva de la COP31, Fatma Varank, participó con el ministro de Agricultura İbrahim Yumaklı en un debate sobre el futuro de la agricultura en el contexto climático y el suministro de alimentos.",
+      "fr": "Présidence de la COP31 : la directrice générale de la COP31, Fatma Varank, a participé avec le ministre de l'Agriculture İbrahim Yumaklı à un débat sur l'avenir de l'agriculture face au climat et l'approvisionnement alimentaire.",
+      "ru": "Президентство КС-31: исполнительный директор КС-31 Фатма Варанк вместе с министром сельского хозяйства Ибрагимом Юмаклы приняла участие в обсуждении будущего сельского хозяйства в условиях изменения климата и продовольственного снабжения.",
+      "zh": "COP31主席团：COP31首席执行官法特玛·瓦兰克与农业部长易卜拉欣·尤马克勒共同参加了关于气候背景下农业未来与粮食供应的讨论。",
+      "ar": "رئاسة COP31: شاركت الرئيسة التنفيذية لـ COP31 فاطمة فارانك مع وزير الزراعة إبراهيم يوماكلي في نقاش حول مستقبل الزراعة في سياق المناخ وإمدادات الغذاء."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-muratkurum-20261109-genc-ciftciler",
+      "title": "@muratkurum: Tarım ve Orman Bakanımız Sayın İbrahim Yumaklı ile birlikte Genç Çiftçiler Üst Düzey Diyaloğu Toplantısı’nda; iklime…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfhpf-DCHCK/",
+      "publisher": "Murat Kurum",
+      "published": "2026-11-09",
+      "time": "12:25",
+      "language": "tr",
+      "tracks": [
+       "Agenda de Ação",
+       "Adaptação",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Kurum participa do Diálogo de Alto Nível de Jovens Agricultores com o ministro Yumaklı: agricultura resiliente ao clima, jovens empreendedores e segurança alimentar no marco da visão da COP31.",
+      "collected_at": "2026-11-09T12:45:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Kurum takes part in the High-Level Young Farmers Dialogue with Minister Yumaklı: climate-resilient agriculture, young entrepreneurs and food security under the COP31 vision.",
+       "es": "Kurum participa en el Diálogo de Alto Nivel de Jóvenes Agricultores con el ministro Yumaklı: agricultura resiliente al clima, jóvenes emprendedores y seguridad alimentaria en el marco de la visión de la COP31.",
+       "fr": "Kurum participe au Dialogue de haut niveau des jeunes agriculteurs avec le ministre Yumaklı : agriculture résiliente au climat, jeunes entrepreneurs et sécurité alimentaire dans le cadre de la vision de la COP31.",
+       "ru": "Курум участвует в диалоге высокого уровня молодых фермеров с министром Юмаклы: климатически устойчивое сельское хозяйство, молодые предприниматели и продовольственная безопасность в рамках концепции COP31.",
+       "zh": "库鲁姆与尤马克勒部长出席青年农民高级别对话，围绕COP31愿景探讨气候韧性农业、青年创业和粮食安全。",
+       "ar": "يشارك كوروم مع الوزير يوماكلي في الحوار رفيع المستوى للمزارعين الشباب حول الزراعة القادرة على التكيف مع المناخ وريادة الشباب والأمن الغذائي في إطار رؤية COP31."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261109-jovens-agricultores",
+      "title": "@turkiyecop31: The future of food security depends on resilient agriculture and the next generation of farmers. #COP31 President…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfh0z4gse0W/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "14:04",
+      "language": "en",
+      "tracks": [
+       "Adaptação",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "O presidente da COP31, Murat Kurum, e o ministro da Agricultura e Florestas, İbrahim Yumaklı, participaram do Diálogo de Alto Nível com Jovens Agricultores sobre agricultura resiliente ao clima, empreendedorismo jovem e segurança alimentar.",
+      "collected_at": "2026-11-09T15:55:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "COP31 President Murat Kurum and Minister of Agriculture and Forestry İbrahim Yumaklı took part in the High-Level Dialogue with Young Farmers on climate-resilient agriculture, youth entrepreneurship and food security.",
+       "es": "El presidente de la COP31, Murat Kurum, y el ministro de Agricultura y Silvicultura, İbrahim Yumaklı, participaron en el Diálogo de Alto Nivel con Jóvenes Agricultores sobre agricultura resiliente al clima, emprendimiento juvenil y seguridad alimentaria.",
+       "fr": "Le président de la COP31, Murat Kurum, et le ministre de l'Agriculture et des Forêts, İbrahim Yumaklı, ont participé au Dialogue de haut niveau avec les jeunes agriculteurs sur l'agriculture résiliente au changement climatique, l'entrepreneuriat des jeunes et la sécurité alimentaire.",
+       "ru": "Президент КС-31 Мурат Курум и министр сельского и лесного хозяйства Ибрагим Юмаклы приняли участие в диалоге высокого уровня с молодыми фермерами об устойчивом к изменению климата сельском хозяйстве, молодёжном предпринимательстве и продовольственной безопасности.",
+       "zh": "COP31主席穆拉特·库鲁姆与农业和林业部长易卜拉欣·尤马克勒出席了青年农民高级别对话，讨论气候韧性农业、青年创业和粮食安全。",
+       "ar": "شارك رئيس مؤتمر الأطراف الحادي والثلاثين مراد قوروم ووزير الزراعة والغابات إبراهيم يوماكلي في الحوار رفيع المستوى مع المزارعين الشباب حول الزراعة القادرة على التكيف مع المناخ وريادة الأعمال الشبابية والأمن الغذائي."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -1108,72 +1207,40 @@
     ]
    },
    {
-    "id": "st-instagram-muratkurum-20261109-genc-ciftciler",
+    "id": "st-instagram-turkiyecop31-20261110-bowen-35-2035",
     "section": "action",
-    "score": 0.516,
+    "score": 0.55,
     "lead": {
-     "id": "instagram-muratkurum-20261109-genc-ciftciler",
-     "title": "@muratkurum: Tarım ve Orman Bakanımız Sayın İbrahim Yumaklı ile birlikte Genç Çiftçiler Üst Düzey Diyaloğu Toplantısı’nda; iklime…",
+     "id": "instagram-turkiyecop31-20261110-bowen-35-2035",
+     "title": "@turkiyecop31: Raising the global share of electricity in final energy consumption from 23% to 35% by 2035 is an ambitious but…",
      "title_is_post": true,
-     "url": "https://www.instagram.com/p/Dfhpf-DCHCK/",
-     "publisher": "Murat Kurum",
-     "published": "2026-11-09",
-     "time": "12:25",
-     "language": "tr",
+     "url": "https://www.instagram.com/p/DfkDKOlsI-O/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "10:48",
+     "language": "en",
      "tracks": [
-      "Agenda de Ação",
-      "Adaptação",
-      "Presidência e anfitrião"
+      "Eletrificação",
+      "Mitigação e MWP"
      ],
      "content_type": "official",
      "kind": "post",
      "platform": "instagram",
-     "description": "Kurum participa do Diálogo de Alto Nível de Jovens Agricultores com o ministro Yumaklı: agricultura resiliente ao clima, jovens empreendedores e segurança alimentar no marco da visão da COP31.",
-     "collected_at": "2026-11-09T12:45:00-03:00",
+     "description": "Presidência da COP31: na coletiva, Chris Bowen (presidente das negociações) afirmou que elevar a participação da eletricidade no consumo final de energia de 23% para 35% até 2035 é um passo ambicioso, mas necessário, para manter 1,5°C ao alcance.",
+     "collected_at": "2026-11-10T11:45:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Kurum takes part in the High-Level Young Farmers Dialogue with Minister Yumaklı: climate-resilient agriculture, young entrepreneurs and food security under the COP31 vision.",
-      "es": "Kurum participa en el Diálogo de Alto Nivel de Jóvenes Agricultores con el ministro Yumaklı: agricultura resiliente al clima, jóvenes emprendedores y seguridad alimentaria en el marco de la visión de la COP31.",
-      "fr": "Kurum participe au Dialogue de haut niveau des jeunes agriculteurs avec le ministre Yumaklı : agriculture résiliente au climat, jeunes entrepreneurs et sécurité alimentaire dans le cadre de la vision de la COP31.",
-      "ru": "Курум участвует в диалоге высокого уровня молодых фермеров с министром Юмаклы: климатически устойчивое сельское хозяйство, молодые предприниматели и продовольственная безопасность в рамках концепции COP31.",
-      "zh": "库鲁姆与尤马克勒部长出席青年农民高级别对话，围绕COP31愿景探讨气候韧性农业、青年创业和粮食安全。",
-      "ar": "يشارك كوروم مع الوزير يوماكلي في الحوار رفيع المستوى للمزارعين الشباب حول الزراعة القادرة على التكيف مع المناخ وريادة الشباب والأمن الغذائي في إطار رؤية COP31."
+      "en": "COP31 Presidency: at the press briefing, Chris Bowen (President of Negotiations) said raising electricity's share of final energy consumption from 23% to 35% by 2035 is an ambitious but necessary step to keep 1.5°C within reach.",
+      "es": "Presidencia de la COP31: en la rueda de prensa, Chris Bowen (Presidente de las Negociaciones) afirmó que elevar la cuota de electricidad en el consumo final de energía del 23 % al 35 % para 2035 es un paso ambicioso pero necesario para mantener el 1,5 °C al alcance.",
+      "fr": "Présidence de la COP31 : lors du point de presse, Chris Bowen (Président des négociations) a déclaré que porter la part de l'électricité dans la consommation finale d'énergie de 23 % à 35 % d'ici 2035 est une étape ambitieuse mais nécessaire pour garder l'objectif de 1,5 °C à portée de main.",
+      "ru": "Президентство КС-31: на брифинге Крис Боуэн (председатель переговоров) заявил, что увеличение доли электроэнергии в конечном потреблении энергии с 23% до 35% к 2035 году — амбициозный, но необходимый шаг для сохранения цели 1,5°C.",
+      "zh": "COP31主席团：在新闻发布会上，谈判主席克里斯·鲍文表示，到2035年将电力在终端能源消费中的占比从23%提高到35%是雄心勃勃但必要的一步，有助于使1.5°C目标保持可及。",
+      "ar": "رئاسة COP31: في الإحاطة الصحفية، قال كريس بوين (رئيس المفاوضات) إن رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من 23% إلى 35% بحلول عام 2035 خطوة طموحة لكنها ضرورية لإبقاء هدف 1.5°C في المتناول."
      },
      "description_i18n_method": "machine"
     },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261109-jovens-agricultores",
-      "title": "@turkiyecop31: The future of food security depends on resilient agriculture and the next generation of farmers. #COP31 President…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/Dfh0z4gse0W/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-09",
-      "time": "14:04",
-      "language": "en",
-      "tracks": [
-       "Adaptação",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "O presidente da COP31, Murat Kurum, e o ministro da Agricultura e Florestas, İbrahim Yumaklı, participaram do Diálogo de Alto Nível com Jovens Agricultores sobre agricultura resiliente ao clima, empreendedorismo jovem e segurança alimentar.",
-      "collected_at": "2026-11-09T15:55:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "COP31 President Murat Kurum and Minister of Agriculture and Forestry İbrahim Yumaklı took part in the High-Level Dialogue with Young Farmers on climate-resilient agriculture, youth entrepreneurship and food security.",
-       "es": "El presidente de la COP31, Murat Kurum, y el ministro de Agricultura y Silvicultura, İbrahim Yumaklı, participaron en el Diálogo de Alto Nivel con Jóvenes Agricultores sobre agricultura resiliente al clima, emprendimiento juvenil y seguridad alimentaria.",
-       "fr": "Le président de la COP31, Murat Kurum, et le ministre de l'Agriculture et des Forêts, İbrahim Yumaklı, ont participé au Dialogue de haut niveau avec les jeunes agriculteurs sur l'agriculture résiliente au changement climatique, l'entrepreneuriat des jeunes et la sécurité alimentaire.",
-       "ru": "Президент КС-31 Мурат Курум и министр сельского и лесного хозяйства Ибрагим Юмаклы приняли участие в диалоге высокого уровня с молодыми фермерами об устойчивом к изменению климата сельском хозяйстве, молодёжном предпринимательстве и продовольственной безопасности.",
-       "zh": "COP31主席穆拉特·库鲁姆与农业和林业部长易卜拉欣·尤马克勒出席了青年农民高级别对话，讨论气候韧性农业、青年创业和粮食安全。",
-       "ar": "شارك رئيس مؤتمر الأطراف الحادي والثلاثين مراد قوروم ووزير الزراعة والغابات إبراهيم يوماكلي في الحوار رفيع المستوى مع المزارعين الشباب حول الزراعة القادرة على التكيف مع المناخ وريادة الأعمال الشبابية والأمن الغذائي."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
+    "related": [],
     "publishers": [
-     "Murat Kurum",
      "Presidência da COP31 (Türkiye)"
     ]
    },
@@ -1614,6 +1681,43 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-erdogan-guterres",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-erdogan-guterres",
+     "title": "@turkiyecop31: President of the Republic of Türkiye Recep Tayyip Erdoğan met with UN Secretary-General António Guterres, who is in…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkHm-4Mnmw/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "11:27",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31: o presidente Erdoğan recebeu o secretário-geral da ONU, António Guterres, que está na Türkiye para a COP31.",
+     "collected_at": "2026-11-10T11:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency: President Erdoğan met UN Secretary-General António Guterres, who is in Türkiye for COP31.",
+      "es": "Presidencia de la COP31: el presidente Erdoğan se reunió con el Secretario General de la ONU, António Guterres, que se encuentra en Türkiye para la COP31.",
+      "fr": "Présidence de la COP31 : le président Erdoğan a reçu le Secrétaire général de l'ONU, António Guterres, présent en Türkiye pour la COP31.",
+      "ru": "Президентство КС-31: президент Эрдоган встретился с Генеральным секретарём ООН Антониу Гутерришем, находящимся в Türkiye для участия в КС-31.",
+      "zh": "COP31主席团：埃尔多安总统会见了为出席COP31而在土耳其访问的联合国秘书长安东尼奥·古特雷斯。",
+      "ar": "رئاسة COP31: التقى الرئيس أردوغان الأمين العام للأمم المتحدة أنطونيو غوتيريش الموجود في تركيا لحضور COP31."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
