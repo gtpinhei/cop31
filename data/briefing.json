@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T08:07+03:00",
+ "generated_at": "2026-11-10T09:02+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,11 +9,11 @@
  },
  "collection": {
   "web_round": "2026-11-10T00:16:00-03:00",
-  "social_round": "2026-11-10T01:50:00-03:00",
+  "social_round": "2026-11-10T02:42:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 55,
+  "candidates": 58,
   "stories": 53,
   "top": 8,
   "publishers": [
@@ -1070,6 +1070,102 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261110-day2-theme",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-day2-theme",
+     "title": "@turkiyecop31: Welcome to Day 2 of #COP31 in Antalya! The theme for today: “Energy and Transport”. The full event schedule and…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfjIM48DL8Y/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "02:13",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 dá as boas-vindas ao 2º dia em Antália; o tema do dia é \"Energia e Transporte\", com programação em cop31.tr e no aplicativo COP31 Türkiye.",
+     "collected_at": "2026-11-10T02:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency welcomes participants to Day 2 in Antalya; the theme of the day is \"Energy and Transport\", with the programme available at cop31.tr and in the COP31 Türkiye app.",
+      "es": "La Presidencia de la COP31 da la bienvenida al segundo día en Antalya; el tema del día es «Energía y Transporte», con el programa en cop31.tr y en la aplicación COP31 Türkiye.",
+      "fr": "La Présidence de la COP31 souhaite la bienvenue au deuxième jour à Antalya ; le thème du jour est « Énergie et transports », avec le programme sur cop31.tr et dans l'application COP31 Türkiye.",
+      "ru": "Президентство КС-31 приветствует участников второго дня в Анталье; тема дня — «Энергетика и транспорт», программа доступна на cop31.tr и в приложении COP31 Türkiye.",
+      "zh": "COP31主席团欢迎各方参加安塔利亚第二天会议；当日主题为“能源与交通”，议程可在cop31.tr及COP31 Türkiye应用程序查看。",
+      "ar": "ترحب رئاسة مؤتمر الأطراف الحادي والثلاثين بالمشاركين في اليوم الثاني في أنطاليا؛ وموضوع اليوم هو «الطاقة والنقل»، والبرنامج متاح على cop31.tr وفي تطبيق COP31 Türkiye."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261109-day1-theme",
+      "title": "@turkiyecop31: Welcome to Day 1 of #COP31 in Antalya! The theme for the opening day: \"Food, Agriculture and Health\". The full event…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfgigZxjIy3/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "02:05",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Dia 1 da COP31 em Antalya: a presidência anuncia o tema do dia de abertura, \"Alimentação, agricultura e saúde\", e remete ao programa em cop31.tr.",
+      "collected_at": "2026-11-09T02:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Day 1 of COP31 in Antalya: the presidency announces the opening-day theme \"Food, Agriculture and Health\" and points to the programme at cop31.tr.",
+       "es": "Día 1 de la COP31 en Antalya: la presidencia anuncia el tema de la jornada inaugural, «Alimentación, agricultura y salud», y remite al programa en cop31.tr.",
+       "fr": "Jour 1 de la COP31 à Antalya : la présidence annonce le thème de la journée d'ouverture, « Alimentation, agriculture et santé », et renvoie au programme sur cop31.tr.",
+       "ru": "День 1 COP31 в Анталье: председательство объявляет тему первого дня — «Продовольствие, сельское хозяйство и здоровье» — и отсылает к программе на cop31.tr.",
+       "zh": "COP31在安塔利亚开幕首日：主席国宣布开幕日主题为“粮食、农业与健康”，并提示在cop31.tr查看日程。",
+       "ar": "اليوم الأول من مؤتمر الأطراف الحادي والثلاثين في أنطاليا: الرئاسة تعلن موضوع يوم الافتتاح «الغذاء والزراعة والصحة» وتحيل إلى البرنامج على cop31.tr."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261109-welcome",
+      "title": "@turkiyecop31: Welcome to #COP31 Türkiye. 🇹🇷 #COP31Türkiye'ye hoş geldiniz. 🇹🇷 #COP31Antalya",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfgsu-Isz-H/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "03:34",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
+      "collected_at": "2026-11-09T03:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
+       "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
+       "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
+       "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
+       "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
+       "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-icc-2026-11-09-electrification-principles",
     "section": "action",
     "score": 0.405,
@@ -1102,6 +1198,110 @@
     "related": [],
     "publishers": [
      "ICC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261109-green-zone-abertura",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261109-green-zone-abertura",
+     "title": "@turkiyecop31: #COP31 President Murat Kurum has officially opened the Green Zone. Serving as an inclusive platform open to civil…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfh0EXSDGvc/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-09",
+     "time": "13:57",
+     "language": "en",
+     "tracks": [
+      "Espaço cívico",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O presidente da COP31, Murat Kurum, inaugurou oficialmente a Green Zone, plataforma aberta a sociedade civil, academia, jovens e inovadores para moldar o futuro diante da crise climática.",
+     "collected_at": "2026-11-10T02:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum officially opened the Green Zone, a platform open to civil society, academia, youth and innovators to shape the shared future in response to the climate crisis.",
+      "es": "El Presidente de la COP31, Murat Kurum, inauguró oficialmente la Zona Verde, una plataforma abierta a la sociedad civil, la academia, los jóvenes y los innovadores para dar forma al futuro común frente a la crisis climática.",
+      "fr": "Le Président de la COP31, Murat Kurum, a officiellement ouvert la Zone verte, plateforme ouverte à la société civile, au monde universitaire, aux jeunes et aux innovateurs pour façonner l'avenir commun face à la crise climatique.",
+      "ru": "Председатель КС-31 Мурат Курум официально открыл «Зелёную зону» — платформу для гражданского общества, научных кругов, молодёжи и новаторов, призванную формировать общее будущее в ответ на климатический кризис.",
+      "zh": "COP31主席穆拉特·库鲁姆正式开启“绿区”，这是一个向民间社会、学术界、青年和创新者开放的平台，旨在应对气候危机、共同塑造未来。",
+      "ar": "افتتح رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم رسمياً «المنطقة الخضراء»، وهي منصة مفتوحة للمجتمع المدني والأوساط الأكاديمية والشباب والمبتكرين لصياغة المستقبل المشترك في مواجهة أزمة المناخ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261109-stronger-together",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261109-stronger-together",
+     "title": "@turkiyecop31: Three colors. One vision revealed. The story of #COP31. Now unveiled. #COP31: Stronger Together Embodying the spirit…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfhtqsMsiIo/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-09",
+     "time": "13:01",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 apresenta a identidade \"Stronger Together\": o presidente Murat Kurum e o presidente das negociações Chris Bowen unem forças em Antália por ação concreta e um processo orientado a resultados.",
+     "collected_at": "2026-11-09T13:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency unveils the \"Stronger Together\" identity: President Murat Kurum and President of Negotiations Chris Bowen join hands in Antalya for tangible action and an outcome-focused process.",
+      "es": "La Presidencia de la COP31 presenta la identidad «Stronger Together»: el presidente Murat Kurum y el presidente de las negociaciones Chris Bowen unen fuerzas en Antalya por una acción tangible y un proceso orientado a resultados.",
+      "fr": "La présidence de la COP31 dévoile l'identité « Stronger Together » : le président Murat Kurum et le président des négociations Chris Bowen s'unissent à Antalya pour une action concrète et un processus axé sur les résultats.",
+      "ru": "Президентство КС-31 представляет идентичность «Stronger Together»: президент Мурат Курум и президент переговоров Крис Боуэн объединяют усилия в Анталье ради конкретных действий и процесса, ориентированного на результат.",
+      "zh": "COP31主席团发布“Stronger Together”形象：主席穆拉特·库鲁姆与谈判主席克里斯·鲍恩在安塔利亚携手，推动切实行动和注重成果的进程。",
+      "ar": "تكشف رئاسة مؤتمر الأطراف الحادي والثلاثين عن هوية «Stronger Together»: الرئيس مراد كوروم ورئيس المفاوضات كريس بوين يتحدان في أنطاليا لتسريع العمل الملموس وقيادة عملية موجهة نحو النتائج."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261109-kurum-bowen-maos",
+      "title": "@turkiyecop31: #COP31: Stronger Together Embodying the spirit of the COP, COP31 President Murat Kurum and President of Negotiations…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfhx2zfM6gr/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "13:38",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Murat Kurum (presidente da COP31) e Chris Bowen (presidente das negociações) aparecem de mãos dadas em Antália para acelerar ações concretas e conduzir um processo orientado a resultados.",
+      "collected_at": "2026-11-10T02:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "COP31 President Murat Kurum and President of Negotiations Chris Bowen join hands in Antalya to accelerate tangible action and lead an outcome-focused process.",
+       "es": "El Presidente de la COP31, Murat Kurum, y el Presidente de las negociaciones, Chris Bowen, se dan la mano en Antalya para acelerar medidas concretas y dirigir un proceso orientado a resultados.",
+       "fr": "Le Président de la COP31, Murat Kurum, et le Président des négociations, Chris Bowen, se donnent la main à Antalya pour accélérer l'action concrète et conduire un processus axé sur les résultats.",
+       "ru": "Председатель КС-31 Мурат Курум и председатель переговоров Крис Боуэн в Анталье демонстрируют единство, чтобы ускорить конкретные действия и вести процесс, ориентированный на результат.",
+       "zh": "COP31主席穆拉特·库鲁姆与谈判主席克里斯·鲍恩在安塔利亚携手，以加快切实行动并引领注重成果的进程。",
+       "ar": "يتشابك رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم ورئيس المفاوضات كريس بوين في أنطاليا لتسريع الإجراءات الملموسة وقيادة عملية موجهة نحو النتائج."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -1171,43 +1371,6 @@
       "ru": "Президент КС-31 Мурат Курум призывает все страны и партнёров объединить усилия в Анталье, чтобы превратить обязательства в результаты, решения в инвестиции, а знания в действия.",
       "zh": "COP31主席穆拉特·库鲁姆呼吁各国和伙伴在安塔利亚携手合作，将承诺转化为成果，将决定转化为投资，将知识转化为行动。",
       "ar": "يدعو رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم جميع الدول والشركاء إلى توحيد الجهود في أنطاليا لتحويل التعهدات إلى نتائج والقرارات إلى استثمارات والمعرفة إلى عمل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261109-stronger-together",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261109-stronger-together",
-     "title": "@turkiyecop31: Three colors. One vision revealed. The story of #COP31. Now unveiled. #COP31: Stronger Together Embodying the spirit…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfhtqsMsiIo/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-09",
-     "time": "13:01",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "A Presidência da COP31 apresenta a identidade \"Stronger Together\": o presidente Murat Kurum e o presidente das negociações Chris Bowen unem forças em Antália por ação concreta e um processo orientado a resultados.",
-     "collected_at": "2026-11-09T13:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency unveils the \"Stronger Together\" identity: President Murat Kurum and President of Negotiations Chris Bowen join hands in Antalya for tangible action and an outcome-focused process.",
-      "es": "La Presidencia de la COP31 presenta la identidad «Stronger Together»: el presidente Murat Kurum y el presidente de las negociaciones Chris Bowen unen fuerzas en Antalya por una acción tangible y un proceso orientado a resultados.",
-      "fr": "La présidence de la COP31 dévoile l'identité « Stronger Together » : le président Murat Kurum et le président des négociations Chris Bowen s'unissent à Antalya pour une action concrète et un processus axé sur les résultats.",
-      "ru": "Президентство КС-31 представляет идентичность «Stronger Together»: президент Мурат Курум и президент переговоров Крис Боуэн объединяют усилия в Анталье ради конкретных действий и процесса, ориентированного на результат.",
-      "zh": "COP31主席团发布“Stronger Together”形象：主席穆拉特·库鲁姆与谈判主席克里斯·鲍恩在安塔利亚携手，推动切实行动和注重成果的进程。",
-      "ar": "تكشف رئاسة مؤتمر الأطراف الحادي والثلاثين عن هوية «Stronger Together»: الرئيس مراد كوروم ورئيس المفاوضات كريس بوين يتحدان في أنطاليا لتسريع العمل الملموس وقيادة عملية موجهة نحو النتائج."
      },
      "description_i18n_method": "machine"
     },
@@ -1728,81 +1891,6 @@
       "ru": "Президентство КС-31 представляет песню «One Home» Серты Берене под девизом «Один мир. Один дом» в день открытия конференции.",
       "zh": "COP31主席团在大会开幕之际发布Serta Berener创作的歌曲《One Home》，主题为“同一个世界，同一个家园”。",
       "ar": "تطلق رئاسة COP31 أغنية «One Home» لسيرتا بيرينير بشعار «عالم واحد. بيت واحد.» مع افتتاح المؤتمر."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261109-welcome",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261109-welcome",
-     "title": "@turkiyecop31: Welcome to #COP31 Türkiye. 🇹🇷 #COP31Türkiye'ye hoş geldiniz. 🇹🇷 #COP31Antalya",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/Dfgsu-Isz-H/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-09",
-     "time": "03:34",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
-     "collected_at": "2026-11-09T03:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
-      "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
-      "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
-      "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
-      "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
-      "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261109-day1-theme",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261109-day1-theme",
-     "title": "@turkiyecop31: Welcome to Day 1 of #COP31 in Antalya! The theme for the opening day: \"Food, Agriculture and Health\". The full event…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfgigZxjIy3/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-09",
-     "time": "02:05",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "Dia 1 da COP31 em Antalya: a presidência anuncia o tema do dia de abertura, \"Alimentação, agricultura e saúde\", e remete ao programa em cop31.tr.",
-     "collected_at": "2026-11-09T02:42:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Day 1 of COP31 in Antalya: the presidency announces the opening-day theme \"Food, Agriculture and Health\" and points to the programme at cop31.tr.",
-      "es": "Día 1 de la COP31 en Antalya: la presidencia anuncia el tema de la jornada inaugural, «Alimentación, agricultura y salud», y remite al programa en cop31.tr.",
-      "fr": "Jour 1 de la COP31 à Antalya : la présidence annonce le thème de la journée d'ouverture, « Alimentation, agriculture et santé », et renvoie au programme sur cop31.tr.",
-      "ru": "День 1 COP31 в Анталье: председательство объявляет тему первого дня — «Продовольствие, сельское хозяйство и здоровье» — и отсылает к программе на cop31.tr.",
-      "zh": "COP31在安塔利亚开幕首日：主席国宣布开幕日主题为“粮食、农业与健康”，并提示在cop31.tr查看日程。",
-      "ar": "اليوم الأول من مؤتمر الأطراف الحادي والثلاثين في أنطاليا: الرئاسة تعلن موضوع يوم الافتتاح «الغذاء والزراعة والصحة» وتحيل إلى البرنامج على cop31.tr."
      },
      "description_i18n_method": "machine"
     },
