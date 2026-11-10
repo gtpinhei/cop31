@@ -83,6 +83,14 @@ def check_item(it, tracks=()):
         if not _str(it.get("institution")): e.append("publication without institution")
         if not _str(it.get("title")): e.append("publication without title")
         if it.get("type") is not None and it["type"] not in TYPES: w.append(f"unlisted type {it['type']!r}")
+        for fld in ("url_i18n", "title_i18n"):
+            m = it.get(fld)
+            if m is None:
+                continue
+            if not isinstance(m, dict) or not all(isinstance(v, str) and v.strip() for v in m.values()):
+                e.append(f"{fld} must map languages to non-empty strings")
+            elif fld == "url_i18n" and not all(v.startswith("https://") for v in m.values()):
+                e.append("url_i18n values must be https")
         q = it.get("quotes", [])
         if not isinstance(q, list) or not all(isinstance(x, str) for x in q): e.append("quotes must be a list of strings")
     return e, w

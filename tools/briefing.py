@@ -190,6 +190,11 @@ def public_item(it):
            "content_type": it["_ctype"], "kind": it["_kind"], "platform": it.get("platform") if it["_kind"] == "post" else None,
            "description": short(it.get("summary") or ""), "collected_at": it.get("first_seen"),
            "validation": "registry source, collected by the monitor"}
+    for fld in ("url_i18n", "title_i18n"):        # a publication in several languages (EN + PT editions)
+        m = {k: v for k, v in (it.get(fld) or {}).items() if isinstance(v, str) and v.strip()
+             and (fld != "url_i18n" or v.startswith("https://"))}
+        if m:
+            pub[fld] = m
     i18n = it.get("summary_i18n") or {}
     pub["description_i18n"] = {k: short(v) for k, v in i18n.items() if isinstance(v, str) and v.strip()}
     if pub["description_i18n"]:
@@ -226,6 +231,8 @@ def section_of(lead, members):
 def voice(it):
     """Who is speaking, for diversity: the presidency's accounts and ministers count as one voice."""
     inst = it.get("institution") or ""
+    if re.search(r"cop ?30", inst, re.I):                 # the previous (Brazilian) presidency is its own voice
+        return "cop30-presidency"
     if re.search(r"presid[eê]ncia|presidency|kurum|bowen", inst, re.I):
         return "presidency"
     return inst.lower()

@@ -140,4 +140,16 @@ const sec = (d, k) => d.querySelector(`.brf-sec[data-sec="${k}"]`);
   assert(sec(b.d, "essential").querySelector(".brf-card h4 a").getAttribute("href").startsWith("https://"), "stories keep their source links");
 }
 
+// 8. a bilingual publication (COP30 Presidency Daily Brief): the reader's language version is linked
+{
+  const bi = { url: "https://cop30.br/en/x", url_i18n: { en: "https://cop30.br/en/x", pt: "https://cop30.br/pt-br/y" },
+    title: "[TEST] Brief – November 10", title_i18n: { pt: "[TESTE] Boletim – 10 de novembro" }, language: "en" };
+  for (const [l, u, t] of [["pt", "https://cop30.br/pt-br/y", "[TESTE] Boletim"], ["en", "https://cop30.br/en/x", "[TEST] Brief"], ["fr", "https://cop30.br/en/x", "[TEST] Brief"]]) {
+    const b = boot({ briefing: brief({ sections: { essential: [story(1, "action", bi)], negotiations: [], action: [], civil: [] } }), lang: l === "pt" ? undefined : l });
+    await sleep(l === "pt" ? 120 : 300);
+    const a = sec(b.d, "essential").querySelector(".brf-card h4 a");
+    assert(a.getAttribute("href") === u && a.textContent.startsWith(t), l + ": bilingual brief links " + u);
+  }
+}
+
 if (failed) { console.error(failed + " failed"); process.exit(1); }

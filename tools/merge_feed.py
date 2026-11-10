@@ -5,7 +5,8 @@ usage: python3 -I tools/merge_feed.py SOURCE [SOURCE ...]
 
 Each SOURCE is either a full feed (object with "items") or a bare list of items.
 Items are keyed by url for publications and by id for posts (posts often share a
-profile url).
+profile url). A publication arriving under a new url with the id of one already on file
+replaces that entry instead of duplicating it.
 
 Precedence (so a stale copy can never overwrite a newer verified version):
 - an item's version is its `updated_at`, or `first_seen` when there is none;
@@ -59,6 +60,11 @@ def merge_items(items, new, tracks=(), log=print):
             log(f"dropped {it.get('id') if isinstance(it, dict) else it!r}: {'; '.join(errs)}")
             continue
         k = key(it)
+        if k not in items and it.get("kind") != "post" and it.get("id"):
+            # same publication under a new URL (a slug changed at the source): keep one entry, keyed by the new URL
+            old = next((kk for kk, v in items.items() if v.get("kind") != "post" and v.get("id") == it["id"]), None)
+            if old is not None:
+                items[k] = items.pop(old)
         cur = items.get(k)
         if cur is None:
             items[k] = it

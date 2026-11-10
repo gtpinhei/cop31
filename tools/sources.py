@@ -53,8 +53,10 @@ METHOD = {"bluesky": "nimble vx6: public.api.bsky.app getAuthorFeed (JSON)",
 AGENT = {**{p: "social" for p in SOCIAL}, "web": "web", "rss": "web"}
 HISTORY = 36   # agent runs kept per source: covers 24 h of hourly social runs
 # longest normal gap between two runs of each agent, plus slack: an every_run source is on time if read within it
-RUN_GAP_H = {"social": 5, "web": 7}
-CADENCE_H = {"daily": 26, "weekly": 170}
+RUN_GAP_H = {"social": 5, "web": 7, "cop30brief": 4}
+CADENCE_H = {"every_3h": 4, "daily": 26, "weekly": 170}
+# sources read by their own collector (tools/<collector>.py run from the hourly sync), not by the web/social agents
+OWN_COLLECTOR = {"cop30brief": "tools/cop30_brief.py"}
 RULES = {
     "auto_activate": "official category (presidency, unfccc, government, multilateral, negotiating_group) "
                      "+ identity checked + a successful probe with the collector's own method",
@@ -646,7 +648,7 @@ def legacy_basis(s):
     return LEGACY_VER.get(s["identity"]["status"], "não")
 
 
-DUE_H = {"daily": 23, "weekly": 167}   # a little under the cadence, since views are regenerated hourly
+DUE_H = {"every_3h": 2.75, "daily": 23, "weekly": 167}   # a little under the cadence, since views are regenerated hourly
 
 
 def due_view(s, at=None):
@@ -692,7 +694,8 @@ def views(reg):
            "sites": [{"id": s["id"], "institution": s["institution"], "urls": s["urls"], "rss": s.get("rss"),
                       "language": s.get("language"), "priority": s["priority"], "cadence": s["collection"]["cadence"],
                       "rights": s["rights"], "notes": s.get("notes"), **due_view(s)}
-                     for s in sorted(act, key=lambda x: x["priority"]) if s["platform"] in ("web", "rss")]}
+                     for s in sorted(act, key=lambda x: x["priority"]) if s["platform"] in ("web", "rss")
+                     and s["collection"].get("agent") not in OWN_COLLECTOR]}
     return social, web
 
 
