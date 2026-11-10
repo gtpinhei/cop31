@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T08:03+03:00",
+ "generated_at": "2026-11-10T08:07+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -36,6 +36,16 @@
    "WRI"
   ],
   "access_gaps": [
+   {
+    "publisher": "ECCO",
+    "outcome": "paused",
+    "note": "robots.txt of eccoclimate.org (read 10 nov) disallows ClaudeBot, Claude-Web and anthropic-ai site-wide; respected, inclu"
+   },
+   {
+    "publisher": "IISD / ENB",
+    "outcome": "paused",
+    "note": "robots.txt of enb.iisd.org (read 10 nov) disallows ClaudeBot, Claude-Web and anthropic-ai site-wide; respected. ENB cove"
+   },
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
