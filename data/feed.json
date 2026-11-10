@@ -34,6 +34,62 @@
  ],
  "items": [
   {
+   "id": "x-marinasilva-20261110-fundo-amazonia-noruega",
+   "kind": "post",
+   "platform": "x",
+   "account": "@MarinaSilva",
+   "institution": "Marina Silva",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "13:14",
+   "text": "A preservação da Amazônia e o combate às mudanças do clima exigem governança, transparência e cooperação multilateral. O anúncio do novo aporte de R$ 350 milhões pela Noruega ao Fundo Amazônia demonstra a confiança da comunidade internacional na retomada da política ambiental …",
+   "summary": "Marina Silva afirma que o novo aporte de R$ 350 milhões da Noruega ao Fundo Amazônia mostra a confiança internacional na retomada da política ambiental brasileira e defende governança, transparência e cooperação multilateral.",
+   "summary_i18n": {
+    "en": "Marina Silva says Norway's new BRL 350 million contribution to the Amazon Fund shows international confidence in the resumption of Brazil's environmental policy, and calls for governance, transparency and multilateral cooperation.",
+    "es": "Marina Silva afirma que el nuevo aporte de 350 millones de reales de Noruega al Fondo Amazonia demuestra la confianza internacional en la reanudación de la política ambiental de Brasil, y defiende la gobernanza, la transparencia y la cooperación multilateral.",
+    "fr": "Marina Silva affirme que la nouvelle contribution de 350 millions de reais de la Norvège au Fonds Amazonie témoigne de la confiance internationale dans la reprise de la politique environnementale du Brésil, et plaide pour la gouvernance, la transparence et la coopération multilatérale.",
+    "ru": "Марина Силва заявляет, что новый взнос Норвегии в размере 350 млн реалов в Фонд Амазонии свидетельствует о доверии международного сообщества к возобновлению экологической политики Бразилии, и призывает к управлению, прозрачности и многосторонему сотрудничеству.",
+    "zh": "玛丽娜·席尔瓦表示，挪威向亚马逊基金新增3.5亿雷亚尔的出资，体现了国际社会对巴西恢复环境政策的信心，并呼吁加强治理、透明度和多边合作。",
+    "ar": "تقول مارينا سيلفا إن المساهمة الجديدة من النرويج بقيمة 350 مليون ريال برازيلي في صندوق الأمازون تعكس ثقة المجتمع الدولي في استئناف السياسة البيئية للبرازيل، وتدعو إلى الحوكمة والشفافية والتعاون المتعدد الأطراف."
+   },
+   "url": "https://x.com/MarinaSilva",
+   "tracks": [
+    "Finanças",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-10T13:55:00-03:00",
+   "lang": "pt",
+   "source_id": "x-marinasilva"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261110-cited-skea",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "12:54",
+   "text": "NEW – Cited: WMO heat warning | Skea's COP31 appeal | Global carbon budget. Written by @rtmcswee.carbonbrief.org and @ayeshatandon.carbonbrief.org. Edited by @ceciliakeating.carbonbrief.org. Read here: buff.ly/nMsl2mS. Subscribe here: carbonbrief.org/newsletters",
+   "summary": "Newsletter 'Cited' do Carbon Brief de 10 de novembro: alerta de calor da OMM, apelo de Jim Skea (IPCC) à COP31 e o orçamento global de carbono.",
+   "summary_i18n": {
+    "en": "Carbon Brief's 'Cited' newsletter of 10 November: WMO heat warning, Skea's appeal to COP31 and the global carbon budget.",
+    "es": "Boletín 'Cited' de Carbon Brief del 10 de noviembre: alerta de calor de la OMM, llamamiento de Skea (IPCC) a la COP31 y presupuesto mundial de carbono.",
+    "fr": "Lettre d'information « Cited » de Carbon Brief du 10 novembre : alerte chaleur de l'OMM, appel de Skea (GIEC) à la COP31 et budget carbone mondial.",
+    "ru": "Рассылка Carbon Brief «Cited» от 10 ноября: предупреждение ВМО о жаре, обращение Скиа (МГЭИК) к КС-31 и глобальный углеродный бюджет.",
+    "zh": "Carbon Brief 11月10日《Cited》简报：世界气象组织高温预警、斯基（IPCC）对COP31的呼吁以及全球碳预算。",
+    "ar": "نشرة «Cited» من Carbon Brief بتاريخ 10 نوفمبر: تحذير المنظمة العالمية للأرصاد الجوية من الحرارة، ونداء سكيا (الهيئة الحكومية الدولية المعنية بتغير المناخ) إلى COP31، والميزانية الكربونية العالمية."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzxsfvln4k2q",
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-10T13:55:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "x-turkiyecop31-20261110-acwa-parceiro",
    "kind": "post",
    "platform": "x",
@@ -8973,11 +9029,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T12:44:48-03:00",
-  "label": "10 nov 2026, 12:44 (Brasília)",
-  "accounts_checked": 30,
+  "timestamp": "2026-11-10T13:55:00-03:00",
+  "label": "10 nov 2026, 13:55 (Brasília)",
+  "accounts_checked": 29,
   "blocked": 1,
-  "new_items": 4,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
