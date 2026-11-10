@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T17:58+03:00",
+ "generated_at": "2026-11-10T18:58+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-10T06:16:42-03:00",
-  "social_round": "2026-11-10T11:45:00-03:00",
+  "web_round": "2026-11-10T12:20:00-03:00",
+  "social_round": "2026-11-10T12:44:48-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 82,
-  "stories": 73,
+  "candidates": 88,
+  "stories": 79,
   "top": 8,
   "publishers": [
    "350.org",
@@ -35,8 +35,10 @@
    "Presidência da COP31 (Türkiye)",
    "UNEP",
    "UNFCCC",
+   "WBCSD",
    "WMO",
-   "WRI"
+   "WRI",
+   "iCS (Instituto Clima e Sociedade)"
   ],
   "access_gaps": [
    {
@@ -52,17 +54,17 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "sem datas na listagem"
+    "note": "sem listagem datada"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "só devolveu post de 2022; sem listagem datada"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error"
    }
   ]
  },
@@ -151,6 +153,41 @@
     ]
    },
    {
+    "id": "st-unfccc-2026-11-10-gst2-launch-message",
+    "section": "negotiations",
+    "score": 0.85,
+    "lead": {
+     "id": "unfccc-2026-11-10-gst2-launch-message",
+     "title": "Message to Parties and observers: Ministerial High-Level event on the launch of the Second Global Stocktake",
+     "url": "https://unfccc.int/documents/663816",
+     "publisher": "UNFCCC",
+     "author": "UNFCCC secretariat",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "GST2 e IPCC"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Notificação da secretaria da UNFCCC a Partes e observadores sobre o evento ministerial de alto nível para o lançamento do segundo Balanço Global (GST2). Indica que o início formal do GST2 está na agenda da COP31. Resumo baseado apenas no título do documento.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNFCCC secretariat notification to Parties and observers about the ministerial high-level event on the launch of the Second Global Stocktake (GST2). It indicates that the formal start of GST2 is on the COP31 agenda. Summary based only on the document title.",
+      "es": "Notificación de la secretaría de la CMNUCC a las Partes y observadores sobre el evento ministerial de alto nivel para el lanzamiento del segundo Balance Mundial (GST2). Indica que el inicio formal del GST2 figura en la agenda de la COP31. Resumen basado únicamente en el título del documento.",
+      "fr": "Notification du secrétariat de la CCNUCC aux Parties et observateurs concernant l'événement ministériel de haut niveau pour le lancement du deuxième bilan mondial (GST2). Elle indique que le lancement officiel du GST2 est inscrit à l'ordre du jour de la COP31. Résumé fondé uniquement sur le titre du document.",
+      "ru": "Уведомление секретариата РКИК ООН для Сторон и наблюдателей о министерском мероприятии высокого уровня по запуску второго глобального подведения итогов (GST2). Указывает, что официальный старт GST2 включён в повестку COP31. Резюме основано только на названии документа.",
+      "zh": "《联合国气候变化框架公约》秘书处致缔约方和观察员的通知，涉及第二次全球盘点（GST2）启动的部长级高级别活动。表明 GST2 的正式启动已列入 COP31 议程。摘要仅依据文件标题。",
+      "ar": "إشعار من أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ إلى الأطراف والمراقبين حول الحدث الوزاري الرفيع المستوى لإطلاق الحصيلة العالمية الثانية (GST2). ويشير إلى أن البدء الرسمي لـ GST2 مدرج على جدول أعمال COP31. الملخص مبني على عنوان الوثيقة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
     "id": "st-climate-home-news-2026-11-10-loan-repayments",
     "section": "negotiations",
     "score": 0.85,
@@ -187,43 +224,6 @@
     ]
    },
    {
-    "id": "st-unfccc-2026-11-09-cop31-supercharge-solutions",
-    "section": "action",
-    "score": 0.8,
-    "lead": {
-     "id": "unfccc-2026-11-09-cop31-supercharge-solutions",
-     "title": "\"COP31 must supercharge solutions\" (UN Climate Chief on opening day of COP31)",
-     "url": "https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31",
-     "publisher": "UNFCCC",
-     "author": "Secretariado da UNFCCC (Simon Stiell)",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Eletrificação",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Na abertura da COP31 em Antalya, Simon Stiell, o presidente Murat Kurum e o presidente das negociações Chris Bowen pediram implementação mais rápida dos compromissos. Stiell afirmou que 90% dos grandes projetos de renováveis já são mais baratos que as alternativas fósseis;",
-     "collected_at": "2026-11-10T00:16:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At the opening of COP31 in Antalya, Simon Stiell, President Murat Kurum and Negotiations President Chris Bowen called for faster implementation of commitments. Stiell said 90% of large renewable projects are now cheaper than fossil alternatives;",
-      "es": "En la apertura de la COP31 en Antalya, Simon Stiell, el Presidente Murat Kurum y el Presidente de las negociaciones Chris Bowen pidieron una implementación más rápida de los compromisos. Stiell afirmó que el 90% de los grandes proyectos de energías renovables ya son más baratos que las alternativas fósiles;",
-      "fr": "À l'ouverture de la COP31 à Antalya, Simon Stiell, le Président Murat Kurum et le Président des négociations Chris Bowen ont appelé à une mise en œuvre plus rapide des engagements. M. Stiell a affirmé que 90 % des grands projets d'énergies renouvelables sont désormais moins chers que les solutions fossiles ; M.",
-      "ru": "На открытии COP31 в Анталье Саймон Стилл, Президент Мурат Курум и Председатель переговоров Крис Боуэн призвали ускорить выполнение обязательств. Стилл заявил, что 90% крупных проектов в области возобновляемой энергетики уже дешевле ископаемых альтернатив;",
-      "zh": "在安塔利亚举行的COP31开幕式上，西蒙·斯蒂尔、大会主席穆拉特·库鲁姆和谈判主席克里斯·鲍恩呼吁加快落实各项承诺。斯蒂尔表示，90%的大型可再生能源项目现已比化石能源替代方案更便宜；库鲁姆将COP31定位为“落实之COP”，并提议到2035年将电力在终端能源消费中的占比提高到35%。鲍恩警告称，世界仍朝着约2.6°C的升温轨迹前进，而最需要气候资金的国家获得的资金最少。涉及主席国与东道国、电气化和资金议题。",
-      "ar": "في افتتاح مؤتمر الأطراف الحادي والثلاثين في أنطاليا، دعا سايمون ستيل والرئيس مراد قوروم ورئيس المفاوضات كريس بوين إلى تسريع تنفيذ الالتزامات. وقال ستيل إن 90% من مشاريع الطاقة المتجددة الكبيرة أصبحت أرخص من البدائل الأحفورية؛ ووصف قوروم المؤتمر بأنه «مؤتمر التنفيذ» واقترح رفع حصة الكهرباء إلى 35% من الاستهلاك النهائي…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC"
-    ]
-   },
-   {
     "id": "st-carbon-brief-2026-11-10-global-carbon-budget",
     "section": "negotiations",
     "score": 0.765,
@@ -257,6 +257,42 @@
     "related": [],
     "publishers": [
      "Carbon Brief"
+    ]
+   },
+   {
+    "id": "st-ics-2026-11-09-tfff-painel",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "ics-2026-11-09-tfff-painel",
+     "title": "Implementação do TFFF é tema de painel na COP 31",
+     "url": "https://climaesociedade.org/implementacao-do-tfff-e-tema-de-painel-na-cop-31/",
+     "publisher": "iCS (Instituto Clima e Sociedade)",
+     "author": "iCS",
+     "published": "2026-11-09",
+     "language": "pt",
+     "tracks": [
+      "Florestas",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Nota do iCS informa que a implementação do TFFF (Fundo Florestas Tropicais para Sempre) é tema de painel na COP31. Liga-se à agenda de florestas e de financiamento. Resumo baseado apenas no título e na listagem.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "iCS note says implementation of the TFFF (Tropical Forest Forever Facility) is the subject of a panel at COP31. It links to the forests and finance agendas. Summary based only on the title and the listing.",
+      "es": "Nota del iCS informa que la implementación del TFFF (Fondo Bosques Tropicales para Siempre) es tema de un panel en la COP31. Se vincula con las agendas de bosques y financiamiento. Resumen basado únicamente en el título y el listado.",
+      "fr": "Note de l'iCS indiquant que la mise en œuvre du TFFF (Fonds pour les forêts tropicales pour toujours) fait l'objet d'un panel à la COP31. Elle se rattache aux agendas forêts et financement. Résumé fondé uniquement sur le titre et la liste.",
+      "ru": "Заметка iCS сообщает, что реализация TFFF (Фонд «Тропические леса навсегда») станет темой панели на COP31. Связана с повестками лесов и финансирования. Резюме основано только на заголовке и списке.",
+      "zh": "iCS 的稿件称，TFFF（热带森林永续基金）的落实将成为 COP31 上一场小组讨论的主题，与森林和资金议题相关。摘要仅依据标题和列表。",
+      "ar": "تفيد مذكرة من iCS بأن تنفيذ TFFF (مرفق الغابات الاستوائية للأبد) هو موضوع حلقة نقاش في COP31. وترتبط بمساري الغابات والتمويل. الملخص مبني على العنوان والقائمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "iCS (Instituto Clima e Sociedade)"
     ]
    },
    {
@@ -356,76 +392,6 @@
     "related": [],
     "publishers": [
      "ICC"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261109-do-lago-abertura",
-    "section": "negotiations",
-    "score": 0.516,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261109-do-lago-abertura",
-     "title": "enb.iisd.org: #COP31 opens on Monday, with #COP30 President André Corrêa do Lago reiterating the need for urgent action on…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzukuswhqk2p",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-09",
-     "time": "06:01",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Florestas",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB registra a abertura da COP31, com o presidente da COP30, André Corrêa do Lago, defendendo ação urgente e destacando os mapas do caminho da Presidência sobre transição dos fósseis e desmatamento.",
-     "collected_at": "2026-11-09T06:55:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB covers the opening of COP31, with COP30 President André Corrêa do Lago calling for urgent action and highlighting the Presidency roadmaps on transitioning away from fossil fuels and halting deforestation.",
-      "es": "El ENB cubre la apertura de la COP31, con el Presidente de la COP30, André Corrêa do Lago, pidiendo acción urgente y destacando las hojas de ruta de la Presidencia sobre la transición para dejar atrás los combustibles fósiles y detener la deforestación.",
-      "fr": "L'ENB couvre l'ouverture de la COP31, le président de la COP30, André Corrêa do Lago, appelant à une action urgente et soulignant les feuilles de route de la présidence sur la transition hors des combustibles fossiles et l'arrêt de la déforestation.",
-      "ru": "ENB освещает открытие КС-31: Председатель КС-30 Андре Корреа ду Лаго призвал к срочным действиям и выделил дорожные карты Президентства по отказу от ископаемого топлива и прекращению обезлесения.",
-      "zh": "ENB报道COP31开幕:COP30主席安德烈·科雷亚·杜·拉戈呼吁紧急行动,并强调主席团关于转型脱离化石燃料和遏制毁林的路线图。",
-      "ar": "تغطي ENB افتتاح COP31، حيث دعا رئيس COP30 أندريه كوريا دو لاغو إلى عمل عاجل وسلّط الضوء على خرائط طريق الرئاسة بشأن التحول بعيدًا عن الوقود الأحفوري ووقف إزالة الغابات."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261109-do-lago-bussola-moral",
-      "title": "@turkiyecop31: Climate action must be guided by a clear moral compass, with people and science at its heart. Speaking at the #COP31…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/Dfh5Lw_s0Q9/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-09",
-      "time": "14:42",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "Na cerimônia de abertura da COP31, o presidente da COP30, André Corrêa do Lago, defendeu uma bússola moral com pessoas e ciência no centro, reconheceu o compromisso da presidência da COP31 e pediu cooperação contínua e ação climática urgente.",
-      "collected_at": "2026-11-09T15:25:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "At the COP31 Opening Ceremony, COP30 President André Corrêa do Lago called for a clear moral compass with people and science at its heart, recognised the commitment of the COP31 Presidency and urged continued cooperation and urgent climate action.",
-       "es": "En la ceremonia de apertura de la COP31, el presidente de la COP30, André Corrêa do Lago, pidió una brújula moral con las personas y la ciencia en el centro, reconoció el compromiso de la Presidencia de la COP31 y reclamó cooperación continua y acción climática urgente.",
-       "fr": "Lors de la cérémonie d'ouverture de la COP31, le président de la COP30, André Corrêa do Lago, a appelé à une boussole morale plaçant les personnes et la science au cœur de l'action, a salué l'engagement de la présidence de la COP31 et demandé une coopération continue et une action climatique urgente.",
-       "ru": "На церемонии открытия КС-31 президент КС-30 Андре Корреа ду Лago призвал к чёткому моральному ориентиру, в центре которого люди и наука, отметил приверженность президентства КС-31 и призвал к продолжению сотрудничества и срочным климатическим действиям.",
-       "zh": "在COP31开幕式上，COP30主席安德烈·科雷亚·多·拉戈呼吁以人和科学为核心、秉持明确的道德指南针，肯定了COP31主席团的承诺，并呼吁持续合作和采取紧急气候行动。",
-       "ar": "في حفل افتتاح مؤتمر الأطراف الحادي والثلاثين، دعا رئيس مؤتمر الأطراف الثلاثين أندريه كوريا دو لاغو إلى بوصلة أخلاقية واضحة تضع الناس والعلم في صميمها، وأشاد بالتزام رئاسة المؤتمر، ودعا إلى مواصلة التعاون واتخاذ إجراءات مناخية عاجلة."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "IISD / ENB",
-     "Presidência da COP31 (Türkiye)"
     ]
    }
   ],
@@ -708,6 +674,76 @@
     },
     "related": [],
     "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261109-do-lago-abertura",
+    "section": "negotiations",
+    "score": 0.516,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261109-do-lago-abertura",
+     "title": "enb.iisd.org: #COP31 opens on Monday, with #COP30 President André Corrêa do Lago reiterating the need for urgent action on…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzukuswhqk2p",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-09",
+     "time": "06:01",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Florestas",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB registra a abertura da COP31, com o presidente da COP30, André Corrêa do Lago, defendendo ação urgente e destacando os mapas do caminho da Presidência sobre transição dos fósseis e desmatamento.",
+     "collected_at": "2026-11-09T06:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB covers the opening of COP31, with COP30 President André Corrêa do Lago calling for urgent action and highlighting the Presidency roadmaps on transitioning away from fossil fuels and halting deforestation.",
+      "es": "El ENB cubre la apertura de la COP31, con el Presidente de la COP30, André Corrêa do Lago, pidiendo acción urgente y destacando las hojas de ruta de la Presidencia sobre la transición para dejar atrás los combustibles fósiles y detener la deforestación.",
+      "fr": "L'ENB couvre l'ouverture de la COP31, le président de la COP30, André Corrêa do Lago, appelant à une action urgente et soulignant les feuilles de route de la présidence sur la transition hors des combustibles fossiles et l'arrêt de la déforestation.",
+      "ru": "ENB освещает открытие КС-31: Председатель КС-30 Андре Корреа ду Лаго призвал к срочным действиям и выделил дорожные карты Президентства по отказу от ископаемого топлива и прекращению обезлесения.",
+      "zh": "ENB报道COP31开幕:COP30主席安德烈·科雷亚·杜·拉戈呼吁紧急行动,并强调主席团关于转型脱离化石燃料和遏制毁林的路线图。",
+      "ar": "تغطي ENB افتتاح COP31، حيث دعا رئيس COP30 أندريه كوريا دو لاغو إلى عمل عاجل وسلّط الضوء على خرائط طريق الرئاسة بشأن التحول بعيدًا عن الوقود الأحفوري ووقف إزالة الغابات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261109-do-lago-bussola-moral",
+      "title": "@turkiyecop31: Climate action must be guided by a clear moral compass, with people and science at its heart. Speaking at the #COP31…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfh5Lw_s0Q9/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "14:42",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Na cerimônia de abertura da COP31, o presidente da COP30, André Corrêa do Lago, defendeu uma bússola moral com pessoas e ciência no centro, reconheceu o compromisso da presidência da COP31 e pediu cooperação contínua e ação climática urgente.",
+      "collected_at": "2026-11-09T15:25:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "At the COP31 Opening Ceremony, COP30 President André Corrêa do Lago called for a clear moral compass with people and science at its heart, recognised the commitment of the COP31 Presidency and urged continued cooperation and urgent climate action.",
+       "es": "En la ceremonia de apertura de la COP31, el presidente de la COP30, André Corrêa do Lago, pidió una brújula moral con las personas y la ciencia en el centro, reconoció el compromiso de la Presidencia de la COP31 y reclamó cooperación continua y acción climática urgente.",
+       "fr": "Lors de la cérémonie d'ouverture de la COP31, le président de la COP30, André Corrêa do Lago, a appelé à une boussole morale plaçant les personnes et la science au cœur de l'action, a salué l'engagement de la présidence de la COP31 et demandé une coopération continue et une action climatique urgente.",
+       "ru": "На церемонии открытия КС-31 президент КС-30 Андре Корреа ду Лago призвал к чёткому моральному ориентиру, в центре которого люди и наука, отметил приверженность президентства КС-31 и призвал к продолжению сотрудничества и срочным климатическим действиям.",
+       "zh": "在COP31开幕式上，COP30主席安德烈·科雷亚·多·拉戈呼吁以人和科学为核心、秉持明确的道德指南针，肯定了COP31主席团的承诺，并呼吁持续合作和采取紧急气候行动。",
+       "ar": "في حفل افتتاح مؤتمر الأطراف الحادي والثلاثين، دعا رئيس مؤتمر الأطراف الثلاثين أندريه كوريا دو لاغو إلى بوصلة أخلاقية واضحة تضع الناس والعلم في صميمها، وأشاد بالتزام رئاسة المؤتمر، ودعا إلى مواصلة التعاون واتخاذ إجراءات مناخية عاجلة."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "IISD / ENB",
      "Presidência da COP31 (Türkiye)"
     ]
    },
@@ -1091,6 +1127,42 @@
   ],
   "action": [
    {
+    "id": "st-unfccc-2026-11-09-health-pandemic",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-09-health-pandemic",
+     "title": "\"Climate crisis is now a global health crisis of pandemic proportions\" (UN Climate Chief, WMO press conference)",
+     "url": "https://unfccc.int/news/un-climate-chief-climate-crisis-is-now-a-global-health-crisis-of-pandemic-proportions",
+     "publisher": "UNFCCC",
+     "author": "UNFCCC / Simon Stiell",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Nota da UNFCCC sobre a entrevista coletiva conjunta com a OMM em 9 de novembro, em que o secretário-executivo Simon Stiell afirma que a crise climática já é uma crise de saúde global de proporções pandêmicas. Reforça a mensagem de abertura da COP31 sobre saúde e implementação. Resumo baseado no título e na listagem.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNFCCC note on the joint press conference with the WMO on 9 November, in which Executive Secretary Simon Stiell says the climate crisis is now a global health crisis of pandemic proportions. It reinforces the COP31 opening message on health and implementation. Summary based on the title and the listing.",
+      "es": "Nota de la CMNUCC sobre la rueda de prensa conjunta con la OMM del 9 de noviembre, en la que el Secretario Ejecutivo Simon Stiell afirma que la crisis climática es ya una crisis de salud mundial de proporciones pandémicas. Refuerza el mensaje de apertura de la COP31 sobre salud e implementación.",
+      "fr": "Note de la CCNUCC sur la conférence de presse conjointe avec l'OMM du 9 novembre, où le Secrétaire exécutif Simon Stiell déclare que la crise climatique est désormais une crise sanitaire mondiale aux proportions pandémiques. Elle renforce le message d'ouverture de la COP31 sur la santé et la mise en œuvre.",
+      "ru": "Заметка РКИК ООН о совместной пресс-конференции с ВМО 9 ноября, на которой исполнительный секретарь Саймон Стилл заявил, что климатический кризис стал глобальным кризисом здравоохранения пандемических масштабов. Усиливает вступительный посыл COP31 о здоровье и реализации. Резюме основано на заголовке и списке.",
+      "zh": "《联合国气候变化框架公约》秘书处关于11月9日与世界气象组织联合新闻发布会的稿件，执行秘书西蒙·斯蒂尔表示气候危机已成为具有大流行规模的全球健康危机。这呼应了 COP31 开幕时关于健康与落实的信息。摘要依据标题和列表。",
+      "ar": "مذكرة من أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ عن المؤتمر الصحفي المشترك مع المنظمة العالمية للأرصاد الجوية في 9 نوفمبر، قال فيها الأمين التنفيذي سايمون ستيل إن أزمة المناخ باتت أزمة صحية عالمية بأبعاد جائحة. وهي تعزز رسالة افتتاح COP31 بشأن الصحة والتنفيذ. الملخص مبني على العنوان والقائمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
     "id": "st-cop30-presidency-daily-brief-2026-11-09",
     "section": "action",
     "score": 0.8,
@@ -1135,6 +1207,43 @@
     ]
    },
    {
+    "id": "st-unfccc-2026-11-09-cop31-supercharge-solutions",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-09-cop31-supercharge-solutions",
+     "title": "\"COP31 must supercharge solutions\" (UN Climate Chief on opening day of COP31)",
+     "url": "https://unfccc.int/news/cop31-must-supercharge-solutions-un-climate-chief-on-opening-day-of-cop31",
+     "publisher": "UNFCCC",
+     "author": "Secretariado da UNFCCC (Simon Stiell)",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Na abertura da COP31 em Antalya, Simon Stiell, o presidente Murat Kurum e o presidente das negociações Chris Bowen pediram implementação mais rápida dos compromissos. Stiell afirmou que 90% dos grandes projetos de renováveis já são mais baratos que as alternativas fósseis;",
+     "collected_at": "2026-11-10T00:16:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the opening of COP31 in Antalya, Simon Stiell, President Murat Kurum and Negotiations President Chris Bowen called for faster implementation of commitments. Stiell said 90% of large renewable projects are now cheaper than fossil alternatives;",
+      "es": "En la apertura de la COP31 en Antalya, Simon Stiell, el Presidente Murat Kurum y el Presidente de las negociaciones Chris Bowen pidieron una implementación más rápida de los compromisos. Stiell afirmó que el 90% de los grandes proyectos de energías renovables ya son más baratos que las alternativas fósiles;",
+      "fr": "À l'ouverture de la COP31 à Antalya, Simon Stiell, le Président Murat Kurum et le Président des négociations Chris Bowen ont appelé à une mise en œuvre plus rapide des engagements. M. Stiell a affirmé que 90 % des grands projets d'énergies renouvelables sont désormais moins chers que les solutions fossiles ; M.",
+      "ru": "На открытии COP31 в Анталье Саймон Стилл, Президент Мурат Курум и Председатель переговоров Крис Боуэн призвали ускорить выполнение обязательств. Стилл заявил, что 90% крупных проектов в области возобновляемой энергетики уже дешевле ископаемых альтернатив;",
+      "zh": "在安塔利亚举行的COP31开幕式上，西蒙·斯蒂尔、大会主席穆拉特·库鲁姆和谈判主席克里斯·鲍恩呼吁加快落实各项承诺。斯蒂尔表示，90%的大型可再生能源项目现已比化石能源替代方案更便宜；库鲁姆将COP31定位为“落实之COP”，并提议到2035年将电力在终端能源消费中的占比提高到35%。鲍恩警告称，世界仍朝着约2.6°C的升温轨迹前进，而最需要气候资金的国家获得的资金最少。涉及主席国与东道国、电气化和资金议题。",
+      "ar": "في افتتاح مؤتمر الأطراف الحادي والثلاثين في أنطاليا، دعا سايمون ستيل والرئيس مراد قوروم ورئيس المفاوضات كريس بوين إلى تسريع تنفيذ الالتزامات. وقال ستيل إن 90% من مشاريع الطاقة المتجددة الكبيرة أصبحت أرخص من البدائل الأحفورية؛ ووصف قوروم المؤتمر بأنه «مؤتمر التنفيذ» واقترح رفع حصة الكهرباء إلى 35% من الاستهلاك النهائي…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
     "id": "st-cop31-presidencia-2026-11-09-abertura",
     "section": "action",
     "score": 0.8,
@@ -1169,6 +1278,41 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-eig-2026-11-10-unfccc-statement",
+    "section": "action",
+    "score": 0.75,
+    "lead": {
+     "id": "eig-2026-11-10-unfccc-statement",
+     "title": "Statement by the Environmental Integrity Group",
+     "url": "https://unfccc.int/documents/663751",
+     "publisher": "UNFCCC",
+     "author": "Environmental Integrity Group",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Declaração do Environmental Integrity Group publicada no portal de documentos da UNFCCC em 10 de novembro, no início da COP31. O conteúdo não foi lido; o registro indica apenas a existência da posição do grupo de negociação. Resumo baseado apenas no título.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Statement by the Environmental Integrity Group posted on the UNFCCC documents portal on 10 November, early in COP31. The content was not read; the record only indicates the negotiating group's position exists. Summary based only on the title.",
+      "es": "Declaración del Grupo de Integridad Ambiental publicada en el portal de documentos de la CMNUCC el 10 de noviembre, al inicio de la COP31. No se leyó el contenido; el registro solo indica que existe la posición del grupo de negociación. Resumen basado únicamente en el título.",
+      "fr": "Déclaration du Groupe d'intégrité environnementale publiée sur le portail des documents de la CCNUCC le 10 novembre, au début de la COP31. Le contenu n'a pas été lu ; la fiche indique seulement l'existence de la position du groupe de négociation. Résumé fondé uniquement sur le titre.",
+      "ru": "Заявление Группы по экологической целостности, размещённое на портале документов РКИК ООН 10 ноября в начале COP31. Содержание не изучено; запись лишь подтверждает наличие позиции переговорной группы. Резюме основано только на заголовке.",
+      "zh": "环境完整性小组（EIG）11月10日在 COP31 初期发布于《公约》文件门户的声明。内容尚未阅读，记录仅表明该谈判集团的立场文件存在。摘要仅依据标题。",
+      "ar": "بيان صادر عن مجموعة النزاهة البيئية نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 10 نوفمبر، في بداية COP31. لم يُقرأ المحتوى؛ ويشير السجل فقط إلى وجود موقف المجموعة التفاوضية. الملخص مبني على العنوان فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
     ]
    },
    {
@@ -1379,6 +1523,42 @@
     "publishers": [
      "Murat Kurum",
      "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-wbcsd-2026-11-09-regenerative-landscapes",
+    "section": "action",
+    "score": 0.45,
+    "lead": {
+     "id": "wbcsd-2026-11-09-regenerative-landscapes",
+     "title": "Regenerative landscapes move from commitments to implementation, as companies call for greater co-investment",
+     "url": "https://www.wbcsd.org/news/regenerative-landscapes-move-from-commitments-to-implementation-as-companies-call-for-greater-co-investment/",
+     "publisher": "WBCSD",
+     "author": "WBCSD",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Florestas",
+      "Agenda de Ação"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Nota do WBCSD, datada de Antalya em 9 de novembro, diz que as paisagens regenerativas estão passando de compromissos para a implementação e que as empresas pedem mais coinvestimento. Dialoga com a trilha de Florestas e a Agenda de Ação em torno da COP31. Resumo baseado apenas no título e na listagem pública.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "WBCSD note datelined Antalya on 9 November says regenerative landscapes are moving from commitments to implementation and that companies are calling for greater co-investment. It bears on the Forests and Action Agenda tracks around COP31. Summary based only on the title and the public listing.",
+      "es": "Nota del WBCSD fechada en Antalya el 9 de noviembre indica que los paisajes regenerativos pasan de los compromisos a la implementación y que las empresas piden más coinversión. Se vincula con las vías de Bosques y Agenda de Acción en torno a la COP31. Resumen basado únicamente en el título y el listado público.",
+      "fr": "Note du WBCSD datée d'Antalya le 9 novembre indiquant que les paysages régénératifs passent des engagements à la mise en œuvre et que les entreprises appellent à davantage de co-investissement. Elle concerne les volets Forêts et Programme d'action autour de la COP31.",
+      "ru": "Заметка WBCSD с пометкой Анталья от 9 ноября сообщает, что регенеративные ландшафты переходят от обязательств к реализации, а компании призывают к большему совместному инвестированию. Относится к направлениям «Леса» и «Программа действий» вокруг COP31. Резюме основано только на заголовке и публичном списке.",
+      "zh": "WBCSD 11月9日发自安塔利亚的稿件称，再生景观正从承诺走向落实，企业呼吁加大共同投资。内容涉及 COP31 周边的森林与行动议程议题。摘要仅依据标题和公开列表。",
+      "ar": "تفيد مذكرة صادرة عن WBCSD من أنطاليا في 9 نوفمبر بأن المناظر الطبيعية التجديدية تنتقل من الالتزامات إلى التنفيذ، وأن الشركات تدعو إلى مزيد من الاستثمار المشترك. وهي تتصل بمساري الغابات وخطة العمل حول COP31. الملخص مبني على العنوان والقائمة العامة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WBCSD"
     ]
    },
    {
@@ -1681,6 +1861,44 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-acwa-parceiro",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-acwa-parceiro",
+     "title": "@turkiyecop31: We are delighted to welcome Acwa as the Climate Solutions Partner of #COP31. As we prepare to host COP31 in Antalya,…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkOCDdsnBe/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "12:23",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31: a Acwa passa a ser a parceira de soluções climáticas (Climate Solutions Partner) da COP31, como parceira de implementação.",
+     "collected_at": "2026-11-10T12:44:48-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency: Acwa joins as Climate Solutions Partner of COP31, as a delivery partner.",
+      "es": "Presidencia de la COP31: Acwa se incorpora como Socio de Soluciones Climáticas de la COP31, en calidad de socio de ejecución.",
+      "fr": "Présidence de la COP31 : Acwa devient partenaire des solutions climatiques de la COP31, en tant que partenaire de mise en œuvre.",
+      "ru": "Президентство КС-31: компания Acwa становится партнёром КС-31 по климатическим решениям, в роли партнёра по реализации.",
+      "zh": "COP31主席团：Acwa成为COP31气候解决方案合作伙伴，担任落实合作伙伴。",
+      "ar": "رئاسة COP31: شركة Acwa تنضم بصفتها شريك الحلول المناخية لمؤتمر COP31، وشريكاً في التنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -3094,8 +3312,10 @@
    "cop31-presidency-2026-11-10-electrification-pledge",
    "icc-2026-11-09-bingo-opening-statement",
    "icccad-2026-11-10-neld-policy-brief",
+   "ics-2026-11-09-tfff-painel",
    "unfccc-2026-11-09-cop31-supercharge-solutions",
    "unfccc-2026-11-09-health-day-stiell",
+   "unfccc-2026-11-10-gst2-launch-message",
    "wmo-2026-11-09-state-of-climate-2026"
   ]
  }
