@@ -27,3 +27,4 @@ jobs:
           node tests/test_qa.mjs
           node tests/test_v11.mjs
           node tests/test_newsletter.mjs
+          node tests/test_briefing.mjs

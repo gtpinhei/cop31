@@ -871,7 +871,6 @@
  "d:ferramenta": "tool",
  "h216dfd40": "Today at COP31",
  "hc51d6a93": "Social pulse",
- "hd0524e53": "Developments selected by editorial curation, with what changed, why it matters and what to watch. Each entry carries sources and its level of verification, and is published only after human review. The raw feed from monitored accounts is under <a href=\"#pulso\">Social pulse</a>; everything the agents collect is under <a href=\"#atualizacoes\">Updates</a>.",
  "hcd02fe8c": "Daily curation starts with the opening of COP31 on 9 November. In the meantime, see <a href=\"#atualizacoes\">Updates</a>.",
  "h9bbc69fd": "The editorial curation could not be loaded. Reload the page.",
  "he9acbc46": "editorial curation",
@@ -1100,5 +1099,27 @@
  "j:nlBadEmail": "Please check the email address: it looks incomplete.",
  "j:nlNeedPref": "Choose at least one newsletter.",
  "j:nlPreviewOk": "Preview: the form is filled in correctly, but nothing was sent or stored. At launch, you would now receive an email to confirm your subscription.",
- "j:nlSent": "Almost there: confirm your subscription on the page that opened and then in the email you will receive."
+ "j:nlSent": "Almost there: confirm your subscription on the page that opened and then in the email you will receive.",
+ "hee40d731": "Today's selection of what monitored media, think tanks, civil society networks and official sources have already published on COP31: the original headline, a direct link and a short description attributed to each source, with no analysis of our own. Original contributions approved by the editors appear separately, under From the Commons. The raw stream from the accounts is in <a href=\"#pulso\">Social pulse</a>; everything the agents collect is in <a href=\"#atualizacoes\">Updates</a>.",
+ "h2dc729ec": "Essential reading",
+ "hacbe05b5": "Negotiations",
+ "hf3b0eff3": "Action and implementation",
+ "h207dc52e": "Civil society watch",
+ "h624dbacb": "From the Commons",
+ "j:brfMeta": "Updated {t} · {s} stories from {p} sources published since {d} · publication dates are the publishers' own",
+ "j:brfStale": "The agents' latest collection is more than 12 hours old ({t}). This is the last valid edition; it does not mean nothing happened.",
+ "j:brfNone": "No reporting or analysis from the monitored sources has been published since {d}. See Updates for the full history.",
+ "j:brfMore": "{n} more in this section",
+ "j:brfAlso": "Also covered by",
+ "j:brfMT": "description machine-translated",
+ "j:brfPost": "post on {p}",
+ "j:brfNote": "Links to already-public material from the sources in the monitoring registry; headlines in their original language, short descriptions summarising each source by the Navigator. Not our own analysis. Sources with limited access in this edition: {g}.",
+ "j:brfNoteOk": "Links to already-public material from the sources in the monitoring registry; headlines in their original language, short descriptions summarising each source by the Navigator. Not our own analysis.",
+ "j:brfTypes": [
+  "reporting",
+  "analysis",
+  "position",
+  "official statement",
+  "document"
+ ]
 }

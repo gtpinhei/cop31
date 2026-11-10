@@ -298,6 +298,19 @@ a:hover{text-decoration-color:var(--un)}
 .today-head h3{margin:0 !important;font-family:var(--font-ui);font-size:15px;letter-spacing:.02em;text-transform:none}
 .today-head .t-sub{font-family:var(--font-ui);font-size:12.5px;color:var(--fg-3)}
 .today-list{display:flex;flex-direction:column;gap:12px}
+.brf{margin:4px 0 28px}.brf-meta{font-family:var(--font-ui);font-size:13px;color:var(--fg-3);margin:0 0 14px}.brf-stale{font-family:var(--font-ui);font-size:13.5px;background:var(--p1-wash);color:var(--p1-ink);border-radius:8px;padding:8px 12px}
+.brf-sec{margin:0 0 26px}.brf-h{font-family:var(--font-ui);font-size:13px !important;text-transform:uppercase;letter-spacing:.07em;color:var(--fg-3);margin:0 0 10px !important;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.brf-list{display:grid;gap:12px}.brf-sec[data-sec=essential] .brf-list{grid-template-columns:repeat(auto-fill,minmax(270px,1fr))}
+.brf-card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;min-width:0;display:flex;flex-direction:column;gap:6px}
+.brf-sec[data-sec=essential] .brf-card{border-top:3px solid var(--today)}
+.brf-k{font-family:var(--font-ui);font-size:12px;color:var(--fg-3);margin:0;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}.brf-pub{font-weight:700;color:var(--fg-2)}
+.brf-t{font-family:var(--font-ui);font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:1px 6px;background:var(--surface-2);color:var(--fg-2)}
+.brf-t.t-official,.brf-t.t-document{background:var(--un-wash);color:var(--un)}.brf-t.t-advocacy{background:var(--p2-wash);color:var(--p2-ink)}.brf-t.t-reporting{background:var(--sea-wash);color:var(--sea-ink)}
+.brf-card h4{margin:0 !important;font-size:16.5px !important;line-height:1.3;font-family:var(--font-body)}.brf-card h4 a{color:var(--fg);text-decoration:none}.brf-card h4 a:hover{text-decoration:underline}
+.brf-sec[data-sec=essential] .brf-card h4{font-size:18px !important}
+.brf-d{margin:0;font-size:14.5px;line-height:1.5;color:var(--fg-2)}.brf-mt,.brf-also{font-family:var(--font-ui);font-size:12px;color:var(--fg-3);margin:0}.brf-also a{color:var(--fg-3)}
+.brf-more{font-family:var(--font-ui);font-size:13px;margin-top:10px}.brf-more summary{cursor:pointer;color:var(--un);font-weight:600}.brf-more .brf-list{margin-top:10px}
+.brf-note{font-family:var(--font-ui);font-size:12.5px;color:var(--fg-3);line-height:1.5;border-top:1px solid var(--line);padding-top:10px}
 .ti{background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--today);border-radius:0 0 8px 8px;padding:14px 16px;min-width:0}
 .ti.draft{border-top-style:dashed;opacity:.92}
 .ti-meta{font-family:var(--font-ui);font-size:12.5px;color:var(--fg-3);display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 6px}
@@ -428,7 +441,7 @@ a:hover{text-decoration-color:var(--un)}
 </header>
 <div class="wrap">
   <nav class="rail" aria-label="Seções do guia"><a class="nav-item" href="#hoje" data-view="hoje"><span class="nav-label">Hoje na COP31 <span class="num nav-live" id="navTodayCount" hidden></span></span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#panorama" data-view="panorama"><span class="nav-label">Panorama</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#atualizacoes" data-view="atualizacoes"><span class="nav-label">Atualizações <span class="num nav-live" id="navFeedCount" hidden></span></span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#pulso" data-view="pulso"><span class="nav-label">Pulso social</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#belem" data-view="belem"><span class="nav-label">De Belém a Antalya</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#testes" data-view="testes"><span class="nav-label">Três testes</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#mapa" data-view="mapa"><span class="nav-label">Mapa das negociações</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#radar" data-view="radar"><span class="nav-label">Radar pré-COP</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#thinktanks" data-view="thinktanks"><span class="nav-label">Think tanks</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#agenda" data-view="agenda"><span class="nav-label">Agenda de Ação</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#posicoes" data-view="posicoes"><span class="nav-label">Posições <span class="num nav-count">(341)</span></span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#brasil" data-view="brasil"><span class="nav-label">Brasil</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#quem" data-view="quem"><span class="nav-label">Quem é quem</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#calendario" data-view="calendario"><span class="nav-label">Calendário</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#terreno" data-view="terreno"><span class="nav-label">No terreno</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#glossario" data-view="glossario"><span class="nav-label">Glossário</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#fontes" data-view="fontes"><span class="nav-label">Fontes</span><span class="nav-hits num" hidden></span></a><a class="nav-item" href="#newsletter" data-view="newsletter" data-nl hidden><span class="nav-label">Newsletter</span><span class="nav-hits num" hidden></span></a></nav>
-  <main class="main" id="main"><p class="q-status" id="qStatus" role="status" hidden></p><section class="view" id="view-hoje" data-view="hoje" hidden><h2 class="view-title">Hoje na COP31</h2><p class="intro">Desenvolvimentos selecionados pela curadoria editorial, com o que mudou, por que importa e o que observar. Cada entrada traz fontes e o grau de verificação, e só é publicada depois de revisão humana. O fluxo bruto das contas monitoradas está em <a href="#pulso">Pulso social</a>; tudo o que os agentes recolhem está em <a href="#atualizacoes">Atualizações</a>.</p><div class="preview-flag" id="todayPreviewFlag" hidden>Prévia local: rascunhos do acervo editorial privado, que não fazem parte do site publicado.</div><p class="today-legend" id="todayLegend" hidden></p><div class="today-list" id="todayList"></div><article class="art" id="todayArticle" hidden></article><div class="today-retr" id="todayRetr" hidden></div><p class="today-empty" id="todayEmpty" hidden>A curadoria diária começa com a abertura da COP31, em 9 de novembro. Enquanto isso, veja <a href="#atualizacoes">Atualizações</a>.</p><p class="empty" id="todayError" hidden>Não foi possível carregar a curadoria editorial. Recarregue a página.</p><aside class="nl-card" data-nl hidden><form class="nl-form nl-compact" data-nl-form data-nl-src="hoje" novalidate><p class="nl-h">Receba o briefing diário da COP31 por e-mail</p><p class="nl-sub">Só o que foi publicado e verificado aqui, no seu idioma. Gratuito, sem conta no site, cancelamento a qualquer momento.</p><p class="nl-preview" data-nl-preview hidden>Prévia: nada é enviado nem guardado.</p><div class="nl-row"><label class="nl-email"><span class="vh">E-mail</span><input type="email" data-k="email" required autocomplete="email" maxlength="254" placeholder="seu@email.org"></label><button type="submit" class="p-btn primary">Assinar</button></div><p class="nl-fine">Você receberá um e-mail para confirmar a inscrição. <a href="#newsletter">Mais opções</a> · <a href="#privacidade">Privacidade</a></p><p class="nl-msg" role="status" aria-live="polite" hidden></p></form></aside></section><section class="view" id="view-panorama" data-view="panorama" hidden><h2 class="view-title">Panorama: por que Antalya é diferente</h2><section class="today" id="todayTeaser" aria-labelledby="todayTeaserH" hidden><div class="today-head"><h3 id="todayTeaserH">Hoje na COP31</h3><span class="t-sub">curadoria editorial</span></div><div class="today-list" id="todayTeaserList"></div><p class="ti-more"><a href="#hoje">Ver todos os desenvolvimentos</a></p></section>
+  <main class="main" id="main"><p class="q-status" id="qStatus" role="status" hidden></p><section class="view" id="view-hoje" data-view="hoje" hidden><h2 class="view-title">Hoje na COP31</h2><p class="intro">A seleção do dia do que já foi publicado sobre a COP31 por veículos, think tanks, redes da sociedade civil e fontes oficiais monitorados: manchete original, link direto e uma descrição curta atribuída a cada fonte, sem análise própria. Contribuições originais aprovadas pela editoria aparecem à parte, em Da comunidade. O fluxo bruto das contas está em <a href="#pulso">Pulso social</a>; tudo o que os agentes recolhem está em <a href="#atualizacoes">Atualizações</a>.</p><div class="brf" id="brf" hidden><p class="brf-meta" id="brfMeta"></p><p class="brf-stale" id="brfStale" hidden></p><section class="brf-sec" data-sec="essential" hidden><h3 class="brf-h">Leitura essencial</h3><div class="brf-list"></div></section><section class="brf-sec" data-sec="negotiations" hidden><h3 class="brf-h">Negociações</h3><div class="brf-list"></div></section><section class="brf-sec" data-sec="action" hidden><h3 class="brf-h">Ação e implementação</h3><div class="brf-list"></div></section><section class="brf-sec" data-sec="civil" hidden><h3 class="brf-h">Sociedade civil em foco</h3><div class="brf-list"></div></section><p class="brf-note" id="brfNote"></p></div><h3 class="brf-h brf-commons" id="commonsH" hidden>Da comunidade</h3><div class="preview-flag" id="todayPreviewFlag" hidden>Prévia local: rascunhos do acervo editorial privado, que não fazem parte do site publicado.</div><p class="today-legend" id="todayLegend" hidden></p><div class="today-list" id="todayList"></div><article class="art" id="todayArticle" hidden></article><div class="today-retr" id="todayRetr" hidden></div><p class="today-empty" id="todayEmpty" hidden>A curadoria diária começa com a abertura da COP31, em 9 de novembro. Enquanto isso, veja <a href="#atualizacoes">Atualizações</a>.</p><p class="empty" id="todayError" hidden>Não foi possível carregar a curadoria editorial. Recarregue a página.</p><aside class="nl-card" data-nl hidden><form class="nl-form nl-compact" data-nl-form data-nl-src="hoje" novalidate><p class="nl-h">Receba o briefing diário da COP31 por e-mail</p><p class="nl-sub">Só o que foi publicado e verificado aqui, no seu idioma. Gratuito, sem conta no site, cancelamento a qualquer momento.</p><p class="nl-preview" data-nl-preview hidden>Prévia: nada é enviado nem guardado.</p><div class="nl-row"><label class="nl-email"><span class="vh">E-mail</span><input type="email" data-k="email" required autocomplete="email" maxlength="254" placeholder="seu@email.org"></label><button type="submit" class="p-btn primary">Assinar</button></div><p class="nl-fine">Você receberá um e-mail para confirmar a inscrição. <a href="#newsletter">Mais opções</a> · <a href="#privacidade">Privacidade</a></p><p class="nl-msg" role="status" aria-live="polite" hidden></p></form></aside></section><section class="view" id="view-panorama" data-view="panorama" hidden><h2 class="view-title">Panorama: por que Antalya é diferente</h2><section class="today" id="todayTeaser" aria-labelledby="todayTeaserH" hidden><div class="today-head"><h3 id="todayTeaserH">Hoje na COP31</h3><span class="t-sub">curadoria editorial</span></div><div class="today-list" id="todayTeaserList"></div><p class="ti-more"><a href="#hoje">Ver todos os desenvolvimentos</a></p></section>
 <section class="glance" aria-label="Em resumo">
   <div class="glance-grid">
     <div class="g-cell"><span class="g-k">Quando</span><span class="g-v">9–20 de novembro de 2026</span></div>
@@ -1308,7 +1321,15 @@ a:hover{text-decoration-color:var(--un)}
     qNone:"Nenhum resultado para “{t}” neste idioma.", qSome:"“{t}”: resultados em {n} seções (números no menu).", qScope:"Buscar no guia, nas atualizações e no pulso social carregado",
     nlBadEmail:"Confira o e-mail: ele parece incompleto.", nlNeedPref:"Escolha ao menos uma newsletter.",
     nlPreviewOk:"Prévia: o formulário está correto, mas nada foi enviado nem guardado. No lançamento, você receberia agora um e-mail para confirmar a inscrição.",
-    nlSent:"Quase lá: confirme a inscrição na página que abriu e depois no e-mail que você vai receber."
+    nlSent:"Quase lá: confirme a inscrição na página que abriu e depois no e-mail que você vai receber.",
+    brfMeta:"Atualizado em {t} · {s} histórias de {p} fontes publicadas desde {d} · datas de publicação dos próprios veículos",
+    brfStale:"A coleta mais recente dos agentes tem mais de 12 horas ({t}). Esta é a última edição válida; ela não significa que não houve novidades.",
+    brfNone:"Nenhuma reportagem ou análise das fontes monitoradas foi publicada desde {d}. Veja Atualizações para o histórico completo.",
+    brfMore:"Mais {n} nesta seção", brfAlso:"Também cobriram", brfMT:"descrição em tradução automática",
+    brfTypes:["reportagem", "análise", "posicionamento", "comunicado oficial", "documento"],
+    brfPost:"post no {p}",
+    brfNote:"Links para material já público das fontes do registro de monitoramento; manchetes no idioma original, descrições curtas resumidas de cada fonte pelo Navegador. Não é análise própria. Fontes com acesso limitado nesta edição: {g}.",
+    brfNoteOk:"Links para material já público das fontes do registro de monitoramento; manchetes no idioma original, descrições curtas resumidas de cada fonte pelo Navegador. Não é análise própria."
   };
   /*i18n-js-end*/
   var J = J0, LD = {};
@@ -1719,7 +1740,49 @@ a:hover{text-decoration-color:var(--un)}
     var CLS = ["decisão", "sinal político", "anúncio", "disputa", "processo", "análise"];
     var FIELDS = ["headline", "summary", "what_happened", "what_changed", "why_it_matters", "watch_next", "open_questions"];
     var BASES = ["verified", "attributed", "analysis", "unverified"];
-    var PUB = [], DRAFTS = [], RETR = [], FEEDIX = null, ARTS = {}, loaded = false;
+    var PUB = [], DRAFTS = [], RETR = [], FEEDIX = null, ARTS = {}, loaded = false, BRF = null;
+    var brfBox = document.getElementById("brf"), commonsH = document.getElementById("commonsH");
+    function brfDesc(it){
+      var t = LANG !== "pt" && it.description_i18n && it.description_i18n[LANG];
+      return t ? {text: t, lang: LANG, mt: true} : {text: it.description || "", lang: "pt", mt: false};
+    }
+    function brfCard(st){
+      var it = st.lead, d = brfDesc(it), typ = (J.brfTypes || [])[["reporting", "analysis", "advocacy", "official", "document"].indexOf(it.content_type)] || "";
+      var plat = it.kind === "post" && it.platform ? F(J.brfPost, {p: ({x:"X", bluesky:"Bluesky", instagram:"Instagram"})[it.platform] || it.platform}) : "";
+      var also = (st.related || []).filter(function(r){ return /^https:\/\//.test(r.url || ""); });
+      return '<article class="brf-card"><p class="brf-k"><span class="brf-t t-' + esc(String(it.content_type || "")) + '">' + esc(typ) + '</span>'
+        + '<span class="brf-pub">' + esc(String(it.publisher || "")) + '</span><span>' + esc(stamp(it.published)) + '</span>' + (plat ? '<span>' + esc(plat) + '</span>' : '') + '</p>'
+        + '<h4 dir="auto"' + (it.language ? ' lang="' + esc(String(it.language)) + '"' : '') + '><a href="' + esc(String(it.url)) + '" target="_blank" rel="noopener">' + esc(String(it.title || "")) + '</a></h4>'
+        + (d.text ? '<p class="brf-d" dir="auto" lang="' + d.lang + '">' + esc(d.text) + '</p>' : '')
+        + (d.mt ? '<p class="brf-mt">' + esc(J.brfMT) + '</p>' : '')
+        + (also.length ? '<p class="brf-also">' + esc(J.brfAlso) + ': ' + also.slice(0, 4).map(function(r){ return '<a href="' + esc(String(r.url)) + '" target="_blank" rel="noopener">' + esc(String(r.publisher || host(r.url))) + '</a>'; }).join(", ") + '</p>' : '')
+        + '</article>';
+    }
+    function renderBriefing(){
+      var B = BRF;
+      brfBox.hidden = !B;
+      if (!B) return 0;
+      var secs = B.sections || {}, total = 0;
+      ["essential", "negotiations", "action", "civil"].forEach(function(k){
+        var box = brfBox.querySelector('.brf-sec[data-sec="' + k + '"]'), arr = (secs[k] || []).filter(function(st){ return st && st.lead && /^https:\/\//.test(st.lead.url || ""); });
+        total += arr.length;
+        box.hidden = arr.length === 0;                      // no filler: an empty section is not shown
+        var first = k === "essential" ? arr : arr.slice(0, 5), rest = k === "essential" ? [] : arr.slice(5);
+        box.querySelector(".brf-list").innerHTML = first.map(brfCard).join("");
+        var more = box.querySelector(".brf-more"); if (more) more.parentNode.removeChild(more);
+        if (rest.length) {                                   // the complete list of the section, expandable
+          more = document.createElement("details"); more.className = "brf-more";
+          more.innerHTML = '<summary>' + esc(F(J.brfMore, {n: rest.length})) + '</summary><div class="brf-list">' + rest.map(brfCard).join("") + '</div>';
+          box.appendChild(more);
+        }
+      });
+      var c = B.coverage || {}, w = B.window || {}, col = B.collection || {};
+      document.getElementById("brfMeta").textContent = total ? F(J.brfMeta, {t: stamp(B.generated_at), s: total, p: (c.publishers || []).length, d: stamp(w.from)}) : F(J.brfNone, {d: stamp(w.from)});
+      var st = document.getElementById("brfStale"); st.hidden = !col.stale; st.textContent = col.stale ? F(J.brfStale, {t: stamp(col.web_round || col.social_round)}) : "";
+      var gaps = (c.access_gaps || []).map(function(g){ return g.publisher; }).filter(function(v, i, a){ return v && a.indexOf(v) === i; });
+      document.getElementById("brfNote").textContent = gaps.length ? F(J.brfNote, {g: gaps.join(", ")}) : J.brfNoteOk;
+      return total;
+    }
     function approved(en){ return !!(en && en.status === "published" && en.approved_by && en.approved_at && (en.sources || []).some(function(s){ return s && s.verified === true; })); }
     function trans(en){
       if (LANG === "pt") return null;
@@ -1839,18 +1902,22 @@ a:hover{text-decoration-color:var(--un)}
       flag.hidden = !PREVIEW;
       var art = TODAY_ARG.art;
       artBox.hidden = !art; list.hidden = !!art;
-      if (art) { renderArticle(art); legend.hidden = true; empty.hidden = true; retrBox.hidden = true; }
+      if (art) { renderArticle(art); legend.hidden = true; empty.hidden = true; retrBox.hidden = true; brfBox.hidden = true; commonsH.hidden = true; }
       else {
         list.innerHTML = es.map(function(en){ return card(en, true); }).join("");
-        empty.hidden = es.length > 0;
+        var nb = renderBriefing();
+        commonsH.hidden = es.length === 0;                   // human-approved contributions, separately displayed
+        empty.hidden = es.length > 0 || !!BRF;
         var anyBasis = es.some(function(en){ return en.basis && Object.keys(en.basis).length; });
         legend.hidden = !anyBasis; legend.textContent = J.tLegend;
         retrBox.hidden = !RETR.length;
         retrBox.innerHTML = RETR.length ? '<h3>' + esc(J.tRetractedH) + '</h3>' + RETR.map(function(r){ return '<p>' + esc(F(J.tRetracted, {d:stamp(r.retracted_at), n:r.reason})) + '</p>'; }).join("") : "";
       }
-      teaser.hidden = pub.length === 0;
-      tList.innerHTML = pub.slice(0, 3).map(function(en){ return card(en, false); }).join("");
-      if (nav) { nav.hidden = pub.length === 0; nav.textContent = pub.length; }
+      var tops = (BRF && BRF.sections && BRF.sections.essential || []).filter(function(st){ return st && st.lead && /^https:\/\//.test(st.lead.url || ""); });
+      teaser.hidden = pub.length === 0 && tops.length === 0;
+      tList.innerHTML = pub.slice(0, 3).map(function(en){ return card(en, false); }).join("") + tops.slice(0, Math.max(0, 3 - pub.length)).map(brfCard).join("");
+      var nNav = pub.length + tops.length;
+      if (nav) { nav.hidden = nNav === 0; nav.textContent = nNav; }
       research();
     }
     onLang.push(render);
@@ -1867,6 +1934,8 @@ a:hover{text-decoration-color:var(--un)}
         if (!PREVIEW) return;
         return get("__private__/drafts.json").then(function(x){ DRAFTS = (x && x.entries || []).filter(function(en){ return en.status === "draft"; }); }, function(){});
       }).then(needFeed).then(function(){ loaded = true; render(); }, function(){ err.hidden = false; empty.hidden = true; });
+      // automated layer: links to public reporting (data/briefing.json, tools/briefing.py); never blocks the editorial cards
+      get("data/briefing.json").then(function(b){ BRF = b && b.schema === 1 && b.sections ? b : null; render(); }, function(){ BRF = null; });
     } catch (e) { err.hidden = false; }
   })();
 
