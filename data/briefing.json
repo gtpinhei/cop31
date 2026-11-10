@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T13:59+03:00",
+ "generated_at": "2026-11-10T14:58+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T06:16:42-03:00",
-  "social_round": "2026-11-10T07:50:00-03:00",
+  "social_round": "2026-11-10T08:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 74,
-  "stories": 67,
+  "candidates": 76,
+  "stories": 68,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1140,6 +1140,76 @@
     ]
    },
    {
+    "id": "st-instagram-muratkurum-20261110-eletrificacao-coletiva",
+    "section": "action",
+    "score": 0.484,
+    "lead": {
+     "id": "instagram-muratkurum-20261110-eletrificacao-coletiva",
+     "title": "@muratkurum: Avustralya İklim Değişikliği ve Enerji Bakanı, COP31 Müzakereler Başkanı Sayın Chris Bowen ve BM İklim Değişikliği…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfjt66BiKgP/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-10",
+     "time": "07:42",
+     "language": "tr",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Em entrevista coletiva com Chris Bowen e Simon Stiell, Murat Kurum destacou a eletrificação (transportes, edifícios e indústria) como prioridade da Agenda de Ação da COP31.",
+     "collected_at": "2026-11-10T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At a press conference with Chris Bowen and Simon Stiell, Murat Kurum highlighted electrification (transport, buildings and industry) as a priority of the COP31 Action Agenda.",
+      "es": "En una rueda de prensa con Chris Bowen y Simon Stiell, Murat Kurum destacó la electrificación (transporte, edificios e industria) como prioridad de la Agenda de Acción de la COP31.",
+      "fr": "Lors d'une conférence de presse avec Chris Bowen et Simon Stiell, Murat Kurum a souligné l'électrification (transports, bâtiments et industrie) comme priorité de l'Agenda d'action de la COP31.",
+      "ru": "На пресс-конференции с Крисом Боуэном и Саймоном Стиллом Мурат Курум выделил электрификацию (транспорт, здания и промышленность) как приоритет Повестки действий КС-31.",
+      "zh": "在与克里斯·鲍文和西蒙·斯蒂尔举行的新闻发布会上，穆拉特·库鲁姆强调电气化（交通、建筑和工业）是COP31行动议程的优先事项。",
+      "ar": "في مؤتمر صحفي مع كريس بوين وسايمون ستيل، أبرز مراد كوروم كهربة قطاعات النقل والمباني والصناعة بوصفها أولوية في أجندة العمل لمؤتمر الأطراف الحادي والثلاثين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261110-coletiva-eletrificacao",
+      "title": "@turkiyecop31: COP31 President Murat Kurum, alongside COP31 President of Negotiations Chris Bowen and UNFCCC Executive Secretary…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjzBRHDLld/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "08:27",
+      "language": "en",
+      "tracks": [
+       "Eletrificação",
+       "Agenda de Ação",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Kurum, Bowen e Stiell, em coletiva conjunta, destacaram a eletrificação como prioridade da Agenda de Ação da COP31, em transporte, edificações e indústria.",
+      "collected_at": "2026-11-10T08:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "At a joint press conference, Kurum, Bowen and Stiell highlighted electrification as a priority of the COP31 Action Agenda, across transport, buildings and industry.",
+       "es": "En una rueda de prensa conjunta, Kurum, Bowen y Stiell destacaron la electrificación como prioridad de la Agenda de Acción de la COP31, en transporte, edificios e industria.",
+       "fr": "Lors d'une conférence de presse conjointe, Kurum, Bowen et Stiell ont souligné l'électrification comme priorité de l'Agenda d'action de la COP31, dans les transports, les bâtiments et l'industrie.",
+       "ru": "На совместной пресс-конференции Курум, Боуэн и Стилл назвали электрификацию приоритетом Повестки действий КС-31 в сфере транспорта, зданий и промышленности.",
+       "zh": "库鲁姆、鲍恩和斯蒂尔在联合新闻发布会上强调，电气化是COP31行动议程的优先事项，涵盖交通、建筑和工业。",
+       "ar": "في مؤتمر صحفي مشترك، أبرز كوروم وبوين وستيل كهربة القطاعات كأولوية في جدول أعمال العمل لمؤتمر الأطراف الحادي والثلاثين، في النقل والمباني والصناعة."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-instagram-muratkurum-20261110-apoio-ex-presidencias",
     "section": "action",
     "score": 0.484,
@@ -1509,6 +1579,43 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261110-kurum-implementacao",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-kurum-implementacao",
+     "title": "@turkiyecop31: “The true value of our shared decisions lies in putting them into action.” -COP31 President Murat Kurum “Ortak…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfj0PQ4s4PI/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "08:37",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum, presidente da COP31: o verdadeiro valor das decisões coletivas está em colocá-las em prática.",
+     "collected_at": "2026-11-10T08:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Kurum: the true value of our shared decisions lies in putting them into action.",
+      "es": "El presidente de la COP31, Kurum: el verdadero valor de las decisiones compartidas está en ponerlas en práctica.",
+      "fr": "Le président de la COP31, Kurum : la vraie valeur des décisions communes réside dans leur mise en œuvre.",
+      "ru": "Президент КС-31 Курум: подлинная ценность общих решений — в их претворении в жизнь.",
+      "zh": "COP31主席库鲁姆表示：共同决定的真正价值在于付诸行动。",
+      "ar": "رئيس مؤتمر الأطراف الحادي والثلاثين كوروم: القيمة الحقيقية لقراراتنا المشتركة تكمن في تنفيذها."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-instagram-turkiyecop31-20261110-stiell-cop-implementacao",
     "section": "action",
     "score": 0.413,
@@ -1544,44 +1651,6 @@
     "related": [],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-muratkurum-20261110-eletrificacao-coletiva",
-    "section": "action",
-    "score": 0.413,
-    "lead": {
-     "id": "instagram-muratkurum-20261110-eletrificacao-coletiva",
-     "title": "@muratkurum: Avustralya İklim Değişikliği ve Enerji Bakanı, COP31 Müzakereler Başkanı Sayın Chris Bowen ve BM İklim Değişikliği…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/Dfjt66BiKgP/",
-     "publisher": "Murat Kurum",
-     "published": "2026-11-10",
-     "time": "07:42",
-     "language": "tr",
-     "tracks": [
-      "Eletrificação",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "Em entrevista coletiva com Chris Bowen e Simon Stiell, Murat Kurum destacou a eletrificação (transportes, edifícios e indústria) como prioridade da Agenda de Ação da COP31.",
-     "collected_at": "2026-11-10T07:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At a press conference with Chris Bowen and Simon Stiell, Murat Kurum highlighted electrification (transport, buildings and industry) as a priority of the COP31 Action Agenda.",
-      "es": "En una rueda de prensa con Chris Bowen y Simon Stiell, Murat Kurum destacó la electrificación (transporte, edificios e industria) como prioridad de la Agenda de Acción de la COP31.",
-      "fr": "Lors d'une conférence de presse avec Chris Bowen et Simon Stiell, Murat Kurum a souligné l'électrification (transports, bâtiments et industrie) comme priorité de l'Agenda d'action de la COP31.",
-      "ru": "На пресс-конференции с Крисом Боуэном и Саймоном Стиллом Мурат Курум выделил электрификацию (транспорт, здания и промышленность) как приоритет Повестки действий КС-31.",
-      "zh": "在与克里斯·鲍文和西蒙·斯蒂尔举行的新闻发布会上，穆拉特·库鲁姆强调电气化（交通、建筑和工业）是COP31行动议程的优先事项。",
-      "ar": "في مؤتمر صحفي مع كريس بوين وسايمون ستيل، أبرز مراد كوروم كهربة قطاعات النقل والمباني والصناعة بوصفها أولوية في أجندة العمل لمؤتمر الأطراف الحادي والثلاثين."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Murat Kurum"
     ]
    },
    {
