@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T19:58+03:00",
+ "generated_at": "2026-11-10T20:58+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T12:20:00-03:00",
-  "social_round": "2026-11-10T13:55:00-03:00",
+  "social_round": "2026-11-10T14:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 88,
-  "stories": 79,
+  "candidates": 89,
+  "stories": 80,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1861,6 +1861,44 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-koc-painel-kurum",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-koc-painel-kurum",
+     "title": "@turkiyecop31: At the high-level panel ‘From Commitments to Action: The Role of Business and Policy in the Global Climate Agenda’,…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkcuFhsn9b/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "14:31",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31: em painel de alto nível promovido pela Koç Holding, parceira global de negócios, o presidente Murat Kurum reafirmou o foco da conferência na implementação e a cooperação entre governos e setor privado para manter a meta de 1,5°C ao alcance.",
+     "collected_at": "2026-11-10T14:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency: at a high-level panel hosted by Global Business Partner Koç Holding, COP31 President Murat Kurum reaffirmed the conference's focus on implementation and cooperation between policymakers and the private sector to keep the 1.5°C goal within reach.",
+      "es": "Presidencia de la COP31: en un panel de alto nivel organizado por Koç Holding, socio empresarial mundial, el presidente Murat Kurum reafirmó el enfoque de la conferencia en la implementación y la cooperación entre responsables políticos y sector privado para mantener al alcance el objetivo de 1,5 °C.",
+      "fr": "Présidence de la COP31 : lors d'un panel de haut niveau organisé par Koç Holding, partenaire commercial mondial, le président Murat Kurum a réaffirmé l'orientation de la conférence vers la mise en œuvre et la coopération entre décideurs et secteur privé pour garder l'objectif de 1,5 °C à portée de main.",
+      "ru": "Президентство КС-31: на панели высокого уровня, организованной глобальным деловым партнёром Koç Holding, президент Мурат Курум подтвердил ориентацию конференции на выполнение решений и сотрудничество между директивными органами и частным сектором ради сохранения достижимости цели в 1,5°C.",
+      "zh": "COP31主席国:在全球商业合作伙伴Koç Holding举办的高级别小组讨论会上,主席穆拉特·库鲁姆重申大会以落实为重点,并强调决策者与私营部门合作,以确保1.5°C目标仍可实现。",
+      "ar": "رئاسة COP31: في حلقة نقاش رفيعة المستوى نظمتها شركة Koç Holding، الشريك التجاري العالمي، أكد الرئيس مراد قوروم تركيز المؤتمر على التنفيذ والتعاون بين صانعي السياسات والقطاع الخاص للإبقاء على هدف 1,5 درجة مئوية في المتناول."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
