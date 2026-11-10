@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T07:58+03:00",
+ "generated_at": "2026-11-10T08:03+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T00:16:00-03:00",
-  "social_round": "2026-11-09T22:46:00-03:00",
+  "social_round": "2026-11-10T01:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 54,
-  "stories": 52,
+  "candidates": 55,
+  "stories": 53,
   "top": 8,
   "publishers": [
    "350.org",
@@ -26,6 +26,7 @@
    "ICC",
    "IISD / ENB",
    "LDC Group",
+   "Lula",
    "MMA (Brasil)",
    "Murat Kurum",
    "Presidência da COP31 (Türkiye)",
@@ -1835,6 +1836,44 @@
     "related": [],
     "publishers": [
      "Murat Kurum"
+    ]
+   },
+   {
+    "id": "st-instagram-lulaoficial-20261109-lula-missao-cop31",
+    "section": "action",
+    "score": 0.248,
+    "lead": {
+     "id": "instagram-lulaoficial-20261109-lula-missao-cop31",
+     "title": "@lulaoficial: Bom dia. Seguimos hoje para uma importante missão internacional: representar o Brasil na COP31, na Turquia, e na…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfhUGDglR3b/",
+     "publisher": "Lula",
+     "published": "2026-11-09",
+     "time": "09:18",
+     "language": "pt",
+     "tracks": [
+      "Florestas",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Lula anuncia missão à COP31 na Turquia para mostrar preservação ambiental e transição energética e cita o Mapa do Caminho contra o desmatamento até 2030 e a queda de 71,2% do desmatamento na Amazônia Legal (2022–2026).",
+     "collected_at": "2026-11-10T01:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Lula announces a mission to COP31 in Turkey to showcase environmental preservation and energy transition, citing the Roadmap to halt and reverse deforestation by 2030 and a 71.2% fall in Legal Amazon deforestation (2022–2026).",
+      "es": "Lula anuncia una misión a la COP31 en Turquía para mostrar la preservación ambiental y la transición energética, y cita la hoja de ruta para frenar la deforestación hasta 2030 y la caída del 71,2 % de la deforestación en la Amazonia Legal (2022–2026).",
+      "fr": "Lula annonce une mission à la COP31 en Turquie pour mettre en avant la préservation de l'environnement et la transition énergétique, et cite la feuille de route contre la déforestation d'ici 2030 et la baisse de 71,2 % de la déforestation en Amazonie légale (2022–2026).",
+      "ru": "Лула объявляет о миссии на КС-31 в Турции для демонстрации сохранения окружающей среды и энергетического перехода и приводит дорожную карту по прекращению обезлесения к 2030 году и снижение обезлесения в Законной Амазонии на 71,2 % (2022–2026).",
+      "zh": "卢拉宣布赴土耳其出席COP31，展示环境保护与能源转型，并提到到2030年遏制和扭转毁林的路线图，以及2022–2026年法定亚马孙地区毁林减少71.2%。",
+      "ar": "يعلن لولا مهمة إلى مؤتمر الأطراف الحادي والثلاثين في تركيا لإبراز حماية البيئة والتحول في مجال الطاقة، مشيراً إلى خريطة الطريق لوقف إزالة الغابات وعكس مسارها بحلول 2030 وانخفاض إزالة الغابات في الأمازون القانونية بنسبة 71.2% (2022–2026)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Lula"
     ]
    },
    {
