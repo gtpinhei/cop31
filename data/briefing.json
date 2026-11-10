@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T11:58+03:00",
+ "generated_at": "2026-11-10T12:59+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-10T00:16:00-03:00",
-  "social_round": "2026-11-10T05:42:35-03:00",
+  "web_round": "2026-11-10T06:16:42-03:00",
+  "social_round": "2026-11-10T06:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 61,
-  "stories": 56,
+  "candidates": 69,
+  "stories": 63,
   "top": 8,
   "publishers": [
    "350.org",
@@ -23,7 +23,9 @@
    "COP31 Presidency (Türkiye/Australia)",
    "Carbon Brief",
    "Chris Bowen",
+   "Climate Home News",
    "ICC",
+   "ICCCAD",
    "IISD / ENB",
    "LDC Group",
    "Lula",
@@ -50,23 +52,60 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "sem listagem datada (títulos sem datas)"
+    "note": "sem datas na listagem"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "página mostra só artigo de 2022, sem listagem datada"
+    "note": "só devolveu post de 2022; sem listagem datada"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "client_error"
+    "note": "budget"
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop31-presidency-2026-11-10-electrification-pledge",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop31-presidency-2026-11-10-electrification-pledge",
+     "title": "COP31 flicks the switch on 'age of electricity'",
+     "url": "https://cop31.tr/news-detail/cop31-flicks-switch-on-age-of-electricity-35-by-35-pledge",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Presidência e anfitrião",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 lançou o Global Electrification Pledge, que busca elevar a participação da eletricidade no consumo final de energia de cerca de 23% para 35% até 2035.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency launched the Global Electrification Pledge, which aims to raise electricity's share of final energy consumption from about 23% to 35% by 2035.",
+      "es": "La Presidencia de la COP31 lanzó el Global Electrification Pledge, que busca elevar la participación de la electricidad en el consumo final de energía de cerca del 23% al 35% para 2035.",
+      "fr": "La présidence de la COP31 a lancé le Global Electrification Pledge, qui vise à faire passer la part de l'électricité dans la consommation finale d'énergie d'environ 23 % à 35 % d'ici 2035.",
+      "ru": "Президентство COP31 запустило Global Electrification Pledge, цель которого — повысить долю электроэнергии в конечном потреблении энергии с примерно 23% до 35% к 2035 году. Инициативу поддерживают коалиция из более чем 180 компаний (годовая выручка 1,69 трлн долл.",
+      "zh": "COP31主席团发起了“全球电气化承诺”（Global Electrification Pledge），目标是到2035年将电力在终端能源消费中的占比从目前约23%提高到35%。该倡议得到一个由180多家企业（年收入合计1.69万亿美元）组成的联盟、一个将年度投资承诺从1480亿美元提高到1560亿美元的公用事业联盟以及一个新的金融联盟的支持。IEA将跟踪电气化趋势，IRENA将支持发展中国家的电网建设。",
+      "ar": "أطلقت رئاسة COP31 «التعهد العالمي بالكهربة» (Global Electrification Pledge) الذي يهدف إلى رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من نحو 23% إلى 35% بحلول عام 2035."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
    {
     "id": "st-cop30-presidency-daily-brief-2026-11-10",
     "section": "action",
@@ -112,6 +151,42 @@
     ]
    },
    {
+    "id": "st-climate-home-news-2026-11-10-loan-repayments",
+    "section": "negotiations",
+    "score": 0.85,
+    "lead": {
+     "id": "climate-home-news-2026-11-10-loan-repayments",
+     "title": "Developing countries face climate finance deficit as loan repayments soar",
+     "url": "https://www.climatechangenews.com/2026/11/10/developing-countries-face-climate-finance-deficit-as-loan-repayments-soar/",
+     "publisher": "Climate Home News",
+     "author": "Matteo Civillini",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Uma análise da CARE mostra que os pagamentos de empréstimos públicos de clima feitos por países em desenvolvimento quase triplicaram entre 2020 e 2024, chegando a US$ 20,1 bilhões. Se o volume de empréstimos ficar no nível de 2024, os reembolsos podem superar os novos empréstimos até 2036.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "An analysis by CARE shows that repayments on public climate loans by developing countries nearly tripled between 2020 and 2024, reaching US$ 20.1 billion. If lending stays at 2024 levels, repayments could exceed new lending by 2036.",
+      "es": "Un análisis de CARE muestra que los pagos de préstamos públicos para el clima realizados por países en desarrollo casi se triplicaron entre 2020 y 2024, hasta alcanzar US$ 20 100 millones. Si los préstamos se mantienen en los niveles de 2024, los reembolsos podrían superar los nuevos préstamos en 2036.",
+      "fr": "Une analyse de CARE montre que les remboursements de prêts publics pour le climat par les pays en développement ont presque triplé entre 2020 et 2024, pour atteindre 20,1 milliards de dollars. Si les prêts restent au niveau de 2024, les remboursements pourraient dépasser les nouveaux prêts d'ici 2036.",
+      "ru": "Анализ CARE показывает, что выплаты развивающихся стран по государственным климатическим кредитам почти утроились с 2020 по 2024 год и достигли 20,1 млрд долл. США. Если объём кредитования останется на уровне 2024 года, к 2036 году выплаты могут превысить новые кредиты.",
+      "zh": "CARE的一项分析显示，2020至2024年间，发展中国家偿还公共气候贷款的金额几乎增至三倍，达到201亿美元。如果贷款规模维持在2024年的水平，到2036年偿还额可能超过新增贷款。这些数据为COP31的气候资金讨论提供了依据，涉及资金质量、赠款与债务之比，以及将适应资金增至三倍的目标。",
+      "ar": "يُظهر تحليل أجرته منظمة CARE أن مدفوعات سداد القروض العامة المتعلقة بالمناخ من جانب البلدان النامية تضاعفت ثلاث مرات تقريباً بين عامي 2020 و2024 لتصل إلى 20.1 مليار دولار أمريكي. وإذا بقي الإقراض عند مستويات عام 2024، فقد تتجاوز المدفوعات القروض الجديدة بحلول عام 2036."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-09-cop31-supercharge-solutions",
     "section": "action",
     "score": 0.8,
@@ -149,76 +224,101 @@
     ]
    },
    {
-    "id": "st-cop31-presidencia-2026-11-09-abertura",
-    "section": "action",
-    "score": 0.8,
-    "lead": {
-     "id": "cop31-presidencia-2026-11-09-abertura",
-     "title": "COP31 President opens UN climate summit with call to turn climate promises into action",
-     "url": "https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action",
-     "publisher": "COP31 Presidency (Türkiye/Australia)",
-     "author": "COP31",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Finanças",
-      "Eletrificação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A Presidência da COP31 relata a abertura da conferência em Antalya, em 9 de novembro, com Murat Kurum pedindo que as promessas climáticas virem resultados concretos numa \"COP da implementação\".",
-     "collected_at": "2026-11-09T12:18:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency reports on the opening of the conference in Antalya on 9 November, with Murat Kurum urging that climate pledges be turned into concrete results in an \"Implementation COP\".",
-      "es": "La Presidencia de la COP31 informa sobre la apertura de la conferencia en Antalya el 9 de noviembre, con Murat Kurum pidiendo que las promesas climáticas se conviertan en resultados concretos en una \"COP de la implementación\".",
-      "fr": "La présidence de la COP31 rend compte de l'ouverture de la conférence à Antalya le 9 novembre, Murat Kurum appelant à transformer les engagements climatiques en résultats concrets lors d'une « COP de la mise en œuvre ».",
-      "ru": "Президентство COP31 сообщает об открытии конференции в Анталье 9 ноября: Мурат Курум призвал превратить климатические обещания в конкретные результаты на «КС по осуществлению».",
-      "zh": "COP31 主席团报道了 11 月 9 日在安塔利亚开幕的情况：穆拉特·库鲁姆呼吁在“落实之COP”上把气候承诺转化为具体成果。库鲁姆将气候问题与冲突、债务、粮食不安全和技术变革联系起来，并重申《巴黎协定》的 1.5°C 目标是基准。文章强调电气化和资金（到 2035 年 3000 亿美元及每年 1.3 万亿美元），以及关于粮食、农业和卫生的首个主题日。涉及主席团、资金和电气化议题。",
-      "ar": "تفيد رئاسة COP31 بافتتاح المؤتمر في أنطاليا في 9 تشرين الثاني/نوفمبر، حيث دعا مراد قوروم إلى تحويل التعهدات المناخية إلى نتائج ملموسة في «مؤتمر التنفيذ». ويربط قوروم المناخ بالنزاعات والديون وانعدام الأمن الغذائي والتغير التكنولوجي، ويؤكد من جديد هدف 1.5 درجة مئوية في اتفاق باريس مرجعًا."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "COP31 Presidency (Türkiye/Australia)"
-    ]
-   },
-   {
-    "id": "st-carbonbrief-2026-11-09-belem-antalya-jt",
+    "id": "st-carbon-brief-2026-11-10-global-carbon-budget",
     "section": "negotiations",
-    "score": 0.612,
+    "score": 0.765,
     "lead": {
-     "id": "carbonbrief-2026-11-09-belem-antalya-jt",
-     "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
-     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+     "id": "carbon-brief-2026-11-10-global-carbon-budget",
+     "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+     "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
      "publisher": "Carbon Brief",
-     "author": "Molly Lempriere",
-     "published": "2026-11-09",
+     "author": "Carbon Brief Staff",
+     "published": "2026-11-10",
      "language": "en",
      "tracks": [
-      "Transição justa",
-      "Finanças"
+      "Mitigação e MWP",
+      "GST2 e IPCC"
      ],
      "content_type": "analysis",
      "kind": "publication",
-     "description": "O Carbon Brief explica o mecanismo de transição justa criado na COP30 (Belém-Antalya, BAM), cujos detalhes seguem em aberto: países desenvolvidos e em desenvolvimento divergem sobre finalidade e financiamento.",
-     "collected_at": "2026-11-09T12:18:00-03:00",
+     "description": "Com base nas projeções do Global Carbon Project, a análise indica que as emissões fósseis de CO2 devem cair cerca de 0,4% em 2026, sobretudo pela queda no uso de petróleo após o conflito com o Irã e o fechamento do Estreito de Ormuz.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Carbon Brief explains the just transition mechanism created at COP30 (Belém-Antalya mechanism, BAM), whose details remain open: developed and developing countries disagree on its purpose and funding. Civil society proposals foresee three parts, such as a steering body, a knowledge arm and an implementation arm.",
-      "es": "Carbon Brief explica el mecanismo de transición justa creado en la COP30 (mecanismo Belém-Antalya, BAM), cuyos detalles siguen abiertos: los países desarrollados y en desarrollo discrepan sobre su finalidad y su financiación.",
-      "fr": "Carbon Brief explique le mécanisme pour une transition juste créé à la COP30 (mécanisme Belém-Antalya, BAM), dont les détails restent ouverts : pays développés et en développement divergent sur son objet et son financement.",
-      "ru": "Carbon Brief разъясняет механизм справедливого перехода, созданный на КС-30 (механизм Белен–Анталья, BAM), детали которого остаются открытыми: развитые и развивающиеся страны расходятся во мнениях о его назначении и финансировании.",
-      "zh": "Carbon Brief 解释了 COP30 设立的公正转型机制（贝伦—安塔利亚机制，BAM），其细节仍未确定：发达国家与发展中国家对其目的和资金存在分歧。民间社会的提案设想三个部分，例如指导机构、知识部门和实施部门。波恩会议仅产出了框架性文本草案；发展中国家集团希望优先考虑实施和资金，欧盟则希望与工作方案互补。鉴于《联合国气候变化框架公约》面临资金缺口，成本问题引发关切。",
-      "ar": "تشرح Carbon Brief آلية الانتقال العادل التي أُنشئت في COP30 (آلية بيليم–أنطاليا، BAM) والتي لا تزال تفاصيلها مفتوحة: فالبلدان المتقدمة والنامية تختلف حول غرضها وتمويلها. وتتصور مقترحات المجتمع المدني ثلاثة أجزاء، مثل هيئة توجيهية وذراع للمعرفة وذراع للتنفيذ."
+      "en": "Based on Global Carbon Project projections, the analysis finds that fossil CO2 emissions are set to fall by about 0.4% in 2026, mainly because oil use drops after the Iran conflict and the closure of the Strait of Hormuz.",
+      "es": "Basado en las proyecciones del Global Carbon Project, el análisis indica que las emisiones fósiles de CO2 caerán alrededor de un 0,4% en 2026, sobre todo porque el uso de petróleo disminuye tras el conflicto con el Irán y el cierre del Estrecho de Ormuz.",
+      "fr": "Sur la base des projections du Global Carbon Project, l'analyse indique que les émissions fossiles de CO2 devraient diminuer d'environ 0,4 % en 2026, principalement parce que la consommation de pétrole baisse après le conflit avec l'Iran et la fermeture du détroit d'Ormuz.",
+      "ru": "Согласно прогнозам Global Carbon Project, в анализе говорится, что выбросы CO2 от ископаемого топлива в 2026 году снизятся примерно на 0,4%, главным образом из-за сокращения потребления нефти после конфликта с Ираном и закрытия Ормузского пролива.",
+      "zh": "该分析基于全球碳计划（Global Carbon Project）的预测，指出2026年化石燃料CO2排放预计下降约0.4%，主要原因是伊朗冲突和霍尔木兹海峡关闭后石油使用量下降。与厄尔尼诺相关的泥炭火灾导致土地利用排放上升，因此预计总排放量将创历史新高。清洁能源抵消了能源需求增长本会带来的约三分之二的排放增量。与减缓议题和第二次全球盘点（GST2）相关。",
+      "ar": "استناداً إلى توقعات مشروع الكربون العالمي (Global Carbon Project)، يشير التحليل إلى أن انبعاثات ثاني أكسيد الكربون من الوقود الأحفوري ستنخفض بنحو 0.4% في عام 2026، ويعود ذلك أساساً إلى تراجع استخدام النفط بعد النزاع مع إيران وإغلاق مضيق هرمز."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
      "Carbon Brief"
+    ]
+   },
+   {
+    "id": "st-icccad-2026-11-10-neld-policy-brief",
+    "section": "negotiations",
+    "score": 0.574,
+    "lead": {
+     "id": "icccad-2026-11-10-neld-policy-brief",
+     "title": "Policy Brief | Beyond Economic Losses: Strengthening Bangladesh's National Mechanism on Loss and Damage through NELD Evidence",
+     "url": "https://icccad.net/publications/policy-brief/policy-brief-beyond-economic-losses/",
+     "publisher": "ICCCAD",
+     "author": "ICCCAD",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Perdas e danos"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O policy brief do ICCCAD defende que o mecanismo nacional de perdas e danos de Bangladesh passe a incorporar evidências de perdas e danos não econômicas (NELD), além das perdas materiais. Trata-se de insumo para o debate de perdas e danos e para a operacionalização do fundo.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The ICCCAD policy brief argues that Bangladesh's national loss and damage mechanism should incorporate evidence on non-economic loss and damage (NELD) in addition to material losses. It is an input to the loss and damage debate and to the operationalization of the fund. Summary based only on the public listing.",
+      "es": "El informe de políticas del ICCCAD sostiene que el mecanismo nacional de pérdidas y daños de Bangladesh debería incorporar pruebas sobre pérdidas y daños no económicos (NELD), además de las pérdidas materiales. Es un insumo para el debate sobre pérdidas y daños y para la puesta en marcha del fondo.",
+      "fr": "La note d'orientation de l'ICCCAD soutient que le mécanisme national de pertes et préjudices du Bangladesh devrait intégrer des données sur les pertes et préjudices non économiques (NELD) en plus des pertes matérielles. Elle alimente le débat sur les pertes et préjudices et l'opérationnalisation du fonds.",
+      "ru": "В аналитической записке ICCCAD утверждается, что национальный механизм Бангладеш по потерям и ущербу должен учитывать данные о неэкономических потерях и ущербе (NELD) наряду с материальными потерями. Документ служит вкладом в обсуждение потерь и ущерба и в запуск фонда. Резюме составлено только по публичному списку.",
+      "zh": "ICCCAD的政策简报主张，孟加拉国国家损失与损害机制除物质损失外，还应纳入非经济损失与损害（NELD）的证据。该简报为损失与损害议题的讨论以及基金的运作提供参考。摘要仅依据公开列表信息。",
+      "ar": "تحتج الموجز السياساتي الصادر عن ICCCAD بأن على الآلية الوطنية لبنغلاديش بشأن الخسائر والأضرار أن تدمج أدلة عن الخسائر والأضرار غير الاقتصادية (NELD) إلى جانب الخسائر المادية. وهو مساهمة في نقاش الخسائر والأضرار وفي تفعيل الصندوق. الملخص مبني على القائمة العامة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "icccad-2026-11-10-neld-case-stories",
+      "title": "Case Stories on Non-Economic Loss and Damage (NELD) from Bangladesh",
+      "url": "https://icccad.net/publications/case-study/case-stories-on-non-economic-loss-and-damage-neld-from-bangladesh/",
+      "publisher": "ICCCAD",
+      "author": "ICCCAD",
+      "published": "2026-11-10",
+      "language": "en",
+      "tracks": [
+       "Perdas e danos"
+      ],
+      "content_type": "analysis",
+      "kind": "publication",
+      "description": "O ICCCAD publicou estudos de caso sobre perdas e danos não econômicas (NELD) em Bangladesh, ilustrando impactos como deslocamento, perda de patrimônio cultural e de modos de vida. O material complementa o policy brief e o working paper recentes do instituto para a pauta de perdas e danos na COP31.",
+      "collected_at": "2026-11-10T06:16:42-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ICCCAD published case stories on non-economic loss and damage (NELD) in Bangladesh, illustrating impacts such as displacement and loss of cultural heritage and livelihoods. The material complements the institute's recent policy brief and working paper for the loss and damage agenda at COP31.",
+       "es": "El ICCCAD publicó estudios de caso sobre pérdidas y daños no económicos (NELD) en Bangladesh, que ilustran impactos como el desplazamiento y la pérdida de patrimonio cultural y de medios de vida.",
+       "fr": "L'ICCCAD a publié des études de cas sur les pertes et préjudices non économiques (NELD) au Bangladesh, illustrant des impacts tels que le déplacement et la perte du patrimoine culturel et des moyens de subsistance.",
+       "ru": "ICCCAD опубликовал тематические исследования о неэкономических потерях и ущербе (NELD) в Бангладеш, иллюстрирующие такие последствия, как перемещение населения и утрата культурного наследия и источников средств к существованию.",
+       "zh": "ICCCAD发布了关于孟加拉国非经济损失与损害（NELD）的案例研究，展示了流离失所以及文化遗产和生计丧失等影响。该材料补充了该研究所近期的政策简报和工作文件，服务于COP31的损失与损害议程。摘要仅依据公开列表信息。",
+       "ar": "نشر ICCCAD دراسات حالة عن الخسائر والأضرار غير الاقتصادية (NELD) في بنغلاديش، توضح آثاراً مثل التشرد وفقدان التراث الثقافي وسبل العيش. وتكمل هذه المواد الموجز السياساتي وورقة العمل الأخيرين للمعهد لدعم جدول أعمال الخسائر والأضرار في COP31. الملخص مبني على القائمة العامة فقط."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "ICCCAD"
     ]
    },
    {
@@ -327,6 +427,152 @@
      "IISD / ENB",
      "Presidência da COP31 (Türkiye)"
     ]
+   }
+  ],
+  "negotiations": [
+   {
+    "id": "st-climate-home-news-2026-11-09-cop31-bulletin-day1",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "climate-home-news-2026-11-09-cop31-bulletin-day1",
+     "title": "COP31 Bulletin Day 1: Agenda settled as COP urged to \"supercharge solutions\"",
+     "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/",
+     "publisher": "Climate Home News",
+     "author": "Sebastian Rodriguez, Matteo Civillini, Joe Lo, Tais Gadea Lara",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Presidência e anfitrião",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "O boletim do primeiro dia relata que a sessão de abertura fechou a agenda, com a questão de adaptação africana e a das montanhas tratadas em outras vias e consultas. O presidente das negociações, Chris Bowen, disse que a decisão de cobertura não trará surpresas, e Simon Stiell pediu mais velocidade.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Day 1 bulletin reports that the opening session settled the agenda, with African adaptation finance and mountain issues handled through other strands and consultations. President of Negotiations Chris Bowen said the cover decision would hold no surprises, and Simon Stiell urged faster progress.",
+      "es": "El boletín del primer día informa de que la sesión de apertura cerró el programa, y que la financiación de la adaptación en África y las cuestiones de montaña se tratarán en otras vías y consultas.",
+      "fr": "Le bulletin du premier jour indique que la séance d'ouverture a arrêté l'ordre du jour, la question du financement de l'adaptation en Afrique et celle des montagnes étant traitées dans d'autres cadres et consultations.",
+      "ru": "В бюллетене первого дня сообщается, что на открытии была согласована повестка дня, при этом вопросы финансирования адаптации в Африке и горные вопросы будут рассматриваться в рамках других процессов и консультаций.",
+      "zh": "第一天简报称，开幕会议确定了议程，非洲适应资金和山区问题将通过其他渠道和磋商处理。谈判主席克里斯·鲍文（Chris Bowen）表示，总括决定不会有意外，西蒙·斯蒂尔（Simon Stiell）则敦促加快进展。议题：总括决定与东道主主席团。",
+      "ar": "تفيد نشرة اليوم الأول بأن الجلسة الافتتاحية أقرّت جدول الأعمال، على أن تُعالج مسألة تمويل التكيف في أفريقيا وقضايا الجبال عبر مسارات ومشاورات أخرى. وقال رئيس المفاوضات كريس بوين إن قرار الغلاف لن يحمل مفاجآت، وحثّ سايمون ستيل على تسريع التقدم. المسارات: قرار الغلاف والرئاسة المضيفة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-09-health-day-stiell",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "unfccc-2026-11-09-health-day-stiell",
+     "title": "\"Health belongs at the heart of climate action\" (UN Climate Chief at COP31 health day ministerial)",
+     "url": "https://unfccc.int/news/health-belongs-at-the-heart-of-climate-action-un-climate-chief-at-cop31-health-day-ministerial",
+     "publisher": "UNFCCC",
+     "author": "Secretariado da UNFCCC (Simon Stiell)",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No Dia da Saúde da COP31, Simon Stiell defendeu que a saúde esteja no centro da política climática, citando os indicadores de adaptação de Belém e o Plano de Ação em Saúde.",
+     "collected_at": "2026-11-10T00:16:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 Health Day, Simon Stiell argued that health should be central to climate policy, citing the Belém adaptation indicators and the Health Action Plan. He backed the COP30 goal of tripling adaptation finance by 2035 and called for tripling renewables and doubling energy efficiency, citing Wellcome data on…",
+      "es": "En el Día de la Salud de la COP31, Simon Stiell defendió que la salud ocupe un lugar central en la política climática, citando los indicadores de adaptación de Belém y el Plan de Acción en materia de Salud.",
+      "fr": "Lors de la Journée de la santé de la COP31, Simon Stiell a plaidé pour que la santé soit au cœur de la politique climatique, en citant les indicateurs d'adaptation de Belém et le Plan d'action pour la santé.",
+      "ru": "В День здоровья на COP31 Саймон Стилл заявил, что здоровье должно стоять в центре климатической политики, сославшись на белемские показатели адаптации и План действий в области здравоохранения.",
+      "zh": "在COP31健康日上，西蒙·斯蒂尔主张将健康置于气候政策的核心，并提及贝伦适应指标和《健康行动计划》。他支持COP30提出的到2035年将适应资金增至三倍的目标，并呼吁将可再生能源增至三倍、能效提高一倍，同时引用Wellcome关于接诊极端高温患者的孕产保健专业人员的数据。他呼吁各国国家计划确保诊所在热浪期间保持开放，并在洪灾后保障安全用水。涉及适应和资金议题。",
+      "ar": "في يوم الصحة ضمن مؤتمر الأطراف الحادي والثلاثين، دعا سايمون ستيل إلى وضع الصحة في صميم السياسة المناخية، مشيراً إلى مؤشرات بيليم للتكيف وخطة العمل الصحية. وأيّد هدف مؤتمر الأطراف الثلاثين بمضاعفة تمويل التكيف ثلاث مرات بحلول عام 2035، ودعا إلى مضاعفة الطاقة المتجددة ثلاث مرات وتحسين كفاءة الطاقة إلى الضعف، مستشهداً…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-09-jtwp-review-synthesis",
+    "section": "negotiations",
+    "score": 0.646,
+    "lead": {
+     "id": "unfccc-2026-11-09-jtwp-review-synthesis",
+     "title": "Synthesis report by the secretariat on views on reviewing the UAE just transition work programme (FCCC/SB/2026/6)",
+     "url": "https://unfccc.int/documents/663510",
+     "publisher": "UNFCCC",
+     "author": "UNFCCC secretariat",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Transição justa"
+     ],
+     "content_type": "document",
+     "kind": "publication",
+     "description": "O secretariado da UNFCCC publicou o relatório de síntese (FCCC/SB/2026/6) com as opiniões das Partes sobre a revisão do programa de trabalho de transição justa dos EAU, documento de base para as negociações de transição justa e do mecanismo Belém-Antalya na COP31.",
+     "collected_at": "2026-11-10T06:16:42-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The UNFCCC secretariat published the synthesis report (FCCC/SB/2026/6) on Parties' views on reviewing the UAE just transition work programme, a background document for the just transition and Belém-Antalya mechanism negotiations at COP31. Summary based only on the title and the public document listing.",
+      "es": "La secretaría de la CMNUCC publicó el informe de síntesis (FCCC/SB/2026/6) sobre las opiniones de las Partes acerca de la revisión del programa de trabajo de los EAU sobre transición justa, documento de base para las negociaciones sobre transición justa y el mecanismo Belém-Antalya en la COP31.",
+      "fr": "Le secrétariat de la CCNUCC a publié le rapport de synthèse (FCCC/SB/2026/6) sur les vues des Parties concernant l'examen du programme de travail des EAU sur la transition juste, document de base pour les négociations sur la transition juste et le mécanisme Belém-Antalya à la COP31.",
+      "ru": "Секретариат РКИК ООН опубликовал сводный доклад (FCCC/SB/2026/6) о мнениях Сторон по обзору программы работы ОАЭ по справедливому переходу — справочный документ для переговоров по справедливому переходу и механизму Белен–Анталья на COP31. Резюме составлено только по названию и публичному списку документа.",
+      "zh": "《联合国气候变化框架公约》秘书处发布了关于缔约方对审议阿联酋公正转型工作方案的意见的综合报告（FCCC/SB/2026/6），这是COP31上公正转型和贝伦—安塔利亚机制谈判的背景文件。摘要仅依据文件标题和公开列表信息。",
+      "ar": "نشرت أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC) التقرير التجميعي (FCCC/SB/2026/6) عن آراء الأطراف بشأن استعراض برنامج عمل الإمارات للانتقال العادل، وهو وثيقة خلفية لمفاوضات الانتقال العادل وآلية بيليم–أنطاليا في COP31. الملخص مبني على العنوان والقائمة العامة للوثيقة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-carbonbrief-2026-11-09-belem-antalya-jt",
+    "section": "negotiations",
+    "score": 0.612,
+    "lead": {
+     "id": "carbonbrief-2026-11-09-belem-antalya-jt",
+     "title": "Q&A: What is the Belém-Antalya mechanism for a 'just transition'?",
+     "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+     "publisher": "Carbon Brief",
+     "author": "Molly Lempriere",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O Carbon Brief explica o mecanismo de transição justa criado na COP30 (Belém-Antalya, BAM), cujos detalhes seguem em aberto: países desenvolvidos e em desenvolvimento divergem sobre finalidade e financiamento.",
+     "collected_at": "2026-11-09T12:18:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Carbon Brief explains the just transition mechanism created at COP30 (Belém-Antalya mechanism, BAM), whose details remain open: developed and developing countries disagree on its purpose and funding. Civil society proposals foresee three parts, such as a steering body, a knowledge arm and an implementation arm.",
+      "es": "Carbon Brief explica el mecanismo de transición justa creado en la COP30 (mecanismo Belém-Antalya, BAM), cuyos detalles siguen abiertos: los países desarrollados y en desarrollo discrepan sobre su finalidad y su financiación.",
+      "fr": "Carbon Brief explique le mécanisme pour une transition juste créé à la COP30 (mécanisme Belém-Antalya, BAM), dont les détails restent ouverts : pays développés et en développement divergent sur son objet et son financement.",
+      "ru": "Carbon Brief разъясняет механизм справедливого перехода, созданный на КС-30 (механизм Белен–Анталья, BAM), детали которого остаются открытыми: развитые и развивающиеся страны расходятся во мнениях о его назначении и финансировании.",
+      "zh": "Carbon Brief 解释了 COP30 设立的公正转型机制（贝伦—安塔利亚机制，BAM），其细节仍未确定：发达国家与发展中国家对其目的和资金存在分歧。民间社会的提案设想三个部分，例如指导机构、知识部门和实施部门。波恩会议仅产出了框架性文本草案；发展中国家集团希望优先考虑实施和资金，欧盟则希望与工作方案互补。鉴于《联合国气候变化框架公约》面临资金缺口，成本问题引发关切。",
+      "ar": "تشرح Carbon Brief آلية الانتقال العادل التي أُنشئت في COP30 (آلية بيليم–أنطاليا، BAM) والتي لا تزال تفاصيلها مفتوحة: فالبلدان المتقدمة والنامية تختلف حول غرضها وتمويلها. وتتصور مقترحات المجتمع المدني ثلاثة أجزاء، مثل هيئة توجيهية وذراع للمعرفة وذراع للتنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Carbon Brief"
+    ]
    },
    {
     "id": "st-wmo-2026-11-09-state-of-climate-2026",
@@ -362,88 +608,6 @@
     "related": [],
     "publishers": [
      "WMO"
-    ]
-   },
-   {
-    "id": "st-cop30-presidency-daily-brief-2026-11-09",
-    "section": "action",
-    "score": 0.8,
-    "lead": {
-     "id": "cop30-presidency-daily-brief-2026-11-09",
-     "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
-     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-     "publisher": "Presidência da COP30",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Florestas",
-      "Finanças",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
-     "collected_at": "2026-11-10T03:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "url_i18n": {
-      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
-     },
-     "title_i18n": {
-      "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
-     },
-     "description_i18n": {
-      "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
-      "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
-      "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
-      "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
-      "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
-      "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP30"
-    ]
-   }
-  ],
-  "negotiations": [
-   {
-    "id": "st-unfccc-2026-11-09-health-day-stiell",
-    "section": "negotiations",
-    "score": 0.68,
-    "lead": {
-     "id": "unfccc-2026-11-09-health-day-stiell",
-     "title": "\"Health belongs at the heart of climate action\" (UN Climate Chief at COP31 health day ministerial)",
-     "url": "https://unfccc.int/news/health-belongs-at-the-heart-of-climate-action-un-climate-chief-at-cop31-health-day-ministerial",
-     "publisher": "UNFCCC",
-     "author": "Secretariado da UNFCCC (Simon Stiell)",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "No Dia da Saúde da COP31, Simon Stiell defendeu que a saúde esteja no centro da política climática, citando os indicadores de adaptação de Belém e o Plano de Ação em Saúde.",
-     "collected_at": "2026-11-10T00:16:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At the COP31 Health Day, Simon Stiell argued that health should be central to climate policy, citing the Belém adaptation indicators and the Health Action Plan. He backed the COP30 goal of tripling adaptation finance by 2035 and called for tripling renewables and doubling energy efficiency, citing Wellcome data on…",
-      "es": "En el Día de la Salud de la COP31, Simon Stiell defendió que la salud ocupe un lugar central en la política climática, citando los indicadores de adaptación de Belém y el Plan de Acción en materia de Salud.",
-      "fr": "Lors de la Journée de la santé de la COP31, Simon Stiell a plaidé pour que la santé soit au cœur de la politique climatique, en citant les indicateurs d'adaptation de Belém et le Plan d'action pour la santé.",
-      "ru": "В День здоровья на COP31 Саймон Стилл заявил, что здоровье должно стоять в центре климатической политики, сославшись на белемские показатели адаптации и План действий в области здравоохранения.",
-      "zh": "在COP31健康日上，西蒙·斯蒂尔主张将健康置于气候政策的核心，并提及贝伦适应指标和《健康行动计划》。他支持COP30提出的到2035年将适应资金增至三倍的目标，并呼吁将可再生能源增至三倍、能效提高一倍，同时引用Wellcome关于接诊极端高温患者的孕产保健专业人员的数据。他呼吁各国国家计划确保诊所在热浪期间保持开放，并在洪灾后保障安全用水。涉及适应和资金议题。",
-      "ar": "في يوم الصحة ضمن مؤتمر الأطراف الحادي والثلاثين، دعا سايمون ستيل إلى وضع الصحة في صميم السياسة المناخية، مشيراً إلى مؤشرات بيليم للتكيف وخطة العمل الصحية. وأيّد هدف مؤتمر الأطراف الثلاثين بمضاعفة تمويل التكيف ثلاث مرات بحلول عام 2035، ودعا إلى مضاعفة الطاقة المتجددة ثلاث مرات وتحسين كفاءة الطاقة إلى الضعف، مستشهداً…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC"
     ]
    },
    {
@@ -714,6 +878,87 @@
    }
   ],
   "action": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-09",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-09",
+     "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Finanças",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
+     "collected_at": "2026-11-10T03:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
+     },
+     "description_i18n": {
+      "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
+      "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
+      "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
+      "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
+      "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
+      "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-cop31-presidencia-2026-11-09-abertura",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "cop31-presidencia-2026-11-09-abertura",
+     "title": "COP31 President opens UN climate summit with call to turn climate promises into action",
+     "url": "https://cop31.tr/news-detail/cop31-president-opens-un-climate-summit-calls-for-action",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Finanças",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 relata a abertura da conferência em Antalya, em 9 de novembro, com Murat Kurum pedindo que as promessas climáticas virem resultados concretos numa \"COP da implementação\".",
+     "collected_at": "2026-11-09T12:18:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency reports on the opening of the conference in Antalya on 9 November, with Murat Kurum urging that climate pledges be turned into concrete results in an \"Implementation COP\".",
+      "es": "La Presidencia de la COP31 informa sobre la apertura de la conferencia en Antalya el 9 de noviembre, con Murat Kurum pidiendo que las promesas climáticas se conviertan en resultados concretos en una \"COP de la implementación\".",
+      "fr": "La présidence de la COP31 rend compte de l'ouverture de la conférence à Antalya le 9 novembre, Murat Kurum appelant à transformer les engagements climatiques en résultats concrets lors d'une « COP de la mise en œuvre ».",
+      "ru": "Президентство COP31 сообщает об открытии конференции в Анталье 9 ноября: Мурат Курум призвал превратить климатические обещания в конкретные результаты на «КС по осуществлению».",
+      "zh": "COP31 主席团报道了 11 月 9 日在安塔利亚开幕的情况：穆拉特·库鲁姆呼吁在“落实之COP”上把气候承诺转化为具体成果。库鲁姆将气候问题与冲突、债务、粮食不安全和技术变革联系起来，并重申《巴黎协定》的 1.5°C 目标是基准。文章强调电气化和资金（到 2035 年 3000 亿美元及每年 1.3 万亿美元），以及关于粮食、农业和卫生的首个主题日。涉及主席团、资金和电气化议题。",
+      "ar": "تفيد رئاسة COP31 بافتتاح المؤتمر في أنطاليا في 9 تشرين الثاني/نوفمبر، حيث دعا مراد قوروم إلى تحويل التعهدات المناخية إلى نتائج ملموسة في «مؤتمر التنفيذ». ويربط قوروم المناخ بالنزاعات والديون وانعدام الأمن الغذائي والتغير التكنولوجي، ويؤكد من جديد هدف 1.5 درجة مئوية في اتفاق باريس مرجعًا."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-09-yearbook-global-climate-action",
     "section": "action",
@@ -1119,6 +1364,43 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261110-apoio-ex-presidencias",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-muratkurum-20261110-apoio-ex-presidencias",
+     "title": "@muratkurum: Bugün COP tarihinde bir ilk yaşandı. Geçmiş COP Başkanlıkları yayınladıkları ortak bildiri ile ülkemizin COP31…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfjlJVTiOKo/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-10",
+     "time": "06:25",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum, presidente da COP31, diz que ex-presidências de COP publicaram pela primeira vez uma declaração conjunta de forte apoio à presidência turca e reafirma o compromisso com a solidariedade internacional sem deixar ninguém para trás.",
+     "collected_at": "2026-11-10T06:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum says past COP Presidencies issued, for the first time, a joint statement strongly supporting the Turkish COP31 Presidency, and reaffirms commitment to international solidarity that leaves no one behind.",
+      "es": "El presidente de la COP31, Murat Kurum, afirma que las anteriores Presidencias de la COP publicaron por primera vez una declaración conjunta de firme apoyo a la Presidencia turca y reafirma el compromiso con la solidaridad internacional sin dejar a nadie atrás.",
+      "fr": "Le président de la COP31, Murat Kurum, indique que les anciennes présidences de la COP ont publié pour la première fois une déclaration commune apportant un fort soutien à la présidence turque, et réaffirme son engagement en faveur d'une solidarité internationale qui ne laisse personne de côté.",
+      "ru": "Президент КС-31 Мурат Курум сообщает, что бывшие председатели КС впервые выступили с совместным заявлением в решительную поддержку турецкого председательства КС-31, и подтверждает приверженность международной солидарности, при которой никто не остаётся позади.",
+      "zh": "COP31主席穆拉特·库鲁姆表示，历届COP主席团首次发表联合声明，有力支持土耳其担任的COP31主席团，并重申致力于不让任何人掉队的国际团结。",
+      "ar": "قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن رئاسات مؤتمرات الأطراف السابقة أصدرت لأول مرة بياناً مشتركاً يدعم بقوة رئاسة تركيا للمؤتمر، وجدد الالتزام بالتضامن الدولي بحيث لا يُترك أحد خلف الركب."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
@@ -2334,11 +2616,15 @@
   "2026-11-10": [
    "actionaid-2026-11-09-cop31-survival",
    "bluesky-enb.iisd.org-20261109-do-lago-abertura",
+   "carbon-brief-2026-11-10-global-carbon-budget",
    "carbonbrief-2026-11-09-belem-antalya-jt",
+   "climate-home-news-2026-11-10-loan-repayments",
    "cop30-presidency-daily-brief-2026-11-09",
    "cop30-presidency-daily-brief-2026-11-10",
    "cop31-presidencia-2026-11-09-abertura",
+   "cop31-presidency-2026-11-10-electrification-pledge",
    "icc-2026-11-09-bingo-opening-statement",
+   "icccad-2026-11-10-neld-policy-brief",
    "unfccc-2026-11-09-cop31-supercharge-solutions",
    "unfccc-2026-11-09-health-day-stiell",
    "wmo-2026-11-09-state-of-climate-2026"
