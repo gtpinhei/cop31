@@ -1,18 +1,19 @@
 {
  "schema": 1,
- "generated_at": "2026-11-10T12:20:00-03:00",
+ "generated_at": "2026-11-10T18:15:00-03:00",
  "round": {
-  "timestamp": "2026-11-10T12:20:00-03:00",
-  "label": "10 nov 2026, 12:20 (Brasília)",
-  "sites_checked": 58,
-  "blocked": 16,
-  "new_items": 5,
+  "timestamp": "2026-11-10T18:15:00-03:00",
+  "label": "10 nov 2026, 18:15 (Brasília)",
+  "sites_checked": 59,
+  "blocked": 17,
+  "new_items": 9,
   "fetches": "59 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "UNEP/IEA/ITUC/Oil Change/OC/TWN/SHURA (client_error)",
-   "Chatham House, CAN Europe, FoEI, CSE, Eurodad, ODI, Christian Aid, COP30.br (sem listagem datada)",
-   "Climate Champions (redirect sem listagem)"
+   "Climate Champions (redirect)",
+   "COP30.br/Circle of Finance Ministers (sem listagem datada)",
+   "UNEP/IEA/ITUC/Oil Change/OC/Carbon Pulse/WBMC (client_error)",
+   "Chatham House, CAN Europe, FoEI, CSE, Christian Aid, Transforma, Política por Inteiro, Ember (sem listagem datada)"
   ]
  },
  "tracks": [
@@ -33,6 +34,612 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "instagram-muratkurum-20261110-antalya-futuro-comum",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:28",
+   "text": "Dünyanın dört bir yanından, ortak bir gelecek için Antalya’da bir aradayız. 🌎 @turkiyecop31 @cop31_greenzone",
+   "summary": "O presidente da COP31, Murat Kurum, saúda os participantes reunidos em Antália \"de todos os cantos do mundo\" por um futuro comum.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum greets participants gathered in Antalya \"from all corners of the world\" for a common future.",
+    "es": "El Presidente de la COP31, Murat Kurum, saluda a los participantes reunidos en Antalya \"de todos los rincones del mundo\" por un futuro común.",
+    "fr": "Le Président de la COP31, Murat Kurum, salue les participants réunis à Antalya « des quatre coins du monde » pour un avenir commun.",
+    "ru": "Президент COP31 Мурат Курум приветствует участников, собравшихся в Анталье «со всех уголков мира» ради общего будущего.",
+    "zh": "COP31主席穆拉特·库鲁姆向“来自世界各地”齐聚安塔利亚、共创共同未来的与会者致意。",
+    "ar": "يحيّي رئيس مؤتمر COP31 مراد قوروم المشاركين المجتمعين في أنطاليا «من كل أنحاء العالم» من أجل مستقبل مشترك."
+   },
+   "url": "https://www.instagram.com/p/Dfk31A9sQuL/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "tr",
+   "source_id": "ig-muratkurum"
+  },
+  {
+   "id": "instagram-institutotalanoa-20261110-cop-como-ela-e",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@institutotalanoa",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:23",
+   "text": "A COP como ela é: discursos sobre o futuro da energia, interesses fósseis bem presentes e uma multidão tentando chegar ao lugar onde tudo isso está acontecendo. Direto de #Antalya, acompanhamos o segundo dia da #COP31.",
+   "summary": "O Instituto Talanoa, direto de Antália, descreve o dia 2 da COP31: discursos sobre o futuro da energia, interesses fósseis bem presentes e dificuldade de acesso ao local.",
+   "summary_i18n": {
+    "en": "Instituto Talanoa, reporting from Antalya, describes day 2 of COP31: speeches on the future of energy, fossil fuel interests clearly present and difficulty reaching the venue.",
+    "es": "El Instituto Talanoa, desde Antalya, describe el día 2 de la COP31: discursos sobre el futuro de la energía, intereses fósiles muy presentes y dificultad para llegar a la sede.",
+    "fr": "L'Institut Talanoa, depuis Antalya, décrit le jour 2 de la COP31 : discours sur l'avenir de l'énergie, intérêts fossiles bien présents et difficulté d'accès au site.",
+    "ru": "Институт Таланоа из Антальи описывает второй день COP31: выступления о будущем энергетики, заметное присутствие интересов ископаемого топлива и трудности с доступом к месту проведения.",
+    "zh": "塔拉诺阿研究所从安塔利亚报道COP31第二天：关于能源未来的发言、化石燃料利益明显在场，以及前往会场的困难。",
+    "ar": "يصف معهد تالانوا من أنطاليا اليوم الثاني من COP31: خطابات عن مستقبل الطاقة، وحضور واضح لمصالح الوقود الأحفوري، وصعوبة الوصول إلى الموقع."
+   },
+   "url": "https://www.instagram.com/p/Dfk3Oo_IDh4/",
+   "tracks": [
+    "TAFF e fósseis",
+    "Eletrificação",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "pt",
+   "source_id": "ig-institutotalanoa"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-ppPS50hiM3c",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:44",
+   "text": "From Corporate Action to Water Resilience at Scale",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): From Corporate Action to Water Resilience at Scale",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: From Corporate Action to Water Resilience at Scale",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: From Corporate Action to Water Resilience at Scale",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : From Corporate Action to Water Resilience at Scale",
+    "ru": "Видео официального канала Председательства COP31: From Corporate Action to Water Resilience at Scale",
+    "zh": "COP31主席国官方频道视频：From Corporate Action to Water Resilience at Scale",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: From Corporate Action to Water Resilience at Scale"
+   },
+   "url": "https://www.youtube.com/watch?v=ppPS50hiM3c",
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-7ZLG1hfPi6I",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:30",
+   "text": "From Innovation to Impact: Scaling Climate-Health Solutions",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): From Innovation to Impact: Scaling Climate-Health Solutions",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: From Innovation to Impact: Scaling Climate-Health Solutions",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: From Innovation to Impact: Scaling Climate-Health Solutions",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : From Innovation to Impact: Scaling Climate-Health Solutions",
+    "ru": "Видео официального канала Председательства COP31: From Innovation to Impact: Scaling Climate-Health Solutions",
+    "zh": "COP31主席国官方频道视频：From Innovation to Impact: Scaling Climate-Health Solutions",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: From Innovation to Impact: Scaling Climate-Health Solutions"
+   },
+   "url": "https://www.youtube.com/watch?v=7ZLG1hfPi6I",
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-9xwvYrzk-yA",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:27",
+   "text": "Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+    "ru": "Видео официального канала Председательства COP31: Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+    "zh": "COP31主席国官方频道视频：Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Powering 35 by 2035 Supplying Reliable, Secure and Low Carbon Energy for End-use Electrification"
+   },
+   "url": "https://www.youtube.com/watch?v=9xwvYrzk-yA",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-060iIxZfo6U",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:17",
+   "text": "The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+    "ru": "Видео официального канала Председательства COP31: The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+    "zh": "COP31主席国官方频道视频：The Future of Agriculture in the Climate Era Food Supply – Panel Discussion",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: The Future of Agriculture in the Climate Era Food Supply – Panel Discussion"
+   },
+   "url": "https://www.youtube.com/watch?v=060iIxZfo6U",
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-a1xTV44TVZw",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:17",
+   "text": "Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+    "ru": "Видео официального канала Председательства COP31: Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+    "zh": "COP31主席国官方频道视频：Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Inspiring Action on Agriculture Food Systems Food Security and Nutrition in a Changing Climate"
+   },
+   "url": "https://www.youtube.com/watch?v=a1xTV44TVZw",
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-buHyNl-cbG8",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:17",
+   "text": "Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+    "ru": "Видео официального канала Председательства COP31: Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+    "zh": "COP31主席国官方频道视频：Scaling Country Solutions from Country-led Action to Scale through the DFSA",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Scaling Country Solutions from Country-led Action to Scale through the DFSA"
+   },
+   "url": "https://www.youtube.com/watch?v=buHyNl-cbG8",
+   "tracks": [
+    "Agenda de Ação",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-ewfuxMfHVt8",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:07",
+   "text": "Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+    "ru": "Видео официального канала Председательства COP31: Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+    "zh": "COP31主席国官方频道视频：Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Building Resilience by Community-Led Climate Adapation Traditional Wisdom and Local Solutions"
+   },
+   "url": "https://www.youtube.com/watch?v=ewfuxMfHVt8",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-2Kb7hvrrdAo",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "18:02",
+   "text": "Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+    "ru": "Видео официального канала Председательства COP31: Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+    "zh": "COP31主席国官方频道视频：Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Africa Ministerial Dialogue Advancing Global Health through Climate-Resilient Health Systems"
+   },
+   "url": "https://www.youtube.com/watch?v=2Kb7hvrrdAo",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-ON1HulHq4AQ",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+    "ru": "Видео официального канала Председательства COP31: Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+    "zh": "COP31主席国官方频道视频：Under2 Coalition’s Subnational Investment Forum Opening Welcome",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Under2 Coalition’s Subnational Investment Forum Opening Welcome"
+   },
+   "url": "https://www.youtube.com/watch?v=ON1HulHq4AQ",
+   "tracks": [
+    "Finanças",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-xPFWlAUsvB4",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+    "ru": "Видео официального канала Председательства COP31: Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+    "zh": "COP31主席国官方频道视频：Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Strengthening South-South Cooperation to Advance the Implementation of Global Climate Action"
+   },
+   "url": "https://www.youtube.com/watch?v=xPFWlAUsvB4",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-1-KtcT5QSps",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "Food Security - Champions of Change How Countries are Strengthening Food Security",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Food Security - Champions of Change How Countries are Strengthening Food Security",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Food Security - Champions of Change How Countries are Strengthening Food Security",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Food Security - Champions of Change How Countries are Strengthening Food Security",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Food Security - Champions of Change How Countries are Strengthening Food Security",
+    "ru": "Видео официального канала Председательства COP31: Food Security - Champions of Change How Countries are Strengthening Food Security",
+    "zh": "COP31主席国官方频道视频：Food Security - Champions of Change How Countries are Strengthening Food Security",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Food Security - Champions of Change How Countries are Strengthening Food Security"
+   },
+   "url": "https://www.youtube.com/watch?v=1-KtcT5QSps",
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-kLY7G5jaV3M",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+    "ru": "Видео официального канала Председательства COP31: Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+    "zh": "COP31主席国官方频道视频：Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Beyond Carbon Credits What Makes Nature Markets Credible Investable and Fair"
+   },
+   "url": "https://www.youtube.com/watch?v=kLY7G5jaV3M",
+   "tracks": [
+    "Finanças",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-ZhlnUNjl2Q0",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "High-Level Opening of Together4Transparency The House that Transparency Built",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): High-Level Opening of Together4Transparency The House that Transparency Built",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: High-Level Opening of Together4Transparency The House that Transparency Built",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: High-Level Opening of Together4Transparency The House that Transparency Built",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : High-Level Opening of Together4Transparency The House that Transparency Built",
+    "ru": "Видео официального канала Председательства COP31: High-Level Opening of Together4Transparency The House that Transparency Built",
+    "zh": "COP31主席国官方频道视频：High-Level Opening of Together4Transparency The House that Transparency Built",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: High-Level Opening of Together4Transparency The House that Transparency Built"
+   },
+   "url": "https://www.youtube.com/watch?v=ZhlnUNjl2Q0",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110-7mnh9fqjpnA",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:57",
+   "text": "Unlocking Partnerships to Scale Climate Technology Action",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Unlocking Partnerships to Scale Climate Technology Action",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Unlocking Partnerships to Scale Climate Technology Action",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Unlocking Partnerships to Scale Climate Technology Action",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Unlocking Partnerships to Scale Climate Technology Action",
+    "ru": "Видео официального канала Председательства COP31: Unlocking Partnerships to Scale Climate Technology Action",
+    "zh": "COP31主席国官方频道视频：Unlocking Partnerships to Scale Climate Technology Action",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Unlocking Partnerships to Scale Climate Technology Action"
+   },
+   "url": "https://www.youtube.com/watch?v=7mnh9fqjpnA",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261110--tTkNGXGyuY",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "17:37",
+   "text": "Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+   "summary": "Vídeo da Presidência da COP31 (canal oficial): Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+   "summary_i18n": {
+    "en": "COP31 Presidency official channel video: Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+    "es": "Vídeo del canal oficial de la Presidencia de la COP31: Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+    "fr": "Vidéo de la chaîne officielle de la Présidence de la COP31 : Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+    "ru": "Видео официального канала Председательства COP31: Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+    "zh": "COP31主席国官方频道视频：Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?",
+    "ar": "فيديو من القناة الرسمية لرئاسة COP31: Renewables, Modern Grids, and Just and Affordable Electrification: What, Where and for Whom?"
+   },
+   "url": "https://www.youtube.com/watch?v=-tTkNGXGyuY",
+   "tracks": [
+    "Eletrificação",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-10T18:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "350org-2026-11-10-roadmaps-sem-resposta",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31: Global calls for fossil fuel phaseout roadmaps go unanswered by COP31 Presidencies",
+   "date": "2026-11-10",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/cop31-global-calls-for-fossil-fuel-phaseout-roadmaps-go-unanswered-by-cop31-presidencies/",
+   "summary": "Comunicado da 350.org no início do Dia da Energia na COP31, segundo o qual os pedidos globais por roteiros de eliminação dos combustíveis fósseis continuam sem resposta das presidências da COP31. Relaciona-se à trilha de TAFF e fósseis. Resumo baseado apenas no título e no trecho visível da listagem.",
+   "summary_i18n": {
+    "en": "Statement by 350.org at the start of Energy Day at COP31, saying that global calls for fossil fuel phase-out roadmaps remain unanswered by the COP31 Presidencies. It bears on the TAFF and fossil fuels track. Summary based only on the title and the teaser visible in the listing.",
+    "es": "Comunicado de 350.org al comienzo del Día de la Energía en la COP31, según el cual los llamamientos mundiales a hojas de ruta para la eliminación de los combustibles fósiles siguen sin respuesta de las presidencias de la COP31. Se relaciona con la vía del TAFF y los combustibles fósiles. Resumen basado únicamente en el título y el extracto visible en el listado.",
+    "fr": "Communiqué de 350.org au début de la Journée de l'énergie à la COP31, selon lequel les appels mondiaux à des feuilles de route pour l'abandon progressif des combustibles fossiles restent sans réponse de la part des présidences de la COP31. Il concerne le volet TAFF et combustibles fossiles. Résumé fondé uniquement sur le titre et l'extrait visible dans la liste.",
+    "ru": "Заявление 350.org в начале Дня энергетики на КС-31: глобальные призывы к дорожным картам поэтапного отказа от ископаемого топлива остаются без ответа со стороны председательства КС-31. Относится к направлению TAFF и ископаемое топливо. Резюме основано только на заголовке и фрагменте, видимом в списке.",
+    "zh": "350.org 在 COP31 能源日开始时发表声明称，全球关于逐步淘汰化石燃料路线图的呼吁仍未得到 COP31 主席团的回应。该声明涉及 TAFF 与化石燃料议题。摘要仅依据标题和列表中可见的摘录。",
+    "ar": "بيان صادر عن 350.org في مستهل يوم الطاقة في مؤتمر COP31 يفيد بأن النداءات العالمية إلى وضع خرائط طريق للتخلص التدريجي من الوقود الأحفوري لا تزال دون رد من رئاستي COP31. ويتصل بمسار TAFF والوقود الأحفوري. الملخص مبني على العنوان والمقتطف الظاهر في القائمة فقط."
+   },
+   "tracks": [
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Global calls for fossil fuel phaseout roadmaps go unanswered by COP31 Presidencies"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-2026-11-10-electrify-now",
+   "institution": "350.org",
+   "type": "release",
+   "title": "On COP31 Electrify Now Coalition: Electrification must ensure affordable, renewables-based energy for all",
+   "date": "2026-11-10",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/on-cop31-electrify-now-coalition-electrification-must-ensure-affordable-renewables-based-energy-for-all/",
+   "summary": "Posicionamento da coalizão Electrify Now, divulgado pela 350.org, sobre a agenda de eletrificação da COP31: a eletrificação deve garantir energia acessível e de base renovável para todos. Relaciona-se à trilha de eletrificação e ao pacto \"35 by 35\". Resumo baseado apenas no título e na listagem.",
+   "summary_i18n": {
+    "en": "Position of the Electrify Now Coalition, published by 350.org, on the COP31 electrification agenda: electrification must ensure affordable, renewables-based energy for all. It bears on the electrification track and the \"35 by 35\" pledge. Summary based only on the title and the listing.",
+    "es": "Posicionamiento de la coalición Electrify Now, publicado por 350.org, sobre la agenda de electrificación de la COP31: la electrificación debe garantizar energía asequible y de base renovable para todos. Se relaciona con la vía de electrificación y el compromiso \"35 by 35\". Resumen basado únicamente en el título y el listado.",
+    "fr": "Position de la coalition Electrify Now, publiée par 350.org, sur le programme d'électrification de la COP31 : l'électrification doit garantir une énergie abordable et d'origine renouvelable pour tous. Elle concerne le volet électrification et l'engagement « 35 by 35 ». Résumé fondé uniquement sur le titre et la liste.",
+    "ru": "Позиция коалиции Electrify Now, опубликованная 350.org, по повестке электрификации КС-31: электрификация должна обеспечить доступную энергию на основе возобновляемых источников для всех. Относится к направлению электрификации и обязательству «35 by 35». Резюме основано только на заголовке и списке.",
+    "zh": "Electrify Now 联盟通过 350.org 发布了对 COP31 电气化议程的立场：电气化必须确保人人都能获得可负担的、以可再生能源为基础的能源。该立场涉及电气化议题和“35 by 35”承诺。摘要仅依据标题和列表。",
+    "ar": "موقف ائتلاف Electrify Now الذي نشرته 350.org بشأن جدول أعمال التحول الكهربائي في COP31: يجب أن يضمن التحول الكهربائي طاقة ميسورة التكلفة قائمة على مصادر متجددة للجميع. ويتصل بمسار التحول الكهربائي والتعهد \"35 by 35\". الملخص مبني على العنوان والقائمة فقط."
+   },
+   "tracks": [
+    "Eletrificação"
+   ],
+   "quotes": [
+    "Electrification must ensure affordable, renewables-based energy for all"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-2026-11-10-ending-fossil-fuels",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31: Climate advocates demand governments commit to ending fossil fuels",
+   "date": "2026-11-10",
+   "authors": "Gina Cortes (350.org)",
+   "url": "https://350.org/press-release/cop31-climate-advocates-demand-governments-commit-to-ending-fossil-fuels/",
+   "summary": "Comunicado da 350.org em que ativistas climáticos exigem que os governos se comprometam a encerrar o uso de combustíveis fósseis no âmbito da COP31. Relaciona-se à trilha de TAFF e fósseis. Resumo baseado apenas no título da listagem.",
+   "summary_i18n": {
+    "en": "Statement by 350.org in which climate advocates demand that governments commit to ending fossil fuels at COP31. It bears on the TAFF and fossil fuels track. Summary based only on the title in the listing.",
+    "es": "Comunicado de 350.org en el que activistas climáticos exigen que los gobiernos se comprometan a poner fin a los combustibles fósiles en la COP31. Se relaciona con la vía del TAFF y los combustibles fósiles. Resumen basado únicamente en el título del listado.",
+    "fr": "Communiqué de 350.org dans lequel des militants pour le climat exigent que les gouvernements s'engagent à mettre fin aux combustibles fossiles à la COP31. Il concerne le volet TAFF et combustibles fossiles. Résumé fondé uniquement sur le titre de la liste.",
+    "ru": "Заявление 350.org, в котором климатические активисты требуют от правительств обязаться прекратить использование ископаемого топлива на КС-31. Относится к направлению TAFF и ископаемое топливо. Резюме основано только на заголовке в списке.",
+    "zh": "350.org 发表声明，气候倡导者要求各国政府在 COP31 上承诺终结化石燃料。该声明涉及 TAFF 与化石燃料议题。摘要仅依据列表中的标题。",
+    "ar": "بيان صادر عن 350.org يطالب فيه ناشطو المناخ الحكومات بالالتزام بإنهاء الوقود الأحفوري في COP31. ويتصل بمسار TAFF والوقود الأحفوري. الملخص مبني على العنوان في القائمة فقط."
+   },
+   "tracks": [
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Climate advocates demand governments commit to ending fossil fuels"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "unfccc-2026-11-10-action-agenda-opening",
+   "institution": "UNFCCC",
+   "type": "ferramenta",
+   "title": "OPENING – COP 31 Global Climate Action Agenda: From Momentum to Scale",
+   "date": "2026-11-10",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/documents/663765",
+   "summary": "Nota conceitual da sessão de abertura da Agenda de Ação Climática Global da COP31, intitulada \"From Momentum to Scale\", publicada no repositório de documentos da UNFCCC. Relaciona-se à trilha da Agenda de Ação. Resumo baseado apenas no título e nos metadados.",
+   "summary_i18n": {
+    "en": "Concept note for the opening of the COP31 Global Climate Action Agenda, titled \"From Momentum to Scale\", posted in the UNFCCC documents repository. It bears on the Action Agenda track. Summary based only on the title and metadata.",
+    "es": "Nota conceptual de la apertura de la Agenda de Acción Climática Mundial de la COP31, titulada \"From Momentum to Scale\", publicada en el repositorio de documentos de la CMNUCC. Se relaciona con la vía de la Agenda de Acción. Resumen basado únicamente en el título y los metadatos.",
+    "fr": "Note conceptuelle de l'ouverture du Programme d'action mondial pour le climat de la COP31, intitulée « From Momentum to Scale », publiée dans le dépôt de documents de la CCNUCC. Elle concerne le volet Programme d'action. Résumé fondé uniquement sur le titre et les métadonnées.",
+    "ru": "Концептуальная записка об открытии Глобальной повестки дня в области климатических действий КС-31 под названием «From Momentum to Scale», размещённая в репозитории документов РКИК ООН. Относится к направлению Повестки дня действий. Резюме основано только на заголовке и метаданных.",
+    "zh": "关于 COP31 全球气候行动议程开幕环节的概念说明，题为“From Momentum to Scale”，已发布在《联合国气候变化框架公约》文件库中。涉及行动议程议题。摘要仅依据标题和元数据。",
+    "ar": "مذكرة مفاهيمية بشأن افتتاح خطة العمل المناخي العالمية في COP31 بعنوان \"From Momentum to Scale\"، نُشرت في مستودع وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وتتصل بمسار خطة العمل. الملخص مبني على العنوان والبيانات الوصفية فقط."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "OPENING – COP 31 Global Climate Action Agenda: From Momentum to Scale"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-10-ambition-dialogue",
+   "institution": "UNFCCC",
+   "type": "briefing",
+   "title": "Presentation from UNFCCC secretariat (Ambition Dialogue at COP 31)",
+   "date": "2026-11-10",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/documents/663835",
+   "summary": "Apresentação da secretaria da UNFCCC no Diálogo de Ambição da COP31, publicada no repositório de documentos. Relaciona-se à trilha de mitigação e ambição. Resumo baseado apenas no título e nos metadados; o conteúdo dos slides não foi lido.",
+   "summary_i18n": {
+    "en": "Presentation by the UNFCCC secretariat at the COP31 Ambition Dialogue, posted in the documents repository. It bears on the mitigation and ambition track. Summary based only on the title and metadata; the slide content was not read.",
+    "es": "Presentación de la secretaría de la CMNUCC en el Diálogo sobre la Ambición de la COP31, publicada en el repositorio de documentos. Se relaciona con la vía de mitigación y ambición. Resumen basado únicamente en el título y los metadatos; no se leyó el contenido de las diapositivas.",
+    "fr": "Présentation du secrétariat de la CCNUCC lors du Dialogue sur l'ambition de la COP31, publiée dans le dépôt de documents. Elle concerne le volet atténuation et ambition. Résumé fondé uniquement sur le titre et les métadonnées ; le contenu des diapositives n'a pas été lu.",
+    "ru": "Презентация секретариата РКИК ООН на Диалоге по амбициям КС-31, размещённая в репозитории документов. Относится к направлению смягчения последствий и амбиций. Резюме основано только на заголовке и метаданных; содержание слайдов не читалось.",
+    "zh": "《联合国气候变化框架公约》秘书处在 COP31 雄心对话会上的演示文稿，已发布在文件库中。涉及减缓与雄心议题。摘要仅依据标题和元数据，未阅读幻灯片内容。",
+    "ar": "عرض قدمته أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في حوار الطموح بمؤتمر COP31، نُشر في مستودع الوثائق. ويتصل بمسار التخفيف والطموح. الملخص مبني على العنوان والبيانات الوصفية فقط؛ ولم يُقرأ محتوى الشرائح."
+   },
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Presentation from UNFCCC secretariat (Ambition Dialogue at COP 31)"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "x-LDCChairUNFCCC-20261110-press-conference",
    "platform": "x",
@@ -2166,6 +2773,111 @@
    "first_seen": "2026-11-10T02:42:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "can-2026-11-09-fossil-of-the-day",
+   "institution": "CAN International",
+   "type": "comunicado",
+   "title": "COP31: Fossil of the Day – New Zealand; Ray of the Day – Brazil",
+   "date": "2026-11-09",
+   "authors": "CAN International",
+   "url": "https://climatenetwork.org/2026/11/09/cop31-fossil-of-the-day-new-zealand-ray-of-the-day-brazil/",
+   "summary": "Primeiro comunicado diário da Rede de Ação Climática (CAN) na COP31: concede o \"Fóssil do Dia\" à Nova Zelândia e o \"Raio do Dia\" ao Brasil. Ilustra a pressão da sociedade civil sobre as posições das Partes no início das negociações. Resumo baseado apenas no título; o texto não estava visível.",
+   "summary_i18n": {
+    "en": "First daily release by Climate Action Network (CAN) at COP31: it gives the \"Fossil of the Day\" to New Zealand and the \"Ray of the Day\" to Brazil. It illustrates civil society pressure on Parties' positions at the start of the negotiations. Summary based only on the title; the body text was not visible.",
+    "es": "Primer comunicado diario de la Red de Acción Climática (CAN) en la COP31: otorga el \"Fósil del Día\" a Nueva Zelanda y el \"Rayo del Día\" a Brasil. Ilustra la presión de la sociedad civil sobre las posiciones de las Partes al inicio de las negociaciones. Resumen basado únicamente en el título; el texto no estaba visible.",
+    "fr": "Premier communiqué quotidien du Réseau Action Climat (CAN) à la COP31 : il décerne le « Fossile du jour » à la Nouvelle-Zélande et le « Rayon du jour » au Brésil. Il illustre la pression de la société civile sur les positions des Parties au début des négociations. Résumé fondé uniquement sur le titre ; le texte n'était pas visible.",
+    "ru": "Первое ежедневное сообщение Сети действий по климату (CAN) на КС-31: «Ископаемое дня» присуждено Новой Зеландии, «Луч дня» — Бразилии. Иллюстрирует давление гражданского общества на позиции Сторон в начале переговоров. Резюме основано только на заголовке; текст не был виден.",
+    "zh": "气候行动网络（CAN）在 COP31 发布的首份每日通报：将“今日化石奖”授予新西兰，将“今日光芒奖”授予巴西。这反映了谈判开始之际民间社会对各缔约方立场施加的压力。摘要仅依据标题，正文不可见。",
+    "ar": "أول بيان يومي لشبكة العمل المناخي (CAN) في COP31: يمنح \"أحفورة اليوم\" لنيوزيلندا و\"شعاع اليوم\" للبرازيل. ويعكس ضغط المجتمع المدني على مواقف الأطراف في بداية المفاوضات. الملخص مبني على العنوان فقط؛ ولم يكن النص ظاهراً."
+   },
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "quotes": [
+    "COP31: Fossil of the Day – New Zealand; Ray of the Day – Brazil"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
+  },
+  {
+   "id": "icc-2026-11-09-product-carbon-ledgers",
+   "institution": "ICC",
+   "type": "notícia",
+   "title": "Expert panel launches plan for product carbon ledgers to make carbon performance visible",
+   "date": "2026-11-09",
+   "authors": "ICC and Carbon Measures",
+   "url": "https://iccwbo.org/news-publications/news/expert-panel-launches-plan-for-product-carbon-ledgers-to-make-carbon-performance-visible/",
+   "summary": "Um painel de especialistas da ICC e da Carbon Measures propõe um arcabouço de \"registros de carbono de produto\" para que os dados de emissões acompanhem os bens ao longo das cadeias de suprimento, de forma análoga à contabilidade de custos. Relaciona-se à trilha de comércio, em especial aos tributos de carbono sobre importações.",
+   "summary_i18n": {
+    "en": "An ICC and Carbon Measures expert panel proposes a framework of \"product carbon ledgers\" so that emissions data travel with goods through supply chains, similar to cost accounting. It bears on the trade track, notably carbon taxes on imports.",
+    "es": "Un panel de expertos de la CCI y Carbon Measures propone un marco de \"registros de carbono de producto\" para que los datos de emisiones acompañen a los bienes a lo largo de las cadenas de suministro, de forma similar a la contabilidad de costos. Se relaciona con la vía de comercio, en particular los impuestos al carbono sobre las importaciones.",
+    "fr": "Un groupe d'experts de la CCI et de Carbon Measures propose un cadre de « registres carbone de produit » afin que les données d'émissions suivent les biens tout au long des chaînes d'approvisionnement, à l'instar de la comptabilité analytique. Il concerne le volet commerce, notamment les taxes carbone sur les importations.",
+    "ru": "Группа экспертов МТП и Carbon Measures предлагает рамочную основу «углеродных реестров продукции», чтобы данные о выбросах сопровождали товары по цепочкам поставок, подобно учёту затрат. Относится к направлению торговли, в частности к углеродным налогам на импорт.",
+    "zh": "国际商会（ICC）与 Carbon Measures 的专家小组提出“产品碳账本”框架，使排放数据像成本核算一样随商品在供应链中流转。涉及贸易议题，特别是针对进口产品的碳税。",
+    "ar": "اقترح فريق خبراء من غرفة التجارة الدولية وCarbon Measures إطاراً لـ\"سجلات الكربون للمنتجات\" بحيث تنتقل بيانات الانبعاثات مع السلع عبر سلاسل الإمداد، على غرار محاسبة التكاليف. ويتصل بمسار التجارة، ولا سيما الضرائب على الكربون في الواردات."
+   },
+   "tracks": [
+    "Comércio"
+   ],
+   "quotes": [
+    "Governments are starting to tax the carbon in imported products"
+   ],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "wri-2026-11-09-electrification-energy-bills",
+   "institution": "WRI",
+   "type": "opinião",
+   "title": "Electrification Can Lower Energy Bills, but Only if We Do it Right",
+   "date": "2026-11-09",
+   "authors": "WRI",
+   "url": "https://www.wri.org/insights/5-ways-electrification-can-lower-energy-bills",
+   "summary": "Comentário do WRI, no contexto da COP31 em Antalya, sobre se o impulso à eletrificação reduzirá de fato as contas de energia, argumentando que o resultado depende de como a transição for conduzida. Relaciona-se à trilha de eletrificação. Resumo baseado apenas no título e no trecho visível da listagem.",
+   "summary_i18n": {
+    "en": "WRI commentary, ahead of COP31 in Antalya, asking whether the push to electrify will actually lower energy bills, arguing that the outcome depends on how the transition is carried out. It bears on the electrification track. Summary based only on the title and the teaser visible in the listing.",
+    "es": "Comentario del WRI, en el contexto de la COP31 en Antalya, sobre si el impulso a la electrificación reducirá realmente las facturas de energía, y que sostiene que el resultado depende de cómo se lleve a cabo la transición. Se relaciona con la vía de electrificación. Resumen basado únicamente en el título y el extracto visible en el listado.",
+    "fr": "Commentaire du WRI, dans le contexte de la COP31 à Antalya, se demandant si l'élan en faveur de l'électrification fera réellement baisser les factures d'énergie, et soutenant que le résultat dépend de la manière dont la transition est menée. Il concerne le volet électrification. Résumé fondé uniquement sur le titre et l'extrait visible dans la liste.",
+    "ru": "Комментарий WRI в контексте КС-31 в Анталье о том, действительно ли курс на электрификацию снизит счета за энергию; утверждается, что результат зависит от способа проведения перехода. Относится к направлению электрификации. Резюме основано только на заголовке и фрагменте, видимом в списке.",
+    "zh": "世界资源研究所（WRI）在安塔利亚 COP31 召开之际发表评论，探讨推进电气化是否真能降低能源账单，并指出结果取决于转型的具体实施方式。涉及电气化议题。摘要仅依据标题和列表中可见的摘录。",
+    "ar": "تعليق لمعهد الموارد العالمية (WRI) في سياق COP31 في أنطاليا يتساءل عمّا إذا كان الدفع نحو التحول الكهربائي سيخفض فواتير الطاقة فعلاً، ويرى أن النتيجة تتوقف على كيفية تنفيذ التحول. ويتصل بمسار التحول الكهربائي. الملخص مبني على العنوان والمقتطف الظاهر في القائمة فقط."
+   },
+   "tracks": [
+    "Eletrificação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
+   "id": "ics-2026-11-09-povos-indigenas-fundo-florestas",
+   "institution": "iCS (Instituto Clima e Sociedade)",
+   "type": "notícia",
+   "title": "Povos indígenas e comunidades tradicionais como agentes centrais no Fundo de Florestas",
+   "date": "2026-11-09",
+   "authors": "iCS",
+   "url": "https://climaesociedade.org/povos-indigenas-e-comunidades-tradicionais-como-agentes-centrais-no-fundo-de-florestas/",
+   "summary": "Publicação do iCS defendendo que povos indígenas e comunidades tradicionais tenham papel central no fundo de florestas (TFFF), no contexto da COP31. Relaciona-se à trilha de florestas e finanças. Resumo baseado apenas no título e na listagem.",
+   "summary_i18n": {
+    "en": "iCS post arguing that Indigenous Peoples and traditional communities should play a central role in the forest fund (TFFF) in the context of COP31. It bears on the forests and finance track. Summary based only on the title and the listing.",
+    "es": "Publicación del iCS que defiende que los pueblos indígenas y las comunidades tradicionales tengan un papel central en el fondo de bosques (TFFF), en el contexto de la COP31. Se relaciona con la vía de bosques y finanzas. Resumen basado únicamente en el título y el listado.",
+    "fr": "Publication de l'iCS soutenant que les peuples autochtones et les communautés traditionnelles jouent un rôle central dans le fonds pour les forêts (TFFF), dans le contexte de la COP31. Elle concerne le volet forêts et finances. Résumé fondé uniquement sur le titre et la liste.",
+    "ru": "Публикация iCS, в которой утверждается, что коренные народы и традиционные сообщества должны играть центральную роль в фонде для лесов (TFFF) в контексте КС-31. Относится к направлению лесов и финансов. Резюме основано только на заголовке и списке.",
+    "zh": "iCS 发表文章，主张在 COP31 背景下，原住民和传统社区应在森林基金（TFFF）中发挥核心作用。涉及森林与资金议题。摘要仅依据标题和列表。",
+    "ar": "منشور لمعهد المناخ والمجتمع (iCS) يدعو إلى أن تضطلع الشعوب الأصلية والمجتمعات التقليدية بدور محوري في صندوق الغابات (TFFF) في سياق COP31. ويتصل بمسار الغابات والتمويل. الملخص مبني على العنوان والقائمة فقط."
+   },
+   "tracks": [
+    "Florestas",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-10T18:15:00-03:00",
+   "lang": "pt",
+   "source_id": "web-climaesociedade-org-noticias"
   },
   {
    "id": "wbcsd-2026-11-09-regenerative-landscapes",
@@ -9225,14 +9937,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T17:46:00-03:00",
-  "label": "10 nov 2026, 17:46 (Brasília)",
-  "accounts_checked": 46,
-  "blocked": 1,
-  "new_items": 4,
+  "timestamp": "2026-11-10T18:50:00-03:00",
+  "label": "10 nov 2026, 18:50 (Brasília)",
+  "accounts_checked": 45,
+  "blocked": 0,
+  "new_items": 17,
   "cadence": "a cada hora",
-  "blocked_accounts": [
-   "x-mmeioambiente"
-  ]
+  "blocked_accounts": []
  }
 }
