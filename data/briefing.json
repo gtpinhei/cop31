@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-10",
- "generated_at": "2026-11-10T15:59+03:00",
+ "generated_at": "2026-11-10T16:59+03:00",
  "window": {
   "from": "2026-11-07",
   "to": "2026-11-10",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T06:16:42-03:00",
-  "social_round": "2026-11-10T09:55:00-03:00",
+  "social_round": "2026-11-10T10:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 76,
-  "stories": 68,
+  "candidates": 79,
+  "stories": 71,
   "top": 8,
   "publishers": [
    "350.org",
@@ -646,6 +646,44 @@
     "related": [],
     "publishers": [
      "WMO"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb-20261110-primeiro-dia-negociacoes",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb-20261110-primeiro-dia-negociacoes",
+     "title": "enb.iisd.org: On the first full day of negotiations at #COP31, familiar fault lines are emerging: whether new institutions are…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzynq5rbmc2x",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "10:03",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: no primeiro dia pleno de negociações da COP31, surgem linhas de divisão conhecidas, como a necessidade de novas instituições e a ligação entre ação, finanças e apoio.",
+     "collected_at": "2026-11-10T10:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: on the first full day of COP31 negotiations, familiar fault lines are emerging, such as whether new institutions are needed and how action is linked to finance and support.",
+      "es": "ENB: en el primer día completo de negociaciones de la COP31 surgen líneas de fractura conocidas, como si hacen falta nuevas instituciones y cómo vincular la acción con la financiación y el apoyo.",
+      "fr": "ENB : lors de la première journée complète de négociations de la COP31, des clivages familiers apparaissent, notamment sur la nécessité de nouvelles institutions et sur le lien entre action, financement et soutien.",
+      "ru": "ENB: в первый полный день переговоров КС-31 проявляются знакомые линии разлома — нужны ли новые институты и как увязать действия с финансированием и поддержкой.",
+      "zh": "ENB：在COP31谈判的第一个完整日，熟悉的分歧浮现，包括是否需要新机构，以及如何将行动与资金和支持挂钩。",
+      "ar": "نشرة مفاوضات الأرض (ENB): في أول يوم كامل من مفاوضات COP31 تظهر خطوط الانقسام المعروفة، ومنها الحاجة إلى مؤسسات جديدة وكيفية ربط العمل بالتمويل والدعم."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1576,6 +1614,83 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-35by35",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-35by35",
+     "title": "@turkiyecop31: Raising electricity’s share of global final energy consumption to 35% by 2035 is the ambition behind the 35 by 35…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkCAqps1ia/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "10:38",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31: na coletiva, Murat Kurum apresentou o compromisso global \"35 by 35\", que eleva a eletricidade a 35% do consumo final de energia até 2035.",
+     "collected_at": "2026-11-10T10:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency: at the press briefing, Murat Kurum outlined the \"35 by 35\" Global Electrification Pledge, raising electricity to 35% of global final energy consumption by 2035.",
+      "es": "Presidencia de la COP31: en la rueda de prensa, Murat Kurum presentó el compromiso mundial \"35 by 35\", que eleva la electricidad al 35 % del consumo final de energía para 2035.",
+      "fr": "Présidence de la COP31 : lors du point de presse, Murat Kurum a présenté l'engagement mondial « 35 by 35 », qui porte la part de l'électricité à 35 % de la consommation finale d'énergie d'ici 2035.",
+      "ru": "Президентство КС-31: на брифинге Мурат Курум представил Глобальное обязательство по электрификации «35 by 35», предусматривающее увеличение доли электроэнергии до 35% в мировом конечном потреблении энергии к 2035 году.",
+      "zh": "COP31主席团：在新闻发布会上，穆拉特·库鲁姆介绍了“35 by 35”全球电气化承诺，目标是到2035年使电力占全球终端能源消费的35%。",
+      "ar": "رئاسة COP31: في الإحاطة الصحفية، عرض مراد كوروم التعهد العالمي للكهربة «35 بحلول 35» الذي يرفع حصة الكهرباء إلى 35% من الاستهلاك النهائي العالمي للطاقة بحلول عام 2035."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261110-stiell-eletrica",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261110-stiell-eletrica",
+     "title": "@turkiyecop31: The transition to the electric era is no longer a matter of choice for nations, but a necessity to reduce economic…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfkCjFLsDhS/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-10",
+     "time": "10:42",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Presidência da COP31 destaca Simon Stiell na coletiva: a transição para a era elétrica deixou de ser escolha e é necessidade; ele pediu que os países reorganizem suas economias em torno de tecnologias elétricas eficientes.",
+     "collected_at": "2026-11-10T10:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 Presidency highlights Simon Stiell at the press briefing: the transition to the electric era is no longer a choice but a necessity; he urged countries to rewire their economies around efficient electric technologies.",
+      "es": "La Presidencia de la COP31 destaca a Simon Stiell en la rueda de prensa: la transición a la era eléctrica ya no es una opción sino una necesidad; instó a los países a reconfigurar sus economías en torno a tecnologías eléctricas eficientes.",
+      "fr": "La Présidence de la COP31 met en avant Simon Stiell lors du point de presse : la transition vers l'ère électrique n'est plus un choix mais une nécessité ; il a appelé les pays à réorganiser leurs économies autour de technologies électriques efficaces.",
+      "ru": "Президентство КС-31 выделяет выступление Саймона Стилла на брифинге: переход к электрической эре — уже не выбор, а необходимость; он призвал страны перестроить экономики на основе эффективных электрических технологий.",
+      "zh": "COP31主席团重点转述西蒙·斯蒂尔在新闻发布会上的发言：向电气时代转型已不是选择而是必需；他呼吁各国围绕高效电力技术重塑经济。",
+      "ar": "تبرز رئاسة COP31 كلمة سايمون ستيل في الإحاطة الصحفية: التحول إلى عصر الكهرباء لم يعد خيارًا بل ضرورة، ودعا الدول إلى إعادة هيكلة اقتصاداتها حول تقنيات كهربائية كفؤة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
