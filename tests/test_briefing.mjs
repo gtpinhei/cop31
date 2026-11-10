@@ -123,4 +123,21 @@ const sec = (d, k) => d.querySelector(`.brf-sec[data-sec="${k}"]`);
   assert(b.calls.some(u => u.includes("data/pulse.json")), "Social Pulse still loads its accounts");
 }
 
+// 7. hero copy: headline, subtitle, curation details collapsed, every language translated
+{
+  const exp = { pt: "Filtre o ruído. Acompanhe o que importa.", en: "Cut through the noise. Follow what matters.", es: "Menos ruido. Lo que de verdad importa.",
+    fr: "Moins de bruit. L’essentiel, chaque jour.", ru: "Без информационного шума. Только главное.", zh: "拨开纷扰，紧盯要事。", ar: "بعيدًا عن الضجيج، تابع ما يهمّ." };
+  for (const [l, h] of Object.entries(exp)) {
+    const b = boot({ briefing: brief(), lang: l === "pt" ? undefined : l }); await sleep(l === "pt" ? 120 : 300);
+    const hero = b.d.querySelector("#view-hoje .hoje-hero");
+    assert(hero.querySelector(".hoje-h").textContent === h && hero.querySelector(".hoje-sub").textContent.length > 30, l + ": headline and subtitle");
+    const how = hero.querySelector("details.hoje-how");
+    assert(how && !how.open && how.querySelector("a[href='#pulso']") && how.querySelector("a[href='#atualizacoes']"), l + ": curation explanation collapsed, links to Pulso and Atualizações kept");
+    if (l === "ar") assert(b.d.documentElement.dir === "rtl", "ar: right-to-left");
+  }
+  const b = boot({ briefing: brief() }); await sleep(120);
+  assert(!b.d.querySelector("#view-hoje > p.intro"), "the long introduction is gone from the page body");
+  assert(sec(b.d, "essential").querySelector(".brf-card h4 a").getAttribute("href").startsWith("https://"), "stories keep their source links");
+}
+
 if (failed) { console.error(failed + " failed"); process.exit(1); }
