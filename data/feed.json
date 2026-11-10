@@ -34,6 +34,250 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261110-bowen-abertura",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:00",
+   "text": "Built on trust, solidarity, and shared resolve, the Türkiye–Australia partnership sits at the very heart of COP31. Addressing the Opening Ceremony, #COP31 President of Negotiations Chris Bowen urged nations to unite in a spirit of cooperation and mutual respect—proving that multilateralism delivers, and that the world is ready to rise to the climate challenge. #COP31Türkiye #COP31Antalya",
+   "summary": "A presidência destaca a parceria Türkiye–Austrália no centro da COP31 e cita o discurso de Chris Bowen, Presidente das Negociações, na cerimônia de abertura, pedindo cooperação e respeito mútuo entre as nações.",
+   "summary_i18n": {
+    "en": "The presidency highlights the Türkiye–Australia partnership at the heart of COP31 and cites the opening ceremony address by Chris Bowen, President of Negotiations, urging nations to cooperate with mutual respect.",
+    "es": "La presidencia destaca la alianza Türkiye–Australia en el centro de la COP31 y cita el discurso de Chris Bowen, Presidente de las Negociaciones, en la ceremonia de apertura, que instó a las naciones a cooperar con respeto mutuo.",
+    "fr": "La présidence souligne le partenariat Türkiye–Australie au cœur de la COP31 et cite le discours de Chris Bowen, Président des négociations, à la cérémonie d'ouverture, appelant les nations à coopérer dans le respect mutuel.",
+    "ru": "Президентство подчёркивает, что партнёрство Турции и Австралии лежит в основе COP31, и приводит выступление Криса Боуэна, Президента переговоров, на церемонии открытия с призывом к сотрудничеству и взаимному уважению.",
+    "zh": "主席团强调土耳其与澳大利亚的伙伴关系是COP31的核心，并引述谈判主席克里斯·鲍恩在开幕式上的讲话，呼吁各国本着合作和相互尊重的精神团结一致。",
+    "ar": "تبرز الرئاسة أن الشراكة بين تركيا وأستراليا في صميم COP31، وتشير إلى كلمة كريس بوين، رئيس المفاوضات، في حفل الافتتاح التي دعا فيها الدول إلى التعاون والاحترام المتبادل."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "source_id": "x-turkiyecop31",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "x-murat_kurum-20261110-coletiva-stiell-bowen",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:23",
+   "text": "📡 COP31'de Simon Stiell ve Chris Bowen ile basın toplantısı gerçekleştiriyoruz. (LIVE)",
+   "summary": "Murat Kurum transmite ao vivo a coletiva de imprensa na COP31 com Simon Stiell e Chris Bowen.",
+   "summary_i18n": {
+    "en": "Murat Kurum streams live the COP31 press conference with Simon Stiell and Chris Bowen.",
+    "es": "Murat Kurum transmite en directo la conferencia de prensa de la COP31 con Simon Stiell y Chris Bowen.",
+    "fr": "Murat Kurum diffuse en direct la conférence de presse de la COP31 avec Simon Stiell et Chris Bowen.",
+    "ru": "Мурат Курум транслирует в прямом эфире пресс-конференцию COP31 с Саймоном Стеллом и Крисом Боуэном.",
+    "zh": "穆拉特·库鲁姆直播COP31与西蒙·斯蒂尔和克里斯·鲍恩共同出席的新闻发布会。",
+    "ar": "يبث مراد كوروم مباشرة المؤتمر الصحفي لـ COP31 مع سيمون ستيل وكريس بوين."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "tr",
+   "source_id": "x-murat-kurum",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "x-murat_kurum-20261110-ex-presidentes-cop",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "04:47",
+   "text": "📡 COP Eski Başkanlarından Ortak Bildiri (REPLAY)",
+   "summary": "Kurum divulga a reprise da declaração conjunta dos ex-presidentes de COP, feita em encontro com a presidência da COP31.",
+   "summary_i18n": {
+    "en": "Kurum shares the replay of the joint statement by former COP Presidents, issued at a meeting with the COP31 presidency.",
+    "es": "Kurum comparte la repetición de la declaración conjunta de los anteriores Presidentes de la COP, emitida en una reunión con la presidencia de la COP31.",
+    "fr": "Kurum partage la rediffusion de la déclaration conjointe des anciens Présidents de la COP, faite lors d'une réunion avec la présidence de la COP31.",
+    "ru": "Курум публикует запись совместного заявления бывших председателей КС, сделанного на встрече с президентством COP31.",
+    "zh": "库鲁姆发布历届COP主席联合声明的回放，该声明是在与COP31主席团会面时发表的。",
+    "ar": "ينشر كوروم تسجيل البيان المشترك لرؤساء مؤتمر الأطراف السابقين الذي صدر في لقاء مع رئاسة COP31."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "tr",
+   "source_id": "x-murat-kurum",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "x-unfccc-20261110-coletiva-abertura",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:23",
+   "text": "🔴Watch live now: COP31 opening press conference (YouTube link)",
+   "summary": "A UNFCCC transmite ao vivo a coletiva de imprensa de abertura da COP31.",
+   "summary_i18n": {
+    "en": "UNFCCC streams the COP31 opening press conference live.",
+    "es": "La CMNUCC transmite en directo la conferencia de prensa de apertura de la COP31.",
+    "fr": "La CCNUCC diffuse en direct la conférence de presse d'ouverture de la COP31.",
+    "ru": "РКИК ООН транслирует в прямом эфире открывающую пресс-конференцию COP31.",
+    "zh": "联合国气候变化框架公约秘书处直播COP31开幕新闻发布会。",
+    "ar": "تبث اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ مباشرة المؤتمر الصحفي الافتتاحي لـ COP31."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "source_id": "x-unfccc",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-defensores",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:34",
+   "text": "Closing the Gap: environmental defenders' recognition, participation & protection in climate action",
+   "summary": "Vídeo do evento \"Closing the Gap\" sobre reconhecimento, participação e proteção de defensores ambientais na ação climática.",
+   "summary_i18n": {
+    "en": "Video of the \"Closing the Gap\" event on the recognition, participation and protection of environmental defenders in climate action.",
+    "es": "Vídeo del evento \"Closing the Gap\" sobre el reconocimiento, la participación y la protección de los defensores ambientales en la acción climática.",
+    "fr": "Vidéo de l'événement « Closing the Gap » sur la reconnaissance, la participation et la protection des défenseurs de l'environnement dans l'action climatique.",
+    "ru": "Видео мероприятия «Closing the Gap» о признании, участии и защите защитников окружающей среды в борьбе с изменением климата.",
+    "zh": "“缩小差距”活动视频，主题为在气候行动中承认、参与和保护环境捍卫者。",
+    "ar": "فيديو فعالية \"Closing the Gap\" حول الاعتراف بالمدافعين عن البيئة ومشاركتهم وحمايتهم في العمل المناخي."
+   },
+   "url": "https://www.youtube.com/watch?v=-Mo2P9GcsDc",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-belem-tip",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:27",
+   "text": "OPERATIONALIZING THE BELÉM TIP THROUGH SOUTH-SOUTH COOPERATION APPROACH AND TECHNOLOGY DIFFUSION",
+   "summary": "Vídeo de sessão sobre operacionalizar o Belém TIP por meio da cooperação Sul-Sul e da difusão de tecnologia.",
+   "summary_i18n": {
+    "en": "Video of a session on operationalizing the Belém TIP through South-South cooperation and technology diffusion.",
+    "es": "Vídeo de una sesión sobre la puesta en marcha del Belém TIP mediante la cooperación Sur-Sur y la difusión de tecnología.",
+    "fr": "Vidéo d'une session sur l'opérationnalisation du Belém TIP par la coopération Sud-Sud et la diffusion des technologies.",
+    "ru": "Видео сессии об операционализации Belém TIP на основе сотрудничества Юг–Юг и распространения технологий.",
+    "zh": "关于通过南南合作和技术扩散落实贝伦TIP的会议视频。",
+    "ar": "فيديو جلسة حول تفعيل Belém TIP من خلال التعاون بين بلدان الجنوب ونشر التكنولوجيا."
+   },
+   "url": "https://www.youtube.com/watch?v=M6gHF4QBDFc",
+   "tracks": [
+    "Mitigação e MWP",
+    "Agenda de Ação"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-ocean-dialogue",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:08",
+   "text": "2026 Ocean Dialogue: From Dialogue to Delivery: Implementing Ocean Ambition through COP31",
+   "summary": "Vídeo do Diálogo do Oceano 2026: do diálogo à entrega, implementando a ambição para os oceanos por meio da COP31.",
+   "summary_i18n": {
+    "en": "Video of the 2026 Ocean Dialogue: From Dialogue to Delivery, implementing ocean ambition through COP31.",
+    "es": "Vídeo del Diálogo sobre los Océanos 2026: del diálogo a la ejecución, para aplicar la ambición oceánica mediante la COP31.",
+    "fr": "Vidéo du Dialogue sur l'océan 2026 : du dialogue à la mise en œuvre de l'ambition océanique grâce à la COP31.",
+    "ru": "Видео Диалога по океану 2026: от диалога к результатам — реализация амбиций в отношении океана через COP31.",
+    "zh": "2026年海洋对话视频：从对话到落实，通过COP31推进海洋雄心。",
+    "ar": "فيديو حوار المحيطات 2026: من الحوار إلى التنفيذ، لتحقيق الطموح المتعلق بالمحيطات عبر COP31."
+   },
+   "url": "https://www.youtube.com/watch?v=AO3a9VGMrWE",
+   "tracks": [
+    "Oceanos"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261110-zimbabue-fmcp4",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "04:54",
+   "text": "Zimbabwe FMCP4: Pre-recorded presentation for the Facilitative Multilateral Consideration of Progress of Zimbabwe during SB65@COP31 in Antalya, November 2026",
+   "summary": "Apresentação pré-gravada do Zimbábue na quarta rodada da Consideração Multilateral Facilitadora de Progresso (FMCP4), durante a SB65 na COP31.",
+   "summary_i18n": {
+    "en": "Pre-recorded presentation by Zimbabwe at the fourth Facilitative Multilateral Consideration of Progress (FMCP4) during SB65 at COP31.",
+    "es": "Presentación pregrabada de Zimbabwe en la cuarta Consideración Multilateral Facilitadora del Progreso (FMCP4) durante el SB65 en la COP31.",
+    "fr": "Présentation préenregistrée du Zimbabwe lors de la quatrième Considération multilatérale facilitatrice des progrès (FMCP4) pendant la SB65 à la COP31.",
+    "ru": "Предварительно записанная презентация Зимбабве в рамках четвёртого Содействующего многостороннего рассмотрения прогресса (FMCP4) во время SB65 на COP31.",
+    "zh": "津巴布韦在COP31期间SB65会议第四轮促进性多边进展审议（FMCP4）上的预录陈述。",
+    "ar": "عرض مسجل مسبقاً من زمبابوي في الجولة الرابعة من النظر المتعدد الأطراف التيسيري في التقدم (FMCP4) خلال SB65 في COP31."
+   },
+   "url": "https://www.youtube.com/watch?v=gmWiPnDpqaE",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
+   "id": "bluesky-drsimevansca-20261110-transporte",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "05:12",
+   "text": "#COP31 travel a total farce.\n\nOrganisers really need to get a grip, else tempers will fray quickly.\n\nTwo hours on a bus. Turfed off to get the tram. No space on the tram. \n\nHalf the freeway closed (for VIPs??).\n\nConsidering walking.",
+   "summary": "Simon Evans (Carbon Brief) critica o transporte até a COP31: duas horas de ônibus, bonde lotado e metade da via expressa fechada, e pede que os organizadores resolvam o problema.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) criticises transport to COP31: two hours on a bus, a full tram and half the freeway closed, urging organisers to get a grip.",
+    "es": "Simon Evans (Carbon Brief) critica el transporte a la COP31: dos horas en autobús, tranvía lleno y media autopista cerrada, y pide a los organizadores que lo resuelvan.",
+    "fr": "Simon Evans (Carbon Brief) critique les transports vers la COP31 : deux heures de bus, tramway plein et la moitié de l'autoroute fermée, et demande aux organisateurs de réagir.",
+    "ru": "Саймон Эванс (Carbon Brief) критикует транспорт до COP31: два часа в автобусе, переполненный трамвай и перекрытая половина трассы; он призывает организаторов навести порядок.",
+    "zh": "西蒙·埃文斯（Carbon Brief）批评前往COP31的交通：公交两小时、电车满员、半条高速公路封闭，呼吁组织方尽快解决。",
+    "ar": "ينتقد سيمون إيفانز (Carbon Brief) النقل إلى COP31: ساعتان في الحافلة وترام مزدحم وإغلاق نصف الطريق السريع، ويدعو المنظمين إلى معالجة الأمر."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3mzwyllokls2j",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org",
+   "first_seen": "2026-11-10T05:42:35-03:00",
+   "kind": "post"
+  },
+  {
    "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
    "kind": "post",
    "platform": "instagram",
