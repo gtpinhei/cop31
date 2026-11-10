@@ -34,6 +34,88 @@
  ],
  "items": [
   {
+   "id": "x-LulaOficial-20261110-encontro-erdogan",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-10",
+   "time": "14:33",
+   "text": "Me reuni nesta terça (10) com o Presidente da Turquia, Recep Tayyip Erdogan, à margem da COP31, em Antália. Em nossa conversa, o Presidente Erdogan cumprimentou-me pela vitória eleitoral e destacou a expressiva mobilização que tomou conta das ruas no Brasil por ocasião das …",
+   "summary": "Lula diz ter se reunido com o presidente turco Recep Tayyip Erdogan, à margem da COP31 em Antália; Erdogan o cumprimentou pela vitória eleitoral.",
+   "summary_i18n": {
+    "en": "Lula says he met Turkish President Recep Tayyip Erdogan on the sidelines of COP31 in Antalya; Erdogan congratulated him on his election victory.",
+    "es": "Lula dice haberse reunido con el presidente turco Recep Tayyip Erdogan al margen de la COP31 en Antalya; Erdogan lo felicitó por su victoria electoral.",
+    "fr": "Lula indique avoir rencontré le président turc Recep Tayyip Erdogan en marge de la COP31 à Antalya ; M. Erdogan l'a félicité pour sa victoire électorale.",
+    "ru": "Лула сообщил, что встретился с президентом Турции Реджепом Тайипом Эрдоганом в кулуарах КС-31 в Анталье; Эрдоган поздравил его с победой на выборах.",
+    "zh": "卢拉表示,他在安塔利亚COP31会议期间与土耳其总统雷杰普·塔伊普·埃尔多安会面;埃尔多安祝贺他赢得大选。",
+    "ar": "قال لولا إنه التقى الرئيس التركي رجب طيب أردوغان على هامش مؤتمر الأطراف الحادي والثلاثين (COP31) في أنطاليا، وإن أردوغان هنأه على فوزه في الانتخابات."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T14:50:00-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261110-delegados-cop31",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "14:27",
+   "text": "NEW – Analysis: Which countries have sent the most delegates to COP31? | @rtmcswee.carbonbrief.org Ho Woo Nam. Read here: buff.ly/QqcIlk0",
+   "summary": "Análise do Carbon Brief mostra quais países enviaram mais delegados à COP31; os dados provisórios somam 18.812 delegados de Partes e 3.645 de mídia.",
+   "summary_i18n": {
+    "en": "Carbon Brief analysis shows which countries have sent the most delegates to COP31; provisional data show 18,812 Party delegates and 3,645 media representatives.",
+    "es": "Un análisis de Carbon Brief muestra qué países han enviado más delegados a la COP31; los datos provisionales indican 18.812 delegados de las Partes y 3.645 de medios.",
+    "fr": "Une analyse de Carbon Brief montre quels pays ont envoyé le plus de délégués à la COP31 ; les données provisoires font état de 18 812 délégués des Parties et de 3 645 représentants des médias.",
+    "ru": "Анализ Carbon Brief показывает, какие страны направили на КС-31 больше всего делегатов; по предварительным данным, это 18 812 делегатов от Сторон и 3 645 представителей СМИ.",
+    "zh": "Carbon Brief的分析显示了哪些国家向COP31派出的代表最多;临时数据显示缔约方代表18,812人,媒体代表3,645人。",
+    "ar": "يبيّن تحليل لموقع Carbon Brief الدول التي أرسلت أكبر عدد من المندوبين إلى COP31؛ وتشير البيانات الأولية إلى 18,812 مندوباً عن الأطراف و3,645 من الإعلام."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzxxm3oq6x26",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-10T14:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261110-koc-painel-kurum",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-10",
+   "time": "14:31",
+   "text": "At the high-level panel ‘From Commitments to Action: The Role of Business and Policy in the Global Climate Agenda’, hosted by COP31 Global Business Partner Koç Holding, COP31 President Murat Kurum addressed global leaders and business representatives. Highlighting the journey from Paris to Glasgow, he reaffirmed Türkiye’s dedication to delivering an implementation-focused conference in Antalya, underscoring the vital cooperation between policymakers and the private sector to keep the 1.5°C goal within reach.",
+   "summary": "Presidência da COP31: em painel de alto nível promovido pela Koç Holding, parceira global de negócios, o presidente Murat Kurum reafirmou o foco da conferência na implementação e a cooperação entre governos e setor privado para manter a meta de 1,5°C ao alcance.",
+   "summary_i18n": {
+    "en": "COP31 Presidency: at a high-level panel hosted by Global Business Partner Koç Holding, COP31 President Murat Kurum reaffirmed the conference's focus on implementation and cooperation between policymakers and the private sector to keep the 1.5°C goal within reach.",
+    "es": "Presidencia de la COP31: en un panel de alto nivel organizado por Koç Holding, socio empresarial mundial, el presidente Murat Kurum reafirmó el enfoque de la conferencia en la implementación y la cooperación entre responsables políticos y sector privado para mantener al alcance el objetivo de 1,5 °C.",
+    "fr": "Présidence de la COP31 : lors d'un panel de haut niveau organisé par Koç Holding, partenaire commercial mondial, le président Murat Kurum a réaffirmé l'orientation de la conférence vers la mise en œuvre et la coopération entre décideurs et secteur privé pour garder l'objectif de 1,5 °C à portée de main.",
+    "ru": "Президентство КС-31: на панели высокого уровня, организованной глобальным деловым партнёром Koç Holding, президент Мурат Курум подтвердил ориентацию конференции на выполнение решений и сотрудничество между директивными органами и частным сектором ради сохранения достижимости цели в 1,5°C.",
+    "zh": "COP31主席国:在全球商业合作伙伴Koç Holding举办的高级别小组讨论会上,主席穆拉特·库鲁姆重申大会以落实为重点,并强调决策者与私营部门合作,以确保1.5°C目标仍可实现。",
+    "ar": "رئاسة COP31: في حلقة نقاش رفيعة المستوى نظمتها شركة Koç Holding، الشريك التجاري العالمي، أكد الرئيس مراد قوروم تركيز المؤتمر على التنفيذ والتعاون بين صانعي السياسات والقطاع الخاص للإبقاء على هدف 1,5 درجة مئوية في المتناول."
+   },
+   "url": "https://www.instagram.com/p/DfkcuFhsn9b/",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-10T14:50:00-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
    "id": "x-marinasilva-20261110-fundo-amazonia-noruega",
    "kind": "post",
    "platform": "x",
@@ -9029,11 +9111,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T13:55:00-03:00",
-  "label": "10 nov 2026, 13:55 (Brasília)",
-  "accounts_checked": 29,
+  "timestamp": "2026-11-10T14:50:00-03:00",
+  "label": "10 nov 2026, 14:50 (Brasília)",
+  "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 2,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
