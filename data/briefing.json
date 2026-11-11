@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T22:58+03:00",
+ "generated_at": "2026-11-11T23:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T12:17:00-03:00",
-  "social_round": "2026-11-11T16:50:00-03:00",
+  "social_round": "2026-11-11T17:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 126,
-  "stories": 108,
+  "candidates": 129,
+  "stories": 111,
   "top": 8,
   "publishers": [
    "350.org",
@@ -771,6 +771,82 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-transicao-justa-pna",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-transicao-justa-pna",
+     "title": "enb.iisd.org: #COP31 Delegates reviewed the Just Transition Work Programme, with broad support emerging for its continuation…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22rccjthk2f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "17:12",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: delegados revisaram o Programa de Trabalho sobre Transição Justa, com amplo apoio à continuidade após 2026; PMDs pediram uma plataforma de implementação de planos nacionais de adaptação.",
+     "collected_at": "2026-11-11T17:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: delegates reviewed the Just Transition Work Programme, with broad support for continuing it beyond 2026; LDCs called for a national adaptation plan implementation platform.",
+      "es": "ENB: los delegados examinaron el Programa de Trabajo sobre Transición Justa, con amplio apoyo a su continuación más allá de 2026; los PMA pidieron una plataforma de implementación de los planes nacionales de adaptación.",
+      "fr": "ENB : les délégués ont examiné le programme de travail sur la transition juste, largement soutenu pour se poursuivre au-delà de 2026 ; les PMA ont demandé une plateforme de mise en œuvre des plans nationaux d'adaptation.",
+      "ru": "ENB: делегаты рассмотрели Программу работы по справедливому переходу, при широкой поддержке её продолжения после 2026 года; НРС призвали создать платформу для реализации национальных планов адаптации.",
+      "zh": "地球谈判通报：代表们审议了公正转型工作方案，广泛支持其在 2026 年后继续；最不发达国家呼吁建立国家适应计划实施平台。",
+      "ar": "نشرة مفاوضات الأرض: استعرض المندوبون برنامج العمل بشأن الانتقال العادل مع دعم واسع لاستمراره بعد 2026؛ ودعت أقل البلدان نموًا إلى منصة لتنفيذ خطط التكيّف الوطنية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-agrifood-sinergias",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-agrifood-sinergias",
+     "title": "enb.iisd.org: #COP31 Participants focused on strengthening synergies between existing initiatives and solutions across…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22qgcr3y22f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "16:56",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: na mesa-redonda agroalimentar da COP31, participantes focaram em sinergias entre iniciativas e soluções em agricultura, sistemas alimentares, restauração, água e nutrição, com financiamento climático mais acessível e flexível.",
+     "collected_at": "2026-11-11T17:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: at the COP31 agrifood roundtable, participants focused on synergies between initiatives and solutions across agriculture, food systems, restoration, water and nutrition, with more accessible and flexible climate finance.",
+      "es": "ENB: en la mesa redonda agroalimentaria de la COP31, los participantes se centraron en las sinergias entre iniciativas y soluciones en agricultura, sistemas alimentarios, restauración, agua y nutrición, con una financiación climática más accesible y flexible.",
+      "fr": "ENB : lors de la table ronde agroalimentaire de la COP31, les participants se sont concentrés sur les synergies entre initiatives et solutions dans l'agriculture, les systèmes alimentaires, la restauration, l'eau et la nutrition, avec un financement climatique plus accessible et plus flexible.",
+      "ru": "ENB: на агропродовольственном круглом столе COP31 участники сосредоточились на синергии инициатив и решений в сельском хозяйстве, продовольственных системах, восстановлении ландшафтов, водных ресурсах и питании, а также на более доступном и гибком климатическом финансировании.",
+      "zh": "地球谈判通报：在 COP31 农业粮食圆桌会议上，与会者聚焦农业、粮食系统、景观恢复、水资源和营养领域举措与解决方案的协同，并使气候资金更易获得、更灵活。",
+      "ar": "نشرة مفاوضات الأرض: في المائدة المستديرة للأغذية الزراعية في COP31، ركّز المشاركون على أوجه التآزر بين المبادرات والحلول في الزراعة والنظم الغذائية واستعادة الأراضي والمياه والتغذية، مع تمويل مناخي أيسر وأكثر مرونة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -2058,6 +2134,43 @@
     "related": [],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261111-lideres-visao",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-lideres-visao",
+     "title": "@muratkurum: Geriye dönüp baktıklarında “Nasıl başardınız?” diyecekler. Bekleyen değil, yön veren; izleyen değil, öncülük eden…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnS80KoH3b/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "17:03",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum, na Cúpula de Líderes em Antália, defende uma visão de liderança por diálogo, consenso e ação para o \"lar comum\".",
+     "collected_at": "2026-11-11T17:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Murat Kurum, at the Leaders' Summit in Antalya, calls for a vision of leadership through dialogue, consensus and action for our \"common home\".",
+      "es": "Murat Kurum, en la Cumbre de Líderes en Antalya, defiende una visión de liderazgo basada en el diálogo, el consenso y la acción por nuestro «hogar común».",
+      "fr": "Murat Kurum, au Sommet des dirigeants à Antalya, plaide pour un leadership fondé sur le dialogue, le consensus et l'action pour notre « maison commune ».",
+      "ru": "Мурат Курум на саммите лидеров в Анталье выступает за лидерство на основе диалога, консенсуса и действий ради «общего дома».",
+      "zh": "穆拉特·库鲁姆在安塔利亚领导人峰会上呼吁以对话、共识和行动践行领导力，共同守护“共同家园”。",
+      "ar": "يدعو مراد كوروم في قمة القادة في أنطاليا إلى رؤية قيادية قائمة على الحوار والتوافق والعمل من أجل «بيتنا المشترك»."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
