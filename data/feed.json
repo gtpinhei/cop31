@@ -34,6 +34,198 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261111-erdogan-summit",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "10:53",
+   "text": "“We have no other sky, no other Earth.” Our shared home calls for shared responsibility and decisive action.\n\nSpeaking at the COP31 Antalya Leaders’ Summit, President of the Republic of Türkiye Recep Tayyip Erdoğan highlighted Türkiye’s Green Development journey, its commitment to the 2053 Net Zero Emissions target and the global impact of the Zero Waste movement. He also reaffirmed Türkiye’s ambition to make COP31 an Implementation COP, turning commitments into action.",
+   "summary": "A presidência da COP31 destaca o discurso de Erdoğan na Cúpula de Líderes: jornada de desenvolvimento verde, meta de emissões líquidas zero em 2053, Zero Waste e a ambição de uma \"COP da implementação\".",
+   "summary_i18n": {
+    "en": "The COP31 Presidency highlights President Erdoğan's address to the Leaders' Summit: Türkiye's Green Development journey, the 2053 net zero target, Zero Waste and the ambition of an \"Implementation COP\".",
+    "es": "La Presidencia de la COP31 destaca el discurso del presidente Erdoğan en la Cumbre de Líderes: la trayectoria de desarrollo verde de Türkiye, la meta de cero emisiones netas en 2053, Zero Waste y la ambición de una «COP de implementación».",
+    "fr": "La Présidence de la COP31 met en avant l'intervention du président Erdoğan au Sommet des dirigeants : le parcours de développement vert de la Türkiye, l'objectif de zéro émission nette en 2053, Zero Waste et l'ambition d'une « COP de la mise en œuvre ».",
+    "ru": "Президентство КС-31 выделяет выступление президента Эрдогана на Саммите лидеров: «зелёное развитие» Турции, цель нулевых чистых выбросов к 2053 году, инициатива Zero Waste и стремление сделать КС-31 «КС по реализации».",
+    "zh": "COP31主席团重点介绍埃尔多安总统在领导人峰会上的讲话：土耳其的绿色发展之路、2053年净零排放目标、零废弃倡议，以及将COP31办成“落实大会”的愿景。",
+    "ar": "تبرز رئاسة مؤتمر الأطراف الحادي والثلاثين كلمة الرئيس أردوغان في قمة القادة: مسار التنمية الخضراء في تركيا، وهدف الحياد الصفري للانبعاثات بحلول عام 2053، ومبادرة «صفر نفايات»، وطموح جعل المؤتمر «مؤتمر التنفيذ»."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "en",
+   "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "x-murat_kurum-20261111-antalya-simbolo",
+   "kind": "post",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "11:31",
+   "text": "Bugünün işaretlerinden yarının ihtiyaçlarını okuyalım, Antalya’yı vaatlerden uygulamaya geçişin sembol şehri haline getirelim.\n\nVe yıllar sonra gelecek kuşaklar şu cümleyi kurabilsin: “Onlar geleceği gördüler, sorumluluk aldılar ve ömürlerinden daha uzun yaşayacak kararlar verdiler.”\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "Murat Kurum, presidente da COP31, pede que Antália se torne a cidade símbolo da passagem das promessas à implementação e que as futuras gerações possam dizer que os líderes assumiram responsabilidade.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum calls for Antalya to become the symbol city of the shift from pledges to implementation, so that future generations can say leaders took responsibility.",
+    "es": "El presidente de la COP31, Murat Kurum, pide que Antalya se convierta en la ciudad símbolo del paso de las promesas a la implementación, para que las generaciones futuras puedan decir que los líderes asumieron su responsabilidad.",
+    "fr": "Le président de la COP31, Murat Kurum, appelle à faire d'Antalya la ville symbole du passage des promesses à la mise en œuvre, afin que les générations futures puissent dire que les dirigeants ont assumé leurs responsabilités.",
+    "ru": "Президент КС-31 Мурат Курум призывает сделать Анталью городом-символом перехода от обещаний к реализации, чтобы будущие поколения могли сказать, что лидеры взяли на себя ответственность.",
+    "zh": "COP31主席穆拉特·库鲁姆呼吁让安塔利亚成为从承诺走向落实的象征之城，让后代能够说，领导人承担起了责任。",
+    "ar": "يدعو رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إلى جعل أنطاليا مدينة رمزًا للانتقال من التعهدات إلى التنفيذ، ليتمكن الأجيال القادمة من القول إن القادة تحمّلوا المسؤولية."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "tr",
+   "source_id": "x-murat-kurum"
+  },
+  {
+   "id": "x-LulaOficial-20261111-recepcao-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "10:54",
+   "text": "Não tem nada que me emocione mais do que sentir esse carinho sincero, que não conhece fronteiras. \n\nHoje, na COP 31, na Turquia, fui recebido por pessoas de diferentes partes do mundo com abraços, sorrisos e palavras de afeto.\n\nLevo cada gesto comigo. É gratificante encontrar…",
+   "summary": "Lula relata ter sido recebido com carinho por pessoas de diferentes partes do mundo na COP31, na Turquia, durante sua participação na Cúpula de Líderes.",
+   "summary_i18n": {
+    "en": "Lula says he was warmly received by people from different parts of the world at COP31 in Türkiye, during his participation in the Leaders' Summit.",
+    "es": "Lula relata que fue recibido con cariño por personas de distintas partes del mundo en la COP31, en Türkiye, durante su participación en la Cumbre de Líderes.",
+    "fr": "Lula indique avoir été chaleureusement accueilli par des personnes du monde entier à la COP31, en Türkiye, lors de sa participation au Sommet des dirigeants.",
+    "ru": "Лула рассказывает, что на КС-31 в Турции, во время участия в Саммите лидеров, его тепло встретили люди из разных уголков мира.",
+    "zh": "卢拉表示，他在土耳其参加COP31领导人峰会期间，受到来自世界各地人们的热情欢迎。",
+    "ar": "يذكر لولا أنه حظي باستقبال حار من أشخاص من مختلف أنحاء العالم في مؤتمر الأطراف الحادي والثلاثين في تركيا، خلال مشاركته في قمة القادة."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-synergies",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "10:50",
+   "text": "Advancing Integrated Action and Rio Synergies across Climate, Nature, Ocean and Land",
+   "summary": "Vídeo da UNFCCC: evento sobre ação integrada e sinergias do Rio entre clima, natureza, oceano e terra.",
+   "summary_i18n": {
+    "en": "Video from UNFCCC: event on integrated action and Rio synergies across climate, nature, ocean and land.",
+    "es": "Vídeo de la CMNUCC: evento sobre acción integrada y sinergias de Río entre clima, naturaleza, océano y tierra.",
+    "fr": "Vidéo de la CCNUCC : événement sur l'action intégrée et les synergies de Rio entre climat, nature, océan et terres.",
+    "ru": "Видео РКИК ООН: мероприятие об интегрированных действиях и синергии Рио в областях климата, природы, океана и земли.",
+    "zh": "联合国气候变化框架公约视频：关于气候、自然、海洋和陆地领域综合行动与里约协同增效的活动。",
+    "ar": "فيديو من اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ: فعالية حول العمل المتكامل وأوجه التآزر بين اتفاقيات ريو في مجالات المناخ والطبيعة والمحيطات والأراضي."
+   },
+   "url": "https://www.youtube.com/watch?v=ydRsW7FiV2g",
+   "tracks": [
+    "Agenda de Ação",
+    "Oceanos"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-netzero",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "10:54",
+   "text": "Net-Zero Pathways: Five Countries, Five Stories",
+   "summary": "Vídeo da UNFCCC: evento \"Caminhos para o zero líquido: cinco países, cinco histórias\".",
+   "summary_i18n": {
+    "en": "Video from UNFCCC: event \"Net-Zero Pathways: Five Countries, Five Stories\".",
+    "es": "Vídeo de la CMNUCC: evento «Vías hacia el cero neto: cinco países, cinco historias».",
+    "fr": "Vidéo de la CCNUCC : événement « Trajectoires vers la neutralité carbone : cinq pays, cinq histoires ».",
+    "ru": "Видео РКИК ООН: мероприятие «Пути к нулевым выбросам: пять стран, пять историй».",
+    "zh": "联合国气候变化框架公约视频：“净零路径：五个国家，五个故事”活动。",
+    "ar": "فيديو من اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ: فعالية «مسارات الحياد الصفري: خمس دول، خمس قصص»."
+   },
+   "url": "https://www.youtube.com/watch?v=8gp1NSyvGaY",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-lla-gga",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "10:58",
+   "text": "Bridging scales of action: how to link LLA to GGA to unlock resilient futures?",
+   "summary": "Vídeo da UNFCCC: evento sobre como ligar a adaptação liderada localmente (LLA) à Meta Global de Adaptação (GGA).",
+   "summary_i18n": {
+    "en": "Video from UNFCCC: event on how to link locally led adaptation (LLA) to the Global Goal on Adaptation (GGA).",
+    "es": "Vídeo de la CMNUCC: evento sobre cómo vincular la adaptación dirigida localmente (LLA) con el Objetivo Mundial de Adaptación (GGA).",
+    "fr": "Vidéo de la CCNUCC : événement sur la manière de relier l'adaptation menée au niveau local (LLA) à l'Objectif mondial en matière d'adaptation (GGA).",
+    "ru": "Видео РКИК ООН: мероприятие о том, как связать адаптацию под руководством местных сообществ (LLA) с Глобальной целью по адаптации (GGA).",
+    "zh": "联合国气候变化框架公约视频：关于如何将地方主导的适应行动（LLA）与全球适应目标（GGA）相衔接的活动。",
+    "ar": "فيديو من اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ: فعالية حول كيفية ربط التكيف بقيادة محلية (LLA) بالهدف العالمي للتكيف (GGA)."
+   },
+   "url": "https://www.youtube.com/watch?v=SstalPKYXJ8",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-health-transition",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "11:02",
+   "text": "The Health and Economic Benefits of a Just and Equitable Transition Away from Fossil Fuels",
+   "summary": "Vídeo da UNFCCC: evento sobre os benefícios econômicos e para a saúde de uma transição justa e equitativa para longe dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Video from UNFCCC: event on the health and economic benefits of a just and equitable transition away from fossil fuels.",
+    "es": "Vídeo de la CMNUCC: evento sobre los beneficios económicos y para la salud de una transición justa y equitativa para dejar atrás los combustibles fósiles.",
+    "fr": "Vidéo de la CCNUCC : événement sur les bénéfices sanitaires et économiques d'une transition juste et équitable hors des combustibles fossiles.",
+    "ru": "Видео РКИК ООН: мероприятие о пользе для здоровья и экономики справедливого и равноправного перехода от ископаемого топлива.",
+    "zh": "联合国气候变化框架公约视频：关于公正公平地摆脱化石燃料对健康和经济益处的活动。",
+    "ar": "فيديو من اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ: فعالية حول الفوائد الصحية والاقتصادية لانتقال عادل ومنصف بعيدًا عن الوقود الأحفوري."
+   },
+   "url": "https://www.youtube.com/watch?v=0t77S-FeS7o",
+   "tracks": [
+    "Transição justa",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-11T11:42:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
    "id": "x-turkiyecop31-20261111-lula-antalya",
    "platform": "x",
    "account": "@turkiyecop31",
@@ -11870,11 +12062,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T10:45:00-03:00",
-  "label": "11 nov 2026, 10:45 (Brasília)",
+  "timestamp": "2026-11-11T11:42:00-03:00",
+  "label": "11 nov 2026, 11:42 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 5,
+  "new_items": 7,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
