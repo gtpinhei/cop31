@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T15:58+03:00",
+ "generated_at": "2026-11-11T16:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T06:13:00-03:00",
-  "social_round": "2026-11-11T09:50:00-03:00",
+  "social_round": "2026-11-11T10:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 117,
-  "stories": 99,
+  "candidates": 118,
+  "stories": 100,
   "top": 8,
   "publishers": [
    "350.org",
@@ -733,6 +733,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-genero-art62",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-genero-art62",
+     "title": "enb.iisd.org: #Gender talks at #COP31 turn to implementation: finance for participation & national focal points, and needs of…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n235wduebk2a",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "09:58",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: as negociações de gênero na COP31 passam à implementação (financiamento para participação e pontos focais, mulheres em áreas remotas e montanhosas); no Art. 6.2, discute-se financiamento de infraestrutura, processos e capacitação.",
+     "collected_at": "2026-11-11T10:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: gender talks at COP31 turn to implementation (finance for participation and national focal points, women in remote and mountainous areas); under Art. 6.2, negotiators discuss funding options for infrastructure, processes and capacity-building.",
+      "es": "ENB: las negociaciones de género en la COP31 pasan a la implementación (financiación para la participación y los puntos focales nacionales, mujeres en zonas remotas y montañosas); en el Art. 6.2 se debaten opciones de financiación para infraestructura, procesos y creación de capacidad.",
+      "fr": "ENB : les négociations sur le genre à la COP31 passent à la mise en œuvre (financement de la participation et des points focaux nationaux, femmes des zones isolées et montagneuses) ; sur l'art.",
+      "ru": "ENB: переговоры по гендерной проблематике на КС-31 переходят к осуществлению (финансирование участия и национальных координаторов, потребности женщин в отдалённых и горных районах); по ст. 6.2 обсуждаются варианты финансирования инфраструктуры, процессов и наращивания потенциала.",
+      "zh": "ENB:COP31上的性别议题谈判转向落实(参与及国家联络人的资金、偏远和山区妇女的需求);第6.2条下,谈判代表讨论基础设施、流程和能力建设的资金方案。",
+      "ar": "ENB: تتجه مفاوضات النوع الاجتماعي في COP31 إلى التنفيذ (تمويل المشاركة ونقاط الاتصال الوطنية واحتياجات النساء في المناطق النائية والجبلية)؛ وفي المادة 6-2 يناقش المفاوضون خيارات تمويل البنية التحتية والعمليات وبناء القدرات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
