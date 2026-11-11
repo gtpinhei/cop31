@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T04:58+03:00",
+ "generated_at": "2026-11-11T06:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-10T18:15:00-03:00",
+  "web_round": "2026-11-11T00:19:00-03:00",
   "social_round": "2026-11-10T22:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 103,
-  "stories": 89,
+  "candidates": 106,
+  "stories": 92,
   "top": 8,
   "publishers": [
    "350.org",
@@ -36,6 +36,7 @@
    "Presidência da COP31 (Türkiye)",
    "UNEP",
    "UNFCCC",
+   "UNFCCC / Simon Stiell",
    "WBCSD",
    "WMO",
    "WRI",
@@ -54,24 +55,62 @@
    },
    {
     "publisher": "CAN Europe",
-    "outcome": "blocked",
-    "note": "sem listagem datada"
+    "outcome": "error",
+    "note": "Nimble vx8 expirou (180 s); não lido."
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "só item de 2022, sem listagem datada de 2026"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error."
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-unfccc-2026-11-10-coletiva-abertura",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-10-coletiva-abertura",
+     "title": "Transcript of press conference opening remarks today of COP31 President, President of Negotiations, UN Climate Change Executive Secretary",
+     "url": "https://unfccc.int/news/transcript-of-press-conference-opening-remarks-today-of-cop31-president-president-of-negotiations-un",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Kubilay Ciftci | UN Climate Change",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação",
+      "GST2 e IPCC",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Transcrição das falas de abertura da coletiva de imprensa de 10 nov em Antalya, com o presidente da COP31 Murat Kurum, o presidente das negociações Chris Bowen e o secretário-executivo da UNFCCC Simon Stiell.",
+     "collected_at": "2026-11-11T00:19:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Transcript of the opening remarks at the 10 Nov press conference in Antalya by COP31 President Murat Kurum, President of Negotiations Chris Bowen and UNFCCC Executive Secretary Simon Stiell.",
+      "es": "Transcripción de las declaraciones de apertura de la rueda de prensa del 10 de noviembre en Antalya del Presidente de la COP31, Murat Kurum, el Presidente de las Negociaciones, Chris Bowen, y el Secretario Ejecutivo de la CMNUCC, Simon Stiell.",
+      "fr": "Transcription des déclarations liminaires de la conférence de presse du 10 novembre à Antalya du Président de la COP31, Murat Kurum, du Président des négociations, Chris Bowen, et du Secrétaire exécutif de la CCNUCC, Simon Stiell. M.",
+      "ru": "Стенограмма вступительных выступлений на пресс-конференции 10 ноября в Анталье Президента КС-31 Мурата Курума, Президента переговоров Криса Боуэна и Исполнительного секретаря РКИКООН Саймона Стилла.",
+      "zh": "这是11月10日安塔利亚新闻发布会开场发言的文字记录，发言者为COP31主席穆拉特·库鲁姆、谈判主席克里斯·鲍文和联合国气候变化框架公约执行秘书西蒙·斯蒂尔。库鲁姆宣布将召开关于第二次全球盘点（GST2）的特别部长级会议，以应对1.5 °C的温控超调，并提出“35 by 35”全球电气化承诺（到2035年将电力在终端能源中的占比从约23%提高到35%）；鲍文表示正就电气化问题与缔约方磋商，以纳入COP最终决定；斯蒂尔则引用了国际可再生能源署（IRENA）关于可再生能源成本的数据。内容涉及电气化、GST2、适应、损失与损害以及行动议程等议题。",
+      "ar": "نص الكلمات الافتتاحية في المؤتمر الصحفي المعقود في 10 نوفمبر في أنطاليا لرئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم، ورئيس المفاوضات كريس بوين، والأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ سايمون ستيل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-10-ambition-dialogue",
     "section": "negotiations",
@@ -257,6 +296,42 @@
     "publishers": [
      "Murat Kurum",
      "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-wmo-2026-11-10-protect-gcos",
+    "section": "negotiations",
+    "score": 0.51,
+    "lead": {
+     "id": "wmo-2026-11-10-protect-gcos",
+     "title": "Protect the Global Climate Observing System",
+     "url": "https://wmo.int/media/news/protect-global-climate-observing-system",
+     "publisher": "WMO",
+     "author": "WMO",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Comunicado da OMM para a COP31 alerta que o Sistema Global de Observação do Clima (GCOS) sofre com financiamento instável e lacunas de cobertura que ameaçam as previsões de eventos extremos e do El Niño.",
+     "collected_at": "2026-11-11T00:19:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A WMO news release for COP31 warns that the Global Climate Observing System (GCOS) suffers from unstable funding and coverage gaps that threaten forecasts of extreme weather and El Niño.",
+      "es": "Un comunicado de la OMM para la COP31 advierte de que el Sistema Mundial de Observación del Clima (SMOC/GCOS) sufre una financiación inestable y lagunas de cobertura que amenazan las predicciones de fenómenos extremos y de El Niño.",
+      "fr": "Un communiqué de l'OMM pour la COP31 met en garde contre un financement instable et des lacunes de couverture du Système mondial d'observation du climat (SMOC/GCOS), qui menacent les prévisions des phénomènes extrêmes et d'El Niño.",
+      "ru": "В пресс-релизе ВМО к КС-31 предупреждается, что Глобальная система наблюдений за климатом (GCOS) страдает от нестабильного финансирования и пробелов в охвате, которые ставят под угрозу прогнозы экстремальных явлений и Эль-Ниньо. По данным ВМО, мир тратит около 10 млрд долл.",
+      "zh": "世界气象组织（WMO）为COP31发布的新闻稿警告称，全球气候观测系统（GCOS）面临资金不稳定和覆盖缺口，威胁对极端天气和厄尔尼诺的预报。据WMO称，全球每年在观测上花费约100亿美元，但基础天气观测网络的完整度不足40%；一项高度优先行动计划草案估计，保护观测并弥补缺口每年约需5亿美元。内容涉及资金和适应议题。",
+      "ar": "يحذّر بيان صحفي صادر عن المنظمة العالمية للأرصاد الجوية (WMO) بمناسبة مؤتمر الأطراف الحادي والثلاثين من أن النظام العالمي لرصد المناخ (GCOS) يعاني من تمويل غير مستقر وفجوات في التغطية تهدد التنبؤات بالظواهر المتطرفة وظاهرة النينيو."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WMO"
     ]
    },
    {
@@ -516,80 +591,6 @@
      "350.org",
      "WRI"
     ]
-   },
-   {
-    "id": "st-ics-2026-11-09-povos-indigenas-fundo-florestas",
-    "section": "action",
-    "score": 0.375,
-    "lead": {
-     "id": "ics-2026-11-09-povos-indigenas-fundo-florestas",
-     "title": "Povos indígenas e comunidades tradicionais como agentes centrais no Fundo de Florestas",
-     "url": "https://climaesociedade.org/povos-indigenas-e-comunidades-tradicionais-como-agentes-centrais-no-fundo-de-florestas/",
-     "publisher": "iCS (Instituto Clima e Sociedade)",
-     "author": "iCS",
-     "published": "2026-11-09",
-     "language": "pt",
-     "tracks": [
-      "Florestas",
-      "Finanças"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Publicação do iCS defendendo que povos indígenas e comunidades tradicionais tenham papel central no fundo de florestas (TFFF), no contexto da COP31. Relaciona-se à trilha de florestas e finanças. Resumo baseado apenas no título e na listagem.",
-     "collected_at": "2026-11-10T18:15:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "iCS post arguing that Indigenous Peoples and traditional communities should play a central role in the forest fund (TFFF) in the context of COP31. It bears on the forests and finance track. Summary based only on the title and the listing.",
-      "es": "Publicación del iCS que defiende que los pueblos indígenas y las comunidades tradicionales tengan un papel central en el fondo de bosques (TFFF), en el contexto de la COP31. Se relaciona con la vía de bosques y finanzas. Resumen basado únicamente en el título y el listado.",
-      "fr": "Publication de l'iCS soutenant que les peuples autochtones et les communautés traditionnelles jouent un rôle central dans le fonds pour les forêts (TFFF), dans le contexte de la COP31. Elle concerne le volet forêts et finances. Résumé fondé uniquement sur le titre et la liste.",
-      "ru": "Публикация iCS, в которой утверждается, что коренные народы и традиционные сообщества должны играть центральную роль в фонде для лесов (TFFF) в контексте КС-31. Относится к направлению лесов и финансов. Резюме основано только на заголовке и списке.",
-      "zh": "iCS 发表文章，主张在 COP31 背景下，原住民和传统社区应在森林基金（TFFF）中发挥核心作用。涉及森林与资金议题。摘要仅依据标题和列表。",
-      "ar": "منشور لمعهد المناخ والمجتمع (iCS) يدعو إلى أن تضطلع الشعوب الأصلية والمجتمعات التقليدية بدور محوري في صندوق الغابات (TFFF) في سياق COP31. ويتصل بمسار الغابات والتمويل. الملخص مبني على العنوان والقائمة فقط."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "iCS (Instituto Clima e Sociedade)"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
-    "section": "negotiations",
-    "score": 0.374,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
-     "title": "enb.iisd.org: In the #COP31 Baku High-Level Dialogue on Adaptation, leaders discussed how to translate adaptation commitments into…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzylnvz2qs24",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-10",
-     "time": "20:26",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB cobre o Diálogo de Alto Nível de Baku sobre Adaptação na COP31: líderes discutiram traduzir compromissos em ação concreta, mobilizar finanças e elevar a adaptação nas agendas políticas.",
-     "collected_at": "2026-11-10T22:55:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB covers the COP31 Baku High-Level Dialogue on Adaptation: leaders discussed turning adaptation commitments into concrete action, mobilizing finance for vulnerable communities and raising adaptation on political agendas.",
-      "es": "El ENB cubre el Diálogo de Alto Nivel de Bakú sobre Adaptación en la COP31: los líderes debatieron cómo traducir los compromisos en acción concreta, movilizar financiación para comunidades vulnerables y elevar la adaptación en las agendas políticas.",
-      "fr": "L'ENB couvre le Dialogue de haut niveau de Bakou sur l'adaptation à la COP31 : les dirigeants ont discuté de la traduction des engagements en actions concrètes, de la mobilisation de financements pour les communautés vulnérables et de la place de l'adaptation dans les agendas politiques.",
-      "ru": "ENB освещает Бакинский диалог высокого уровня по адаптации на COP31: лидеры обсудили перевод обязательств в конкретные действия, мобилизацию финансов для уязвимых сообществ и повышение приоритета адаптации в политической повестке.",
-      "zh": "ENB报道了COP31期间的巴库适应问题高级别对话：领导人讨论了将适应承诺转化为具体行动、为脆弱社区调动资金以及提升适应在政治议程中的地位。",
-      "ar": "يغطي ENB الحوار الرفيع المستوى في باكو بشأن التكيف في COP31: ناقش القادة تحويل التزامات التكيف إلى إجراءات ملموسة وتعبئة التمويل للمجتمعات الضعيفة ورفع مكانة التكيف في الأجندات السياسية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
    }
   ],
   "negotiations": [
@@ -735,6 +736,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
+     "title": "enb.iisd.org: In the #COP31 Baku High-Level Dialogue on Adaptation, leaders discussed how to translate adaptation commitments into…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzylnvz2qs24",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "20:26",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB cobre o Diálogo de Alto Nível de Baku sobre Adaptação na COP31: líderes discutiram traduzir compromissos em ação concreta, mobilizar finanças e elevar a adaptação nas agendas políticas.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB covers the COP31 Baku High-Level Dialogue on Adaptation: leaders discussed turning adaptation commitments into concrete action, mobilizing finance for vulnerable communities and raising adaptation on political agendas.",
+      "es": "El ENB cubre el Diálogo de Alto Nivel de Bakú sobre Adaptación en la COP31: los líderes debatieron cómo traducir los compromisos en acción concreta, movilizar financiación para comunidades vulnerables y elevar la adaptación en las agendas políticas.",
+      "fr": "L'ENB couvre le Dialogue de haut niveau de Bakou sur l'adaptation à la COP31 : les dirigeants ont discuté de la traduction des engagements en actions concrètes, de la mobilisation de financements pour les communautés vulnérables et de la place de l'adaptation dans les agendas politiques.",
+      "ru": "ENB освещает Бакинский диалог высокого уровня по адаптации на COP31: лидеры обсудили перевод обязательств в конкретные действия, мобилизацию финансов для уязвимых сообществ и повышение приоритета адаптации в политической повестке.",
+      "zh": "ENB报道了COP31期间的巴库适应问题高级别对话：领导人讨论了将适应承诺转化为具体行动、为脆弱社区调动资金以及提升适应在政治议程中的地位。",
+      "ar": "يغطي ENB الحوار الرفيع المستوى في باكو بشأن التكيف في COP31: ناقش القادة تحويل التزامات التكيف إلى إجراءات ملموسة وتعبئة التمويل للمجتمعات الضعيفة ورفع مكانة التكيف في الأجندات السياسية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -957,6 +996,42 @@
     "related": [],
     "publishers": [
      "Carbon Brief"
+    ]
+   },
+   {
+    "id": "st-wmo-2026-11-09-gcos-cop31",
+    "section": "negotiations",
+    "score": 0.319,
+    "lead": {
+     "id": "wmo-2026-11-09-gcos-cop31",
+     "title": "GCOS Highlights Urgent Need to Strengthen Climate Observations at COP31",
+     "url": "https://wmo.int/media/update/gcos-highlights-urgent-need-strengthen-climate-observations-cop31",
+     "publisher": "WMO",
+     "author": "WMO / GCOS",
+     "published": "2026-11-09",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Atualização da OMM em que o Sistema Global de Observação do Clima (GCOS) destaca a necessidade urgente de fortalecer as observações climáticas na COP31. Resumo baseado apenas no título e na listagem da página. Relaciona-se às trilhas de adaptação e finanças.",
+     "collected_at": "2026-11-11T00:19:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A WMO update in which the Global Climate Observing System (GCOS) highlights the urgent need to strengthen climate observations at COP31. Summary based only on the title and the page listing. It bears on the adaptation and finance tracks.",
+      "es": "Una actualización de la OMM en la que el Sistema Mundial de Observación del Clima (SMOC/GCOS) destaca la necesidad urgente de reforzar las observaciones climáticas en la COP31. Resumen basado únicamente en el título y en el listado de la página. Se relaciona con las vías de adaptación y finanzas.",
+      "fr": "Une actualité de l'OMM dans laquelle le Système mondial d'observation du climat (SMOC/GCOS) souligne le besoin urgent de renforcer les observations climatiques à la COP31. Résumé fondé uniquement sur le titre et le listing de la page. Il concerne les volets adaptation et finance.",
+      "ru": "Обновление ВМО, в котором Глобальная система наблюдений за климатом (GCOS) подчёркивает настоятельную необходимость укрепления климатических наблюдений на КС-31. Резюме основано только на заголовке и списке на странице. Относится к направлениям адаптации и финансов.",
+      "zh": "WMO的一则更新，其中全球气候观测系统（GCOS）强调在COP31上亟需加强气候观测。摘要仅基于标题和页面列表。内容涉及适应和资金议题。",
+      "ar": "تحديث صادر عن المنظمة العالمية للأرصاد الجوية (WMO) يبرز فيه النظام العالمي لرصد المناخ (GCOS) الحاجة الملحّة إلى تعزيز عمليات رصد المناخ في مؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان وقائمة الصفحة فقط. ويتصل بمساري التكيف والتمويل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WMO"
     ]
    },
    {
@@ -1576,6 +1651,42 @@
     "publishers": [
      "Murat Kurum",
      "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-ics-2026-11-09-povos-indigenas-fundo-florestas",
+    "section": "action",
+    "score": 0.375,
+    "lead": {
+     "id": "ics-2026-11-09-povos-indigenas-fundo-florestas",
+     "title": "Povos indígenas e comunidades tradicionais como agentes centrais no Fundo de Florestas",
+     "url": "https://climaesociedade.org/povos-indigenas-e-comunidades-tradicionais-como-agentes-centrais-no-fundo-de-florestas/",
+     "publisher": "iCS (Instituto Clima e Sociedade)",
+     "author": "iCS",
+     "published": "2026-11-09",
+     "language": "pt",
+     "tracks": [
+      "Florestas",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Publicação do iCS defendendo que povos indígenas e comunidades tradicionais tenham papel central no fundo de florestas (TFFF), no contexto da COP31. Relaciona-se à trilha de florestas e finanças. Resumo baseado apenas no título e na listagem.",
+     "collected_at": "2026-11-10T18:15:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "iCS post arguing that Indigenous Peoples and traditional communities should play a central role in the forest fund (TFFF) in the context of COP31. It bears on the forests and finance track. Summary based only on the title and the listing.",
+      "es": "Publicación del iCS que defiende que los pueblos indígenas y las comunidades tradicionales tengan un papel central en el fondo de bosques (TFFF), en el contexto de la COP31. Se relaciona con la vía de bosques y finanzas. Resumen basado únicamente en el título y el listado.",
+      "fr": "Publication de l'iCS soutenant que les peuples autochtones et les communautés traditionnelles jouent un rôle central dans le fonds pour les forêts (TFFF), dans le contexte de la COP31. Elle concerne le volet forêts et finances. Résumé fondé uniquement sur le titre et la liste.",
+      "ru": "Публикация iCS, в которой утверждается, что коренные народы и традиционные сообщества должны играть центральную роль в фонде для лесов (TFFF) в контексте КС-31. Относится к направлению лесов и финансов. Резюме основано только на заголовке и списке.",
+      "zh": "iCS 发表文章，主张在 COP31 背景下，原住民和传统社区应在森林基金（TFFF）中发挥核心作用。涉及森林与资金议题。摘要仅依据标题和列表。",
+      "ar": "منشور لمعهد المناخ والمجتمع (iCS) يدعو إلى أن تضطلع الشعوب الأصلية والمجتمعات التقليدية بدور محوري في صندوق الغابات (TFFF) في سياق COP31. ويتصل بمسار الغابات والتمويل. الملخص مبني على العنوان والقائمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "iCS (Instituto Clima e Sociedade)"
     ]
    },
    {
@@ -3824,7 +3935,9 @@
    "icccad-2026-11-10-neld-case-stories",
    "ics-2026-11-09-povos-indigenas-fundo-florestas",
    "instagram-turkiyecop31-20261110-varank-yumakli",
-   "unfccc-2026-11-10-ambition-dialogue"
+   "unfccc-2026-11-10-ambition-dialogue",
+   "unfccc-2026-11-10-coletiva-abertura",
+   "wmo-2026-11-10-protect-gcos"
   ]
  }
 }
