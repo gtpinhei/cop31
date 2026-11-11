@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T20:58+03:00",
+ "generated_at": "2026-11-11T22:02+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T12:17:00-03:00",
-  "social_round": "2026-11-11T14:50:00-03:00",
+  "social_round": "2026-11-11T15:45:11-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 122,
-  "stories": 104,
+  "candidates": 123,
+  "stories": 105,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1976,6 +1976,43 @@
       "ru": "Президентство КС-31: на брифинге Крис Боуэн (председатель переговоров) заявил, что увеличение доли электроэнергии в конечном потреблении энергии с 23% до 35% к 2035 году — амбициозный, но необходимый шаг для сохранения цели 1,5°C.",
       "zh": "COP31主席团：在新闻发布会上，谈判主席克里斯·鲍文表示，到2035年将电力在终端能源消费中的占比从23%提高到35%是雄心勃勃但必要的一步，有助于使1.5°C目标保持可及。",
       "ar": "رئاسة COP31: في الإحاطة الصحفية، قال كريس بوين (رئيس المفاوضات) إن رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من 23% إلى 35% بحلول عام 2035 خطوة طموحة لكنها ضرورية لإبقاء هدف 1.5°C في المتناول."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261111-erdogan-teto-unico",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261111-erdogan-teto-unico",
+     "title": "@turkiyecop31: As humanity, our home has a single roof: the sky. As humanity, our home has a single garden: the Earth. — President…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnHcRKsl0N/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-11",
+     "time": "15:23",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Citação de Erdoğan na Cúpula de Líderes: a humanidade tem um único teto, o céu, e um único jardim, a Terra.",
+     "collected_at": "2026-11-11T15:45:11-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Quote from Erdoğan at the Leaders' Summit: humanity has a single roof, the sky, and a single garden, the Earth.",
+      "es": "Cita de Erdoğan en la Cumbre de Líderes: la humanidad tiene un único techo, el cielo, y un único jardín, la Tierra.",
+      "fr": "Citation d'Erdoğan au Sommet des dirigeants : l'humanité n'a qu'un seul toit, le ciel, et qu'un seul jardin, la Terre.",
+      "ru": "Цитата Эрдогана на саммите лидеров: у человечества одна крыша — небо — и один сад — Земля.",
+      "zh": "埃尔多安在领导人峰会上表示：人类只有一个屋顶——天空，也只有一座花园——地球。",
+      "ar": "اقتباس لأردوغان في قمة القادة: للبشرية سقف واحد هو السماء وحديقة واحدة هي الأرض."
      },
      "description_i18n_method": "machine"
     },
