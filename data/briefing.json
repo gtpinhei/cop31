@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T08:00+03:00",
+ "generated_at": "2026-11-11T08:57+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T00:19:00-03:00",
-  "social_round": "2026-11-11T01:50:00-03:00",
+  "social_round": "2026-11-11T02:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 106,
-  "stories": 92,
+  "candidates": 107,
+  "stories": 93,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1508,6 +1508,44 @@
       "ru": "Президентство КС-31: на брифинге Крис Боуэн (председатель переговоров) заявил, что увеличение доли электроэнергии в конечном потреблении энергии с 23% до 35% к 2035 году — амбициозный, но необходимый шаг для сохранения цели 1,5°C.",
       "zh": "COP31主席团：在新闻发布会上，谈判主席克里斯·鲍文表示，到2035年将电力在终端能源消费中的占比从23%提高到35%是雄心勃勃但必要的一步，有助于使1.5°C目标保持可及。",
       "ar": "رئاسة COP31: في الإحاطة الصحفية، قال كريس بوين (رئيس المفاوضات) إن رفع حصة الكهرباء في الاستهلاك النهائي للطاقة من 23% إلى 35% بحلول عام 2035 خطوة طموحة لكنها ضرورية لإبقاء هدف 1.5°C في المتناول."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261111-leaders-summit",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261111-leaders-summit",
+     "title": "@turkiyecop31: The Antalya Leaders' Summit at COP31 officially commences today in Antalya, Türkiye. Hosted by H.E. President Recep…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DflsSQnNkjy/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-11",
+     "time": "02:06",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 anuncia a abertura, hoje, da Cúpula de Líderes de Antália, de dois dias, com chefes de Estado e de governo sob o tema \"Rumo a um futuro sustentável, resiliente e equitativo\".",
+     "collected_at": "2026-11-11T02:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency announces that the two-day Antalya Leaders' Summit opens today, bringing together heads of State and government under the theme \"Towards a Sustainable, Resilient and Equitable Future\".",
+      "es": "La Presidencia de la COP31 anuncia que hoy se inaugura la Cumbre de Líderes de Antalya, de dos días, con jefes de Estado y de Gobierno bajo el lema \"Hacia un futuro sostenible, resiliente y equitativo\".",
+      "fr": "La présidence de la COP31 annonce l'ouverture aujourd'hui du Sommet des dirigeants d'Antalya, de deux jours, réunissant chefs d'État et de gouvernement sur le thème « Vers un avenir durable, résilient et équitable ».",
+      "ru": "Председательство КС-31 объявляет об открытии сегодня двухдневного саммита лидеров в Анталье с участием глав государств и правительств под темой «К устойчивому, жизнестойкому и справедливому будущему».",
+      "zh": "COP31主席国宣布,为期两天的安塔利亚领导人峰会今天开幕,各国元首和政府首脑将以“迈向可持续、有韧性和公平的未来”为主题出席。",
+      "ar": "تعلن رئاسة COP31 افتتاح قمة القادة في أنطاليا اليوم، وهي قمة تستمر يومين بمشاركة رؤساء الدول والحكومات تحت شعار \"نحو مستقبل مستدام ومرن وعادل\"."
      },
      "description_i18n_method": "machine"
     },
