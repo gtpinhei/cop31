@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T06:13:00-03:00",
+ "generated_at": "2026-11-11T12:17:00-03:00",
  "round": {
-  "timestamp": "2026-11-11T06:13:00-03:00",
-  "label": "11 nov 2026, 06:13 (Brasília)",
-  "sites_checked": 34,
-  "blocked": 5,
-  "new_items": 8,
-  "fetches": "42 de 60",
+  "timestamp": "2026-11-11T12:17:00-03:00",
+  "label": "11 nov 2026, 12:17 (Brasília)",
+  "sites_checked": 60,
+  "blocked": 18,
+  "new_items": 0,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Climate Champions (redirect), Oil Change, FoEI, Chatham House, ODI (sem listagem datada/client_error)",
+   "Bloqueados/sem listagem datada: Climate Champions, COP30.br, UNEP, IEA, CAN Europe, ITUC, Christian Aid, FoEI, Oil Change, Transforma, ICCCAD, CSE, WMBC, Eurodad, Carbon Pulse, ODI, TWN, Ember",
    "ACF (erro de servidor)",
-   "adiados por orçamento: 27 fontes devidas (Ember, CSE, Eurodad, CEEW, Carbon Pulse, ITUC, WWF, UNEP, IEA, etc.)"
+   "adiado por orçamento: Chatham House"
   ]
  },
  "tracks": [
@@ -33,6 +33,34 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "kind": "post",
+   "id": "x-murat_kurum-20261111-oliveira-guterres",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "12:02",
+   "text": "Yarınlarımıza umut, geleceğe nefes ektik.\n\nCumhurbaşkanımız Sayın @RTErdogan ve Birleşmiş Milletler Genel Sekreteri Sayın António Guterres ile birlikte #MilliAğaçlandırmaGünü vesilesiyle Antalya’da zeytin fidanımızı toprakla buluşturduk.\n\nHer fidan büyüdükçe bereketimiz, umudumuz, ortak irademiz ve yeşil geleceğimiz de güçlensin.🌱\n\n@turkiyecop31\n\n📍Antalya",
+   "summary": "O ministro Murat Kurum relata que plantou uma oliveira em Antália com o presidente Erdoğan e o secretário-geral da ONU, António Guterres, no Dia Nacional de Florestamento, como símbolo de esperança e futuro verde.",
+   "summary_i18n": {
+    "en": "Minister Murat Kurum reports planting an olive sapling in Antalya with President Erdoğan and UN Secretary-General António Guterres on National Afforestation Day, as a symbol of hope and a green future.",
+    "es": "El ministro Murat Kurum informa de que plantó un olivo en Antalya con el presidente Erdoğan y el secretario general de la ONU, António Guterres, en el Día Nacional de la Forestación, como símbolo de esperanza y futuro verde.",
+    "fr": "Le ministre Murat Kurum indique avoir planté un olivier à Antalya avec le président Erdoğan et le secrétaire général de l'ONU, António Guterres, à l'occasion de la Journée nationale du reboisement, symbole d'espoir et d'avenir vert.",
+    "ru": "Министр Мурат Курум сообщает, что посадил оливковое деревце в Анталье вместе с президентом Эрдоганом и Генеральным секретарём ООН Антониу Гутерришем в Национальный день лесонасаждения как символ надежды и зелёного будущего.",
+    "zh": "部长穆拉特·库鲁姆表示,他在全国植树日与埃尔多安总统和联合国秘书长安东尼奥·古特雷斯在安塔利亚共同种下一棵橄榄树,象征希望与绿色未来。",
+    "ar": "أفاد الوزير مراد كوروم بأنه غرس شتلة زيتون في أنطاليا مع الرئيس أردوغان والأمين العام للأمم المتحدة أنطونيو غوتيريش في اليوم الوطني للتشجير، رمزًا للأمل والمستقبل الأخضر."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Florestas",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T12:45:00-03:00",
+   "lang": "tr",
+   "source_id": "x-murat-kurum"
+  },
   {
    "id": "x-turkiyecop31-20261111-erdogan-summit",
    "kind": "post",
@@ -12062,11 +12090,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T11:42:00-03:00",
-  "label": "11 nov 2026, 11:42 (Brasília)",
+  "timestamp": "2026-11-11T12:45:00-03:00",
+  "label": "11 nov 2026, 12:45 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 7,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
