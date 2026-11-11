@@ -37,6 +37,256 @@
  "items": [
   {
    "kind": "post",
+   "id": "x-turkiyecop31-20261111-erdogan-guterres-oliveira",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:32",
+   "text": "President of the Republic of Türkiye Recep Tayyip Erdoğan planted an olive sapling at the COP31 site alongside UN Secretary-General António Guterres, as part of the nationwide tree-planting campaign taking place simultaneously across all 81 provinces ahead of the Summit. @RTErdogan @antonioguterres #COP31 #COP31Türkiye",
+   "summary": "Erdoğan plantou uma oliveira no local da COP31 ao lado do secretário-geral da ONU, António Guterres, em campanha de plantio simultânea nas 81 províncias da Türkiye antes da Cúpula.",
+   "summary_i18n": {
+    "en": "President Erdoğan planted an olive sapling at the COP31 site with UN Secretary-General António Guterres, part of a tree-planting campaign across all 81 provinces of Türkiye ahead of the Summit.",
+    "es": "El presidente Erdoğan plantó un olivo en el recinto de la COP31 junto al Secretario General de la ONU, António Guterres, en el marco de una campaña de plantación de árboles en las 81 provincias de Türkiye antes de la Cumbre.",
+    "fr": "Le président Erdoğan a planté un olivier sur le site de la COP31 avec le Secrétaire général de l'ONU, António Guterres, dans le cadre d'une campagne de plantation d'arbres dans les 81 provinces de la Türkiye avant le Sommet.",
+    "ru": "Президент Эрдоган посадил оливковое деревце на площадке КС-31 вместе с Генеральным секретарём ООН Антониу Гутерришем в рамках кампании по посадке деревьев во всех 81 провинциях Türkiye накануне Саммита.",
+    "zh": "埃尔多安总统与联合国秘书长安东尼奥·古特雷斯在COP31会场共同种下一棵橄榄树,这是峰会前土耳其81个省同步开展的植树运动的一部分。",
+    "ar": "غرس الرئيس أردوغان شتلة زيتون في موقع مؤتمر COP31 إلى جانب الأمين العام للأمم المتحدة أنطونيو غوتيريش، ضمن حملة لغرس الأشجار في جميع الولايات الـ81 في تركيا قبيل القمة."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-turkiyecop31"
+  },
+  {
+   "kind": "post",
+   "id": "x-turkiyecop31-20261111-guterres-agradece-turquia",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:13",
+   "text": "UN Secretary-General António Guterres expressed his gratitude for the high-level organisation delivered by Türkiye for the success of COP31. He highlighted the key role Türkiye can play in ensuring climate commitments are fully met and in driving greater ambition across all areas. @antonioguterres @UN #COP31 #COP31Türkiye",
+   "summary": "Guterres agradeceu a Türkiye pela organização da COP31 e destacou o papel do país para garantir o cumprimento dos compromissos climáticos e elevar a ambição em todas as áreas.",
+   "summary_i18n": {
+    "en": "Guterres thanked Türkiye for its high-level organisation of COP31 and stressed the country's key role in ensuring climate commitments are fully met and driving greater ambition across all areas.",
+    "es": "Guterres agradeció a Türkiye la organización de alto nivel de la COP31 y destacó su papel clave para que se cumplan plenamente los compromisos climáticos y se aumente la ambición en todos los ámbitos.",
+    "fr": "M. Guterres a remercié la Türkiye pour l'organisation de haut niveau de la COP31 et souligné son rôle clé pour garantir le respect des engagements climatiques et accroître l'ambition dans tous les domaines.",
+    "ru": "Гутерриш поблагодарил Türkiye за организацию КС-31 на высоком уровне и подчеркнул ключевую роль страны в полном выполнении климатических обязательств и повышении амбиций во всех областях.",
+    "zh": "古特雷斯感谢土耳其高水平筹办COP31,并强调土耳其在确保气候承诺全面落实、推动各领域提高力度方面可发挥关键作用。",
+    "ar": "شكر غوتيريش تركيا على التنظيم الرفيع المستوى لمؤتمر COP31 وأكد دورها الرئيسي في ضمان الوفاء الكامل بالالتزامات المناخية ودفع طموح أكبر في جميع المجالات."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-turkiyecop31"
+  },
+  {
+   "kind": "post",
+   "id": "x-murat_kurum-20261111-kurum-cupula-lideres",
+   "platform": "x",
+   "account": "@murat_kurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:15",
+   "text": "#COP31'de Liderler Zirvesi başlıyor.",
+   "summary": "Murat Kurum anuncia, em vídeo, o início da Cúpula de Líderes na COP31.",
+   "summary_i18n": {
+    "en": "Murat Kurum announces in a video the start of the Leaders' Summit at COP31.",
+    "es": "Murat Kurum anuncia en un vídeo el inicio de la Cumbre de Líderes en la COP31.",
+    "fr": "Murat Kurum annonce dans une vidéo le début du Sommet des dirigeants à la COP31.",
+    "ru": "Мурат Курум в видеообращении объявляет о начале Саммита лидеров на КС-31.",
+    "zh": "穆拉特·库鲁姆在视频中宣布COP31领导人峰会开幕。",
+    "ar": "يعلن مراد كوروم في مقطع فيديو بدء قمة القادة في مؤتمر COP31."
+   },
+   "url": "https://x.com/murat_kurum",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "tr",
+   "source_id": "x-murat-kurum"
+  },
+  {
+   "kind": "post",
+   "id": "x-CANIntl-20261111-cupula-lideres-ausencias",
+   "platform": "x",
+   "account": "@CANIntl",
+   "institution": "CAN International",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "04:46",
+   "text": "Roads closed. Security tightened. Leaders missing. As the #COP31 Leaders' Summit begins, many leaders from countries most responsible for the climate crisis are absent. Frontline communities don't get to opt out. Today's ECO:",
+   "summary": "A CAN International critica a ausência, na Cúpula de Líderes da COP31, de muitos líderes dos países mais responsáveis pela crise climática; divulga a edição do dia do ECO.",
+   "summary_i18n": {
+    "en": "CAN International criticises the absence at the COP31 Leaders' Summit of many leaders from the countries most responsible for the climate crisis, and shares today's ECO.",
+    "es": "CAN Internacional critica la ausencia en la Cumbre de Líderes de la COP31 de muchos dirigentes de los países más responsables de la crisis climática y comparte el ECO de hoy.",
+    "fr": "CAN International déplore l'absence au Sommet des dirigeants de la COP31 de nombreux dirigeants des pays les plus responsables de la crise climatique et partage l'ECO du jour.",
+    "ru": "CAN International критикует отсутствие на Саммите лидеров КС-31 многих лидеров стран, наиболее ответственных за климатический кризис, и публикует сегодняшний выпуск ECO.",
+    "zh": "国际气候行动网络批评在气候危机中责任最大的国家的许多领导人缺席COP31领导人峰会,并发布当日《ECO》。",
+    "ar": "تنتقد شبكة العمل المناخي الدولية غياب كثير من قادة الدول الأكثر مسؤولية عن أزمة المناخ عن قمة القادة في COP31، وتنشر عدد اليوم من نشرة ECO."
+   },
+   "url": "https://x.com/CANIntl",
+   "tracks": [
+    "Espaço cívico",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-canintl"
+  },
+  {
+   "kind": "post",
+   "id": "bluesky-drsimevans.carbonbrief.org-20261111-35-by-35",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:42",
+   "text": "UPDATE on supporters of the COP31 \"35 by 35\" electrification pledge. I've learned that there is a list of more than a dozen signatories + a longer list of supporters. More in my CB Connect post: https://connect.carbonbrief.org/t/update-who-supports-the-35-by-35-electrification-pledge/129",
+   "summary": "Simon Evans (Carbon Brief) atualiza o apoio à promessa de eletrificação \"35 até 35\" da COP31: há uma lista de mais de uma dúzia de signatários e outra, maior, de apoiadores.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) updates on support for the COP31 \"35 by 35\" electrification pledge: more than a dozen signatories and a longer list of supporters.",
+    "es": "Simon Evans (Carbon Brief) actualiza el apoyo al compromiso de electrificación «35 para 2035» de la COP31: más de una docena de signatarios y una lista más amplia de partidarios.",
+    "fr": "Simon Evans (Carbon Brief) fait le point sur le soutien à l'engagement d'électrification « 35 d'ici 35 » de la COP31 : plus d'une douzaine de signataires et une liste plus longue de soutiens.",
+    "ru": "Саймон Эванс (Carbon Brief) обновляет данные о поддержке обязательства по электрификации «35 к 35» на КС-31: более десятка подписантов и более длинный список сторонников.",
+    "zh": "Carbon Brief的西蒙·埃文斯更新了COP31“35 by 35”电气化承诺的支持情况:有十多个签署方以及更长的支持者名单。",
+    "ar": "يحدّث سايمون إيفانز (Carbon Brief) معلومات تأييد تعهد التحول الكهربائي «35 بحلول 35» في COP31: أكثر من اثني عشر موقّعًا وقائمة أطول من المؤيدين."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3mzzkqq65ok2b",
+   "tracks": [
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "kind": "post",
+   "id": "youtube-UNClimateChangeEvents-20261111-perdas-danos-financiamento",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:38",
+   "text": "From Pledges to Scale: Unlocking Financing for Loss and Damage",
+   "summary": "Vídeo do Pavilhão da ONU Mudança do Clima: \"Das promessas à escala: destravando o financiamento para perdas e danos\".",
+   "summary_i18n": {
+    "en": "UN Climate Change Pavilion video: \"From Pledges to Scale: Unlocking Financing for Loss and Damage\".",
+    "es": "Vídeo del Pabellón de la ONU para el Cambio Climático: «De las promesas a la escala: desbloquear la financiación para pérdidas y daños».",
+    "fr": "Vidéo du Pavillon de l'ONU Changements climatiques : « Des promesses à l'échelle : débloquer le financement des pertes et préjudices ».",
+    "ru": "Видео павильона ООН по изменению климата: «От обещаний к масштабу: мобилизация финансирования для потерь и ущерба».",
+    "zh": "联合国气候变化展馆视频:“从承诺到规模:释放损失与损害融资”。",
+    "ar": "فيديو من جناح الأمم المتحدة لتغير المناخ: «من التعهدات إلى النطاق الواسع: إطلاق التمويل للخسائر والأضرار»."
+   },
+   "url": "https://www.youtube.com/watch?v=Q86Y5xgMJrw",
+   "tracks": [
+    "Perdas e danos",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "kind": "post",
+   "id": "youtube-UNClimateChangeEvents-20261111-financas-clima-natureza-turfeiras",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:34",
+   "text": "Accelerating Finance for Climate & Nature Action, featuring the launch of the Peatland Breakthrough",
+   "summary": "Vídeo do Pavilhão da ONU: financiamento acelerado para clima e natureza, com o lançamento do Peatland Breakthrough.",
+   "summary_i18n": {
+    "en": "UN Pavilion video: accelerating finance for climate and nature action, featuring the launch of the Peatland Breakthrough.",
+    "es": "Vídeo del Pabellón de la ONU: acelerar la financiación para la acción climática y de la naturaleza, con el lanzamiento del Peatland Breakthrough.",
+    "fr": "Vidéo du Pavillon de l'ONU : accélérer le financement de l'action pour le climat et la nature, avec le lancement du Peatland Breakthrough.",
+    "ru": "Видео павильона ООН: ускорение финансирования действий в области климата и природы, включая запуск Peatland Breakthrough.",
+    "zh": "联合国展馆视频:加快气候与自然行动融资,并发布泥炭地突破(Peatland Breakthrough)倡议。",
+    "ar": "فيديو من جناح الأمم المتحدة: تسريع التمويل للعمل من أجل المناخ والطبيعة، مع إطلاق مبادرة Peatland Breakthrough."
+   },
+   "url": "https://www.youtube.com/watch?v=x7_oB4fm_dM",
+   "tracks": [
+    "Finanças",
+    "Florestas",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "kind": "post",
+   "id": "youtube-UNClimateChangeEvents-20261111-investimento-privado",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:44",
+   "text": "From Ambition to Implementation: Accelerating Private Investments in the Climate Transition",
+   "summary": "Vídeo do Pavilhão da ONU: da ambição à implementação, acelerando investimentos privados na transição climática.",
+   "summary_i18n": {
+    "en": "UN Pavilion video: from ambition to implementation, accelerating private investment in the climate transition.",
+    "es": "Vídeo del Pabellón de la ONU: de la ambición a la implementación, acelerando la inversión privada en la transición climática.",
+    "fr": "Vidéo du Pavillon de l'ONU : de l'ambition à la mise en œuvre, accélérer les investissements privés dans la transition climatique.",
+    "ru": "Видео павильона ООН: от амбиций к реализации — ускорение частных инвестиций в климатический переход.",
+    "zh": "联合国展馆视频:从雄心到落实,加快气候转型中的私人投资。",
+    "ar": "فيديو من جناح الأمم المتحدة: من الطموح إلى التنفيذ، تسريع الاستثمارات الخاصة في التحول المناخي."
+   },
+   "url": "https://www.youtube.com/watch?v=0UXgGMnq6J0",
+   "tracks": [
+    "Finanças",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "kind": "post",
+   "id": "youtube-UNClimateChangeEvents-20261111-rios-territorios-indigenas",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "05:19",
+   "text": "Protecting Rivers and Indigenous Territories: Cumulative Impacts, Ecocide and Climate Action",
+   "summary": "Vídeo do Pavilhão da ONU: proteção de rios e territórios indígenas, impactos cumulativos, ecocídio e ação climática.",
+   "summary_i18n": {
+    "en": "UN Pavilion video: protecting rivers and Indigenous territories, cumulative impacts, ecocide and climate action.",
+    "es": "Vídeo del Pabellón de la ONU: protección de ríos y territorios indígenas, impactos acumulativos, ecocidio y acción climática.",
+    "fr": "Vidéo du Pavillon de l'ONU : protéger les rivières et les territoires autochtones, impacts cumulatifs, écocide et action climatique.",
+    "ru": "Видео павильона ООН: защита рек и территорий коренных народов, кумулятивные воздействия, экоцид и действия по климату.",
+    "zh": "联合国展馆视频:保护河流与原住民领地、累积影响、生态灭绝与气候行动。",
+    "ar": "فيديو من جناح الأمم المتحدة: حماية الأنهار وأراضي الشعوب الأصلية، والآثار التراكمية، وجريمة الإبادة البيئية، والعمل المناخي."
+   },
+   "url": "https://www.youtube.com/watch?v=hTmOkTN8LKE",
+   "tracks": [
+    "Espaço cívico",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-11T05:55:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "kind": "post",
    "id": "bluesky-carbonbrief-org-20261111-finance-pledges",
    "platform": "bluesky",
    "account": "carbonbrief.org",
@@ -10696,11 +10946,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T04:45:00-03:00",
-  "label": "11 nov 2026, 04:45 (Brasília)",
-  "accounts_checked": 30,
+  "timestamp": "2026-11-11T05:55:00-03:00",
+  "label": "11 nov 2026, 05:55 (Brasília)",
+  "accounts_checked": 29,
   "blocked": 1,
-  "new_items": 1,
+  "new_items": 9,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
