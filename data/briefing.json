@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T00:58+03:00",
+ "generated_at": "2026-11-11T04:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-10T18:15:00-03:00",
-  "social_round": "2026-11-10T18:50:00-03:00",
+  "social_round": "2026-11-10T22:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 98,
-  "stories": 84,
+  "candidates": 103,
+  "stories": 89,
   "top": 8,
   "publishers": [
    "350.org",
@@ -554,35 +554,35 @@
     ]
    },
    {
-    "id": "st-bluesky-enb-20261110-primeiro-dia-negociacoes",
+    "id": "st-bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
     "section": "negotiations",
     "score": 0.374,
     "lead": {
-     "id": "bluesky-enb-20261110-primeiro-dia-negociacoes",
-     "title": "enb.iisd.org: On the first full day of negotiations at #COP31, familiar fault lines are emerging: whether new institutions are…",
+     "id": "bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
+     "title": "enb.iisd.org: In the #COP31 Baku High-Level Dialogue on Adaptation, leaders discussed how to translate adaptation commitments into…",
      "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzynq5rbmc2x",
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzylnvz2qs24",
      "publisher": "IISD / ENB",
      "published": "2026-11-10",
-     "time": "10:03",
+     "time": "20:26",
      "language": "en",
      "tracks": [
-      "Decisão de cobertura",
+      "Adaptação",
       "Finanças"
      ],
      "content_type": "reporting",
      "kind": "post",
      "platform": "bluesky",
-     "description": "ENB: no primeiro dia pleno de negociações da COP31, surgem linhas de divisão conhecidas, como a necessidade de novas instituições e a ligação entre ação, finanças e apoio.",
-     "collected_at": "2026-11-10T10:45:00-03:00",
+     "description": "O ENB cobre o Diálogo de Alto Nível de Baku sobre Adaptação na COP31: líderes discutiram traduzir compromissos em ação concreta, mobilizar finanças e elevar a adaptação nas agendas políticas.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "ENB: on the first full day of COP31 negotiations, familiar fault lines are emerging, such as whether new institutions are needed and how action is linked to finance and support.",
-      "es": "ENB: en el primer día completo de negociaciones de la COP31 surgen líneas de fractura conocidas, como si hacen falta nuevas instituciones y cómo vincular la acción con la financiación y el apoyo.",
-      "fr": "ENB : lors de la première journée complète de négociations de la COP31, des clivages familiers apparaissent, notamment sur la nécessité de nouvelles institutions et sur le lien entre action, financement et soutien.",
-      "ru": "ENB: в первый полный день переговоров КС-31 проявляются знакомые линии разлома — нужны ли новые институты и как увязать действия с финансированием и поддержкой.",
-      "zh": "ENB：在COP31谈判的第一个完整日，熟悉的分歧浮现，包括是否需要新机构，以及如何将行动与资金和支持挂钩。",
-      "ar": "نشرة مفاوضات الأرض (ENB): في أول يوم كامل من مفاوضات COP31 تظهر خطوط الانقسام المعروفة، ومنها الحاجة إلى مؤسسات جديدة وكيفية ربط العمل بالتمويل والدعم."
+      "en": "ENB covers the COP31 Baku High-Level Dialogue on Adaptation: leaders discussed turning adaptation commitments into concrete action, mobilizing finance for vulnerable communities and raising adaptation on political agendas.",
+      "es": "El ENB cubre el Diálogo de Alto Nivel de Bakú sobre Adaptación en la COP31: los líderes debatieron cómo traducir los compromisos en acción concreta, movilizar financiación para comunidades vulnerables y elevar la adaptación en las agendas políticas.",
+      "fr": "L'ENB couvre le Dialogue de haut niveau de Bakou sur l'adaptation à la COP31 : les dirigeants ont discuté de la traduction des engagements en actions concrètes, de la mobilisation de financements pour les communautés vulnérables et de la place de l'adaptation dans les agendas politiques.",
+      "ru": "ENB освещает Бакинский диалог высокого уровня по адаптации на COP31: лидеры обсудили перевод обязательств в конкретные действия, мобилизацию финансов для уязвимых сообществ и повышение приоритета адаптации в политической повестке.",
+      "zh": "ENB报道了COP31期间的巴库适应问题高级别对话：领导人讨论了将适应承诺转化为具体行动、为脆弱社区调动资金以及提升适应在政治议程中的地位。",
+      "ar": "يغطي ENB الحوار الرفيع المستوى في باكو بشأن التكيف في COP31: ناقش القادة تحويل التزامات التكيف إلى إجراءات ملموسة وتعبئة التمويل للمجتمعات الضعيفة ورفع مكانة التكيف في الأجندات السياسية."
      },
      "description_i18n_method": "machine"
     },
@@ -735,6 +735,155 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-artigo6",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-artigo6",
+     "title": "enb.iisd.org: #COP31 International cooperation is essential to achieving the Paris Agreement's goals. At this event, participants…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzykqfxdss2x",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "20:09",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB cobre evento sobre cooperação internacional e Artigo 6: Paraguai e Taiwan compartilharam experiências de parcerias e discutiram progressos e desafios na implementação.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB covers an event on international cooperation and Article 6: participants shared experiences from Paraguay and Taiwan on partnerships and discussed progress and challenges in implementation.",
+      "es": "El ENB cubre un acto sobre cooperación internacional y el Artículo 6: se compartieron experiencias de Paraguay y Taiwán sobre alianzas y se debatieron avances y desafíos en la implementación.",
+      "fr": "L'ENB couvre un événement sur la coopération internationale et l'article 6 : des expériences du Paraguay et de Taïwan en matière de partenariats ont été partagées, avec un débat sur les progrès et les défis de la mise en œuvre.",
+      "ru": "ENB освещает мероприятие по международному сотрудничеству и статье 6: участники поделились опытом Парагвая и Тайваня в создании партнёрств и обсудили прогресс и трудности реализации.",
+      "zh": "ENB报道了一场关于国际合作与第6条的活动：与会者分享了巴拉圭和台湾在建立伙伴关系方面的经验，并讨论了实施中的进展与挑战。",
+      "ar": "يغطي ENB فعالية عن التعاون الدولي والمادة 6: تبادل المشاركون خبرات باراغواي وتايوان في الشراكات وناقشوا التقدم والتحديات في التنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-fundos-multilaterais",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-fundos-multilaterais",
+     "title": "enb.iisd.org: #COP31 Multilateral Climate Funds are critical for climate action, but their diversity presents challenges. At this…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzyjw6wcuk2q",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "19:55",
+     "language": "en",
+     "tracks": [
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB cobre evento de alto nível sobre fundos climáticos multilaterais: debate sobre coordenação, simplificação do acesso e mobilização de finanças diante de impactos crescentes.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB covers a high-level event on multilateral climate funds: participants discussed strengthening coordination, simplifying access and mobilizing finance to address growing climate impacts.",
+      "es": "El ENB cubre un acto de alto nivel sobre fondos climáticos multilaterales: se debatió reforzar la coordinación, simplificar el acceso y movilizar financiación ante impactos crecientes.",
+      "fr": "L'ENB couvre un événement de haut niveau sur les fonds climatiques multilatéraux : renforcement de la coordination, simplification de l'accès et mobilisation de financements face à des impacts croissants.",
+      "ru": "ENB освещает мероприятие высокого уровня по многосторонним климатическим фондам: обсуждались укрепление координации, упрощение доступа и мобилизация финансов в условиях растущих воздействий.",
+      "zh": "ENB报道了一场关于多边气候基金的高级别活动：与会者讨论了加强协调、简化获取渠道以及为应对日益加剧的气候影响调动资金。",
+      "ar": "يغطي ENB فعالية رفيعة المستوى عن الصناديق المناخية المتعددة الأطراف: ناقش المشاركون تعزيز التنسيق وتبسيط الوصول وتعبئة التمويل لمواجهة الآثار المتزايدة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-meios-implementacao",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-meios-implementacao",
+     "title": "enb.iisd.org: #COP31 Means of implementation dominated discussions, with hours of negotiations across finance- and…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzyhbdxevc2q",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "19:07",
+     "language": "en",
+     "tracks": [
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB resume que os meios de implementação dominaram o dia: horas de negociações sobre finanças e tecnologia expuseram preocupações com déficits de financiamento, acesso e obrigações dos países desenvolvidos.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB summarizes that means of implementation dominated the day: hours of negotiations on finance and technology items exposed persistent concerns over funding shortfalls, access and developed countries' obligations.",
+      "es": "El ENB resume que los medios de implementación dominaron la jornada: horas de negociaciones sobre financiación y tecnología evidenciaron preocupaciones persistentes sobre déficits de financiación, acceso y obligaciones de los países desarrollados.",
+      "fr": "L'ENB résume que les moyens de mise en œuvre ont dominé la journée : des heures de négociations sur la finance et la technologie ont mis en évidence des préoccupations persistantes concernant les déficits de financement, l'accès et les obligations des pays développés.",
+      "ru": "ENB резюмирует, что средства осуществления доминировали в обсуждениях: многочасовые переговоры по финансам и технологиям выявили сохраняющуюся обеспокоенность дефицитом финансирования, доступом и обязательствами развитых стран.",
+      "zh": "ENB总结称，执行手段主导了当天讨论：围绕资金和技术议题的数小时谈判凸显了对资金缺口、获取渠道和发达国家义务的持续关切。",
+      "ar": "يلخص ENB أن وسائل التنفيذ هيمنت على النقاشات: ساعات من المفاوضات حول بنود التمويل والتكنولوجيا كشفت عن مخاوف مستمرة بشأن فجوات التمويل وإمكانية الوصول والتزامات البلدان المتقدمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb-20261110-primeiro-dia-negociacoes",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb-20261110-primeiro-dia-negociacoes",
+     "title": "enb.iisd.org: On the first full day of negotiations at #COP31, familiar fault lines are emerging: whether new institutions are…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzynq5rbmc2x",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "10:03",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: no primeiro dia pleno de negociações da COP31, surgem linhas de divisão conhecidas, como a necessidade de novas instituições e a ligação entre ação, finanças e apoio.",
+     "collected_at": "2026-11-10T10:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: on the first full day of COP31 negotiations, familiar fault lines are emerging, such as whether new institutions are needed and how action is linked to finance and support.",
+      "es": "ENB: en el primer día completo de negociaciones de la COP31 surgen líneas de fractura conocidas, como si hacen falta nuevas instituciones y cómo vincular la acción con la financiación y el apoyo.",
+      "fr": "ENB : lors de la première journée complète de négociations de la COP31, des clivages familiers apparaissent, notamment sur la nécessité de nouvelles institutions et sur le lien entre action, financement et soutien.",
+      "ru": "ENB: в первый полный день переговоров КС-31 проявляются знакомые линии разлома — нужны ли новые институты и как увязать действия с финансированием и поддержкой.",
+      "zh": "ENB：在COP31谈判的第一个完整日，熟悉的分歧浮现，包括是否需要新机构，以及如何将行动与资金和支持挂钩。",
+      "ar": "نشرة مفاوضات الأرض (ENB): في أول يوم كامل من مفاوضات COP31 تظهر خطوط الانقسام المعروفة، ومنها الحاجة إلى مؤسسات جديدة وكيفية ربط العمل بالتمويل والدعم."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1462,6 +1611,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261110-turquoise-nexus",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261110-turquoise-nexus",
+     "title": "enb.iisd.org: Today the #COP31 Presidency launched the Turquoise Nexus Initiative to strengthen policy coherence, share knowledge,…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3mzyjb6xc6s2q",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-10",
+     "time": "19:43",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB informa que a presidência da COP31 lançou a Iniciativa Turquoise Nexus para reforçar a coerência de políticas, o conhecimento e o investimento em sistemas agroalimentares resilientes.",
+     "collected_at": "2026-11-10T22:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that the COP31 Presidency launched the Turquoise Nexus Initiative to strengthen policy coherence, share knowledge and mobilize investment for more resilient agricultural and food systems.",
+      "es": "El ENB informa de que la Presidencia de la COP31 lanzó la Iniciativa Turquoise Nexus para reforzar la coherencia de políticas, compartir conocimientos y movilizar inversiones para sistemas agrícolas y alimentarios más resilientes.",
+      "fr": "L'ENB rapporte que la Présidence de la COP31 a lancé l'Initiative Turquoise Nexus pour renforcer la cohérence des politiques, le partage des connaissances et la mobilisation d'investissements en faveur de systèmes agricoles et alimentaires plus résilients.",
+      "ru": "ENB сообщает, что председательство COP31 запустило инициативу Turquoise Nexus для укрепления согласованности политики, обмена знаниями и мобилизации инвестиций в более устойчивые агропродовольственные системы.",
+      "zh": "ENB报道，COP31主席国启动了“Turquoise Nexus”倡议，以加强政策协调、分享知识并为更具韧性的农业和粮食系统调动投资。",
+      "ar": "يفيد ENB بأن رئاسة COP31 أطلقت مبادرة Turquoise Nexus لتعزيز اتساق السياسات وتبادل المعرفة وتعبئة الاستثمارات لنظم زراعية وغذائية أكثر قدرة على الصمود."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -3631,6 +3818,7 @@
   "2026-11-11": [
    "350org-2026-11-10-roadmaps-sem-resposta",
    "bluesky-enb-20261110-primeiro-dia-negociacoes",
+   "bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
    "climate-home-news-2026-11-09-cop31-bulletin-day1",
    "cop30-presidency-daily-brief-2026-11-10",
    "icccad-2026-11-10-neld-case-stories",
