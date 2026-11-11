@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T22:02+03:00",
+ "generated_at": "2026-11-11T22:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T12:17:00-03:00",
-  "social_round": "2026-11-11T15:45:11-03:00",
+  "social_round": "2026-11-11T16:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 123,
-  "stories": 105,
+  "candidates": 126,
+  "stories": 108,
   "top": 8,
   "publishers": [
    "350.org",
@@ -386,35 +386,35 @@
     ]
    },
    {
-    "id": "st-instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
+    "id": "st-instagram-turkiyecop31-20261111-guterres-overshoot",
     "section": "action",
     "score": 0.55,
     "lead": {
-     "id": "instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
-     "title": "@turkiyecop31: At the High-Level Segment of the #COP31 Antalya Leaders' Summit, COP31 President Murat Kurum called on world leaders…",
+     "id": "instagram-turkiyecop31-20261111-guterres-overshoot",
+     "title": "@turkiyecop31: While a temporary overshoot of 1.5°C is now inevitable, we still have the power to limit its scale, duration and…",
      "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfnAypQDF4-/",
+     "url": "https://www.instagram.com/p/DfnLNwtMR8v/",
      "publisher": "Presidência da COP31 (Türkiye)",
      "published": "2026-11-11",
-     "time": "14:25",
+     "time": "15:56",
      "language": "en",
      "tracks": [
       "Presidência e anfitrião",
-      "Finanças"
+      "Mitigação e MWP"
      ],
      "content_type": "official",
      "kind": "post",
      "platform": "instagram",
-     "description": "No segmento de alto nível da Cúpula de Líderes, o presidente da COP31, Murat Kurum, pediu que os líderes transformem compromissos em ação concreta, com implementação, finanças climáticas e resiliência no centro da cooperação.",
-     "collected_at": "2026-11-11T14:50:00-03:00",
+     "description": "A Presidência da COP31 destaca Guterres na Cúpula de Líderes: a ultrapassagem temporária de 1,5°C é agora inevitável, mas ainda é possível limitar sua escala e duração.",
+     "collected_at": "2026-11-11T16:50:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "At the high-level segment of the Leaders' Summit, COP31 President Murat Kurum urged leaders to turn commitments into concrete action, with implementation, climate finance and resilience at the centre of cooperation.",
-      "es": "En el segmento de alto nivel de la Cumbre de Líderes, el presidente de la COP31, Murat Kurum, pidió a los líderes convertir los compromisos en acción concreta, con la implementación, la financiación climática y la resiliencia en el centro de la cooperación.",
-      "fr": "Lors du segment de haut niveau du Sommet des dirigeants, le président de la COP31, Murat Kurum, a appelé les dirigeants à transformer les engagements en actions concrètes, en plaçant la mise en œuvre, le financement climatique et la résilience au cœur de la coopération.",
-      "ru": "На сегменте высокого уровня Саммита лидеров президент COP31 Мурат Курум призвал лидеров превратить обязательства в конкретные действия, поставив в центр сотрудничества осуществление, климатическое финансирование и устойчивость.",
-      "zh": "在领导人峰会高级别会议上，COP31主席穆拉特·库鲁姆呼吁各国领导人将气候承诺转化为具体行动，把落实、气候融资和韧性置于合作的核心。",
-      "ar": "في الجزء رفيع المستوى من قمة القادة، دعا رئيس COP31 مراد كوروم القادة إلى تحويل الالتزامات إلى إجراءات ملموسة، مع وضع التنفيذ والتمويل المناخي والقدرة على الصمود في صميم التعاون."
+      "en": "The COP31 Presidency highlights Guterres at the Leaders' Summit: a temporary overshoot of 1.5°C is now inevitable, but its scale and duration can still be limited.",
+      "es": "La Presidencia de la COP31 destaca a Guterres en la Cumbre de Líderes: un rebasamiento temporal de 1,5°C ya es inevitable, pero aún se puede limitar su magnitud y duración.",
+      "fr": "La présidence de la COP31 met en avant Guterres au Sommet des dirigeants : un dépassement temporaire de 1,5°C est désormais inévitable, mais on peut encore en limiter l'ampleur et la durée.",
+      "ru": "Председательство COP31 приводит слова Гутерриша на саммите лидеров: временное превышение 1,5°C теперь неизбежно, но его масштаб и продолжительность ещё можно ограничить.",
+      "zh": "COP31 主席国重点转述古特雷斯在领导人峰会上的讲话：暂时突破 1.5°C 现已不可避免，但仍可限制其幅度和持续时间。",
+      "ar": "تبرز رئاسة COP31 كلمة غوتيريش في قمة القادة: تجاوز 1.5 درجة مئوية مؤقتًا بات حتميًا، لكن لا يزال بالإمكان الحد من حجمه ومدته."
      },
      "description_i18n_method": "machine"
     },
@@ -771,6 +771,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-agrifood-elnino",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-agrifood-elnino",
+     "title": "enb.iisd.org: #COP31 With a \"Super El Niño\" increasing the odds of disastrous weather impacts for crops around the world, address…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22pgzjldc2f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "16:39",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: com um \"Super El Niño\" aumentando o risco de impactos climáticos desastrosos sobre as lavouras, cresce a urgência de fechar lacunas de financiamento para sistemas agroalimentares.",
+     "collected_at": "2026-11-11T16:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: with a \"Super El Niño\" raising the odds of disastrous weather impacts on crops worldwide, closing finance gaps for agrifood systems is increasingly urgent.",
+      "es": "ENB: con un «Súper El Niño» que aumenta la probabilidad de impactos meteorológicos desastrosos en los cultivos, es cada vez más urgente cerrar las brechas de financiamiento de los sistemas agroalimentarios.",
+      "fr": "ENB : alors qu'un « Super El Niño » accroît le risque d'impacts météorologiques désastreux sur les cultures, il devient urgent de combler les déficits de financement des systèmes agroalimentaires.",
+      "ru": "ENB: на фоне «Супер Эль-Ниньо», повышающего риск катастрофических погодных последствий для урожаев, всё более срочным становится устранение дефицита финансирования агропродовольственных систем.",
+      "zh": "ENB：“超级厄尔尼诺”加大了全球农作物遭受灾难性天气影响的可能性，弥补农业粮食系统融资缺口日益紧迫。",
+      "ar": "ENB: مع تزايد احتمال أن يتسبب «إل نينيو الفائق» في آثار جوية كارثية على المحاصيل عالميًا، تزداد الحاجة الملحة لسد فجوات تمويل النظم الزراعية الغذائية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1874,6 +1912,44 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
+     "title": "@turkiyecop31: At the High-Level Segment of the #COP31 Antalya Leaders' Summit, COP31 President Murat Kurum called on world leaders…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnAypQDF4-/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-11",
+     "time": "14:25",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "No segmento de alto nível da Cúpula de Líderes, o presidente da COP31, Murat Kurum, pediu que os líderes transformem compromissos em ação concreta, com implementação, finanças climáticas e resiliência no centro da cooperação.",
+     "collected_at": "2026-11-11T14:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the high-level segment of the Leaders' Summit, COP31 President Murat Kurum urged leaders to turn commitments into concrete action, with implementation, climate finance and resilience at the centre of cooperation.",
+      "es": "En el segmento de alto nivel de la Cumbre de Líderes, el presidente de la COP31, Murat Kurum, pidió a los líderes convertir los compromisos en acción concreta, con la implementación, la financiación climática y la resiliencia en el centro de la cooperación.",
+      "fr": "Lors du segment de haut niveau du Sommet des dirigeants, le président de la COP31, Murat Kurum, a appelé les dirigeants à transformer les engagements en actions concrètes, en plaçant la mise en œuvre, le financement climatique et la résilience au cœur de la coopération.",
+      "ru": "На сегменте высокого уровня Саммита лидеров президент COP31 Мурат Курум призвал лидеров превратить обязательства в конкретные действия, поставив в центр сотрудничества осуществление, климатическое финансирование и устойчивость.",
+      "zh": "在领导人峰会高级别会议上，COP31主席穆拉特·库鲁姆呼吁各国领导人将气候承诺转化为具体行动，把落实、气候融资和韧性置于合作的核心。",
+      "ar": "في الجزء رفيع المستوى من قمة القادة، دعا رئيس COP31 مراد كوروم القادة إلى تحويل الالتزامات إلى إجراءات ملموسة، مع وضع التنفيذ والتمويل المناخي والقدرة على الصمود في صميم التعاون."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-09-health-pandemic",
     "section": "action",
     "score": 0.5,
@@ -1982,6 +2058,44 @@
     "related": [],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-oceano-dialogo",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-oceano-dialogo",
+     "title": "enb.iisd.org: #COP31 How can recommendations from the seventh Ocean and Climate Change Dialogue inform COP 31 outcomes and…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22nn6qecc2f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "16:07",
+     "language": "en",
+     "tracks": [
+      "Oceanos",
+      "Agenda de Ação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB pergunta como as recomendações do sétimo Diálogo sobre Oceano e Mudança do Clima podem orientar os resultados da COP31 e acelerar a ação climática sob a UNFCCC e o Acordo de Paris.",
+     "collected_at": "2026-11-11T16:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB asks how recommendations from the seventh Ocean and Climate Change Dialogue can inform COP31 outcomes and accelerate climate action under the UNFCCC and the Paris Agreement.",
+      "es": "ENB pregunta cómo las recomendaciones del séptimo Diálogo sobre el Océano y el Cambio Climático pueden orientar los resultados de la COP31 y acelerar la acción climática en el marco de la CMNUCC y el Acuerdo de París.",
+      "fr": "L'ENB demande comment les recommandations du septième Dialogue sur l'océan et les changements climatiques peuvent éclairer les résultats de la COP31 et accélérer l'action climatique au titre de la CCNUCC et de l'Accord de Paris.",
+      "ru": "ENB спрашивает, как рекомендации седьмого Диалога по океану и изменению климата могут повлиять на итоги COP31 и ускорить климатические действия в рамках РКИК ООН и Парижского соглашения.",
+      "zh": "ENB 提问：第七次海洋与气候变化对话的建议如何为 COP31 成果提供参考，并在《联合国气候变化框架公约》和《巴黎协定》下加快气候行动。",
+      "ar": "تتساءل ENB كيف يمكن لتوصيات الحوار السابع حول المحيطات وتغير المناخ أن تسترشد بها نتائج COP31 وتعجّل العمل المناخي في إطار اتفاقية الأمم المتحدة الإطارية والاتفاق باريس."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -4543,6 +4657,7 @@
    "icccad-2026-11-10-neld-case-stories",
    "ics-2026-11-09-povos-indigenas-fundo-florestas",
    "instagram-turkiyecop31-20261110-varank-yumakli",
+   "instagram-turkiyecop31-20261111-guterres-overshoot",
    "instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
    "politicaporinteiro-2026-11-10-dia2",
    "unfccc-2026-11-10-ambition-dialogue",
