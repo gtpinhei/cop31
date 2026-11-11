@@ -36,6 +36,33 @@
  ],
  "items": [
   {
+   "kind": "post",
+   "id": "bluesky-carbonbrief-org-20261111-finance-pledges",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "04:00",
+   "text": "NEW – Analysis: Climate-finance pledges fall 70% as countries meet at COP31. Written by @joshgabbatiss.bsky.social, with comments from @joethwaites.bsky.social. Read here: buff.ly/1RTuqpO",
+   "summary": "Análise do Carbon Brief aponta que as promessas de financiamento climático caíram 70% no momento em que os países se reúnem na COP31.",
+   "summary_i18n": {
+    "en": "Carbon Brief analysis finds that climate-finance pledges have fallen 70% as countries gather for COP31.",
+    "es": "Un análisis de Carbon Brief señala que las promesas de financiación climática han caído un 70 % mientras los países se reúnen en la COP31.",
+    "fr": "Une analyse de Carbon Brief indique que les promesses de financement climatique ont chuté de 70 % alors que les pays se réunissent à la COP31.",
+    "ru": "Анализ Carbon Brief показывает, что обязательства по климатическому финансированию сократились на 70% в преддверии встречи стран на КС-31.",
+    "zh": "Carbon Brief的分析显示,在各国齐聚COP31之际,气候融资承诺下降了70%。",
+    "ar": "يشير تحليل لموقع Carbon Brief إلى أن تعهدات التمويل المناخي انخفضت بنسبة 70% مع اجتماع الدول في مؤتمر COP31."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3mzzf2aqjdw2a",
+   "tracks": [
+    "Finanças"
+   ],
+   "first_seen": "2026-11-11T04:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "cop30-presidency-daily-brief-2026-11-11",
    "institution": "Presidência da COP30",
    "type": "boletim",
@@ -10669,14 +10696,14 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T03:50:00-03:00",
-  "label": "11 nov 2026, 03:50 (Brasília)",
+  "timestamp": "2026-11-11T04:45:00-03:00",
+  "label": "11 nov 2026, 04:45 (Brasília)",
   "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 2,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": [
-   "yt-unclimatechangeevents"
+   "x-mmeioambiente"
   ]
  }
 }
