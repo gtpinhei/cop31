@@ -151,6 +151,22 @@ class Cop30(unittest.TestCase):
         for banned in ("lead", "events", "review", "_body", "hash"):
             self.assertNotIn(banned, it)                        # never the brief's own text in public output
 
+    def test_edition_without_title_line_and_split_bold_time(self):
+        d = edition(f"{EN}/nov11_x", "2026-11-11T05:00:00+00:00", desc="November 11")
+        ids = d["blocks_layout"]["items"]
+        d["blocks_layout"]["items"] = ids[1:]                 # no short title line: the brief opens with its focus
+        ev = slate("–10:00AM | Split Event\nPlaceholder description.\nRoom: Hall S\n", strong="9")
+        ev["plaintext"] = "9 :00AM–10:00AM | Split Event\nPlaceholder description.\nRoom: Hall S\n"
+        d["blocks"]["bx"] = ev
+        d["blocks_layout"]["items"].insert(d["blocks_layout"]["items"].index("b5"), "bx")
+        self.j("collect", self.put(d), "--out", self.tmp / "out")
+        x = self.state()["editions"][f"{SID}-2026-11-11"]["langs"]["en"]
+        self.assertIsNone(x["headline"])
+        self.assertTrue(x["lead"][0].startswith("The synthetic presidency"))
+        self.assertEqual(x["events"][0]["time"], "9:00AM–10:00AM")
+        self.assertEqual(x["events"][0]["title"], "Split Event")
+        self.assertEqual(len(x["events"]), 3)
+
     def test_2025_edition_document_is_excluded_even_if_fetched(self):
         f = self.put(edition(f"{EN}/nov10_old", "2025-11-10T12:00:00+00:00", modified="2026-11-09T18:00:00+00:00"))
         c = self.j("collect", f, "--out", self.tmp / "out")
