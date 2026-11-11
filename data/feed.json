@@ -1,18 +1,17 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T12:17:00-03:00",
+ "generated_at": "2026-11-11T18:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-11T12:17:00-03:00",
-  "label": "11 nov 2026, 12:17 (Brasília)",
-  "sites_checked": 60,
-  "blocked": 18,
-  "new_items": 0,
-  "fetches": "60 de 60",
+  "timestamp": "2026-11-11T18:20:00-03:00",
+  "label": "11 nov 2026, 18:20 (Brasília)",
+  "sites_checked": 55,
+  "blocked": 16,
+  "new_items": 3,
+  "fetches": "59 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: Climate Champions, COP30.br, UNEP, IEA, CAN Europe, ITUC, Christian Aid, FoEI, Oil Change, Transforma, ICCCAD, CSE, WMBC, Eurodad, Carbon Pulse, ODI, TWN, Ember",
-   "ACF (erro de servidor)",
-   "adiado por orçamento: Chatham House"
+   "Bloqueados/sem listagem datada: Climate Champions (redirect), COP30.br, UNEP, IEA, Arab Group (portal dinâmico), Chatham House, CAN Europe, ITUC, Christian Aid, FoEI, Oil Change, Instituto Talanoa, Política por Inteiro, ICCCAD, ACF (verificação anti-bot), WMBC",
+   "adiados por orçamento: Transforma, CSE, Eurodad, Carbon Pulse, ODI, TWN, Ember"
   ]
  },
  "tracks": [
@@ -33,6 +32,122 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "x-ItamaratyGovBr-20261111-florestas-cupula",
+   "kind": "post",
+   "platform": "x",
+   "account": "@ItamaratyGovBr",
+   "institution": "Itamaraty",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "17:54",
+   "text": "Hoje, na 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP31), em Antalya, o Brasil abriu a Cúpula de Líderes sobre Florestas, que teve como temas centrais o financiamento florestal, o reflorestamento e a posse e titularidade da terra.",
+   "summary": "O Itamaraty informa que o Brasil abriu, na COP31 em Antália, a Cúpula de Líderes sobre Florestas, centrada em financiamento florestal, reflorestamento e posse da terra.",
+   "summary_i18n": {
+    "en": "Itamaraty reports that Brazil opened the Leaders' Summit on Forests at COP31 in Antalya, centred on forest finance, reforestation and land tenure.",
+    "es": "Itamaraty informa de que Brasil abrió la Cumbre de Líderes sobre Bosques en la COP31 en Antalya, centrada en la financiación forestal, la reforestación y la tenencia de la tierra.",
+    "fr": "Itamaraty indique que le Brésil a ouvert le Sommet des dirigeants sur les forêts à la COP31 à Antalya, centré sur le financement forestier, le reboisement et la tenure foncière.",
+    "ru": "Итамарати сообщает, что Бразилия открыла на COP31 в Анталье саммит лидеров по лесам, посвящённый финансированию лесного сектора, лесовосстановлению и правам на землю.",
+    "zh": "巴西外交部（Itamaraty）表示，巴西在安塔利亚COP31上主持开幕了森林问题领导人峰会，重点讨论森林融资、重新造林和土地保有权。",
+    "ar": "أفادت وزارة الخارجية البرازيلية (إيتاماراتي) بأن البرازيل افتتحت في مؤتمر COP31 في أنطاليا قمة القادة بشأن الغابات، التي ركزت على تمويل الغابات وإعادة التحريج وحيازة الأراضي."
+   },
+   "url": "https://x.com/ItamaratyGovBr",
+   "tracks": [
+    "Florestas",
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T18:50:00-03:00",
+   "lang": "pt",
+   "source_id": "x-itamaratygovbr"
+  },
+  {
+   "id": "can-international-2026-11-11-jtm-700orgs",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "Over 700 organisations from 88 countries demand a Just Transition Mechanism at COP31",
+   "date": "2026-11-11",
+   "authors": "Attila Kulcsar",
+   "url": "https://climatenetwork.org/2026/11/11/over-700-organisations-from-88-countries-demand-a-just-transition-mechanism-at-cop31/",
+   "summary": "Mais de 700 organizações de 88 países, incluindo sindicatos, povos indígenas e movimentos feministas, pedem em carta aberta que a COP31 institua o Mecanismo de Belém-Antalya para uma Transição Justa Global, protegendo direitos, oferecendo apoio técnico e financeiro e dando voz às comunidades afetadas. Exigem que esteja plenamente operacional até a COP32 e afirmam que o compromisso assumido na COP30 está paralisado. Toca a trilha de transição justa.",
+   "summary_i18n": {
+    "en": "More than 700 organisations from 88 countries, including trade unions, Indigenous Peoples and feminist movements, call in an open letter for COP31 to establish the Belém-Antalya Mechanism for a Global Just Transition, protecting rights, providing technical and financial support and giving affected communities a voice. They demand that it be fully operational by COP32 and say the commitment made at COP30 has stalled. It bears on the just transition track.",
+    "es": "Más de 700 organizaciones de 88 países, entre ellas sindicatos, pueblos indígenas y movimientos feministas, piden en una carta abierta que la COP31 establezca el Mecanismo de Belém-Antalya para una Transición Justa Global, que proteja los derechos, brinde apoyo técnico y financiero y dé voz a las comunidades afectadas. Exigen que sea plenamente operativo para la COP32 y afirman que el compromiso asumido en la COP30 se ha estancado. Se relaciona con la vía de transición justa.",
+    "fr": "Plus de 700 organisations de 88 pays, dont des syndicats, des peuples autochtones et des mouvements féministes, demandent dans une lettre ouverte que la COP31 établisse le Mécanisme de Belém-Antalya pour une transition juste mondiale, qui protège les droits, apporte un soutien technique et financier et donne la parole aux communautés touchées. Elles exigent qu'il soit pleinement opérationnel d'ici la COP32 et estiment que l'engagement pris à la COP30 est au point mort. Cela concerne le volet de la transition juste.",
+    "ru": "Более 700 организаций из 88 стран, включая профсоюзы, коренные народы и феминистские движения, в открытом письме призывают КС-31 создать Белемско-Анталийский механизм глобального справедливого перехода, который защищал бы права, обеспечивал техническую и финансовую поддержку и давал голос затронутым сообществам. Они требуют, чтобы он был полностью введён в действие к КС-32, и заявляют, что обязательство, принятое на КС-30, застопорилось. Касается направления справедливого перехода.",
+    "zh": "来自88个国家的700多个组织，包括工会、原住民和女性运动团体，在公开信中呼吁第31届缔约方大会设立“贝伦-安塔利亚全球公正转型机制”，保护权利、提供技术和资金支持，并让受影响社区参与决策。它们要求该机制在COP32之前全面投入运作，并指出COP30作出的承诺已陷入停滞。本文涉及公正转型议题。",
+    "ar": "تدعو أكثر من 700 منظمة من 88 دولة، من بينها نقابات عمالية وشعوب أصلية وحركات نسوية، في رسالة مفتوحة إلى أن ينشئ مؤتمر الأطراف الحادي والثلاثون «آلية بيليم-أنطاليا للانتقال العادل عالميًا» التي تحمي الحقوق وتوفر الدعم التقني والمالي وتمنح المجتمعات المتضررة صوتًا في القرارات. وتطالب بأن تكون الآلية جاهزة للعمل بالكامل بحلول مؤتمر الأطراف الثاني والثلاثين، وتقول إن الالتزام الذي قُطع في مؤتمر الأطراف الثلاثين قد تعثّر. يتصل ذلك بمسار الانتقال العادل."
+   },
+   "tracks": [
+    "Transição justa",
+    "Espaço cívico"
+   ],
+   "quotes": [
+    "Climate justice cannot wait, and neither can the people whose lives and livelihoods are on the line. — Anabella Rosemberg, CAN International",
+    "multilateralism cannot be measured by the ability to bring governments to the negotiating table alone. — Mwanahamisi Singano, WEDO"
+   ],
+   "first_seen": "2026-11-11T18:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
+  },
+  {
+   "id": "cop31-presidency-2026-11-11-leaders-summit-kurum",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "comunicado",
+   "title": "COP31 Leaders' Summit Opening Address",
+   "date": "2026-11-11",
+   "authors": "Murat Kurum",
+   "url": "https://cop31.tr/speech-detail/cop31-leaders-summit-opening-address",
+   "summary": "Em Antália, o presidente da COP31, Murat Kurum, abriu a Cúpula de Líderes ligando a ação climática a segurança energética, alimentar e hídrica e à prosperidade, e fixou três prioridades: transformar metas nacionais em programas financiados (incluindo 35% de eletricidade no uso final de energia até 2035), tornar o financiamento acessível e colocar a resiliência no centro das políticas de desenvolvimento. Citou a reconstrução da Türkiye após os terremotos (455 mil moradias entregues). Toca as trilhas de presidência/anfitrião, eletrificação e finanças.",
+   "summary_i18n": {
+    "en": "In Antalya, COP31 President Murat Kurum opened the Leaders' Summit by linking climate action to energy, food and water security and to prosperity, and set three priorities: turning national targets into funded programmes (including 35% electricity in final energy use by 2035), making finance accessible, and placing resilience at the heart of development policy. He cited Türkiye's post-earthquake reconstruction (455,000 homes delivered). It bears on the presidency/host, electrification and finance tracks.",
+    "es": "En Antalya, el presidente de la COP31, Murat Kurum, inauguró la Cumbre de Líderes vinculando la acción climática con la seguridad energética, alimentaria e hídrica y con la prosperidad, y fijó tres prioridades: convertir las metas nacionales en programas financiados (incluido un 35 % de electricidad en el uso final de energía para 2035), hacer accesible la financiación y situar la resiliencia en el centro de las políticas de desarrollo. Mencionó la reconstrucción de Türkiye tras los terremotos (455 000 viviendas entregadas). Se relaciona con las vías de presidencia/anfitrión, electrificación y finanzas.",
+    "fr": "À Antalya, le président de la COP31, Murat Kurum, a ouvert le Sommet des dirigeants en liant l'action climatique à la sécurité énergétique, alimentaire et hydrique et à la prospérité, et a fixé trois priorités : transformer les objectifs nationaux en programmes financés (dont 35 % d'électricité dans la consommation finale d'énergie d'ici 2035), rendre le financement accessible et placer la résilience au cœur des politiques de développement. Il a cité la reconstruction de la Türkiye après les séismes (455 000 logements livrés). Cela concerne les volets présidence/pays hôte, électrification et finance.",
+    "ru": "В Анталье президент КС-31 Мурат Курум открыл саммит лидеров, связав климатические действия с энергетической, продовольственной и водной безопасностью и с процветанием, и определил три приоритета: превращение национальных целей в финансируемые программы (включая 35% электроэнергии в конечном потреблении энергии к 2035 году), обеспечение доступности финансирования и постановка устойчивости в центр политики развития. Он упомянул восстановление Турции после землетрясений (передано 455 тыс. домов). Касается направлений президентства/принимающей стороны, электрификации и финансов.",
+    "zh": "在安塔利亚，COP31主席穆拉特·库鲁姆主持开幕领导人峰会，将气候行动与能源、粮食和水安全及繁荣联系起来，并提出三项优先事项：把国家目标转化为有资金保障的方案（包括到2035年电力占终端能源使用的35%）、让融资可及、将韧性置于发展政策的核心。他提到土耳其震后重建（已交付45.5万套住房）。本文涉及主席国/东道国、电气化和融资议题。",
+    "ar": "في أنطاليا، افتتح رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم قمة القادة رابطًا العمل المناخي بأمن الطاقة والغذاء والمياه وبالازدهار، وحدّد ثلاث أولويات: تحويل الأهداف الوطنية إلى برامج ممولة (بما في ذلك بلوغ الكهرباء 35% من الاستخدام النهائي للطاقة بحلول عام 2035)، وإتاحة التمويل، ووضع القدرة على الصمود في صميم سياسات التنمية. وأشار إلى إعادة إعمار تركيا بعد الزلازل (تسليم 455 ألف مسكن). يتصل ذلك بمسارات الرئاسة/البلد المضيف والكهربة والتمويل."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "Finanças"
+   ],
+   "quotes": [
+    "We will connect national plans to projects, projects to finance, and finance to technology and expertise. — Murat Kurum"
+   ],
+   "first_seen": "2026-11-11T18:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "e3g-2026-11-11-india-eu-uk-cleantech",
+   "institution": "E3G",
+   "type": "análise",
+   "title": "Clean and secure: India–EU–UK cooperation is key to building diversified cleantech supply chains",
+   "date": "2026-11-11",
+   "authors": "Madhura Joshi, Nakul Sharma, Deepak Kumar Rai, Pieter de Pous",
+   "url": "https://www.e3g.org/news/india-eu-uk-cooperation-building-diversified-cleantech-supply-chains/",
+   "summary": "A partir da Bharat Renewable Energy Summit, em Délhi, o E3G argumenta que Índia, UE e Reino Unido podem aprofundar a cooperação em cadeias de valor de tecnologias limpas, transformando acesso a mercado em projetos investíveis. A Índia ultrapassou 300 GW de renováveis e mira cerca de 2.000 GW até 2047, e o comércio bilateral responde por apenas 1% das importações de módulos solares, geradores eólicos e baterias de lítio; os autores sugerem destinar parte de um pacote de apoio de € 500 milhões da UE a uma plataforma conjunta de transição verde. Toca as trilhas de comércio, eletrificação e finanças.",
+   "summary_i18n": {
+    "en": "Drawing on the Bharat Renewable Energy Summit in Delhi, E3G argues that India, the EU and the UK can deepen cooperation on cleantech value chains, turning market access into investable projects. India has passed 300 GW of renewable capacity and aims for about 2,000 GW by 2047, while bilateral trade accounts for only 1% of each side's imports of solar PV modules, wind generators and lithium-ion batteries; the authors propose directing part of a €500 million EU support package to a joint green transition platform. It bears on the trade, electrification and finance tracks.",
+    "es": "A partir de la Bharat Renewable Energy Summit en Delhi, E3G sostiene que India, la UE y el Reino Unido pueden profundizar la cooperación en las cadenas de valor de tecnologías limpias, convirtiendo el acceso a los mercados en proyectos invertibles. India ha superado los 300 GW de capacidad renovable y aspira a unos 2000 GW para 2047, y el comercio bilateral representa solo el 1 % de las importaciones de módulos solares fotovoltaicos, generadores eólicos y baterías de iones de litio de cada parte; los autores proponen destinar parte de un paquete de apoyo de la UE de 500 millones de euros a una plataforma conjunta de transición verde. Se relaciona con las vías de comercio, electrificación y finanzas.",
+    "fr": "À partir du Bharat Renewable Energy Summit de Delhi, E3G soutient que l'Inde, l'UE et le Royaume-Uni peuvent approfondir leur coopération sur les chaînes de valeur des technologies propres, en transformant l'accès aux marchés en projets investissables. L'Inde a dépassé 300 GW de capacité renouvelable et vise environ 2 000 GW d'ici 2047, tandis que le commerce bilatéral ne représente que 1 % des importations de modules solaires photovoltaïques, de générateurs éoliens et de batteries lithium-ion de chaque partie ; les auteurs proposent d'affecter une partie d'un programme de soutien de l'UE de 500 millions d'euros à une plateforme conjointe de transition verte. Cela concerne les volets commerce, électrification et finance.",
+    "ru": "Опираясь на Bharat Renewable Energy Summit в Дели, E3G утверждает, что Индия, ЕС и Великобритания могут углубить сотрудничество в цепочках создания стоимости чистых технологий, превращая доступ к рынкам в инвестиционные проекты. Индия превысила 300 ГВт установленной мощности ВИЭ и стремится к примерно 2000 ГВт к 2047 году, тогда как на двустороннюю торговлю приходится лишь 1% импорта солнечных модулей, ветрогенераторов и литий-ионных батарей каждой из сторон; авторы предлагают направить часть пакета поддержки ЕС в 500 млн евро на совместную платформу зелёного перехода. Касается направлений торговли, электрификации и финансов.",
+    "zh": "E3G以德里举行的巴拉特可再生能源峰会为切入点，认为印度、欧盟和英国可以深化清洁技术价值链合作，把市场准入转化为可投资项目。印度可再生能源装机已超过300吉瓦，目标是到2047年达到约2000吉瓦；双边贸易仅占各方太阳能光伏组件、风力发电机和锂离子电池进口的1%。作者建议将欧盟5亿欧元支持方案的一部分用于联合绿色转型平台。本文涉及贸易、电气化和融资议题。",
+    "ar": "انطلاقًا من قمة بهارات للطاقة المتجددة في دلهي، ترى E3G أن بإمكان الهند والاتحاد الأوروبي والمملكة المتحدة تعميق التعاون في سلاسل قيمة التكنولوجيا النظيفة وتحويل النفاذ إلى الأسواق إلى مشاريع قابلة للاستثمار. فقد تجاوزت الهند 300 غيغاواط من القدرة المتجددة وتستهدف نحو 2000 غيغاواط بحلول عام 2047، بينما لا تمثل التجارة الثنائية سوى 1% من واردات كل طرف من الوحدات الكهروضوئية الشمسية ومولدات الرياح وبطاريات الليثيوم أيون؛ ويقترح المؤلفون توجيه جزء من حزمة دعم أوروبية بقيمة 500 مليون يورو إلى منصة مشتركة للتحول الأخضر. يتصل ذلك بمسارات التجارة والكهربة والتمويل."
+   },
+   "tracks": [
+    "Comércio",
+    "Eletrificação",
+    "Finanças"
+   ],
+   "quotes": [
+    "The message is clear: India, the EU and UK are well positioned for deeper cleantech cooperation. — E3G"
+   ],
+   "first_seen": "2026-11-11T18:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-e3g-org-news"
+  },
   {
    "id": "instagram-muratkurum-20261111-lideres-visao",
    "kind": "post",
@@ -12703,11 +12818,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T17:50:00-03:00",
-  "label": "11 nov 2026, 17:50 (Brasília)",
+  "timestamp": "2026-11-11T18:50:00-03:00",
+  "label": "11 nov 2026, 18:50 (Brasília)",
   "accounts_checked": 45,
   "blocked": 1,
-  "new_items": 7,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
