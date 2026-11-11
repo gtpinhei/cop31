@@ -358,19 +358,23 @@ def extract(doc):
         if m and focus is None:
             focus = norm(m.group(2)); continue
         strong = first_strong(b.get("value"))
-        if section == "moments" and "|" in (strong or txt[:60]):
-            head = strong if "|" in strong else txt.split("\n")[0]
+        first_line = norm(raw.strip().split("\n")[0])
+        if section == "moments" and ("|" in strong or "|" in first_line[:80] or "|" in txt[:60]):
+            # the time and title are bold, but the bold run is sometimes split ("9" + " :00AM–… | Title")
+            head = strong if "|" in strong else first_line if "|" in first_line else txt[:200]
             when, _, title = head.partition("|")
             full = "".join(_texts(b.get("value")))
             ev_links = []
             slate_links(b.get("value"), ev_links)
-            events.append({"time": norm(when), "title": norm(title)[:200], "group": group,
+            events.append({"time": re.sub(r"\s+:", ":", norm(when)), "title": norm(title)[:200], "group": group,
                            "room": labelled(full, "Room", "Sala", "Local", "Venue"),
                            "livestream": next((u for u in ev_links if u.startswith("https://")), None)})
             paras.append(txt); continue
-        if headline is None and section == "lead":
-            headline = txt[:200]
+        if headline is None and section == "lead" and focus is None and len(txt) <= 140 and not txt.endswith("."):
+            headline = txt                      # a short title line before the thematic focus (absent in some editions)
             paras.append(txt); continue
+        if section == "lead":
+            headline = headline or ""           # no title line in this edition: the lead starts here
         sections[section] = sections.get(section, 0) + 1
         paras.append(txt)
     body = "\n".join(paras)
@@ -380,9 +384,9 @@ def extract(doc):
         if u.startswith("https://") and u not in seen:
             seen.add(u); clean.append(u)
     host = lambda u: urllib.parse.urlparse(u).hostname or ""  # noqa: E731
-    return {"headline": headline, "focus": focus, "body_chars": len(body),
+    return {"headline": headline or None, "focus": focus, "body_chars": len(body),
             "hash": hashlib.sha256(body.encode("utf-8")).hexdigest(), "paragraphs": len(paras),
-            "lead": [p for p in paras[1:4] if not FOCUS.match(p)][:2],     # private: material for the monitor's summary
+            "lead": [p for p in paras if p != headline and not FOCUS.match(p)][:2],     # private: material for the monitor's summary
             "review": _section_text(blocks, layout, "review"),
             "events": events, "links": clean,
             "official_links": [u for u in clean if any(host(u) == h or host(u).endswith("." + h) for h in OFFICIAL_HOSTS)],
@@ -655,7 +659,8 @@ def item_for(e, summ, t):
         parts = [x["title"]]
         if x.get("description"):
             parts[0] += " – " + x["description"]
-        return parts[0] + (": " + x["headline"] if x.get("headline") else "")
+        sub = x.get("headline") or x.get("focus")          # the day's title line, else its thematic focus
+        return parts[0] + (": " + sub if sub else "")
     it = {"id": e["id"], "institution": INSTITUTION, "type": "boletim", "title": title(main, "en" if en else "pt"),
           "date": e["date"], "url": main["url"], "lang": "en" if en else "pt", "tracks": e.get("tracks") or ["Presidência e anfitrião"],
           "source_id": SOURCE_ID, "series": "COP30 Presidency Daily Brief",
