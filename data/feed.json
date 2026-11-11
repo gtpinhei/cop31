@@ -39,6 +39,62 @@
    "kind": "post",
    "verified": true,
    "date": "2026-11-11",
+   "first_seen": "2026-11-11T03:50:00-03:00",
+   "lang": "tr",
+   "tracks": [
+    "Adaptação",
+    "Presidência e anfitrião"
+   ],
+   "id": "x-fatmavarank-20261111-baku-adaptation",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "time": "03:35",
+   "text": "COP31 Antalya'da Uyum Konusunda Bakü Üst Düzey Diyaloğu'na katılım sağladık. / Participated in the Baku High-Level Dialogue on Adaptation at COP31 Antalya.",
+   "summary": "A CEO da COP31, Fatma Varank, informa que participou do Diálogo de Alto Nível de Baku sobre Adaptação na COP31, em Antália.",
+   "summary_i18n": {
+    "en": "COP31 CEO Fatma Varank reports taking part in the Baku High-Level Dialogue on Adaptation at COP31 in Antalya.",
+    "es": "La directora ejecutiva de la COP31, Fatma Varank, informa de que participó en el Diálogo de Alto Nivel de Bakú sobre Adaptación en la COP31, en Antalya.",
+    "fr": "La directrice générale de la COP31, Fatma Varank, indique avoir participé au Dialogue de haut niveau de Bakou sur l'adaptation à la COP31, à Antalya.",
+    "ru": "Исполнительный директор КС-31 Фатма Варанк сообщила об участии в Бакинском диалоге высокого уровня по адаптации на КС-31 в Анталье.",
+    "zh": "COP31首席执行官法特玛·瓦兰克(Fatma Varank)表示,她在安塔利亚COP31期间参加了关于适应问题的巴库高级别对话。",
+    "ar": "أفادت الرئيسة التنفيذية لمؤتمر COP31 فاطمة فارانك بأنها شاركت في حوار باكو رفيع المستوى بشأن التكيف في مؤتمر COP31 في أنطاليا."
+   },
+   "url": "https://x.com/fatmavarank",
+   "source_id": "x-fatmavarank"
+  },
+  {
+   "kind": "post",
+   "verified": true,
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T03:50:00-03:00",
+   "lang": "en",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "time": "03:10",
+   "text": "Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive programme spanning circular economy policies, green value chains, sustainable infrastructure and zero-waste solutions. Blue Zone, Pavilion B125. Wednesday, 11 November | 10:00-18:00.",
+   "summary": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
+   "summary_i18n": {
+    "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
+    "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
+    "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
+    "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
+    "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
+    "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
+   },
+   "url": "https://www.instagram.com/p/DflzlHIDVTg/",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
+   "kind": "post",
+   "verified": true,
+   "date": "2026-11-11",
    "first_seen": "2026-11-11T02:55:00-03:00",
    "lang": "en",
    "tracks": [
@@ -10577,12 +10633,14 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T02:55:00-03:00",
-  "label": "11 nov 2026, 02:55 (Brasília)",
-  "accounts_checked": 37,
-  "blocked": 0,
+  "timestamp": "2026-11-11T03:50:00-03:00",
+  "label": "11 nov 2026, 03:50 (Brasília)",
+  "accounts_checked": 30,
+  "blocked": 1,
   "new_items": 2,
   "cadence": "a cada hora",
-  "blocked_accounts": []
+  "blocked_accounts": [
+   "yt-unclimatechangeevents"
+  ]
  }
 }
