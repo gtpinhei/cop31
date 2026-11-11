@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T08:57+03:00",
+ "generated_at": "2026-11-11T10:04+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T00:19:00-03:00",
-  "social_round": "2026-11-11T02:55:00-03:00",
+  "social_round": "2026-11-11T03:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 107,
-  "stories": 93,
+  "candidates": 109,
+  "stories": 92,
   "top": 8,
   "publishers": [
    "350.org",
@@ -73,6 +73,121 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-11",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-11",
+     "title": "COP30 Presidency Daily Brief – November 11: Antalya Leaders’ Summit, Zero Waste, and Forests",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Agenda de Ação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 3º dia da COP31 (temas: Cúpula de Líderes de Antália, lixo zero e florestas), a Presidência da COP30 informa que reúne empresas, cidades, sociedade civil e pesquisadores no Pavilhão do Brasil para discutir a implementação do seu Mapa do Caminho sobre a transição para longe dos combustíveis fósseis, e que…",
+     "collected_at": "2026-11-11T04:03-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov11_bd_wc8uvw97"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 11 de novembro: Cúpula de Líderes de Antália, Lixo Zero e Florestas"
+     },
+     "description_i18n": {
+      "en": "In its Day 3 brief (themes: Antalya Leaders' Summit, zero waste and forests), the COP30 Presidency says it is convening businesses, cities, civil society and researchers at the Brazil Pavilion to discuss implementing its Roadmap for transitioning away from fossil fuels, and that Brazil, Türkiye and Australia are…",
+      "es": "En su boletín del 3.er día de la COP31 (temas: Cumbre de Líderes de Antalya, residuo cero y bosques), la Presidencia de la COP30 informa que reúne a empresas, ciudades, sociedad civil e investigadores en el Pabellón de Brasil para debatir la aplicación de su Hoja de Ruta para dejar atrás los combustibles fósiles, y…",
+      "fr": "Dans son bulletin du 3e jour de la COP31 (thèmes : Sommet des dirigeants d'Antalya, zéro déchet et forêts), la Présidence de la COP30 indique qu'elle réunit entreprises, villes, société civile et chercheurs au Pavillon du Brésil pour discuter de la mise en œuvre de sa Feuille de route pour s'éloigner des combustibles…",
+      "ru": "В бюллетене третьего дня КС-31 (темы: Саммит лидеров в Анталье, «ноль отходов» и леса) Председательство КС-30 сообщает, что собирает в павильоне Бразилии представителей бизнеса, городов, гражданского общества и исследователей для обсуждения реализации своей «дорожной карты» по отказу от ископаемого топлива, а…",
+      "zh": "在COP31第三天（主题：安塔利亚领导人峰会、零废弃与森林）的简报中，COP30主席团表示正在巴西馆召集企业、城市、民间社会和研究人员，讨论落实其《转型脱离化石燃料路线图》；巴西、土耳其和澳大利亚还就贝伦会议启动的“全球实施加速器”的运作举行会议。当日议程还包括领导人森林峰会、向COP30首席执行官安娜·托尼提交私营部门最终报告（Sustainable Business COP），以及行动议程关于水、食物浪费和健康的展示；简报还回顾了第二天的情况，包括国际社会对路线图的支持和高级别倡导者的交接。涉及“主席团与东道国”“TAFF与化石燃料”“森林”和“行动议程”议题。",
+      "ar": "في نشرة اليوم الثالث من مؤتمر الأطراف الحادي والثلاثين (المواضيع: قمة قادة أنطاليا، وصفر نفايات، والغابات)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تجمع الشركات والمدن والمجتمع المدني والباحثين في الجناح البرازيلي لمناقشة تنفيذ خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري، وإن البرازيل وتركيا وأستراليا تعقد جلسة بشأن…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "cop30-presidency-daily-brief-2026-11-10",
+      "title": "COP30 Presidency Daily Brief – November 10: From roadmap to action on the energy transition",
+      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+      "publisher": "Presidência da COP30",
+      "published": "2026-11-10",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação",
+       "TAFF e fósseis",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "No boletim do 2º dia da COP31 (tema: energia e transporte), a Presidência da COP30 anuncia que apresenta às Partes seu Mapa do Caminho para a transição para longe dos combustíveis fósseis nos sistemas energéticos, com fala de abertura de António Guterres;",
+      "collected_at": "2026-11-10T03:37-03:00",
+      "validation": "registry source, collected by the monitor",
+      "url_i18n": {
+       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov10_bd_n3yzrvo0"
+      },
+      "title_i18n": {
+       "pt": "Boletim Diário da Presidência da COP30 – 10 de novembro: Do Mapa do Caminho à ação na transição energética"
+      },
+      "description_i18n": {
+       "en": "In its Day 2 brief (theme: energy and transport), the COP30 Presidency says it is presenting to Parties its Roadmap for transitioning away from fossil fuels in energy systems, with opening remarks by António Guterres;",
+       "es": "En su boletín del 2.º día de la COP31 (tema: energía y transporte), la Presidencia de la COP30 anuncia que presenta a las Partes su Hoja de Ruta para la transición para dejar atrás los combustibles fósiles en los sistemas energéticos, con palabras de apertura de António Guterres;",
+       "fr": "Dans son bulletin du 2e jour de la COP31 (thème : énergie et transports), la Présidence de la COP30 annonce présenter aux Parties sa Feuille de route pour s'éloigner des combustibles fossiles dans les systèmes énergétiques, avec une allocution d'ouverture d'António Guterres ;",
+       "ru": "В бюллетене второго дня КС-31 (тема: энергетика и транспорт) Председательство КС-30 сообщает, что представляет Сторонам свою «дорожную карту» по отказу от ископаемого топлива в энергосистемах, со вступительным словом Антониу Гутерриша;",
+       "zh": "在COP31第二天（主题：能源与交通）的简报中，COP30主席团表示正向缔约方介绍其《能源系统转型脱离化石燃料路线图》，联合国秘书长古特雷斯致开幕辞；据主席团介绍，该文本收到267份公开意见，并以涵盖需求、供应和整体经济三大支柱的“贝伦准备度”方法为基础。当日议程还包括配合COP31“到2035年电力占终端能源需求35%”目标的电气化展示、共同主持巴库适应问题高级别对话，以及全球气候行动议程开幕和《2026年全球气候行动年鉴》发布；简报还回顾了第一天主席职位移交土耳其的情况。涉及“主席团与东道国”“TAFF与化石燃料”“电气化”和“行动议程”议题。",
+       "ar": "في نشرة اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين (الموضوع: الطاقة والنقل)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تعرض على الأطراف خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري في أنظمة الطاقة، بكلمة افتتاحية من أنطونيو غوتيريش؛ وبحسب الرئاسة، تلقى النص 267 مساهمة عامة ويستند إلى نهج بيليم للجاهزية القائم على…"
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "cop30-presidency-daily-brief-2026-11-09",
+      "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
+      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+      "publisher": "Presidência da COP30",
+      "published": "2026-11-09",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Florestas",
+       "Finanças",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
+      "collected_at": "2026-11-10T03:37-03:00",
+      "validation": "registry source, collected by the monitor",
+      "url_i18n": {
+       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
+      },
+      "title_i18n": {
+       "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
+      },
+      "description_i18n": {
+       "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
+       "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
+       "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
+       "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
+       "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
+       "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-10-coletiva-abertura",
     "section": "action",
@@ -369,50 +484,6 @@
     "related": [],
     "publishers": [
      "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-cop30-presidency-daily-brief-2026-11-10",
-    "section": "action",
-    "score": 0.48,
-    "lead": {
-     "id": "cop30-presidency-daily-brief-2026-11-10",
-     "title": "COP30 Presidency Daily Brief – November 10: From roadmap to action on the energy transition",
-     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
-     "publisher": "Presidência da COP30",
-     "published": "2026-11-10",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Eletrificação",
-      "TAFF e fósseis",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "No boletim do 2º dia da COP31 (tema: energia e transporte), a Presidência da COP30 anuncia que apresenta às Partes seu Mapa do Caminho para a transição para longe dos combustíveis fósseis nos sistemas energéticos, com fala de abertura de António Guterres;",
-     "collected_at": "2026-11-10T03:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "url_i18n": {
-      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
-      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov10_bd_n3yzrvo0"
-     },
-     "title_i18n": {
-      "pt": "Boletim Diário da Presidência da COP30 – 10 de novembro: Do Mapa do Caminho à ação na transição energética"
-     },
-     "description_i18n": {
-      "en": "In its Day 2 brief (theme: energy and transport), the COP30 Presidency says it is presenting to Parties its Roadmap for transitioning away from fossil fuels in energy systems, with opening remarks by António Guterres;",
-      "es": "En su boletín del 2.º día de la COP31 (tema: energía y transporte), la Presidencia de la COP30 anuncia que presenta a las Partes su Hoja de Ruta para la transición para dejar atrás los combustibles fósiles en los sistemas energéticos, con palabras de apertura de António Guterres;",
-      "fr": "Dans son bulletin du 2e jour de la COP31 (thème : énergie et transports), la Présidence de la COP30 annonce présenter aux Parties sa Feuille de route pour s'éloigner des combustibles fossiles dans les systèmes énergétiques, avec une allocution d'ouverture d'António Guterres ;",
-      "ru": "В бюллетене второго дня КС-31 (тема: энергетика и транспорт) Председательство КС-30 сообщает, что представляет Сторонам свою «дорожную карту» по отказу от ископаемого топлива в энергосистемах, со вступительным словом Антониу Гутерриша;",
-      "zh": "在COP31第二天（主题：能源与交通）的简报中，COP30主席团表示正向缔约方介绍其《能源系统转型脱离化石燃料路线图》，联合国秘书长古特雷斯致开幕辞；据主席团介绍，该文本收到267份公开意见，并以涵盖需求、供应和整体经济三大支柱的“贝伦准备度”方法为基础。当日议程还包括配合COP31“到2035年电力占终端能源需求35%”目标的电气化展示、共同主持巴库适应问题高级别对话，以及全球气候行动议程开幕和《2026年全球气候行动年鉴》发布；简报还回顾了第一天主席职位移交土耳其的情况。涉及“主席团与东道国”“TAFF与化石燃料”“电气化”和“行动议程”议题。",
-      "ar": "في نشرة اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين (الموضوع: الطاقة والنقل)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تعرض على الأطراف خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري في أنظمة الطاقة، بكلمة افتتاحية من أنطونيو غوتيريش؛ وبحسب الرئاسة، تلقى النص 267 مساهمة عامة ويستند إلى نهج بيليم للجاهزية القائم على…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP30"
     ]
    },
    {
@@ -1517,6 +1588,74 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261111-zero-waste-pavilion",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
+     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DflzlHIDVTg/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-11",
+     "time": "03:10",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
+     "collected_at": "2026-11-11T03:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
+      "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
+      "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
+      "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
+      "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
+      "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "04:11",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
+      "collected_at": "2026-11-10T04:47:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
+       "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
+       "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
+       "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
+       "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
+       "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-instagram-turkiyecop31-20261111-leaders-summit",
     "section": "action",
     "score": 0.413,
@@ -2103,44 +2242,6 @@
     ]
    },
    {
-    "id": "st-instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
-     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-10",
-     "time": "04:11",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Eletrificação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
-     "collected_at": "2026-11-10T04:47:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
-      "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
-      "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
-      "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
-      "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
-      "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
     "id": "st-instagram-turkiyecop31-20261110-day2-theme",
     "section": "action",
     "score": 0.33,
@@ -2234,50 +2335,6 @@
     ],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-cop30-presidency-daily-brief-2026-11-09",
-    "section": "action",
-    "score": 0.3,
-    "lead": {
-     "id": "cop30-presidency-daily-brief-2026-11-09",
-     "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
-     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-     "publisher": "Presidência da COP30",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Florestas",
-      "Finanças",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
-     "collected_at": "2026-11-10T03:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "url_i18n": {
-      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
-     },
-     "title_i18n": {
-      "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
-     },
-     "description_i18n": {
-      "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
-      "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
-      "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
-      "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
-      "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
-      "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP30"
     ]
    },
    {
@@ -3970,6 +4027,7 @@
    "bluesky-enb.iisd.org-20261110-dialogo-adaptacao",
    "climate-home-news-2026-11-09-cop31-bulletin-day1",
    "cop30-presidency-daily-brief-2026-11-10",
+   "cop30-presidency-daily-brief-2026-11-11",
    "icccad-2026-11-10-neld-case-stories",
    "ics-2026-11-09-povos-indigenas-fundo-florestas",
    "instagram-turkiyecop31-20261110-varank-yumakli",
