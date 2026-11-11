@@ -34,6 +34,117 @@
  ],
  "items": [
   {
+   "id": "x-LulaOficial-20261111-cupula-abertura",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "07:23",
+   "text": "Presidente Lula participa da sessão de abertura da Cúpula de Líderes da COP 31 (video replay)",
+   "summary": "O presidente Lula participa da sessão de abertura da Cúpula de Líderes da COP31, com vídeo de reprise divulgado em seu perfil.",
+   "summary_i18n": {
+    "en": "President Lula takes part in the opening session of the COP31 Leaders' Summit; a replay video was posted on his profile.",
+    "es": "El presidente Lula participa en la sesión de apertura de la Cumbre de Líderes de la COP31; su perfil difunde un vídeo de la repetición.",
+    "fr": "Le président Lula participe à la séance d'ouverture du Sommet des dirigeants de la COP31 ; une vidéo en replay est publiée sur son profil.",
+    "ru": "Президент Лула участвует в церемонии открытия Саммита лидеров КС-31; на его странице опубликована видеозапись трансляции.",
+    "zh": "卢拉总统出席COP31领导人峰会开幕会议,其账号发布了回放视频。",
+    "ar": "يشارك الرئيس لولا في الجلسة الافتتاحية لقمة القادة في COP31، ونُشر فيديو إعادة البث على حسابه."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "lang": "pt",
+   "source_id": "x-lulaoficial",
+   "kind": "post",
+   "first_seen": "2026-11-11T07:44:53-03:00"
+  },
+  {
+   "id": "x-fatmavarank-20261111-dialogo-povos-indigenas",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "07:06",
+   "text": "COP31 Antalya kapsamında Yerli Halk Örgütleri (IPO) Üst Düzey Diyaloğu’na iştirak ettik.\n\nParticipated in the High-Level Dialogue with Indigenous Peoples Organizations (IPO) held as part of COP31 Antalya.",
+   "summary": "A CEO da COP31 relata a participação no Diálogo de Alto Nível com Organizações de Povos Indígenas, realizado no âmbito da COP31 em Antália.",
+   "summary_i18n": {
+    "en": "The COP31 CEO reports taking part in the High-Level Dialogue with Indigenous Peoples Organizations held at COP31 in Antalya.",
+    "es": "La directora ejecutiva de la COP31 informa de su participación en el Diálogo de Alto Nivel con Organizaciones de Pueblos Indígenas celebrado en la COP31 en Antalya.",
+    "fr": "La directrice générale de la COP31 indique avoir participé au Dialogue de haut niveau avec les organisations de peuples autochtones, tenu dans le cadre de la COP31 à Antalya.",
+    "ru": "Исполнительный директор КС-31 сообщает об участии в диалоге высокого уровня с организациями коренных народов в рамках КС-31 в Анталье.",
+    "zh": "COP31首席执行官表示参加了在安塔利亚COP31期间举行的与原住民组织的高级别对话。",
+    "ar": "تفيد الرئيسة التنفيذية لـ COP31 بمشاركتها في الحوار رفيع المستوى مع منظمات الشعوب الأصلية المنعقد ضمن COP31 في أنطاليا."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Espaço cívico"
+   ],
+   "lang": "tr",
+   "source_id": "x-fatmavarank",
+   "kind": "post",
+   "first_seen": "2026-11-11T07:44:53-03:00"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-clima-paz-africa",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "07:08",
+   "text": "Climate, Peace and Security in Africa: Advancing Policy Dialogue, Partnerships and Collective Action",
+   "summary": "Vídeo do Pavilhão da ONU Mudança do Clima: \"Clima, paz e segurança na África: avançar o diálogo político, as parcerias e a ação coletiva\".",
+   "summary_i18n": {
+    "en": "UN Climate Change Pavilion video: \"Climate, Peace and Security in Africa: Advancing Policy Dialogue, Partnerships and Collective Action\".",
+    "es": "Vídeo del Pabellón de la ONU para el Cambio Climático: «Clima, paz y seguridad en África: avanzar en el diálogo político, las alianzas y la acción colectiva».",
+    "fr": "Vidéo du Pavillon de l'ONU Changements climatiques : « Climat, paix et sécurité en Afrique : faire progresser le dialogue politique, les partenariats et l'action collective ».",
+    "ru": "Видео павильона ООН по изменению климата: «Климат, мир и безопасность в Африке: развитие политического диалога, партнёрств и коллективных действий».",
+    "zh": "联合国气候变化展馆视频:“非洲的气候、和平与安全:推进政策对话、伙伴关系与集体行动”。",
+    "ar": "فيديو من جناح الأمم المتحدة لتغير المناخ: «المناخ والسلام والأمن في أفريقيا: النهوض بالحوار السياسي والشراكات والعمل الجماعي»."
+   },
+   "url": "https://www.youtube.com/watch?v=CjQFfVYMRwQ",
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "kind": "post",
+   "first_seen": "2026-11-11T07:44:53-03:00"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261111-roteiro-desmatamento",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "06:46",
+   "text": "Implementing the Roadmap to Halt and Reverse Deforestation and Degradation by 2030",
+   "summary": "Vídeo do Pavilhão da ONU Mudança do Clima: \"Implementar o Roteiro para deter e reverter o desmatamento e a degradação até 2030\".",
+   "summary_i18n": {
+    "en": "UN Climate Change Pavilion video: \"Implementing the Roadmap to Halt and Reverse Deforestation and Degradation by 2030\".",
+    "es": "Vídeo del Pabellón de la ONU para el Cambio Climático: «Aplicar la hoja de ruta para detener y revertir la deforestación y la degradación para 2030».",
+    "fr": "Vidéo du Pavillon de l'ONU Changements climatiques : « Mettre en œuvre la feuille de route pour mettre fin à la déforestation et à la dégradation et les inverser d'ici 2030 ».",
+    "ru": "Видео павильона ООН по изменению климата: «Реализация дорожной карты по прекращению и обращению вспять обезлесения и деградации к 2030 году».",
+    "zh": "联合国气候变化展馆视频:“落实到2030年遏制并扭转森林砍伐和退化的路线图”。",
+    "ar": "فيديو من جناح الأمم المتحدة لتغير المناخ: «تنفيذ خارطة الطريق لوقف إزالة الغابات وتدهورها وعكس مسارهما بحلول عام 2030»."
+   },
+   "url": "https://www.youtube.com/watch?v=1qLqfZm5dC8",
+   "tracks": [
+    "Florestas",
+    "Agenda de Ação"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "kind": "post",
+   "first_seen": "2026-11-11T07:44:53-03:00"
+  },
+  {
    "kind": "post",
    "id": "x-unfccc-20261111-cupula-lideres-ao-vivo",
    "platform": "x",
@@ -11235,11 +11346,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T06:50:00-03:00",
-  "label": "11 nov 2026, 06:50 (Brasília)",
+  "timestamp": "2026-11-11T07:44:53-03:00",
+  "label": "11 nov 2026, 07:44 (Brasília)",
   "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 2,
+  "new_items": 4,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
