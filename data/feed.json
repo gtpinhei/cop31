@@ -36,6 +36,34 @@
  ],
  "items": [
   {
+   "id": "x-turkiyecop31-20261111-day3-zero-waste",
+   "kind": "post",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "01:30",
+   "text": "Welcome to Day 3 of #COP31 in Antalya!\n\nToday's theme: \"Zero Waste\".\n\nThe full event schedule and programme details are available at cop31.tr and via the COP31 Türkiye mobile application.\n\n#COP31Türkiye #COP31Antalya",
+   "summary": "A Presidência turca da COP31 abre o terceiro dia em Antália com o tema \"Desperdício Zero\" e remete ao site cop31.tr e ao aplicativo para a programação completa.",
+   "summary_i18n": {
+    "en": "The Turkish COP31 Presidency opens Day 3 in Antalya with the theme \"Zero Waste\" and points to cop31.tr and the mobile app for the full programme.",
+    "es": "La Presidencia de Turquía de la COP31 abre el tercer día en Antalya con el tema \"Cero Desperdicio\" y remite a cop31.tr y a la aplicación móvil para el programa completo.",
+    "fr": "La présidence turque de la COP31 ouvre la troisième journée à Antalya sur le thème \"Zéro déchet\" et renvoie à cop31.tr et à l'application mobile pour le programme complet.",
+    "ru": "Председательство Турции на КС-31 открывает третий день в Анталье темой «Ноль отходов» и отсылает к cop31.tr и мобильному приложению за полной программой.",
+    "zh": "土耳其COP31主席国在安塔利亚开启第三天议程,主题为“零废弃”,完整日程见cop31.tr及手机应用。",
+    "ar": "تفتتح رئاسة تركيا لمؤتمر COP31 اليوم الثالث في أنطاليا بموضوع \"صفر نفايات\" وتحيل إلى cop31.tr والتطبيق للاطلاع على البرنامج الكامل."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-11T01:45:00-03:00",
+   "lang": "en",
+   "source_id": "x-turkiyecop31"
+  },
+  {
    "id": "unfccc-2026-11-10-coletiva-abertura",
    "institution": "UNFCCC / Simon Stiell",
    "type": "comunicado",
@@ -10493,12 +10521,14 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-10T22:55:00-03:00",
-  "label": "10 nov 2026, 22:55 (Brasília)",
-  "accounts_checked": 34,
-  "blocked": 0,
-  "new_items": 17,
+  "timestamp": "2026-11-11T01:50:00-03:00",
+  "label": "11 nov 2026, 01:50 (Brasília)",
+  "accounts_checked": 44,
+  "blocked": 1,
+  "new_items": 1,
   "cadence": "a cada hora",
-  "blocked_accounts": []
+  "blocked_accounts": [
+   "x-dcceew"
+  ]
  }
 }
