@@ -34,6 +34,88 @@
  ],
  "items": [
   {
+   "id": "instagram-turkiyecop31-20261111-erdogan-teto-unico",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "15:23",
+   "text": "As humanity, our home has a single roof: the sky. As humanity, our home has a single garden: the Earth. — President Recep Tayyip Erdoğan, COP31 Antalya Leaders' Summit",
+   "summary": "Citação de Erdoğan na Cúpula de Líderes: a humanidade tem um único teto, o céu, e um único jardim, a Terra.",
+   "summary_i18n": {
+    "en": "Quote from Erdoğan at the Leaders' Summit: humanity has a single roof, the sky, and a single garden, the Earth.",
+    "es": "Cita de Erdoğan en la Cumbre de Líderes: la humanidad tiene un único techo, el cielo, y un único jardín, la Tierra.",
+    "fr": "Citation d'Erdoğan au Sommet des dirigeants : l'humanité n'a qu'un seul toit, le ciel, et qu'un seul jardin, la Terre.",
+    "ru": "Цитата Эрдогана на саммите лидеров: у человечества одна крыша — небо — и один сад — Земля.",
+    "zh": "埃尔多安在领导人峰会上表示：人类只有一个屋顶——天空，也只有一座花园——地球。",
+    "ar": "اقتباس لأردوغان في قمة القادة: للبشرية سقف واحد هو السماء وحديقة واحدة هي الأرض."
+   },
+   "url": "https://www.instagram.com/p/DfnHcRKsl0N/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T15:45:11-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "x-LulaOficial-20261111-brasil-inicia-participacao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "14:57",
+   "text": "Hoje, o Brasil iniciou sua participação na COP31, em Antália... Tenho muito orgulho de ver nosso país ocupando um lugar de liderança no debate climático mundial. Chegamos com...",
+   "summary": "Lula diz que o Brasil iniciou hoje sua participação na COP31 e se orgulha de o país ocupar posição de liderança no debate climático mundial.",
+   "summary_i18n": {
+    "en": "Lula says Brazil began its participation in COP31 today and is proud that the country holds a leading place in the global climate debate.",
+    "es": "Lula dice que Brasil inició hoy su participación en la COP31 y se enorgullece de que el país ocupe un lugar de liderazgo en el debate climático mundial.",
+    "fr": "Lula affirme que le Brésil a entamé aujourd'hui sa participation à la COP31 et se dit fier de voir le pays occuper une place de premier plan dans le débat mondial sur le climat.",
+    "ru": "Лула заявил, что Бразилия начала сегодня участие в КС-31 и гордится тем, что страна занимает лидирующие позиции в мировой климатической дискуссии.",
+    "zh": "卢拉表示，巴西今天开始参加COP31，并为巴西在全球气候讨论中处于领导地位而感到自豪。",
+    "ar": "قال لولا إن البرازيل بدأت اليوم مشاركتها في مؤتمر الأطراف الحادي والثلاثين، وإنه فخور بأن تحتل بلاده موقع الريادة في النقاش المناخي العالمي."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T15:45:11-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "x-fatmavarank-20261111-tni-agricultura",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "15:24",
+   "text": "COP31 Antalya kapsamında düzenlenen Turkuaz Bağlantısallık Girişimi (TNI) lansmanına ve Tarım Bakanları Yuvarlak Masa Toplantısı'na katıldık. We participated in the launch of the Turquoise Network Initiative (TNI) and the Agriculture Ministers' Roundtable, held as part of COP31.",
+   "summary": "Fatma Varank participou do lançamento da Iniciativa de Conectividade Turquesa (TNI) e da mesa-redonda de ministros da Agricultura na COP31.",
+   "summary_i18n": {
+    "en": "Fatma Varank took part in the launch of the Turquoise Network Initiative (TNI) and the Agriculture Ministers' Roundtable at COP31.",
+    "es": "Fatma Varank participó en el lanzamiento de la Iniciativa de Red Turquesa (TNI) y en la mesa redonda de ministros de Agricultura en la COP31.",
+    "fr": "Fatma Varank a participé au lancement de l'Initiative du réseau turquoise (TNI) et à la table ronde des ministres de l'agriculture à la COP31.",
+    "ru": "Фатма Варанк приняла участие в запуске Инициативы «Бирюзовая сеть» (TNI) и в круглом столе министров сельского хозяйства на КС-31.",
+    "zh": "法特玛·瓦兰克出席了COP31期间的“绿松石网络倡议”（TNI）启动仪式和农业部长圆桌会议。",
+    "ar": "شاركت فاطمة فارنك في إطلاق مبادرة الشبكة الفيروزية (TNI) وفي الطاولة المستديرة لوزراء الزراعة خلال مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Agenda de Ação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T15:45:11-03:00",
+   "lang": "tr",
+   "source_id": "x-fatmavarank"
+  },
+  {
    "kind": "post",
    "id": "instagram-turkiyecop31-20261111-kurum-segmento-alto-nivel",
    "platform": "instagram",
@@ -12258,9 +12340,9 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T14:50:00-03:00",
-  "label": "11 nov 2026, 14:50 (Brasília)",
-  "accounts_checked": 30,
+  "timestamp": "2026-11-11T15:45:11-03:00",
+  "label": "11 nov 2026, 15:45 (Brasília)",
+  "accounts_checked": 31,
   "blocked": 1,
   "new_items": 3,
   "cadence": "a cada hora",
