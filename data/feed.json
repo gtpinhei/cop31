@@ -1,20 +1,18 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T00:19:00-03:00",
+ "generated_at": "2026-11-11T06:13:00-03:00",
  "round": {
-  "timestamp": "2026-11-11T00:19:00-03:00",
-  "label": "11 nov 2026, 00:19 (Brasília)",
-  "sites_checked": 56,
-  "blocked": 11,
-  "new_items": 3,
-  "fetches": "62 de 60",
+  "timestamp": "2026-11-11T06:13:00-03:00",
+  "label": "11 nov 2026, 06:13 (Brasília)",
+  "sites_checked": 34,
+  "blocked": 5,
+  "new_items": 8,
+  "fetches": "42 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "UNEP, TWN, WWF (client_error/robots)",
-   "Climate Champions (redirect), COP30.br, CSE, Ember, WMBC, Christian Aid, Eurodad, ODI (sem listagem datada)",
-   "ITUC e CAN Europe (timeout Nimble)",
-   "OC (/noticias/ 404)",
-   "adiados por orçamento: Carbon Pulse, Oil Change, Política por Inteiro, Transforma, African Climate Foundation, FoEI"
+   "Climate Champions (redirect), Oil Change, FoEI, Chatham House, ODI (sem listagem datada/client_error)",
+   "ACF (erro de servidor)",
+   "adiados por orçamento: 27 fontes devidas (Ember, CSE, Eurodad, CEEW, Carbon Pulse, ITUC, WWF, UNEP, IEA, etc.)"
   ]
  },
  "tracks": [
@@ -35,6 +33,61 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "kind": "post",
+   "id": "x-unfccc-20261111-cupula-lideres-ao-vivo",
+   "platform": "x",
+   "account": "@UNFCCC",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "06:07",
+   "text": "Watch live: Opening ceremony of the Antalya Leaders Summit at #COP31",
+   "summary": "A UNFCCC transmite ao vivo a cerimônia de abertura da Cúpula de Líderes de Antália na COP31.",
+   "summary_i18n": {
+    "en": "The UNFCCC is streaming live the opening ceremony of the Antalya Leaders Summit at COP31.",
+    "es": "La CMNUCC transmite en directo la ceremonia de apertura de la Cumbre de Líderes de Antalya en la COP31.",
+    "fr": "La CCNUCC diffuse en direct la cérémonie d'ouverture du Sommet des dirigeants d'Antalya à la COP31.",
+    "ru": "РКИК ООН транслирует в прямом эфире церемонию открытия Саммита лидеров в Анталье на КС-31.",
+    "zh": "《联合国气候变化框架公约》秘书处正在直播COP31安塔利亚领导人峰会开幕式。",
+    "ar": "تبثّ اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ مباشرةً حفل افتتاح قمة القادة في أنطاليا خلال COP31."
+   },
+   "url": "https://x.com/UNFCCC",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-11T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "x-unfccc"
+  },
+  {
+   "kind": "post",
+   "id": "x-aosischair-20261111-plenaria-abertura",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "06:18",
+   "text": "During the opening plenary of the #COP31 UN Climate Change Conference in Antalya, Türkiye, the Chair of the Alliance of Small Island States (AOSIS) delivered a statement on behalf of its 39 member states.",
+   "summary": "A presidência da AOSIS divulga o vídeo da declaração feita na plenária de abertura da COP31 em nome dos 39 Estados-membros da aliança.",
+   "summary_i18n": {
+    "en": "The AOSIS Chair shares a video of its statement at the COP31 opening plenary on behalf of the alliance's 39 member states.",
+    "es": "La Presidencia de la AOSIS difunde el vídeo de su declaración en el plenario de apertura de la COP31 en nombre de sus 39 Estados miembros.",
+    "fr": "La présidence de l'AOSIS diffuse la vidéo de sa déclaration à la plénière d'ouverture de la COP31 au nom des 39 États membres de l'alliance.",
+    "ru": "Председатель АОSIS публикует видео своего заявления на открытом пленарном заседании КС-31 от имени 39 государств — членов альянса.",
+    "zh": "AOSIS主席发布了在COP31开幕全体会议上代表联盟39个成员国所作发言的视频。",
+    "ar": "ينشر رئيس تحالف الدول الجزرية الصغيرة (AOSIS) فيديو كلمته في الجلسة العامة الافتتاحية لـCOP31 نيابةً عن الدول الأعضاء التسعة والثلاثين."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-11T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "x-aosischair"
+  },
   {
    "kind": "post",
    "id": "x-turkiyecop31-20261111-erdogan-guterres-oliveira",
@@ -487,6 +540,212 @@
    "first_seen": "2026-11-11T01:45:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "climatehome-2026-11-10-bulletin-dia2",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition",
+   "date": "2026-11-10",
+   "authors": "Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+   "summary": "Boletim do segundo dia da COP31: o caos de trânsito no local, a cerca de 25 km do centro de Antalya, forçou o reagendamento de eventos iniciais, e a presidência promove o Compromisso Global de Eletrificação (de ~23% para 35% da energia final até 2035), enquanto o Climate Action Tracker projeta apenas 28% com as políticas atuais. O secretário-geral da ONU pediu que todos os países planejem a saída dos combustíveis fósseis. Toca as trilhas de eletrificação, TAFF e fósseis e presidência/anfitrião.",
+   "summary_i18n": {
+    "en": "Day 2 bulletin from COP31: traffic chaos at the venue, about 25 km from central Antalya, forced early events to be rescheduled, while the presidency promotes the Global Electrification Pledge (from ~23% to 35% of final energy by 2035); Climate Action Tracker projects only 28% under current policies. The UN Secretary-General urged all countries to plan their exit from fossil fuels. It bears on the electrification, TAFF and fossil fuels, and presidency/host tracks.",
+    "es": "Boletín del segundo día de la COP31: el caos de tráfico en la sede, a unos 25 km del centro de Antalya, obligó a reprogramar los primeros eventos, mientras la presidencia promueve el Compromiso Mundial de Electrificación (de ~23% a 35% de la energía final para 2035); Climate Action Tracker proyecta solo 28% con las políticas actuales. El Secretario General de la ONU instó a todos los países a planificar su salida de los combustibles fósiles. Afecta a las vías de electrificación, TAFF y combustibles fósiles, y presidencia/anfitrión.",
+    "fr": "Bulletin du deuxième jour de la COP31 : le chaos routier sur le site, à environ 25 km du centre d'Antalya, a contraint à reprogrammer les premiers événements, tandis que la présidence promeut l'Engagement mondial sur l'électrification (de ~23 % à 35 % de l'énergie finale d'ici 2035) ; Climate Action Tracker ne projette que 28 % avec les politiques actuelles. Le Secrétaire général de l'ONU a exhorté tous les pays à planifier leur sortie des combustibles fossiles. Concerne les volets électrification, TAFF et combustibles fossiles, et présidence/pays hôte.",
+    "ru": "Бюллетень второго дня КС-31: транспортный хаос на площадке, примерно в 25 км от центра Анталии, вынудил перенести первые мероприятия, тогда как председательство продвигает Глобальное обязательство по электрификации (с ~23% до 35% конечной энергии к 2035 году); по оценке Climate Action Tracker, при нынешней политике будет лишь 28%. Генеральный секретарь ООН призвал все страны запланировать отказ от ископаемого топлива. Касается направлений электрификации, TAFF и ископаемого топлива, а также председательства/принимающей стороны.",
+    "zh": "COP31第二天简报：会场距安塔利亚市中心约25公里，交通混乱迫使早期活动重新安排；主席团推动《全球电气化承诺》（到2035年将电力在终端能源中的占比从约23%提高到35%），而Climate Action Tracker预测按现行政策仅达28%。联合国秘书长敦促所有国家规划退出化石燃料。涉及电气化、TAFF与化石燃料以及主席团/东道国议题。",
+    "ar": "نشرة اليوم الثاني من COP31: أدى ازدحام المرور في الموقع، على بعد نحو 25 كم من وسط أنطاليا، إلى إعادة جدولة الفعاليات المبكرة، فيما تروّج الرئاسة للتعهد العالمي بالكهربة (من نحو 23% إلى 35% من الطاقة النهائية بحلول عام 2035)، بينما يتوقع Climate Action Tracker نسبة 28% فقط في ظل السياسات الحالية. وحث الأمين العام للأمم المتحدة جميع البلدان على التخطيط للخروج من الوقود الأحفوري. يتصل بمساري الكهربة وTAFF والوقود الأحفوري، وبالرئاسة/البلد المضيف."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Electrifying the global economy is now essential to boost energy security, cut emissions, and drive economic growth. (Murat Kurum, presidente da COP31)",
+    "long past time to stop treating the transition away from fossil fuels as taboo or intractable (António Guterres)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatehome-2026-11-10-roteiro-fosseis-apoio",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
+   "date": "2026-11-10",
+   "authors": "Sebastian Rodriguez",
+   "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+   "summary": "A presidência brasileira da COP30 apresentou em Antalya o roteiro global para abandonar carvão, petróleo e gás, e grandes produtores como Índia, Nigéria e Alemanha o apoiaram; o roteiro pede planos nacionais de energia limpa até 2028, com os principais cortes esperados após 2031. Alemanha e Países Baixos querem que alimente o GST2 de 2028, e negociadores africanos pedem transição justa com finanças e tecnologia. Toca TAFF e fósseis, GST2 e transição justa.",
+   "summary_i18n": {
+    "en": "Brazil's COP30 presidency presented in Antalya its global roadmap for moving away from coal, oil and gas, and major producers including India, Nigeria and Germany backed it; the roadmap asks for national clean-energy plans by 2028, with the main cuts expected after 2031. Germany and the Netherlands want it to inform the 2028 GST2, and African negotiators call for a just transition with finance and technology. It bears on the TAFF and fossil fuels, GST2 and just transition tracks.",
+    "es": "La presidencia brasileña de la COP30 presentó en Antalya su hoja de ruta mundial para abandonar el carbón, el petróleo y el gas, y grandes productores como India, Nigeria y Alemania la respaldaron; la hoja de ruta pide planes nacionales de energía limpia para 2028, con los principales recortes previstos después de 2031. Alemania y los Países Bajos quieren que alimente el GST2 de 2028, y los negociadores africanos piden una transición justa con financiación y tecnología. Afecta a TAFF y combustibles fósiles, GST2 y transición justa.",
+    "fr": "La présidence brésilienne de la COP30 a présenté à Antalya sa feuille de route mondiale pour sortir du charbon, du pétrole et du gaz, soutenue par de grands producteurs dont l'Inde, le Nigéria et l'Allemagne ; elle demande des plans nationaux d'énergie propre d'ici 2028, les principales réductions étant attendues après 2031. L'Allemagne et les Pays-Bas veulent qu'elle alimente le GST2 de 2028, et les négociateurs africains demandent une transition juste assortie de financements et de technologies. Concerne TAFF et combustibles fossiles, GST2 et transition juste.",
+    "ru": "Председательство Бразилии на КС-30 представило в Анталии глобальную дорожную карту отказа от угля, нефти и газа; её поддержали крупные производители, включая Индию, Нигерию и Германию. Карта предусматривает национальные планы чистой энергетики к 2028 году, а основные сокращения ожидаются после 2031 года. Германия и Нидерланды хотят, чтобы она учитывалась при GST2 в 2028 году, а африканские переговорщики требуют справедливого перехода с финансированием и технологиями. Касается направлений TAFF и ископаемого топлива, GST2 и справедливого перехода.",
+    "zh": "巴西COP30主席团在安塔利亚提出了逐步摆脱煤、石油和天然气的全球路线图，印度、尼日利亚和德国等主要生产国表示支持；路线图要求各国在2028年前制定国家清洁能源计划，主要减排预计在2031年之后。德国和荷兰希望其为2028年GST2提供参考，非洲谈判代表则呼吁以资金和技术支撑公正转型。涉及TAFF与化石燃料、GST2和公正转型议题。",
+    "ar": "عرضت رئاسة البرازيل لمؤتمر COP30 في أنطاليا خارطتها العالمية للتخلي عن الفحم والنفط والغاز، وأيّدها منتجون كبار بينهم الهند ونيجيريا وألمانيا؛ وتدعو الخارطة إلى خطط وطنية للطاقة النظيفة بحلول عام 2028، مع توقع الخفض الرئيسي بعد عام 2031. وترغب ألمانيا وهولندا في أن تسهم في GST2 لعام 2028، فيما يطالب المفاوضون الأفارقة بانتقال عادل مدعوم بالتمويل والتكنولوجيا. يتصل بمسارات TAFF والوقود الأحفوري وGST2 والانتقال العادل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "GST2 e IPCC",
+    "Transição justa"
+   ],
+   "quotes": [
+    "long past time to stop treating the transition away from fossil fuels as taboo or intractable. (António Guterres)",
+    "agreed commitments are agreed commitments (Laurent Fabius)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatehome-2026-11-10-vanveldhoven-opiniao",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "COP31 outcome needs to prioritise transition away from fossil fuels",
+   "date": "2026-11-10",
+   "authors": "Stientje van Veldhoven",
+   "url": "https://www.climatechangenews.com/2026/11/10/cop31-outcome-needs-to-prioritise-transition-away-from-fossil-fuels/",
+   "summary": "Artigo de opinião da ministra do Clima e Crescimento Verde dos Países Baixos defendendo que o resultado da COP31 priorize a transição para longe dos fósseis. Ela cita a conferência de Santa Marta (quase 60 países, mais de 2.600 participantes), os três roteiros nacionais já apresentados (França, Alemanha e Países Baixos) e a copresidência de Tuvalu e Irlanda em 2027. Toca TAFF e fósseis e decisão de cobertura.",
+   "summary_i18n": {
+    "en": "Opinion piece by the Netherlands' Minister of Climate and Green Growth arguing that the COP31 outcome should prioritise the transition away from fossil fuels. She cites the Santa Marta conference (nearly 60 countries, over 2,600 participants), the three national roadmaps already submitted (France, Germany and the Netherlands) and the 2027 co-chairing by Tuvalu and Ireland. It bears on the TAFF and fossil fuels and cover decision tracks.",
+    "es": "Artículo de opinión de la Ministra de Clima y Crecimiento Verde de los Países Bajos que defiende que el resultado de la COP31 dé prioridad a la transición para abandonar los combustibles fósiles. Cita la conferencia de Santa Marta (casi 60 países, más de 2.600 participantes), las tres hojas de ruta nacionales ya presentadas (Francia, Alemania y los Países Bajos) y la copresidencia de Tuvalu e Irlanda en 2027. Afecta a TAFF y combustibles fósiles y a la decisión de cobertura.",
+    "fr": "Tribune de la ministre néerlandaise du Climat et de la Croissance verte, qui plaide pour que le résultat de la COP31 donne la priorité à la transition hors des combustibles fossiles. Elle cite la conférence de Santa Marta (près de 60 pays, plus de 2 600 participants), les trois feuilles de route nationales déjà soumises (France, Allemagne et Pays-Bas) et la coprésidence de Tuvalu et de l'Irlande en 2027. Concerne TAFF et combustibles fossiles et la décision de couverture.",
+    "ru": "Авторская статья министра по климату и зелёному росту Нидерландов: итог КС-31 должен отдавать приоритет переходу от ископаемого топлива. Она ссылается на конференцию в Санта-Марте (почти 60 стран, более 2600 участников), три уже представленные национальные дорожные карты (Франция, Германия и Нидерланды) и сопредседательство Тувалу и Ирландии в 2027 году. Касается направлений TAFF и ископаемого топлива и итогового решения.",
+    "zh": "荷兰气候与绿色增长大臣撰文主张，COP31成果应优先推动转型摆脱化石燃料。她提到圣玛尔塔会议（近60个国家、逾2,600名与会者）、已提交的三份国家路线图（法国、德国和荷兰），以及图瓦卢和爱尔兰将于2027年共同主持该进程。涉及TAFF与化石燃料及总括决定议题。",
+    "ar": "مقال رأي لوزيرة المناخ والنمو الأخضر في هولندا تدعو فيه إلى أن تعطي نتائج COP31 الأولوية للانتقال بعيداً عن الوقود الأحفوري. وتشير إلى مؤتمر سانتا مارتا (نحو 60 دولة وأكثر من 2600 مشارك)، والخرائط الوطنية الثلاث المقدمة بالفعل (فرنسا وألمانيا وهولندا)، ورئاسة توفالو وأيرلندا المشتركة للعملية في عام 2027. يتصل بمساري TAFF والوقود الأحفوري والقرار الجامع."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "Over the past decade or so, the focus at COPs was on setting goals. (Stientje van Veldhoven)",
+    "Now we must focus on implementation. (Stientje van Veldhoven)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatehome-2026-11-10-japao-ember",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
+   "date": "2026-11-10",
+   "authors": "Chloé Farand",
+   "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
+   "summary": "Análise da Ember citada pela Climate Home projeta que as exportações japonesas de tecnologias limpas podem mais que dobrar até 2035 com a eletrificação da Ásia, enquanto as ligadas a fósseis cairiam de US$ 161 bilhões (2024) para cerca de US$ 70 bilhões. O Japão gastou cerca de US$ 86 bilhões em subsídios a combustíveis desde 2022; a Ember recomenda meta de eletrificação, fim da venda de carros a gasolina novos e realocação de recursos públicos. Toca eletrificação e TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "An Ember analysis reported by Climate Home projects that Japan's clean-tech exports could more than double by 2035 as Asia electrifies, while fossil-fuel-related exports would fall from US$161 billion (2024) to about US$70 billion. Japan has spent about US$86 billion on fuel subsidies since 2022; Ember recommends an electrification target, ending new petrol car sales and shifting public money. It bears on the electrification and TAFF and fossil fuels tracks.",
+    "es": "Un análisis de Ember difundido por Climate Home proyecta que las exportaciones japonesas de tecnologías limpias podrían más que duplicarse para 2035 con la electrificación de Asia, mientras que las vinculadas a los combustibles fósiles caerían de 161.000 millones de dólares (2024) a unos 70.000 millones. Japón ha gastado unos 86.000 millones de dólares en subsidios a los combustibles desde 2022; Ember recomienda una meta de electrificación, poner fin a la venta de automóviles de gasolina nuevos y reorientar el dinero público. Afecta a electrificación y TAFF y combustibles fósiles.",
+    "fr": "Une analyse d'Ember relayée par Climate Home projette que les exportations japonaises de technologies propres pourraient plus que doubler d'ici 2035 avec l'électrification de l'Asie, tandis que celles liées aux combustibles fossiles passeraient de 161 milliards de dollars (2024) à environ 70 milliards. Le Japon a dépensé environ 86 milliards de dollars en subventions aux carburants depuis 2022 ; Ember recommande un objectif d'électrification, la fin de la vente de voitures neuves à essence et la réorientation des fonds publics. Concerne électrification et TAFF et combustibles fossiles.",
+    "ru": "Анализ Ember, о котором сообщает Climate Home, прогнозирует, что экспорт чистых технологий из Японии может более чем удвоиться к 2035 году по мере электрификации Азии, тогда как экспорт, связанный с ископаемым топливом, сократится со 161 млрд долл. США (2024) до примерно 70 млрд. Япония потратила около 86 млрд долл. на топливные субсидии с 2022 года; Ember рекомендует установить цель по электрификации, прекратить продажу новых бензиновых автомобилей и перенаправить государственные средства. Касается направлений электрификации и TAFF и ископаемого топлива.",
+    "zh": "Climate Home报道的Ember分析预测，随着亚洲电气化，日本清洁技术出口到2035年可能增长一倍以上，而与化石燃料相关的出口将从2024年的1610亿美元降至约700亿美元。日本自2022年以来已花费约860亿美元用于燃料补贴；Ember建议设定电气化目标、停止销售新汽油车，并调整公共资金投向。涉及电气化及TAFF与化石燃料议题。",
+    "ar": "يتوقع تحليل لمنظمة Ember نقلته Climate Home أن تتضاعف صادرات اليابان من التكنولوجيا النظيفة أكثر من مرتين بحلول عام 2035 مع كهربة آسيا، فيما تنخفض الصادرات المرتبطة بالوقود الأحفوري من 161 مليار دولار (2024) إلى نحو 70 مليار دولار. وأنفقت اليابان نحو 86 مليار دولار على دعم الوقود منذ عام 2022؛ وتوصي Ember بتحديد هدف للكهربة ووقف بيع السيارات الجديدة العاملة بالبنزين وإعادة توجيه الأموال العامة. يتصل بمساري الكهربة وTAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "It should be one of the big winners of the electric age. (Kingsmill Bond, Ember)",
+    "Unless Japan pivots fast to electric cars, it will cede one of its biggest industries to China. (Sam Butler-Sloss, Ember)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "carbonbrief-2026-11-10-delegados-cop31",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "Analysis: Which countries have sent the most delegates to COP31?",
+   "date": "2026-11-10",
+   "authors": "Carbon Brief Staff",
+   "url": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+   "summary": "Análise da Carbon Brief mostra que mais de 92 mil pessoas se inscreveram presencialmente na COP31 (mais de 95 mil com os participantes virtuais), podendo ser a maior COP da história, com 18.812 delegados de Partes. A Türkiye lidera com 2.950 inscritos, seguida por Brasil (1.994), Nigéria (1.506), China (1.021) e Indonésia (978); os EUA não enviaram delegação e o Reino Unido registrou 255. Toca presidência e anfitrião e espaço cívico.",
+   "summary_i18n": {
+    "en": "Carbon Brief's analysis shows more than 92,000 people registered in person for COP31 (over 95,000 including virtual attendees), possibly the largest COP ever, with 18,812 Party delegates. Türkiye leads with 2,950 registrants, followed by Brazil (1,994), Nigeria (1,506), China (1,021) and Indonesia (978); the US sent no delegation and the UK registered 255. It bears on the presidency/host and civic space tracks.",
+    "es": "El análisis de Carbon Brief muestra que más de 92.000 personas se inscribieron presencialmente en la COP31 (más de 95.000 con los participantes virtuales), lo que podría convertirla en la mayor COP de la historia, con 18.812 delegados de las Partes. Türkiye encabeza con 2.950 inscritos, seguida de Brasil (1.994), Nigeria (1.506), China (1.021) e Indonesia (978); Estados Unidos no envió delegación y el Reino Unido registró 255. Afecta a presidencia/anfitrión y espacio cívico.",
+    "fr": "L'analyse de Carbon Brief montre que plus de 92 000 personnes se sont inscrites en présentiel à la COP31 (plus de 95 000 avec les participants virtuels), ce qui pourrait en faire la plus grande COP de l'histoire, avec 18 812 délégués des Parties. La Türkiye arrive en tête avec 2 950 inscrits, suivie du Brésil (1 994), du Nigéria (1 506), de la Chine (1 021) et de l'Indonésie (978) ; les États-Unis n'ont envoyé aucune délégation et le Royaume-Uni a inscrit 255 personnes. Concerne présidence/pays hôte et espace civique.",
+    "ru": "Анализ Carbon Brief показывает, что для очного участия в КС-31 зарегистрировались более 92 тыс. человек (свыше 95 тыс. с учётом виртуальных участников), что может сделать её крупнейшей КС в истории; делегатов от Сторон — 18 812. Лидирует Турция (2950 зарегистрированных), далее Бразилия (1994), Нигерия (1506), Китай (1021) и Индонезия (978); США не направили делегацию, Соединённое Королевство зарегистрировало 255 человек. Касается направлений председательства/принимающей стороны и гражданского пространства.",
+    "zh": "Carbon Brief的分析显示，已有逾9.2万人现场注册参加COP31（含线上参会者超过9.5万人），可能成为史上规模最大的COP，缔约方代表18,812人。土耳其以2,950人居首，其后是巴西（1,994）、尼日利亚（1,506）、中国（1,021）和印度尼西亚（978）；美国未派代表团，英国注册255人。涉及主席团/东道国和公民空间议题。",
+    "ar": "يُظهر تحليل Carbon Brief أن أكثر من 92 ألف شخص سجلوا للحضور الفعلي في COP31 (وأكثر من 95 ألفاً مع المشاركين افتراضياً)، ما قد يجعله أكبر مؤتمر للأطراف في التاريخ، مع 18812 مندوباً عن الأطراف. وتتصدر تركيا بـ2950 مسجلاً، تليها البرازيل (1994) ونيجيريا (1506) والصين (1021) وإندونيسيا (978)؛ ولم ترسل الولايات المتحدة وفداً وسجلت المملكة المتحدة 255. يتصل بمساري الرئاسة/البلد المضيف والحيز المدني."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Espaço cívico"
+   ],
+   "quotes": [
+    "potentially making it the largest COP in history"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
+  },
+  {
+   "id": "wri-2026-11-10-roteiro-fosseis-brasil",
+   "institution": "WRI",
+   "type": "comunicado",
+   "title": "STATEMENT: Brazil Unveils Fossil Fuel Transition Roadmap as COP30 Presidency Legacy",
+   "date": "2026-11-10",
+   "authors": "Karen Silverwood-Cope (WRI Brasil); Nick Robins (WRI)",
+   "url": "https://www.wri.org/news/statement-brazil-unveils-fossil-fuel-transition-roadmap-cop30-presidency-legacy",
+   "summary": "Declaração do WRI sobre o roteiro global de transição para longe dos fósseis apresentado pela presidência brasileira da COP30 ao secretário-geral da ONU e ao secretariado da UNFCCC. O roteiro traz um quadro de diagnóstico, um índice de prontidão e ações até 2033 que os governos podem adaptar; o WRI o vê como guia prático que pode estimular planos nacionais. Toca TAFF e fósseis e GST2.",
+   "summary_i18n": {
+    "en": "WRI statement on the global roadmap for transitioning away from fossil fuels presented by Brazil's COP30 presidency to the UN Secretary-General and the UNFCCC secretariat. The roadmap includes a diagnostic framework, a readiness index and actions through 2033 that governments can adapt; WRI sees it as a practical guide that could encourage national plans. It bears on the TAFF and fossil fuels and GST2 tracks.",
+    "es": "Declaración del WRI sobre la hoja de ruta mundial de transición para abandonar los combustibles fósiles que la presidencia brasileña de la COP30 presentó al Secretario General de la ONU y a la secretaría de la CMNUCC. La hoja de ruta incluye un marco de diagnóstico, un índice de preparación y acciones hasta 2033 que los gobiernos pueden adaptar; el WRI la considera una guía práctica que podría impulsar planes nacionales. Afecta a TAFF y combustibles fósiles y a GST2.",
+    "fr": "Déclaration du WRI sur la feuille de route mondiale de transition hors des combustibles fossiles présentée par la présidence brésilienne de la COP30 au Secrétaire général de l'ONU et au secrétariat de la CCNUCC. La feuille de route comprend un cadre de diagnostic, un indice de préparation et des actions jusqu'en 2033 que les gouvernements peuvent adapter ; le WRI y voit un guide pratique pouvant encourager des plans nationaux. Concerne TAFF et combustibles fossiles et GST2.",
+    "ru": "Заявление WRI о глобальной дорожной карте перехода от ископаемого топлива, представленной председательством Бразилии на КС-30 Генеральному секретарю ООН и секретариату РКИК ООН. Карта включает диагностическую основу, индекс готовности и действия до 2033 года, которые правительства могут адаптировать; WRI видит в ней практическое руководство, способное стимулировать национальные планы. Касается направлений TAFF и ископаемого топлива и GST2.",
+    "zh": "世界资源研究所（WRI）就巴西COP30主席团向联合国秘书长和《联合国气候变化框架公约》秘书处提交的全球化石燃料转型路线图发表声明。路线图包括诊断框架、准备度指数以及到2033年各国政府可自行调整的行动；WRI认为这是一份可推动各国制定国家计划的实用指南。涉及TAFF与化石燃料及GST2议题。",
+    "ar": "بيان لمعهد الموارد العالمية (WRI) بشأن الخارطة العالمية للتحول بعيداً عن الوقود الأحفوري التي قدمتها رئاسة البرازيل لمؤتمر COP30 إلى الأمين العام للأمم المتحدة وأمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. تتضمن الخارطة إطاراً تشخيصياً ومؤشراً للجاهزية وإجراءات حتى عام 2033 يمكن للحكومات تكييفها؛ ويراها WRI دليلاً عملياً قد يشجع الخطط الوطنية. يتصل بمساري TAFF والوقود الأحفوري وGST2."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "GST2 e IPCC"
+   ],
+   "quotes": [
+    "The Roadmap could become one of the most enduring legacies of Brazil's COP Presidency (Karen Silverwood-Cope, WRI Brasil)",
+    "This is not about adding another layer of bureaucracy (Nick Robins, WRI)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
+   "id": "politicaporinteiro-2026-11-10-dia2",
+   "institution": "Política por Inteiro",
+   "type": "boletim",
+   "title": "Dia 2 da COP31: Para manter o mapa no caminho",
+   "date": "2026-11-10",
+   "authors": "Equipe editorial da Política por Inteiro",
+   "url": "https://politicaporinteiro.org/2026/11/10/dia-2-da-cop31-para-manter-o-mapa-no-caminho/",
+   "summary": "Balanço do segundo dia: a presidência brasileira apresentou formalmente o roteiro de transição para longe dos fósseis, e Guterres pediu às Partes que deixem de tratar a transição como tabu. Cresce o apoio à continuidade do roteiro, mas a Türkiye anfitriã não sinalizou compartilhar a direção; as metas de eletrificação dominaram o debate de energia. Em adaptação, o foco foi o financiamento para implementar os planos nacionais, e houve queixas sobre os problemas de transporte até a sede. Toca TAFF e fósseis, eletrificação, adaptação e finanças.",
+   "summary_i18n": {
+    "en": "Day 2 review: Brazil's presidency formally presented the roadmap for transitioning away from fossil fuels, and Guterres urged Parties to stop treating the transition as taboo. Support for continuing the roadmap is growing, but host Türkiye has not signalled it shares the direction; electrification targets dominated the energy debate. On adaptation, the focus was funding to implement national plans, and there were complaints about severe transport problems to the venue. It bears on TAFF and fossil fuels, electrification, adaptation and finance.",
+    "es": "Balance del segundo día: la presidencia brasileña presentó formalmente la hoja de ruta de transición para abandonar los combustibles fósiles, y Guterres instó a las Partes a dejar de tratar la transición como un tabú. Crece el apoyo a la continuidad de la hoja de ruta, pero Türkiye, como anfitriona, no ha dado señales de compartir esa dirección; las metas de electrificación dominaron el debate energético. En adaptación, el foco fue la financiación para aplicar los planes nacionales, y hubo quejas por los graves problemas de transporte hasta la sede. Afecta a TAFF y combustibles fósiles, electrificación, adaptación y finanzas.",
+    "fr": "Bilan du deuxième jour : la présidence brésilienne a formellement présenté la feuille de route de transition hors des combustibles fossiles, et M. Guterres a exhorté les Parties à cesser de traiter la transition comme un tabou. Le soutien à la poursuite de la feuille de route grandit, mais la Türkiye, pays hôte, n'a pas signalé partager cette orientation ; les objectifs d'électrification ont dominé le débat sur l'énergie. En matière d'adaptation, l'accent a porté sur le financement de la mise en œuvre des plans nationaux, et de vives plaintes ont été exprimées sur les problèmes de transport vers le site. Concerne TAFF et combustibles fossiles, électrification, adaptation et finances.",
+    "ru": "Итоги второго дня: председательство Бразилии официально представило дорожную карту перехода от ископаемого топлива, а Генеральный секретарь Гутерриш призвал Стороны перестать считать этот переход табу. Поддержка продолжения дорожной карты растёт, но принимающая Турция не дала понять, что разделяет это направление; в дебатах по энергетике доминировали цели электрификации. В части адаптации внимание уделялось финансированию реализации национальных планов; звучали жалобы на серьёзные транспортные проблемы при доезде до площадки. Касается направлений TAFF и ископаемого топлива, электрификации, адаптации и финансов.",
+    "zh": "第二天回顾：巴西主席团正式提出逐步摆脱化石燃料的转型路线图，古特雷斯敦促各缔约方不要再将这一转型视为禁忌。对延续该路线图的支持在增加，但东道国土耳其尚未表示认同这一方向；电气化目标主导了能源议题的讨论。适应方面的焦点是落实国家计划所需的资金，与会者还抱怨前往会场的交通问题严重。涉及TAFF与化石燃料、电气化、适应和资金议题。",
+    "ar": "حصيلة اليوم الثاني: قدمت رئاسة البرازيل رسمياً خارطة التحول بعيداً عن الوقود الأحفوري، وحث غوتيريش الأطراف على التوقف عن التعامل مع هذا التحول بوصفه من المحرمات. ويتزايد التأييد لمواصلة الخارطة، لكن تركيا المضيفة لم تشر إلى أنها تتشارك الاتجاه نفسه؛ وهيمنت أهداف الكهربة على نقاش الطاقة. وفي التكيف تركز النقاش على تمويل تنفيذ الخطط الوطنية، وسُجلت شكاوى من مشكلات النقل الحادة إلى الموقع. يتصل بمسارات TAFF والوقود الأحفوري والكهربة والتكيف والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Eletrificação",
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "já passou da hora de deixar de tratar a transição para longe dos combustíveis fósseis como um tabu ou algo insolúvel (Guterres)",
+    "não dá para se endividar para enfrentar uma crise que não causamos (Panamá, AILAC)"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "pt",
+   "source_id": "web-politicaporinteiro-org-en"
   },
   {
    "id": "unfccc-2026-11-10-coletiva-abertura",
@@ -3756,6 +4015,36 @@
    "first_seen": "2026-11-10T02:42:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "politicaporinteiro-2026-11-09-dia1",
+   "institution": "Política por Inteiro",
+   "type": "boletim",
+   "title": "Dia 1 da COP31: agenda adotada",
+   "date": "2026-11-09",
+   "authors": "Equipe editorial da Política por Inteiro",
+   "url": "https://politicaporinteiro.org/2026/11/09/dia-1-da-cop31-agenda-adotada/",
+   "summary": "Balanço do primeiro dia da COP31: a presidência brasileira da COP30 passou formalmente o bastão a Türkiye e Austrália, e o Brasil recebeu o 'Ray of the Day' da CAN pelos roteiros de transição dos fósseis e de combate ao desmatamento; a Nova Zelândia levou o 'Fossil of the Day' por enfraquecer metas de metano. Uma proposta do G77+China de item de agenda separado sobre triplicar o financiamento de adaptação foi rejeitada, mas foi aberto um programa de trabalho sobre finanças onde o tema pode ser negociado. Toca finanças, adaptação, TAFF e fósseis e florestas.",
+   "summary_i18n": {
+    "en": "Review of COP31's first day: Brazil's COP30 presidency formally handed over to Türkiye and Australia, and Brazil received CAN's 'Ray of the Day' for its fossil-transition and deforestation roadmaps; New Zealand got 'Fossil of the Day' for weakening methane targets. A G77+China proposal for a separate agenda item on tripling adaptation finance was rejected, but a finance work programme was opened where the issue may still be negotiated. It bears on finance, adaptation, TAFF and fossil fuels, and forests.",
+    "es": "Balance del primer día de la COP31: la presidencia brasileña de la COP30 traspasó formalmente el mando a Türkiye y Australia, y Brasil recibió el 'Ray of the Day' de la CAN por sus hojas de ruta de transición de los combustibles fósiles y contra la deforestación; Nueva Zelandia recibió el 'Fossil of the Day' por debilitar sus metas de metano. Se rechazó una propuesta del G77+China de un punto separado de la agenda sobre triplicar la financiación de la adaptación, pero se abrió un programa de trabajo sobre finanzas donde el tema aún podría negociarse. Afecta a finanzas, adaptación, TAFF y combustibles fósiles, y bosques.",
+    "fr": "Bilan du premier jour de la COP31 : la présidence brésilienne de la COP30 a formellement passé le relais à la Türkiye et à l'Australie, et le Brésil a reçu le « Ray of the Day » du CAN pour ses feuilles de route sur la transition hors des fossiles et la déforestation ; la Nouvelle-Zélande a reçu le « Fossil of the Day » pour avoir affaibli ses objectifs sur le méthane. Une proposition du G77+Chine d'un point distinct à l'ordre du jour sur le triplement du financement de l'adaptation a été rejetée, mais un programme de travail sur les finances a été ouvert, où la question pourra encore être négociée. Concerne finances, adaptation, TAFF et combustibles fossiles, et forêts.",
+    "ru": "Итоги первого дня КС-31: председательство Бразилии на КС-30 формально передало полномочия Турции и Австралии, а Бразилия получила от CAN награду «Ray of the Day» за дорожные карты по переходу от ископаемого топлива и борьбе с обезлесением; Новая Зеландия получила «Fossil of the Day» за ослабление целей по метану. Предложение G77 и Китая о отдельном пункте повестки по утроению финансирования адаптации отклонено, но открыта рабочая программа по финансам, где вопрос ещё можно обсуждать. Касается финансов, адаптации, TAFF и ископаемого топлива и лесов.",
+    "zh": "COP31首日回顾：巴西COP30主席团正式向土耳其和澳大利亚移交，巴西因化石燃料转型和遏制毁林路线图获气候行动网络（CAN）“当日之光”奖；新西兰因削弱甲烷目标获“当日化石奖”。77国集团和中国提出设立单独议程项目讨论将适应资金增加两倍的提案被否决，但已启动一项资金工作方案，该问题仍可在其中谈判。涉及资金、适应、TAFF与化石燃料及森林议题。",
+    "ar": "حصيلة اليوم الأول من COP31: سلّمت رئاسة البرازيل لمؤتمر COP30 المهمة رسمياً إلى تركيا وأستراليا، ونالت البرازيل جائزة «شعاع اليوم» من شبكة العمل المناخي (CAN) عن خارطتي التحول عن الوقود الأحفوري ووقف إزالة الغابات؛ ونالت نيوزيلندا جائزة «أحفورة اليوم» لإضعافها أهداف الميثان. ورُفض اقتراح مجموعة الـ77 والصين ببند منفصل في جدول الأعمال حول مضاعفة تمويل التكيف ثلاث مرات، لكن فُتح برنامج عمل بشأن التمويل يمكن التفاوض فيه على المسألة. يتصل بمسارات التمويل والتكيف وTAFF والوقود الأحفوري والغابات."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "TAFF e fósseis",
+    "Florestas"
+   ],
+   "quotes": [
+    "Em apenas três anos, o país esvaziou as metas para o metano"
+   ],
+   "first_seen": "2026-11-11T06:13:00-03:00",
+   "lang": "pt",
+   "source_id": "web-politicaporinteiro-org-en"
   },
   {
    "id": "wmo-2026-11-09-gcos-cop31",
@@ -10946,11 +11235,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T05:55:00-03:00",
-  "label": "11 nov 2026, 05:55 (Brasília)",
-  "accounts_checked": 29,
+  "timestamp": "2026-11-11T06:50:00-03:00",
+  "label": "11 nov 2026, 06:50 (Brasília)",
+  "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 9,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
