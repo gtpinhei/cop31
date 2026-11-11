@@ -36,6 +36,62 @@
  ],
  "items": [
   {
+   "kind": "post",
+   "verified": true,
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T02:55:00-03:00",
+   "lang": "en",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "id": "x-turkiyecop31-20261111-leaders-summit",
+   "platform": "x",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "time": "02:08",
+   "text": "The Antalya Leaders' Summit at COP31 officially commences today in Antalya, Türkiye.\n\nHosted by H.E. President Recep Tayyip Erdoğan, the two-day summit convenes Heads of State and Government from around the world under the theme: \"Towards a Sustainable, Resilient and Equitable ...",
+   "summary": "A Presidência da COP31 anuncia a abertura, hoje, da Cúpula de Líderes de Antália, de dois dias, com chefes de Estado e de governo sob o tema \"Rumo a um futuro sustentável, resiliente e equitativo\".",
+   "summary_i18n": {
+    "en": "The COP31 Presidency announces that the two-day Antalya Leaders' Summit opens today, bringing together heads of State and government under the theme \"Towards a Sustainable, Resilient and Equitable Future\".",
+    "es": "La Presidencia de la COP31 anuncia que hoy se inaugura la Cumbre de Líderes de Antalya, de dos días, con jefes de Estado y de Gobierno bajo el lema \"Hacia un futuro sostenible, resiliente y equitativo\".",
+    "fr": "La présidence de la COP31 annonce l'ouverture aujourd'hui du Sommet des dirigeants d'Antalya, de deux jours, réunissant chefs d'État et de gouvernement sur le thème « Vers un avenir durable, résilient et équitable ».",
+    "ru": "Председательство КС-31 объявляет об открытии сегодня двухдневного саммита лидеров в Анталье с участием глав государств и правительств под темой «К устойчивому, жизнестойкому и справедливому будущему».",
+    "zh": "COP31主席国宣布,为期两天的安塔利亚领导人峰会今天开幕,各国元首和政府首脑将以“迈向可持续、有韧性和公平的未来”为主题出席。",
+    "ar": "تعلن رئاسة COP31 افتتاح قمة القادة في أنطاليا اليوم، وهي قمة تستمر يومين بمشاركة رؤساء الدول والحكومات تحت شعار \"نحو مستقبل مستدام ومرن وعادل\"."
+   },
+   "url": "https://x.com/turkiyecop31",
+   "source_id": "x-turkiyecop31"
+  },
+  {
+   "kind": "post",
+   "verified": true,
+   "date": "2026-11-11",
+   "first_seen": "2026-11-11T02:55:00-03:00",
+   "lang": "en",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "id": "instagram-turkiyecop31-20261111-leaders-summit",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "time": "02:06",
+   "text": "The Antalya Leaders' Summit at COP31 officially commences today in Antalya, Türkiye. Hosted by H.E. President Recep Tayyip Erdoğan, the two-day summit convenes Heads of State and Government under the theme \"Towards a Sustainable, Resilient and Equitable Future\". Leaders will deliver national statements and advance high-level dialogues on clean energy transition, climate finance, and urban resilience.",
+   "summary": "A Presidência da COP31 anuncia a abertura, hoje, da Cúpula de Líderes de Antália, de dois dias, com chefes de Estado e de governo sob o tema \"Rumo a um futuro sustentável, resiliente e equitativo\".",
+   "summary_i18n": {
+    "en": "The COP31 Presidency announces that the two-day Antalya Leaders' Summit opens today, bringing together heads of State and government under the theme \"Towards a Sustainable, Resilient and Equitable Future\".",
+    "es": "La Presidencia de la COP31 anuncia que hoy se inaugura la Cumbre de Líderes de Antalya, de dos días, con jefes de Estado y de Gobierno bajo el lema \"Hacia un futuro sostenible, resiliente y equitativo\".",
+    "fr": "La présidence de la COP31 annonce l'ouverture aujourd'hui du Sommet des dirigeants d'Antalya, de deux jours, réunissant chefs d'État et de gouvernement sur le thème « Vers un avenir durable, résilient et équitable ».",
+    "ru": "Председательство КС-31 объявляет об открытии сегодня двухдневного саммита лидеров в Анталье с участием глав государств и правительств под темой «К устойчивому, жизнестойкому и справедливому будущему».",
+    "zh": "COP31主席国宣布,为期两天的安塔利亚领导人峰会今天开幕,各国元首和政府首脑将以“迈向可持续、有韧性和公平的未来”为主题出席。",
+    "ar": "تعلن رئاسة COP31 افتتاح قمة القادة في أنطاليا اليوم، وهي قمة تستمر يومين بمشاركة رؤساء الدول والحكومات تحت شعار \"نحو مستقبل مستدام ومرن وعادل\"."
+   },
+   "url": "https://www.instagram.com/p/DflsSQnNkjy/",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
    "id": "x-turkiyecop31-20261111-day3-zero-waste",
    "kind": "post",
    "platform": "x",
@@ -10521,14 +10577,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-11T01:50:00-03:00",
-  "label": "11 nov 2026, 01:50 (Brasília)",
-  "accounts_checked": 44,
-  "blocked": 1,
-  "new_items": 1,
+  "timestamp": "2026-11-11T02:55:00-03:00",
+  "label": "11 nov 2026, 02:55 (Brasília)",
+  "accounts_checked": 37,
+  "blocked": 0,
+  "new_items": 2,
   "cadence": "a cada hora",
-  "blocked_accounts": [
-   "x-dcceew"
-  ]
+  "blocked_accounts": []
  }
 }
