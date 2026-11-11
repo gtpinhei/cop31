@@ -1,15 +1,15 @@
 {
  "schema": 1,
  "edition": "2026-11-11",
- "generated_at": "2026-11-11T17:58+03:00",
+ "generated_at": "2026-11-11T18:58+03:00",
  "window": {
   "from": "2026-11-08",
   "to": "2026-11-11",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-11T06:13:00-03:00",
-  "social_round": "2026-11-11T11:42:00-03:00",
+  "web_round": "2026-11-11T12:17:00-03:00",
+  "social_round": "2026-11-11T12:45:00-03:00",
   "stale": false
  },
  "coverage": {
@@ -56,13 +56,13 @@
    },
    {
     "publisher": "CAN Europe",
-    "outcome": "error",
-    "note": "budget"
+    "outcome": "blocked",
+    "note": "sem listagem datada de 2026"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error"
    }
   ]
  },
