@@ -1,19 +1,20 @@
 {
  "schema": 1,
- "generated_at": "2026-11-10T18:15:00-03:00",
+ "generated_at": "2026-11-11T00:19:00-03:00",
  "round": {
-  "timestamp": "2026-11-10T18:15:00-03:00",
-  "label": "10 nov 2026, 18:15 (Brasília)",
-  "sites_checked": 59,
-  "blocked": 17,
-  "new_items": 9,
-  "fetches": "59 de 60",
+  "timestamp": "2026-11-11T00:19:00-03:00",
+  "label": "11 nov 2026, 00:19 (Brasília)",
+  "sites_checked": 56,
+  "blocked": 11,
+  "new_items": 3,
+  "fetches": "62 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Climate Champions (redirect)",
-   "COP30.br/Circle of Finance Ministers (sem listagem datada)",
-   "UNEP/IEA/ITUC/Oil Change/OC/Carbon Pulse/WBMC (client_error)",
-   "Chatham House, CAN Europe, FoEI, CSE, Christian Aid, Transforma, Política por Inteiro, Ember (sem listagem datada)"
+   "UNEP, TWN, WWF (client_error/robots)",
+   "Climate Champions (redirect), COP30.br, CSE, Ember, WMBC, Christian Aid, Eurodad, ODI (sem listagem datada)",
+   "ITUC e CAN Europe (timeout Nimble)",
+   "OC (/noticias/ 404)",
+   "adiados por orçamento: Carbon Pulse, Oil Change, Política por Inteiro, Transforma, African Climate Foundation, FoEI"
   ]
  },
  "tracks": [
@@ -34,6 +35,66 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-10-coletiva-abertura",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Transcript of press conference opening remarks today of COP31 President, President of Negotiations, UN Climate Change Executive Secretary",
+   "date": "2026-11-10",
+   "authors": "Kubilay Ciftci | UN Climate Change",
+   "url": "https://unfccc.int/news/transcript-of-press-conference-opening-remarks-today-of-cop31-president-president-of-negotiations-un",
+   "summary": "Transcrição das falas de abertura da coletiva de imprensa de 10 nov em Antalya, com o presidente da COP31 Murat Kurum, o presidente das negociações Chris Bowen e o secretário-executivo da UNFCCC Simon Stiell. Kurum anunciou uma reunião ministerial especial sobre o segundo Balanço Global (GST2) para tratar do overshoot de 1,5 °C e apresentou o Compromisso Global de Eletrificação 35 até 35 (de cerca de 23% para 35% da energia final até 2035); Bowen disse que a eletrificação está em consulta com as Partes para a decisão final da COP, e Stiell citou dados da IRENA sobre o custo das renováveis. Toca as trilhas de eletrificação, GST2, adaptação, perdas e danos e Agenda de Ação.",
+   "summary_i18n": {
+    "en": "Transcript of the opening remarks at the 10 Nov press conference in Antalya by COP31 President Murat Kurum, President of Negotiations Chris Bowen and UNFCCC Executive Secretary Simon Stiell. Kurum announced a special ministerial meeting on the second Global Stocktake (GST2) to address the 1.5 °C overshoot and presented the 35-by-35 Global Electrification Pledge (from about 23% to 35% of final energy by 2035); Bowen said electrification is being consulted with Parties for the final COP decision, and Stiell cited IRENA data on the cost of renewables. It bears on the electrification, GST2, adaptation, loss and damage and Action Agenda tracks.",
+    "es": "Transcripción de las declaraciones de apertura de la rueda de prensa del 10 de noviembre en Antalya del Presidente de la COP31, Murat Kurum, el Presidente de las Negociaciones, Chris Bowen, y el Secretario Ejecutivo de la CMNUCC, Simon Stiell. Kurum anunció una reunión ministerial especial sobre el segundo Balance Mundial (GST2) para abordar el exceso sobre 1,5 °C y presentó el Compromiso Mundial de Electrificación 35 para 35 (de cerca del 23% al 35% de la energía final para 2035); Bowen dijo que la electrificación se está consultando con las Partes para la decisión final de la COP, y Stiell citó datos de la IRENA sobre el costo de las energías renovables. Afecta a las vías de electrificación, GST2, adaptación, pérdidas y daños y Agenda de Acción.",
+    "fr": "Transcription des déclarations liminaires de la conférence de presse du 10 novembre à Antalya du Président de la COP31, Murat Kurum, du Président des négociations, Chris Bowen, et du Secrétaire exécutif de la CCNUCC, Simon Stiell. M. Kurum a annoncé une réunion ministérielle spéciale sur le deuxième bilan mondial (GST2) pour traiter du dépassement de 1,5 °C et a présenté l'Engagement mondial sur l'électrification 35 d'ici 35 (d'environ 23 % à 35 % de l'énergie finale d'ici 2035) ; M. Bowen a indiqué que l'électrification fait l'objet de consultations avec les Parties en vue de la décision finale de la COP, et M. Stiell a cité des données de l'IRENA sur le coût des énergies renouvelables. Le texte concerne les volets électrification, GST2, adaptation, pertes et préjudices et Programme d'action.",
+    "ru": "Стенограмма вступительных выступлений на пресс-конференции 10 ноября в Анталье Президента КС-31 Мурата Курума, Президента переговоров Криса Боуэна и Исполнительного секретаря РКИКООН Саймона Стилла. Курум объявил о специальной министерской встрече по второму глобальному подведению итогов (GST2) для рассмотрения превышения порога 1,5 °C и представил Глобальное обязательство по электрификации «35 к 35» (примерно с 23% до 35% конечной энергии к 2035 году); Боуэн сказал, что электрификация обсуждается со Сторонами для итогового решения КС, а Стилл сослался на данные IRENA о стоимости возобновляемой энергетики. Материал относится к направлениям электрификации, GST2, адаптации, потерь и ущерба и Повестки действий.",
+    "zh": "这是11月10日安塔利亚新闻发布会开场发言的文字记录，发言者为COP31主席穆拉特·库鲁姆、谈判主席克里斯·鲍文和联合国气候变化框架公约执行秘书西蒙·斯蒂尔。库鲁姆宣布将召开关于第二次全球盘点（GST2）的特别部长级会议，以应对1.5 °C的温控超调，并提出“35 by 35”全球电气化承诺（到2035年将电力在终端能源中的占比从约23%提高到35%）；鲍文表示正就电气化问题与缔约方磋商，以纳入COP最终决定；斯蒂尔则引用了国际可再生能源署（IRENA）关于可再生能源成本的数据。内容涉及电气化、GST2、适应、损失与损害以及行动议程等议题。",
+    "ar": "نص الكلمات الافتتاحية في المؤتمر الصحفي المعقود في 10 نوفمبر في أنطاليا لرئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم، ورئيس المفاوضات كريس بوين، والأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ سايمون ستيل. أعلن كوروم عن اجتماع وزاري خاص بشأن الحصيلة العالمية الثانية (GST2) لمعالجة تجاوز حد 1.5 درجة مئوية، وقدّم التعهد العالمي للكهربة «35 بحلول 35» (من نحو 23% إلى 35% من الطاقة النهائية بحلول عام 2035)؛ وقال بوين إن الكهربة قيد التشاور مع الأطراف للقرار النهائي للمؤتمر، واستشهد ستيل ببيانات الوكالة الدولية للطاقة المتجددة (IRENA) عن تكلفة الطاقة المتجددة. ويتصل بمسارات الكهربة وGST2 والتكيف والخسائر والأضرار وجدول أعمال العمل."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "GST2 e IPCC",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "Chris Bowen: \"The world has no chance of holding to 1.5 degrees unless we lift that to 35%.\"",
+    "Simon Stiell: \"90% of large renewable projects are now cheaper than fossil fuel alternatives, according to IRENA.\"",
+    "Murat Kurum: \"We have said from the outset that we will not make decisions from the top down.\""
+   ],
+   "lang": "en",
+   "source_id": "web-unfccc-int-news",
+   "first_seen": "2026-11-11T00:19:00-03:00"
+  },
+  {
+   "id": "wmo-2026-11-10-protect-gcos",
+   "institution": "WMO",
+   "type": "notícia",
+   "title": "Protect the Global Climate Observing System",
+   "date": "2026-11-10",
+   "authors": "WMO",
+   "url": "https://wmo.int/media/news/protect-global-climate-observing-system",
+   "summary": "Comunicado da OMM para a COP31 alerta que o Sistema Global de Observação do Clima (GCOS) sofre com financiamento instável e lacunas de cobertura que ameaçam as previsões de eventos extremos e do El Niño. Segundo a OMM, o mundo gasta cerca de US$ 10 bilhões por ano em observações, mas a rede básica de observação do tempo está menos de 40% completa; um plano de ação de alta prioridade em rascunho estima em cerca de US$ 500 milhões por ano o custo de proteger as observações e fechar lacunas. Relaciona-se às trilhas de finanças e adaptação.",
+   "summary_i18n": {
+    "en": "A WMO news release for COP31 warns that the Global Climate Observing System (GCOS) suffers from unstable funding and coverage gaps that threaten forecasts of extreme weather and El Niño. According to WMO, the world spends about US$10 billion a year on observations, but the basic weather observing network is less than 40% complete; a draft High-Priority Action Plan estimates that protecting observations and closing gaps would cost about US$500 million a year. It bears on the finance and adaptation tracks.",
+    "es": "Un comunicado de la OMM para la COP31 advierte de que el Sistema Mundial de Observación del Clima (SMOC/GCOS) sufre una financiación inestable y lagunas de cobertura que amenazan las predicciones de fenómenos extremos y de El Niño. Según la OMM, el mundo gasta unos 10.000 millones de dólares al año en observaciones, pero la red básica de observación meteorológica está completa en menos del 40%; un proyecto de plan de acción de alta prioridad estima en unos 500 millones de dólares anuales el costo de proteger las observaciones y cerrar las lagunas. Se relaciona con las vías de finanzas y adaptación.",
+    "fr": "Un communiqué de l'OMM pour la COP31 met en garde contre un financement instable et des lacunes de couverture du Système mondial d'observation du climat (SMOC/GCOS), qui menacent les prévisions des phénomènes extrêmes et d'El Niño. Selon l'OMM, le monde dépense environ 10 milliards de dollars par an pour les observations, mais le réseau d'observation météorologique de base est complet à moins de 40 % ; un projet de plan d'action hautement prioritaire estime à environ 500 millions de dollars par an le coût de la protection des observations et de la comblement des lacunes. Il concerne les volets finance et adaptation.",
+    "ru": "В пресс-релизе ВМО к КС-31 предупреждается, что Глобальная система наблюдений за климатом (GCOS) страдает от нестабильного финансирования и пробелов в охвате, которые ставят под угрозу прогнозы экстремальных явлений и Эль-Ниньо. По данным ВМО, мир тратит около 10 млрд долл. США в год на наблюдения, но базовая сеть метеорологических наблюдений заполнена менее чем на 40%; в проекте приоритетного плана действий затраты на защиту наблюдений и устранение пробелов оцениваются примерно в 500 млн долл. США в год. Материал относится к направлениям финансов и адаптации.",
+    "zh": "世界气象组织（WMO）为COP31发布的新闻稿警告称，全球气候观测系统（GCOS）面临资金不稳定和覆盖缺口，威胁对极端天气和厄尔尼诺的预报。据WMO称，全球每年在观测上花费约100亿美元，但基础天气观测网络的完整度不足40%；一项高度优先行动计划草案估计，保护观测并弥补缺口每年约需5亿美元。内容涉及资金和适应议题。",
+    "ar": "يحذّر بيان صحفي صادر عن المنظمة العالمية للأرصاد الجوية (WMO) بمناسبة مؤتمر الأطراف الحادي والثلاثين من أن النظام العالمي لرصد المناخ (GCOS) يعاني من تمويل غير مستقر وفجوات في التغطية تهدد التنبؤات بالظواهر المتطرفة وظاهرة النينيو. ووفقاً للمنظمة، ينفق العالم نحو 10 مليارات دولار أمريكي سنوياً على الرصد، لكن شبكة الرصد الجوي الأساسية مكتملة بأقل من 40%؛ ويقدّر مشروع خطة عمل ذات أولوية عالية أن حماية عمليات الرصد وسد الفجوات تتطلب نحو 500 مليون دولار أمريكي سنوياً. ويتصل بمساري التمويل والتكيف."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "Celeste Saulo (WMO): \"We are funding long-term records with short-term money.\""
+   ],
+   "lang": "en",
+   "source_id": "web-wmo-int-news",
+   "first_seen": "2026-11-11T00:19:00-03:00"
+  },
   {
    "id": "x-MarinaSilva-20261110-lancamento-mapa-caminho",
    "kind": "post",
@@ -3242,6 +3303,32 @@
    "first_seen": "2026-11-10T02:42:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "wmo-2026-11-09-gcos-cop31",
+   "institution": "WMO",
+   "type": "comunicado",
+   "title": "GCOS Highlights Urgent Need to Strengthen Climate Observations at COP31",
+   "date": "2026-11-09",
+   "authors": "WMO / GCOS",
+   "url": "https://wmo.int/media/update/gcos-highlights-urgent-need-strengthen-climate-observations-cop31",
+   "summary": "Atualização da OMM em que o Sistema Global de Observação do Clima (GCOS) destaca a necessidade urgente de fortalecer as observações climáticas na COP31. Resumo baseado apenas no título e na listagem da página. Relaciona-se às trilhas de adaptação e finanças.",
+   "summary_i18n": {
+    "en": "A WMO update in which the Global Climate Observing System (GCOS) highlights the urgent need to strengthen climate observations at COP31. Summary based only on the title and the page listing. It bears on the adaptation and finance tracks.",
+    "es": "Una actualización de la OMM en la que el Sistema Mundial de Observación del Clima (SMOC/GCOS) destaca la necesidad urgente de reforzar las observaciones climáticas en la COP31. Resumen basado únicamente en el título y en el listado de la página. Se relaciona con las vías de adaptación y finanzas.",
+    "fr": "Une actualité de l'OMM dans laquelle le Système mondial d'observation du climat (SMOC/GCOS) souligne le besoin urgent de renforcer les observations climatiques à la COP31. Résumé fondé uniquement sur le titre et le listing de la page. Il concerne les volets adaptation et finance.",
+    "ru": "Обновление ВМО, в котором Глобальная система наблюдений за климатом (GCOS) подчёркивает настоятельную необходимость укрепления климатических наблюдений на КС-31. Резюме основано только на заголовке и списке на странице. Относится к направлениям адаптации и финансов.",
+    "zh": "WMO的一则更新，其中全球气候观测系统（GCOS）强调在COP31上亟需加强气候观测。摘要仅基于标题和页面列表。内容涉及适应和资金议题。",
+    "ar": "تحديث صادر عن المنظمة العالمية للأرصاد الجوية (WMO) يبرز فيه النظام العالمي لرصد المناخ (GCOS) الحاجة الملحّة إلى تعزيز عمليات رصد المناخ في مؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان وقائمة الصفحة فقط. ويتصل بمساري التكيف والتمويل."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [],
+   "lang": "en",
+   "source_id": "web-wmo-int-news",
+   "first_seen": "2026-11-11T00:19:00-03:00"
   },
   {
    "id": "can-2026-11-09-fossil-of-the-day",
