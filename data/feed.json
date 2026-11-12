@@ -1,16 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-12T06:30:00-03:00",
+ "generated_at": "2026-11-12T12:40:00-03:00",
  "round": {
-  "timestamp": "2026-11-12T06:30:00-03:00",
-  "label": "12 nov 2026, 06:30 (Brasília)",
-  "sites_checked": 61,
+  "timestamp": "2026-11-12T12:40:00-03:00",
+  "label": "12 nov 2026, 12:40 (Brasília)",
+  "sites_checked": 60,
   "blocked": 16,
-  "new_items": 7,
+  "new_items": 2,
   "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, twn-my-title2-climate-climate-updates-htm, ember-energy-org-latest-insights"
+   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, ember-energy-org-latest-insights, icccad-net-news"
   ]
  },
  "tracks": [
@@ -31,6 +31,254 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "instagram-muratkurum-20261112-egito",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:40",
+   "text": "COP31’de, Mısır Arap Cumhuriyeti Yerel Kalkınma ve Çevre Bakanı Sayın Dr. Manal Awad Mikhail ile bir araya geldik. Türkiye ve Mısır arasındaki güçlenen ilişkilerin çevre, iklim değişikliği ve yerel kalkınma alanlarında da somut iş birliklerine dönüşmesini ele aldık. COP27’ye başarıyla ev sahipliği yapan Mısır’ın küresel iklim diplomasisindeki tecrübesini COP31’in eylem gücüyle buluşturarak iklim hedeflerimizi güçlü iş birlikleriyle somut sonuçlara dönüştürmeyi hedefliyoruz. @turkiyecop31 📍Antalya",
+   "summary": "Murat Kurum se reúne na COP31 com a ministra egípcia de Desenvolvimento Local e Meio Ambiente, Manal Awad Mikhail, para transformar a aproximação entre Türkiye e Egito em cooperação concreta em clima, meio ambiente e desenvolvimento local, unindo a experiência do Egito (anfitrião da COP27) à força de ação da COP31.",
+   "summary_i18n": {
+    "en": "Murat Kurum meets Egypt's Minister of Local Development and Environment, Manal Awad Mikhail, at COP31 to turn closer Turkey–Egypt ties into concrete cooperation on climate, environment and local development, combining the experience of Egypt, host of COP27, with the action focus of COP31.",
+    "es": "Murat Kurum se reúne en la COP31 con la ministra egipcia de Desarrollo Local y Medio Ambiente, Manal Awad Mikhail, para convertir el acercamiento entre Turquía y Egipto en cooperación concreta en clima, medio ambiente y desarrollo local, uniendo la experiencia de Egipto, anfitrión de la COP27, con la capacidad de acción de la COP31.",
+    "fr": "Murat Kurum rencontre à la COP31 la ministre égyptienne du Développement local et de l'Environnement, Manal Awad Mikhail, afin de traduire le rapprochement entre la Turquie et l'Égypte en coopération concrète sur le climat, l'environnement et le développement local, en associant l'expérience de l'Égypte, hôte de la COP27, à la force d'action de la COP31.",
+    "ru": "Мурат Курум встретился на КС-31 с министром местного развития и окружающей среды Египта Манал Авад Михаил, чтобы превратить укрепляющиеся связи между Турцией и Египтом в конкретное сотрудничество по климату, окружающей среде и местному развитию, соединив опыт Египта, принимавшего КС-27, с потенциалом действий КС-31.",
+    "zh": "穆拉特·库鲁姆在COP31期间会见埃及地方发展和环境部长马纳勒·阿瓦德·米哈伊尔，旨在把土耳其与埃及日益密切的关系转化为气候、环境和地方发展领域的具体合作，将曾主办COP27的埃及的经验与COP31的行动力结合起来。",
+    "ar": "التقى مراد كوروم في مؤتمر الأطراف الحادي والثلاثين وزيرة التنمية المحلية والبيئة المصرية منال عوض ميخائيل لتحويل تعزيز العلاقات بين تركيا ومصر إلى تعاون ملموس في المناخ والبيئة والتنمية المحلية، بالجمع بين خبرة مصر مستضيفة مؤتمر الأطراف السابع والعشرين وقوة العمل في مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://www.instagram.com/p/DfpZjBoiAFv/",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "tr",
+   "source_id": "ig-muratkurum"
+  },
+  {
+   "id": "x-simonstiell-20261112-saude",
+   "kind": "post",
+   "platform": "x",
+   "account": "@simonstiell",
+   "institution": "Simon Stiell",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:25",
+   "text": "Health is at the heart of climate action. At #COP31, let's roll up our sleeves & deliver on the commitments we've made: turning cooperation into protection & protection into lives saved. I applaud @WHO @DrTedros for his relentless advocacy for health-centered climate action.",
+   "summary": "Simon Stiell afirma que a saúde está no centro da ação climática, pede que a COP31 cumpra os compromissos já assumidos (cooperação que vira proteção e proteção que salva vidas) e elogia a OMS e Tedros pela defesa de uma ação climática centrada na saúde.",
+   "summary_i18n": {
+    "en": "Simon Stiell says health is at the heart of climate action, urges COP31 to deliver on commitments already made (cooperation turned into protection, and protection into lives saved) and praises WHO and Tedros for their advocacy of health-centred climate action.",
+    "es": "Simon Stiell afirma que la salud está en el centro de la acción climática, insta a la COP31 a cumplir los compromisos ya asumidos (cooperación convertida en protección y protección en vidas salvadas) y elogia a la OMS y a Tedros por su defensa de una acción climática centrada en la salud.",
+    "fr": "Simon Stiell affirme que la santé est au cœur de l'action climatique, exhorte la COP31 à tenir les engagements déjà pris (la coopération devenue protection, et la protection des vies sauvées) et salue l'OMS et Tedros pour leur plaidoyer en faveur d'une action climatique centrée sur la santé.",
+    "ru": "Саймон Стилл заявляет, что здоровье находится в центре климатических действий, призывает КС-31 выполнить уже принятые обязательства (сотрудничество — в защиту, защиту — в спасённые жизни) и высоко оценивает усилия ВОЗ и Тедроса в пользу климатических действий, ориентированных на здоровье.",
+    "zh": "西蒙·斯蒂尔表示，健康是气候行动的核心，呼吁COP31兑现已作出的承诺（将合作转化为保护，将保护转化为挽救生命），并赞扬世卫组织和谭德塞大力倡导以健康为中心的气候行动。",
+    "ar": "قال سيمون ستيل إن الصحة في صميم العمل المناخي، وحثّ مؤتمر الأطراف الحادي والثلاثين على الوفاء بالالتزامات المقطوعة (تحويل التعاون إلى حماية والحماية إلى أرواح منقذة)، وأشاد بمنظمة الصحة العالمية وتيدروس لدفاعهما عن عمل مناخي محوره الصحة."
+   },
+   "url": "https://x.com/simonstiell",
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "en",
+   "source_id": "x-simonstiell"
+  },
+  {
+   "id": "x-LulaOficial-20261112-sociedade-civil",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-12",
+   "time": "12:13",
+   "text": "Presidente Lula participa de encontro com a sociedade civil na COP 31 (transmissão ao vivo)",
+   "summary": "O presidente Lula participa, na COP31, de encontro com a sociedade civil, transmitido ao vivo no perfil oficial.",
+   "summary_i18n": {
+    "en": "President Lula takes part in a meeting with civil society at COP31, streamed live on his official profile.",
+    "es": "El presidente Lula participa en la COP31 en un encuentro con la sociedad civil, transmitido en directo en su perfil oficial.",
+    "fr": "Le président Lula participe à la COP31 à une rencontre avec la société civile, diffusée en direct sur son profil officiel.",
+    "ru": "Президент Лула принимает участие на КС-31 во встрече с гражданским обществом; трансляция велась в прямом эфире на его официальной странице.",
+    "zh": "卢拉总统在COP31期间参加与民间社会的会面，并在其官方账号上进行了直播。",
+    "ar": "يشارك الرئيس لولا في مؤتمر الأطراف الحادي والثلاثين في لقاء مع المجتمع المدني، بُثّ مباشرة على حسابه الرسمي."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "x-fatmavarank-20261112-cupula-eletrificacao",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:13",
+   "text": "COP31 Liderler Zirvesi kapsamında Enerji Dönüşümü ve Elektrifikasyon oturumu gerçekleştirildi. Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan, Avustralya Başbakanı Anthony Albanese, BM Genel Sekreteri António Guterres ve çok sayıda devlet başkanı oturuma katıldı.",
+   "summary": "Fatma Varank informa que a Cúpula de Líderes da COP31 realizou a sessão sobre Transição Energética e Eletrificação, com a presença de Erdoğan, do primeiro-ministro australiano Anthony Albanese, do secretário-geral da ONU António Guterres e de vários chefes de Estado.",
+   "summary_i18n": {
+    "en": "Fatma Varank reports that the COP31 Leaders' Summit held its session on Energy Transition and Electrification, attended by President Erdoğan, Australian Prime Minister Anthony Albanese, UN Secretary-General António Guterres and numerous heads of state.",
+    "es": "Fatma Varank informa de que la Cumbre de Líderes de la COP31 celebró la sesión sobre Transición Energética y Electrificación, con la asistencia del presidente Erdoğan, el primer ministro australiano Anthony Albanese, el Secretario General de la ONU António Guterres y numerosos jefes de Estado.",
+    "fr": "Fatma Varank indique que le Sommet des dirigeants de la COP31 a tenu sa session sur la transition énergétique et l'électrification, en présence du président Erdoğan, du Premier ministre australien Anthony Albanese, du Secrétaire général de l'ONU António Guterres et de nombreux chefs d'État.",
+    "ru": "Фатма Варанк сообщает, что на саммите лидеров КС-31 прошла сессия по энергетическому переходу и электрификации с участием президента Эрдогана, премьер-министра Австралии Энтони Албаниза, Генерального секретаря ООН Антониу Гутерриша и многих глав государств.",
+    "zh": "法特玛·瓦兰克表示，COP31领导人峰会举行了能源转型与电气化会议，埃尔多安总统、澳大利亚总理安东尼·阿尔巴尼斯、联合国秘书长安东尼奥·古特雷斯及多位国家元首出席。",
+    "ar": "أفادت فاطمة فارانك بأن قمة قادة مؤتمر الأطراف الحادي والثلاثين عقدت جلسة حول التحول في مجال الطاقة والكهربة بحضور الرئيس أردوغان ورئيس وزراء أستراليا أنتوني ألبانيزي والأمين العام للأمم المتحدة أنطونيو غوتيريش وعدد من رؤساء الدول."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "tr",
+   "source_id": "x-fatmavarank"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261112-china-briefing-cop31",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:34",
+   "text": "NEW – China Briefing: COP31 Special. Written by Anika Patel and Lekai Liu. Edited by Anika Patel and Simon Evans. Read the full edition: buff.ly/WAVcUWY (China Briefing 12 November 2026: China outlined key negotiating positions ahead of COP)",
+   "summary": "O Carbon Brief publica a edição especial COP31 do China Briefing, com as posições negociadoras apresentadas pela China, o que disseram os principais negociadores, uma disputa de agenda evitada e divergências sobre finanças.",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes the COP31 special edition of its China Briefing, covering the negotiating positions outlined by China, what top negotiators said, an averted agenda fight and disagreements over finance.",
+    "es": "Carbon Brief publica la edición especial sobre la COP31 de su China Briefing, con las posiciones negociadoras expuestas por China, lo que dijeron los principales negociadores, una disputa de agenda evitada y los desacuerdos sobre finanzas.",
+    "fr": "Carbon Brief publie l'édition spéciale COP31 de son China Briefing, avec les positions de négociation exposées par la Chine, les propos des principaux négociateurs, un conflit d'agenda évité et les désaccords sur le financement.",
+    "ru": "Carbon Brief опубликовал специальный выпуск China Briefing, посвящённый КС-31: переговорные позиции Китая, заявления ведущих переговорщиков, предотвращённый спор по повестке дня и разногласия по финансированию.",
+    "zh": "碳简报（Carbon Brief）发布COP31特刊《中国简报》，内容包括中国阐明的谈判立场、主要谈判代表的发言、避免了的议程之争以及在资金问题上的分歧。",
+    "ar": "نشرت كاربون بريف عددًا خاصًا من «موجز الصين» عن مؤتمر الأطراف الحادي والثلاثين، يتناول مواقف التفاوض التي عرضتها الصين وما قاله كبار المفاوضين وتفادي خلاف حول جدول الأعمال والخلافات حول التمويل."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n24saknie225",
+   "tracks": [
+    "Finanças",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-justa-transicao-fe",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:16",
+   "text": "Driving Inclusive and Equitable Climate Action through a Just Transition (World Council of Churches, All Africa Conference of Churches, Franciscans International and others). The transition away from fossil fuels is a must to stop dangerous climate change; faith communities and indigenous peoples have a special role to play.",
+   "summary": "Vídeo de evento paralelo da COP31 (Conselho Mundial de Igrejas e outros) sobre transição justa: a saída dos combustíveis fósseis é indispensável e comunidades de fé e povos indígenas têm papel central, com base em direitos humanos.",
+   "summary_i18n": {
+    "en": "Video of a COP31 side event (World Council of Churches and others) on a just transition: moving away from fossil fuels is essential and faith communities and indigenous peoples have a central role, grounded in human rights.",
+    "es": "Vídeo de un evento paralelo de la COP31 (Consejo Mundial de Iglesias y otros) sobre una transición justa: abandonar los combustibles fósiles es indispensable y las comunidades de fe y los pueblos indígenas tienen un papel central, basado en los derechos humanos.",
+    "fr": "Vidéo d'un événement parallèle de la COP31 (Conseil œcuménique des Églises et autres) sur une transition juste : la sortie des combustibles fossiles est indispensable et les communautés confessionnelles et les peuples autochtones y jouent un rôle central, fondé sur les droits humains.",
+    "ru": "Видео параллельного мероприятия КС-31 (Всемирный совет церквей и др.) о справедливом переходе: отказ от ископаемого топлива необходим, а религиозные общины и коренные народы играют в нём центральную роль на основе прав человека.",
+    "zh": "COP31边会视频（世界基督教协进会等主办）：关于公正转型，摆脱化石燃料势在必行，信仰团体和原住民在其中发挥核心作用，并以人权为基础。",
+    "ar": "فيديو لفعالية جانبية في مؤتمر الأطراف الحادي والثلاثين (مجلس الكنائس العالمي وآخرون) حول التحول العادل: الابتعاد عن الوقود الأحفوري أمر لا غنى عنه وللمجتمعات الدينية والشعوب الأصلية دور محوري على أساس حقوق الإنسان."
+   },
+   "url": "https://www.youtube.com/watch?v=Fc0Q-xaqWg4",
+   "tracks": [
+    "Transição justa",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-saude-materna-clima",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:16",
+   "text": "Resilient Health for Mothers and Newborns: Financing Climate-resilient SRHR and Protection Systems (UNFPA). A ministerial-level symposium aimed to secure political and financial commitments on climate and reproductive, maternal and newborn health, and launch UNFPA’s 3rd review of NDCs and BTRs.",
+   "summary": "Vídeo de simpósio ministerial do UNFPA na COP31 sobre o financiamento de sistemas de saúde sexual, reprodutiva, materna e neonatal resilientes ao clima; lança a 3ª revisão do UNFPA sobre NDCs e BTRs.",
+   "summary_i18n": {
+    "en": "Video of a UNFPA ministerial-level symposium at COP31 on financing climate-resilient sexual and reproductive, maternal and newborn health systems; it launches UNFPA's 3rd review of NDCs and BTRs.",
+    "es": "Vídeo de un simposio ministerial del UNFPA en la COP31 sobre la financiación de sistemas de salud sexual y reproductiva, materna y neonatal resilientes al clima; presenta la tercera revisión del UNFPA de las NDC y los BTR.",
+    "fr": "Vidéo d'un symposium ministériel du FNUAP à la COP31 sur le financement de systèmes de santé sexuelle et reproductive, maternelle et néonatale résilients au climat ; il lance le 3e examen des CDN et des BTR du FNUAP.",
+    "ru": "Видео министерского симпозиума ЮНФПА на КС-31 о финансировании систем охраны сексуального и репродуктивного здоровья, здоровья матерей и новорождённых, устойчивых к изменению климата; на нём представлен третий обзор ЮНФПА по НОВ и ДДП.",
+    "zh": "COP31期间联合国人口基金部长级研讨会视频：聚焦为气候韧性的性与生殖健康、孕产妇和新生儿健康体系提供资金；会上发布人口基金第三次国家自主贡献和双年透明度报告审查。",
+    "ar": "فيديو لندوة وزارية لصندوق الأمم المتحدة للسكان في مؤتمر الأطراف الحادي والثلاثين حول تمويل نظم صحية للأمهات والمواليد والصحة الجنسية والإنجابية قادرة على الصمود أمام المناخ؛ وأُطلق خلالها الاستعراض الثالث للصندوق للمساهمات المحددة وطنيًا وتقارير الشفافية ثنائية السنة."
+   },
+   "url": "https://www.youtube.com/watch?v=UupkA5HkDl8",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-circularidade-empresas",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "12:16",
+   "text": "Collective Action for Circularity: Enabling Business Action across Industry and Value Chains (UN Global Compact). Speakers include UN Global Compact, UNEP, UNIDO and the COP31 Presidency.",
+   "summary": "Vídeo de evento paralelo do Pacto Global da ONU na COP31, com participação da Presidência da COP31, sobre ação coletiva de empresas em circularidade ao longo de cadeias de valor e setores industriais.",
+   "summary_i18n": {
+    "en": "Video of a UN Global Compact side event at COP31, with the COP31 Presidency among the speakers, on collective business action for circularity across value chains and industry.",
+    "es": "Vídeo de un evento paralelo del Pacto Mundial de las Naciones Unidas en la COP31, con participación de la Presidencia de la COP31, sobre la acción colectiva empresarial en economía circular a lo largo de las cadenas de valor y la industria.",
+    "fr": "Vidéo d'un événement parallèle du Pacte mondial des Nations Unies à la COP31, avec la participation de la présidence de la COP31, sur l'action collective des entreprises en faveur de la circularité dans les chaînes de valeur et l'industrie.",
+    "ru": "Видео параллельного мероприятия Глобального договора ООН на КС-31 с участием Председательства КС-31 о коллективных действиях бизнеса в области циркулярной экономики в цепочках создания стоимости и промышленности.",
+    "zh": "COP31期间联合国全球契约边会视频，COP31主席团参与发言，主题为企业在价值链和工业领域开展循环经济集体行动。",
+    "ar": "فيديو لفعالية جانبية للاتفاق العالمي للأمم المتحدة في مؤتمر الأطراف الحادي والثلاثين بمشاركة رئاسة المؤتمر حول العمل الجماعي للشركات من أجل الاقتصاد الدائري عبر سلاسل القيمة والصناعة."
+   },
+   "url": "https://www.youtube.com/watch?v=mLlGTNWrqrI",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T12:46:37-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "climate-action-tracker-2026-11-12-warming-projections",
+   "institution": "Climate Action Tracker",
+   "type": "análise",
+   "title": "Without rapid action, the world is heading to irrecoverable overshoot",
+   "date": "2026-11-12",
+   "authors": "Climate Action Tracker (NewClimate Institute e Climate Analytics)",
+   "url": "https://climateactiontracker.org/publications/warming-projections-global-update-2026/",
+   "summary": "O Climate Action Tracker publica a atualização global de projeções de aquecimento de 2026, segundo a qual o mundo caminha para um estouro irreversível do limite de 1,5 °C se o corte de emissões não acelerar. A ação climática combinada estagnou nos últimos cinco anos e as políticas atuais apontam para cerca de 2,7 °C de aquecimento. Atinge as trilhas de Mitigação e MWP e de GST2 e IPCC.",
+   "summary_i18n": {
+    "en": "The Climate Action Tracker publishes its 2026 global warming projections update, which finds the world is heading for an irreversible overshoot of 1.5°C unless emissions cuts speed up. Combined climate action has stalled for five years, and current policies point to about 2.7°C of warming. It bears on the Mitigation and MWP and GST2 and IPCC tracks.",
+    "es": "El Climate Action Tracker publica su actualización global de proyecciones de calentamiento de 2026, según la cual el mundo se encamina hacia un rebasamiento irreversible de 1,5 °C si no se aceleran los recortes de emisiones. La acción climática combinada se ha estancado durante cinco años y las políticas actuales apuntan a un calentamiento de alrededor de 2,7 °C. Afecta a las vías de Mitigación y MWP y de GST2 e IPCC.",
+    "fr": "Le Climate Action Tracker publie sa mise à jour mondiale 2026 des projections de réchauffement, selon laquelle le monde se dirige vers un dépassement irréversible de 1,5 °C si les réductions d'émissions ne s'accélèrent pas. L'action climatique combinée stagne depuis cinq ans et les politiques actuelles conduisent à environ 2,7 °C de réchauffement. Cela concerne les volets Atténuation et MWP et GST2 et GIEC.",
+    "ru": "Climate Action Tracker опубликовал глобальное обновление прогнозов потепления на 2026 год: мир движется к необратимому превышению 1,5 °C, если сокращение выбросов не ускорится. Совокупные климатические действия стагнируют уже пять лет, а текущая политика ведёт к потеплению примерно на 2,7 °C. Это относится к направлениям «Смягчение и MWP» и «GST2 и МГЭИК».",
+    "zh": "气候行动追踪组织（Climate Action Tracker）发布了2026年全球变暖预测更新，指出若减排不加速，世界将不可逆地超过1.5°C温控目标。各方合力的气候行动已停滞五年，现行政策指向约2.7°C的升温。该报告涉及减缓与MWP以及GST2与IPCC议题。",
+    "ar": "نشرت Climate Action Tracker تحديثها العالمي لعام 2026 لتوقعات الاحترار، ويفيد بأن العالم يتجه نحو تجاوز لا رجعة فيه لحد 1.5 درجة مئوية ما لم يتسارع خفض الانبعاثات. وقد ركد العمل المناخي المشترك طوال خمس سنوات، وتشير السياسات الحالية إلى احترار يبلغ نحو 2.7 درجة مئوية. ويتصل ذلك بمساري التخفيف وMWP وGST2 والهيئة الحكومية الدولية المعنية بتغير المناخ (IPCC)."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "GST2 e IPCC"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T12:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-newclimate-org-news"
+  },
   {
    "id": "instagram-turkiyecop31-20261112-metano-stiell",
    "kind": "post",
@@ -1395,6 +1643,31 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "actionaid-2026-11-11-guterres-final-cop-speech",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "Guterres' final COP speech is a wake-up call for real action on fossil fuels, says ActionAid",
+   "date": "2026-11-11",
+   "authors": "ActionAid",
+   "url": "https://actionaid.org/news/2026/guterres-final-cop-speech-wake-call-real-action-fossil-fuels-says-actionaid",
+   "summary": "A ActionAid reage ao último discurso de abertura de Antonio Guterres numa COP como secretário-geral da ONU, classificando-o como um alerta para ação real sobre combustíveis fósseis. O discurso criticou lobistas do setor fóssil que tentam descarrilar a ação climática. Atinge a trilha de TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "ActionAid reacts to Antonio Guterres's last COP opening speech as UN Secretary-General, calling it a wake-up call for real action on fossil fuels. The speech criticised fossil fuel lobbyists trying to derail climate action. It bears on the TAFF and fossil fuels track.",
+    "es": "ActionAid reacciona al último discurso de apertura de Antonio Guterres en una COP como Secretario General de las Naciones Unidas, y lo califica de llamada de atención para una acción real sobre los combustibles fósiles. El discurso criticó a los grupos de presión de los combustibles fósiles que intentan frustrar la acción climática. Afecta a la vía de TAFF y combustibles fósiles.",
+    "fr": "ActionAid réagit au dernier discours d'ouverture d'Antonio Guterres lors d'une COP en tant que Secrétaire général de l'ONU, y voyant un signal d'alarme pour une action réelle sur les combustibles fossiles. Le discours a critiqué les lobbyistes des énergies fossiles qui cherchent à faire dérailler l'action climatique. Cela concerne le volet TAFF et combustibles fossiles.",
+    "ru": "ActionAid отреагировала на последнее выступление Антониу Гутерриша на открытии КС в качестве Генерального секретаря ООН, назвав его сигналом к реальным действиям в отношении ископаемого топлива. В речи критиковались лоббисты ископаемого топлива, пытающиеся сорвать климатические действия. Это относится к направлению TAFF и ископаемое топливо.",
+    "zh": "ActionAid就António Guterres作为联合国秘书长在气候大会上的最后一次开幕演讲作出回应，称其是对切实减少化石燃料行动的警醒。演讲批评了试图破坏气候行动的化石燃料游说者。该内容涉及TAFF与化石燃料议题。",
+    "ar": "علّقت ActionAid على آخر خطاب افتتاحي ألقاه أنطونيو غوتيريش في مؤتمر للأطراف بصفته الأمين العام للأمم المتحدة، ووصفته بأنه جرس إنذار للتحرك الفعلي بشأن الوقود الأحفوري. وانتقد الخطاب جماعات الضغط المعنية بالوقود الأحفوري التي تحاول إفشال العمل المناخي. ويتصل ذلك بمسار TAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T12:40:00-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
   },
   {
    "id": "x-LDCChairUNFCCC-20261111-ldc-life-ar-facility",
@@ -15353,11 +15626,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T11:55:00-03:00",
-  "label": "12 nov 2026, 11:55 (Brasília)",
-  "accounts_checked": 29,
+  "timestamp": "2026-11-12T12:46:37-03:00",
+  "label": "12 nov 2026, 12:46 (Brasília)",
+  "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 6,
+  "new_items": 8,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
