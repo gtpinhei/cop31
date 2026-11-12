@@ -857,18 +857,6 @@
    "verified": true
   },
   {
-   "platform": "youtube",
-   "handle": "@Medyascope",
-   "institution": "Medyascope / İklim Haber",
-   "priority": "B",
-   "identity": "reported",
-   "identity_basis": "reportado",
-   "identity_evidence": null,
-   "identity_checked_at": null,
-   "verified": false,
-   "channel_id": null
-  },
-  {
    "platform": "bluesky",
    "handle": "unep.org",
    "institution": "UNEP",
