@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T14:58+03:00",
+ "generated_at": "2026-11-12T15:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T06:30:00-03:00",
-  "social_round": "2026-11-12T08:55:00-03:00",
+  "social_round": "2026-11-12T09:45:29-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 162,
-  "stories": 136,
+  "candidates": 164,
+  "stories": 138,
   "top": 8,
   "publishers": [
    "350.org",
@@ -517,6 +517,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-acordos-bancos-51bi",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-acordos-bancos-51bi",
+     "title": "@turkiyecop31: From dialogue to consensus, from consensus to action. At COP31, Türkiye has signed 10 agreements worth $5.1 billion…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpCXAktc9w/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "09:17",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Türkiye assinou na COP31 dez acordos, no valor de US$ 5,1 bilhões, com bancos internacionais de desenvolvimento para transição verde, infraestrutura resiliente e acesso das empresas a financiamento.",
+     "collected_at": "2026-11-12T09:45:29-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At COP31, Türkiye signed ten agreements worth US$5.1 billion with international development banks to support the green transition, resilient infrastructure and businesses' access to finance.",
+      "es": "En la COP31, Türkiye firmó diez acuerdos por un valor de 5.100 millones de dólares con bancos internacionales de desarrollo para apoyar la transición verde, la infraestructura resiliente y el acceso de las empresas a la financiación.",
+      "fr": "À la COP31, la Türkiye a signé dix accords d'une valeur de 5,1 milliards de dollars avec des banques internationales de développement pour soutenir la transition verte, les infrastructures résilientes et l'accès des entreprises au financement.",
+      "ru": "На КС-31 Турция подписала десять соглашений на сумму 5,1 млрд долларов США с международными банками развития в поддержку зелёного перехода, устойчивой инфраструктуры и доступа предприятий к финансированию.",
+      "zh": "在COP31上，土耳其与国际开发银行签署了10项协议，总价值51亿美元，用于支持绿色转型、韧性基础设施以及企业获得融资。",
+      "ar": "في مؤتمر الأطراف الحادي والثلاثين وقّعت تركيا عشر اتفاقيات بقيمة 5.1 مليار دولار أمريكي مع بنوك التنمية الدولية لدعم التحول الأخضر والبنية التحتية القادرة على الصمود وإتاحة التمويل للشركات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -2287,6 +2325,45 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-kurum-business-forum-tecnologia",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-kurum-business-forum-tecnologia",
+     "title": "@turkiyecop31: At the COP31 Business Forum, COP31 President Murat Kurum called for stronger private-sector engagement, greater…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfo8AB0jTU6/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "08:21",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Finanças",
+      "Mitigação e MWP"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "No Business Forum da COP31, o presidente Murat Kurum pediu maior engajamento do setor privado, mais investimento em energia limpa e o desenvolvimento de tecnologias nacionais para a Türkiye aproveitar a transição verde global.",
+     "collected_at": "2026-11-12T09:45:29-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 Business Forum, COP31 President Murat Kurum called for stronger private-sector engagement, more investment in clean energy and home-grown technologies so that Türkiye can seize the opportunities of the global green transition.",
+      "es": "En el Foro Empresarial de la COP31, el Presidente de la COP31, Murat Kurum, pidió una mayor participación del sector privado, más inversión en energía limpia y el desarrollo de tecnologías propias para que Türkiye aproveche las oportunidades de la transición verde mundial.",
+      "fr": "Au Forum des entreprises de la COP31, le Président de la COP31, Murat Kurum, a appelé à un engagement accru du secteur privé, à davantage d'investissements dans l'énergie propre et au développement de technologies nationales afin que la Türkiye saisisse les opportunités de la transition verte mondiale.",
+      "ru": "На Бизнес-форуме КС-31 Председатель КС-31 Мурат Курум призвал к более активному участию частного сектора, увеличению инвестиций в чистую энергетику и развитию отечественных технологий, чтобы Турция могла воспользоваться возможностями глобального зелёного перехода.",
+      "zh": "在COP31商业论坛上，COP31主席穆拉特·库鲁姆呼吁加强私营部门参与，加大对清洁能源的投资并发展本土技术，使土耳其抓住全球绿色转型的机遇。",
+      "ar": "في المنتدى التجاري لمؤتمر الأطراف الحادي والثلاثين، دعا رئيس المؤتمر مراد كوروم إلى تعزيز مشاركة القطاع الخاص وزيادة الاستثمار في الطاقة النظيفة وتطوير التقنيات المحلية لتمكين تركيا من اغتنام فرص التحول الأخضر العالمي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
