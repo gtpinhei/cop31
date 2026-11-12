@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T18:58+03:00",
+ "generated_at": "2026-11-12T19:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T12:40:00-03:00",
-  "social_round": "2026-11-12T12:46:37-03:00",
+  "social_round": "2026-11-12T13:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 170,
-  "stories": 144,
+  "candidates": 171,
+  "stories": 145,
   "top": 8,
   "publishers": [
    "350.org",
@@ -554,6 +554,44 @@
     "related": [],
     "publishers": [
      "Climate Action Tracker"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+     "title": "@turkiyecop31: “No one should mistake safe and resilient cities for a privilege. They are the right of every society and our shared…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpcvgKNDGy/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "13:07",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "No Diálogo de Alto Nível sobre Resiliência Urbana, Adaptação e Ação Climática, o presidente da COP31, Murat Kurum, afirma que cidades seguras e resilientes são um direito de toda sociedade e uma responsabilidade compartilhada, não um privilégio.",
+     "collected_at": "2026-11-12T13:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the High-Level Dialogue on Urban Resilience, Adaptation and Climate Action, COP31 President Murat Kurum says safe and resilient cities are a right of every society and a shared responsibility, not a privilege.",
+      "es": "En el Diálogo de Alto Nivel sobre Resiliencia Urbana, Adaptación y Acción Climática, el Presidente de la COP31, Murat Kurum, afirma que las ciudades seguras y resilientes son un derecho de toda sociedad y una responsabilidad compartida, no un privilegio.",
+      "fr": "Lors du Dialogue de haut niveau sur la résilience urbaine, l'adaptation et l'action climatique, le Président de la COP31, Murat Kurum, déclare que des villes sûres et résilientes sont un droit pour toute société et une responsabilité partagée, et non un privilège.",
+      "ru": "На диалоге высокого уровня по городской устойчивости, адаптации и климатическим действиям Председатель КС-31 Мурат Курум заявил, что безопасные и устойчивые города — это право каждого общества и общая ответственность, а не привилегия.",
+      "zh": "在城市韧性、适应与气候行动高级别对话上，COP31主席穆拉特·库鲁姆表示，安全且有韧性的城市是每个社会的权利和共同责任，而非特权。",
+      "ar": "في الحوار رفيع المستوى حول القدرة على الصمود الحضري والتكيف والعمل المناخي، قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن المدن الآمنة والقادرة على الصمود حق لكل مجتمع ومسؤولية مشتركة وليست امتيازا."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
