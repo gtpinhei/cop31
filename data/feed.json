@@ -1,17 +1,17 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T18:20:00-03:00",
+ "generated_at": "2026-11-12T00:16:40-03:00",
  "round": {
-  "timestamp": "2026-11-11T18:20:00-03:00",
-  "label": "11 nov 2026, 18:20 (Brasília)",
-  "sites_checked": 55,
-  "blocked": 16,
-  "new_items": 3,
-  "fetches": "59 de 60",
+  "timestamp": "2026-11-12T00:16:40-03:00",
+  "label": "12 nov 2026, 00:16 (Brasília)",
+  "sites_checked": 52,
+  "blocked": 10,
+  "new_items": 8,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: Climate Champions (redirect), COP30.br, UNEP, IEA, Arab Group (portal dinâmico), Chatham House, CAN Europe, ITUC, Christian Aid, FoEI, Oil Change, Instituto Talanoa, Política por Inteiro, ICCCAD, ACF (verificação anti-bot), WMBC",
-   "adiados por orçamento: Transforma, CSE, Eurodad, Carbon Pulse, ODI, TWN, Ember"
+   "Bloqueados/sem listagem datada: unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, wemeanbusinesscoalition-org-news, carbon-pulse-com-category-international",
+   "adiados por orçamento: www4-unfccc-int-sites-submissionsstaging-pages-h, data-consilium-europa-eu-doc-document-st-14090-2, institutotalanoa-org-publicacoes, climaesociedade-org-noticias, politicaporinteiro-org-en, icccad-net-news, africanclimatefoundation-org-news, powershiftafrica-org-press-releases, twn-my-title2-climate-climate-updates-htm"
   ]
  },
  "tracks": [
@@ -32,6 +32,242 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-11-stiell-leaders",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "UN Climate Chief to world leaders in Antalya: 'The political costs of fossil fuel dependency are unforgiving. Climate action can help relieve the pressure'",
+   "date": "2026-11-11",
+   "authors": "Simon Stiell",
+   "url": "https://unfccc.int/news/un-climate-chief-to-world-leaders-in-antalya-the-political-costs-of-fossil-fuel-dependency-are",
+   "summary": "Na abertura do segmento de alto nível da COP31, Stiell diz que a cooperação reduziu o aquecimento projetado de bem mais de 4°C para cerca de 2,6°C, mas que o avanço segue lento e desigual. Liga a volatilidade energética e os desastres à inflação e à pressão fiscal e apresenta eletrificação e resiliência como alívio. Define como prioridades eletrificar economias, triplicar o financiamento de adaptação e melhorar o acesso a finanças sem reabrir acordos passados.",
+   "summary_i18n": {
+    "en": "At the opening of the COP31 High-Level Segment, Stiell says cooperation has cut projected warming from well over 4°C to about 2.6°C, but progress remains slow and uneven. He links energy volatility and disasters to inflation and fiscal strain and presents electrification and resilience as relief. His priorities are electrifying economies, tripling adaptation finance and improving access to finance without reopening past agreements.",
+    "es": "En la apertura del segmento de alto nivel de la COP31, Stiell afirma que la cooperación ha reducido el calentamiento proyectado de bastante más de 4 °C a unos 2,6 °C, pero que el progreso sigue siendo lento y desigual. Vincula la volatilidad energética y los desastres con la inflación y la presión fiscal, y presenta la electrificación y la resiliencia como alivio. Sus prioridades son electrificar las economías, triplicar la financiación para la adaptación y mejorar el acceso a la financiación sin reabrir acuerdos anteriores.",
+    "fr": "À l'ouverture du segment de haut niveau de la COP31, M. Stiell indique que la coopération a ramené le réchauffement projeté de bien plus de 4 °C à environ 2,6 °C, mais que les progrès restent lents et inégaux. Il relie la volatilité énergétique et les catastrophes à l'inflation et aux tensions budgétaires, et présente l'électrification et la résilience comme un soulagement. Ses priorités : électrifier les économies, tripler le financement de l'adaptation et améliorer l'accès au financement sans rouvrir les accords passés.",
+    "ru": "На открытии сегмента высокого уровня COP31 Стилл заявил, что сотрудничество снизило прогнозируемое потепление с намного более 4°C до примерно 2,6°C, но прогресс остаётся медленным и неравномерным. Он связывает энергетическую волатильность и катастрофы с инфляцией и бюджетным давлением и представляет электрификацию и устойчивость как способ облегчения. Приоритеты: электрификация экономик, утроение финансирования адаптации и улучшение доступа к финансам без пересмотра прежних соглашений.",
+    "zh": "在COP31高级别会议开幕时，斯蒂尔表示，合作已将预测升温从远超4°C降至约2.6°C，但进展仍然缓慢且不均衡。他将能源市场波动和气候灾害与通胀和财政压力联系起来，并将电气化和韧性视为缓解途径。其优先事项包括经济电气化、将适应融资增至三倍，以及在不重开既有协议的前提下改善融资可及性。",
+    "ar": "في افتتاح الجزء رفيع المستوى من مؤتمر الأطراف الحادي والثلاثين، قال ستيل إن التعاون خفّض الاحترار المتوقع من أكثر بكثير من 4 درجات مئوية إلى نحو 2.6 درجة، لكن التقدم لا يزال بطيئاً وغير متكافئ. وربط تقلب أسواق الطاقة والكوارث بالتضخم والضغط على الميزانيات، وقدّم الكهربة والقدرة على الصمود كوسيلة للتخفيف. وتشمل أولوياته كهربة الاقتصادات ومضاعفة تمويل التكيف ثلاث مرات وتحسين الحصول على التمويل دون إعادة فتح الاتفاقات السابقة."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"From well over four degrees – a death sentence for every economy to around 2.6 degrees today.\" — Simon Stiell",
+    "\"The political costs of fossil fuel dependency are unforgiving.\" — Simon Stiell"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-11-guterres-leaders-summit",
+   "institution": "UNFCCC",
+   "type": "notícia",
+   "title": "Transcript of remarks made by UN Secretary-General António Guterres to the COP31 Leaders' Summit",
+   "date": "2026-11-11",
+   "authors": "António Guterres",
+   "url": "https://unfccc.int/news/transcript-of-remarks-made-by-un-secretary-general-antonio-guterres-to-the-cop31-leaders-summit",
+   "summary": "Guterres afirma que a mudança climática avança mais rápido que a ação, que o excesso acima de 1,5°C é inevitável e que os planos nacionais atuais cortariam no máximo um terço do necessário, com aquecimento acima de 2,5°C. Propõe um \"Pacto de Justiça Climática\" com quatro pilares (transição justa dos fósseis, proteção dos vulneráveis, finanças adequadas e cooperação) e pede que países desenvolvidos liderem em finanças, impostos sobre lucros extraordinários do petróleo e mais apoio a perdas e danos. Anuncia que deixará o cargo no próximo ano.",
+   "summary_i18n": {
+    "en": "Guterres says climate change is accelerating faster than action, that an overshoot above 1.5°C is now unavoidable, and that current national plans would cut at most a third of the needed emissions, leaving warming above 2.5°C. He proposes a \"Climate Justice Compact\" with four pillars (a just transition from fossil fuels, protection of the vulnerable, adequate finance and cooperation) and calls for developed countries to lead on finance, windfall taxes on oil companies and more support for loss and damage. He says he will leave office next year.",
+    "es": "Guterres afirma que el cambio climático avanza más rápido que la acción, que superar 1,5 °C ya es inevitable y que los planes nacionales actuales reducirían como máximo un tercio de lo necesario, con un calentamiento superior a 2,5 °C. Propone un \"Pacto de Justicia Climática\" con cuatro pilares (transición justa de los combustibles fósiles, protección de los vulnerables, financiación adecuada y cooperación) y pide que los países desarrollados lideren en financiación, impuestos extraordinarios a las petroleras y más apoyo para pérdidas y daños. Anuncia que dejará el cargo el próximo año.",
+    "fr": "M. Guterres affirme que le changement climatique s'accélère plus vite que l'action, qu'un dépassement de 1,5 °C est désormais inévitable et que les plans nationaux actuels ne réduiraient qu'au plus un tiers des émissions nécessaires, avec un réchauffement supérieur à 2,5 °C. Il propose un « Pacte de justice climatique » à quatre piliers (transition juste hors des combustibles fossiles, protection des personnes vulnérables, financement adéquat et coopération) et demande que les pays développés mènent en matière de financement, des taxes sur les superprofits pétroliers et davantage de soutien aux pertes et préjudices. Il annonce qu'il quittera ses fonctions l'an prochain.",
+    "ru": "Гутерриш заявил, что изменение климата ускоряется быстрее, чем действия, что превышение 1,5°C теперь неизбежно, а действующие национальные планы обеспечат не более трети необходимого сокращения выбросов, и потепление превысит 2,5°C. Он предложил «Договор о климатической справедливости» с четырьмя опорами (справедливый переход от ископаемого топлива, защита уязвимых, достаточное финансирование и сотрудничество) и призвал развитые страны возглавить финансирование, ввести налоги на сверхприбыли нефтяных компаний и усилить поддержку в связи с потерями и ущербом. Он сообщил, что покинет пост в следующем году.",
+    "zh": "古特雷斯表示，气候变化的加速快于行动，超过1.5°C已不可避免，现有国家计划最多只能实现所需减排量的三分之一，升温将超过2.5°C。他提出包含四大支柱的“气候正义契约”（公正摆脱化石燃料、保护脆弱群体、充足融资以及合作），并呼吁发达国家在融资上发挥带头作用、对石油公司征收暴利税，并加大对损失与损害的支持。他表示将于明年卸任。",
+    "ar": "قال غوتيريش إن تغير المناخ يتسارع أسرع من العمل، وإن تجاوز 1.5 درجة مئوية أصبح حتمياً، وإن الخطط الوطنية الحالية ستخفض على الأكثر ثلث الانبعاثات اللازمة وتترك الاحترار فوق 2.5 درجة. واقترح «ميثاق العدالة المناخية» بأربع ركائز (انتقال عادل بعيداً عن الوقود الأحفوري وحماية الفئات الضعيفة وتمويل كافٍ والتعاون)، ودعا الدول المتقدمة إلى قيادة التمويل وفرض ضرائب على أرباح شركات النفط الاستثنائية وتقديم مزيد من الدعم للخسائر والأضرار. وأعلن أنه سيترك منصبه العام المقبل."
+   },
+   "tracks": [
+    "Finanças",
+    "Transição justa",
+    "TAFF e fósseis",
+    "Perdas e danos",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"Global emissions must fall around 6 per cent every year.\" — António Guterres",
+    "\"Developed countries must lead in delivering at least $300 billion a year by 2035.\" — António Guterres",
+    "\"In the last quarter alone, the nine largest oil companies pocketed $95 billion in profits.\" — António Guterres"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-11-guterres-electrification",
+   "institution": "UNFCCC",
+   "type": "notícia",
+   "title": "Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification",
+   "date": "2026-11-11",
+   "authors": "António Guterres",
+   "url": "https://unfccc.int/news/powering-the-future-un-secretary-general-remarks-to-the-high-level-dialogue-on-clean-energy",
+   "summary": "No diálogo de alto nível sobre eletrificação, Guterres saúda o Compromisso Global de Eletrificação 35 até 35 e pede que seja cumprido de forma limpa, lembrando que cerca de três quartos da população mundial vive em países importadores de combustíveis fósseis. Destaca cerca de 3.000 GW de projetos renováveis e de armazenamento à espera de conexão à rede, backlog que cresceu 60% em um ano, e pede que bancos de desenvolvimento assumam mais risco. Trilhas: eletrificação, finanças e mitigação.",
+   "summary_i18n": {
+    "en": "At the high-level dialogue on electrification, Guterres welcomes the 35-by-35 Global Electrification Pledge and asks that it be delivered cleanly, noting that about three-quarters of the world's people live in fossil-fuel-importing countries. He highlights around 3,000 GW of renewable and storage projects awaiting grid connection, a backlog that grew 60% in one year, and urges development banks to take on more risk. Tracks: electrification, finance and mitigation.",
+    "es": "En el diálogo de alto nivel sobre electrificación, Guterres acoge con satisfacción el Compromiso Mundial de Electrificación 35 para 2035 y pide que se cumpla de forma limpia, recordando que cerca de tres cuartas partes de la población mundial vive en países importadores de combustibles fósiles. Destaca unos 3.000 GW de proyectos renovables y de almacenamiento a la espera de conexión a la red, una acumulación que creció un 60 % en un año, e insta a los bancos de desarrollo a asumir más riesgo. Vías: electrificación, finanzas y mitigación.",
+    "fr": "Lors du dialogue de haut niveau sur l'électrification, M. Guterres salue l'engagement mondial d'électrification « 35 d'ici 2035 » et demande qu'il soit mis en œuvre de manière propre, rappelant qu'environ les trois quarts de la population mondiale vivent dans des pays importateurs de combustibles fossiles. Il souligne qu'environ 3 000 GW de projets renouvelables et de stockage attendent un raccordement au réseau, un retard qui a augmenté de 60 % en un an, et exhorte les banques de développement à prendre davantage de risques. Volets : électrification, financement et atténuation.",
+    "ru": "На диалоге высокого уровня по электрификации Гутерриш приветствовал Глобальное обязательство по электрификации «35 к 35» и призвал выполнять его чистым путём, отметив, что около трёх четвертей населения мира живёт в странах-импортёрах ископаемого топлива. Он подчеркнул, что около 3000 ГВт проектов в области ВИЭ и накопления ожидают подключения к сетям, а отставание выросло на 60% за год, и призвал банки развития брать на себя больше риска. Направления: электрификация, финансирование и смягчение последствий.",
+    "zh": "在电气化高级别对话中，古特雷斯欢迎“2035年前达到35%”全球电气化承诺，并呼吁以清洁方式落实，指出全球约四分之三的人口生活在化石燃料进口国。他强调约3000吉瓦的可再生能源和储能项目正等待并网，积压量一年内增长60%，并敦促开发银行承担更多风险。涉及议题：电气化、融资和减缓。",
+    "ar": "في الحوار رفيع المستوى حول الكهربة، رحّب غوتيريش بتعهد الكهربة العالمي «35 بحلول 35» ودعا إلى تنفيذه بطريقة نظيفة، مشيراً إلى أن نحو ثلاثة أرباع سكان العالم يعيشون في بلدان مستوردة للوقود الأحفوري. وأبرز أن نحو 3000 غيغاواط من مشاريع الطاقة المتجددة والتخزين تنتظر الربط بالشبكة، وأن هذا التراكم نما 60% في عام واحد، وحثّ بنوك التنمية على تحمّل مخاطر أكبر. المسارات: الكهربة والتمويل والتخفيف."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Finanças",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"Around 3,000 gigawatts of renewable and storage projects are well advanced, but waiting for grid connections.\" — António Guterres",
+    "\"Emerging and developing economies outside China receive only around one dollar in five invested in clean energy.\" — António Guterres"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "germanwatch-2026-11-11-ccpi-2027",
+   "institution": "Germanwatch",
+   "type": "release",
+   "title": "Global climate ranking: countries still off track, but electrification offers a major opportunity to accelerate the pace",
+   "date": "2026-11-11",
+   "authors": "Jan Burck, Niklas Höhne, Madlen Peter",
+   "url": "https://www.germanwatch.org/en/93633",
+   "summary": "Germanwatch e NewClimate Institute publicam o Índice de Desempenho em Mudança Climática (CCPI 2027): nenhum país faz o suficiente para o Acordo de Paris, então os três primeiros lugares ficam vazios. A Dinamarca lidera em 4º, a UE ocupa o 19º lugar, a maioria do G20 tem desempenho fraco e o Irã é último (68º). Os autores veem na eletrificação e nas renováveis o caminho para cortes mais rápidos, sobretudo entre os grandes emissores.",
+   "summary_i18n": {
+    "en": "Germanwatch and NewClimate Institute publish the Climate Change Performance Index (CCPI 2027): no country is doing enough to meet the Paris Agreement, so the top three places stay empty. Denmark leads in fourth place, the EU ranks 19th, most G20 countries perform poorly and Iran is last (68th). The authors see electrification and renewables as the route to faster cuts, especially among large emitters.",
+    "es": "Germanwatch y el NewClimate Institute publican el Índice de Desempeño del Cambio Climático (CCPI 2027): ningún país hace lo suficiente para cumplir el Acuerdo de París, por lo que los tres primeros puestos quedan vacíos. Dinamarca lidera en cuarto lugar, la UE ocupa el puesto 19, la mayoría del G20 tiene un desempeño deficiente e Irán queda último (68.º). Los autores ven en la electrificación y las energías renovables la vía para recortes más rápidos, sobre todo entre los grandes emisores.",
+    "fr": "Germanwatch et le NewClimate Institute publient l'Indice de performance en matière de changement climatique (CCPI 2027) : aucun pays n'en fait assez pour respecter l'Accord de Paris, les trois premières places restent donc vides. Le Danemark est en tête à la quatrième place, l'UE se classe 19e, la plupart des pays du G20 obtiennent de mauvais résultats et l'Iran est dernier (68e). Les auteurs voient dans l'électrification et les énergies renouvelables la voie vers des réductions plus rapides, surtout chez les grands émetteurs.",
+    "ru": "Germanwatch и NewClimate Institute опубликовали Индекс эффективности борьбы с изменением климата (CCPI 2027): ни одна страна не делает достаточно для выполнения Парижского соглашения, поэтому первые три места остаются пустыми. Дания возглавляет рейтинг на четвёртом месте, ЕС занимает 19-е, большинство стран «Группы двадцати» показывают слабые результаты, а Иран — последний (68-е). Авторы видят в электрификации и возобновляемых источниках путь к более быстрому сокращению выбросов, особенно у крупных эмитентов.",
+    "zh": "Germanwatch与NewClimate Institute发布《气候变化绩效指数》（CCPI 2027）：没有任何国家为实现《巴黎协定》做得足够多，因此前三名空缺。丹麦位列第四，欧盟排名第19，大多数二十国集团成员表现不佳，伊朗排名最后（第68）。作者认为电气化和可再生能源是加快减排的途径，尤其对大排放国而言。",
+    "ar": "نشرت جيرمانووتش ومعهد نيو كلايمت مؤشر أداء تغير المناخ (CCPI 2027): لا يفعل أي بلد ما يكفي للوفاء باتفاق باريس، ولذلك تبقى المراكز الثلاثة الأولى شاغرة. وتتصدر الدنمارك في المركز الرابع، ويحتل الاتحاد الأوروبي المركز 19، وتحقق معظم دول مجموعة العشرين أداءً ضعيفاً، وتأتي إيران في المركز الأخير (68). ويرى المؤلفون أن الكهربة والطاقة المتجددة هما السبيل إلى خفض أسرع للانبعاثات، ولا سيما لدى كبار المصدرين."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "\"the rate of electrification is already above the global average of just under 24 percent\" — Madlen Peter, Germanwatch",
+    "\"its members account for over 75% of global greenhouse gas (GHG) emissions\" — Germanwatch/NewClimate Institute, on the G20"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-germanwatch-org-en-press"
+  },
+  {
+   "id": "350org-2026-11-11-australia-cop31",
+   "institution": "350.org",
+   "type": "release",
+   "title": "Australia takes the world stage at COP31 – but fails to mention the transition away from fossil fuels",
+   "date": "2026-11-11",
+   "authors": "Kim Bryan",
+   "url": "https://350.org/press-release/australia-takes-the-world-stage-at-cop31-but-fails-to-mention-the-transition-away-from-fossil-fuels/",
+   "summary": "A 350.org critica o discurso do primeiro-ministro australiano Albanese na COP31 por não mencionar a transição para longe dos fósseis, enquanto Guterres e Lula pedem roteiros nacionais de transição. A organização lançou uma carta aberta e a 350 Australia pede um roteiro nacional de eliminação do carvão com prazo e AUD 11 bilhões em finanças climáticas internacionais em cinco anos. Trilhas: TAFF e fósseis, finanças, presidência e anfitrião.",
+   "summary_i18n": {
+    "en": "350.org criticises Australian Prime Minister Albanese's COP31 address for not mentioning the transition away from fossil fuels, while Guterres and Lula urge national transition roadmaps. The group launched an open letter, and 350 Australia calls for a national coal phase-out roadmap with a deadline and AUD 11 billion in international climate finance over five years. Tracks: TAFF and fossil fuels, finance, presidency and host.",
+    "es": "350.org critica el discurso del primer ministro australiano Albanese en la COP31 por no mencionar la transición para abandonar los combustibles fósiles, mientras Guterres y Lula piden hojas de ruta nacionales de transición. La organización lanzó una carta abierta y 350 Australia pide una hoja de ruta nacional de eliminación del carbón con plazo y 11.000 millones de dólares australianos en financiación climática internacional en cinco años. Vías: TAFF y combustibles fósiles, financiación, presidencia y anfitrión.",
+    "fr": "350.org critique le discours du Premier ministre australien Albanese à la COP31, qui n'a pas mentionné la transition hors des combustibles fossiles, alors que M. Guterres et M. Lula appellent à des feuilles de route nationales de transition. L'organisation a lancé une lettre ouverte et 350 Australia demande une feuille de route nationale de sortie du charbon assortie d'une échéance et 11 milliards de dollars australiens de financement climatique international sur cinq ans. Volets : TAFF et combustibles fossiles, financement, présidence et pays hôte.",
+    "ru": "350.org критикует выступление премьер-министра Австралии Олбанезе на COP31 за то, что в нём не упомянут переход от ископаемого топлива, в то время как Гутерриш и Лула призывают к национальным дорожным картам перехода. Организация опубликовала открытое письмо, а 350 Australia требует национальную дорожную карту поэтапного отказа от угля с конкретным сроком и 11 млрд австралийских долларов международного климатического финансирования за пять лет. Направления: TAFF и ископаемое топливо, финансирование, председательство и принимающая сторона.",
+    "zh": "350.org批评澳大利亚总理阿尔巴尼斯在COP31的发言未提及摆脱化石燃料的转型，而古特雷斯和卢拉则呼吁制定国家转型路线图。该组织发起公开信，350 Australia要求制定设有期限的国家逐步淘汰煤炭路线图，并在五年内提供110亿澳元国际气候资金。涉及议题：TAFF与化石燃料、融资、主席国与东道国。",
+    "ar": "تنتقد منظمة 350.org خطاب رئيس الوزراء الأسترالي ألبانيزي في مؤتمر الأطراف الحادي والثلاثين لأنه لم يذكر التحول بعيداً عن الوقود الأحفوري، في حين يدعو غوتيريش ولولا إلى خرائط طريق وطنية للتحول. وأطلقت المنظمة رسالة مفتوحة، وتطالب 350 أستراليا بخريطة طريق وطنية للتخلص التدريجي من الفحم بموعد نهائي وبتقديم 11 مليار دولار أسترالي من التمويل المناخي الدولي على مدى خمس سنوات. المسارات: TAFF والوقود الأحفوري والتمويل والرئاسة والبلد المضيف."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"Fossil fuels must go the way of the dinosaurs.\" — António Guterres (citado pela 350.org)",
+    "\"Australia cannot call itself a climate leader while staying silent on the coal, oil and gas driving this crisis.\" — Fenton Lutunatabua, 350.org"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "wmo-2026-11-11-leaders-summit",
+   "institution": "WMO",
+   "type": "notícia",
+   "title": "COP31 Leaders' Summit: Turn commitments into action",
+   "date": "2026-11-11",
+   "authors": "WMO",
+   "url": "https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action",
+   "summary": "Na Cúpula de Líderes da COP31, a secretária-geral da OMM Celeste Saulo apresentou a atualização do Estado do Clima: o desequilíbrio energético da Terra é o maior desde 1960 e a temperatura de janeiro a setembro de 2026 ficou cerca de 1,47°C acima do nível pré-industrial. Os sistemas de alerta precoce mais que dobraram em uma década e onde são fortes as mortes por desastres são seis vezes menores. Guterres pediu cobertura universal de alerta e finanças adequadas; Stiell reiterou a meta de triplicar o financiamento de adaptação.",
+   "summary_i18n": {
+    "en": "At the COP31 Leaders' Summit, WMO Secretary-General Celeste Saulo presented the State of the Climate Update: Earth's energy imbalance is the highest since 1960 and January–September 2026 temperature was about 1.47°C above pre-industrial levels. Early warning systems have more than doubled in a decade, and where they are strong, disaster deaths are six times lower. Guterres called for universal early warning coverage and adequate finance; Stiell reiterated the aim of tripling adaptation finance.",
+    "es": "En la Cumbre de Líderes de la COP31, la secretaria general de la OMM, Celeste Saulo, presentó la actualización sobre el estado del clima: el desequilibrio energético de la Tierra es el mayor desde 1960 y la temperatura de enero a septiembre de 2026 fue unos 1,47 °C superior a la preindustrial. Los sistemas de alerta temprana se han más que duplicado en una década y donde son sólidos las muertes por desastres son seis veces menores. Guterres pidió cobertura universal de alerta temprana y financiación adecuada; Stiell reiteró el objetivo de triplicar la financiación para la adaptación.",
+    "fr": "Lors du Sommet des dirigeants de la COP31, la Secrétaire générale de l'OMM, Celeste Saulo, a présenté la mise à jour sur l'état du climat : le déséquilibre énergétique de la Terre est le plus élevé depuis 1960 et la température de janvier à septembre 2026 était d'environ 1,47 °C au-dessus du niveau préindustriel. Les systèmes d'alerte précoce ont plus que doublé en dix ans et, là où ils sont solides, les décès dus aux catastrophes sont six fois moins nombreux. M. Guterres a appelé à une couverture universelle de l'alerte précoce et à un financement adéquat ; M. Stiell a rappelé l'objectif de tripler le financement de l'adaptation.",
+    "ru": "На Саммите лидеров COP31 Генеральный секретарь ВМО Селесте Сауло представила обновлённые данные о состоянии климата: энергетический дисбаланс Земли — самый высокий с 1960 года, а температура в январе–сентябре 2026 года была примерно на 1,47°C выше доиндустриального уровня. Системы раннего предупреждения за десять лет более чем удвоились, а там, где они надёжны, смертность от бедствий в шесть раз ниже. Гутерриш призвал к всеобщему охвату системами раннего предупреждения и достаточному финансированию; Стилл вновь подтвердил цель утроить финансирование адаптации.",
+    "zh": "在COP31领导人峰会上，世界气象组织秘书长塞莱斯特·绍洛介绍了气候状况更新：地球能量失衡达到1960年以来最高水平，2026年1至9月全球平均气温比工业化前高出约1.47°C。预警系统十年来增加了一倍多，预警体系健全的地方灾害死亡人数低六倍。古特雷斯呼吁实现预警全覆盖并提供充足资金；斯蒂尔重申将适应融资增至三倍的目标。",
+    "ar": "في قمة قادة مؤتمر الأطراف الحادي والثلاثين، قدّمت الأمينة العامة للمنظمة العالمية للأرصاد الجوية سيليست سأولو التحديث عن حالة المناخ: اختلال توازن الطاقة في الأرض هو الأعلى منذ 1960، وكانت درجة الحرارة من كانون الثاني/يناير إلى أيلول/سبتمبر 2026 أعلى بنحو 1.47 درجة مئوية من مستوى ما قبل الثورة الصناعية. وقد تضاعفت نظم الإنذار المبكر أكثر من مرتين في عقد واحد، وحيثما تكون قوية تقل الوفيات الناجمة عن الكوارث ست مرات. ودعا غوتيريش إلى تغطية شاملة بالإنذار المبكر وتمويل كافٍ، وكرّر ستيل هدف مضاعفة تمويل التكيف ثلاث مرات."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"Where these systems are strong, deaths from disasters are six times lower,\" — Celeste Saulo, WMO",
+    "\"From January to September 2026, the global average temperature was about 1.47°C above pre-industrial levels.\" — Celeste Saulo, WMO"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-wmo-int-news"
+  },
+  {
+   "id": "icc-2026-11-11-competition-law-islands",
+   "institution": "ICC",
+   "type": "briefing",
+   "title": "Competition law and the climate transition in small and insular economies",
+   "date": "2026-11-11",
+   "authors": "ICC / ISLE",
+   "url": "https://iccwbo.org/news-publications/news/competition-law-and-the-climate-transition-in-small-and-insular-economies/",
+   "summary": "Documento de política da ICC e do Institute for Small Markets in Law and Economics (ISLE) examina como o direito da concorrência pode apoiar a ação climática em economias pequenas e insulares, onde mercados estreitos dificultam o investimento sem cooperação ou consolidação. Propõe seis princípios e uma lista de verificação prática para autoridades e empresas. Toca as trilhas de finanças e adaptação.",
+   "summary_i18n": {
+    "en": "A policy paper by ICC and the Institute for Small Markets in Law and Economics (ISLE) examines how competition law can support climate action in small and island economies, where narrow markets can make climate investment hard without cooperation or consolidation. It proposes six principles and a practical checklist for authorities and businesses. It bears on the finance and adaptation tracks.",
+    "es": "Un documento de política de la ICC y del Institute for Small Markets in Law and Economics (ISLE) examina cómo el derecho de la competencia puede apoyar la acción climática en economías pequeñas e insulares, donde los mercados reducidos dificultan la inversión sin cooperación o consolidación. Propone seis principios y una lista de verificación práctica para autoridades y empresas. Se relaciona con las vías de financiación y adaptación.",
+    "fr": "Un document de politique de la CCI et de l'Institute for Small Markets in Law and Economics (ISLE) examine comment le droit de la concurrence peut soutenir l'action climatique dans les petites économies et les économies insulaires, où l'étroitesse des marchés rend l'investissement difficile sans coopération ni consolidation. Il propose six principes et une liste de contrôle pratique pour les autorités et les entreprises. Il concerne les volets financement et adaptation.",
+    "ru": "В политическом документе МТП и Института малых рынков в праве и экономике (ISLE) рассматривается, как конкурентное право может поддерживать климатические действия в малых и островных экономиках, где узкие рынки затрудняют инвестиции без сотрудничества или консолидации. Предлагаются шесть принципов и практический контрольный перечень для органов власти и компаний. Документ относится к направлениям финансирования и адаптации.",
+    "zh": "国际商会与法律与经济学小型市场研究所（ISLE）的一份政策文件探讨了竞争法如何支持小型经济体和岛屿经济体的气候行动，这些经济体市场狭小，缺乏合作或整合就难以开展气候投资。文件为主管部门和企业提出了六项原则和一份实用清单。涉及融资和适应议题。",
+    "ar": "تبحث ورقة سياسات صادرة عن غرفة التجارة الدولية ومعهد الأسواق الصغيرة في القانون والاقتصاد (ISLE) في كيفية دعم قانون المنافسة للعمل المناخي في الاقتصادات الصغيرة والجزرية، حيث تجعل الأسواق الضيقة الاستثمار المناخي صعباً دون تعاون أو تكتل. وتقترح ستة مبادئ وقائمة مراجعة عملية للسلطات والشركات. وهي ترتبط بمساري التمويل والتكيف."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "\"six principles and a practical checklist\" — ICC and ISLE"
+   ],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "unfccc-2026-11-11-bmr-concept-note",
+   "institution": "UNFCCC",
+   "type": "briefing",
+   "title": "Belém Mission to 1.5-Concept note for the high-level event at COP31",
+   "date": "2026-11-11",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/663936",
+   "summary": "Nota conceitual do evento de alto nível da Missão de Belém para 1,5°C na COP31, publicada no portal de documentos da UNFCCC. O texto público disponível na listagem identifica apenas o evento; o conteúdo detalhado deve ser consultado no documento. Toca as trilhas de mitigação e presidência.",
+   "summary_i18n": {
+    "en": "Concept note for the high-level event on the Belém Mission to 1.5°C at COP31, published on the UNFCCC documents portal. The public listing identifies only the event; detailed content should be consulted in the document itself. It bears on the mitigation and presidency tracks.",
+    "es": "Nota conceptual del evento de alto nivel sobre la Misión de Belém hacia 1,5 °C en la COP31, publicada en el portal de documentos de la CMNUCC. El listado público solo identifica el evento; el contenido detallado debe consultarse en el propio documento. Se relaciona con las vías de mitigación y presidencia.",
+    "fr": "Note conceptuelle de l'événement de haut niveau sur la Mission de Belém vers 1,5 °C à la COP31, publiée sur le portail des documents de la CCNUCC. La liste publique n'identifie que l'événement ; le contenu détaillé doit être consulté dans le document lui-même. Elle concerne les volets atténuation et présidence.",
+    "ru": "Концептуальная записка к мероприятию высокого уровня по Белемской миссии «к 1,5°C» на COP31, опубликованная на портале документов РКИК ООН. В публичном списке указано лишь название мероприятия; подробное содержание следует смотреть в самом документе. Относится к направлениям смягчения последствий и председательства.",
+    "zh": "关于COP31“贝伦1.5°C使命”高级别活动的概念文件，已发布在《联合国气候变化框架公约》文件门户上。公开列表仅标明活动名称，详细内容需查阅文件本身。涉及减缓和主席国议题。",
+    "ar": "مذكرة مفاهيمية للفعالية رفيعة المستوى حول «مهمة بيليم نحو 1.5 درجة» في مؤتمر الأطراف الحادي والثلاثين، منشورة على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. ولا تحدد القائمة العامة سوى الفعالية، ويجب الرجوع إلى الوثيقة نفسها للاطلاع على التفاصيل. وهي ترتبط بمساري التخفيف والرئاسة."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T00:16:40-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "instagram-muratkurum-20261111-assinatura-erdogan",
    "platform": "instagram",
