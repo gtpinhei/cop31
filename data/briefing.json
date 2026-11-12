@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T11:58+03:00",
+ "generated_at": "2026-11-12T12:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-12T00:16:40-03:00",
-  "social_round": "2026-11-12T05:50:00-03:00",
+  "web_round": "2026-11-12T06:30:00-03:00",
+  "social_round": "2026-11-12T06:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 153,
-  "stories": 128,
+  "candidates": 160,
+  "stories": 134,
   "top": 8,
   "publishers": [
    "350.org",
@@ -59,27 +59,17 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "Sem datas na listagem"
-   },
-   {
-    "publisher": "Instituto Talanoa",
-    "outcome": "blocked",
-    "note": "budget"
+    "note": "sem datas na listagem"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "budget"
-   },
-   {
-    "publisher": "Arab Group (UNFCCC submissions)",
-    "outcome": "blocked",
-    "note": "budget"
+    "note": "sem listagem datada recente"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error"
    }
   ]
  },
@@ -131,39 +121,103 @@
     ]
    },
    {
-    "id": "st-unfccc-2026-11-11-stiell-leaders",
-    "section": "negotiations",
+    "id": "st-climatehome-2026-11-11-bulletin-day3",
+    "section": "action",
     "score": 0.8,
     "lead": {
-     "id": "unfccc-2026-11-11-stiell-leaders",
-     "title": "UN Climate Chief to world leaders in Antalya: 'The political costs of fossil fuel dependency are unforgiving. Climate action can help relieve the pressure'",
-     "url": "https://unfccc.int/news/un-climate-chief-to-world-leaders-in-antalya-the-political-costs-of-fossil-fuel-dependency-are",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "Simon Stiell",
+     "id": "climatehome-2026-11-11-bulletin-day3",
+     "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
+     "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
      "published": "2026-11-11",
      "language": "en",
      "tracks": [
-      "Finanças",
-      "Adaptação",
+      "Presidência e anfitrião",
       "Eletrificação",
-      "Presidência e anfitrião"
+      "Finanças",
+      "Florestas"
      ],
-     "content_type": "official",
+     "content_type": "reporting",
      "kind": "publication",
-     "description": "Na abertura do segmento de alto nível da COP31, Stiell diz que a cooperação reduziu o aquecimento projetado de bem mais de 4°C para cerca de 2,6°C, mas que o avanço segue lento e desigual. Liga a volatilidade energética e os desastres à inflação e à pressão fiscal e apresenta eletrificação e resiliência como alívio.",
-     "collected_at": "2026-11-12T00:16:40-03:00",
+     "description": "Cerca de 40 líderes falaram na Cúpula de Líderes da COP31 em Antalya, enquanto restrições de transporte deixaram delegados comuns do lado de fora. Guterres propôs um \"pacto de justiça climática\" e a promessa turca \"35 by 35\" de eletrificação recebeu primeiras adesões com ressalvas;",
+     "collected_at": "2026-11-12T06:30:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "At the opening of the COP31 High-Level Segment, Stiell says cooperation has cut projected warming from well over 4°C to about 2.6°C, but progress remains slow and uneven. He links energy volatility and disasters to inflation and fiscal strain and presents electrification and resilience as relief.",
-      "es": "En la apertura del segmento de alto nivel de la COP31, Stiell afirma que la cooperación ha reducido el calentamiento proyectado de bastante más de 4 °C a unos 2,6 °C, pero que el progreso sigue siendo lento y desigual.",
-      "fr": "À l'ouverture du segment de haut niveau de la COP31, M. Stiell indique que la coopération a ramené le réchauffement projeté de bien plus de 4 °C à environ 2,6 °C, mais que les progrès restent lents et inégaux.",
-      "ru": "На открытии сегмента высокого уровня COP31 Стилл заявил, что сотрудничество снизило прогнозируемое потепление с намного более 4°C до примерно 2,6°C, но прогресс остаётся медленным и неравномерным.",
-      "zh": "在COP31高级别会议开幕时，斯蒂尔表示，合作已将预测升温从远超4°C降至约2.6°C，但进展仍然缓慢且不均衡。他将能源市场波动和气候灾害与通胀和财政压力联系起来，并将电气化和韧性视为缓解途径。其优先事项包括经济电气化、将适应融资增至三倍，以及在不重开既有协议的前提下改善融资可及性。",
-      "ar": "في افتتاح الجزء رفيع المستوى من مؤتمر الأطراف الحادي والثلاثين، قال ستيل إن التعاون خفّض الاحترار المتوقع من أكثر بكثير من 4 درجات مئوية إلى نحو 2.6 درجة، لكن التقدم لا يزال بطيئاً وغير متكافئ. وربط تقلب أسواق الطاقة والكوارث بالتضخم والضغط على الميزانيات، وقدّم الكهربة والقدرة على الصمود كوسيلة للتخفيف."
+      "en": "Around 40 leaders addressed the COP31 Leaders Summit in Antalya while transport restrictions left ordinary delegates outside. Guterres proposed a \"climate justice compact\" and the Turkish \"35 by 35\" electrification pledge drew first backers with caveats;",
+      "es": "Unos 40 líderes intervinieron en la Cumbre de Líderes de la COP31 en Antalya, mientras las restricciones de transporte dejaban fuera a los delegados comunes. Guterres propuso un \"pacto de justicia climática\" y la promesa turca \"35 by 35\" sobre electrificación obtuvo los primeros apoyos con salvedades;",
+      "fr": "Une quarantaine de dirigeants ont pris la parole au Sommet des dirigeants de la COP31 à Antalya, tandis que des restrictions de transport laissaient les délégués ordinaires à l'extérieur. M.",
+      "ru": "Около 40 лидеров выступили на Саммите лидеров COP31 в Анталье, пока из-за транспортных ограничений обычные делегаты оставались снаружи. Гутерриш предложил «договор о климатической справедливости», а турецкая инициатива «35 by 35» по электрификации получила первые поддержки с оговорками;",
+      "zh": "约40位领导人在安塔利亚的COP31领导人峰会上发言，而交通限制使普通代表被挡在场外。古特雷斯提出“气候正义契约”，土耳其的电气化“35 by 35”承诺获得首批支持但附带保留；卢拉的森林基金承诺额约79亿美元，挪威将30亿美元与年底前再动员100亿美元挂钩。涉及议题：主席国、电气化、融资和森林。",
+      "ar": "ألقى نحو 40 زعيماً كلمات في قمة قادة COP31 في أنطاليا بينما حالت قيود النقل دون وصول المندوبين العاديين. واقترح غوتيريش «ميثاق العدالة المناخية»، ولقيت المبادرة التركية «35 by 35» للكهربة أولى التأييدات مع تحفظات؛ ويبلغ إجمالي تعهدات صندوق الغابات الذي أطلقه لولا نحو 7.9 مليار دولار، وربطت النرويج 3 مليارات دولار…"
      },
      "description_i18n_method": "machine"
     },
     "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-11-guterres-early-warnings",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-11-guterres-early-warnings",
+     "title": "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+     "url": "https://unfccc.int/news/un-secretary-general-s-remarks-to-the-high-level-event-early-warnings-for-all-delivering-on-our",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "António Guterres",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Discurso de Guterres em evento de alto nível da COP31 sobre a iniciativa Alertas Precoces para Todos, que busca proteger toda a população com sistemas de alerta. Só o título e a listagem estão visíveis; o texto não foi lido. Incide sobre adaptação e resiliência.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Remarks by Guterres at a COP31 high-level event on the Early Warnings for All initiative, which aims to protect everyone with early-warning systems. Only the title and listing were visible; the text was not read. It bears on adaptation and resilience.",
+      "es": "Discurso de Guterres en un evento de alto nivel de la COP31 sobre la iniciativa Alertas Tempranas para Todos, que busca proteger a todas las personas con sistemas de alerta temprana. Solo eran visibles el título y el listado; no se leyó el texto. Incide en la adaptación y la resiliencia.",
+      "fr": "Allocution de M. Guterres lors d'un événement de haut niveau de la COP31 sur l'initiative Alertes précoces pour tous, qui vise à protéger chacun grâce à des systèmes d'alerte précoce. Seuls le titre et la liste étaient visibles ; le texte n'a pas été lu. Cela concerne l'adaptation et la résilience.",
+      "ru": "Выступление Гутерриша на мероприятии высокого уровня COP31 по инициативе «Раннее предупреждение для всех», цель которой — защитить всех с помощью систем раннего оповещения. Были видны только заголовок и список; текст не читался. Относится к адаптации и устойчивости.",
+      "zh": "古特雷斯在COP31高级别活动上就“人人享有预警”倡议发表讲话，该倡议旨在通过预警系统保护所有人。仅可见标题和列表，未读取正文。涉及适应和韧性议题。",
+      "ar": "كلمة غوتيريش في حدث رفيع المستوى ضمن COP31 حول مبادرة الإنذار المبكر للجميع، التي تهدف إلى حماية الجميع عبر أنظمة الإنذار المبكر. كان العنوان والقائمة فقط ظاهرين ولم يُقرأ النص. وتتصل بالتكيف والقدرة على الصمود."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "unfccc-2026-11-11-guterres-zero-waste",
+      "title": "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane",
+      "url": "https://unfccc.int/news/un-secretary-general-s-remarks-to-the-leaders-roundtable-zero-waste-circularity-and-methane",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "António Guterres",
+      "published": "2026-11-11",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Discurso de Guterres à mesa-redonda de líderes sobre resíduo zero, circularidade e metano, um dos temas da Cúpula de Líderes da COP31. Só o título e a listagem estão visíveis; o texto não foi lido. Incide sobre mitigação (metano) e a Agenda de Ação.",
+      "collected_at": "2026-11-12T06:30:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Remarks by Guterres to the leaders' roundtable on zero waste, circularity and methane, one of the themes of the COP31 Leaders' Summit. Only the title and listing were visible; the text was not read. It bears on mitigation (methane) and the Action Agenda.",
+       "es": "Discurso de Guterres en la mesa redonda de líderes sobre residuo cero, circularidad y metano, uno de los temas de la Cumbre de Líderes de la COP31. Solo eran visibles el título y el listado; no se leyó el texto. Incide en la mitigación (metano) y la Agenda de Acción.",
+       "fr": "Allocution de M. Guterres à la table ronde des dirigeants sur le zéro déchet, la circularité et le méthane, l'un des thèmes du Sommet des dirigeants de la COP31. Seuls le titre et la liste étaient visibles ; le texte n'a pas été lu. Cela concerne l'atténuation (méthane) et le Programme d'action.",
+       "ru": "Выступление Гутерриша на круглом столе лидеров по теме «ноль отходов, цикличность и метан» — одной из тем Саммита лидеров COP31. Были видны только заголовок и список; текст не читался. Относится к смягчению (метан) и Программе действий.",
+       "zh": "古特雷斯在领导人圆桌会议上就零废弃、循环利用和甲烷发表讲话，这是COP31领导人峰会的主题之一。仅可见标题和列表，未读取正文。涉及减缓（甲烷）和行动议程。",
+       "ar": "كلمة غوتيريش في مائدة القادة المستديرة حول صفر نفايات والدورية والميثان، وهي من محاور قمة قادة COP31. كان العنوان والقائمة فقط ظاهرين ولم يُقرأ النص. وتتصل بالتخفيف (الميثان) وخطة العمل."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
     "publishers": [
      "UNFCCC / Simon Stiell"
     ]
@@ -280,6 +334,41 @@
     ]
    },
    {
+    "id": "st-carbonbrief-2026-11-11-pledges-fall",
+    "section": "negotiations",
+    "score": 0.612,
+    "lead": {
+     "id": "carbonbrief-2026-11-11-pledges-fall",
+     "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+     "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+     "publisher": "Carbon Brief",
+     "author": "Josh Gabbatiss",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Finanças"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Análise da Carbon Brief mostra que as novas promessas públicas de financiamento climático dos países desenvolvidos caíram cerca de 70% em relação aos compromissos anteriores.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Carbon Brief analysis finds that new public climate-finance pledges from developed countries are about 70% lower than earlier commitments. Most multi-year pledges expired in 2025, the US has withdrawn from international climate efforts, and only five countries have announced new multi-year pledges, including the UK.",
+      "es": "Un análisis de Carbon Brief muestra que las nuevas promesas públicas de financiación climática de los países desarrollados son alrededor de un 70% inferiores a los compromisos anteriores.",
+      "fr": "Une analyse de Carbon Brief montre que les nouvelles promesses publiques de financement climatique des pays développés sont inférieures d'environ 70 % aux engagements précédents.",
+      "ru": "Анализ Carbon Brief показывает, что новые государственные обязательства развитых стран по климатическому финансированию примерно на 70% ниже прежних. Большинство многолетних обязательств истекло в 2025 году, США вышли из международных климатических усилий, и лишь пять стран, включая Великобританию, объявили новые…",
+      "zh": "Carbon Brief的分析显示，发达国家新的公共气候融资承诺比此前的承诺低约70%。大多数多年期承诺已于2025年到期，美国已退出国际气候行动，只有包括英国在内的五个国家宣布了新的多年期承诺。该分析涉及融资议题及围绕NCQG的压力。",
+      "ar": "يُظهر تحليل لـ Carbon Brief أن التعهدات العامة الجديدة للبلدان المتقدمة بشأن تمويل المناخ أقل بنحو 70% من التعهدات السابقة. فقد انتهت صلاحية معظم التعهدات متعددة السنوات في عام 2025، وانسحبت الولايات المتحدة من العمل المناخي الدولي، ولم تعلن سوى خمس دول، بينها المملكة المتحدة، تعهدات جديدة متعددة السنوات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Carbon Brief"
+    ]
+   },
+   {
     "id": "st-can-international-2026-11-11-jtm-700orgs",
     "section": "civil",
     "score": 0.6,
@@ -314,109 +403,47 @@
     "publishers": [
      "CAN International"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-germanwatch-2026-11-11-ccpi-2027",
+    "id": "st-unfccc-2026-11-11-stiell-leaders",
     "section": "negotiations",
-    "score": 0.54,
+    "score": 0.8,
     "lead": {
-     "id": "germanwatch-2026-11-11-ccpi-2027",
-     "title": "Global climate ranking: countries still off track, but electrification offers a major opportunity to accelerate the pace",
-     "url": "https://www.germanwatch.org/en/93633",
-     "publisher": "Germanwatch",
-     "author": "Jan Burck, Niklas Höhne, Madlen Peter",
+     "id": "unfccc-2026-11-11-stiell-leaders",
+     "title": "UN Climate Chief to world leaders in Antalya: 'The political costs of fossil fuel dependency are unforgiving. Climate action can help relieve the pressure'",
+     "url": "https://unfccc.int/news/un-climate-chief-to-world-leaders-in-antalya-the-political-costs-of-fossil-fuel-dependency-are",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
      "published": "2026-11-11",
      "language": "en",
      "tracks": [
-      "Mitigação e MWP",
-      "Eletrificação"
+      "Finanças",
+      "Adaptação",
+      "Eletrificação",
+      "Presidência e anfitrião"
      ],
-     "content_type": "analysis",
+     "content_type": "official",
      "kind": "publication",
-     "description": "Germanwatch e NewClimate Institute publicam o Índice de Desempenho em Mudança Climática (CCPI 2027): nenhum país faz o suficiente para o Acordo de Paris, então os três primeiros lugares ficam vazios. A Dinamarca lidera em 4º, a UE ocupa o 19º lugar, a maioria do G20 tem desempenho fraco e o Irã é último (68º).",
+     "description": "Na abertura do segmento de alto nível da COP31, Stiell diz que a cooperação reduziu o aquecimento projetado de bem mais de 4°C para cerca de 2,6°C, mas que o avanço segue lento e desigual. Liga a volatilidade energética e os desastres à inflação e à pressão fiscal e apresenta eletrificação e resiliência como alívio.",
      "collected_at": "2026-11-12T00:16:40-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Germanwatch and NewClimate Institute publish the Climate Change Performance Index (CCPI 2027): no country is doing enough to meet the Paris Agreement, so the top three places stay empty. Denmark leads in fourth place, the EU ranks 19th, most G20 countries perform poorly and Iran is last (68th).",
-      "es": "Germanwatch y el NewClimate Institute publican el Índice de Desempeño del Cambio Climático (CCPI 2027): ningún país hace lo suficiente para cumplir el Acuerdo de París, por lo que los tres primeros puestos quedan vacíos.",
-      "fr": "Germanwatch et le NewClimate Institute publient l'Indice de performance en matière de changement climatique (CCPI 2027) : aucun pays n'en fait assez pour respecter l'Accord de Paris, les trois premières places restent donc vides.",
-      "ru": "Germanwatch и NewClimate Institute опубликовали Индекс эффективности борьбы с изменением климата (CCPI 2027): ни одна страна не делает достаточно для выполнения Парижского соглашения, поэтому первые три места остаются пустыми.",
-      "zh": "Germanwatch与NewClimate Institute发布《气候变化绩效指数》（CCPI 2027）：没有任何国家为实现《巴黎协定》做得足够多，因此前三名空缺。丹麦位列第四，欧盟排名第19，大多数二十国集团成员表现不佳，伊朗排名最后（第68）。作者认为电气化和可再生能源是加快减排的途径，尤其对大排放国而言。",
-      "ar": "نشرت جيرمانووتش ومعهد نيو كلايمت مؤشر أداء تغير المناخ (CCPI 2027): لا يفعل أي بلد ما يكفي للوفاء باتفاق باريس، ولذلك تبقى المراكز الثلاثة الأولى شاغرة. وتتصدر الدنمارك في المركز الرابع، ويحتل الاتحاد الأوروبي المركز 19، وتحقق معظم دول مجموعة العشرين أداءً ضعيفاً، وتأتي إيران في المركز الأخير (68)."
+      "en": "At the opening of the COP31 High-Level Segment, Stiell says cooperation has cut projected warming from well over 4°C to about 2.6°C, but progress remains slow and uneven. He links energy volatility and disasters to inflation and fiscal strain and presents electrification and resilience as relief.",
+      "es": "En la apertura del segmento de alto nivel de la COP31, Stiell afirma que la cooperación ha reducido el calentamiento proyectado de bastante más de 4 °C a unos 2,6 °C, pero que el progreso sigue siendo lento y desigual.",
+      "fr": "À l'ouverture du segment de haut niveau de la COP31, M. Stiell indique que la coopération a ramené le réchauffement projeté de bien plus de 4 °C à environ 2,6 °C, mais que les progrès restent lents et inégaux.",
+      "ru": "На открытии сегмента высокого уровня COP31 Стилл заявил, что сотрудничество снизило прогнозируемое потепление с намного более 4°C до примерно 2,6°C, но прогресс остаётся медленным и неравномерным.",
+      "zh": "在COP31高级别会议开幕时，斯蒂尔表示，合作已将预测升温从远超4°C降至约2.6°C，但进展仍然缓慢且不均衡。他将能源市场波动和气候灾害与通胀和财政压力联系起来，并将电气化和韧性视为缓解途径。其优先事项包括经济电气化、将适应融资增至三倍，以及在不重开既有协议的前提下改善融资可及性。",
+      "ar": "في افتتاح الجزء رفيع المستوى من مؤتمر الأطراف الحادي والثلاثين، قال ستيل إن التعاون خفّض الاحترار المتوقع من أكثر بكثير من 4 درجات مئوية إلى نحو 2.6 درجة، لكن التقدم لا يزال بطيئاً وغير متكافئ. وربط تقلب أسواق الطاقة والكوارث بالتضخم والضغط على الميزانيات، وقدّم الكهربة والقدرة على الصمود كوسيلة للتخفيف."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "Germanwatch"
+     "UNFCCC / Simon Stiell"
     ]
    },
-   {
-    "id": "st-wmo-2026-11-11-leaders-summit",
-    "section": "negotiations",
-    "score": 0.51,
-    "lead": {
-     "id": "wmo-2026-11-11-leaders-summit",
-     "title": "COP31 Leaders' Summit: Turn commitments into action",
-     "url": "https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action",
-     "publisher": "WMO",
-     "author": "WMO",
-     "published": "2026-11-11",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Na Cúpula de Líderes da COP31, a secretária-geral da OMM Celeste Saulo apresentou a atualização do Estado do Clima: o desequilíbrio energético da Terra é o maior desde 1960 e a temperatura de janeiro a setembro de 2026 ficou cerca de 1,47°C acima do nível pré-industrial.",
-     "collected_at": "2026-11-12T00:16:40-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At the COP31 Leaders' Summit, WMO Secretary-General Celeste Saulo presented the State of the Climate Update: Earth's energy imbalance is the highest since 1960 and January–September 2026 temperature was about 1.47°C above pre-industrial levels.",
-      "es": "En la Cumbre de Líderes de la COP31, la secretaria general de la OMM, Celeste Saulo, presentó la actualización sobre el estado del clima: el desequilibrio energético de la Tierra es el mayor desde 1960 y la temperatura de enero a septiembre de 2026 fue unos 1,47 °C superior a la preindustrial.",
-      "fr": "Lors du Sommet des dirigeants de la COP31, la Secrétaire générale de l'OMM, Celeste Saulo, a présenté la mise à jour sur l'état du climat : le déséquilibre énergétique de la Terre est le plus élevé depuis 1960 et la température de janvier à septembre 2026 était d'environ 1,47 °C au-dessus du niveau préindustriel.",
-      "ru": "На Саммите лидеров COP31 Генеральный секретарь ВМО Селесте Сауло представила обновлённые данные о состоянии климата: энергетический дисбаланс Земли — самый высокий с 1960 года, а температура в январе–сентябре 2026 года была примерно на 1,47°C выше доиндустриального уровня.",
-      "zh": "在COP31领导人峰会上，世界气象组织秘书长塞莱斯特·绍洛介绍了气候状况更新：地球能量失衡达到1960年以来最高水平，2026年1至9月全球平均气温比工业化前高出约1.47°C。预警系统十年来增加了一倍多，预警体系健全的地方灾害死亡人数低六倍。古特雷斯呼吁实现预警全覆盖并提供充足资金；斯蒂尔重申将适应融资增至三倍的目标。",
-      "ar": "في قمة قادة مؤتمر الأطراف الحادي والثلاثين، قدّمت الأمينة العامة للمنظمة العالمية للأرصاد الجوية سيليست سأولو التحديث عن حالة المناخ: اختلال توازن الطاقة في الأرض هو الأعلى منذ 1960، وكانت درجة الحرارة من كانون الثاني/يناير إلى أيلول/سبتمبر 2026 أعلى بنحو 1.47 درجة مئوية من مستوى ما قبل الثورة الصناعية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "wmo-2026-11-09-state-of-climate-2026",
-      "title": "State of the climate in 2026 gives new meaning to phrase \"off the charts\"",
-      "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts",
-      "publisher": "WMO",
-      "author": "WMO",
-      "published": "2026-11-09",
-      "language": "en",
-      "tracks": [
-       "GST2 e IPCC",
-       "Adaptação"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "A atualização do Estado do Clima 2026 da OMM mostra que os últimos 12 anos foram os mais quentes já registrados, com a temperatura média global de janeiro a setembro de 2026 cerca de 1,47°C acima do nível pré-industrial.",
-      "collected_at": "2026-11-10T00:16:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "WMO's State of the Climate Update 2026 shows that the past 12 years were the warmest on record, with global mean temperature from January to September 2026 about 1.47°C above pre-industrial levels.",
-       "es": "La Actualización del estado del clima 2026 de la OMM muestra que los últimos 12 años fueron los más cálidos jamás registrados, con una temperatura media mundial de enero a septiembre de 2026 de aproximadamente 1,47°C por encima del nivel preindustrial.",
-       "fr": "La Mise à jour 2026 sur l'état du climat de l'OMM montre que les 12 dernières années ont été les plus chaudes jamais enregistrées, la température moyenne mondiale de janvier à septembre 2026 se situant environ 1,47 °C au-dessus des niveaux préindustriels.",
-       "ru": "Обновление ВМО «Состояние климата в 2026 году» показывает, что последние 12 лет были самыми тёплыми за всю историю наблюдений, а средняя глобальная температура с января по сентябрь 2026 года примерно на 1,47°C превысила доиндустриальный уровень.",
-       "zh": "世界气象组织《2026年气候状况更新》显示，过去12年是有记录以来最暖的12年，2026年1月至9月全球平均气温比工业化前水平高出约1.47°C。地球能量失衡达到有观测以来的最高水平，海洋正迈向连续第十年创纪录高温，海平面处于历史高位，厄尔尼诺正在增强。拥有多灾种预警系统的国家从2015年的56个增至2025年的136个。为GST2与IPCC以及适应方面的讨论提供依据。",
-       "ar": "يُظهر تحديث المنظمة العالمية للأرصاد الجوية عن حالة المناخ لعام 2026 أن السنوات الاثنتي عشرة الأخيرة كانت الأدفأ على الإطلاق، إذ بلغ متوسط درجة الحرارة العالمية من يناير إلى سبتمبر 2026 نحو 1.47 درجة مئوية فوق مستويات ما قبل الثورة الصناعية."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "WMO"
-    ]
-   }
-  ],
-  "negotiations": [
    {
     "id": "st-unfccc-2026-11-11-bmr-concept-note",
     "section": "negotiations",
@@ -625,6 +652,106 @@
     "related": [],
     "publishers": [
      "Murat Kurum"
+    ]
+   },
+   {
+    "id": "st-germanwatch-2026-11-11-ccpi-2027",
+    "section": "negotiations",
+    "score": 0.54,
+    "lead": {
+     "id": "germanwatch-2026-11-11-ccpi-2027",
+     "title": "Global climate ranking: countries still off track, but electrification offers a major opportunity to accelerate the pace",
+     "url": "https://www.germanwatch.org/en/93633",
+     "publisher": "Germanwatch",
+     "author": "Jan Burck, Niklas Höhne, Madlen Peter",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "Eletrificação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Germanwatch e NewClimate Institute publicam o Índice de Desempenho em Mudança Climática (CCPI 2027): nenhum país faz o suficiente para o Acordo de Paris, então os três primeiros lugares ficam vazios. A Dinamarca lidera em 4º, a UE ocupa o 19º lugar, a maioria do G20 tem desempenho fraco e o Irã é último (68º).",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Germanwatch and NewClimate Institute publish the Climate Change Performance Index (CCPI 2027): no country is doing enough to meet the Paris Agreement, so the top three places stay empty. Denmark leads in fourth place, the EU ranks 19th, most G20 countries perform poorly and Iran is last (68th).",
+      "es": "Germanwatch y el NewClimate Institute publican el Índice de Desempeño del Cambio Climático (CCPI 2027): ningún país hace lo suficiente para cumplir el Acuerdo de París, por lo que los tres primeros puestos quedan vacíos.",
+      "fr": "Germanwatch et le NewClimate Institute publient l'Indice de performance en matière de changement climatique (CCPI 2027) : aucun pays n'en fait assez pour respecter l'Accord de Paris, les trois premières places restent donc vides.",
+      "ru": "Germanwatch и NewClimate Institute опубликовали Индекс эффективности борьбы с изменением климата (CCPI 2027): ни одна страна не делает достаточно для выполнения Парижского соглашения, поэтому первые три места остаются пустыми.",
+      "zh": "Germanwatch与NewClimate Institute发布《气候变化绩效指数》（CCPI 2027）：没有任何国家为实现《巴黎协定》做得足够多，因此前三名空缺。丹麦位列第四，欧盟排名第19，大多数二十国集团成员表现不佳，伊朗排名最后（第68）。作者认为电气化和可再生能源是加快减排的途径，尤其对大排放国而言。",
+      "ar": "نشرت جيرمانووتش ومعهد نيو كلايمت مؤشر أداء تغير المناخ (CCPI 2027): لا يفعل أي بلد ما يكفي للوفاء باتفاق باريس، ولذلك تبقى المراكز الثلاثة الأولى شاغرة. وتتصدر الدنمارك في المركز الرابع، ويحتل الاتحاد الأوروبي المركز 19، وتحقق معظم دول مجموعة العشرين أداءً ضعيفاً، وتأتي إيران في المركز الأخير (68)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Germanwatch"
+    ]
+   },
+   {
+    "id": "st-wmo-2026-11-11-leaders-summit",
+    "section": "negotiations",
+    "score": 0.51,
+    "lead": {
+     "id": "wmo-2026-11-11-leaders-summit",
+     "title": "COP31 Leaders' Summit: Turn commitments into action",
+     "url": "https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action",
+     "publisher": "WMO",
+     "author": "WMO",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Na Cúpula de Líderes da COP31, a secretária-geral da OMM Celeste Saulo apresentou a atualização do Estado do Clima: o desequilíbrio energético da Terra é o maior desde 1960 e a temperatura de janeiro a setembro de 2026 ficou cerca de 1,47°C acima do nível pré-industrial.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 Leaders' Summit, WMO Secretary-General Celeste Saulo presented the State of the Climate Update: Earth's energy imbalance is the highest since 1960 and January–September 2026 temperature was about 1.47°C above pre-industrial levels.",
+      "es": "En la Cumbre de Líderes de la COP31, la secretaria general de la OMM, Celeste Saulo, presentó la actualización sobre el estado del clima: el desequilibrio energético de la Tierra es el mayor desde 1960 y la temperatura de enero a septiembre de 2026 fue unos 1,47 °C superior a la preindustrial.",
+      "fr": "Lors du Sommet des dirigeants de la COP31, la Secrétaire générale de l'OMM, Celeste Saulo, a présenté la mise à jour sur l'état du climat : le déséquilibre énergétique de la Terre est le plus élevé depuis 1960 et la température de janvier à septembre 2026 était d'environ 1,47 °C au-dessus du niveau préindustriel.",
+      "ru": "На Саммите лидеров COP31 Генеральный секретарь ВМО Селесте Сауло представила обновлённые данные о состоянии климата: энергетический дисбаланс Земли — самый высокий с 1960 года, а температура в январе–сентябре 2026 года была примерно на 1,47°C выше доиндустриального уровня.",
+      "zh": "在COP31领导人峰会上，世界气象组织秘书长塞莱斯特·绍洛介绍了气候状况更新：地球能量失衡达到1960年以来最高水平，2026年1至9月全球平均气温比工业化前高出约1.47°C。预警系统十年来增加了一倍多，预警体系健全的地方灾害死亡人数低六倍。古特雷斯呼吁实现预警全覆盖并提供充足资金；斯蒂尔重申将适应融资增至三倍的目标。",
+      "ar": "في قمة قادة مؤتمر الأطراف الحادي والثلاثين، قدّمت الأمينة العامة للمنظمة العالمية للأرصاد الجوية سيليست سأولو التحديث عن حالة المناخ: اختلال توازن الطاقة في الأرض هو الأعلى منذ 1960، وكانت درجة الحرارة من كانون الثاني/يناير إلى أيلول/سبتمبر 2026 أعلى بنحو 1.47 درجة مئوية من مستوى ما قبل الثورة الصناعية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "wmo-2026-11-09-state-of-climate-2026",
+      "title": "State of the climate in 2026 gives new meaning to phrase \"off the charts\"",
+      "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts",
+      "publisher": "WMO",
+      "author": "WMO",
+      "published": "2026-11-09",
+      "language": "en",
+      "tracks": [
+       "GST2 e IPCC",
+       "Adaptação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A atualização do Estado do Clima 2026 da OMM mostra que os últimos 12 anos foram os mais quentes já registrados, com a temperatura média global de janeiro a setembro de 2026 cerca de 1,47°C acima do nível pré-industrial.",
+      "collected_at": "2026-11-10T00:16:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "WMO's State of the Climate Update 2026 shows that the past 12 years were the warmest on record, with global mean temperature from January to September 2026 about 1.47°C above pre-industrial levels.",
+       "es": "La Actualización del estado del clima 2026 de la OMM muestra que los últimos 12 años fueron los más cálidos jamás registrados, con una temperatura media mundial de enero a septiembre de 2026 de aproximadamente 1,47°C por encima del nivel preindustrial.",
+       "fr": "La Mise à jour 2026 sur l'état du climat de l'OMM montre que les 12 dernières années ont été les plus chaudes jamais enregistrées, la température moyenne mondiale de janvier à septembre 2026 se situant environ 1,47 °C au-dessus des niveaux préindustriels.",
+       "ru": "Обновление ВМО «Состояние климата в 2026 году» показывает, что последние 12 лет были самыми тёплыми за всю историю наблюдений, а средняя глобальная температура с января по сентябрь 2026 года примерно на 1,47°C превысила доиндустриальный уровень.",
+       "zh": "世界气象组织《2026年气候状况更新》显示，过去12年是有记录以来最暖的12年，2026年1月至9月全球平均气温比工业化前水平高出约1.47°C。地球能量失衡达到有观测以来的最高水平，海洋正迈向连续第十年创纪录高温，海平面处于历史高位，厄尔尼诺正在增强。拥有多灾种预警系统的国家从2015年的56个增至2025年的136个。为GST2与IPCC以及适应方面的讨论提供依据。",
+       "ar": "يُظهر تحديث المنظمة العالمية للأرصاد الجوية عن حالة المناخ لعام 2026 أن السنوات الاثنتي عشرة الأخيرة كانت الأدفأ على الإطلاق، إذ بلغ متوسط درجة الحرارة العالمية من يناير إلى سبتمبر 2026 نحو 1.47 درجة مئوية فوق مستويات ما قبل الثورة الصناعية."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "WMO"
     ]
    },
    {
@@ -2090,6 +2217,79 @@
   ],
   "action": [
    {
+    "id": "st-climatehome-2026-11-11-turkiye-zero-waste",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "climatehome-2026-11-11-turkiye-zero-waste",
+     "title": "Türkiye pushes \"zero waste\" at COP31, but is it delivering at home?",
+     "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "A Climate Home News contrasta a agenda internacional de \"resíduo zero\" da Türkiye, liderada pela primeira-dama Emine Erdoğan, com a realidade doméstica: a geração de resíduos per capita não mudou desde 2010, aterros emitem metano e a lei de plásticos descartáveis está parada.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Climate Home News contrasts Türkiye's international \"zero waste\" agenda, led by First Lady Emine Erdoğan, with the domestic picture: per-person waste generation has not changed since 2010, landfills leak methane and single-use plastics legislation is stalled.",
+      "es": "Climate Home News contrasta la agenda internacional de \"residuo cero\" de Türkiye, encabezada por la primera dama Emine Erdoğan, con la situación interna: la generación de residuos per cápita no ha cambiado desde 2010, los vertederos emiten metano y la ley sobre plásticos de un solo uso está estancada.",
+      "fr": "Climate Home News met en regard l'agenda internationale « zéro déchet » de la Türkiye, portée par la Première dame Emine Erdoğan, et la situation intérieure : la production de déchets par habitant n'a pas changé depuis 2010, les décharges émettent du méthane et la législation sur les plastiques à usage unique est…",
+      "ru": "Climate Home News сопоставляет международную повестку Турции «ноль отходов», которую возглавляет первая леди Эмине Эрдоган, с внутренней ситуацией: объём отходов на душу населения не менялся с 2010 года, свалки выделяют метан, а закон об одноразовом пластике застопорился.",
+      "zh": "Climate Home News 将土耳其由第一夫人埃米内·埃尔多安牵头的国际“零废弃”议程与国内现实作了对比：人均废弃物产生量自2010年以来基本未变，垃圾填埋场泄漏甲烷，一次性塑料立法陷入停滞。该分析估计，填埋场甲烷造成的危害相当于7.3万辆汽油车。这关系到东道国的可信度和甲烷议程。",
+      "ar": "تقارن Climate Home News بين أجندة «صفر نفايات» الدولية لتركيا، التي تقودها السيدة الأولى أمينة أردوغان، والواقع المحلي: فمعدل توليد النفايات للفرد لم يتغير منذ عام 2010، وتتسرب الميثان من مكبات النفايات، وتشريع البلاستيك أحادي الاستخدام متعثر. وتقدّر أن ميثان المكبات يضر بقدر 73 ألف سيارة بنزين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-cop31-2026-11-11-100-leaders",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "cop31-2026-11-11-100-leaders",
+     "title": "Türkiye hosts more than 100 leaders to build momentum on electrification and waste",
+     "url": "https://cop31.tr/news-detail/turkiye-hosts-100-leaders-momentum-electrification-waste",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "Presidência da COP31",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A presidência relata que mais de 100 líderes nacionais e o secretário-geral da ONU, António Guterres, se reuniram em Antalya no primeiro dia da Cúpula de Líderes. A nota destaca o impulso político em eletrificação, prioridade central da COP31, e em resíduos.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Presidency reports that more than 100 national leaders and UN Secretary-General António Guterres gathered in Antalya on the first day of the Leaders' Summit. The note highlights political momentum on electrification, a core COP31 priority, and on waste.",
+      "es": "La presidencia informa de que más de 100 líderes nacionales y el secretario general de la ONU, António Guterres, se reunieron en Antalya el primer día de la Cumbre de Líderes. La nota destaca el impulso político en electrificación, prioridad central de la COP31, y en residuos.",
+      "fr": "La présidence indique que plus de 100 dirigeants nationaux et le Secrétaire général de l'ONU, António Guterres, se sont réunis à Antalya le premier jour du Sommet des dirigeants. La note souligne l'élan politique sur l'électrification, priorité centrale de la COP31, et sur les déchets.",
+      "ru": "Председательство сообщает, что более 100 национальных лидеров и Генеральный секретарь ООН Антониу Гутерриш собрались в Анталье в первый день Саммита лидеров. В заметке подчёркивается политический импульс в области электрификации — ключевого приоритета COP31 — и отходов.",
+      "zh": "主席国表示，100多位国家领导人和联合国秘书长安东尼奥·古特雷斯在领导人峰会第一天齐聚安塔利亚。通报强调了在电气化（COP31的核心优先事项）和废弃物方面形成的政治势头。涉及议题：主席国与东道国、电气化和行动议程。",
+      "ar": "تفيد الرئاسة بأن أكثر من 100 من قادة الدول والأمين العام للأمم المتحدة أنطونيو غوتيريش اجتمعوا في أنطاليا في اليوم الأول من قمة القادة. وتبرز المذكرة الزخم السياسي بشأن الكهربة، وهي أولوية رئيسية لمؤتمر COP31، وبشأن النفايات. المسارات: الرئاسة والبلد المضيف والكهربة وخطة العمل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
     "id": "st-instagram-turkiyecop31-20261112-welcome-day-4",
     "section": "action",
     "score": 0.55,
@@ -2468,6 +2668,41 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-wbcsd-2026-11-11-unido",
+    "section": "action",
+    "score": 0.405,
+    "lead": {
+     "id": "wbcsd-2026-11-11-unido",
+     "title": "UNIDO and WBCSD sign declaration to strengthen sustainable industrial development partnership",
+     "url": "https://www.wbcsd.org/news/unido-and-wbcsd-sign-declaration-to-strengthen-sustainable-industrial-development-partnership/",
+     "publisher": "WBCSD",
+     "author": "WBCSD",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "A UNIDO e o WBCSD assinaram em Antalya uma declaração conjunta para ampliar a parceria em sustentabilidade industrial, cobrindo indústria mais verde, economia circular e sistemas agroalimentares. Incide sobre a Agenda de Ação e o engajamento empresarial na COP31.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNIDO and WBCSD signed a joint declaration in Antalya to expand their partnership on industrial sustainability, covering greener industry, circular economy and agri-food systems. It bears on the Action Agenda and business engagement at COP31.",
+      "es": "La ONUDI y el WBCSD firmaron en Antalya una declaración conjunta para ampliar su alianza en sostenibilidad industrial, que abarca una industria más verde, la economía circular y los sistemas agroalimentarios. Incide en la Agenda de Acción y en la participación empresarial en la COP31.",
+      "fr": "L'ONUDI et le WBCSD ont signé à Antalya une déclaration commune pour élargir leur partenariat sur la durabilité industrielle, couvrant une industrie plus verte, l'économie circulaire et les systèmes agroalimentaires. Cela concerne le Programme d'action et l'engagement des entreprises à la COP31.",
+      "ru": "ЮНИДО и WBCSD подписали в Анталье совместную декларацию о расширении партнёрства в области промышленной устойчивости, охватывающего более «зелёную» промышленность, циркулярную экономику и агропродовольственные системы. Относится к Программе действий и участию бизнеса в COP31.",
+      "zh": "联合国工业发展组织（UNIDO）与WBCSD在安塔利亚签署联合宣言，扩大工业可持续性方面的伙伴关系，涵盖更绿色的工业、循环经济和农业食品系统。涉及行动议程及企业界在COP31的参与。",
+      "ar": "وقّعت اليونيدو ومجلس الأعمال العالمي للتنمية المستدامة (WBCSD) في أنطاليا إعلاناً مشتركاً لتوسيع شراكتهما في الاستدامة الصناعية، يشمل صناعة أكثر خضرة والاقتصاد الدائري والنظم الزراعية الغذائية. ويتصل بخطة العمل ومشاركة قطاع الأعمال في COP31."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WBCSD"
     ]
    },
    {
@@ -5646,13 +5881,16 @@
    "bluesky-enb.iisd.org-20261111-transicao-justa-pna",
    "bluesky-ldcchairunfccc-20261111-life-ar",
    "can-international-2026-11-11-jtm-700orgs",
+   "carbonbrief-2026-11-11-pledges-fall",
    "climatehome-2026-11-10-japao-ember",
+   "climatehome-2026-11-11-bulletin-day3",
    "cop30-presidency-daily-brief-2026-11-11",
    "cop30-presidency-daily-brief-2026-11-12",
    "cop31-presidency-2026-11-11-leaders-summit-kurum",
    "e3g-2026-11-11-india-eu-uk-cleantech",
    "eig-2026-11-10-unfccc-statement",
    "germanwatch-2026-11-11-ccpi-2027",
+   "unfccc-2026-11-11-guterres-early-warnings",
    "unfccc-2026-11-11-guterres-electrification",
    "unfccc-2026-11-11-stiell-leaders",
    "wmo-2026-11-11-leaders-summit"
