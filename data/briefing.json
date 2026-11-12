@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T10:58+03:00",
+ "generated_at": "2026-11-12T11:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,11 +9,11 @@
  },
  "collection": {
   "web_round": "2026-11-12T00:16:40-03:00",
-  "social_round": "2026-11-12T04:55:00-03:00",
+  "social_round": "2026-11-12T05:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 150,
+  "candidates": 153,
   "stories": 128,
   "top": 8,
   "publishers": [
@@ -2251,6 +2251,73 @@
     ]
    },
    {
+    "id": "st-instagram-turkiyecop31-20261112-burnham-miliband-khan",
+    "section": "action",
+    "score": 0.484,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-burnham-miliband-khan",
+     "title": "@turkiyecop31: #COP31 President Murat Kurum met with UK Prime Minister Andy Burnham, Foreign Secretary Ed Miliband and Mayor of…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfooX1sjfjb/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "05:30",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O presidente da COP31, Murat Kurum, reuniu-se com o primeiro-ministro do Reino Unido, Andy Burnham, o chanceler Ed Miliband e o prefeito de Londres, Sadiq Khan.",
+     "collected_at": "2026-11-12T05:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum met UK Prime Minister Andy Burnham, Foreign Secretary Ed Miliband and London Mayor Sadiq Khan.",
+      "es": "El presidente de la COP31, Murat Kurum, se reunió con el primer ministro del Reino Unido, Andy Burnham, el ministro de Asuntos Exteriores, Ed Miliband, y el alcalde de Londres, Sadiq Khan.",
+      "fr": "Le président de la COP31, Murat Kurum, a rencontré le Premier ministre britannique Andy Burnham, le ministre des Affaires étrangères Ed Miliband et le maire de Londres Sadiq Khan.",
+      "ru": "Президент COP31 Мурат Курум встретился с премьер-министром Великобритании Энди Бёрнхэмом, министром иностранных дел Эдом Милибэндом и мэром Лондона Садиком Ханом.",
+      "zh": "COP31主席穆拉特·库鲁姆会见了英国首相安迪·伯纳姆、外交大臣埃德·米利班德和伦敦市长萨迪克·汗。",
+      "ar": "التقى رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم برئيس وزراء المملكة المتحدة آندي بيرنهام ووزير الخارجية إد ميليباند وعمدة لندن صادق خان."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-muratkurum-20261112-burnham-miliband-khan",
+      "title": "@muratkurum: COP31’de İngiltere Başbakanı Sayın Andy Burnham, İngiltere Dışişleri Bakanı Sayın Ed Miliband ve Londra Belediye…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfonPluCIf9/",
+      "publisher": "Murat Kurum",
+      "published": "2026-11-12",
+      "time": "05:20",
+      "language": "tr",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Murat Kurum diz ter se reunido na COP31 com Andy Burnham, Ed Miliband e Sadiq Khan.",
+      "collected_at": "2026-11-12T05:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Murat Kurum says he met Andy Burnham, Ed Miliband and Sadiq Khan at COP31.",
+       "es": "Murat Kurum afirma haberse reunido en la COP31 con Andy Burnham, Ed Miliband y Sadiq Khan.",
+       "fr": "Murat Kurum indique avoir rencontré Andy Burnham, Ed Miliband et Sadiq Khan à la COP31.",
+       "ru": "Мурат Курум сообщил о встрече на COP31 с Энди Бёрнхэмом, Эдом Милибэндом и Садиком Ханом.",
+       "zh": "穆拉特·库鲁姆表示在COP31期间会见了安迪·伯纳姆、埃德·米利班德和萨迪克·汗。",
+       "ar": "أفاد مراد كوروم بأنه التقى في مؤتمر الأطراف الحادي والثلاثين بآندي بيرنهام وإد ميليباند وصادق خان."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-cop30-presidency-daily-brief-2026-11-11",
     "section": "action",
     "score": 0.48,
@@ -2401,6 +2468,101 @@
     "related": [],
     "publishers": [
      "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261111-assinatura-erdogan",
+    "section": "action",
+    "score": 0.387,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-assinatura-erdogan",
+     "title": "@muratkurum: Cumhurbaşkanımız Sayın @RTErdogan’ın imzası, #COP31 Liderler Zirvesi’nin hafızasında yerini aldı. Bu imza,…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnhaI8I-98/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "19:10",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum registra a assinatura do presidente Erdoğan no painel comemorativo da Cúpula de Líderes da COP31, como lembrança da responsabilidade da Türkiye na ação climática global.",
+     "collected_at": "2026-11-11T22:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum shares President Erdoğan's signature on the commemorative board of the COP31 Leaders' Summit, as a memento of Turkey's responsibility in global climate action.",
+      "es": "Kurum publica la firma del presidente Erdoğan en el panel conmemorativo de la Cumbre de Líderes de la COP31, como recuerdo de la responsabilidad de Turquía en la acción climática mundial.",
+      "fr": "Kurum publie la signature du président Erdoğan sur le panneau commémoratif du Sommet des dirigeants de la COP31, en souvenir de la responsabilité de la Turquie dans l'action climatique mondiale.",
+      "ru": "Курум публикует подпись президента Эрдогана на памятном щите саммита лидеров COP31 как напоминание об ответственности Турции в глобальных действиях по климату.",
+      "zh": "库鲁姆发布了埃尔多安总统在COP31领导人峰会纪念板上的签名，作为土耳其在全球气候行动中所承担责任的纪念。",
+      "ar": "ينشر كوروم توقيع الرئيس أردوغان على اللوحة التذكارية لقمة قادة COP31، تذكيراً بمسؤولية تركيا في العمل المناخي العالمي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261111-erdogan-board",
+      "title": "@turkiyecop31: President of the Republic of Türkiye Recep Tayyip Erdoğan signed the #COP31 Antalya Leaders’ Summit commemorative…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfnSHXvMyic/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-11",
+      "time": "16:56",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "O presidente da Türkiye, Recep Tayyip Erdoğan, assinou o painel comemorativo da Cúpula de Líderes da COP31 em Antália.",
+      "collected_at": "2026-11-12T05:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "President Recep Tayyip Erdoğan of Turkey signed the commemorative board of the COP31 Antalya Leaders' Summit.",
+       "es": "El presidente de Turquía, Recep Tayyip Erdoğan, firmó el panel conmemorativo de la Cumbre de Líderes de la COP31 en Antalya.",
+       "fr": "Le président de la Turquie, Recep Tayyip Erdoğan, a signé le panneau commémoratif du Sommet des dirigeants de la COP31 à Antalya.",
+       "ru": "Президент Турции Реджеп Тайип Эрдоган подписал памятную доску саммита лидеров COP31 в Анталье.",
+       "zh": "土耳其总统雷杰普·塔伊普·埃尔多安在安塔利亚签署了COP31领导人峰会纪念板。",
+       "ar": "وقّع الرئيس التركي رجب طيب أردوغان اللوحة التذكارية لقمة قادة مؤتمر الأطراف الحادي والثلاثين في أنطاليا."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261110-erdogan-guterres",
+      "title": "@turkiyecop31: President of the Republic of Türkiye Recep Tayyip Erdoğan met with UN Secretary-General António Guterres, who is in…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfkHm-4Mnmw/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "11:27",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Presidência da COP31: o presidente Erdoğan recebeu o secretário-geral da ONU, António Guterres, que está na Türkiye para a COP31.",
+      "collected_at": "2026-11-10T11:45:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "COP31 Presidency: President Erdoğan met UN Secretary-General António Guterres, who is in Türkiye for COP31.",
+       "es": "Presidencia de la COP31: el presidente Erdoğan se reunió con el Secretario General de la ONU, António Guterres, que se encuentra en Türkiye para la COP31.",
+       "fr": "Présidence de la COP31 : le président Erdoğan a reçu le Secrétaire général de l'ONU, António Guterres, présent en Türkiye pour la COP31.",
+       "ru": "Президентство КС-31: президент Эрдоган встретился с Генеральным секретарём ООН Антониу Гутерришем, находящимся в Türkiye для участия в КС-31.",
+       "zh": "COP31主席团：埃尔多安总统会见了为出席COP31而在土耳其访问的联合国秘书长安东尼奥·古特雷斯。",
+       "ar": "رئاسة COP31: التقى الرئيس أردوغان الأمين العام للأمم المتحدة أنطونيو غوتيريش الموجود في تركيا لحضور COP31."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -2755,43 +2917,6 @@
     "related": [],
     "publishers": [
      "UNFCCC"
-    ]
-   },
-   {
-    "id": "st-instagram-muratkurum-20261111-assinatura-erdogan",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-muratkurum-20261111-assinatura-erdogan",
-     "title": "@muratkurum: Cumhurbaşkanımız Sayın @RTErdogan’ın imzası, #COP31 Liderler Zirvesi’nin hafızasında yerini aldı. Bu imza,…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfnhaI8I-98/",
-     "publisher": "Murat Kurum",
-     "published": "2026-11-11",
-     "time": "19:10",
-     "language": "tr",
-     "tracks": [
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "Kurum registra a assinatura do presidente Erdoğan no painel comemorativo da Cúpula de Líderes da COP31, como lembrança da responsabilidade da Türkiye na ação climática global.",
-     "collected_at": "2026-11-11T22:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Kurum shares President Erdoğan's signature on the commemorative board of the COP31 Leaders' Summit, as a memento of Turkey's responsibility in global climate action.",
-      "es": "Kurum publica la firma del presidente Erdoğan en el panel conmemorativo de la Cumbre de Líderes de la COP31, como recuerdo de la responsabilidad de Turquía en la acción climática mundial.",
-      "fr": "Kurum publie la signature du président Erdoğan sur le panneau commémoratif du Sommet des dirigeants de la COP31, en souvenir de la responsabilité de la Turquie dans l'action climatique mondiale.",
-      "ru": "Курум публикует подпись президента Эрдогана на памятном щите саммита лидеров COP31 как напоминание об ответственности Турции в глобальных действиях по климату.",
-      "zh": "库鲁姆发布了埃尔多安总统在COP31领导人峰会纪念板上的签名，作为土耳其在全球气候行动中所承担责任的纪念。",
-      "ar": "ينشر كوروم توقيع الرئيس أردوغان على اللوحة التذكارية لقمة قادة COP31، تذكيراً بمسؤولية تركيا في العمل المناخي العالمي."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Murat Kurum"
     ]
    },
    {
@@ -3597,43 +3722,6 @@
       "ru": "Президентство КС-31: компания Acwa становится партнёром КС-31 по климатическим решениям, в роли партнёра по реализации.",
       "zh": "COP31主席团：Acwa成为COP31气候解决方案合作伙伴，担任落实合作伙伴。",
       "ar": "رئاسة COP31: شركة Acwa تنضم بصفتها شريك الحلول المناخية لمؤتمر COP31، وشريكاً في التنفيذ."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261110-erdogan-guterres",
-    "section": "action",
-    "score": 0.206,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261110-erdogan-guterres",
-     "title": "@turkiyecop31: President of the Republic of Türkiye Recep Tayyip Erdoğan met with UN Secretary-General António Guterres, who is in…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfkHm-4Mnmw/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-10",
-     "time": "11:27",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "Presidência da COP31: o presidente Erdoğan recebeu o secretário-geral da ONU, António Guterres, que está na Türkiye para a COP31.",
-     "collected_at": "2026-11-10T11:45:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "COP31 Presidency: President Erdoğan met UN Secretary-General António Guterres, who is in Türkiye for COP31.",
-      "es": "Presidencia de la COP31: el presidente Erdoğan se reunió con el Secretario General de la ONU, António Guterres, que se encuentra en Türkiye para la COP31.",
-      "fr": "Présidence de la COP31 : le président Erdoğan a reçu le Secrétaire général de l'ONU, António Guterres, présent en Türkiye pour la COP31.",
-      "ru": "Президентство КС-31: президент Эрдоган встретился с Генеральным секретарём ООН Антониу Гутерришем, находящимся в Türkiye для участия в КС-31.",
-      "zh": "COP31主席团：埃尔多安总统会见了为出席COP31而在土耳其访问的联合国秘书长安东尼奥·古特雷斯。",
-      "ar": "رئاسة COP31: التقى الرئيس أردوغان الأمين العام للأمم المتحدة أنطونيو غوتيريش الموجود في تركيا لحضور COP31."
      },
      "description_i18n_method": "machine"
     },
