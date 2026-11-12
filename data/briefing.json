@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T19:58+03:00",
+ "generated_at": "2026-11-12T20:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,11 +9,11 @@
  },
  "collection": {
   "web_round": "2026-11-12T12:40:00-03:00",
-  "social_round": "2026-11-12T13:55:00-03:00",
+  "social_round": "2026-11-12T15:05:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 171,
+  "candidates": 172,
   "stories": 145,
   "top": 8,
   "publishers": [
@@ -2717,6 +2717,74 @@
     ]
    },
    {
+    "id": "st-instagram-muratkurum-20261112-egito",
+    "section": "action",
+    "score": 0.484,
+    "lead": {
+     "id": "instagram-muratkurum-20261112-egito",
+     "title": "@muratkurum: COP31’de, Mısır Arap Cumhuriyeti Yerel Kalkınma ve Çevre Bakanı Sayın Dr. Manal Awad Mikhail ile bir araya geldik.…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpZjBoiAFv/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-12",
+     "time": "12:40",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum se reúne na COP31 com a ministra egípcia de Desenvolvimento Local e Meio Ambiente, Manal Awad Mikhail, para transformar a aproximação entre Türkiye e Egito em cooperação concreta em clima, meio ambiente e desenvolvimento local, unindo a experiência do Egito (anfitrião da COP27) à força de ação da COP31.",
+     "collected_at": "2026-11-12T12:46:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Murat Kurum meets Egypt's Minister of Local Development and Environment, Manal Awad Mikhail, at COP31 to turn closer Turkey–Egypt ties into concrete cooperation on climate, environment and local development, combining the experience of Egypt, host of COP27, with the action focus of COP31.",
+      "es": "Murat Kurum se reúne en la COP31 con la ministra egipcia de Desarrollo Local y Medio Ambiente, Manal Awad Mikhail, para convertir el acercamiento entre Turquía y Egipto en cooperación concreta en clima, medio ambiente y desarrollo local, uniendo la experiencia de Egipto, anfitrión de la COP27, con la capacidad de…",
+      "fr": "Murat Kurum rencontre à la COP31 la ministre égyptienne du Développement local et de l'Environnement, Manal Awad Mikhail, afin de traduire le rapprochement entre la Turquie et l'Égypte en coopération concrète sur le climat, l'environnement et le développement local, en associant l'expérience de l'Égypte, hôte de la…",
+      "ru": "Мурат Курум встретился на КС-31 с министром местного развития и окружающей среды Египта Манал Авад Михаил, чтобы превратить укрепляющиеся связи между Турцией и Египтом в конкретное сотрудничество по климату, окружающей среде и местному развитию, соединив опыт Египта, принимавшего КС-27, с потенциалом действий КС-31.",
+      "zh": "穆拉特·库鲁姆在COP31期间会见埃及地方发展和环境部长马纳勒·阿瓦德·米哈伊尔，旨在把土耳其与埃及日益密切的关系转化为气候、环境和地方发展领域的具体合作，将曾主办COP27的埃及的经验与COP31的行动力结合起来。",
+      "ar": "التقى مراد كوروم في مؤتمر الأطراف الحادي والثلاثين وزيرة التنمية المحلية والبيئة المصرية منال عوض ميخائيل لتحويل تعزيز العلاقات بين تركيا ومصر إلى تعاون ملموس في المناخ والبيئة والتنمية المحلية، بالجمع بين خبرة مصر مستضيفة مؤتمر الأطراف السابع والعشرين وقوة العمل في مؤتمر الأطراف الحادي والثلاثين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261112-kurum-egito-presidencia",
+      "title": "@turkiyecop31: COP31 President Murat Kurum met with Dr Manal Awad Mikhail, Egypt’s Minister of Local Development and Environment,…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfphXkADS8x/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-12",
+      "time": "13:48",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "O presidente da COP31, Murat Kurum, reuniu-se com a ministra egípcia de Desenvolvimento Local e Meio Ambiente, Manal Awad Mikhail, para discutir cooperação climática entre Türkiye e Egito, com base na experiência da COP27.",
+      "collected_at": "2026-11-12T15:05:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "COP31 President Murat Kurum met Egypt's Minister of Local Development and Environment, Manal Awad Mikhail, to discuss climate cooperation between Türkiye and Egypt, building on Egypt's experience hosting COP27.",
+       "es": "El Presidente de la COP31, Murat Kurum, se reunió con la Ministra de Desarrollo Local y Medio Ambiente de Egipto, Manal Awad Mikhail, para analizar la cooperación climática entre Türkiye y Egipto, a partir de la experiencia de Egipto como anfitrión de la COP27.",
+       "fr": "Le Président de la COP31, Murat Kurum, a rencontré la ministre égyptienne du Développement local et de l'Environnement, Manal Awad Mikhail, pour examiner la coopération climatique entre la Türkiye et l'Égypte, en s'appuyant sur l'expérience de l'Égypte comme hôte de la COP27.",
+       "ru": "Президент COP31 Мурат Курум встретился с министром местного развития и окружающей среды Египта Манал Авад Михаил для обсуждения климатического сотрудничества между Türkiye и Египтом на основе опыта Египта как хозяина COP27.",
+       "zh": "COP31主席穆拉特·库鲁姆会见了埃及地方发展与环境部长马纳勒·阿瓦德·米哈伊尔,讨论土耳其与埃及的气候合作,并借鉴埃及主办COP27的经验。",
+       "ar": "التقى رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم وزيرة التنمية المحلية والبيئة في مصر منال عوض ميخائيل لبحث التعاون المناخي بين تركيا ومصر، استناداً إلى تجربة مصر في استضافة مؤتمر الأطراف السابع والعشرين."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Murat Kurum",
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-instagram-turkiyecop31-20261112-burnham-miliband-khan",
     "section": "action",
     "score": 0.484,
@@ -2896,44 +2964,6 @@
     ],
     "publishers": [
      "Presidência da COP30"
-    ]
-   },
-   {
-    "id": "st-instagram-muratkurum-20261112-egito",
-    "section": "action",
-    "score": 0.413,
-    "lead": {
-     "id": "instagram-muratkurum-20261112-egito",
-     "title": "@muratkurum: COP31’de, Mısır Arap Cumhuriyeti Yerel Kalkınma ve Çevre Bakanı Sayın Dr. Manal Awad Mikhail ile bir araya geldik.…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfpZjBoiAFv/",
-     "publisher": "Murat Kurum",
-     "published": "2026-11-12",
-     "time": "12:40",
-     "language": "tr",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "Murat Kurum se reúne na COP31 com a ministra egípcia de Desenvolvimento Local e Meio Ambiente, Manal Awad Mikhail, para transformar a aproximação entre Türkiye e Egito em cooperação concreta em clima, meio ambiente e desenvolvimento local, unindo a experiência do Egito (anfitrião da COP27) à força de ação da COP31.",
-     "collected_at": "2026-11-12T12:46:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Murat Kurum meets Egypt's Minister of Local Development and Environment, Manal Awad Mikhail, at COP31 to turn closer Turkey–Egypt ties into concrete cooperation on climate, environment and local development, combining the experience of Egypt, host of COP27, with the action focus of COP31.",
-      "es": "Murat Kurum se reúne en la COP31 con la ministra egipcia de Desarrollo Local y Medio Ambiente, Manal Awad Mikhail, para convertir el acercamiento entre Turquía y Egipto en cooperación concreta en clima, medio ambiente y desarrollo local, uniendo la experiencia de Egipto, anfitrión de la COP27, con la capacidad de…",
-      "fr": "Murat Kurum rencontre à la COP31 la ministre égyptienne du Développement local et de l'Environnement, Manal Awad Mikhail, afin de traduire le rapprochement entre la Turquie et l'Égypte en coopération concrète sur le climat, l'environnement et le développement local, en associant l'expérience de l'Égypte, hôte de la…",
-      "ru": "Мурат Курум встретился на КС-31 с министром местного развития и окружающей среды Египта Манал Авад Михаил, чтобы превратить укрепляющиеся связи между Турцией и Египтом в конкретное сотрудничество по климату, окружающей среде и местному развитию, соединив опыт Египта, принимавшего КС-27, с потенциалом действий КС-31.",
-      "zh": "穆拉特·库鲁姆在COP31期间会见埃及地方发展和环境部长马纳勒·阿瓦德·米哈伊尔，旨在把土耳其与埃及日益密切的关系转化为气候、环境和地方发展领域的具体合作，将曾主办COP27的埃及的经验与COP31的行动力结合起来。",
-      "ar": "التقى مراد كوروم في مؤتمر الأطراف الحادي والثلاثين وزيرة التنمية المحلية والبيئة المصرية منال عوض ميخائيل لتحويل تعزيز العلاقات بين تركيا ومصر إلى تعاون ملموس في المناخ والبيئة والتنمية المحلية، بالجمع بين خبرة مصر مستضيفة مؤتمر الأطراف السابع والعشرين وقوة العمل في مؤتمر الأطراف الحادي والثلاثين."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Murat Kurum"
     ]
    },
    {
