@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "bluesky_list": null,
  "x_list": null,
  "hidden": [],
@@ -439,20 +439,6 @@
    "verified": true
   },
   {
-   "platform": "bluesky",
-   "handle": "caneurope.bsky.social",
-   "institution": "CAN Europe",
-   "priority": "B",
-   "identity": "unverified",
-   "identity_basis": "não",
-   "identity_evidence": null,
-   "identity_checked_at": null,
-   "verified": false,
-   "health": "not_found",
-   "health_checked_at": "2026-11-08",
-   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
-  },
-  {
    "platform": "instagram",
    "handle": "greenpeaceturkiye",
    "institution": "Greenpeace Türkiye",
@@ -484,20 +470,6 @@
    "identity_evidence": null,
    "identity_checked_at": null,
    "verified": false
-  },
-  {
-   "platform": "bluesky",
-   "handle": "priceofoil.org",
-   "institution": "Oil Change International",
-   "priority": "B",
-   "identity": "unverified",
-   "identity_basis": "não",
-   "identity_evidence": null,
-   "identity_checked_at": null,
-   "verified": false,
-   "health": "not_found",
-   "health_checked_at": "2026-11-08",
-   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "x",
@@ -608,20 +580,6 @@
    "identity_evidence": null,
    "identity_checked_at": null,
    "verified": true
-  },
-  {
-   "platform": "bluesky",
-   "handle": "climateanalytics.bsky.social",
-   "institution": "Climate Analytics",
-   "priority": "B",
-   "identity": "unverified",
-   "identity_basis": "página (qual handle é o atual: resolver)",
-   "identity_evidence": null,
-   "identity_checked_at": null,
-   "verified": false,
-   "health": "not_found",
-   "health_checked_at": "2026-11-08",
-   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "bluesky",
@@ -875,20 +833,6 @@
    "identity_evidence": null,
    "identity_checked_at": null,
    "verified": false
-  },
-  {
-   "platform": "bluesky",
-   "handle": "byfordtsang.bsky.social",
-   "institution": "Byford Tsang (E3G)",
-   "priority": "B",
-   "identity": "unverified",
-   "identity_basis": "não",
-   "identity_evidence": null,
-   "identity_checked_at": null,
-   "verified": false,
-   "health": "not_found",
-   "health_checked_at": "2026-11-08",
-   "health_source": "QA issue #8 (account not found via public.api.bsky.app)"
   },
   {
    "platform": "bluesky",
