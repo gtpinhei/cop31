@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T17:58+03:00",
+ "generated_at": "2026-11-12T18:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-12T06:30:00-03:00",
-  "social_round": "2026-11-12T11:55:00-03:00",
+  "web_round": "2026-11-12T12:40:00-03:00",
+  "social_round": "2026-11-12T12:46:37-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 167,
-  "stories": 141,
+  "candidates": 170,
+  "stories": 144,
   "top": 8,
   "publishers": [
    "350.org",
@@ -24,6 +24,7 @@
    "COP31 Presidency (Türkiye/Australia)",
    "Carbon Brief",
    "Chris Bowen",
+   "Climate Action Tracker",
    "Climate Home News",
    "E3G",
    "Germanwatch",
@@ -59,17 +60,17 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "sem datas na listagem"
+    "note": "sem listagem datada"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "sem listagem datada recente"
+    "note": "sem listagem datada (página devolveu artigo de 2022)"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "client_error"
+    "note": "budget"
    }
   ]
  },
@@ -517,6 +518,42 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-climate-action-tracker-2026-11-12-warming-projections",
+    "section": "negotiations",
+    "score": 0.574,
+    "lead": {
+     "id": "climate-action-tracker-2026-11-12-warming-projections",
+     "title": "Without rapid action, the world is heading to irrecoverable overshoot",
+     "url": "https://climateactiontracker.org/publications/warming-projections-global-update-2026/",
+     "publisher": "Climate Action Tracker",
+     "author": "Climate Action Tracker (NewClimate Institute e Climate Analytics)",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "GST2 e IPCC"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O Climate Action Tracker publica a atualização global de projeções de aquecimento de 2026, segundo a qual o mundo caminha para um estouro irreversível do limite de 1,5 °C se o corte de emissões não acelerar.",
+     "collected_at": "2026-11-12T12:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Climate Action Tracker publishes its 2026 global warming projections update, which finds the world is heading for an irreversible overshoot of 1.5°C unless emissions cuts speed up. Combined climate action has stalled for five years, and current policies point to about 2.7°C of warming.",
+      "es": "El Climate Action Tracker publica su actualización global de proyecciones de calentamiento de 2026, según la cual el mundo se encamina hacia un rebasamiento irreversible de 1,5 °C si no se aceleran los recortes de emisiones.",
+      "fr": "Le Climate Action Tracker publie sa mise à jour mondiale 2026 des projections de réchauffement, selon laquelle le monde se dirige vers un dépassement irréversible de 1,5 °C si les réductions d'émissions ne s'accélèrent pas.",
+      "ru": "Climate Action Tracker опубликовал глобальное обновление прогнозов потепления на 2026 год: мир движется к необратимому превышению 1,5 °C, если сокращение выбросов не ускорится. Совокупные климатические действия стагнируют уже пять лет, а текущая политика ведёт к потеплению примерно на 2,7 °C.",
+      "zh": "气候行动追踪组织（Climate Action Tracker）发布了2026年全球变暖预测更新，指出若减排不加速，世界将不可逆地超过1.5°C温控目标。各方合力的气候行动已停滞五年，现行政策指向约2.7°C的升温。该报告涉及减缓与MWP以及GST2与IPCC议题。",
+      "ar": "نشرت Climate Action Tracker تحديثها العالمي لعام 2026 لتوقعات الاحترار، ويفيد بأن العالم يتجه نحو تجاوز لا رجعة فيه لحد 1.5 درجة مئوية ما لم يتسارع خفض الانبعاثات. وقد ركد العمل المناخي المشترك طوال خمس سنوات، وتشير السياسات الحالية إلى احترار يبلغ نحو 2.7 درجة مئوية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Action Tracker"
     ]
    },
    {
@@ -2821,6 +2858,44 @@
     ],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261112-egito",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-muratkurum-20261112-egito",
+     "title": "@muratkurum: COP31’de, Mısır Arap Cumhuriyeti Yerel Kalkınma ve Çevre Bakanı Sayın Dr. Manal Awad Mikhail ile bir araya geldik.…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpZjBoiAFv/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-12",
+     "time": "12:40",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum se reúne na COP31 com a ministra egípcia de Desenvolvimento Local e Meio Ambiente, Manal Awad Mikhail, para transformar a aproximação entre Türkiye e Egito em cooperação concreta em clima, meio ambiente e desenvolvimento local, unindo a experiência do Egito (anfitrião da COP27) à força de ação da COP31.",
+     "collected_at": "2026-11-12T12:46:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Murat Kurum meets Egypt's Minister of Local Development and Environment, Manal Awad Mikhail, at COP31 to turn closer Turkey–Egypt ties into concrete cooperation on climate, environment and local development, combining the experience of Egypt, host of COP27, with the action focus of COP31.",
+      "es": "Murat Kurum se reúne en la COP31 con la ministra egipcia de Desarrollo Local y Medio Ambiente, Manal Awad Mikhail, para convertir el acercamiento entre Turquía y Egipto en cooperación concreta en clima, medio ambiente y desarrollo local, uniendo la experiencia de Egipto, anfitrión de la COP27, con la capacidad de…",
+      "fr": "Murat Kurum rencontre à la COP31 la ministre égyptienne du Développement local et de l'Environnement, Manal Awad Mikhail, afin de traduire le rapprochement entre la Turquie et l'Égypte en coopération concrète sur le climat, l'environnement et le développement local, en associant l'expérience de l'Égypte, hôte de la…",
+      "ru": "Мурат Курум встретился на КС-31 с министром местного развития и окружающей среды Египта Манал Авад Михаил, чтобы превратить укрепляющиеся связи между Турцией и Египтом в конкретное сотрудничество по климату, окружающей среде и местному развитию, соединив опыт Египта, принимавшего КС-27, с потенциалом действий КС-31.",
+      "zh": "穆拉特·库鲁姆在COP31期间会见埃及地方发展和环境部长马纳勒·阿瓦德·米哈伊尔，旨在把土耳其与埃及日益密切的关系转化为气候、环境和地方发展领域的具体合作，将曾主办COP27的埃及的经验与COP31的行动力结合起来。",
+      "ar": "التقى مراد كوروم في مؤتمر الأطراف الحادي والثلاثين وزيرة التنمية المحلية والبيئة المصرية منال عوض ميخائيل لتحويل تعزيز العلاقات بين تركيا ومصر إلى تعاون ملموس في المناخ والبيئة والتنمية المحلية، بالجمع بين خبرة مصر مستضيفة مؤتمر الأطراف السابع والعشرين وقوة العمل في مؤتمر الأطراف الحادي والثلاثين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
@@ -5994,6 +6069,41 @@
     "related": [],
     "publishers": [
      "350.org"
+    ]
+   },
+   {
+    "id": "st-actionaid-2026-11-11-guterres-final-cop-speech",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "actionaid-2026-11-11-guterres-final-cop-speech",
+     "title": "Guterres' final COP speech is a wake-up call for real action on fossil fuels, says ActionAid",
+     "url": "https://actionaid.org/news/2026/guterres-final-cop-speech-wake-call-real-action-fossil-fuels-says-actionaid",
+     "publisher": "ActionAid International",
+     "author": "ActionAid",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A ActionAid reage ao último discurso de abertura de Antonio Guterres numa COP como secretário-geral da ONU, classificando-o como um alerta para ação real sobre combustíveis fósseis. O discurso criticou lobistas do setor fóssil que tentam descarrilar a ação climática. Atinge a trilha de TAFF e fósseis.",
+     "collected_at": "2026-11-12T12:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ActionAid reacts to Antonio Guterres's last COP opening speech as UN Secretary-General, calling it a wake-up call for real action on fossil fuels. The speech criticised fossil fuel lobbyists trying to derail climate action. It bears on the TAFF and fossil fuels track.",
+      "es": "ActionAid reacciona al último discurso de apertura de Antonio Guterres en una COP como Secretario General de las Naciones Unidas, y lo califica de llamada de atención para una acción real sobre los combustibles fósiles.",
+      "fr": "ActionAid réagit au dernier discours d'ouverture d'Antonio Guterres lors d'une COP en tant que Secrétaire général de l'ONU, y voyant un signal d'alarme pour une action réelle sur les combustibles fossiles. Le discours a critiqué les lobbyistes des énergies fossiles qui cherchent à faire dérailler l'action climatique.",
+      "ru": "ActionAid отреагировала на последнее выступление Антониу Гутерриша на открытии КС в качестве Генерального секретаря ООН, назвав его сигналом к реальным действиям в отношении ископаемого топлива. В речи критиковались лоббисты ископаемого топлива, пытающиеся сорвать климатические действия.",
+      "zh": "ActionAid就António Guterres作为联合国秘书长在气候大会上的最后一次开幕演讲作出回应，称其是对切实减少化石燃料行动的警醒。演讲批评了试图破坏气候行动的化石燃料游说者。该内容涉及TAFF与化石燃料议题。",
+      "ar": "علّقت ActionAid على آخر خطاب افتتاحي ألقاه أنطونيو غوتيريش في مؤتمر للأطراف بصفته الأمين العام للأمم المتحدة، ووصفته بأنه جرس إنذار للتحرك الفعلي بشأن الوقود الأحفوري. وانتقد الخطاب جماعات الضغط المعنية بالوقود الأحفوري التي تحاول إفشال العمل المناخي. ويتصل ذلك بمسار TAFF والوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ActionAid International"
     ]
    },
    {
