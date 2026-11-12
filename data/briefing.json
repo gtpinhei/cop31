@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T06:58+03:00",
+ "generated_at": "2026-11-12T07:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T00:16:40-03:00",
-  "social_round": "2026-11-11T22:50:00-03:00",
+  "social_round": "2026-11-12T01:42:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 137,
-  "stories": 118,
+  "candidates": 142,
+  "stories": 122,
   "top": 8,
   "publishers": [
    "350.org",
@@ -1917,6 +1917,131 @@
   ],
   "action": [
    {
+    "id": "st-instagram-turkiyecop31-20261112-welcome-day-4",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-welcome-day-4",
+     "title": "@turkiyecop31: Welcome to Day 4 of #COP31 in Antalya and the second day of the COP31 Leaders’ Summit! Today’s theme: “Resilient…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfoM5eyDCd5/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "01:30",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 anuncia o quarto dia da conferência e o segundo dia da Cúpula de Líderes de Antalya, com o tema \"Cidades resilientes e ambiente construído\".",
+     "collected_at": "2026-11-12T01:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency opens Day 4 of the conference and the second day of the Antalya Leaders' Summit, with the theme \"Resilient Cities and Built Environment\".",
+      "es": "La Presidencia de la COP31 da inicio al cuarto día de la conferencia y al segundo día de la Cumbre de Líderes de Antalya, con el tema «Ciudades resilientes y entorno construido».",
+      "fr": "La présidence de la COP31 ouvre le quatrième jour de la conférence et le deuxième jour du Sommet des dirigeants d'Antalya, sur le thème « Villes résilientes et environnement bâti ».",
+      "ru": "Президентство COP31 открывает четвёртый день конференции и второй день саммита лидеров в Анталье по теме «Устойчивые города и застроенная среда».",
+      "zh": "COP31主席团宣布大会进入第4天、安塔利亚领导人峰会进入第2天，当日主题为“韧性城市与建成环境”。",
+      "ar": "تعلن رئاسة COP31 بدء اليوم الرابع من المؤتمر واليوم الثاني من قمة القادة في أنطاليا، تحت عنوان «المدن القادرة على الصمود والبيئة المبنية»."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261110-day2-theme",
+      "title": "@turkiyecop31: Welcome to Day 2 of #COP31 in Antalya! The theme for today: “Energy and Transport”. The full event schedule and…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjIM48DL8Y/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "02:13",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 dá as boas-vindas ao 2º dia em Antália; o tema do dia é \"Energia e Transporte\", com programação em cop31.tr e no aplicativo COP31 Türkiye.",
+      "collected_at": "2026-11-10T02:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency welcomes participants to Day 2 in Antalya; the theme of the day is \"Energy and Transport\", with the programme available at cop31.tr and in the COP31 Türkiye app.",
+       "es": "La Presidencia de la COP31 da la bienvenida al segundo día en Antalya; el tema del día es «Energía y Transporte», con el programa en cop31.tr y en la aplicación COP31 Türkiye.",
+       "fr": "La Présidence de la COP31 souhaite la bienvenue au deuxième jour à Antalya ; le thème du jour est « Énergie et transports », avec le programme sur cop31.tr et dans l'application COP31 Türkiye.",
+       "ru": "Президентство КС-31 приветствует участников второго дня в Анталье; тема дня — «Энергетика и транспорт», программа доступна на cop31.tr и в приложении COP31 Türkiye.",
+       "zh": "COP31主席团欢迎各方参加安塔利亚第二天会议；当日主题为“能源与交通”，议程可在cop31.tr及COP31 Türkiye应用程序查看。",
+       "ar": "ترحب رئاسة مؤتمر الأطراف الحادي والثلاثين بالمشاركين في اليوم الثاني في أنطاليا؛ وموضوع اليوم هو «الطاقة والنقل»، والبرنامج متاح على cop31.tr وفي تطبيق COP31 Türkiye."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261109-day1-theme",
+      "title": "@turkiyecop31: Welcome to Day 1 of #COP31 in Antalya! The theme for the opening day: \"Food, Agriculture and Health\". The full event…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfgigZxjIy3/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "02:05",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "Dia 1 da COP31 em Antalya: a presidência anuncia o tema do dia de abertura, \"Alimentação, agricultura e saúde\", e remete ao programa em cop31.tr.",
+      "collected_at": "2026-11-09T02:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Day 1 of COP31 in Antalya: the presidency announces the opening-day theme \"Food, Agriculture and Health\" and points to the programme at cop31.tr.",
+       "es": "Día 1 de la COP31 en Antalya: la presidencia anuncia el tema de la jornada inaugural, «Alimentación, agricultura y salud», y remite al programa en cop31.tr.",
+       "fr": "Jour 1 de la COP31 à Antalya : la présidence annonce le thème de la journée d'ouverture, « Alimentation, agriculture et santé », et renvoie au programme sur cop31.tr.",
+       "ru": "День 1 COP31 в Анталье: председательство объявляет тему первого дня — «Продовольствие, сельское хозяйство и здоровье» — и отсылает к программе на cop31.tr.",
+       "zh": "COP31在安塔利亚开幕首日：主席国宣布开幕日主题为“粮食、农业与健康”，并提示在cop31.tr查看日程。",
+       "ar": "اليوم الأول من مؤتمر الأطراف الحادي والثلاثين في أنطاليا: الرئاسة تعلن موضوع يوم الافتتاح «الغذاء والزراعة والصحة» وتحيل إلى البرنامج على cop31.tr."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261109-welcome",
+      "title": "@turkiyecop31: Welcome to #COP31 Türkiye. 🇹🇷 #COP31Türkiye'ye hoş geldiniz. 🇹🇷 #COP31Antalya",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfgsu-Isz-H/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-09",
+      "time": "03:34",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
+      "collected_at": "2026-11-09T03:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
+       "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
+       "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
+       "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
+       "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
+       "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
     "id": "st-cop30-presidency-daily-brief-2026-11-11",
     "section": "action",
     "score": 0.48,
@@ -2115,6 +2240,159 @@
       "description_i18n_method": "machine"
      }
     ],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-mmeioambiente-20261111-mma-forests-results",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-mmeioambiente-20261111-mma-forests-results",
+     "title": "@mmeioambiente: 🌳 Hoje, na COP31, apresentamos os resultados do nosso apoio às florestas brasileiras. Desde 2023, mobilizamos R$ 16…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnfRytuoST/",
+     "publisher": "MMA (Brasil)",
+     "published": "2026-11-11",
+     "time": "18:51",
+     "language": "pt",
+     "tracks": [
+      "Florestas",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O MMA apresenta na COP31 resultados do apoio às florestas: R$ 16 bilhões mobilizados desde 2023, 229 mil hectares restaurados, mais de 96 mil empregos verdes e nova doação da Noruega de cerca de R$ 350 milhões ao Fundo Amazônia.",
+     "collected_at": "2026-11-12T01:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At COP31, Brazil's Ministry of Environment presents results of its forest support: R$16 billion mobilised since 2023, 229,000 hectares restored, over 96,000 green jobs, and a new Norwegian donation of about R$350 million to the Amazon Fund.",
+      "es": "En la COP31, el Ministerio de Medio Ambiente de Brasil presenta resultados de su apoyo a los bosques: 16.000 millones de reales movilizados desde 2023, 229.000 hectáreas restauradas, más de 96.000 empleos verdes y una nueva donación de Noruega de unos 350 millones de reales al Fondo Amazonia.",
+      "fr": "À la COP31, le ministère brésilien de l'Environnement présente les résultats de son soutien aux forêts : 16 milliards de reais mobilisés depuis 2023, 229 000 hectares restaurés, plus de 96 000 emplois verts et un nouveau don de la Norvège d'environ 350 millions de reais au Fonds Amazonie.",
+      "ru": "На COP31 Министерство окружающей среды Бразилии представляет итоги поддержки лесов: с 2023 года мобилизовано 16 млрд реалов, восстановлено 229 тыс. гектаров, создано более 96 тыс. «зелёных» рабочих мест; Норвегия внесла новый взнос около 350 млн реалов в Фонд Амазонии.",
+      "zh": "在COP31上，巴西环境部介绍其支持森林的成果：2023年以来动员160亿雷亚尔，恢复22.9万公顷，创造逾9.6万个绿色就业岗位，挪威还向亚马逊基金新捐赠约3.5亿雷亚尔。",
+      "ar": "تعرض وزارة البيئة البرازيلية في COP31 نتائج دعمها للغابات: تعبئة 16 مليار ريال منذ عام 2023، واستعادة 229 ألف هكتار، وأكثر من 96 ألف وظيفة خضراء، وتبرع جديد من النرويج بنحو 350 مليون ريال لصندوق الأمازون."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "MMA (Brasil)"
+    ]
+   },
+   {
+    "id": "st-instagram-mmeioambiente-20261111-lula-forests-summit-speech",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-mmeioambiente-20261111-lula-forests-summit-speech",
+     "title": "@mmeioambiente: 🌳 COP31 | Leitura do discurso do presidente Lula, feita pelo ministro João Paulo Capobianco, durante a Cúpula de…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnIEgjPyhu/",
+     "publisher": "MMA (Brasil)",
+     "published": "2026-11-11",
+     "time": "15:28",
+     "language": "pt",
+     "tracks": [
+      "Florestas",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Na Cúpula de Líderes sobre Florestas, o ministro Capobianco leu o discurso de Lula: países de florestas tropicais devem ter protagonismo nas decisões climáticas, com mais financiamento e liderança internacional, e destaque ao TFFF, que já mobilizou US$ 7,8 bilhões em compromissos.",
+     "collected_at": "2026-11-12T01:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the Leaders' Summit on Forests, Minister Capobianco read President Lula's speech: tropical forest countries should lead global climate decisions, with more finance and international leadership, highlighting the TFFF, which has already mobilised US$7.8 billion in commitments.",
+      "es": "En la Cumbre de Líderes sobre Bosques, el ministro Capobianco leyó el discurso del presidente Lula: los países con bosques tropicales deben tener protagonismo en las decisiones climáticas, con más financiación y liderazgo internacional, y destacó el TFFF, que ya ha movilizado 7.800 millones de dólares en compromisos.",
+      "fr": "Au Sommet des dirigeants sur les forêts, le ministre Capobianco a lu le discours du président Lula : les pays à forêts tropicales doivent jouer un rôle moteur dans les décisions climatiques, avec davantage de financement et de leadership international, en soulignant le TFFF, qui a déjà mobilisé 7,8 milliards de…",
+      "ru": "На саммите лидеров по лесам министр Капобианко зачитал выступление президента Лулы: страны с тропическими лесами должны играть ведущую роль в климатических решениях, при большем финансировании и международном лидерстве; отмечен TFFF, уже мобилизовавший обязательства на 7,8 млрд долларов США.",
+      "zh": "在森林问题领导人峰会上，卡波比安科部长宣读了卢拉总统的讲话：热带森林国家应在全球气候决策中发挥主导作用，需要更多资金和国际领导力，并强调“永久热带森林基金”（TFFF）已动员78亿美元承诺。",
+      "ar": "في قمة القادة بشأن الغابات، تلا الوزير كابوبيانكو خطاب الرئيس لولا: ينبغي أن تؤدي دول الغابات المدارية دورًا قياديًا في القرارات المناخية العالمية مع مزيد من التمويل والقيادة الدولية، مع إبراز مرفق الغابات الاستوائية للأبد (TFFF) الذي حشد بالفعل التزامات بقيمة 7.8 مليار دولار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "MMA (Brasil)"
+    ]
+   },
+   {
+    "id": "st-instagram-mmeioambiente-20261111-lula-opening-five-messages",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-mmeioambiente-20261111-lula-opening-five-messages",
+     "title": "@mmeioambiente: 🌎 COP31 | O presidente Lula apresentou cinco mensagens para fortalecer a ação climática global durante a abertura da…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfmgLiSPkGE/",
+     "publisher": "MMA (Brasil)",
+     "published": "2026-11-11",
+     "time": "09:40",
+     "language": "pt",
+     "tracks": [
+      "Presidência e anfitrião",
+      "TAFF e fósseis",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O MMA resume as cinco mensagens de Lula na abertura da Cúpula de Líderes: Mapas do Caminho da COP30 (financiamento, fim da dependência de fósseis, desmatamento), fortalecimento do TFFF, metas de emissões mais ambiciosas, proteção das florestas e mais cooperação.",
+     "collected_at": "2026-11-12T01:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Brazil's Environment Ministry summarises Lula's five messages at the opening of the Leaders' Summit: the COP30 roadmaps (finance, moving away from fossil fuels, deforestation), a stronger TFFF, more ambitious emission targets, forest protection and wider cooperation.",
+      "es": "El Ministerio de Medio Ambiente de Brasil resume los cinco mensajes de Lula en la apertura de la Cumbre de Líderes: las hojas de ruta de la COP30 (financiación, abandono de los combustibles fósiles, deforestación), un TFFF más sólido, metas de emisiones más ambiciosas, protección de los bosques y más cooperación.",
+      "fr": "Le ministère brésilien de l'Environnement résume les cinq messages de Lula à l'ouverture du Sommet des dirigeants : les feuilles de route de la COP30 (financement, sortie des combustibles fossiles, déforestation), un TFFF renforcé, des objectifs d'émissions plus ambitieux, la protection des forêts et une coopération…",
+      "ru": "Министерство окружающей среды Бразилии резюмирует пять посланий Лулы при открытии саммита лидеров: дорожные карты COP30 (финансирование, отказ от ископаемого топлива, обезлесение), укрепление TFFF, более амбициозные цели по выбросам, защита лесов и расширение сотрудничества.",
+      "zh": "巴西环境部概述卢拉在领导人峰会开幕式上的五点信息：COP30路线图（资金、摆脱化石燃料依赖、遏制毁林）、加强TFFF、更有雄心的减排目标、保护森林以及扩大国际合作。",
+      "ar": "تلخّص وزارة البيئة البرازيلية رسائل لولا الخمس في افتتاح قمة القادة: خرائط طريق COP30 (التمويل، والتخلي عن الوقود الأحفوري، ومكافحة إزالة الغابات)، وتعزيز TFFF، وأهداف انبعاثات أكثر طموحًا، وحماية الغابات، وتوسيع التعاون الدولي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "MMA (Brasil)"
+    ]
+   },
+   {
+    "id": "st-instagram-unclimatechange-20261111-guterres-conscience",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-unclimatechange-20261111-guterres-conscience",
+     "title": "@unclimatechange: “You are the conscience of this struggle,” UN Secretary-General @antonioguterres tells those on the frontlines of…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfmlTomsF9_/",
+     "publisher": "UNFCCC",
+     "published": "2026-11-11",
+     "time": "10:25",
+     "language": "en",
+     "tracks": [
+      "Espaço cívico",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Na COP31, o secretário-geral da ONU, António Guterres, diz a jovens, cientistas, povos indígenas, sociedade civil e pequenos Estados insulares que eles são \"a consciência desta luta\" e promete estar ao lado deles.",
+     "collected_at": "2026-11-12T01:42:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At COP31, UN Secretary-General António Guterres tells young people, scientists, Indigenous Peoples, civil society and small island developing States they are \"the conscience of this struggle\" and pledges to stand with them.",
+      "es": "En la COP31, el Secretario General de la ONU, António Guterres, dice a los jóvenes, científicos, pueblos indígenas, sociedad civil y pequeños Estados insulares en desarrollo que son «la conciencia de esta lucha» y promete acompañarlos.",
+      "fr": "À la COP31, le Secrétaire général de l'ONU, António Guterres, dit aux jeunes, aux scientifiques, aux peuples autochtones, à la société civile et aux petits États insulaires en développement qu'ils sont « la conscience de cette lutte » et promet de les accompagner.",
+      "ru": "На COP31 Генеральный секретарь ООН Антониу Гутерриш говорит молодёжи, учёным, коренным народам, гражданскому обществу и малым островным развивающимся государствам, что они — «совесть этой борьбы», и обещает быть рядом с ними.",
+      "zh": "在COP31上，联合国秘书长安东尼奥·古特雷斯对青年、科学家、原住民、民间社会和小岛屿发展中国家说，他们是“这场斗争的良知”，并承诺与他们同行。",
+      "ar": "في COP31، يقول الأمين العام للأمم المتحدة أنطونيو غوتيريش للشباب والعلماء والشعوب الأصلية والمجتمع المدني والدول الجزرية الصغيرة النامية إنهم «ضمير هذا الكفاح»، ويتعهد بالوقوف معهم."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
     "publishers": [
      "UNFCCC"
     ]
@@ -3220,102 +3498,6 @@
      "description_i18n_method": "machine"
     },
     "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261110-day2-theme",
-    "section": "action",
-    "score": 0.206,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261110-day2-theme",
-     "title": "@turkiyecop31: Welcome to Day 2 of #COP31 in Antalya! The theme for today: “Energy and Transport”. The full event schedule and…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfjIM48DL8Y/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-10",
-     "time": "02:13",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Eletrificação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "A Presidência da COP31 dá as boas-vindas ao 2º dia em Antália; o tema do dia é \"Energia e Transporte\", com programação em cop31.tr e no aplicativo COP31 Türkiye.",
-     "collected_at": "2026-11-10T02:42:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency welcomes participants to Day 2 in Antalya; the theme of the day is \"Energy and Transport\", with the programme available at cop31.tr and in the COP31 Türkiye app.",
-      "es": "La Presidencia de la COP31 da la bienvenida al segundo día en Antalya; el tema del día es «Energía y Transporte», con el programa en cop31.tr y en la aplicación COP31 Türkiye.",
-      "fr": "La Présidence de la COP31 souhaite la bienvenue au deuxième jour à Antalya ; le thème du jour est « Énergie et transports », avec le programme sur cop31.tr et dans l'application COP31 Türkiye.",
-      "ru": "Президентство КС-31 приветствует участников второго дня в Анталье; тема дня — «Энергетика и транспорт», программа доступна на cop31.tr и в приложении COP31 Türkiye.",
-      "zh": "COP31主席团欢迎各方参加安塔利亚第二天会议；当日主题为“能源与交通”，议程可在cop31.tr及COP31 Türkiye应用程序查看。",
-      "ar": "ترحب رئاسة مؤتمر الأطراف الحادي والثلاثين بالمشاركين في اليوم الثاني في أنطاليا؛ وموضوع اليوم هو «الطاقة والنقل»، والبرنامج متاح على cop31.tr وفي تطبيق COP31 Türkiye."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261109-day1-theme",
-      "title": "@turkiyecop31: Welcome to Day 1 of #COP31 in Antalya! The theme for the opening day: \"Food, Agriculture and Health\". The full event…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/DfgigZxjIy3/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-09",
-      "time": "02:05",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "Dia 1 da COP31 em Antalya: a presidência anuncia o tema do dia de abertura, \"Alimentação, agricultura e saúde\", e remete ao programa em cop31.tr.",
-      "collected_at": "2026-11-09T02:42:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Day 1 of COP31 in Antalya: the presidency announces the opening-day theme \"Food, Agriculture and Health\" and points to the programme at cop31.tr.",
-       "es": "Día 1 de la COP31 en Antalya: la presidencia anuncia el tema de la jornada inaugural, «Alimentación, agricultura y salud», y remite al programa en cop31.tr.",
-       "fr": "Jour 1 de la COP31 à Antalya : la présidence annonce le thème de la journée d'ouverture, « Alimentation, agriculture et santé », et renvoie au programme sur cop31.tr.",
-       "ru": "День 1 COP31 в Анталье: председательство объявляет тему первого дня — «Продовольствие, сельское хозяйство и здоровье» — и отсылает к программе на cop31.tr.",
-       "zh": "COP31在安塔利亚开幕首日：主席国宣布开幕日主题为“粮食、农业与健康”，并提示在cop31.tr查看日程。",
-       "ar": "اليوم الأول من مؤتمر الأطراف الحادي والثلاثين في أنطاليا: الرئاسة تعلن موضوع يوم الافتتاح «الغذاء والزراعة والصحة» وتحيل إلى البرنامج على cop31.tr."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "instagram-turkiyecop31-20261109-welcome",
-      "title": "@turkiyecop31: Welcome to #COP31 Türkiye. 🇹🇷 #COP31Türkiye'ye hoş geldiniz. 🇹🇷 #COP31Antalya",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/Dfgsu-Isz-H/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-09",
-      "time": "03:34",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "A presidência da COP31 dá as boas-vindas aos participantes à COP31 Türkiye, em Antalya, na abertura da conferência.",
-      "collected_at": "2026-11-09T03:50:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 presidency welcomes participants to COP31 Türkiye in Antalya as the conference opens.",
-       "es": "La presidencia de la COP31 da la bienvenida a los participantes a la COP31 Türkiye en Antalya al inaugurarse la conferencia.",
-       "fr": "La présidence de la COP31 souhaite la bienvenue aux participants à la COP31 Türkiye à Antalya à l'ouverture de la conférence.",
-       "ru": "Председательство COP31 приветствует участников COP31 Türkiye в Анталье по случаю открытия конференции.",
-       "zh": "COP31主席国在大会开幕之际欢迎与会者来到安塔利亚参加COP31土耳其大会。",
-       "ar": "رئاسة مؤتمر الأطراف الحادي والثلاثين ترحب بالمشاركين في COP31 تركيا في أنطاليا مع افتتاح المؤتمر."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
     ]
