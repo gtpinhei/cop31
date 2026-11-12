@@ -1,17 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-12T00:16:40-03:00",
+ "generated_at": "2026-11-12T06:30:00-03:00",
  "round": {
-  "timestamp": "2026-11-12T00:16:40-03:00",
-  "label": "12 nov 2026, 00:16 (Brasília)",
-  "sites_checked": 52,
-  "blocked": 10,
-  "new_items": 8,
+  "timestamp": "2026-11-12T06:30:00-03:00",
+  "label": "12 nov 2026, 06:30 (Brasília)",
+  "sites_checked": 61,
+  "blocked": 16,
+  "new_items": 7,
   "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, wemeanbusinesscoalition-org-news, carbon-pulse-com-category-international",
-   "adiados por orçamento: www4-unfccc-int-sites-submissionsstaging-pages-h, data-consilium-europa-eu-doc-document-st-14090-2, institutotalanoa-org-publicacoes, climaesociedade-org-noticias, politicaporinteiro-org-en, icccad-net-news, africanclimatefoundation-org-news, powershiftafrica-org-press-releases, twn-my-title2-climate-climate-updates-htm"
+   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, twn-my-title2-climate-climate-updates-htm, ember-energy-org-latest-insights"
   ]
  },
  "tracks": [
@@ -32,6 +31,147 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "x-CANIntl-20261112-eco-1-cop31",
+   "kind": "post",
+   "platform": "x",
+   "account": "@CANIntl",
+   "institution": "CAN International",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "05:58",
+   "text": "Today’s ECO is out! \n\nWhy #COP31 must deliver:\n🔎 A BAM that works\n📉 Finance without debt\n🌾 Agroecology for healthy soils, less fossil fuel dependence\n🏔️ Adaptation support for Nepal\n🪶 Electrification respecting Indigenous rights",
+   "summary": "O boletim ECO do dia na COP31 defende um BAM que funcione, financiamento sem dívida, agroecologia, apoio à adaptação no Nepal e eletrificação que respeite os direitos indígenas.",
+   "summary_i18n": {
+    "en": "Today's ECO at COP31 calls for a BAM that works, finance without debt, agroecology, adaptation support for Nepal and electrification that respects Indigenous rights.",
+    "es": "El boletín ECO de hoy en la COP31 pide un BAM que funcione, financiación sin deuda, agroecología, apoyo a la adaptación en Nepal y electrificación que respete los derechos indígenas.",
+    "fr": "L'ECO du jour à la COP31 réclame un BAM efficace, un financement sans dette, l'agroécologie, un soutien à l'adaptation pour le Népal et une électrification respectueuse des droits des peuples autochtones.",
+    "ru": "Сегодняшний выпуск ECO на КС-31 призывает к работающему BAM, финансированию без долгов, агроэкологии, поддержке адаптации Непала и электрификации с уважением прав коренных народов.",
+    "zh": "今日COP31《ECO》简报呼吁建立有效的BAM、无债务融资、农业生态学、支持尼泊尔适应,以及尊重原住民权利的电气化。",
+    "ar": "تدعو نشرة ECO اليوم في COP31 إلى آلية BAM فعّالة وتمويل بلا ديون وزراعة إيكولوجية ودعم التكيّف في نيبال وكهربة تحترم حقوق الشعوب الأصلية."
+   },
+   "url": "https://x.com/CANIntl",
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "x-canintl"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-deforestation-roadmap-trade",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "05:51",
+   "text": "Deforestation Roadmap, Trade and Green global Supply Chains: How to end deforestation by 2030",
+   "summary": "Evento na COP31 sobre o Mapa do Caminho do desmatamento, comércio e cadeias de suprimento verdes, com foco em acabar com o desmatamento até 2030.",
+   "summary_i18n": {
+    "en": "COP31 event on the Deforestation Roadmap, trade and green global supply chains, focused on ending deforestation by 2030.",
+    "es": "Evento de la COP31 sobre la hoja de ruta contra la deforestación, el comercio y las cadenas de suministro verdes, con el objetivo de poner fin a la deforestación para 2030.",
+    "fr": "Événement de la COP31 sur la feuille de route contre la déforestation, le commerce et les chaînes d'approvisionnement vertes, visant à mettre fin à la déforestation d'ici 2030.",
+    "ru": "Мероприятие на COP31 о дорожной карте по борьбе с обезлесением, торговле и «зелёных» глобальных цепочках поставок с целью прекращения обезлесения к 2030 году.",
+    "zh": "COP31 会议活动：探讨森林砍伐路线图、贸易与绿色全球供应链，目标是到2030年终止森林砍伐。",
+    "ar": "فعالية في COP31 حول خارطة طريق إزالة الغابات والتجارة وسلاسل الإمداد العالمية الخضراء، بهدف إنهاء إزالة الغابات بحلول 2030."
+   },
+   "url": "https://www.youtube.com/watch?v=sXG3TrKNEDE",
+   "tracks": [
+    "Florestas",
+    "Comércio"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-methane-agrifood-dialogue",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "05:45",
+   "text": "High-Level Dialogue on Advancing Methane Action Across Agriculture and Food Systems",
+   "summary": "Diálogo de alto nível na COP31 sobre ação contra o metano na agricultura e nos sistemas alimentares.",
+   "summary_i18n": {
+    "en": "High-level dialogue at COP31 on advancing methane action across agriculture and food systems.",
+    "es": "Diálogo de alto nivel en la COP31 sobre el avance de la acción contra el metano en la agricultura y los sistemas alimentarios.",
+    "fr": "Dialogue de haut niveau à la COP31 sur le renforcement de l'action contre le méthane dans l'agriculture et les systèmes alimentaires.",
+    "ru": "Диалог высокого уровня на COP31 об активизации действий по сокращению выбросов метана в сельском хозяйстве и продовольственных системах.",
+    "zh": "COP31 高级别对话：推进农业和粮食系统的甲烷行动。",
+    "ar": "حوار رفيع المستوى في COP31 حول تعزيز العمل على خفض الميثان في الزراعة والنظم الغذائية."
+   },
+   "url": "https://www.youtube.com/watch?v=NIPP8S1duwo",
+   "tracks": [
+    "Mitigação e MWP",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-blue-food-commitments",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "05:57",
+   "text": "Across Turquoise Waters: Delivering on Aquatic Blue Food Climate Commitments",
+   "summary": "Evento na COP31 sobre o cumprimento dos compromissos climáticos de alimentos azuis aquáticos.",
+   "summary_i18n": {
+    "en": "COP31 event on delivering on aquatic blue food climate commitments.",
+    "es": "Evento de la COP31 sobre el cumplimiento de los compromisos climáticos en materia de alimentos azules acuáticos.",
+    "fr": "Événement de la COP31 sur la mise en œuvre des engagements climatiques relatifs aux aliments bleus aquatiques.",
+    "ru": "Мероприятие на COP31 о выполнении климатических обязательств в области водных «голубых» продуктов питания.",
+    "zh": "COP31 会议活动：落实水产“蓝色食物”气候承诺。",
+    "ar": "فعالية في COP31 حول الوفاء بالتزامات المناخ المتعلقة بالأغذية الزرقاء المائية."
+   },
+   "url": "https://www.youtube.com/watch?v=o6F-m_QJfLs",
+   "tracks": [
+    "Oceanos",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-democratic-governance-climate",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "05:23",
+   "text": "Democratic Governance for Climate Action: Global Innovations in Practice",
+   "summary": "Evento na COP31 sobre governança democrática para a ação climática e inovações globais na prática.",
+   "summary_i18n": {
+    "en": "COP31 event on democratic governance for climate action and global innovations in practice.",
+    "es": "Evento de la COP31 sobre gobernanza democrática para la acción climática e innovaciones mundiales en la práctica.",
+    "fr": "Événement de la COP31 sur la gouvernance démocratique pour l'action climatique et les innovations mondiales en pratique.",
+    "ru": "Мероприятие на COP31 о демократическом управлении в интересах климатических действий и глобальных инновациях на практике.",
+    "zh": "COP31 会议活动：气候行动的民主治理与全球创新实践。",
+    "ar": "فعالية في COP31 حول الحوكمة الديمقراطية للعمل المناخي والابتكارات العالمية في الممارسة."
+   },
+   "url": "https://www.youtube.com/watch?v=Y8DOP9-h5U8",
+   "tracks": [
+    "Espaço cívico",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
   {
    "id": "instagram-turkiyecop31-20261112-burnham-miliband-khan",
    "kind": "post",
@@ -479,6 +619,225 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "x-LDCChairUNFCCC-20261111-ldc-life-ar-facility",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LDCChairUNFCCC",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-11",
+   "time": "13:47",
+   "text": "At #COP31, we’re launching the #LIFEAR Facility to help least developed countries scale up locally led climate adaptation. We aim to mobilise US$80M by 2030 and US$360M by 2035. Join us by signing the LIFE-AR Partnership Compact.",
+   "summary": "O Grupo dos PMDs lança na COP31 a Facilidade LIFE-AR para ampliar a adaptação liderada localmente, com meta de mobilizar US$ 80 milhões até 2030 e US$ 360 milhões até 2035, e convida à adesão ao Pacto de Parceria.",
+   "summary_i18n": {
+    "en": "The LDC Group is launching the LIFE-AR Facility at COP31 to scale up locally led adaptation, aiming to mobilise US$80 million by 2030 and US$360 million by 2035, and invites partners to sign the LIFE-AR Partnership Compact.",
+    "es": "El Grupo de los PMA lanza en la COP31 el Mecanismo LIFE-AR para ampliar la adaptación dirigida localmente, con la meta de movilizar 80 millones de dólares para 2030 y 360 millones para 2035, e invita a adherirse al Pacto de Asociación.",
+    "fr": "Le Groupe des PMA lance à la COP31 le Mécanisme LIFE-AR pour amplifier l'adaptation menée localement, avec l'objectif de mobiliser 80 millions de dollars d'ici 2030 et 360 millions d'ici 2035, et invite à signer le Pacte de partenariat LIFE-AR.",
+    "ru": "Группа НРС запускает на COP31 механизм LIFE-AR для расширения адаптации под руководством местных сообществ; цель — мобилизовать 80 млн долларов США к 2030 году и 360 млн к 2035 году; партнёров приглашают подписать Партнёрский договор LIFE-AR.",
+    "zh": "最不发达国家集团在COP31上启动LIFE-AR机制，以扩大由地方主导的适应行动，目标是到2030年筹集8000万美元、到2035年筹集3.6亿美元，并邀请各方签署《LIFE-AR伙伴关系契约》。",
+    "ar": "تطلق مجموعة أقل البلدان نمواً في مؤتمر COP31 مرفق LIFE-AR لتوسيع نطاق التكيف الذي تقوده المجتمعات المحلية، بهدف حشد 80 مليون دولار أمريكي بحلول 2030 و360 مليون دولار بحلول 2035، وتدعو إلى التوقيع على ميثاق الشراكة الخاص بالمرفق."
+   },
+   "url": "https://x.com/LDCChairUNFCCC",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-12T06:50:00-03:00",
+   "lang": "en",
+   "source_id": "x-ldcchairunfccc"
+  },
+  {
+   "id": "carbonbrief-2026-11-11-pledges-fall",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+   "date": "2026-11-11",
+   "authors": "Josh Gabbatiss",
+   "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+   "summary": "Análise da Carbon Brief mostra que as novas promessas públicas de financiamento climático dos países desenvolvidos caíram cerca de 70% em relação aos compromissos anteriores. A maioria das promessas plurianuais expirou em 2025, os EUA se retiraram da ação climática internacional e apenas cinco países anunciaram novas promessas plurianuais, entre eles o Reino Unido. Incide sobre a trilha de finanças e a pressão sobre o NCQG.",
+   "summary_i18n": {
+    "en": "Carbon Brief analysis finds that new public climate-finance pledges from developed countries are about 70% lower than earlier commitments. Most multi-year pledges expired in 2025, the US has withdrawn from international climate efforts, and only five countries have announced new multi-year pledges, including the UK. It bears on the finance track and pressure on the NCQG.",
+    "es": "Un análisis de Carbon Brief muestra que las nuevas promesas públicas de financiación climática de los países desarrollados son alrededor de un 70% inferiores a los compromisos anteriores. La mayoría de las promesas plurianuales expiró en 2025, Estados Unidos se retiró de la acción climática internacional y solo cinco países han anunciado nuevas promesas plurianuales, entre ellos el Reino Unido. Incide en la vía de finanzas y en la presión sobre el NCQG.",
+    "fr": "Une analyse de Carbon Brief montre que les nouvelles promesses publiques de financement climatique des pays développés sont inférieures d'environ 70 % aux engagements précédents. La plupart des promesses pluriannuelles ont expiré en 2025, les États-Unis se sont retirés de l'action climatique internationale et seuls cinq pays, dont le Royaume-Uni, ont annoncé de nouvelles promesses pluriannuelles. Cela concerne le volet finance et la pression sur le NCQG.",
+    "ru": "Анализ Carbon Brief показывает, что новые государственные обязательства развитых стран по климатическому финансированию примерно на 70% ниже прежних. Большинство многолетних обязательств истекло в 2025 году, США вышли из международных климатических усилий, и лишь пять стран, включая Великобританию, объявили новые многолетние обязательства. Это относится к направлению финансов и давлению вокруг NCQG.",
+    "zh": "Carbon Brief的分析显示，发达国家新的公共气候融资承诺比此前的承诺低约70%。大多数多年期承诺已于2025年到期，美国已退出国际气候行动，只有包括英国在内的五个国家宣布了新的多年期承诺。该分析涉及融资议题及围绕NCQG的压力。",
+    "ar": "يُظهر تحليل لـ Carbon Brief أن التعهدات العامة الجديدة للبلدان المتقدمة بشأن تمويل المناخ أقل بنحو 70% من التعهدات السابقة. فقد انتهت صلاحية معظم التعهدات متعددة السنوات في عام 2025، وانسحبت الولايات المتحدة من العمل المناخي الدولي، ولم تعلن سوى خمس دول، بينها المملكة المتحدة، تعهدات جديدة متعددة السنوات. ويتصل ذلك بمسار التمويل والضغط حول NCQG."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [
+    "\"any conversation on new fresh money is dead in the water\" — EU climate chief (citado pela Carbon Brief)"
+   ],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
+  },
+  {
+   "id": "climatehome-2026-11-11-bulletin-day3",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
+   "date": "2026-11-11",
+   "authors": "Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+   "summary": "Cerca de 40 líderes falaram na Cúpula de Líderes da COP31 em Antalya, enquanto restrições de transporte deixaram delegados comuns do lado de fora. Guterres propôs um \"pacto de justiça climática\" e a promessa turca \"35 by 35\" de eletrificação recebeu primeiras adesões com ressalvas; o fundo de florestas de Lula soma cerca de US$ 7,9 bi em promessas e a Noruega condicionou US$ 3 bi a outros US$ 10 bi mobilizados até o fim do ano. Trilhas: presidência, eletrificação, finanças e florestas.",
+   "summary_i18n": {
+    "en": "Around 40 leaders addressed the COP31 Leaders Summit in Antalya while transport restrictions left ordinary delegates outside. Guterres proposed a \"climate justice compact\" and the Turkish \"35 by 35\" electrification pledge drew first backers with caveats; Lula's forest fund has about US$7.9bn in pledges and Norway made US$3bn conditional on another US$10bn being mobilised by year-end. Tracks: presidency, electrification, finance and forests.",
+    "es": "Unos 40 líderes intervinieron en la Cumbre de Líderes de la COP31 en Antalya, mientras las restricciones de transporte dejaban fuera a los delegados comunes. Guterres propuso un \"pacto de justicia climática\" y la promesa turca \"35 by 35\" sobre electrificación obtuvo los primeros apoyos con salvedades; el fondo forestal de Lula suma unos US$7.900 millones en promesas y Noruega condicionó US$3.000 millones a que se movilicen otros US$10.000 millones antes de fin de año. Vías: presidencia, electrificación, finanzas y bosques.",
+    "fr": "Une quarantaine de dirigeants ont pris la parole au Sommet des dirigeants de la COP31 à Antalya, tandis que des restrictions de transport laissaient les délégués ordinaires à l'extérieur. M. Guterres a proposé un « pacte de justice climatique » et l'engagement turc « 35 by 35 » sur l'électrification a reçu de premiers soutiens assortis de réserves ; le fonds forestier de Lula compte environ 7,9 milliards de dollars de promesses et la Norvège a conditionné 3 milliards à la mobilisation de 10 milliards supplémentaires d'ici la fin de l'année. Volets : présidence, électrification, finance et forêts.",
+    "ru": "Около 40 лидеров выступили на Саммите лидеров COP31 в Анталье, пока из-за транспортных ограничений обычные делегаты оставались снаружи. Гутерриш предложил «договор о климатической справедливости», а турецкая инициатива «35 by 35» по электрификации получила первые поддержки с оговорками; лесной фонд Лулы набрал около 7,9 млрд долл. обязательств, а Норвегия поставила 3 млрд долл. в зависимость от мобилизации ещё 10 млрд к концу года. Направления: председательство, электрификация, финансы и леса.",
+    "zh": "约40位领导人在安塔利亚的COP31领导人峰会上发言，而交通限制使普通代表被挡在场外。古特雷斯提出“气候正义契约”，土耳其的电气化“35 by 35”承诺获得首批支持但附带保留；卢拉的森林基金承诺额约79亿美元，挪威将30亿美元与年底前再动员100亿美元挂钩。涉及议题：主席国、电气化、融资和森林。",
+    "ar": "ألقى نحو 40 زعيماً كلمات في قمة قادة COP31 في أنطاليا بينما حالت قيود النقل دون وصول المندوبين العاديين. واقترح غوتيريش «ميثاق العدالة المناخية»، ولقيت المبادرة التركية «35 by 35» للكهربة أولى التأييدات مع تحفظات؛ ويبلغ إجمالي تعهدات صندوق الغابات الذي أطلقه لولا نحو 7.9 مليار دولار، وربطت النرويج 3 مليارات دولار بتعبئة 10 مليارات أخرى بحلول نهاية العام. المسارات: الرئاسة والكهربة والتمويل والغابات."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "Finanças",
+    "Florestas"
+   ],
+   "quotes": [
+    "\"The pledge aims to raise electricity's share of global final energy consumption to 35% by 2035, from 23% currently\" — Climate Home News"
+   ],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatehome-2026-11-11-turkiye-zero-waste",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Türkiye pushes \"zero waste\" at COP31, but is it delivering at home?",
+   "date": "2026-11-11",
+   "authors": "Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+   "summary": "A Climate Home News contrasta a agenda internacional de \"resíduo zero\" da Türkiye, liderada pela primeira-dama Emine Erdoğan, com a realidade doméstica: a geração de resíduos per capita não mudou desde 2010, aterros emitem metano e a lei de plásticos descartáveis está parada. A análise estima que o metano de aterros equivale ao dano de 73.000 carros a gasolina. Incide sobre a credibilidade do anfitrião e a agenda de metano.",
+   "summary_i18n": {
+    "en": "Climate Home News contrasts Türkiye's international \"zero waste\" agenda, led by First Lady Emine Erdoğan, with the domestic picture: per-person waste generation has not changed since 2010, landfills leak methane and single-use plastics legislation is stalled. Its analysis estimates landfill methane does damage equal to 73,000 petrol cars. It bears on the host's credibility and the methane agenda.",
+    "es": "Climate Home News contrasta la agenda internacional de \"residuo cero\" de Türkiye, encabezada por la primera dama Emine Erdoğan, con la situación interna: la generación de residuos per cápita no ha cambiado desde 2010, los vertederos emiten metano y la ley sobre plásticos de un solo uso está estancada. Su análisis estima que el metano de los vertederos causa un daño equivalente al de 73.000 automóviles de gasolina. Incide en la credibilidad del anfitrión y en la agenda del metano.",
+    "fr": "Climate Home News met en regard l'agenda internationale « zéro déchet » de la Türkiye, portée par la Première dame Emine Erdoğan, et la situation intérieure : la production de déchets par habitant n'a pas changé depuis 2010, les décharges émettent du méthane et la législation sur les plastiques à usage unique est bloquée. Son analyse estime que le méthane des décharges équivaut aux dégâts de 73 000 voitures à essence. Cela touche à la crédibilité de l'hôte et à l'agenda du méthane.",
+    "ru": "Climate Home News сопоставляет международную повестку Турции «ноль отходов», которую возглавляет первая леди Эмине Эрдоган, с внутренней ситуацией: объём отходов на душу населения не менялся с 2010 года, свалки выделяют метан, а закон об одноразовом пластике застопорился. По оценке издания, метан со свалок наносит ущерб, равный 73 000 бензиновых автомобилей. Это затрагивает доверие к стране-хозяйке и повестку по метану.",
+    "zh": "Climate Home News 将土耳其由第一夫人埃米内·埃尔多安牵头的国际“零废弃”议程与国内现实作了对比：人均废弃物产生量自2010年以来基本未变，垃圾填埋场泄漏甲烷，一次性塑料立法陷入停滞。该分析估计，填埋场甲烷造成的危害相当于7.3万辆汽油车。这关系到东道国的可信度和甲烷议程。",
+    "ar": "تقارن Climate Home News بين أجندة «صفر نفايات» الدولية لتركيا، التي تقودها السيدة الأولى أمينة أردوغان، والواقع المحلي: فمعدل توليد النفايات للفرد لم يتغير منذ عام 2010، وتتسرب الميثان من مكبات النفايات، وتشريع البلاستيك أحادي الاستخدام متعثر. وتقدّر أن ميثان المكبات يضر بقدر 73 ألف سيارة بنزين. ويتصل ذلك بمصداقية البلد المضيف وأجندة الميثان."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Per-person waste generation \"has remained broadly unchanged since 2010\" — Climate Home News"
+   ],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "cop31-2026-11-11-100-leaders",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "Türkiye hosts more than 100 leaders to build momentum on electrification and waste",
+   "date": "2026-11-11",
+   "authors": "Presidência da COP31",
+   "url": "https://cop31.tr/news-detail/turkiye-hosts-100-leaders-momentum-electrification-waste",
+   "summary": "A presidência relata que mais de 100 líderes nacionais e o secretário-geral da ONU, António Guterres, se reuniram em Antalya no primeiro dia da Cúpula de Líderes. A nota destaca o impulso político em eletrificação, prioridade central da COP31, e em resíduos. Trilhas: presidência e anfitrião, eletrificação e Agenda de Ação.",
+   "summary_i18n": {
+    "en": "The Presidency reports that more than 100 national leaders and UN Secretary-General António Guterres gathered in Antalya on the first day of the Leaders' Summit. The note highlights political momentum on electrification, a core COP31 priority, and on waste. Tracks: presidency and host, electrification and Action Agenda.",
+    "es": "La presidencia informa de que más de 100 líderes nacionales y el secretario general de la ONU, António Guterres, se reunieron en Antalya el primer día de la Cumbre de Líderes. La nota destaca el impulso político en electrificación, prioridad central de la COP31, y en residuos. Vías: presidencia y anfitrión, electrificación y Agenda de Acción.",
+    "fr": "La présidence indique que plus de 100 dirigeants nationaux et le Secrétaire général de l'ONU, António Guterres, se sont réunis à Antalya le premier jour du Sommet des dirigeants. La note souligne l'élan politique sur l'électrification, priorité centrale de la COP31, et sur les déchets. Volets : présidence et hôte, électrification et Programme d'action.",
+    "ru": "Председательство сообщает, что более 100 национальных лидеров и Генеральный секретарь ООН Антониу Гутерриш собрались в Анталье в первый день Саммита лидеров. В заметке подчёркивается политический импульс в области электрификации — ключевого приоритета COP31 — и отходов. Направления: председательство и страна-хозяйка, электрификация и Программа действий.",
+    "zh": "主席国表示，100多位国家领导人和联合国秘书长安东尼奥·古特雷斯在领导人峰会第一天齐聚安塔利亚。通报强调了在电气化（COP31的核心优先事项）和废弃物方面形成的政治势头。涉及议题：主席国与东道国、电气化和行动议程。",
+    "ar": "تفيد الرئاسة بأن أكثر من 100 من قادة الدول والأمين العام للأمم المتحدة أنطونيو غوتيريش اجتمعوا في أنطاليا في اليوم الأول من قمة القادة. وتبرز المذكرة الزخم السياسي بشأن الكهربة، وهي أولوية رئيسية لمؤتمر COP31، وبشأن النفايات. المسارات: الرئاسة والبلد المضيف والكهربة وخطة العمل."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "\"More than 100 national leaders and UN Secretary-General António Guterres gathered in Antalya.\""
+   ],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "unfccc-2026-11-11-guterres-early-warnings",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "UN Secretary-General's remarks to the High-Level Event, \"Early Warnings for All: Delivering on our Promise to Protect Everyone\"",
+   "date": "2026-11-11",
+   "authors": "António Guterres",
+   "url": "https://unfccc.int/news/un-secretary-general-s-remarks-to-the-high-level-event-early-warnings-for-all-delivering-on-our",
+   "summary": "Discurso de Guterres em evento de alto nível da COP31 sobre a iniciativa Alertas Precoces para Todos, que busca proteger toda a população com sistemas de alerta. Só o título e a listagem estão visíveis; o texto não foi lido. Incide sobre adaptação e resiliência.",
+   "summary_i18n": {
+    "en": "Remarks by Guterres at a COP31 high-level event on the Early Warnings for All initiative, which aims to protect everyone with early-warning systems. Only the title and listing were visible; the text was not read. It bears on adaptation and resilience.",
+    "es": "Discurso de Guterres en un evento de alto nivel de la COP31 sobre la iniciativa Alertas Tempranas para Todos, que busca proteger a todas las personas con sistemas de alerta temprana. Solo eran visibles el título y el listado; no se leyó el texto. Incide en la adaptación y la resiliencia.",
+    "fr": "Allocution de M. Guterres lors d'un événement de haut niveau de la COP31 sur l'initiative Alertes précoces pour tous, qui vise à protéger chacun grâce à des systèmes d'alerte précoce. Seuls le titre et la liste étaient visibles ; le texte n'a pas été lu. Cela concerne l'adaptation et la résilience.",
+    "ru": "Выступление Гутерриша на мероприятии высокого уровня COP31 по инициативе «Раннее предупреждение для всех», цель которой — защитить всех с помощью систем раннего оповещения. Были видны только заголовок и список; текст не читался. Относится к адаптации и устойчивости.",
+    "zh": "古特雷斯在COP31高级别活动上就“人人享有预警”倡议发表讲话，该倡议旨在通过预警系统保护所有人。仅可见标题和列表，未读取正文。涉及适应和韧性议题。",
+    "ar": "كلمة غوتيريش في حدث رفيع المستوى ضمن COP31 حول مبادرة الإنذار المبكر للجميع، التي تهدف إلى حماية الجميع عبر أنظمة الإنذار المبكر. كان العنوان والقائمة فقط ظاهرين ولم يُقرأ النص. وتتصل بالتكيف والقدرة على الصمود."
+   },
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-11-guterres-zero-waste",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "UN Secretary-General's remarks to the Leaders' Roundtable: Zero Waste, Circularity and Methane",
+   "date": "2026-11-11",
+   "authors": "António Guterres",
+   "url": "https://unfccc.int/news/un-secretary-general-s-remarks-to-the-leaders-roundtable-zero-waste-circularity-and-methane",
+   "summary": "Discurso de Guterres à mesa-redonda de líderes sobre resíduo zero, circularidade e metano, um dos temas da Cúpula de Líderes da COP31. Só o título e a listagem estão visíveis; o texto não foi lido. Incide sobre mitigação (metano) e a Agenda de Ação.",
+   "summary_i18n": {
+    "en": "Remarks by Guterres to the leaders' roundtable on zero waste, circularity and methane, one of the themes of the COP31 Leaders' Summit. Only the title and listing were visible; the text was not read. It bears on mitigation (methane) and the Action Agenda.",
+    "es": "Discurso de Guterres en la mesa redonda de líderes sobre residuo cero, circularidad y metano, uno de los temas de la Cumbre de Líderes de la COP31. Solo eran visibles el título y el listado; no se leyó el texto. Incide en la mitigación (metano) y la Agenda de Acción.",
+    "fr": "Allocution de M. Guterres à la table ronde des dirigeants sur le zéro déchet, la circularité et le méthane, l'un des thèmes du Sommet des dirigeants de la COP31. Seuls le titre et la liste étaient visibles ; le texte n'a pas été lu. Cela concerne l'atténuation (méthane) et le Programme d'action.",
+    "ru": "Выступление Гутерриша на круглом столе лидеров по теме «ноль отходов, цикличность и метан» — одной из тем Саммита лидеров COP31. Были видны только заголовок и список; текст не читался. Относится к смягчению (метан) и Программе действий.",
+    "zh": "古特雷斯在领导人圆桌会议上就零废弃、循环利用和甲烷发表讲话，这是COP31领导人峰会的主题之一。仅可见标题和列表，未读取正文。涉及减缓（甲烷）和行动议程。",
+    "ar": "كلمة غوتيريش في مائدة القادة المستديرة حول صفر نفايات والدورية والميثان، وهي من محاور قمة قادة COP31. كان العنوان والقائمة فقط ظاهرين ولم يُقرأ النص. وتتصل بالتخفيف (الميثان) وخطة العمل."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "wbcsd-2026-11-11-unido",
+   "institution": "WBCSD",
+   "type": "comunicado",
+   "title": "UNIDO and WBCSD sign declaration to strengthen sustainable industrial development partnership",
+   "date": "2026-11-11",
+   "authors": "WBCSD",
+   "url": "https://www.wbcsd.org/news/unido-and-wbcsd-sign-declaration-to-strengthen-sustainable-industrial-development-partnership/",
+   "summary": "A UNIDO e o WBCSD assinaram em Antalya uma declaração conjunta para ampliar a parceria em sustentabilidade industrial, cobrindo indústria mais verde, economia circular e sistemas agroalimentares. Incide sobre a Agenda de Ação e o engajamento empresarial na COP31.",
+   "summary_i18n": {
+    "en": "UNIDO and WBCSD signed a joint declaration in Antalya to expand their partnership on industrial sustainability, covering greener industry, circular economy and agri-food systems. It bears on the Action Agenda and business engagement at COP31.",
+    "es": "La ONUDI y el WBCSD firmaron en Antalya una declaración conjunta para ampliar su alianza en sostenibilidad industrial, que abarca una industria más verde, la economía circular y los sistemas agroalimentarios. Incide en la Agenda de Acción y en la participación empresarial en la COP31.",
+    "fr": "L'ONUDI et le WBCSD ont signé à Antalya une déclaration commune pour élargir leur partenariat sur la durabilité industrielle, couvrant une industrie plus verte, l'économie circulaire et les systèmes agroalimentaires. Cela concerne le Programme d'action et l'engagement des entreprises à la COP31.",
+    "ru": "ЮНИДО и WBCSD подписали в Анталье совместную декларацию о расширении партнёрства в области промышленной устойчивости, охватывающего более «зелёную» промышленность, циркулярную экономику и агропродовольственные системы. Относится к Программе действий и участию бизнеса в COP31.",
+    "zh": "联合国工业发展组织（UNIDO）与WBCSD在安塔利亚签署联合宣言，扩大工业可持续性方面的伙伴关系，涵盖更绿色的工业、循环经济和农业食品系统。涉及行动议程及企业界在COP31的参与。",
+    "ar": "وقّعت اليونيدو ومجلس الأعمال العالمي للتنمية المستدامة (WBCSD) في أنطاليا إعلاناً مشتركاً لتوسيع شراكتهما في الاستدامة الصناعية، يشمل صناعة أكثر خضرة والاقتصاد الدائري والنظم الزراعية الغذائية. ويتصل بخطة العمل ومشاركة قطاع الأعمال في COP31."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T06:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-wbcsd-org-news"
   },
   {
    "id": "instagram-turkiyecop31-20261111-erdogan-board",
@@ -14218,11 +14577,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T05:50:00-03:00",
-  "label": "12 nov 2026, 05:50 (Brasília)",
+  "timestamp": "2026-11-12T06:50:00-03:00",
+  "label": "12 nov 2026, 06:50 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 10,
+  "new_items": 6,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
