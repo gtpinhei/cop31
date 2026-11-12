@@ -32,6 +32,62 @@
  ],
  "items": [
   {
+   "id": "x-fatmavarank-20261112-eletrificacao-ministerial",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "08:25",
+   "text": "COP31 Başkanlığı etkinliği olan Küresel Elektrifikasyon Bakanlar Toplantısı ve Elektrifikasyon Forumu'na katılım sağladık. Ülkelerin elektrifikasyon girişimine gösterdiği güçlü destek ve kararlılığı memnuniyetle karşıladık; katkı sunan tüm ülkelere teşekkür ederiz.",
+   "summary": "Fatma Varank participou da Reunião Ministerial Global sobre Eletrificação e do Fórum de Eletrificação da Presidência da COP31 e saudou o forte apoio dos países à iniciativa de eletrificação.",
+   "summary_i18n": {
+    "en": "Fatma Varank took part in the COP31 Presidency's Global Electrification Ministerial and Electrification Forum and welcomed countries' strong support and commitment to the electrification initiative.",
+    "es": "Fatma Varank participó en la Reunión Ministerial Mundial sobre Electrificación y en el Foro de Electrificación de la Presidencia de la COP31 y acogió con satisfacción el firme apoyo de los países a la iniciativa de electrificación.",
+    "fr": "Fatma Varank a participé à la réunion ministérielle mondiale sur l'électrification et au Forum sur l'électrification de la présidence de la COP31, et s'est félicitée du soutien marqué des pays à l'initiative d'électrification.",
+    "ru": "Фатма Варанк приняла участие в Глобальном министерском совещании по электрификации и Форуме по электрификации Председательства КС-31 и приветствовала решительную поддержку стран инициативы по электрификации.",
+    "zh": "法特玛·瓦兰克出席了COP31主席团举办的全球电气化部长级会议和电气化论坛，并对各国对电气化倡议的有力支持表示欢迎。",
+    "ar": "شاركت فاطمة فارانك في الاجتماع الوزاري العالمي بشأن التحول إلى الكهرباء ومنتدى التحول إلى الكهرباء اللذين نظمتهما رئاسة مؤتمر الأطراف الحادي والثلاثين، ورحّبت بالدعم القوي الذي أبدته الدول لمبادرة التحول إلى الكهرباء."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T08:55:00-03:00",
+   "lang": "tr",
+   "source_id": "x-fatmavarank"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261112-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "06:45",
+   "text": "Daily Briefing: Guterres says tax ‘big oil’ | Burnham’s COP31 speech | Climate action ‘stalls’\n\nRead today's briefing here ➡️ buff.ly/0xouk5w\n\nSign up to our email briefings ➡️ buff.ly/TwwsRyc",
+   "summary": "O briefing diário do Carbon Brief destaca o apelo de Guterres para taxar as petrolíferas, o discurso de Burnham na COP31 e a avaliação de que a ação climática está estagnada.",
+   "summary_i18n": {
+    "en": "Carbon Brief's daily briefing highlights Guterres's call to tax big oil, Burnham's speech at COP31 and the assessment that climate action is stalling.",
+    "es": "El resumen diario de Carbon Brief destaca el llamamiento de Guterres a gravar a las petroleras, el discurso de Burnham en la COP31 y la valoración de que la acción climática se estanca.",
+    "fr": "Le point quotidien de Carbon Brief met en avant l'appel de Guterres à taxer les grandes compagnies pétrolières, le discours de Burnham à la COP31 et le constat d'un essoufflement de l'action climatique.",
+    "ru": "Ежедневный обзор Carbon Brief выделяет призыв Гутерреша обложить налогом нефтяные компании, выступление Бёрнема на КС-31 и оценку о том, что климатические действия буксуют.",
+    "zh": "Carbon Brief每日简报重点关注古特雷斯呼吁对大型石油公司征税、伯纳姆在COP31上的讲话，以及气候行动陷入停滞的判断。",
+    "ar": "يسلّط الموجز اليومي لموقع Carbon Brief الضوء على دعوة غوتيريش إلى فرض ضريبة على شركات النفط الكبرى، وخطاب بيرنهام في مؤتمر الأطراف الحادي والثلاثين، وتقييم مفاده أن العمل المناخي يتعثر."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n246qrsfha2w",
+   "tracks": [
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T08:55:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "x-LulaOficial-20261112-lula-noruega-bilateral",
    "kind": "post",
    "platform": "x",
@@ -14772,11 +14828,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T07:50:00-03:00",
-  "label": "12 nov 2026, 07:50 (Brasília)",
+  "timestamp": "2026-11-12T08:55:00-03:00",
+  "label": "12 nov 2026, 08:55 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 7,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
