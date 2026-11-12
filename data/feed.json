@@ -1,16 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-12T12:40:00-03:00",
+ "generated_at": "2026-11-12T18:35:00-03:00",
  "round": {
-  "timestamp": "2026-11-12T12:40:00-03:00",
-  "label": "12 nov 2026, 12:40 (Brasília)",
-  "sites_checked": 60,
-  "blocked": 16,
-  "new_items": 2,
-  "fetches": "60 de 60",
+  "timestamp": "2026-11-12T18:35:00-03:00",
+  "label": "12 nov 2026, 18:35 (Brasília)",
+  "sites_checked": 58,
+  "blocked": 18,
+  "new_items": 3,
+  "fetches": "62 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, ember-energy-org-latest-insights, icccad-net-news"
+   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, cop30-br-en-2026-priorities, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, icccad-net-news, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, twn-my-title2-climate-climate-updates-htm, ember-energy-org-latest-insights"
   ]
  },
  "tracks": [
@@ -31,6 +31,527 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:38",
+   "text": "#COP31 In the face of rapidly increasing energy demands by data centers, experts urged changes in technologies, policies, and skills to achieve gains in energy efficiency and enable uses of AI to benefit people and the planet. \n\nenb.iisd.org/case-data-ce...",
+   "summary": "O ENB relata que, na COP31, especialistas pediram mudanças em tecnologias, políticas e capacidades para ganhar eficiência energética em data centers diante da demanda crescente e para que a IA beneficie pessoas e planeta.",
+   "summary_i18n": {
+    "en": "ENB reports that at COP31 experts urged changes in technologies, policies and skills to improve energy efficiency in data centres amid rapidly rising demand, so that AI can benefit people and the planet.",
+    "es": "El ENB informa de que, en la COP31, expertos instaron a cambiar tecnologías, políticas y capacidades para mejorar la eficiencia energética de los centros de datos ante una demanda creciente y para que la IA beneficie a las personas y al planeta.",
+    "fr": "L'ENB rapporte qu'à la COP31, des experts ont appelé à modifier les technologies, les politiques et les compétences pour améliorer l'efficacité énergétique des centres de données face à une demande croissante, afin que l'IA profite aux personnes et à la planète.",
+    "ru": "ENB сообщает, что на КС-31 эксперты призвали изменить технологии, политику и навыки для повышения энергоэффективности центров обработки данных на фоне быстрого роста спроса, чтобы ИИ приносил пользу людям и планете.",
+    "zh": "ENB报道，在COP31上，专家呼吁在数据中心能源需求快速增长的背景下，改进技术、政策和技能以提高能效，使人工智能造福人类和地球。",
+    "ar": "تفيد نشرة ENB بأن خبراء حثّوا في مؤتمر الأطراف الحادي والثلاثين على تغيير التقنيات والسياسات والمهارات لتحقيق مكاسب في كفاءة الطاقة في مراكز البيانات في ظل الطلب المتزايد بسرعة، بما يتيح استخدام الذكاء الاصطناعي لخدمة الناس والكوكب."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n25glllstc2z",
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261112-compacto-antalya-edificios",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:12",
+   "text": "#COP31 Buildings and housing contribute significantly to greenhouse gas emissions. The COP31 Presidency’s Antalya Compact for Energy Efficient Buildings seeks to reduce the operational energy intensity of buildings and accelerate efficient electrification. \n\nenb.iisd.org/icbc-second-...",
+   "summary": "O ENB cobre a 2ª Reunião Ministerial sobre Edificações e Clima: o Compacto de Antalya da Presidência da COP31 para Edifícios Eficientes busca reduzir a intensidade energética operacional das edificações e acelerar a eletrificação eficiente.",
+   "summary_i18n": {
+    "en": "ENB covers the Second Ministerial Meeting on Buildings and Climate: the COP31 Presidency's Antalya Compact for Energy Efficient Buildings seeks to reduce the operational energy intensity of buildings and accelerate efficient electrification.",
+    "es": "El ENB cubre la Segunda Reunión Ministerial sobre Edificios y Clima: el Compacto de Antalya para Edificios Energéticamente Eficientes de la Presidencia de la COP31 busca reducir la intensidad energética operativa de los edificios y acelerar la electrificación eficiente.",
+    "fr": "L'ENB couvre la deuxième réunion ministérielle sur les bâtiments et le climat : le Pacte d'Antalya pour des bâtiments économes en énergie de la présidence de la COP31 vise à réduire l'intensité énergétique opérationnelle des bâtiments et à accélérer l'électrification efficace.",
+    "ru": "ENB освещает вторую министерскую встречу по зданиям и климату: Анталийский компакт по энергоэффективным зданиям председательства КС-31 направлен на снижение эксплуатационной энергоёмкости зданий и ускорение эффективной электрификации.",
+    "zh": "ENB报道了第二次建筑与气候部长级会议：COP31主席国的《安塔利亚节能建筑契约》旨在降低建筑运行能耗强度，并加快高效电气化。",
+    "ar": "تغطي نشرة ENB الاجتماع الوزاري الثاني بشأن المباني والمناخ: يسعى «ميثاق أنطاليا للمباني الموفرة للطاقة» الصادر عن رئاسة مؤتمر الأطراف الحادي والثلاثين إلى خفض كثافة الطاقة التشغيلية للمباني وتسريع التحول الكهربائي الفعّال."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n25f4ryd322z",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "x-LulaOficial-20261112-legitimidade-ambiental",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-12",
+   "time": "18:43",
+   "text": "O Brasil tem legitimidade, responsabilidade e autoridade para liderar a agenda global de defesa do meio ambiente. O que está em jogo é a construção de um mundo mais justo e sustentável. 🇧🇷",
+   "summary": "Lula afirma que o Brasil tem legitimidade, responsabilidade e autoridade para liderar a agenda global de defesa do meio ambiente, em nome de um mundo mais justo e sustentável.",
+   "summary_i18n": {
+    "en": "Lula says Brazil has the legitimacy, responsibility and authority to lead the global agenda for protecting the environment, in the name of a fairer and more sustainable world.",
+    "es": "Lula afirma que Brasil tiene legitimidad, responsabilidad y autoridad para liderar la agenda global de defensa del medio ambiente, en favor de un mundo más justo y sostenible.",
+    "fr": "Lula affirme que le Brésil a la légitimité, la responsabilité et l'autorité pour mener l'agenda mondial de défense de l'environnement, au nom d'un monde plus juste et plus durable.",
+    "ru": "Лула заявляет, что Бразилия обладает легитимностью, ответственностью и авторитетом, чтобы возглавить глобальную повестку защиты окружающей среды ради более справедливого и устойчивого мира.",
+    "zh": "卢拉表示，巴西有合法性、责任和权威来引领全球环境保护议程，以建设一个更公正、更可持续的世界。",
+    "ar": "يقول لولا إن للبرازيل الشرعية والمسؤولية والسلطة اللازمة لقيادة الأجندة العالمية لحماية البيئة من أجل عالم أكثر عدلاً واستدامة."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-agrifood-finance-elnino",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:01",
+   "text": "Scaling climate finance for resilient agrifood systems facing extreme heat and El Niño-related shock",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre ampliar o financiamento climático para sistemas agroalimentares resilientes ao calor extremo e a choques ligados ao El Niño.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on scaling up climate finance for agrifood systems resilient to extreme heat and El Niño-related shocks.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre ampliar la financiación climática para sistemas agroalimentarios resilientes al calor extremo y a las perturbaciones vinculadas a El Niño.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur l'intensification du financement climatique pour des systèmes agroalimentaires résilients à la chaleur extrême et aux chocs liés à El Niño.",
+    "ru": "Видео с канала президентства COP31: сессия об увеличении климатического финансирования для агропродовольственных систем, устойчивых к экстремальной жаре и шокам, связанным с Эль-Ниньо.",
+    "zh": "COP31主席国频道视频：讨论扩大气候融资，以增强农业粮食系统应对极端高温和厄尔尼诺相关冲击的韧性。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول توسيع نطاق التمويل المناخي للنظم الزراعية الغذائية القادرة على مواجهة الحرارة الشديدة وصدمات ظاهرة النينيو."
+   },
+   "url": "https://www.youtube.com/watch?v=8PcolKIqvl8",
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-electrification-green-value",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:12",
+   "text": "From Electrification to Green Value Scaling Green Energy for Deep Industrial Decarbonization",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre da eletrificação ao valor verde, ampliando a energia verde para a descarbonização profunda da indústria.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on moving from electrification to green value, scaling green energy for deep industrial decarbonization.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre pasar de la electrificación al valor verde, ampliando la energía verde para la descarbonización profunda de la industria.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur le passage de l'électrification à la valeur verte, avec le déploiement de l'énergie verte pour une décarbonation profonde de l'industrie.",
+    "ru": "Видео с канала президентства COP31: сессия о переходе от электрификации к «зелёной» стоимости и масштабировании зелёной энергии для глубокой декарбонизации промышленности.",
+    "zh": "COP31主席国频道视频：讨论从电气化走向绿色价值，扩大绿色能源规模以实现工业深度脱碳。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول الانتقال من الكهربة إلى القيمة الخضراء وتوسيع الطاقة الخضراء لإزالة الكربون العميقة من الصناعة."
+   },
+   "url": "https://www.youtube.com/watch?v=FNfqLwjCDLU",
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-road-freight-electrification",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:11",
+   "text": "Scaling Global Road Freight Electrification",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre a ampliação global da eletrificação do transporte rodoviário de cargas.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on scaling up global road freight electrification.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre la ampliación global de la electrificación del transporte de carga por carretera.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur le déploiement mondial de l'électrification du transport routier de marchandises.",
+    "ru": "Видео с канала президентства COP31: сессия о глобальном масштабировании электрификации автомобильных грузоперевозок.",
+    "zh": "COP31主席国频道视频：讨论在全球范围内扩大公路货运电气化。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول توسيع نطاق كهربة نقل البضائع بالطرق على مستوى العالم."
+   },
+   "url": "https://www.youtube.com/watch?v=QYnEu6yKh2I",
+   "tracks": [
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-standing-forests-finance",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:05",
+   "text": "From Standing Forests to the New Economy Local Financing for an Economy Centered on People and Fore",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre financiamento local de uma economia centrada nas pessoas e nas florestas em pé.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on local financing for an economy centred on people and standing forests.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre financiación local para una economía centrada en las personas y los bosques en pie.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur le financement local d'une économie centrée sur les populations et les forêts sur pied.",
+    "ru": "Видео с канала президентства COP31: сессия о местном финансировании экономики, ориентированной на людей и сохранившиеся леса.",
+    "zh": "COP31主席国频道视频：讨论为以人和原始森林为中心的经济提供地方融资。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول التمويل المحلي لاقتصاد محوره الناس والغابات القائمة."
+   },
+   "url": "https://www.youtube.com/watch?v=wtQNhUrs-Lg",
+   "tracks": [
+    "Florestas",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-water-governance-adaptation",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:42",
+   "text": "Side-event Towards More Coherent Global Water Governance for Climate Adaptation and Resilience",
+   "summary": "Vídeo do canal da Presidência da COP31: evento paralelo sobre uma governança global da água mais coerente para a adaptação e a resiliência climáticas.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: side event on more coherent global water governance for climate adaptation and resilience.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: evento paralelo sobre una gobernanza mundial del agua más coherente para la adaptación y la resiliencia climáticas.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : événement parallèle sur une gouvernance mondiale de l'eau plus cohérente pour l'adaptation et la résilience climatiques.",
+    "ru": "Видео с канала президентства COP31: параллельное мероприятие о более согласованном глобальном управлении водными ресурсами для адаптации к изменению климата и повышения устойчивости.",
+    "zh": "COP31主席国频道视频：关于加强全球水治理协调性以促进气候适应与韧性的边会。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: فعالية جانبية حول حوكمة عالمية أكثر تماسكاً للمياه من أجل التكيف مع المناخ والقدرة على الصمود."
+   },
+   "url": "https://www.youtube.com/watch?v=4DwrsZQziZI",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-right-to-science-gst",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:24",
+   "text": "Climate action and the right to science implications for just transition, the GST, NDCs, and more",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre o direito à ciência e suas implicações para a transição justa, o Balanço Global (GST), as NDCs e outros temas.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on the right to science and its implications for just transition, the Global Stocktake (GST), NDCs and more.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre el derecho a la ciencia y sus implicaciones para la transición justa, el Balance Mundial (GST), las NDC y otros temas.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur le droit à la science et ses implications pour la transition juste, le bilan mondial (GST), les CDN et d'autres sujets.",
+    "ru": "Видео с канала президентства COP31: сессия о праве на науку и его значении для справедливого перехода, Глобальной инвентаризации (GST), НОВ и других вопросов.",
+    "zh": "COP31主席国频道视频：讨论科学权利及其对公正转型、全球盘点（GST）、国家自主贡献（NDC）等议题的影响。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول الحق في العلم وآثاره على التحول العادل والحصيلة العالمية (GST) والمساهمات المحددة وطنياً وغيرها."
+   },
+   "url": "https://www.youtube.com/watch?v=lsCeovF4rTI",
+   "tracks": [
+    "GST2 e IPCC",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-rights-based-climate-justice",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "16:38",
+   "text": "Advancing Rights-Based Climate Action and Climate JusticeThe Unique Role of National Human Rights",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre ação climática baseada em direitos e justiça climática, com o papel específico das instituições nacionais de direitos humanos.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on rights-based climate action and climate justice, and the unique role of national human rights institutions.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre la acción climática basada en los derechos y la justicia climática, y el papel singular de las instituciones nacionales de derechos humanos.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur l'action climatique fondée sur les droits et la justice climatique, et le rôle unique des institutions nationales des droits de l'homme.",
+    "ru": "Видео с канала президентства COP31: сессия о климатических действиях, основанных на правах человека, и климатической справедливости, а также об особой роли национальных правозащитных учреждений.",
+    "zh": "COP31主席国频道视频：讨论基于权利的气候行动与气候正义，以及国家人权机构的独特作用。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول العمل المناخي القائم على الحقوق والعدالة المناخية والدور الفريد للمؤسسات الوطنية لحقوق الإنسان."
+   },
+   "url": "https://www.youtube.com/watch?v=9PRMQGwA-fk",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-Turkiyecop31-20261112-keep-the-faith-ethics",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@Turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:47",
+   "text": "Keep the faith Putting ethics at the heart of the green transition",
+   "summary": "Vídeo do canal da Presidência da COP31: sessão sobre colocar a ética no centro da transição verde.",
+   "summary_i18n": {
+    "en": "Video from the COP31 Presidency channel: session on putting ethics at the heart of the green transition.",
+    "es": "Vídeo del canal de la Presidencia de la COP31: sesión sobre poner la ética en el centro de la transición verde.",
+    "fr": "Vidéo de la chaîne de la présidence de la COP31 : session sur la place de l'éthique au cœur de la transition verte.",
+    "ru": "Видео с канала президентства COP31: сессия о том, чтобы поставить этику в центр «зелёного» перехода.",
+    "zh": "COP31主席国频道视频：讨论将伦理置于绿色转型的核心。",
+    "ar": "فيديو من قناة رئاسة مؤتمر الأطراف الحادي والثلاثين: جلسة حول وضع الأخلاقيات في صميم التحول الأخضر."
+   },
+   "url": "https://www.youtube.com/watch?v=IsyeFnKPNLY",
+   "tracks": [
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-turkiyecop31"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261112-guterres-abertura-cupula",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "text": "UN Secretary-General António Guterres at Opening of World Leaders Summit | #COP31. UN Secretary-General António Guterres delivers a powerful, urgent address at the World Leaders Summit, calling for decisive action as the climate crisis accelerates.",
+   "summary": "Discurso do secretário-geral da ONU, António Guterres, na abertura da Cúpula de Líderes: energia limpa é a fonte nova mais barata, a lógica econômica dos fósseis desmorona e os planos nacionais ainda são lentos demais.",
+   "summary_i18n": {
+    "en": "UN Secretary-General António Guterres at the opening of the World Leaders Summit: clean energy is the cheapest new power source, the economic case for fossil fuels is collapsing and national climate plans remain far too slow.",
+    "es": "El Secretario General de la ONU, António Guterres, en la apertura de la Cumbre de Líderes Mundiales: la energía limpia es la fuente nueva más barata, el argumento económico de los combustibles fósiles se desmorona y los planes climáticos nacionales siguen siendo demasiado lentos.",
+    "fr": "Le Secrétaire général de l'ONU, António Guterres, à l'ouverture du Sommet des dirigeants : l'énergie propre est la source d'électricité nouvelle la moins chère, l'argument économique en faveur des combustibles fossiles s'effondre et les plans climatiques nationaux restent beaucoup trop lents.",
+    "ru": "Генеральный секретарь ООН Антониу Гутерриш на открытии Саммита мировых лидеров: чистая энергия — самый дешёвый новый источник энергии, экономические аргументы в пользу ископаемого топлива рушатся, а национальные климатические планы по-прежнему слишком медленные.",
+    "zh": "联合国秘书长安东尼奥·古特雷斯在世界领导人峰会开幕式上表示：清洁能源是最便宜的新增电力来源，化石燃料的经济理由正在瓦解，而各国气候计划仍然过于缓慢。",
+    "ar": "الأمين العام للأمم المتحدة أنطونيو غوتيريش في افتتاح قمة قادة العالم: الطاقة النظيفة هي أرخص مصدر جديد للكهرباء، والحجة الاقتصادية للوقود الأحفوري تتهاوى، وما زالت الخطط المناخية الوطنية بطيئة للغاية."
+   },
+   "url": "https://www.youtube.com/watch?v=-PD330NWLvA",
+   "tracks": [
+    "Mitigação e MWP",
+    "TAFF e fósseis",
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261112-stiell-eletrificacao-solucao",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "16:30",
+   "text": "UN Climate Chief Simon Stiell: Electrification Is the Practical Solution | #COP31. Speaking at COP 31, UN Climate Change Executive Secretary Simon Stiell calls for urgent, practical solutions across negotiations and the climate action agenda.",
+   "summary": "Simon Stiell defende a eletrificação como solução prática (\"elétrico ou choque\"): combustíveis fósseis voláteis alimentam a inflação, e a meta \"35 até 35\" já tem apoio de 180 empresas.",
+   "summary_i18n": {
+    "en": "Simon Stiell calls electrification the practical solution (\"electric or shock\"): volatile fossil fuels are driving inflation, and the \"35 by 35\" goal is already backed by 180 companies.",
+    "es": "Simon Stiell defiende la electrificación como la solución práctica («eléctrico o conmoción»): los combustibles fósiles volátiles alimentan la inflación y el objetivo «35 para 2035» ya cuenta con el respaldo de 180 empresas.",
+    "fr": "Simon Stiell présente l'électrification comme la solution pratique (« électrique ou choc ») : la volatilité des combustibles fossiles alimente l'inflation et l'objectif « 35 d'ici 2035 » est déjà soutenu par 180 entreprises.",
+    "ru": "Саймон Стилл называет электрификацию практическим решением («электричество или шок»): нестабильное ископаемое топливо подпитывает инфляцию, а цель «35 к 2035 году» уже поддержали 180 компаний.",
+    "zh": "西蒙·斯蒂尔称电气化是切实可行的解决方案（“电气化或冲击”）：价格波动的化石燃料推高通胀，“2035年达到35%”目标已获180家企业支持。",
+    "ar": "سايمون ستيل يدعو إلى الكهربة بوصفها الحل العملي («الكهرباء أو الصدمة»): الوقود الأحفوري المتقلب يغذي التضخم، وهدف «35 بحلول 2035» تدعمه بالفعل 180 شركة."
+   },
+   "url": "https://www.youtube.com/watch?v=_3I6NfcTo7E",
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261112-stiell-discurso-abertura",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "14:45",
+   "text": "Simon Stiell Opening Speech Sets New Era At COP31 | #COP31. UN Climate Change Executive Secretary Simon Stiell opens COP 31 by urging nations to supercharge solutions.",
+   "summary": "Discurso de abertura de Simon Stiell na COP31: pede transformar metas globais e planos nacionais em passos que acelerem a energia limpa e destravem financiamento.",
+   "summary_i18n": {
+    "en": "Simon Stiell's opening speech at COP31: he urges turning global targets and national plans into steps that fast-track clean energy and unlock finance.",
+    "es": "Discurso de apertura de Simon Stiell en la COP31: pide convertir las metas mundiales y los planes nacionales en pasos que aceleren la energía limpia y desbloqueen financiación.",
+    "fr": "Discours d'ouverture de Simon Stiell à la COP31 : il appelle à traduire les objectifs mondiaux et les plans nationaux en étapes qui accélèrent l'énergie propre et débloquent des financements.",
+    "ru": "Вступительная речь Саймона Стилла на COP31: он призывает превратить глобальные цели и национальные планы в шаги, ускоряющие развёртывание чистой энергии и открывающие доступ к финансированию.",
+    "zh": "西蒙·斯蒂尔在COP31开幕致辞：呼吁将全球目标和国家计划分解为加速清洁能源部署、释放资金的具体步骤。",
+    "ar": "كلمة سايمون ستيل الافتتاحية في مؤتمر الأطراف الحادي والثلاثين: يدعو إلى تحويل الأهداف العالمية والخطط الوطنية إلى خطوات تسرّع الطاقة النظيفة وتفتح التمويل."
+   },
+   "url": "https://www.youtube.com/watch?v=YY7KdVvEx9U",
+   "tracks": [
+    "Agenda de Ação",
+    "Finanças",
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChange-20261112-voices4change-eletrificacao",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChange",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:23",
+   "text": "Accelerating the Clean Energy Transition: The Electrification Story | Voices4Change ft Going Green. Filmed on location at COP31, host Ciara Doyle explores how global electrification is transforming energy security, lowering costs and accelerating the clean energy transition, with Ramón Méndez and Laura Cozzi (IEA).",
+   "summary": "Episódio Voices for Change gravado na COP31 com Ramón Méndez e Laura Cozzi (AIE) sobre eletrificação, a meta \"35 até 35\" e segurança energética.",
+   "summary_i18n": {
+    "en": "Voices for Change episode filmed at COP31 with Ramón Méndez and Laura Cozzi (IEA) on electrification, the \"35 by 35\" goal and energy security.",
+    "es": "Episodio de Voices for Change grabado en la COP31 con Ramón Méndez y Laura Cozzi (AIE) sobre electrificación, el objetivo «35 para 2035» y la seguridad energética.",
+    "fr": "Épisode de Voices for Change tourné à la COP31 avec Ramón Méndez et Laura Cozzi (AIE) sur l'électrification, l'objectif « 35 d'ici 2035 » et la sécurité énergétique.",
+    "ru": "Выпуск Voices for Change, снятый на COP31, с Рамоном Мендесом и Лаурой Коцци (МЭА) об электрификации, цели «35 к 2035 году» и энергетической безопасности.",
+    "zh": "在COP31拍摄的《Voices for Change》节目，邀请拉蒙·门德斯和劳拉·科齐（国际能源署）谈电气化、“2035年达到35%”目标与能源安全。",
+    "ar": "حلقة «Voices for Change» المصوّرة في مؤتمر الأطراف الحادي والثلاثين مع رامون مينديز ولورا كوتسي (وكالة الطاقة الدولية) حول الكهربة وهدف «35 بحلول 2035» وأمن الطاقة."
+   },
+   "url": "https://www.youtube.com/watch?v=dbKNIpMoZ18",
+   "tracks": [
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechange"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-natures-stress-test",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:38",
+   "text": "Nature's Stress Test: Financing Resilience and the Transition. Location: UN Climate Change Pavilion, COP 31. Organized by: EY",
+   "summary": "Vídeo do Pavilhão da UNFCCC na COP31 (organização: EY): financiamento da resiliência e da transição diante do estresse da natureza.",
+   "summary_i18n": {
+    "en": "Video from the UNFCCC Pavilion at COP31 (organized by EY): financing resilience and the transition in the face of nature's stress test.",
+    "es": "Vídeo del Pabellón de la CMNUCC en la COP31 (organizado por EY): financiación de la resiliencia y la transición ante la prueba de estrés de la naturaleza.",
+    "fr": "Vidéo du pavillon de la CCNUCC à la COP31 (organisé par EY) : financer la résilience et la transition face à l'épreuve de résistance de la nature.",
+    "ru": "Видео из павильона РКИКООН на COP31 (организатор — EY): финансирование устойчивости и перехода в условиях «стресс-теста природы».",
+    "zh": "COP31联合国气候变化公约馆视频（主办方：安永EY）：面对自然压力测试，为韧性与转型提供融资。",
+    "ar": "فيديو من جناح اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في مؤتمر الأطراف الحادي والثلاثين (تنظيم EY): تمويل القدرة على الصمود والتحول في مواجهة اختبار الإجهاد الذي تفرضه الطبيعة."
+   },
+   "url": "https://www.youtube.com/watch?v=P0tJ-HMhloc",
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-we-have-the-deal",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "18:42",
+   "text": "We have the deal. Now what?. Location: UN Climate Change Pavilion, COP 31. Organized by: VdA - Vieira de Almeida",
+   "summary": "Vídeo do Pavilhão da UNFCCC na COP31 (organização: VdA - Vieira de Almeida): \"Temos o acordo. E agora?\".",
+   "summary_i18n": {
+    "en": "Video from the UNFCCC Pavilion at COP31 (organized by VdA - Vieira de Almeida): \"We have the deal. Now what?\"",
+    "es": "Vídeo del Pabellón de la CMNUCC en la COP31 (organizado por VdA - Vieira de Almeida): «Tenemos el acuerdo. ¿Y ahora qué?».",
+    "fr": "Vidéo du pavillon de la CCNUCC à la COP31 (organisé par VdA - Vieira de Almeida) : « Nous avons l'accord. Et maintenant ? »",
+    "ru": "Видео из павильона РКИКООН на COP31 (организатор — VdA - Vieira de Almeida): «Соглашение есть. Что дальше?»",
+    "zh": "COP31联合国气候变化公约馆视频（主办方：VdA - Vieira de Almeida）：“协议达成，然后呢？”",
+    "ar": "فيديو من جناح اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في مؤتمر الأطراف الحادي والثلاثين (تنظيم VdA - Vieira de Almeida): «لدينا الاتفاق. وماذا بعد؟»"
+   },
+   "url": "https://www.youtube.com/watch?v=ySKkF8jAAfk",
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-12T18:45:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "unfccc-2026-11-12-presidency-concept-note-process",
+   "institution": "UNFCCC",
+   "type": "briefing",
+   "title": "COP31 Presidency - Concept note - Strengthening the UNFCCC Process: A Forward-Looking Dialogue",
+   "date": "2026-11-12",
+   "authors": "Presidência da COP31",
+   "url": "https://unfccc.int/documents/664480",
+   "summary": "A Presidência da COP31 publicou a nota conceitual \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\", ligada às consultas da Presidência sobre o fortalecimento do processo da Convenção. A página do UNFCCC traz apenas os metadados (documento de 12 nov, PDF em inglês), sem descrever formato, perguntas ou datas do diálogo; o conteúdo exige leitura do PDF. Relevante para a trilha Presidência e anfitrião.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency has published the concept note \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\", linked to the Presidency's consultations on strengthening the Convention process. The UNFCCC page carries only the metadata (a document of 12 November, English PDF) and does not describe the format, questions or dates of the dialogue; the content requires reading the PDF. Relevant to the Presidency and host track.",
+    "es": "La Presidencia de la COP31 ha publicado la nota conceptual \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\", vinculada a las consultas de la Presidencia sobre el fortalecimiento del proceso de la Convención. La página de la CMNUCC solo contiene los metadatos (documento del 12 de noviembre, PDF en inglés) y no describe el formato, las preguntas ni las fechas del diálogo; el contenido exige leer el PDF. Pertinente para la vía de Presidencia y anfitrión.",
+    "fr": "La présidence de la COP31 a publié la note conceptuelle \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\", liée aux consultations de la présidence sur le renforcement du processus de la Convention. La page de la CCNUCC ne comporte que les métadonnées (document du 12 novembre, PDF en anglais) et ne décrit ni le format, ni les questions, ni les dates du dialogue ; le contenu nécessite la lecture du PDF. Pertinent pour le volet Présidence et pays hôte.",
+    "ru": "Президентство КС-31 опубликовало концептуальную записку \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\", связанную с консультациями президентства по укреплению процесса Конвенции. На странице РКИК ООН размещены только метаданные (документ от 12 ноября, PDF на английском языке), без описания формата, вопросов и дат диалога; содержание можно узнать только из PDF. Относится к направлению «Президентство и принимающая сторона».",
+    "zh": "COP31主席团发布了概念说明《Strengthening the UNFCCC Process: A Forward-Looking Dialogue》，与主席团关于加强《公约》进程的磋商有关。UNFCCC页面仅提供元数据（11月12日的文件，英文PDF），未说明对话的形式、问题或日期；具体内容需阅读PDF。涉及“主席团与东道国”议题。",
+    "ar": "نشرت رئاسة مؤتمر الأطراف الحادي والثلاثين المذكرة المفاهيمية \"Strengthening the UNFCCC Process: A Forward-Looking Dialogue\"، المرتبطة بمشاورات الرئاسة بشأن تعزيز عملية الاتفاقية. ولا تتضمن صفحة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ سوى البيانات الوصفية (وثيقة بتاريخ 12 تشرين الثاني/نوفمبر، ملف PDF بالإنكليزية) ولا تصف شكل الحوار أو أسئلته أو مواعيده؛ ويتطلب المضمون قراءة ملف PDF. وهي ذات صلة بمسار الرئاسة والبلد المضيف."
+   },
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T18:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-12-net-zero-recognition-framework",
+   "institution": "UNFCCC",
+   "type": "relatório",
+   "title": "UNFCCC Net-zero Recognition Framework - Governance Structure (Pilot version 2026)",
+   "date": "2026-11-12",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/664481",
+   "summary": "O UNFCCC publicou a versão piloto 2026 da estrutura de governança do Net-zero Recognition Framework, documento de 12 nov classificado sob acompanhamento e relato da ação climática. A página traz apenas os metadados e um PDF em inglês, sem detalhar órgãos ou processo; a nota de uso pede que a versão compartilhável seja usada com responsabilidade. Relevante para a trilha Agenda de Ação.",
+   "summary_i18n": {
+    "en": "The UNFCCC has published the 2026 pilot version of the governance structure of the Net-zero Recognition Framework, a document of 12 November classified under climate action tracking and reporting. The page carries only the metadata and an English PDF, without detailing bodies or process; the usage note asks that the shareable version be used responsibly. Relevant to the Action Agenda track.",
+    "es": "La CMNUCC ha publicado la versión piloto 2026 de la estructura de gobernanza del Net-zero Recognition Framework, un documento del 12 de noviembre clasificado en seguimiento y notificación de la acción climática. La página solo contiene los metadatos y un PDF en inglés, sin detallar órganos ni proceso; la nota de uso pide que la versión compartible se utilice de forma responsable. Pertinente para la vía de la Agenda de Acción.",
+    "fr": "La CCNUCC a publié la version pilote 2026 de la structure de gouvernance du Net-zero Recognition Framework, document du 12 novembre classé sous le suivi et la communication de l'action climatique. La page ne comporte que les métadonnées et un PDF en anglais, sans détailler les organes ni le processus ; la note d'utilisation demande que la version partageable soit utilisée de manière responsable. Pertinent pour le volet Programme d'action.",
+    "ru": "РКИК ООН опубликовала пилотную версию 2026 года структуры управления Net-zero Recognition Framework — документ от 12 ноября, отнесённый к отслеживанию и отчётности по климатическим действиям. На странице размещены только метаданные и PDF на английском языке, без подробностей об органах и процессе; в примечании об использовании говорится, что версию для распространения следует использовать ответственно. Относится к направлению «Повестка действий».",
+    "zh": "UNFCCC发布了《Net-zero Recognition Framework》治理结构的2026年试点版本，该文件日期为11月12日，归类于气候行动跟踪与报告。页面仅提供元数据和一份英文PDF，未详述机构或流程；使用说明要求负责任地使用可分享版本。涉及“行动议程”议题。",
+    "ar": "نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ النسخة التجريبية لعام 2026 من هيكل الحوكمة الخاص بـ Net-zero Recognition Framework، وهي وثيقة بتاريخ 12 تشرين الثاني/نوفمبر مصنفة ضمن تتبع الإجراءات المناخية والإبلاغ عنها. ولا تتضمن الصفحة سوى البيانات الوصفية وملف PDF بالإنكليزية دون تفصيل الهيئات أو العملية؛ وتطلب ملاحظة الاستخدام استخدام النسخة القابلة للمشاركة بمسؤولية. وهي ذات صلة بمسار جدول أعمال العمل."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-12T18:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "bluesky-worldresources.bsky.social-20261112-eletrificacao-seguranca",
    "kind": "post",
@@ -2282,6 +2803,35 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "oxfam-international-2026-11-11-floods-records",
+   "institution": "Oxfam International",
+   "type": "release",
+   "title": "Flood deaths hit 13-year high and more than 100 countries break monthly temperature records",
+   "date": "2026-11-11",
+   "authors": "Amitabh Behar (diretor executivo, Oxfam International)",
+   "url": "https://www.oxfam.org/en/press-releases/flood-deaths-hit-13-year-high-and-more-100-countries-break-monthly-temperature",
+   "summary": "A Oxfam informa que as mortes por enchentes entre janeiro e setembro de 2026 somaram 8.123, o maior total para o período desde 2013 (cerca de três quartos no Nepal), e que 106 de 194 países com dados bateram ao menos um recorde mensal de temperatura. A organização afirma que o 1% mais rico contribuiu cem vezes mais para as ondas de calor extremo do que alguém entre os 50% mais pobres, e aponta 87 jatos particulares pousados em Antalya desde 7 de novembro. Pede a taxação de jatos particulares (cerca de US$ 45 bilhões por ano), com impacto nas trilhas de Perdas e danos e Finanças.",
+   "summary_i18n": {
+    "en": "Oxfam reports that flood deaths between January and September 2026 reached 8,123, the highest toll for the period since 2013 (about three quarters in Nepal), and that 106 of 194 countries with data broke at least one monthly temperature record. The organization says the richest 1% contributed 100 times more to extreme heatwaves than someone in the poorest 50%, and points to 87 private jets landing in Antalya since 7 November. It calls for taxing private jets (about US$45 billion a year), bearing on the Loss and damage and Finance tracks.",
+    "es": "Oxfam informa de que las muertes por inundaciones entre enero y septiembre de 2026 sumaron 8.123, la cifra más alta para ese periodo desde 2013 (cerca de tres cuartas partes en Nepal), y de que 106 de los 194 países con datos batieron al menos un récord mensual de temperatura. La organización afirma que el 1 % más rico contribuyó cien veces más a las olas de calor extremo que una persona del 50 % más pobre, y señala que 87 jets privados han aterrizado en Antalya desde el 7 de noviembre. Pide gravar los jets privados (unos 45.000 millones de dólares al año), con incidencia en las vías de Pérdidas y daños y Finanzas.",
+    "fr": "Oxfam indique que les décès dus aux inondations entre janvier et septembre 2026 ont atteint 8 123, le bilan le plus élevé pour cette période depuis 2013 (environ les trois quarts au Népal), et que 106 des 194 pays disposant de données ont battu au moins un record mensuel de température. L'organisation affirme que le 1 % le plus riche a contribué cent fois plus aux vagues de chaleur extrême qu'une personne appartenant aux 50 % les plus pauvres, et signale que 87 jets privés ont atterri à Antalya depuis le 7 novembre. Elle demande de taxer les jets privés (environ 45 milliards de dollars par an), ce qui concerne les volets Pertes et préjudices et Finance.",
+    "ru": "Oxfam сообщает, что число погибших от наводнений с января по сентябрь 2026 года составило 8123 человека — это наибольший показатель за этот период с 2013 года (около трёх четвертей — в Непале), а 106 из 194 стран, по которым есть данные, побили хотя бы один месячный температурный рекорд. Организация утверждает, что самый богатый 1 % внёс в экстремальные волны жары в сто раз больший вклад, чем человек из беднейших 50 %, и отмечает, что с 7 ноября в Анталье приземлились 87 частных самолётов. Она призывает ввести налог на частные самолёты (около 45 млрд долл. США в год); это относится к направлениям «Потери и ущерб» и «Финансы».",
+    "zh": "乐施会（Oxfam）报告称，2026年1月至9月洪水造成8123人死亡，为2013年以来同期最高（约四分之三发生在尼泊尔），有数据的194个国家中有106个至少打破了一项月度气温纪录。该组织称，最富有的1%人群对极端热浪的影响是最贫穷50%人群中一人的100倍，并指出自11月7日以来已有87架私人飞机降落安塔利亚。该组织呼吁对私人飞机征税（每年约450亿美元），涉及“损失与损害”和“资金”议题。",
+    "ar": "أفادت أوكسفام بأن وفيات الفيضانات بين كانون الثاني/يناير وأيلول/سبتمبر 2026 بلغت 8123 وفاة، وهي أعلى حصيلة لهذه الفترة منذ عام 2013 (نحو ثلاثة أرباعها في نيبال)، وبأن 106 من أصل 194 بلداً تتوافر عنها بيانات سجّلت رقماً قياسياً شهرياً واحداً على الأقل في درجات الحرارة. وتقول المنظمة إن أغنى 1٪ أسهموا في موجات الحر الشديد بما يعادل مئة ضعف ما يسهم به فرد من أفقر 50٪، وتشير إلى هبوط 87 طائرة خاصة في أنطاليا منذ 7 تشرين الثاني/نوفمبر. وتدعو إلى فرض ضريبة على الطائرات الخاصة (نحو 45 مليار دولار أمريكي سنوياً)، وهو ما يمس مساري الخسائر والأضرار والتمويل."
+   },
+   "tracks": [
+    "Perdas e danos",
+    "Finanças"
+   ],
+   "quotes": [
+    "These records are not accidents of weather. (Amitabh Behar, Oxfam International)",
+    "Taxing private jets is an obvious first step. (Amitabh Behar, Oxfam International)"
+   ],
+   "first_seen": "2026-11-12T18:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oxfam-org-en-press-releases"
   },
   {
    "id": "bluesky-350.org-20261111-carta-aberta-albanese",
@@ -16321,11 +16871,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T17:45:00-03:00",
-  "label": "12 nov 2026, 17:45 (Brasília)",
+  "timestamp": "2026-11-12T18:45:00-03:00",
+  "label": "12 nov 2026, 18:45 (Brasília)",
   "accounts_checked": 45,
   "blocked": 1,
-  "new_items": 7,
+  "new_items": 17,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
