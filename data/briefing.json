@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T08:58+03:00",
+ "generated_at": "2026-11-12T09:59+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T00:16:40-03:00",
-  "social_round": "2026-11-12T02:50:00-03:00",
+  "social_round": "2026-11-12T03:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 142,
-  "stories": 122,
+  "candidates": 149,
+  "stories": 127,
   "top": 8,
   "publishers": [
    "350.org",
@@ -86,6 +86,50 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-12",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-12",
+     "title": "COP30 Presidency Daily Brief – November 12: Resilient Cities and Built Environment, and the Antalya Leaders’ Summit continues",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Adaptação",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 4º dia da COP31 (temas: cidades resilientes, ambiente construído e segundo dia da Cúpula de Líderes de Antália), a Presidência da COP30 informa que debate com o Climate Policy Initiative, no Pavilhão do Brasil, como manter o engajamento político em torno do seu Mapa do Caminho para deter e reverter o…",
+     "collected_at": "2026-11-12T03:58-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov12_bd_3rcjoz6u"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 12 de novembro: Cidades Resilientes e Ambiente Construído, e continuidade da Cúpula de Líderes de Antália"
+     },
+     "description_i18n": {
+      "en": "In its Day 4 brief (themes: resilient cities, the built environment and the second day of the Antalya Leaders' Summit), the COP30 Presidency says it is discussing with the Climate Policy Initiative, at the Brazil Pavilion, how to sustain political engagement around its Roadmap to halt and reverse deforestation by…",
+      "es": "En su boletín del 4.º día de la COP31 (temas: ciudades resilientes, entorno construido y segundo día de la Cumbre de Líderes de Antalya), la Presidencia de la COP30 informa que debate con Climate Policy Initiative, en el Pabellón de Brasil, cómo mantener el compromiso político en torno a su Hoja de Ruta para detener y…",
+      "fr": "Dans son bulletin du 4e jour de la COP31 (thèmes : villes résilientes, cadre bâti et deuxième journée du Sommet des dirigeants d'Antalya), la Présidence de la COP30 indique qu'elle débat avec la Climate Policy Initiative, au Pavillon du Brésil, de la manière de maintenir l'engagement politique autour de sa Feuille de…",
+      "ru": "В бюллетене 4-го дня COP31 (темы: устойчивые города, застроенная среда и второй день Саммита лидеров в Анталье) Председательство COP30 сообщает, что в павильоне Бразилии вместе с Climate Policy Initiative обсуждает, как сохранить политическую вовлечённость вокруг своей Дорожной карты по остановке и обращению вспять…",
+      "zh": "在COP31第4天的简报中（主题：韧性城市、建成环境以及安塔利亚领导人峰会第二天），COP30主席团表示，正与气候政策倡议组织（CPI）在巴西馆讨论如何围绕其2030年前制止和扭转毁林的路线图保持政治参与，巴西环境部也将介绍该国在同一议题上的国家路线图。议程还包括主席团参与主办的甲烷问题领导人峰会、关于拉丁美洲和加勒比地区落实国家适应计划的会议、与联合国开发计划署总结COP30经验，以及城市电气化；简报还回顾了第3天的情况——据主席团介绍，卢拉总统宣布热带森林永续基金（TFFF）已在66个国家和欧盟的支持下筹集78亿美元。涉及“主席国与东道国”“森林”“适应”和“电气化”议题。",
+      "ar": "في نشرة اليوم الرابع من COP31 (المحاور: المدن القادرة على الصمود، والبيئة المبنية، واليوم الثاني من قمة قادة أنطاليا)، تفيد رئاسة COP30 بأنها تناقش مع مبادرة سياسات المناخ في الجناح البرازيلي سبل الحفاظ على الزخم السياسي حول خريطة طريقها لوقف إزالة الغابات وعكس مسارها بحلول 2030، وبأن وزارة البيئة البرازيلية تعرض…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-11-stiell-leaders",
     "section": "negotiations",
@@ -370,42 +414,6 @@
     "publishers": [
      "WMO"
     ]
-   },
-   {
-    "id": "st-climatehome-2026-11-10-japao-ember",
-    "section": "action",
-    "score": 0.5,
-    "lead": {
-     "id": "climatehome-2026-11-10-japao-ember",
-     "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
-     "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
-     "publisher": "Climate Home News",
-     "author": "Chloé Farand",
-     "published": "2026-11-10",
-     "language": "en",
-     "tracks": [
-      "Eletrificação",
-      "TAFF e fósseis"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Análise da Ember citada pela Climate Home projeta que as exportações japonesas de tecnologias limpas podem mais que dobrar até 2035 com a eletrificação da Ásia, enquanto as ligadas a fósseis cairiam de US$ 161 bilhões (2024) para cerca de US$ 70 bilhões.",
-     "collected_at": "2026-11-11T06:13:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "An Ember analysis reported by Climate Home projects that Japan's clean-tech exports could more than double by 2035 as Asia electrifies, while fossil-fuel-related exports would fall from US$161 billion (2024) to about US$70 billion. Japan has spent about US$86 billion on fuel subsidies since 2022;",
-      "es": "Un análisis de Ember difundido por Climate Home proyecta que las exportaciones japonesas de tecnologías limpias podrían más que duplicarse para 2035 con la electrificación de Asia, mientras que las vinculadas a los combustibles fósiles caerían de 161.000 millones de dólares (2024) a unos 70.000 millones.",
-      "fr": "Une analyse d'Ember relayée par Climate Home projette que les exportations japonaises de technologies propres pourraient plus que doubler d'ici 2035 avec l'électrification de l'Asie, tandis que celles liées aux combustibles fossiles passeraient de 161 milliards de dollars (2024) à environ 70 milliards.",
-      "ru": "Анализ Ember, о котором сообщает Climate Home, прогнозирует, что экспорт чистых технологий из Японии может более чем удвоиться к 2035 году по мере электрификации Азии, тогда как экспорт, связанный с ископаемым топливом, сократится со 161 млрд долл. США (2024) до примерно 70 млрд. Япония потратила около 86 млрд долл.",
-      "zh": "Climate Home报道的Ember分析预测，随着亚洲电气化，日本清洁技术出口到2035年可能增长一倍以上，而与化石燃料相关的出口将从2024年的1610亿美元降至约700亿美元。日本自2022年以来已花费约860亿美元用于燃料补贴；Ember建议设定电气化目标、停止销售新汽油车，并调整公共资金投向。涉及电气化及TAFF与化石燃料议题。",
-      "ar": "يتوقع تحليل لمنظمة Ember نقلته Climate Home أن تتضاعف صادرات اليابان من التكنولوجيا النظيفة أكثر من مرتين بحلول عام 2035 مع كهربة آسيا، فيما تنخفض الصادرات المرتبطة بالوقود الأحفوري من 161 مليار دولار (2024) إلى نحو 70 مليار دولار."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
    }
   ],
   "negotiations": [
@@ -482,6 +490,141 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-pavilhao-cidades",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-pavilhao-cidades",
+     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Resilient Cities and Built Environment! 🏙️🌍 The Türkiye Pavilion…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfob2xBjIs0/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "03:40",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O Pavilhão da Türkiye (B125, Blue Zone) dedica o dia 12 de novembro ao tema 'Cidades Resilientes e Ambiente Construído', com programação das 10h às 18h sobre planejamento urbano resiliente, construção sustentável e soluções de adaptação.",
+     "collected_at": "2026-11-12T03:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Türkiye Pavilion (B125, Blue Zone) devotes 12 November to the theme 'Resilient Cities and Built Environment', with a programme from 10:00 to 18:00 on climate-resilient urban planning, sustainable construction and adaptation solutions.",
+      "es": "El Pabellón de Turquía (B125, Zona Azul) dedica el 12 de noviembre al tema 'Ciudades resilientes y entorno construido', con un programa de 10:00 a 18:00 sobre planificación urbana resiliente, construcción sostenible y soluciones de adaptación.",
+      "fr": "Le pavillon de la Turquie (B125, Zone bleue) consacre le 12 novembre au thème « Villes résilientes et environnement bâti », avec un programme de 10 h à 18 h sur l'urbanisme résilient, la construction durable et les solutions d'adaptation.",
+      "ru": "Павильон Турции (B125, Голубая зона) посвящает 12 ноября теме «Устойчивые города и застроенная среда»: программа с 10:00 до 18:00 охватывает устойчивое к изменению климата городское планирование, экологичное строительство и решения по адаптации.",
+      "zh": "土耳其馆（蓝区B125）11月12日以“韧性城市与建成环境”为主题，10:00至18:00的活动涵盖气候韧性城市规划、可持续建筑和适应解决方案。",
+      "ar": "يخصص جناح تركيا (B125، المنطقة الزرقاء) يوم 12 نوفمبر لموضوع «المدن القادرة على الصمود والبيئة المبنية»، ببرنامج من 10:00 إلى 18:00 يشمل التخطيط الحضري القادر على التكيف مع المناخ والبناء المستدام وحلول التكيف."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DflzlHIDVTg/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-11",
+      "time": "03:10",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
+      "collected_at": "2026-11-11T03:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
+       "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
+       "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
+       "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
+       "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
+       "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "04:11",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
+      "collected_at": "2026-11-10T04:47:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
+       "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
+       "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
+       "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
+       "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
+       "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261112-residuo-zero-metano",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-muratkurum-20261112-residuo-zero-metano",
+     "title": "@muratkurum: Saygıdeğer @EmineErdogan Hanımefendi’nin teşrifleriyle gerçekleştirdiğimiz Sıfır Atık ve Döngüsellik Metan ve Sıfır…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfoZTwaiFr-/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-12",
+     "time": "03:18",
+     "language": "tr",
+     "tracks": [
+      "Mitigação e MWP",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum diz que a mesa-redonda de líderes sobre Resíduo Zero, circularidade e metano, com a primeira-dama Emine Erdoğan, avaliou a visão de Resíduo Zero da Türkiye; a presidência quer que mais países adotem a abordagem como ação comum.",
+     "collected_at": "2026-11-12T03:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum says the leaders-level roundtable on Zero Waste, circularity and methane, attended by First Lady Emine Erdoğan, reviewed Turkey's Zero Waste vision; the Presidency aims to make the approach a shared action for more countries through COP31.",
+      "es": "Kurum afirma que la mesa redonda de líderes sobre Residuo Cero, circularidad y metano, con la primera dama Emine Erdoğan, evaluó la visión de Residuo Cero de Turquía; la Presidencia busca que más países adopten el enfoque como acción común a través de la COP31.",
+      "fr": "M. Kurum indique que la table ronde de dirigeants sur le zéro déchet, la circularité et le méthane, en présence de la Première dame Emine Erdoğan, a examiné la vision « zéro déchet » de la Turquie ; la présidence veut que davantage de pays adoptent cette approche comme action commune via la COP31.",
+      "ru": "Курум сообщает, что на круглом столе лидеров по нулевым отходам, циркулярности и метану с участием первой леди Эмине Эрдоган обсуждалось видение Турции «Ноль отходов»; председательство стремится сделать этот подход общим действием большего числа стран в рамках COP31.",
+      "zh": "库鲁姆表示，在第一夫人埃米内·埃尔多安出席的“零废物、循环性与甲烷”领导人级圆桌会议上，与会者评估了土耳其的零废物愿景；COP31主席国希望借此推动更多国家将零废物理念变为共同行动。",
+      "ar": "قال كوروم إن اجتماع المائدة المستديرة على مستوى القادة حول انعدام النفايات والدائرية والميثان، بحضور السيدة الأولى أمينة أردوغان، استعرض رؤية تركيا لانعدام النفايات، وإن الرئاسة تسعى عبر COP31 إلى أن يصبح هذا النهج عملاً مشتركاً لمزيد من الدول."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
@@ -623,6 +766,74 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261111-agrifood-elnino",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-agrifood-elnino",
+     "title": "enb.iisd.org: #COP31 With a \"Super El Niño\" increasing the odds of disastrous weather impacts for crops around the world, address…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22pgzjldc2f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "16:39",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: com um \"Super El Niño\" aumentando o risco de impactos climáticos desastrosos sobre as lavouras, cresce a urgência de fechar lacunas de financiamento para sistemas agroalimentares.",
+     "collected_at": "2026-11-11T16:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: with a \"Super El Niño\" raising the odds of disastrous weather impacts on crops worldwide, closing finance gaps for agrifood systems is increasingly urgent.",
+      "es": "ENB: con un «Súper El Niño» que aumenta la probabilidad de impactos meteorológicos desastrosos en los cultivos, es cada vez más urgente cerrar las brechas de financiamiento de los sistemas agroalimentarios.",
+      "fr": "ENB : alors qu'un « Super El Niño » accroît le risque d'impacts météorologiques désastreux sur les cultures, il devient urgent de combler les déficits de financement des systèmes agroalimentaires.",
+      "ru": "ENB: на фоне «Супер Эль-Ниньо», повышающего риск катастрофических погодных последствий для урожаев, всё более срочным становится устранение дефицита финансирования агропродовольственных систем.",
+      "zh": "ENB：“超级厄尔尼诺”加大了全球农作物遭受灾难性天气影响的可能性，弥补农业粮食系统融资缺口日益紧迫。",
+      "ar": "ENB: مع تزايد احتمال أن يتسبب «إل نينيو الفائق» في آثار جوية كارثية على المحاصيل عالميًا، تزداد الحاجة الملحة لسد فجوات تمويل النظم الزراعية الغذائية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "bluesky-enb.iisd.org-20261111-agrifood-el-nino",
+      "title": "enb.iisd.org: #COP31 With a \"Super El Niño\" increasing the odds of disastrous weather impacts for crops around the world,…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n22pu6j4722f",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-11",
+      "time": "16:46",
+      "language": "en",
+      "tracks": [
+       "Finanças",
+       "Adaptação"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB destaca que, com um \"Super El Niño\" elevando o risco de impactos climáticos sobre as lavouras, é cada vez mais urgente fechar as lacunas de financiamento para fortalecer os sistemas agroalimentares.",
+      "collected_at": "2026-11-12T03:55:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB stresses that, with a \"Super El Niño\" raising the odds of disastrous weather impacts on crops worldwide, closing finance gaps to strengthen agrifood systems is increasingly urgent.",
+       "es": "El ENB destaca que, con un «Super El Niño» que aumenta la probabilidad de impactos climáticos desastrosos en los cultivos, es cada vez más urgente cerrar las brechas de financiamiento para fortalecer los sistemas agroalimentarios.",
+       "fr": "Le Bulletin des négociations de la Terre (ENB) souligne que, avec un « Super El Niño » qui accroît le risque d'impacts météorologiques désastreux sur les cultures, il est de plus en plus urgent de combler les déficits de financement pour renforcer les systèmes agroalimentaires.",
+       "ru": "ENB подчёркивает, что на фоне «супер-Эль-Ниньо», повышающего риск катастрофических погодных воздействий на урожаи, всё более актуальной становится задача устранения пробелов в финансировании для укрепления агропродовольственных систем.",
+       "zh": "ENB 强调，随着“超级厄尔尼诺”增加全球作物遭受灾难性天气影响的可能性，弥补加强农业粮食系统的资金缺口变得日益紧迫。",
+       "ar": "تؤكد نشرة مفاوضات الأرض (ENB) أنه مع تزايد احتمال الآثار الجوية الكارثية على المحاصيل بسبب «إل نينيو الفائق»، أصبح سدّ فجوات التمويل لتعزيز النظم الزراعية الغذائية أمرًا ملحًّا أكثر فأكثر."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
     "id": "st-bluesky-enb.iisd.org-20261111-transicao-justa-pna",
     "section": "negotiations",
     "score": 0.374,
@@ -690,44 +901,6 @@
       "ru": "ENB: на агропродовольственном круглом столе COP31 участники сосредоточились на синергии инициатив и решений в сельском хозяйстве, продовольственных системах, восстановлении ландшафтов, водных ресурсах и питании, а также на более доступном и гибком климатическом финансировании.",
       "zh": "地球谈判通报：在 COP31 农业粮食圆桌会议上，与会者聚焦农业、粮食系统、景观恢复、水资源和营养领域举措与解决方案的协同，并使气候资金更易获得、更灵活。",
       "ar": "نشرة مفاوضات الأرض: في المائدة المستديرة للأغذية الزراعية في COP31، ركّز المشاركون على أوجه التآزر بين المبادرات والحلول في الزراعة والنظم الغذائية واستعادة الأراضي والمياه والتغذية، مع تمويل مناخي أيسر وأكثر مرونة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261111-agrifood-elnino",
-    "section": "negotiations",
-    "score": 0.374,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261111-agrifood-elnino",
-     "title": "enb.iisd.org: #COP31 With a \"Super El Niño\" increasing the odds of disastrous weather impacts for crops around the world, address…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22pgzjldc2f",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-11",
-     "time": "16:39",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "ENB: com um \"Super El Niño\" aumentando o risco de impactos climáticos desastrosos sobre as lavouras, cresce a urgência de fechar lacunas de financiamento para sistemas agroalimentares.",
-     "collected_at": "2026-11-11T16:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB: with a \"Super El Niño\" raising the odds of disastrous weather impacts on crops worldwide, closing finance gaps for agrifood systems is increasingly urgent.",
-      "es": "ENB: con un «Súper El Niño» que aumenta la probabilidad de impactos meteorológicos desastrosos en los cultivos, es cada vez más urgente cerrar las brechas de financiamiento de los sistemas agroalimentarios.",
-      "fr": "ENB : alors qu'un « Super El Niño » accroît le risque d'impacts météorologiques désastreux sur les cultures, il devient urgent de combler les déficits de financement des systèmes agroalimentaires.",
-      "ru": "ENB: на фоне «Супер Эль-Ниньо», повышающего риск катастрофических погодных последствий для урожаев, всё более срочным становится устранение дефицита финансирования агропродовольственных систем.",
-      "zh": "ENB：“超级厄尔尼诺”加大了全球农作物遭受灾难性天气影响的可能性，弥补农业粮食系统融资缺口日益紧迫。",
-      "ar": "ENB: مع تزايد احتمال أن يتسبب «إل نينيو الفائق» في آثار جوية كارثية على المحاصيل عالميًا، تزداد الحاجة الملحة لسد فجوات تمويل النظم الزراعية الغذائية."
      },
      "description_i18n_method": "machine"
     },
@@ -2042,6 +2215,42 @@
     ]
    },
    {
+    "id": "st-climatehome-2026-11-10-japao-ember",
+    "section": "action",
+    "score": 0.5,
+    "lead": {
+     "id": "climatehome-2026-11-10-japao-ember",
+     "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
+     "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
+     "publisher": "Climate Home News",
+     "author": "Chloé Farand",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Análise da Ember citada pela Climate Home projeta que as exportações japonesas de tecnologias limpas podem mais que dobrar até 2035 com a eletrificação da Ásia, enquanto as ligadas a fósseis cairiam de US$ 161 bilhões (2024) para cerca de US$ 70 bilhões.",
+     "collected_at": "2026-11-11T06:13:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "An Ember analysis reported by Climate Home projects that Japan's clean-tech exports could more than double by 2035 as Asia electrifies, while fossil-fuel-related exports would fall from US$161 billion (2024) to about US$70 billion. Japan has spent about US$86 billion on fuel subsidies since 2022;",
+      "es": "Un análisis de Ember difundido por Climate Home proyecta que las exportaciones japonesas de tecnologías limpias podrían más que duplicarse para 2035 con la electrificación de Asia, mientras que las vinculadas a los combustibles fósiles caerían de 161.000 millones de dólares (2024) a unos 70.000 millones.",
+      "fr": "Une analyse d'Ember relayée par Climate Home projette que les exportations japonaises de technologies propres pourraient plus que doubler d'ici 2035 avec l'électrification de l'Asie, tandis que celles liées aux combustibles fossiles passeraient de 161 milliards de dollars (2024) à environ 70 milliards.",
+      "ru": "Анализ Ember, о котором сообщает Climate Home, прогнозирует, что экспорт чистых технологий из Японии может более чем удвоиться к 2035 году по мере электрификации Азии, тогда как экспорт, связанный с ископаемым топливом, сократится со 161 млрд долл. США (2024) до примерно 70 млрд. Япония потратила около 86 млрд долл.",
+      "zh": "Climate Home报道的Ember分析预测，随着亚洲电气化，日本清洁技术出口到2035年可能增长一倍以上，而与化石燃料相关的出口将从2024年的1610亿美元降至约700亿美元。日本自2022年以来已花费约860亿美元用于燃料补贴；Ember建议设定电气化目标、停止销售新汽油车，并调整公共资金投向。涉及电气化及TAFF与化石燃料议题。",
+      "ar": "يتوقع تحليل لمنظمة Ember نقلته Climate Home أن تتضاعف صادرات اليابان من التكنولوجيا النظيفة أكثر من مرتين بحلول عام 2035 مع كهربة آسيا، فيما تنخفض الصادرات المرتبطة بالوقود الأحفوري من 161 مليار دولار (2024) إلى نحو 70 مليار دولار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-cop30-presidency-daily-brief-2026-11-11",
     "section": "action",
     "score": 0.48,
@@ -2242,6 +2451,119 @@
     ],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261111-abertura-cupula",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-abertura-cupula",
+     "title": "@muratkurum: Cumhurbaşkanımız Sayın @RTErdogan’ın teşrifleri ile Liderler Zirvesi’nin açılışını gerçekleştirdik. Tarihin bizlere…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfmr6TZiMka/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "11:22",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum anuncia a abertura da Cúpula de Líderes de Antalya, que reuniu 102 líderes, e pede que a cúpula seja um marco de passagem das palavras à ação climática, citando o discurso de Erdoğan sobre o respeito à natureza.",
+     "collected_at": "2026-11-12T03:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum announces the opening of the Antalya Leaders' Summit, which brought together 102 leaders, and hopes it marks a historic shift from words to action on climate, citing Erdoğan's remarks on respect for nature.",
+      "es": "Kurum anuncia la apertura de la Cumbre de Líderes de Antalya, que reunió a 102 líderes, y espera que sea un comienzo histórico del paso de las palabras a la acción climática, citando las palabras de Erdoğan sobre el respeto a la naturaleza.",
+      "fr": "M. Kurum annonce l'ouverture du Sommet des dirigeants d'Antalya, qui a réuni 102 dirigeants, et espère qu'il marquera un tournant historique des paroles aux actes pour le climat, citant les propos de M. Erdoğan sur le respect de la nature.",
+      "ru": "Курум объявляет об открытии Антальинского саммита лидеров, собравшего 102 лидера, и надеется, что он станет историческим переходом от слов к действиям в борьбе с изменением климата; он цитирует слова Эрдогана об уважении к природе.",
+      "zh": "库鲁姆宣布安塔利亚领导人峰会开幕，共有102位领导人出席，并希望此次峰会成为气候行动由言语走向行动的历史性起点，同时引用了埃尔多安关于尊重自然的讲话。",
+      "ar": "أعلن كوروم افتتاح قمة القادة في أنطاليا التي جمعت 102 من القادة، معرباً عن أمله في أن تكون بداية تاريخية للانتقال من الأقوال إلى الأفعال في مواجهة تغير المناخ، مستشهداً بكلمة أردوغان عن احترام الطبيعة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261111-promessas-implementacao",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-promessas-implementacao",
+     "title": "@muratkurum: Bugünün işaretlerinden yarının ihtiyaçlarını okuyalım, Antalya’yı vaatlerden uygulamaya geçişin sembol şehri haline…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfmtCMqorLU/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "11:32",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum diz que é preciso ler as necessidades de amanhã nos sinais de hoje e fazer de Antalya a cidade-símbolo da passagem das promessas à implementação.",
+     "collected_at": "2026-11-12T03:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum says we must read tomorrow's needs from today's signs and make Antalya the symbol city of the shift from promises to implementation.",
+      "es": "Kurum dice que hay que leer las necesidades del mañana en las señales de hoy y hacer de Antalya la ciudad símbolo del paso de las promesas a la implementación.",
+      "fr": "M. Kurum déclare qu'il faut lire les besoins de demain dans les signes d'aujourd'hui et faire d'Antalya la ville symbole du passage des promesses à la mise en œuvre.",
+      "ru": "Курум заявляет, что нужно читать потребности завтрашнего дня по сегодняшним признакам и сделать Анталью городом-символом перехода от обещаний к реализации.",
+      "zh": "库鲁姆表示，应从今天的迹象中读懂明天的需求，让安塔利亚成为从承诺走向落实的象征之城。",
+      "ar": "قال كوروم إن علينا أن نقرأ احتياجات الغد من إشارات اليوم وأن نجعل أنطاليا مدينة رمزية للانتقال من الوعود إلى التنفيذ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261111-discurso-erdogan",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-discurso-erdogan",
+     "title": "@muratkurum: Cumhurbaşkanımız Sayın @RTErdogan #COP31 Liderler Zirvesi Açılışı’nda çok güçlü bir konuşmayla bir kez daha…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfmadKbIoQB/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "08:50",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum destaca o discurso de Erdoğan na abertura da Cúpula de Líderes, que pediu um 'pacto universal de compaixão entre humanidade e natureza' e criticou a demonstração de força sobre o drama das crianças de Gaza.",
+     "collected_at": "2026-11-12T03:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum highlights Erdoğan's speech at the opening of the Leaders' Summit, which called for a 'universal compact of compassion between humanity and nature' and condemned shows of force over the plight of children in Gaza.",
+      "es": "Kurum destaca el discurso de Erdoğan en la apertura de la Cumbre de Líderes, que pidió un 'acuerdo universal de compasión entre la humanidad y la naturaleza' y criticó las demostraciones de fuerza a costa del drama de los niños de Gaza.",
+      "fr": "M. Kurum met en avant le discours de M. Erdoğan à l'ouverture du Sommet des dirigeants, qui a appelé à un « pacte universel de compassion entre l'humanité et la nature » et condamné les démonstrations de force sur le drame des enfants de Gaza.",
+      "ru": "Курум выделяет выступление Эрдогана на открытии саммита лидеров, призвавшего к «всеобщему соглашению о сострадании между человечеством и природой» и осудившего демонстрацию силы на фоне трагедии детей Газы.",
+      "zh": "库鲁姆着重介绍了埃尔多安在领导人峰会开幕式上的讲话，后者呼吁达成“人类与自然之间的普遍同情契约”，并谴责以加沙儿童的苦难来炫耀武力。",
+      "ar": "أبرز كوروم كلمة أردوغان في افتتاح قمة القادة، التي دعت إلى «ميثاق عالمي للرحمة بين الإنسانية والطبيعة» وانتقدت استعراض القوة على حساب مأساة أطفال غزة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
@@ -2618,74 +2940,6 @@
      "description_i18n_method": "machine"
     },
     "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261111-zero-waste-pavilion",
-    "section": "action",
-    "score": 0.33,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
-     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DflzlHIDVTg/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-11",
-     "time": "03:10",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
-     "collected_at": "2026-11-11T03:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
-      "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
-      "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
-      "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
-      "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
-      "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
-      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-10",
-      "time": "04:11",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Eletrificação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
-      "collected_at": "2026-11-10T04:47:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
-       "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
-       "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
-       "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
-       "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
-       "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
     ]
@@ -5268,6 +5522,7 @@
    "can-international-2026-11-11-jtm-700orgs",
    "climatehome-2026-11-10-japao-ember",
    "cop30-presidency-daily-brief-2026-11-11",
+   "cop30-presidency-daily-brief-2026-11-12",
    "cop31-presidency-2026-11-11-leaders-summit-kurum",
    "e3g-2026-11-11-india-eu-uk-cleantech",
    "eig-2026-11-10-unfccc-statement",
