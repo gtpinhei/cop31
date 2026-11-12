@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T22:58+03:00",
+ "generated_at": "2026-11-12T23:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T12:40:00-03:00",
-  "social_round": "2026-11-12T17:05:00-03:00",
+  "social_round": "2026-11-12T17:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 172,
-  "stories": 145,
+  "candidates": 173,
+  "stories": 146,
   "top": 8,
   "publishers": [
    "350.org",
@@ -2964,6 +2964,44 @@
     ],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-ministerial-eletrificacao",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-ministerial-eletrificacao",
+     "title": "@turkiyecop31: COP31 CEO and Deputy Minister Fatma Varank attended the Global Electrification Ministerial and Electrification…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpGW62jdkZ/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "09:58",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A CEO da COP31, Fatma Varank, participou do Ministerial Global de Eletrificação e do Fórum de Eletrificação, organizados pela Presidência, e agradeceu o apoio dos países à iniciativa de eletrificação.",
+     "collected_at": "2026-11-12T17:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 CEO Fatma Varank took part in the Global Electrification Ministerial and the Electrification Forum organised by the Presidency, and thanked countries for their support for the electrification initiative.",
+      "es": "La directora ejecutiva de la COP31, Fatma Varank, participó en la Reunión Ministerial Mundial sobre Electrificación y en el Foro de Electrificación organizados por la Presidencia, y agradeció el apoyo de los países a la iniciativa de electrificación.",
+      "fr": "La directrice générale de la COP31, Fatma Varank, a participé à la réunion ministérielle mondiale sur l'électrification et au Forum sur l'électrification organisés par la présidence, et a remercié les pays de leur soutien à l'initiative d'électrification.",
+      "ru": "Генеральный директор КС-31 Фатма Варанк приняла участие в Глобальной министерской встрече по электрификации и Форуме по электрификации, организованных председательством, и поблагодарила страны за поддержку инициативы по электрификации.",
+      "zh": "COP31首席执行官法特玛·瓦兰克出席了主席国组织的全球电气化部长级会议和电气化论坛,并感谢各国对电气化倡议的支持。",
+      "ar": "شاركت الرئيسة التنفيذية لمؤتمر الأطراف الحادي والثلاثين فاطمة فارانك في الاجتماع الوزاري العالمي للكهربة ومنتدى الكهربة اللذين نظمتهما الرئاسة، وشكرت الدول على دعمها لمبادرة الكهربة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
