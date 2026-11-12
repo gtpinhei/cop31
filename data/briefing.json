@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T12:58+03:00",
+ "generated_at": "2026-11-12T13:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T06:30:00-03:00",
-  "social_round": "2026-11-12T06:50:00-03:00",
+  "social_round": "2026-11-12T07:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 160,
-  "stories": 134,
+  "candidates": 162,
+  "stories": 136,
   "top": 8,
   "publishers": [
    "350.org",
@@ -2630,6 +2630,82 @@
     ],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-kurum-business-forum-35by35",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-kurum-business-forum-35by35",
+     "title": "@turkiyecop31: At the #COP31 Business Forum Opening Plenary, COP31 President Murat Kurum called on the business community to play…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfoxx2INqz4/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "06:52",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Eletrificação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "No plenário de abertura do Business Forum da COP31, o presidente Murat Kurum pediu ao setor empresarial que transforme compromissos em ação e citou as metas da Agenda de Ação: 35% de eletricidade no consumo final de energia até 2035 e ao menos 15% de uso circular de materiais.",
+     "collected_at": "2026-11-12T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 Business Forum opening plenary, President Murat Kurum urged business to turn climate commitments into action, citing Action Agenda goals of a 35% electricity share in final energy consumption by 2035 and at least 15% circular material use.",
+      "es": "En el plenario de apertura del Foro Empresarial de la COP31, el presidente Murat Kurum instó al sector empresarial a convertir los compromisos en acción y citó las metas de la Agenda de Acción: 35% de electricidad en el consumo final de energía para 2035 y al menos 15% de uso circular de materiales.",
+      "fr": "Lors de la plénière d'ouverture du Forum des entreprises de la COP31, le président Murat Kurum a appelé le secteur privé à traduire les engagements en action, citant les objectifs de l'Agenda d'action : 35 % d'électricité dans la consommation finale d'énergie d'ici 2035 et au moins 15 % de matériaux circulaires.",
+      "ru": "На открытом пленарном заседании Делового форума COP31 президент Мурат Курум призвал бизнес превратить климатические обязательства в действия, назвав цели Повестки действий: 35% электроэнергии в конечном потреблении энергии к 2035 году и не менее 15% циркулярных материалов.",
+      "zh": "在COP31商业论坛开幕全体会议上，主席穆拉特·库鲁姆呼吁企业界将气候承诺转化为行动，并提及行动议程目标：到2035年电力在终端能源消费中占比达35%，循环材料使用至少达15%。",
+      "ar": "في الجلسة العامة الافتتاحية لمنتدى الأعمال في COP31، دعا الرئيس مراد كوروم قطاع الأعمال إلى تحويل التعهدات المناخية إلى إجراءات، مشيراً إلى أهداف أجندة العمل: 35% كهرباء في الاستهلاك النهائي للطاقة بحلول 2035 و15% على الأقل من المواد الدائرية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-kurum-palestine-pm",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-kurum-palestine-pm",
+     "title": "@turkiyecop31: #COP31 President Murat Kurum attended the address by Palestinian Prime Minister Mohammad Mustafa at COP31. In light…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfo07rDjVmx/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "07:20",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum acompanhou o discurso do primeiro-ministro palestino Mohammad Mustafa na COP31 e reafirmou o apoio da Türkiye ao povo palestino, dizendo que a justiça climática deve caminhar junto com paz, humanidade e responsabilidade compartilhada.",
+     "collected_at": "2026-11-12T07:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Murat Kurum attended the address by Palestinian Prime Minister Mohammad Mustafa at COP31 and reaffirmed Turkey's support for the Palestinian people, saying climate justice must go hand in hand with peace, humanity and shared responsibility.",
+      "es": "Murat Kurum asistió al discurso del primer ministro palestino Mohammad Mustafa en la COP31 y reafirmó el apoyo de Turquía al pueblo palestino, afirmando que la justicia climática debe ir de la mano de la paz, la humanidad y la responsabilidad compartida.",
+      "fr": "Murat Kurum a assisté à l'allocution du Premier ministre palestinien Mohammad Mustafa à la COP31 et a réaffirmé le soutien de la Turquie au peuple palestinien, estimant que la justice climatique doit aller de pair avec la paix, l'humanité et la responsabilité partagée.",
+      "ru": "Мурат Курум присутствовал на выступлении премьер-министра Палестины Мохаммада Мустафы на COP31 и подтвердил поддержку Турции палестинскому народу, заявив, что климатическая справедливость неотделима от мира, гуманности и общей ответственности.",
+      "zh": "穆拉特·库鲁姆出席了巴勒斯坦总理穆罕默德·穆斯塔法在COP31上的发言，重申土耳其对巴勒斯坦人民的坚定支持，并表示气候正义必须与和平、人道和共同责任相伴而行。",
+      "ar": "حضر مراد كوروم كلمة رئيس الوزراء الفلسطيني محمد مصطفى في COP31 وأكد مجدداً دعم تركيا للشعب الفلسطيني، مشدداً على أن العدالة المناخية لا تنفصل عن السلام والإنسانية والمسؤولية المشتركة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
