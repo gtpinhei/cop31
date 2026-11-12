@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T04:58+03:00",
+ "generated_at": "2026-11-12T06:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-11T18:20:00-03:00",
+  "web_round": "2026-11-12T00:16:40-03:00",
   "social_round": "2026-11-11T22:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 129,
-  "stories": 111,
+  "candidates": 137,
+  "stories": 118,
   "top": 8,
   "publishers": [
    "350.org",
@@ -26,6 +26,7 @@
    "Chris Bowen",
    "Climate Home News",
    "E3G",
+   "Germanwatch",
    "ICC",
    "ICCCAD",
    "IISD / ENB",
@@ -58,22 +59,22 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "listagem sem datas"
+    "note": "Sem datas na listagem"
    },
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem listagem datada de 2026 renderizada"
+    "note": "budget"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "só item de 2022 renderizado; Dia 3 não localizado"
+    "note": "budget"
    },
    {
     "publisher": "Arab Group (UNFCCC submissions)",
     "outcome": "blocked",
-    "note": "redireciona para submissions.unfccc.int, portal dinâmico sem listagem renderizada"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
@@ -85,6 +86,81 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-unfccc-2026-11-11-stiell-leaders",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-11-stiell-leaders",
+     "title": "UN Climate Chief to world leaders in Antalya: 'The political costs of fossil fuel dependency are unforgiving. Climate action can help relieve the pressure'",
+     "url": "https://unfccc.int/news/un-climate-chief-to-world-leaders-in-antalya-the-political-costs-of-fossil-fuel-dependency-are",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Eletrificação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Na abertura do segmento de alto nível da COP31, Stiell diz que a cooperação reduziu o aquecimento projetado de bem mais de 4°C para cerca de 2,6°C, mas que o avanço segue lento e desigual. Liga a volatilidade energética e os desastres à inflação e à pressão fiscal e apresenta eletrificação e resiliência como alívio.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the opening of the COP31 High-Level Segment, Stiell says cooperation has cut projected warming from well over 4°C to about 2.6°C, but progress remains slow and uneven. He links energy volatility and disasters to inflation and fiscal strain and presents electrification and resilience as relief.",
+      "es": "En la apertura del segmento de alto nivel de la COP31, Stiell afirma que la cooperación ha reducido el calentamiento proyectado de bastante más de 4 °C a unos 2,6 °C, pero que el progreso sigue siendo lento y desigual.",
+      "fr": "À l'ouverture du segment de haut niveau de la COP31, M. Stiell indique que la coopération a ramené le réchauffement projeté de bien plus de 4 °C à environ 2,6 °C, mais que les progrès restent lents et inégaux.",
+      "ru": "На открытии сегмента высокого уровня COP31 Стилл заявил, что сотрудничество снизило прогнозируемое потепление с намного более 4°C до примерно 2,6°C, но прогресс остаётся медленным и неравномерным.",
+      "zh": "在COP31高级别会议开幕时，斯蒂尔表示，合作已将预测升温从远超4°C降至约2.6°C，但进展仍然缓慢且不均衡。他将能源市场波动和气候灾害与通胀和财政压力联系起来，并将电气化和韧性视为缓解途径。其优先事项包括经济电气化、将适应融资增至三倍，以及在不重开既有协议的前提下改善融资可及性。",
+      "ar": "في افتتاح الجزء رفيع المستوى من مؤتمر الأطراف الحادي والثلاثين، قال ستيل إن التعاون خفّض الاحترار المتوقع من أكثر بكثير من 4 درجات مئوية إلى نحو 2.6 درجة، لكن التقدم لا يزال بطيئاً وغير متكافئ. وربط تقلب أسواق الطاقة والكوارث بالتضخم والضغط على الميزانيات، وقدّم الكهربة والقدرة على الصمود كوسيلة للتخفيف."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-11-guterres-electrification",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-11-guterres-electrification",
+     "title": "Powering the future: UN Secretary-General remarks to the high-level dialogue on clean energy transition and electrification",
+     "url": "https://unfccc.int/news/powering-the-future-un-secretary-general-remarks-to-the-high-level-dialogue-on-clean-energy",
+     "publisher": "UNFCCC",
+     "author": "António Guterres",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Finanças",
+      "Mitigação e MWP"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No diálogo de alto nível sobre eletrificação, Guterres saúda o Compromisso Global de Eletrificação 35 até 35 e pede que seja cumprido de forma limpa, lembrando que cerca de três quartos da população mundial vive em países importadores de combustíveis fósseis.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the high-level dialogue on electrification, Guterres welcomes the 35-by-35 Global Electrification Pledge and asks that it be delivered cleanly, noting that about three-quarters of the world's people live in fossil-fuel-importing countries.",
+      "es": "En el diálogo de alto nivel sobre electrificación, Guterres acoge con satisfacción el Compromiso Mundial de Electrificación 35 para 2035 y pide que se cumpla de forma limpia, recordando que cerca de tres cuartas partes de la población mundial vive en países importadores de combustibles fósiles.",
+      "fr": "Lors du dialogue de haut niveau sur l'électrification, M. Guterres salue l'engagement mondial d'électrification « 35 d'ici 2035 » et demande qu'il soit mis en œuvre de manière propre, rappelant qu'environ les trois quarts de la population mondiale vivent dans des pays importateurs de combustibles fossiles.",
+      "ru": "На диалоге высокого уровня по электрификации Гутерриш приветствовал Глобальное обязательство по электрификации «35 к 35» и призвал выполнять его чистым путём, отметив, что около трёх четвертей населения мира живёт в странах-импортёрах ископаемого топлива.",
+      "zh": "在电气化高级别对话中，古特雷斯欢迎“2035年前达到35%”全球电气化承诺，并呼吁以清洁方式落实，指出全球约四分之三的人口生活在化石燃料进口国。他强调约3000吉瓦的可再生能源和储能项目正等待并网，积压量一年内增长60%，并敦促开发银行承担更多风险。涉及议题：电气化、融资和减缓。",
+      "ar": "في الحوار رفيع المستوى حول الكهربة، رحّب غوتيريش بتعهد الكهربة العالمي «35 بحلول 35» ودعا إلى تنفيذه بطريقة نظيفة، مشيراً إلى أن نحو ثلاثة أرباع سكان العالم يعيشون في بلدان مستوردة للوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
    {
     "id": "st-cop31-presidency-2026-11-11-leaders-summit-kurum",
     "section": "action",
@@ -196,6 +272,106 @@
     ]
    },
    {
+    "id": "st-germanwatch-2026-11-11-ccpi-2027",
+    "section": "negotiations",
+    "score": 0.54,
+    "lead": {
+     "id": "germanwatch-2026-11-11-ccpi-2027",
+     "title": "Global climate ranking: countries still off track, but electrification offers a major opportunity to accelerate the pace",
+     "url": "https://www.germanwatch.org/en/93633",
+     "publisher": "Germanwatch",
+     "author": "Jan Burck, Niklas Höhne, Madlen Peter",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "Eletrificação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Germanwatch e NewClimate Institute publicam o Índice de Desempenho em Mudança Climática (CCPI 2027): nenhum país faz o suficiente para o Acordo de Paris, então os três primeiros lugares ficam vazios. A Dinamarca lidera em 4º, a UE ocupa o 19º lugar, a maioria do G20 tem desempenho fraco e o Irã é último (68º).",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Germanwatch and NewClimate Institute publish the Climate Change Performance Index (CCPI 2027): no country is doing enough to meet the Paris Agreement, so the top three places stay empty. Denmark leads in fourth place, the EU ranks 19th, most G20 countries perform poorly and Iran is last (68th).",
+      "es": "Germanwatch y el NewClimate Institute publican el Índice de Desempeño del Cambio Climático (CCPI 2027): ningún país hace lo suficiente para cumplir el Acuerdo de París, por lo que los tres primeros puestos quedan vacíos.",
+      "fr": "Germanwatch et le NewClimate Institute publient l'Indice de performance en matière de changement climatique (CCPI 2027) : aucun pays n'en fait assez pour respecter l'Accord de Paris, les trois premières places restent donc vides.",
+      "ru": "Germanwatch и NewClimate Institute опубликовали Индекс эффективности борьбы с изменением климата (CCPI 2027): ни одна страна не делает достаточно для выполнения Парижского соглашения, поэтому первые три места остаются пустыми.",
+      "zh": "Germanwatch与NewClimate Institute发布《气候变化绩效指数》（CCPI 2027）：没有任何国家为实现《巴黎协定》做得足够多，因此前三名空缺。丹麦位列第四，欧盟排名第19，大多数二十国集团成员表现不佳，伊朗排名最后（第68）。作者认为电气化和可再生能源是加快减排的途径，尤其对大排放国而言。",
+      "ar": "نشرت جيرمانووتش ومعهد نيو كلايمت مؤشر أداء تغير المناخ (CCPI 2027): لا يفعل أي بلد ما يكفي للوفاء باتفاق باريس، ولذلك تبقى المراكز الثلاثة الأولى شاغرة. وتتصدر الدنمارك في المركز الرابع، ويحتل الاتحاد الأوروبي المركز 19، وتحقق معظم دول مجموعة العشرين أداءً ضعيفاً، وتأتي إيران في المركز الأخير (68)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Germanwatch"
+    ]
+   },
+   {
+    "id": "st-wmo-2026-11-11-leaders-summit",
+    "section": "negotiations",
+    "score": 0.51,
+    "lead": {
+     "id": "wmo-2026-11-11-leaders-summit",
+     "title": "COP31 Leaders' Summit: Turn commitments into action",
+     "url": "https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action",
+     "publisher": "WMO",
+     "author": "WMO",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Na Cúpula de Líderes da COP31, a secretária-geral da OMM Celeste Saulo apresentou a atualização do Estado do Clima: o desequilíbrio energético da Terra é o maior desde 1960 e a temperatura de janeiro a setembro de 2026 ficou cerca de 1,47°C acima do nível pré-industrial.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the COP31 Leaders' Summit, WMO Secretary-General Celeste Saulo presented the State of the Climate Update: Earth's energy imbalance is the highest since 1960 and January–September 2026 temperature was about 1.47°C above pre-industrial levels.",
+      "es": "En la Cumbre de Líderes de la COP31, la secretaria general de la OMM, Celeste Saulo, presentó la actualización sobre el estado del clima: el desequilibrio energético de la Tierra es el mayor desde 1960 y la temperatura de enero a septiembre de 2026 fue unos 1,47 °C superior a la preindustrial.",
+      "fr": "Lors du Sommet des dirigeants de la COP31, la Secrétaire générale de l'OMM, Celeste Saulo, a présenté la mise à jour sur l'état du climat : le déséquilibre énergétique de la Terre est le plus élevé depuis 1960 et la température de janvier à septembre 2026 était d'environ 1,47 °C au-dessus du niveau préindustriel.",
+      "ru": "На Саммите лидеров COP31 Генеральный секретарь ВМО Селесте Сауло представила обновлённые данные о состоянии климата: энергетический дисбаланс Земли — самый высокий с 1960 года, а температура в январе–сентябре 2026 года была примерно на 1,47°C выше доиндустриального уровня.",
+      "zh": "在COP31领导人峰会上，世界气象组织秘书长塞莱斯特·绍洛介绍了气候状况更新：地球能量失衡达到1960年以来最高水平，2026年1至9月全球平均气温比工业化前高出约1.47°C。预警系统十年来增加了一倍多，预警体系健全的地方灾害死亡人数低六倍。古特雷斯呼吁实现预警全覆盖并提供充足资金；斯蒂尔重申将适应融资增至三倍的目标。",
+      "ar": "في قمة قادة مؤتمر الأطراف الحادي والثلاثين، قدّمت الأمينة العامة للمنظمة العالمية للأرصاد الجوية سيليست سأولو التحديث عن حالة المناخ: اختلال توازن الطاقة في الأرض هو الأعلى منذ 1960، وكانت درجة الحرارة من كانون الثاني/يناير إلى أيلول/سبتمبر 2026 أعلى بنحو 1.47 درجة مئوية من مستوى ما قبل الثورة الصناعية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "wmo-2026-11-09-state-of-climate-2026",
+      "title": "State of the climate in 2026 gives new meaning to phrase \"off the charts\"",
+      "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts",
+      "publisher": "WMO",
+      "author": "WMO",
+      "published": "2026-11-09",
+      "language": "en",
+      "tracks": [
+       "GST2 e IPCC",
+       "Adaptação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A atualização do Estado do Clima 2026 da OMM mostra que os últimos 12 anos foram os mais quentes já registrados, com a temperatura média global de janeiro a setembro de 2026 cerca de 1,47°C acima do nível pré-industrial.",
+      "collected_at": "2026-11-10T00:16:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "WMO's State of the Climate Update 2026 shows that the past 12 years were the warmest on record, with global mean temperature from January to September 2026 about 1.47°C above pre-industrial levels.",
+       "es": "La Actualización del estado del clima 2026 de la OMM muestra que los últimos 12 años fueron los más cálidos jamás registrados, con una temperatura media mundial de enero a septiembre de 2026 de aproximadamente 1,47°C por encima del nivel preindustrial.",
+       "fr": "La Mise à jour 2026 sur l'état du climat de l'OMM montre que les 12 dernières années ont été les plus chaudes jamais enregistrées, la température moyenne mondiale de janvier à septembre 2026 se situant environ 1,47 °C au-dessus des niveaux préindustriels.",
+       "ru": "Обновление ВМО «Состояние климата в 2026 году» показывает, что последние 12 лет были самыми тёплыми за всю историю наблюдений, а средняя глобальная температура с января по сентябрь 2026 года примерно на 1,47°C превысила доиндустриальный уровень.",
+       "zh": "世界气象组织《2026年气候状况更新》显示，过去12年是有记录以来最暖的12年，2026年1月至9月全球平均气温比工业化前水平高出约1.47°C。地球能量失衡达到有观测以来的最高水平，海洋正迈向连续第十年创纪录高温，海平面处于历史高位，厄尔尼诺正在增强。拥有多灾种预警系统的国家从2015年的56个增至2025年的136个。为GST2与IPCC以及适应方面的讨论提供依据。",
+       "ar": "يُظهر تحديث المنظمة العالمية للأرصاد الجوية عن حالة المناخ لعام 2026 أن السنوات الاثنتي عشرة الأخيرة كانت الأدفأ على الإطلاق، إذ بلغ متوسط درجة الحرارة العالمية من يناير إلى سبتمبر 2026 نحو 1.47 درجة مئوية فوق مستويات ما قبل الثورة الصناعية."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "WMO"
+    ]
+   },
+   {
     "id": "st-climatehome-2026-11-10-japao-ember",
     "section": "action",
     "score": 0.5,
@@ -230,288 +406,84 @@
     "publishers": [
      "Climate Home News"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-cop30-presidency-daily-brief-2026-11-11",
-    "section": "action",
-    "score": 0.48,
+    "id": "st-unfccc-2026-11-11-bmr-concept-note",
+    "section": "negotiations",
+    "score": 0.8,
     "lead": {
-     "id": "cop30-presidency-daily-brief-2026-11-11",
-     "title": "COP30 Presidency Daily Brief – November 11: Antalya Leaders’ Summit, Zero Waste, and Forests",
-     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
-     "publisher": "Presidência da COP30",
+     "id": "unfccc-2026-11-11-bmr-concept-note",
+     "title": "Belém Mission to 1.5-Concept note for the high-level event at COP31",
+     "url": "https://unfccc.int/documents/663936",
+     "publisher": "UNFCCC",
+     "author": "UNFCCC",
      "published": "2026-11-11",
      "language": "en",
      "tracks": [
-      "Presidência e anfitrião",
-      "Florestas",
-      "Agenda de Ação",
-      "TAFF e fósseis"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "No boletim do 3º dia da COP31 (temas: Cúpula de Líderes de Antália, lixo zero e florestas), a Presidência da COP30 informa que reúne empresas, cidades, sociedade civil e pesquisadores no Pavilhão do Brasil para discutir a implementação do seu Mapa do Caminho sobre a transição para longe dos combustíveis fósseis, e que…",
-     "collected_at": "2026-11-11T04:03-03:00",
-     "validation": "registry source, collected by the monitor",
-     "url_i18n": {
-      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
-      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov11_bd_wc8uvw97"
-     },
-     "title_i18n": {
-      "pt": "Boletim Diário da Presidência da COP30 – 11 de novembro: Cúpula de Líderes de Antália, Lixo Zero e Florestas"
-     },
-     "description_i18n": {
-      "en": "In its Day 3 brief (themes: Antalya Leaders' Summit, zero waste and forests), the COP30 Presidency says it is convening businesses, cities, civil society and researchers at the Brazil Pavilion to discuss implementing its Roadmap for transitioning away from fossil fuels, and that Brazil, Türkiye and Australia are…",
-      "es": "En su boletín del 3.er día de la COP31 (temas: Cumbre de Líderes de Antalya, residuo cero y bosques), la Presidencia de la COP30 informa que reúne a empresas, ciudades, sociedad civil e investigadores en el Pabellón de Brasil para debatir la aplicación de su Hoja de Ruta para dejar atrás los combustibles fósiles, y…",
-      "fr": "Dans son bulletin du 3e jour de la COP31 (thèmes : Sommet des dirigeants d'Antalya, zéro déchet et forêts), la Présidence de la COP30 indique qu'elle réunit entreprises, villes, société civile et chercheurs au Pavillon du Brésil pour discuter de la mise en œuvre de sa Feuille de route pour s'éloigner des combustibles…",
-      "ru": "В бюллетене третьего дня КС-31 (темы: Саммит лидеров в Анталье, «ноль отходов» и леса) Председательство КС-30 сообщает, что собирает в павильоне Бразилии представителей бизнеса, городов, гражданского общества и исследователей для обсуждения реализации своей «дорожной карты» по отказу от ископаемого топлива, а…",
-      "zh": "在COP31第三天（主题：安塔利亚领导人峰会、零废弃与森林）的简报中，COP30主席团表示正在巴西馆召集企业、城市、民间社会和研究人员，讨论落实其《转型脱离化石燃料路线图》；巴西、土耳其和澳大利亚还就贝伦会议启动的“全球实施加速器”的运作举行会议。当日议程还包括领导人森林峰会、向COP30首席执行官安娜·托尼提交私营部门最终报告（Sustainable Business COP），以及行动议程关于水、食物浪费和健康的展示；简报还回顾了第二天的情况，包括国际社会对路线图的支持和高级别倡导者的交接。涉及“主席团与东道国”“TAFF与化石燃料”“森林”和“行动议程”议题。",
-      "ar": "في نشرة اليوم الثالث من مؤتمر الأطراف الحادي والثلاثين (المواضيع: قمة قادة أنطاليا، وصفر نفايات، والغابات)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تجمع الشركات والمدن والمجتمع المدني والباحثين في الجناح البرازيلي لمناقشة تنفيذ خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري، وإن البرازيل وتركيا وأستراليا تعقد جلسة بشأن…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "cop30-presidency-daily-brief-2026-11-10",
-      "title": "COP30 Presidency Daily Brief – November 10: From roadmap to action on the energy transition",
-      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
-      "publisher": "Presidência da COP30",
-      "published": "2026-11-10",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Eletrificação",
-       "TAFF e fósseis",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "No boletim do 2º dia da COP31 (tema: energia e transporte), a Presidência da COP30 anuncia que apresenta às Partes seu Mapa do Caminho para a transição para longe dos combustíveis fósseis nos sistemas energéticos, com fala de abertura de António Guterres;",
-      "collected_at": "2026-11-10T03:37-03:00",
-      "validation": "registry source, collected by the monitor",
-      "url_i18n": {
-       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
-       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov10_bd_n3yzrvo0"
-      },
-      "title_i18n": {
-       "pt": "Boletim Diário da Presidência da COP30 – 10 de novembro: Do Mapa do Caminho à ação na transição energética"
-      },
-      "description_i18n": {
-       "en": "In its Day 2 brief (theme: energy and transport), the COP30 Presidency says it is presenting to Parties its Roadmap for transitioning away from fossil fuels in energy systems, with opening remarks by António Guterres;",
-       "es": "En su boletín del 2.º día de la COP31 (tema: energía y transporte), la Presidencia de la COP30 anuncia que presenta a las Partes su Hoja de Ruta para la transición para dejar atrás los combustibles fósiles en los sistemas energéticos, con palabras de apertura de António Guterres;",
-       "fr": "Dans son bulletin du 2e jour de la COP31 (thème : énergie et transports), la Présidence de la COP30 annonce présenter aux Parties sa Feuille de route pour s'éloigner des combustibles fossiles dans les systèmes énergétiques, avec une allocution d'ouverture d'António Guterres ;",
-       "ru": "В бюллетене второго дня КС-31 (тема: энергетика и транспорт) Председательство КС-30 сообщает, что представляет Сторонам свою «дорожную карту» по отказу от ископаемого топлива в энергосистемах, со вступительным словом Антониу Гутерриша;",
-       "zh": "在COP31第二天（主题：能源与交通）的简报中，COP30主席团表示正向缔约方介绍其《能源系统转型脱离化石燃料路线图》，联合国秘书长古特雷斯致开幕辞；据主席团介绍，该文本收到267份公开意见，并以涵盖需求、供应和整体经济三大支柱的“贝伦准备度”方法为基础。当日议程还包括配合COP31“到2035年电力占终端能源需求35%”目标的电气化展示、共同主持巴库适应问题高级别对话，以及全球气候行动议程开幕和《2026年全球气候行动年鉴》发布；简报还回顾了第一天主席职位移交土耳其的情况。涉及“主席团与东道国”“TAFF与化石燃料”“电气化”和“行动议程”议题。",
-       "ar": "في نشرة اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين (الموضوع: الطاقة والنقل)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تعرض على الأطراف خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري في أنظمة الطاقة، بكلمة افتتاحية من أنطونيو غوتيريش؛ وبحسب الرئاسة، تلقى النص 267 مساهمة عامة ويستند إلى نهج بيليم للجاهزية القائم على…"
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "cop30-presidency-daily-brief-2026-11-09",
-      "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
-      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-      "publisher": "Presidência da COP30",
-      "published": "2026-11-09",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Florestas",
-       "Finanças",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
-      "collected_at": "2026-11-10T03:37-03:00",
-      "validation": "registry source, collected by the monitor",
-      "url_i18n": {
-       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
-       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
-      },
-      "title_i18n": {
-       "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
-      },
-      "description_i18n": {
-       "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
-       "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
-       "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
-       "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
-       "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
-       "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "Presidência da COP30"
-    ]
-   },
-   {
-    "id": "st-eig-2026-11-10-unfccc-statement",
-    "section": "action",
-    "score": 0.375,
-    "lead": {
-     "id": "eig-2026-11-10-unfccc-statement",
-     "title": "Statement by the Environmental Integrity Group",
-     "url": "https://unfccc.int/documents/663751",
-     "publisher": "UNFCCC",
-     "author": "Environmental Integrity Group",
-     "published": "2026-11-10",
-     "language": "en",
-     "tracks": [
+      "Mitigação e MWP",
       "Presidência e anfitrião"
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "Declaração do Environmental Integrity Group publicada no portal de documentos da UNFCCC em 10 de novembro, no início da COP31. O conteúdo não foi lido; o registro indica apenas a existência da posição do grupo de negociação. Resumo baseado apenas no título.",
-     "collected_at": "2026-11-10T12:20:00-03:00",
+     "description": "Nota conceitual do evento de alto nível da Missão de Belém para 1,5°C na COP31, publicada no portal de documentos da UNFCCC. O texto público disponível na listagem identifica apenas o evento; o conteúdo detalhado deve ser consultado no documento.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Statement by the Environmental Integrity Group posted on the UNFCCC documents portal on 10 November, early in COP31. The content was not read; the record only indicates the negotiating group's position exists. Summary based only on the title.",
-      "es": "Declaración del Grupo de Integridad Ambiental publicada en el portal de documentos de la CMNUCC el 10 de noviembre, al inicio de la COP31. No se leyó el contenido; el registro solo indica que existe la posición del grupo de negociación. Resumen basado únicamente en el título.",
-      "fr": "Déclaration du Groupe d'intégrité environnementale publiée sur le portail des documents de la CCNUCC le 10 novembre, au début de la COP31. Le contenu n'a pas été lu ; la fiche indique seulement l'existence de la position du groupe de négociation. Résumé fondé uniquement sur le titre.",
-      "ru": "Заявление Группы по экологической целостности, размещённое на портале документов РКИК ООН 10 ноября в начале COP31. Содержание не изучено; запись лишь подтверждает наличие позиции переговорной группы. Резюме основано только на заголовке.",
-      "zh": "环境完整性小组（EIG）11月10日在 COP31 初期发布于《公约》文件门户的声明。内容尚未阅读，记录仅表明该谈判集团的立场文件存在。摘要仅依据标题。",
-      "ar": "بيان صادر عن مجموعة النزاهة البيئية نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 10 نوفمبر، في بداية COP31. لم يُقرأ المحتوى؛ ويشير السجل فقط إلى وجود موقف المجموعة التفاوضية. الملخص مبني على العنوان فقط."
+      "en": "Concept note for the high-level event on the Belém Mission to 1.5°C at COP31, published on the UNFCCC documents portal. The public listing identifies only the event; detailed content should be consulted in the document itself. It bears on the mitigation and presidency tracks.",
+      "es": "Nota conceptual del evento de alto nivel sobre la Misión de Belém hacia 1,5 °C en la COP31, publicada en el portal de documentos de la CMNUCC. El listado público solo identifica el evento; el contenido detallado debe consultarse en el propio documento. Se relaciona con las vías de mitigación y presidencia.",
+      "fr": "Note conceptuelle de l'événement de haut niveau sur la Mission de Belém vers 1,5 °C à la COP31, publiée sur le portail des documents de la CCNUCC. La liste publique n'identifie que l'événement ; le contenu détaillé doit être consulté dans le document lui-même. Elle concerne les volets atténuation et présidence.",
+      "ru": "Концептуальная записка к мероприятию высокого уровня по Белемской миссии «к 1,5°C» на COP31, опубликованная на портале документов РКИК ООН. В публичном списке указано лишь название мероприятия; подробное содержание следует смотреть в самом документе. Относится к направлениям смягчения последствий и председательства.",
+      "zh": "关于COP31“贝伦1.5°C使命”高级别活动的概念文件，已发布在《联合国气候变化框架公约》文件门户上。公开列表仅标明活动名称，详细内容需查阅文件本身。涉及减缓和主席国议题。",
+      "ar": "مذكرة مفاهيمية للفعالية رفيعة المستوى حول «مهمة بيليم نحو 1.5 درجة» في مؤتمر الأطراف الحادي والثلاثين، منشورة على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. ولا تحدد القائمة العامة سوى الفعالية، ويجب الرجوع إلى الوثيقة نفسها للاطلاع على التفاصيل. وهي ترتبط بمساري التخفيف والرئاسة."
      },
      "description_i18n_method": "machine"
     },
-    "related": [
-     {
-      "id": "unfccc-2026-11-10-action-agenda-opening",
-      "title": "OPENING – COP 31 Global Climate Action Agenda: From Momentum to Scale",
-      "url": "https://unfccc.int/documents/663765",
-      "publisher": "UNFCCC",
-      "author": "UNFCCC secretariat",
-      "published": "2026-11-10",
-      "language": "en",
-      "tracks": [
-       "Agenda de Ação"
-      ],
-      "content_type": "document",
-      "kind": "publication",
-      "description": "Nota conceitual da sessão de abertura da Agenda de Ação Climática Global da COP31, intitulada \"From Momentum to Scale\", publicada no repositório de documentos da UNFCCC. Relaciona-se à trilha da Agenda de Ação. Resumo baseado apenas no título e nos metadados.",
-      "collected_at": "2026-11-10T18:15:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Concept note for the opening of the COP31 Global Climate Action Agenda, titled \"From Momentum to Scale\", posted in the UNFCCC documents repository. It bears on the Action Agenda track. Summary based only on the title and metadata.",
-       "es": "Nota conceptual de la apertura de la Agenda de Acción Climática Mundial de la COP31, titulada \"From Momentum to Scale\", publicada en el repositorio de documentos de la CMNUCC. Se relaciona con la vía de la Agenda de Acción. Resumen basado únicamente en el título y los metadatos.",
-       "fr": "Note conceptuelle de l'ouverture du Programme d'action mondial pour le climat de la COP31, intitulée « From Momentum to Scale », publiée dans le dépôt de documents de la CCNUCC. Elle concerne le volet Programme d'action. Résumé fondé uniquement sur le titre et les métadonnées.",
-       "ru": "Концептуальная записка об открытии Глобальной повестки дня в области климатических действий КС-31 под названием «From Momentum to Scale», размещённая в репозитории документов РКИК ООН. Относится к направлению Повестки дня действий. Резюме основано только на заголовке и метаданных.",
-       "zh": "关于 COP31 全球气候行动议程开幕环节的概念说明，题为“From Momentum to Scale”，已发布在《联合国气候变化框架公约》文件库中。涉及行动议程议题。摘要仅依据标题和元数据。",
-       "ar": "مذكرة مفاهيمية بشأن افتتاح خطة العمل المناخي العالمية في COP31 بعنوان \"From Momentum to Scale\"، نُشرت في مستودع وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وتتصل بمسار خطة العمل. الملخص مبني على العنوان والبيانات الوصفية فقط."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "unfccc-2026-11-10-ambition-dialogue",
-      "title": "Presentation from UNFCCC secretariat (Ambition Dialogue at COP 31)",
-      "url": "https://unfccc.int/documents/663835",
-      "publisher": "UNFCCC",
-      "author": "UNFCCC secretariat",
-      "published": "2026-11-10",
-      "language": "en",
-      "tracks": [
-       "Mitigação e MWP"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "Apresentação da secretaria da UNFCCC no Diálogo de Ambição da COP31, publicada no repositório de documentos. Relaciona-se à trilha de mitigação e ambição. Resumo baseado apenas no título e nos metadados; o conteúdo dos slides não foi lido.",
-      "collected_at": "2026-11-10T18:15:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Presentation by the UNFCCC secretariat at the COP31 Ambition Dialogue, posted in the documents repository. It bears on the mitigation and ambition track. Summary based only on the title and metadata; the slide content was not read.",
-       "es": "Presentación de la secretaría de la CMNUCC en el Diálogo sobre la Ambición de la COP31, publicada en el repositorio de documentos. Se relaciona con la vía de mitigación y ambición. Resumen basado únicamente en el título y los metadatos; no se leyó el contenido de las diapositivas.",
-       "fr": "Présentation du secrétariat de la CCNUCC lors du Dialogue sur l'ambition de la COP31, publiée dans le dépôt de documents. Elle concerne le volet atténuation et ambition. Résumé fondé uniquement sur le titre et les métadonnées ; le contenu des diapositives n'a pas été lu.",
-       "ru": "Презентация секретариата РКИК ООН на Диалоге по амбициям КС-31, размещённая в репозитории документов. Относится к направлению смягчения последствий и амбиций. Резюме основано только на заголовке и метаданных; содержание слайдов не читалось.",
-       "zh": "《联合国气候变化框架公约》秘书处在 COP31 雄心对话会上的演示文稿，已发布在文件库中。涉及减缓与雄心议题。摘要仅依据标题和元数据，未阅读幻灯片内容。",
-       "ar": "عرض قدمته أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في حوار الطموح بمؤتمر COP31، نُشر في مستودع الوثائق. ويتصل بمسار التخفيف والطموح. الملخص مبني على العنوان والبيانات الوصفية فقط؛ ولم يُقرأ محتوى الشرائح."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
+    "related": [],
     "publishers": [
      "UNFCCC"
     ]
    },
    {
-    "id": "st-bluesky-enb.iisd.org-20261111-transicao-justa-pna",
+    "id": "st-unfccc-2026-11-11-guterres-leaders-summit",
     "section": "negotiations",
-    "score": 0.374,
+    "score": 0.68,
     "lead": {
-     "id": "bluesky-enb.iisd.org-20261111-transicao-justa-pna",
-     "title": "enb.iisd.org: #COP31 Delegates reviewed the Just Transition Work Programme, with broad support emerging for its continuation…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22rccjthk2f",
-     "publisher": "IISD / ENB",
+     "id": "unfccc-2026-11-11-guterres-leaders-summit",
+     "title": "Transcript of remarks made by UN Secretary-General António Guterres to the COP31 Leaders' Summit",
+     "url": "https://unfccc.int/news/transcript-of-remarks-made-by-un-secretary-general-antonio-guterres-to-the-cop31-leaders-summit",
+     "publisher": "UNFCCC",
+     "author": "António Guterres",
      "published": "2026-11-11",
-     "time": "17:12",
      "language": "en",
      "tracks": [
+      "Finanças",
       "Transição justa",
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "ENB: delegados revisaram o Programa de Trabalho sobre Transição Justa, com amplo apoio à continuidade após 2026; PMDs pediram uma plataforma de implementação de planos nacionais de adaptação.",
-     "collected_at": "2026-11-11T17:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB: delegates reviewed the Just Transition Work Programme, with broad support for continuing it beyond 2026; LDCs called for a national adaptation plan implementation platform.",
-      "es": "ENB: los delegados examinaron el Programa de Trabajo sobre Transición Justa, con amplio apoyo a su continuación más allá de 2026; los PMA pidieron una plataforma de implementación de los planes nacionales de adaptación.",
-      "fr": "ENB : les délégués ont examiné le programme de travail sur la transition juste, largement soutenu pour se poursuivre au-delà de 2026 ; les PMA ont demandé une plateforme de mise en œuvre des plans nationaux d'adaptation.",
-      "ru": "ENB: делегаты рассмотрели Программу работы по справедливому переходу, при широкой поддержке её продолжения после 2026 года; НРС призвали создать платформу для реализации национальных планов адаптации.",
-      "zh": "地球谈判通报：代表们审议了公正转型工作方案，广泛支持其在 2026 年后继续；最不发达国家呼吁建立国家适应计划实施平台。",
-      "ar": "نشرة مفاوضات الأرض: استعرض المندوبون برنامج العمل بشأن الانتقال العادل مع دعم واسع لاستمراره بعد 2026؛ ودعت أقل البلدان نموًا إلى منصة لتنفيذ خطط التكيّف الوطنية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-ldcchairunfccc-20261111-life-ar",
-    "section": "negotiations",
-    "score": 0.337,
-    "lead": {
-     "id": "bluesky-ldcchairunfccc-20261111-life-ar",
-     "title": "ldcchairunfccc.bsky.social: At #COP31, we're launching the #LIFEAR Facility to help least developed countries scale up locally led climate…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n22fwk4ie224",
-     "publisher": "LDC Group",
-     "published": "2026-11-11",
-     "time": "13:49",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
+      "TAFF e fósseis",
+      "Perdas e danos",
+      "Mitigação e MWP"
      ],
      "content_type": "official",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O Grupo dos PMDs lança na COP31 a Facilidade LIFE-AR para ampliar a adaptação liderada localmente, com meta de mobilizar US$ 80 milhões até 2030 e US$ 360 milhões até 2035.",
-     "collected_at": "2026-11-11T14:50:00-03:00",
+     "kind": "publication",
+     "description": "Guterres afirma que a mudança climática avança mais rápido que a ação, que o excesso acima de 1,5°C é inevitável e que os planos nacionais atuais cortariam no máximo um terço do necessário, com aquecimento acima de 2,5°C.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "The LDC Group is launching the LIFE-AR Facility at COP31 to scale up locally led adaptation, aiming to mobilise US$80 million by 2030 and US$360 million by 2035.",
-      "es": "El Grupo de los PMA lanza en la COP31 el Mecanismo LIFE-AR para ampliar la adaptación dirigida localmente, con el objetivo de movilizar 80 millones de dólares para 2030 y 360 millones para 2035.",
-      "fr": "Le Groupe des PMA lance à la COP31 le mécanisme LIFE-AR pour intensifier l'adaptation menée au niveau local, avec l'objectif de mobiliser 80 millions de dollars d'ici 2030 et 360 millions d'ici 2035.",
-      "ru": "Группа НРС запускает на COP31 механизм LIFE-AR для расширения адаптации под руководством местных сообществ; цель — мобилизовать 80 млн долл. США к 2030 году и 360 млн к 2035 году.",
-      "zh": "最不发达国家集团在COP31上启动LIFE-AR机制，以扩大地方主导的适应行动，目标是到2030年筹集8000万美元、到2035年筹集3.6亿美元。",
-      "ar": "تطلق مجموعة أقل البلدان نموا في COP31 مرفق LIFE-AR لتوسيع نطاق التكيف بقيادة محلية، بهدف حشد 80 مليون دولار بحلول 2030 و360 مليون دولار بحلول 2035."
+      "en": "Guterres says climate change is accelerating faster than action, that an overshoot above 1.5°C is now unavoidable, and that current national plans would cut at most a third of the needed emissions, leaving warming above 2.5°C.",
+      "es": "Guterres afirma que el cambio climático avanza más rápido que la acción, que superar 1,5 °C ya es inevitable y que los planes nacionales actuales reducirían como máximo un tercio de lo necesario, con un calentamiento superior a 2,5 °C.",
+      "fr": "M. Guterres affirme que le changement climatique s'accélère plus vite que l'action, qu'un dépassement de 1,5 °C est désormais inévitable et que les plans nationaux actuels ne réduiraient qu'au plus un tiers des émissions nécessaires, avec un réchauffement supérieur à 2,5 °C.",
+      "ru": "Гутерриш заявил, что изменение климата ускоряется быстрее, чем действия, что превышение 1,5°C теперь неизбежно, а действующие национальные планы обеспечат не более трети необходимого сокращения выбросов, и потепление превысит 2,5°C.",
+      "zh": "古特雷斯表示，气候变化的加速快于行动，超过1.5°C已不可避免，现有国家计划最多只能实现所需减排量的三分之一，升温将超过2.5°C。他提出包含四大支柱的“气候正义契约”（公正摆脱化石燃料、保护脆弱群体、充足融资以及合作），并呼吁发达国家在融资上发挥带头作用、对石油公司征收暴利税，并加大对损失与损害的支持。他表示将于明年卸任。",
+      "ar": "قال غوتيريش إن تغير المناخ يتسارع أسرع من العمل، وإن تجاوز 1.5 درجة مئوية أصبح حتمياً، وإن الخطط الوطنية الحالية ستخفض على الأكثر ثلث الانبعاثات اللازمة وتترك الاحترار فوق 2.5 درجة."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "LDC Group"
+     "UNFCCC"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-climatehome-2026-11-10-roteiro-fosseis-apoio",
     "section": "negotiations",
@@ -579,6 +551,42 @@
     ]
    },
    {
+    "id": "st-icc-2026-11-11-competition-law-islands",
+    "section": "negotiations",
+    "score": 0.459,
+    "lead": {
+     "id": "icc-2026-11-11-competition-law-islands",
+     "title": "Competition law and the climate transition in small and insular economies",
+     "url": "https://iccwbo.org/news-publications/news/competition-law-and-the-climate-transition-in-small-and-insular-economies/",
+     "publisher": "ICC",
+     "author": "ICC / ISLE",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Documento de política da ICC e do Institute for Small Markets in Law and Economics (ISLE) examina como o direito da concorrência pode apoiar a ação climática em economias pequenas e insulares, onde mercados estreitos dificultam o investimento sem cooperação ou consolidação.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A policy paper by ICC and the Institute for Small Markets in Law and Economics (ISLE) examines how competition law can support climate action in small and island economies, where narrow markets can make climate investment hard without cooperation or consolidation.",
+      "es": "Un documento de política de la ICC y del Institute for Small Markets in Law and Economics (ISLE) examina cómo el derecho de la competencia puede apoyar la acción climática en economías pequeñas e insulares, donde los mercados reducidos dificultan la inversión sin cooperación o consolidación.",
+      "fr": "Un document de politique de la CCI et de l'Institute for Small Markets in Law and Economics (ISLE) examine comment le droit de la concurrence peut soutenir l'action climatique dans les petites économies et les économies insulaires, où l'étroitesse des marchés rend l'investissement difficile sans coopération ni…",
+      "ru": "В политическом документе МТП и Института малых рынков в праве и экономике (ISLE) рассматривается, как конкурентное право может поддерживать климатические действия в малых и островных экономиках, где узкие рынки затрудняют инвестиции без сотрудничества или консолидации.",
+      "zh": "国际商会与法律与经济学小型市场研究所（ISLE）的一份政策文件探讨了竞争法如何支持小型经济体和岛屿经济体的气候行动，这些经济体市场狭小，缺乏合作或整合就难以开展气候投资。文件为主管部门和企业提出了六项原则和一份实用清单。涉及融资和适应议题。",
+      "ar": "تبحث ورقة سياسات صادرة عن غرفة التجارة الدولية ومعهد الأسواق الصغيرة في القانون والاقتصاد (ISLE) في كيفية دعم قانون المنافسة للعمل المناخي في الاقتصادات الصغيرة والجزرية، حيث تجعل الأسواق الضيقة الاستثمار المناخي صعباً دون تعاون أو تكتل. وتقترح ستة مبادئ وقائمة مراجعة عملية للسلطات والشركات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
+    ]
+   },
+   {
     "id": "st-climatehome-2026-11-10-vanveldhoven-opiniao",
     "section": "negotiations",
     "score": 0.383,
@@ -612,6 +620,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261111-transicao-justa-pna",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261111-transicao-justa-pna",
+     "title": "enb.iisd.org: #COP31 Delegates reviewed the Just Transition Work Programme, with broad support emerging for its continuation…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n22rccjthk2f",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-11",
+     "time": "17:12",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: delegados revisaram o Programa de Trabalho sobre Transição Justa, com amplo apoio à continuidade após 2026; PMDs pediram uma plataforma de implementação de planos nacionais de adaptação.",
+     "collected_at": "2026-11-11T17:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: delegates reviewed the Just Transition Work Programme, with broad support for continuing it beyond 2026; LDCs called for a national adaptation plan implementation platform.",
+      "es": "ENB: los delegados examinaron el Programa de Trabajo sobre Transición Justa, con amplio apoyo a su continuación más allá de 2026; los PMA pidieron una plataforma de implementación de los planes nacionales de adaptación.",
+      "fr": "ENB : les délégués ont examiné le programme de travail sur la transition juste, largement soutenu pour se poursuivre au-delà de 2026 ; les PMA ont demandé une plateforme de mise en œuvre des plans nationaux d'adaptation.",
+      "ru": "ENB: делегаты рассмотрели Программу работы по справедливому переходу, при широкой поддержке её продолжения после 2026 года; НРС призвали создать платформу для реализации национальных планов адаптации.",
+      "zh": "地球谈判通报：代表们审议了公正转型工作方案，广泛支持其在 2026 年后继续；最不发达国家呼吁建立国家适应计划实施平台。",
+      "ar": "نشرة مفاوضات الأرض: استعرض المندوبون برنامج العمل بشأن الانتقال العادل مع دعم واسع لاستمراره بعد 2026؛ ودعت أقل البلدان نموًا إلى منصة لتنفيذ خطط التكيّف الوطنية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -726,6 +772,44 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-ldcchairunfccc-20261111-life-ar",
+    "section": "negotiations",
+    "score": 0.337,
+    "lead": {
+     "id": "bluesky-ldcchairunfccc-20261111-life-ar",
+     "title": "ldcchairunfccc.bsky.social: At #COP31, we're launching the #LIFEAR Facility to help least developed countries scale up locally led climate…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n22fwk4ie224",
+     "publisher": "LDC Group",
+     "published": "2026-11-11",
+     "time": "13:49",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O Grupo dos PMDs lança na COP31 a Facilidade LIFE-AR para ampliar a adaptação liderada localmente, com meta de mobilizar US$ 80 milhões até 2030 e US$ 360 milhões até 2035.",
+     "collected_at": "2026-11-11T14:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The LDC Group is launching the LIFE-AR Facility at COP31 to scale up locally led adaptation, aiming to mobilise US$80 million by 2030 and US$360 million by 2035.",
+      "es": "El Grupo de los PMA lanza en la COP31 el Mecanismo LIFE-AR para ampliar la adaptación dirigida localmente, con el objetivo de movilizar 80 millones de dólares para 2030 y 360 millones para 2035.",
+      "fr": "Le Groupe des PMA lance à la COP31 le mécanisme LIFE-AR pour intensifier l'adaptation menée au niveau local, avec l'objectif de mobiliser 80 millions de dollars d'ici 2030 et 360 millions d'ici 2035.",
+      "ru": "Группа НРС запускает на COP31 механизм LIFE-AR для расширения адаптации под руководством местных сообществ; цель — мобилизовать 80 млн долл. США к 2030 году и 360 млн к 2035 году.",
+      "zh": "最不发达国家集团在COP31上启动LIFE-AR机制，以扩大地方主导的适应行动，目标是到2030年筹集8000万美元、到2035年筹集3.6亿美元。",
+      "ar": "تطلق مجموعة أقل البلدان نموا في COP31 مرفق LIFE-AR لتوسيع نطاق التكيف بقيادة محلية، بهدف حشد 80 مليون دولار بحلول 2030 و360 مليون دولار بحلول 2035."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "LDC Group"
     ]
    },
    {
@@ -1793,42 +1877,6 @@
     ]
    },
    {
-    "id": "st-wmo-2026-11-09-state-of-climate-2026",
-    "section": "negotiations",
-    "score": 0.115,
-    "lead": {
-     "id": "wmo-2026-11-09-state-of-climate-2026",
-     "title": "State of the climate in 2026 gives new meaning to phrase \"off the charts\"",
-     "url": "https://wmo.int/media/news/state-of-climate-2026-gives-new-meaning-phrase-charts",
-     "publisher": "WMO",
-     "author": "WMO",
-     "published": "2026-11-09",
-     "language": "en",
-     "tracks": [
-      "GST2 e IPCC",
-      "Adaptação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A atualização do Estado do Clima 2026 da OMM mostra que os últimos 12 anos foram os mais quentes já registrados, com a temperatura média global de janeiro a setembro de 2026 cerca de 1,47°C acima do nível pré-industrial.",
-     "collected_at": "2026-11-10T00:16:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "WMO's State of the Climate Update 2026 shows that the past 12 years were the warmest on record, with global mean temperature from January to September 2026 about 1.47°C above pre-industrial levels.",
-      "es": "La Actualización del estado del clima 2026 de la OMM muestra que los últimos 12 años fueron los más cálidos jamás registrados, con una temperatura media mundial de enero a septiembre de 2026 de aproximadamente 1,47°C por encima del nivel preindustrial.",
-      "fr": "La Mise à jour 2026 sur l'état du climat de l'OMM montre que les 12 dernières années ont été les plus chaudes jamais enregistrées, la température moyenne mondiale de janvier à septembre 2026 se situant environ 1,47 °C au-dessus des niveaux préindustriels.",
-      "ru": "Обновление ВМО «Состояние климата в 2026 году» показывает, что последние 12 лет были самыми тёплыми за всю историю наблюдений, а средняя глобальная температура с января по сентябрь 2026 года примерно на 1,47°C превысила доиндустриальный уровень.",
-      "zh": "世界气象组织《2026年气候状况更新》显示，过去12年是有记录以来最暖的12年，2026年1月至9月全球平均气温比工业化前水平高出约1.47°C。地球能量失衡达到有观测以来的最高水平，海洋正迈向连续第十年创纪录高温，海平面处于历史高位，厄尔尼诺正在增强。拥有多灾种预警系统的国家从2015年的56个增至2025年的136个。为GST2与IPCC以及适应方面的讨论提供依据。",
-      "ar": "يُظهر تحديث المنظمة العالمية للأرصاد الجوية عن حالة المناخ لعام 2026 أن السنوات الاثنتي عشرة الأخيرة كانت الأدفأ على الإطلاق، إذ بلغ متوسط درجة الحرارة العالمية من يناير إلى سبتمبر 2026 نحو 1.47 درجة مئوية فوق مستويات ما قبل الثورة الصناعية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "WMO"
-    ]
-   },
-   {
     "id": "st-bluesky-unep.org-20261109-cop31-overshoot",
     "section": "negotiations",
     "score": 0.105,
@@ -1868,6 +1916,209 @@
    }
   ],
   "action": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-11",
+    "section": "action",
+    "score": 0.48,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-11",
+     "title": "COP30 Presidency Daily Brief – November 11: Antalya Leaders’ Summit, Zero Waste, and Forests",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Agenda de Ação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 3º dia da COP31 (temas: Cúpula de Líderes de Antália, lixo zero e florestas), a Presidência da COP30 informa que reúne empresas, cidades, sociedade civil e pesquisadores no Pavilhão do Brasil para discutir a implementação do seu Mapa do Caminho sobre a transição para longe dos combustíveis fósseis, e que…",
+     "collected_at": "2026-11-11T04:03-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov11_db_ds4luft3",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov11_bd_wc8uvw97"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 11 de novembro: Cúpula de Líderes de Antália, Lixo Zero e Florestas"
+     },
+     "description_i18n": {
+      "en": "In its Day 3 brief (themes: Antalya Leaders' Summit, zero waste and forests), the COP30 Presidency says it is convening businesses, cities, civil society and researchers at the Brazil Pavilion to discuss implementing its Roadmap for transitioning away from fossil fuels, and that Brazil, Türkiye and Australia are…",
+      "es": "En su boletín del 3.er día de la COP31 (temas: Cumbre de Líderes de Antalya, residuo cero y bosques), la Presidencia de la COP30 informa que reúne a empresas, ciudades, sociedad civil e investigadores en el Pabellón de Brasil para debatir la aplicación de su Hoja de Ruta para dejar atrás los combustibles fósiles, y…",
+      "fr": "Dans son bulletin du 3e jour de la COP31 (thèmes : Sommet des dirigeants d'Antalya, zéro déchet et forêts), la Présidence de la COP30 indique qu'elle réunit entreprises, villes, société civile et chercheurs au Pavillon du Brésil pour discuter de la mise en œuvre de sa Feuille de route pour s'éloigner des combustibles…",
+      "ru": "В бюллетене третьего дня КС-31 (темы: Саммит лидеров в Анталье, «ноль отходов» и леса) Председательство КС-30 сообщает, что собирает в павильоне Бразилии представителей бизнеса, городов, гражданского общества и исследователей для обсуждения реализации своей «дорожной карты» по отказу от ископаемого топлива, а…",
+      "zh": "在COP31第三天（主题：安塔利亚领导人峰会、零废弃与森林）的简报中，COP30主席团表示正在巴西馆召集企业、城市、民间社会和研究人员，讨论落实其《转型脱离化石燃料路线图》；巴西、土耳其和澳大利亚还就贝伦会议启动的“全球实施加速器”的运作举行会议。当日议程还包括领导人森林峰会、向COP30首席执行官安娜·托尼提交私营部门最终报告（Sustainable Business COP），以及行动议程关于水、食物浪费和健康的展示；简报还回顾了第二天的情况，包括国际社会对路线图的支持和高级别倡导者的交接。涉及“主席团与东道国”“TAFF与化石燃料”“森林”和“行动议程”议题。",
+      "ar": "في نشرة اليوم الثالث من مؤتمر الأطراف الحادي والثلاثين (المواضيع: قمة قادة أنطاليا، وصفر نفايات، والغابات)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تجمع الشركات والمدن والمجتمع المدني والباحثين في الجناح البرازيلي لمناقشة تنفيذ خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري، وإن البرازيل وتركيا وأستراليا تعقد جلسة بشأن…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "cop30-presidency-daily-brief-2026-11-10",
+      "title": "COP30 Presidency Daily Brief – November 10: From roadmap to action on the energy transition",
+      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+      "publisher": "Presidência da COP30",
+      "published": "2026-11-10",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação",
+       "TAFF e fósseis",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "No boletim do 2º dia da COP31 (tema: energia e transporte), a Presidência da COP30 anuncia que apresenta às Partes seu Mapa do Caminho para a transição para longe dos combustíveis fósseis nos sistemas energéticos, com fala de abertura de António Guterres;",
+      "collected_at": "2026-11-10T03:37-03:00",
+      "validation": "registry source, collected by the monitor",
+      "url_i18n": {
+       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov10_db_dja1nxto",
+       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov10_bd_n3yzrvo0"
+      },
+      "title_i18n": {
+       "pt": "Boletim Diário da Presidência da COP30 – 10 de novembro: Do Mapa do Caminho à ação na transição energética"
+      },
+      "description_i18n": {
+       "en": "In its Day 2 brief (theme: energy and transport), the COP30 Presidency says it is presenting to Parties its Roadmap for transitioning away from fossil fuels in energy systems, with opening remarks by António Guterres;",
+       "es": "En su boletín del 2.º día de la COP31 (tema: energía y transporte), la Presidencia de la COP30 anuncia que presenta a las Partes su Hoja de Ruta para la transición para dejar atrás los combustibles fósiles en los sistemas energéticos, con palabras de apertura de António Guterres;",
+       "fr": "Dans son bulletin du 2e jour de la COP31 (thème : énergie et transports), la Présidence de la COP30 annonce présenter aux Parties sa Feuille de route pour s'éloigner des combustibles fossiles dans les systèmes énergétiques, avec une allocution d'ouverture d'António Guterres ;",
+       "ru": "В бюллетене второго дня КС-31 (тема: энергетика и транспорт) Председательство КС-30 сообщает, что представляет Сторонам свою «дорожную карту» по отказу от ископаемого топлива в энергосистемах, со вступительным словом Антониу Гутерриша;",
+       "zh": "在COP31第二天（主题：能源与交通）的简报中，COP30主席团表示正向缔约方介绍其《能源系统转型脱离化石燃料路线图》，联合国秘书长古特雷斯致开幕辞；据主席团介绍，该文本收到267份公开意见，并以涵盖需求、供应和整体经济三大支柱的“贝伦准备度”方法为基础。当日议程还包括配合COP31“到2035年电力占终端能源需求35%”目标的电气化展示、共同主持巴库适应问题高级别对话，以及全球气候行动议程开幕和《2026年全球气候行动年鉴》发布；简报还回顾了第一天主席职位移交土耳其的情况。涉及“主席团与东道国”“TAFF与化石燃料”“电气化”和“行动议程”议题。",
+       "ar": "في نشرة اليوم الثاني من مؤتمر الأطراف الحادي والثلاثين (الموضوع: الطاقة والنقل)، تقول رئاسة مؤتمر الأطراف الثلاثين إنها تعرض على الأطراف خريطة طريقها للتحول بعيدًا عن الوقود الأحفوري في أنظمة الطاقة، بكلمة افتتاحية من أنطونيو غوتيريش؛ وبحسب الرئاسة، تلقى النص 267 مساهمة عامة ويستند إلى نهج بيليم للجاهزية القائم على…"
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "cop30-presidency-daily-brief-2026-11-09",
+      "title": "COP30 Presidency Daily Brief – November 9: One year after Belém, the focus is implementation",
+      "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+      "publisher": "Presidência da COP30",
+      "published": "2026-11-09",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Florestas",
+       "Finanças",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A Presidência da COP30 abre sua série de boletins diários da COP31, em Antália, dizendo que um ano após Belém o foco é mostrar a implementação dos resultados do Mutirão Global.",
+      "collected_at": "2026-11-10T03:37-03:00",
+      "validation": "registry source, collected by the monitor",
+      "url_i18n": {
+       "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov9_daily-brief",
+       "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov9_boletim-diario"
+      },
+      "title_i18n": {
+       "pt": "Boletim Diário da Presidência da COP30 – 9 de novembro: Um ano depois de Belém, o foco é a implementação"
+      },
+      "description_i18n": {
+       "en": "The COP30 Presidency opens its series of COP31 daily briefs in Antalya, saying that one year after Belém its focus is to show the Global Mutirão outcomes being implemented.",
+       "es": "La Presidencia de la COP30 inicia su serie de boletines diarios de la COP31 en Antalya y afirma que, un año después de Belém, su objetivo es mostrar la implementación de los resultados del Mutirão Global.",
+       "fr": "La Présidence de la COP30 lance sa série de bulletins quotidiens de la COP31 à Antalya, en affirmant qu'un an après Belém son objectif est de montrer la mise en œuvre des résultats du Mutirão mondial.",
+       "ru": "Председательство КС-30 открывает серию ежедневных бюллетеней КС-31 в Анталье, заявляя, что через год после Белена его цель — показать, как выполняются итоги Глобального мутирана.",
+       "zh": "COP30主席团在安塔利亚启动COP31每日简报系列，表示贝伦会议一年后，其重点是展示“全球协作行动”成果的落实情况。在第一天（主题：粮食、农业与健康），主席团表示正向缔约方介绍其通过国际磋商制定的《到2030年制止和扭转毁林及森林退化路线图》，并重点介绍合作伙伴关于粮食系统、再生农业融资、贝伦健康行动计划新融资框架和极端高温的活动，以及巴西馆开馆。涉及“主席团与东道国”“森林”“资金”和“行动议程”议题。",
+       "ar": "تفتتح رئاسة مؤتمر الأطراف الثلاثين سلسلة نشراتها اليومية لمؤتمر الأطراف الحادي والثلاثين في أنطاليا، قائلة إن تركيزها بعد عام من بيليم هو إظهار تنفيذ نتائج «الموتيراو العالمي»."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-eig-2026-11-10-unfccc-statement",
+    "section": "action",
+    "score": 0.375,
+    "lead": {
+     "id": "eig-2026-11-10-unfccc-statement",
+     "title": "Statement by the Environmental Integrity Group",
+     "url": "https://unfccc.int/documents/663751",
+     "publisher": "UNFCCC",
+     "author": "Environmental Integrity Group",
+     "published": "2026-11-10",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Declaração do Environmental Integrity Group publicada no portal de documentos da UNFCCC em 10 de novembro, no início da COP31. O conteúdo não foi lido; o registro indica apenas a existência da posição do grupo de negociação. Resumo baseado apenas no título.",
+     "collected_at": "2026-11-10T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Statement by the Environmental Integrity Group posted on the UNFCCC documents portal on 10 November, early in COP31. The content was not read; the record only indicates the negotiating group's position exists. Summary based only on the title.",
+      "es": "Declaración del Grupo de Integridad Ambiental publicada en el portal de documentos de la CMNUCC el 10 de noviembre, al inicio de la COP31. No se leyó el contenido; el registro solo indica que existe la posición del grupo de negociación. Resumen basado únicamente en el título.",
+      "fr": "Déclaration du Groupe d'intégrité environnementale publiée sur le portail des documents de la CCNUCC le 10 novembre, au début de la COP31. Le contenu n'a pas été lu ; la fiche indique seulement l'existence de la position du groupe de négociation. Résumé fondé uniquement sur le titre.",
+      "ru": "Заявление Группы по экологической целостности, размещённое на портале документов РКИК ООН 10 ноября в начале COP31. Содержание не изучено; запись лишь подтверждает наличие позиции переговорной группы. Резюме основано только на заголовке.",
+      "zh": "环境完整性小组（EIG）11月10日在 COP31 初期发布于《公约》文件门户的声明。内容尚未阅读，记录仅表明该谈判集团的立场文件存在。摘要仅依据标题。",
+      "ar": "بيان صادر عن مجموعة النزاهة البيئية نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 10 نوفمبر، في بداية COP31. لم يُقرأ المحتوى؛ ويشير السجل فقط إلى وجود موقف المجموعة التفاوضية. الملخص مبني على العنوان فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "unfccc-2026-11-10-action-agenda-opening",
+      "title": "OPENING – COP 31 Global Climate Action Agenda: From Momentum to Scale",
+      "url": "https://unfccc.int/documents/663765",
+      "publisher": "UNFCCC",
+      "author": "UNFCCC secretariat",
+      "published": "2026-11-10",
+      "language": "en",
+      "tracks": [
+       "Agenda de Ação"
+      ],
+      "content_type": "document",
+      "kind": "publication",
+      "description": "Nota conceitual da sessão de abertura da Agenda de Ação Climática Global da COP31, intitulada \"From Momentum to Scale\", publicada no repositório de documentos da UNFCCC. Relaciona-se à trilha da Agenda de Ação. Resumo baseado apenas no título e nos metadados.",
+      "collected_at": "2026-11-10T18:15:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Concept note for the opening of the COP31 Global Climate Action Agenda, titled \"From Momentum to Scale\", posted in the UNFCCC documents repository. It bears on the Action Agenda track. Summary based only on the title and metadata.",
+       "es": "Nota conceptual de la apertura de la Agenda de Acción Climática Mundial de la COP31, titulada \"From Momentum to Scale\", publicada en el repositorio de documentos de la CMNUCC. Se relaciona con la vía de la Agenda de Acción. Resumen basado únicamente en el título y los metadatos.",
+       "fr": "Note conceptuelle de l'ouverture du Programme d'action mondial pour le climat de la COP31, intitulée « From Momentum to Scale », publiée dans le dépôt de documents de la CCNUCC. Elle concerne le volet Programme d'action. Résumé fondé uniquement sur le titre et les métadonnées.",
+       "ru": "Концептуальная записка об открытии Глобальной повестки дня в области климатических действий КС-31 под названием «From Momentum to Scale», размещённая в репозитории документов РКИК ООН. Относится к направлению Повестки дня действий. Резюме основано только на заголовке и метаданных.",
+       "zh": "关于 COP31 全球气候行动议程开幕环节的概念说明，题为“From Momentum to Scale”，已发布在《联合国气候变化框架公约》文件库中。涉及行动议程议题。摘要仅依据标题和元数据。",
+       "ar": "مذكرة مفاهيمية بشأن افتتاح خطة العمل المناخي العالمية في COP31 بعنوان \"From Momentum to Scale\"، نُشرت في مستودع وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وتتصل بمسار خطة العمل. الملخص مبني على العنوان والبيانات الوصفية فقط."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "unfccc-2026-11-10-ambition-dialogue",
+      "title": "Presentation from UNFCCC secretariat (Ambition Dialogue at COP 31)",
+      "url": "https://unfccc.int/documents/663835",
+      "publisher": "UNFCCC",
+      "author": "UNFCCC secretariat",
+      "published": "2026-11-10",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Apresentação da secretaria da UNFCCC no Diálogo de Ambição da COP31, publicada no repositório de documentos. Relaciona-se à trilha de mitigação e ambição. Resumo baseado apenas no título e nos metadados; o conteúdo dos slides não foi lido.",
+      "collected_at": "2026-11-10T18:15:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Presentation by the UNFCCC secretariat at the COP31 Ambition Dialogue, posted in the documents repository. It bears on the mitigation and ambition track. Summary based only on the title and metadata; the slide content was not read.",
+       "es": "Presentación de la secretaría de la CMNUCC en el Diálogo sobre la Ambición de la COP31, publicada en el repositorio de documentos. Se relaciona con la vía de mitigación y ambición. Resumen basado únicamente en el título y los metadatos; no se leyó el contenido de las diapositivas.",
+       "fr": "Présentation du secrétariat de la CCNUCC lors du Dialogue sur l'ambition de la COP31, publiée dans le dépôt de documents. Elle concerne le volet atténuation et ambition. Résumé fondé uniquement sur le titre et les métadonnées ; le contenu des diapositives n'a pas été lu.",
+       "ru": "Презентация секретариата РКИК ООН на Диалоге по амбициям КС-31, размещённая в репозитории документов. Относится к направлению смягчения последствий и амбиций. Резюме основано только на заголовке и метаданных; содержание слайдов не читалось.",
+       "zh": "《联合国气候变化框架公约》秘书处在 COP31 雄心对话会上的演示文稿，已发布在文件库中。涉及减缓与雄心议题。摘要仅依据标题和元数据，未阅读幻灯片内容。",
+       "ar": "عرض قدمته أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في حوار الطموح بمؤتمر COP31، نُشر في مستودع الوثائق. ويتصل بمسار التخفيف والطموح. الملخص مبني على العنوان والبيانات الوصفية فقط؛ ولم يُقرأ محتوى الشرائح."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "UNFCCC"
+    ]
+   },
    {
     "id": "st-instagram-muratkurum-20261111-assinatura-erdogan",
     "section": "action",
@@ -4645,6 +4896,43 @@
   ],
   "civil": [
    {
+    "id": "st-350org-2026-11-11-australia-cop31",
+    "section": "civil",
+    "score": 0.45,
+    "lead": {
+     "id": "350org-2026-11-11-australia-cop31",
+     "title": "Australia takes the world stage at COP31 – but fails to mention the transition away from fossil fuels",
+     "url": "https://350.org/press-release/australia-takes-the-world-stage-at-cop31-but-fails-to-mention-the-transition-away-from-fossil-fuels/",
+     "publisher": "350.org",
+     "author": "Kim Bryan",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Finanças",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A 350.org critica o discurso do primeiro-ministro australiano Albanese na COP31 por não mencionar a transição para longe dos fósseis, enquanto Guterres e Lula pedem roteiros nacionais de transição.",
+     "collected_at": "2026-11-12T00:16:40-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org criticises Australian Prime Minister Albanese's COP31 address for not mentioning the transition away from fossil fuels, while Guterres and Lula urge national transition roadmaps.",
+      "es": "350.org critica el discurso del primer ministro australiano Albanese en la COP31 por no mencionar la transición para abandonar los combustibles fósiles, mientras Guterres y Lula piden hojas de ruta nacionales de transición.",
+      "fr": "350.org critique le discours du Premier ministre australien Albanese à la COP31, qui n'a pas mentionné la transition hors des combustibles fossiles, alors que M. Guterres et M. Lula appellent à des feuilles de route nationales de transition.",
+      "ru": "350.org критикует выступление премьер-министра Австралии Олбанезе на COP31 за то, что в нём не упомянут переход от ископаемого топлива, в то время как Гутерриш и Лула призывают к национальным дорожным картам перехода.",
+      "zh": "350.org批评澳大利亚总理阿尔巴尼斯在COP31的发言未提及摆脱化石燃料的转型，而古特雷斯和卢拉则呼吁制定国家转型路线图。该组织发起公开信，350 Australia要求制定设有期限的国家逐步淘汰煤炭路线图，并在五年内提供110亿澳元国际气候资金。涉及议题：TAFF与化石燃料、融资、主席国与东道国。",
+      "ar": "تنتقد منظمة 350.org خطاب رئيس الوزراء الأسترالي ألبانيزي في مؤتمر الأطراف الحادي والثلاثين لأنه لم يذكر التحول بعيداً عن الوقود الأحفوري، في حين يدعو غوتيريش ولولا إلى خرائط طريق وطنية للتحول."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
     "id": "st-can-2026-11-09-fossil-of-the-day",
     "section": "civil",
     "score": 0.169,
@@ -4800,7 +5088,11 @@
    "cop30-presidency-daily-brief-2026-11-11",
    "cop31-presidency-2026-11-11-leaders-summit-kurum",
    "e3g-2026-11-11-india-eu-uk-cleantech",
-   "eig-2026-11-10-unfccc-statement"
+   "eig-2026-11-10-unfccc-statement",
+   "germanwatch-2026-11-11-ccpi-2027",
+   "unfccc-2026-11-11-guterres-electrification",
+   "unfccc-2026-11-11-stiell-leaders",
+   "wmo-2026-11-11-leaders-summit"
   ]
  }
 }
