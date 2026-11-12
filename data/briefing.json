@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T15:58+03:00",
+ "generated_at": "2026-11-12T16:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T06:30:00-03:00",
-  "social_round": "2026-11-12T09:45:29-03:00",
+  "social_round": "2026-11-12T10:52:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 164,
-  "stories": 138,
+  "candidates": 165,
+  "stories": 139,
   "top": 8,
   "publishers": [
    "350.org",
@@ -2325,6 +2325,44 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261112-processo-unfccc-evolucao",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261112-processo-unfccc-evolucao",
+     "title": "enb.iisd.org: How should the #UNFCCC process evolve from negotiating rules to supporting implementation? At #COP31, Parties…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n24ldkbtrc2w",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-12",
+     "time": "10:31",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB pergunta como o processo da UNFCCC deve evoluir da negociação de regras para o apoio à implementação; Partes propõem planejamento plurianual e pautas simplificadas, preservando equidade, inclusão e apropriação pelas Partes.",
+     "collected_at": "2026-11-12T10:52:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB asks how the UNFCCC process should evolve from negotiating rules to supporting implementation; Parties propose multi-year agenda planning and streamlined agendas while preserving equity, inclusion and Party ownership.",
+      "es": "El ENB se pregunta cómo debe evolucionar el proceso de la CMNUCC, de la negociación de normas al apoyo a la implementación; las Partes proponen una planificación plurianual de la agenda y agendas simplificadas, preservando la equidad, la inclusión y la apropiación por las Partes.",
+      "fr": "L'ENB demande comment le processus de la CCNUCC doit évoluer de la négociation de règles au soutien à la mise en œuvre ; les Parties proposent une planification pluriannuelle de l'ordre du jour et des ordres du jour simplifiés, tout en préservant l'équité, l'inclusion et l'appropriation par les Parties.",
+      "ru": "ENB задаётся вопросом, как процесс РКИК ООН должен развиваться от выработки правил к поддержке осуществления; Стороны предлагают многолетнее планирование повестки дня и упрощённые повестки при сохранении справедливости, инклюзивности и принадлежности процесса Сторонам.",
+      "zh": "《地球谈判公报》（ENB）提出，《联合国气候变化框架公约》进程应如何从制定规则转向支持履约；缔约方建议采用多年期议程规划和精简议程，同时保持公平、包容和缔约方自主权。",
+      "ar": "تتساءل نشرة وقائع المفاوضات (ENB) كيف ينبغي أن تتطور عملية اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ من وضع القواعد إلى دعم التنفيذ؛ وتقترح الأطراف تخطيطًا متعدد السنوات لجدول الأعمال وجداول أعمال مبسطة مع الحفاظ على الإنصاف والشمول وملكية الأطراف."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
