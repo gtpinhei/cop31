@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T09:59+03:00",
+ "generated_at": "2026-11-12T10:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T00:16:40-03:00",
-  "social_round": "2026-11-12T03:55:00-03:00",
+  "social_round": "2026-11-12T04:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 149,
-  "stories": 127,
+  "candidates": 150,
+  "stories": 128,
   "top": 8,
   "publishers": [
    "350.org",
@@ -2363,6 +2363,44 @@
     ],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-instagram-chrisbowenmp-20261112-eletrificaçã-3",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-chrisbowenmp-20261112-eletrificaçã-3",
+     "title": "@chrisbowenmp: Australia is backing a pledge to put 300 million solar panels on rooftops. Currently the world sits at 150 million -…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfogfIACbjS/",
+     "publisher": "Chris Bowen",
+     "published": "2026-11-12",
+     "time": "04:21",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O ministro australiano Chris Bowen diz que a Austrália apoia a meta de 300 milhões de painéis solares em telhados até 2030, dobrando os atuais 150 milhões.",
+     "collected_at": "2026-11-12T04:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Australian minister Chris Bowen says Australia backs a pledge for 300 million rooftop solar panels by 2030, doubling the current 150 million.",
+      "es": "El ministro australiano Chris Bowen dice que Australia respalda el compromiso de 300 millones de paneles solares en tejados para 2030, duplicando los 150 millones actuales.",
+      "fr": "Le ministre australien Chris Bowen indique que lAustralie soutient lengagement de 300 millions de panneaux solaires en toiture dici 2030, soit le double des 150 millions actuels.",
+      "ru": "Министр Австралии Крис Боуэн заявляет, что Австралия поддерживает обязательство установить 300 млн солнечных панелей на крышах к 2030 году, удвоив нынешние 150 млн.",
+      "zh": "澳大利亚部长克里斯·鲍恩表示,澳大利亚支持到2030年安装3亿块屋顶太阳能板的承诺,较目前的1.5亿块翻一番。",
+      "ar": "يقول الوزير الأسترالي كريس بوين إن أستراليا تدعم تعهد تركيب 300 مليون لوحة شمسية على الأسطح بحلول 2030، أي ضعف العدد الحالي البالغ 150 مليوناً."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Chris Bowen"
     ]
    },
    {
