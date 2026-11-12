@@ -32,6 +32,61 @@
  ],
  "items": [
   {
+   "id": "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "13:07",
+   "text": "“No one should mistake safe and resilient cities for a privilege. They are the right of every society and our shared responsibility.” COP31 President Murat Kurum underscored that building resilient cities is a universal right and a collective duty during the High-Level Dialogue: Urban Resilience, Adaptation and Climate Action.",
+   "summary": "No Diálogo de Alto Nível sobre Resiliência Urbana, Adaptação e Ação Climática, o presidente da COP31, Murat Kurum, afirma que cidades seguras e resilientes são um direito de toda sociedade e uma responsabilidade compartilhada, não um privilégio.",
+   "summary_i18n": {
+    "en": "At the High-Level Dialogue on Urban Resilience, Adaptation and Climate Action, COP31 President Murat Kurum says safe and resilient cities are a right of every society and a shared responsibility, not a privilege.",
+    "es": "En el Diálogo de Alto Nivel sobre Resiliencia Urbana, Adaptación y Acción Climática, el Presidente de la COP31, Murat Kurum, afirma que las ciudades seguras y resilientes son un derecho de toda sociedad y una responsabilidad compartida, no un privilegio.",
+    "fr": "Lors du Dialogue de haut niveau sur la résilience urbaine, l'adaptation et l'action climatique, le Président de la COP31, Murat Kurum, déclare que des villes sûres et résilientes sont un droit pour toute société et une responsabilité partagée, et non un privilège.",
+    "ru": "На диалоге высокого уровня по городской устойчивости, адаптации и климатическим действиям Председатель КС-31 Мурат Курум заявил, что безопасные и устойчивые города — это право каждого общества и общая ответственность, а не привилегия.",
+    "zh": "在城市韧性、适应与气候行动高级别对话上，COP31主席穆拉特·库鲁姆表示，安全且有韧性的城市是每个社会的权利和共同责任，而非特权。",
+    "ar": "في الحوار رفيع المستوى حول القدرة على الصمود الحضري والتكيف والعمل المناخي، قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن المدن الآمنة والقادرة على الصمود حق لكل مجتمع ومسؤولية مشتركة وليست امتيازا."
+   },
+   "url": "https://www.instagram.com/p/DfpcvgKNDGy/",
+   "tracks": [
+    "Adaptação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T13:55:00-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "x-AOSISChair-20261112-manter-1-5-belize",
+   "kind": "post",
+   "platform": "x",
+   "account": "@AOSISChair",
+   "institution": "AOSIS",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "13:29",
+   "text": "At #COP31, we're fighting for 1.5°C because we can't afford a warmer world. If you're wondering why we can't just work with another temperature goal, listen to Kamil Salazar from #Belize 🇧🇿 #Keep1point5Alive #NotJustANumber #ClimateAction (video 0:46)",
+   "summary": "A presidência da AOSIS reforça na COP31 a defesa da meta de 1,5°C e, em vídeo, Kamil Salazar (Belize) explica por que não se pode trabalhar com outro objetivo de temperatura.",
+   "summary_i18n": {
+    "en": "The AOSIS Chair reaffirms at COP31 the fight for the 1.5°C goal; in a video, Kamil Salazar of Belize explains why another temperature goal cannot be used instead.",
+    "es": "La Presidencia de AOSIS reafirma en la COP31 la defensa del objetivo de 1,5 °C; en un vídeo, Kamil Salazar, de Belice, explica por qué no se puede trabajar con otro objetivo de temperatura.",
+    "fr": "La présidence de l'AOSIS réaffirme à la COP31 son combat pour l'objectif de 1,5 °C ; dans une vidéo, Kamil Salazar, du Belize, explique pourquoi on ne peut pas se rabattre sur un autre objectif de température.",
+    "ru": "Председатель АОСИС на КС-31 подтверждает борьбу за цель в 1,5°C; в видеоролике Камил Салазар из Белиза объясняет, почему нельзя ориентироваться на другую температурную цель.",
+    "zh": "小岛屿国家联盟（AOSIS）主席在COP31上重申为1.5°C目标而战；在视频中，伯利兹的卡米尔·萨拉查解释了为什么不能改用其他温度目标。",
+    "ar": "يؤكد رئيس تحالف الدول الجزرية الصغيرة (AOSIS) في مؤتمر الأطراف الحادي والثلاثين مواصلة النضال من أجل هدف 1.5 درجة مئوية، ويشرح كاميل سالازار من بليز في مقطع فيديو لماذا لا يمكن اعتماد هدف حراري آخر."
+   },
+   "url": "https://x.com/AOSISChair",
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-12T13:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-aosischair"
+  },
+  {
    "id": "instagram-muratkurum-20261112-egito",
    "kind": "post",
    "platform": "instagram",
@@ -15626,11 +15681,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T12:46:37-03:00",
-  "label": "12 nov 2026, 12:46 (Brasília)",
+  "timestamp": "2026-11-12T13:55:00-03:00",
+  "label": "12 nov 2026, 13:55 (Brasília)",
   "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 8,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
