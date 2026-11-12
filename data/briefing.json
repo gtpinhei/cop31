@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-12",
- "generated_at": "2026-11-12T00:58+03:00",
+ "generated_at": "2026-11-12T04:58+03:00",
  "window": {
   "from": "2026-11-09",
   "to": "2026-11-12",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-11T18:20:00-03:00",
-  "social_round": "2026-11-11T18:50:00-03:00",
+  "social_round": "2026-11-11T22:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 127,
-  "stories": 109,
+  "candidates": 129,
+  "stories": 111,
   "top": 8,
   "publishers": [
    "350.org",
@@ -802,6 +802,44 @@
     "related": [],
     "publishers": [
      "Política por Inteiro"
+    ]
+   },
+   {
+    "id": "st-bluesky-unep.org-20261111-metano-pledge",
+    "section": "negotiations",
+    "score": 0.281,
+    "lead": {
+     "id": "bluesky-unep.org-20261111-metano-pledge",
+     "title": "unep.org: What if one of the fastest ways to slow global warming was already within reach? Under the Global Methane Pledge,…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/unep.org/post/3n23c7mac5x2x",
+     "publisher": "UNEP",
+     "published": "2026-11-11",
+     "time": "22:15",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "TAFF e fósseis"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O UNEP destaca o Compromisso Global do Metano (corte de 30% até 2030) como uma das formas mais rápidas de frear o aquecimento, com soluções em combustíveis fósseis, agricultura e resíduos.",
+     "collected_at": "2026-11-11T22:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNEP highlights the Global Methane Pledge (30% cut by 2030) as one of the fastest ways to slow warming, with solutions across fossil fuels, agriculture and waste.",
+      "es": "El PNUMA destaca el Compromiso Mundial sobre el Metano (reducción del 30 % para 2030) como una de las vías más rápidas para frenar el calentamiento, con soluciones en combustibles fósiles, agricultura y residuos.",
+      "fr": "Le PNUE met en avant l'Engagement mondial sur le méthane (réduction de 30 % d'ici 2030) comme l'un des moyens les plus rapides de freiner le réchauffement, avec des solutions dans les combustibles fossiles, l'agriculture et les déchets.",
+      "ru": "ЮНЕП выделяет Глобальное обязательство по метану (сокращение на 30 % к 2030 году) как один из самых быстрых способов замедлить потепление, с решениями в сфере ископаемого топлива, сельского хозяйства и отходов.",
+      "zh": "联合国环境规划署强调《全球甲烷承诺》（到2030年减排30%）是减缓变暖的最快途径之一，在化石燃料、农业和废弃物领域均有解决方案。",
+      "ar": "يبرز برنامج الأمم المتحدة للبيئة التعهد العالمي بشأن الميثان (خفض بنسبة 30% بحلول 2030) كأحد أسرع السبل لإبطاء الاحترار، مع حلول في الوقود الأحفوري والزراعة والنفايات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNEP"
     ]
    },
    {
@@ -1830,6 +1868,43 @@
    }
   ],
   "action": [
+   {
+    "id": "st-instagram-muratkurum-20261111-assinatura-erdogan",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-muratkurum-20261111-assinatura-erdogan",
+     "title": "@muratkurum: Cumhurbaşkanımız Sayın @RTErdogan’ın imzası, #COP31 Liderler Zirvesi’nin hafızasında yerini aldı. Bu imza,…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfnhaI8I-98/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-11",
+     "time": "19:10",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Kurum registra a assinatura do presidente Erdoğan no painel comemorativo da Cúpula de Líderes da COP31, como lembrança da responsabilidade da Türkiye na ação climática global.",
+     "collected_at": "2026-11-11T22:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Kurum shares President Erdoğan's signature on the commemorative board of the COP31 Leaders' Summit, as a memento of Turkey's responsibility in global climate action.",
+      "es": "Kurum publica la firma del presidente Erdoğan en el panel conmemorativo de la Cumbre de Líderes de la COP31, como recuerdo de la responsabilidad de Turquía en la acción climática mundial.",
+      "fr": "Kurum publie la signature du président Erdoğan sur le panneau commémoratif du Sommet des dirigeants de la COP31, en souvenir de la responsabilité de la Turquie dans l'action climatique mondiale.",
+      "ru": "Курум публикует подпись президента Эрдогана на памятном щите саммита лидеров COP31 как напоминание об ответственности Турции в глобальных действиях по климату.",
+      "zh": "库鲁姆发布了埃尔多安总统在COP31领导人峰会纪念板上的签名，作为土耳其在全球气候行动中所承担责任的纪念。",
+      "ar": "ينشر كوروم توقيع الرئيس أردوغان على اللوحة التذكارية لقمة قادة COP31، تذكيراً بمسؤولية تركيا في العمل المناخي العالمي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
+    ]
+   },
    {
     "id": "st-instagram-muratkurum-20261111-lideres-visao",
     "section": "action",
