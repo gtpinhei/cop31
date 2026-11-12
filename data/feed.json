@@ -32,6 +32,170 @@
  ],
  "items": [
   {
+   "id": "bluesky-worldresources.bsky.social-20261112-eletrificacao-seguranca",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "worldresources.bsky.social",
+   "institution": "WRI",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "16:52",
+   "text": "💡How does electrification change energy security?\n\nClem Perry, Global Lead, Clean Energy Supply, @wrienergy.bsky.social, explains.\n\nMore #COP31 resources: go.wri.org/cop31-resour...",
+   "summary": "O WRI publica vídeo em que Clem Perry explica como a eletrificação altera a segurança energética, com recursos adicionais sobre a COP31.",
+   "summary_i18n": {
+    "en": "WRI posts a video in which Clem Perry explains how electrification changes energy security, with more COP31 resources.",
+    "es": "El WRI publica un video en el que Clem Perry explica cómo la electrificación cambia la seguridad energética, con más recursos sobre la COP31.",
+    "fr": "Le WRI publie une vidéo dans laquelle Clem Perry explique comment l'électrification modifie la sécurité énergétique, avec d'autres ressources sur la COP31.",
+    "ru": "WRI опубликовал видео, в котором Клем Перри объясняет, как электрификация меняет энергетическую безопасность, с дополнительными материалами по КС-31.",
+    "zh": "WRI发布视频，由Clem Perry解释电气化如何改变能源安全，并提供更多COP31资源。",
+    "ar": "ينشر معهد الموارد العالمية (WRI) مقطع فيديو يشرح فيه كليم بيري كيف يغيّر التحول الكهربائي أمن الطاقة، مع موارد إضافية حول مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/worldresources.bsky.social/post/3n25amszfuk22",
+   "tracks": [
+    "Eletrificação"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-worldresources-bsky-social"
+  },
+  {
+   "id": "bluesky-worldresources.bsky.social-20261112-declaracao-cupula-lideres",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "worldresources.bsky.social",
+   "institution": "WRI",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "13:49",
+   "text": "📰STATEMENT: COP31 Leaders’ Summit Spotlights Electrification and Transition Away from Fossil Fuels\n\n➡️Read the full statement from Ani Dasgupta, President and CEO, World Resources Institute: go.wri.org/Leaders-summit",
+   "summary": "O WRI divulga declaração de Ani Dasgupta sobre a Cúpula de Líderes da COP31, que destacou a eletrificação e a transição para longe dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "WRI releases a statement by Ani Dasgupta on the COP31 Leaders' Summit, which spotlighted electrification and the transition away from fossil fuels.",
+    "es": "El WRI difunde una declaración de Ani Dasgupta sobre la Cumbre de Líderes de la COP31, que destacó la electrificación y la transición para dejar atrás los combustibles fósiles.",
+    "fr": "Le WRI publie une déclaration d'Ani Dasgupta sur le Sommet des dirigeants de la COP31, qui a mis en avant l'électrification et la transition hors des combustibles fossiles.",
+    "ru": "WRI опубликовал заявление Ани Дасгупты о саммите лидеров КС-31, на котором особое внимание уделялось электрификации и переходу от ископаемого топлива.",
+    "zh": "WRI发布Ani Dasgupta关于COP31领导人峰会的声明，峰会重点关注电气化和摆脱化石燃料的转型。",
+    "ar": "ينشر معهد الموارد العالمية (WRI) بيانًا لأني داسغوبتا بشأن قمة قادة مؤتمر الأطراف الحادي والثلاثين التي سلّطت الضوء على التحول الكهربائي والانتقال بعيدًا عن الوقود الأحفوري."
+   },
+   "url": "https://bsky.app/profile/worldresources.bsky.social/post/3n24wgntrvk22",
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-worldresources-bsky-social"
+  },
+  {
+   "id": "bluesky-worldresources.bsky.social-20261112-375-milhoes-empregos",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "worldresources.bsky.social",
+   "institution": "WRI",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "10:50",
+   "text": "The transition to a low-carbon, resilient economy could generate a net 375 million new jobs over the next decade, making it one of the single, biggest job-creation opportunities of our time. \n\nMelanie Robinson shares why this matters. \n\nMore updates from #COP31: go.wri.org/cop31-resour...",
+   "summary": "O WRI destaca, em vídeo com Melanie Robinson, que a transição para uma economia de baixo carbono e resiliente pode gerar 375 milhões de novos empregos líquidos em uma década.",
+   "summary_i18n": {
+    "en": "In a video with Melanie Robinson, WRI highlights that the transition to a low-carbon, resilient economy could generate a net 375 million new jobs over the next decade.",
+    "es": "En un video con Melanie Robinson, el WRI destaca que la transición a una economía baja en carbono y resiliente podría generar 375 millones de nuevos empleos netos en la próxima década.",
+    "fr": "Dans une vidéo avec Melanie Robinson, le WRI souligne que la transition vers une économie sobre en carbone et résiliente pourrait générer 375 millions de nouveaux emplois nets en une décennie.",
+    "ru": "В видео с Мелани Робинсон WRI подчёркивает, что переход к низкоуглеродной и устойчивой экономике может создать 375 млн новых рабочих мест (чистый прирост) в течение следующего десятилетия.",
+    "zh": "WRI在与Melanie Robinson的视频中强调，向低碳韧性经济转型未来十年可净创造3.75亿个新就业岗位。",
+    "ar": "في مقطع فيديو مع ميلاني روبنسون، يسلّط معهد الموارد العالمية (WRI) الضوء على أن التحول إلى اقتصاد منخفض الكربون وقادر على الصمود قد يوفّر 375 مليون وظيفة جديدة صافية خلال العقد المقبل."
+   },
+   "url": "https://bsky.app/profile/worldresources.bsky.social/post/3n24mg5f3nc2o",
+   "tracks": [
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-worldresources-bsky-social"
+  },
+  {
+   "id": "bluesky-daisydunne.carbonbrief.org-20261112-greta-sul-global",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "daisydunne.carbonbrief.org",
+   "institution": "Daisy Dunne (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "06:58",
+   "text": "Here’s a video of Greta Thunberg speaking alongside global south activists at COP this morning. \n\nMore from the speakers, including Mohammad Usrof, Sagar Dhakal, Rikki Dank and Celine Isimbi, on CB Connect: \n\nconnect.carbonbrief.org/t/greta-thun...",
+   "summary": "Daisy Dunne, do Carbon Brief, compartilha vídeo de Greta Thunberg falando ao lado de ativistas do Sul Global na COP31, com mais detalhes no CB Connect.",
+   "summary_i18n": {
+    "en": "Daisy Dunne of Carbon Brief shares a video of Greta Thunberg speaking alongside Global South activists at COP31, with more details on CB Connect.",
+    "es": "Daisy Dunne, de Carbon Brief, comparte un video de Greta Thunberg hablando junto a activistas del Sur Global en la COP31, con más detalles en CB Connect.",
+    "fr": "Daisy Dunne, de Carbon Brief, partage une vidéo de Greta Thunberg s'exprimant aux côtés de militants du Sud à la COP31, avec plus de détails sur CB Connect.",
+    "ru": "Дейзи Данн из Carbon Brief делится видео выступления Греты Тунберг вместе с активистами Глобального Юга на КС-31, подробности — на CB Connect.",
+    "zh": "Carbon Brief的Daisy Dunne分享了Greta Thunberg与全球南方活动人士在COP31上发言的视频，更多详情见CB Connect。",
+    "ar": "تشارك ديزي دان من Carbon Brief مقطع فيديو لغريتا تونبري وهي تتحدث إلى جانب ناشطين من الجنوب العالمي في مؤتمر الأطراف الحادي والثلاثين، مع مزيد من التفاصيل على CB Connect."
+   },
+   "url": "https://bsky.app/profile/daisydunne.carbonbrief.org/post/3n247gg5h2226",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-daisydunne-carbonbrief-org"
+  },
+  {
+   "id": "x-LulaOficial-20261112-protagonismo-ambiental",
+   "kind": "post",
+   "platform": "x",
+   "account": "@LulaOficial",
+   "institution": "Lula",
+   "verified": false,
+   "date": "2026-11-12",
+   "time": "16:25",
+   "text": "O protagonismo e o respeito que o Brasil conquistou no mundo na agenda ambiental são resultado de coragem, compromisso e trabalho coletivo. E é ao lado da sociedade civil que seguimos construindo esse caminho.\n\nNo encontro com representantes de movimentos sociais e organizações…",
+   "summary": "Lula afirma que o protagonismo e o respeito do Brasil na agenda ambiental resultam de coragem, compromisso e trabalho coletivo, e que o país segue construindo esse caminho ao lado da sociedade civil, após encontro com movimentos sociais e organizações na COP31.",
+   "summary_i18n": {
+    "en": "Lula says Brazil's leadership and standing on the environmental agenda stem from courage, commitment and collective work, and that the country continues building this path alongside civil society, after meeting social movements and organizations at COP31.",
+    "es": "Lula afirma que el protagonismo y el respeto de Brasil en la agenda ambiental son fruto del coraje, el compromiso y el trabajo colectivo, y que el país sigue construyendo ese camino junto a la sociedad civil, tras reunirse con movimientos sociales y organizaciones en la COP31.",
+    "fr": "Lula affirme que le rôle de premier plan et le respect acquis par le Brésil sur l'agenda environnemental résultent du courage, de l'engagement et du travail collectif, et que le pays poursuit cette voie aux côtés de la société civile, après une rencontre avec des mouvements sociaux et des organisations à la COP31.",
+    "ru": "Лула заявляет, что ведущая роль и авторитет Бразилии в экологической повестке — результат смелости, приверженности и коллективной работы и что страна продолжает этот путь вместе с гражданским обществом, после встречи с социальными движениями и организациями на COP31.",
+    "zh": "卢拉表示，巴西在环境议程上的领导地位和赢得的尊重源于勇气、承诺和集体努力，并将继续与民间社会一道推进这条道路；此前他在COP31会见了社会运动和组织的代表。",
+    "ar": "يقول لولا إن دور البرازيل الريادي والاحترام الذي حظيت به في أجندة البيئة هما ثمرة الشجاعة والالتزام والعمل الجماعي، وإن البلاد ستواصل هذا المسار إلى جانب المجتمع المدني، وذلك بعد لقائه ممثلي الحركات الاجتماعية والمنظمات في COP31."
+   },
+   "url": "https://x.com/LulaOficial",
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "pt",
+   "source_id": "x-lulaoficial"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261112-ministerial-eletrificacao",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "09:58",
+   "text": "COP31 CEO and Deputy Minister Fatma Varank attended the Global Electrification Ministerial and Electrification Forum, an event organised by the COP31 Presidency. She welcomed the strong support and commitment shown by countries towards the electrification initiative and thanked all countries contributing to its progress.",
+   "summary": "A CEO da COP31, Fatma Varank, participou do Ministerial Global de Eletrificação e do Fórum de Eletrificação, organizados pela Presidência, e agradeceu o apoio dos países à iniciativa de eletrificação.",
+   "summary_i18n": {
+    "en": "COP31 CEO Fatma Varank took part in the Global Electrification Ministerial and the Electrification Forum organised by the Presidency, and thanked countries for their support for the electrification initiative.",
+    "es": "La directora ejecutiva de la COP31, Fatma Varank, participó en la Reunión Ministerial Mundial sobre Electrificación y en el Foro de Electrificación organizados por la Presidencia, y agradeció el apoyo de los países a la iniciativa de electrificación.",
+    "fr": "La directrice générale de la COP31, Fatma Varank, a participé à la réunion ministérielle mondiale sur l'électrification et au Forum sur l'électrification organisés par la présidence, et a remercié les pays de leur soutien à l'initiative d'électrification.",
+    "ru": "Генеральный директор КС-31 Фатма Варанк приняла участие в Глобальной министерской встрече по электрификации и Форуме по электрификации, организованных председательством, и поблагодарила страны за поддержку инициативы по электрификации.",
+    "zh": "COP31首席执行官法特玛·瓦兰克出席了主席国组织的全球电气化部长级会议和电气化论坛,并感谢各国对电气化倡议的支持。",
+    "ar": "شاركت الرئيسة التنفيذية لمؤتمر الأطراف الحادي والثلاثين فاطمة فارانك في الاجتماع الوزاري العالمي للكهربة ومنتدى الكهربة اللذين نظمتهما الرئاسة، وشكرت الدول على دعمها لمبادرة الكهربة."
+   },
+   "url": "https://www.instagram.com/p/DfpGW62jdkZ/",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
    "id": "x-CANIntl-20261112-day4-roundup",
    "kind": "post",
    "platform": "x",
@@ -2118,6 +2282,34 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "bluesky-350.org-20261111-carta-aberta-albanese",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "350.org",
+   "institution": "350.org",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "20:27",
+   "text": "‼️ Tell Australian PM @albomp.bsky.social to lead on climate before he leaves COP31.\n\nAustralia is co-host of the climate talks – it’s not too late for him to commit to a just transition away from fossil fuels. Time is of the essence, & it’s essential that he does so ASAP: act.350.org/sign/open-le...",
+   "summary": "A 350.org lança carta aberta para que o primeiro-ministro australiano, cuja nação é co-anfitriã das negociações, se comprometa com uma transição justa para longe dos combustíveis fósseis antes de deixar a COP31.",
+   "summary_i18n": {
+    "en": "350.org launches an open letter urging the Australian prime minister, whose country is co-host of the talks, to commit to a just transition away from fossil fuels before he leaves COP31.",
+    "es": "350.org lanza una carta abierta para que el primer ministro australiano, cuyo país es coanfitrión de las negociaciones, se comprometa con una transición justa para dejar atrás los combustibles fósiles antes de abandonar la COP31.",
+    "fr": "350.org lance une lettre ouverte pour que le Premier ministre australien, dont le pays est co-hôte des négociations, s'engage en faveur d'une transition juste hors des combustibles fossiles avant de quitter la COP31.",
+    "ru": "350.org запускает открытое письмо, призывающее премьер-министра Австралии, страна которого является соорганизатором переговоров, взять на себя обязательства по справедливому переходу от ископаемого топлива до отъезда с КС-31.",
+    "zh": "350.org发起公开信，敦促作为谈判共同东道国的澳大利亚总理在离开COP31之前承诺实现摆脱化石燃料的公正转型。",
+    "ar": "تطلق منظمة 350.org رسالة مفتوحة تحثّ رئيس وزراء أستراليا، التي تشارك في استضافة المحادثات، على الالتزام بانتقال عادل بعيدًا عن الوقود الأحفوري قبل مغادرته مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/350.org/post/3n2346l33bk2u",
+   "tracks": [
+    "Transição justa",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-12T17:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-350-org"
   },
   {
    "id": "x-WMO-20261111-sistema-observacao-clima",
@@ -16129,11 +16321,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T17:05:00-03:00",
-  "label": "12 nov 2026, 17:05 (Brasília)",
-  "accounts_checked": 30,
+  "timestamp": "2026-11-12T17:45:00-03:00",
+  "label": "12 nov 2026, 17:45 (Brasília)",
+  "accounts_checked": 45,
   "blocked": 1,
-  "new_items": 6,
+  "new_items": 7,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
