@@ -32,6 +32,118 @@
  ],
  "items": [
   {
+   "id": "x-WMO-20261112-alerta-precoce-multirrisco",
+   "kind": "post",
+   "platform": "x",
+   "account": "@WMO",
+   "institution": "OMM (WMO)",
+   "verified": false,
+   "date": "2026-11-12",
+   "time": "06:10",
+   "text": "7 in 10 countries worldwide now have multi-hazard early warning systems — a 143% increase in a decade. But major gaps remain.\nGlobal Status of Multi-Hazard Early Warning Systems 2026 by WMO and @UNDRR launched at #COP31 #EarlyWarningsForAll",
+   "summary": "OMM e UNDRR lançam na COP31 o relatório sobre sistemas de alerta precoce multirrisco: 7 em cada 10 países os têm (alta de 143% em uma década), mas persistem lacunas importantes.",
+   "summary_i18n": {
+    "en": "WMO and UNDRR launch at COP31 the Global Status of Multi-Hazard Early Warning Systems 2026: 7 in 10 countries now have them (up 143% in a decade), but major gaps remain.",
+    "es": "La OMM y la UNDRR presentan en la COP31 el informe sobre sistemas de alerta temprana multiamenaza: 7 de cada 10 países ya los tienen (un 143 % más en una década), pero persisten brechas importantes.",
+    "fr": "L'OMM et l'UNDRR lancent à la COP31 le rapport sur les systèmes d'alerte précoce multirisques : 7 pays sur 10 en disposent (+143 % en dix ans), mais des lacunes importantes subsistent.",
+    "ru": "ВМО и УСВРК ООН представили на COP31 доклад о многорисковых системах раннего предупреждения: они есть у 7 из 10 стран (рост на 143% за десятилетие), но серьёзные пробелы сохраняются.",
+    "zh": "世界气象组织与联合国减灾署在COP31发布多灾种预警系统全球现状报告:十分之七的国家已建立此类系统(十年增长143%),但仍存在重大缺口。",
+    "ar": "أطلقت المنظمة العالمية للأرصاد الجوية ومكتب الأمم المتحدة للحد من مخاطر الكوارث في مؤتمر الأطراف الحادي والثلاثين تقرير الحالة العالمية لنظم الإنذار المبكر المتعددة المخاطر: 7 من كل 10 دول لديها هذه النظم (بزيادة 143% في عقد)، مع بقاء فجوات كبيرة."
+   },
+   "url": "https://x.com/WMO",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-12T15:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-wmo"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-whose-just-transition-bam",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "13:47",
+   "text": "Whose Just Transition? - Reparations, Real Climate Solutions, and the Belém–Antalya Mechanism. ESCR-Net, APWLD, FIAN Germany, Global Forest Coalition and others: how the BAM can be implemented in ways that protect communities' right to self-determination and advance people-led solutions.",
+   "summary": "Evento paralelo (ESCR-Net, APWLD, FIAN Alemanha, Global Forest Coalition e outros) discute como implementar o Mecanismo Belém–Antalya (BAM) protegendo a autodeterminação das comunidades, com reparações e responsabilização.",
+   "summary_i18n": {
+    "en": "Side event (ESCR-Net, APWLD, FIAN Germany, Global Forest Coalition and others) discusses how to implement the Belém–Antalya Mechanism (BAM) while protecting communities' right to self-determination, with reparations and accountability.",
+    "es": "Evento paralelo (ESCR-Net, APWLD, FIAN Alemania, Global Forest Coalition y otros) sobre cómo implementar el Mecanismo Belém–Antalya (BAM) protegiendo el derecho de las comunidades a la libre determinación, con reparaciones y rendición de cuentas.",
+    "fr": "Événement parallèle (ESCR-Net, APWLD, FIAN Allemagne, Global Forest Coalition et autres) sur la mise en œuvre du Mécanisme Belém–Antalya (BAM) dans le respect du droit des communautés à l'autodétermination, avec réparations et redevabilité.",
+    "ru": "Параллельное мероприятие (ESCR-Net, APWLD, FIAN Germany, Global Forest Coalition и др.) о том, как реализовать механизм Белен–Анталья (BAM) с защитой права сообществ на самоопределение, возмещением ущерба и подотчётностью.",
+    "zh": "由ESCR-Net、APWLD、德国FIAN、全球森林联盟等举办的边会,探讨如何在保护社区自决权的前提下落实贝伦–安塔利亚机制(BAM),并强调赔偿与问责。",
+    "ar": "فعالية جانبية (ESCR-Net وAPWLD وFIAN ألمانيا وGlobal Forest Coalition وغيرها) تبحث كيفية تنفيذ آلية بيليم–أنطاليا (BAM) بما يحمي حق المجتمعات في تقرير المصير، مع التعويضات والمساءلة."
+   },
+   "url": "https://www.youtube.com/watch?v=6UeoSWSd3YY",
+   "tracks": [
+    "Transição justa",
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-12T15:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-integrated-climate-finance",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "14:00",
+   "text": "Integrated Climate Finance: Connecting Just Transition, Loss & Damage and the Built Environment. SCINDeA, Development Alternatives, Gram Saarthi: how integrated climate finance can align just transition, Loss & Damage and built-environment investments.",
+   "summary": "Evento paralelo (SCINDeA, Development Alternatives, Gram Saarthi) discute como o financiamento climático integrado pode alinhar transição justa, perdas e danos e investimentos no ambiente construído.",
+   "summary_i18n": {
+    "en": "Side event (SCINDeA, Development Alternatives, Gram Saarthi) discusses how integrated climate finance can align just transition, loss and damage and built-environment investments.",
+    "es": "Evento paralelo (SCINDeA, Development Alternatives, Gram Saarthi) sobre cómo la financiación climática integrada puede alinear la transición justa, las pérdidas y daños y las inversiones en el entorno construido.",
+    "fr": "Événement parallèle (SCINDeA, Development Alternatives, Gram Saarthi) sur la manière dont un financement climatique intégré peut aligner transition juste, pertes et préjudices et investissements dans l'environnement bâti.",
+    "ru": "Параллельное мероприятие (SCINDeA, Development Alternatives, Gram Saarthi) о том, как комплексное климатическое финансирование может согласовать справедливый переход, потери и ущерб и инвестиции в застроенную среду.",
+    "zh": "由SCINDeA、Development Alternatives和Gram Saarthi举办的边会,探讨综合气候融资如何统筹公正转型、损失与损害以及建成环境投资。",
+    "ar": "فعالية جانبية (SCINDeA وDevelopment Alternatives وGram Saarthi) تبحث كيف يمكن للتمويل المناخي المتكامل أن يوائم بين التحول العادل والخسائر والأضرار والاستثمارات في البيئة المبنية."
+   },
+   "url": "https://www.youtube.com/watch?v=kyJvrDhTEqk",
+   "tracks": [
+    "Finanças",
+    "Perdas e danos",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-12T15:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
+   "id": "youtube-UNClimateChangeEvents-20261112-afolu-carbon-balance",
+   "kind": "post",
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "14:00",
+   "text": "The importance of an integrated framework for AFOLU carbon balance. Finland, ICOS ERIC, University of Helsinki: moving to an integrated, observation-based land-sector system to reduce uncertainties in sinks and emissions, serving transparency reporting and the GST.",
+   "summary": "Evento paralelo (Finlândia, ICOS ERIC, Univ. de Helsinque) defende um sistema integrado e baseado em observações para o setor da terra, reduzindo incertezas sobre sumidouros e emissões, para relatórios de transparência e o balanço global (GST).",
+   "summary_i18n": {
+    "en": "Side event (Finland, ICOS ERIC, University of Helsinki) argues for an integrated, observation-based land-sector system to reduce uncertainties on sinks and emissions, supporting transparency reporting and the Global Stocktake (GST).",
+    "es": "Evento paralelo (Finlandia, ICOS ERIC, Universidad de Helsinki) aboga por un sistema integrado del sector de la tierra basado en observaciones para reducir incertidumbres sobre sumideros y emisiones, en apoyo de la transparencia y el Balance Mundial (GST).",
+    "fr": "Événement parallèle (Finlande, ICOS ERIC, Université d'Helsinki) plaidant pour un système intégré du secteur des terres fondé sur l'observation afin de réduire les incertitudes sur les puits et les émissions, au service de la transparence et du bilan mondial (GST).",
+    "ru": "Параллельное мероприятие (Финляндия, ICOS ERIC, Хельсинкский университет) выступает за интегрированную систему сектора землепользования на основе наблюдений для снижения неопределённостей по поглотителям и выбросам в интересах прозрачности и Глобального подведения итогов (GST).",
+    "zh": "由芬兰、ICOS ERIC和赫尔辛基大学举办的边会,主张建立基于观测的综合土地部门体系,以减少碳汇和排放的不确定性,服务于透明度报告和全球盘点(GST)。",
+    "ar": "فعالية جانبية (فنلندا وICOS ERIC وجامعة هلسنكي) تدعو إلى نظام متكامل لقطاع الأراضي قائم على الرصد لتقليل أوجه عدم اليقين بشأن البواليع والانبعاثات، دعماً لتقارير الشفافية والحصيلة العالمية (GST)."
+   },
+   "url": "https://www.youtube.com/watch?v=vR2C-Z4X9gA",
+   "tracks": [
+    "GST2 e IPCC",
+    "Florestas"
+   ],
+   "first_seen": "2026-11-12T15:50:00-03:00",
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents"
+  },
+  {
    "id": "instagram-turkiyecop31-20261112-kurum-egito-presidencia",
    "kind": "post",
    "platform": "instagram",
@@ -1837,6 +1949,34 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "x-WMO-20261111-sistema-observacao-clima",
+   "kind": "post",
+   "platform": "x",
+   "account": "@WMO",
+   "institution": "OMM (WMO)",
+   "verified": false,
+   "date": "2026-11-11",
+   "time": "13:44",
+   "text": "At #COP31, co-Presidents @turkiyecop31 and Australia announced an unprecedented call to action to protect the global climate observing system, amid unanimous declarations of support to protect the observing system which protects us.",
+   "summary": "Na COP31, os co-presidentes (Türkiye e Austrália) anunciam um chamado inédito à ação para proteger o sistema global de observação do clima, com declarações unânimes de apoio, segundo a OMM.",
+   "summary_i18n": {
+    "en": "At COP31, the co-Presidents (Türkiye and Australia) announced an unprecedented call to action to protect the global climate observing system, with unanimous declarations of support, according to WMO.",
+    "es": "En la COP31, las copresidencias (Türkiye y Australia) anunciaron un llamamiento a la acción sin precedentes para proteger el sistema mundial de observación del clima, con declaraciones unánimes de apoyo, según la OMM.",
+    "fr": "À la COP31, les coprésidences (Türkiye et Australie) ont lancé un appel à l'action sans précédent pour protéger le système mondial d'observation du climat, avec des déclarations de soutien unanimes, selon l'OMM.",
+    "ru": "На COP31 сопредседатели (Турция и Австралия) объявили беспрецедентный призыв к действиям по защите глобальной системы наблюдений за климатом при единодушной поддержке, сообщает ВМО.",
+    "zh": "据世界气象组织称,COP31两位共同主席(土耳其和澳大利亚)发出史无前例的行动呼吁,保护全球气候观测系统,各方一致表示支持。",
+    "ar": "أعلن الرئيسان المشاركان لمؤتمر الأطراف الحادي والثلاثين (تركيا وأستراليا) دعوة غير مسبوقة إلى العمل لحماية منظومة الرصد المناخي العالمية، وسط إعلانات دعم بالإجماع، بحسب المنظمة العالمية للأرصاد الجوية."
+   },
+   "url": "https://x.com/WMO",
+   "tracks": [
+    "GST2 e IPCC",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-12T15:55:00-03:00",
+   "lang": "en",
+   "source_id": "x-wmo"
   },
   {
    "id": "actionaid-2026-11-11-guterres-final-cop-speech",
@@ -15820,9 +15960,9 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T15:05:00-03:00",
-  "label": "12 nov 2026, 15:05 (Brasília)",
-  "accounts_checked": 30,
+  "timestamp": "2026-11-12T15:55:00-03:00",
+  "label": "12 nov 2026, 15:55 (Brasília)",
+  "accounts_checked": 31,
   "blocked": 1,
   "new_items": 5,
   "cadence": "a cada hora",
