@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T07:58+03:00",
+ "generated_at": "2026-11-13T08:58+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,7 +9,7 @@
  },
  "collection": {
   "web_round": "2026-11-13T00:13:00-03:00",
-  "social_round": "2026-11-13T01:50:00-03:00",
+  "social_round": "2026-11-13T02:45:39-03:00",
   "stale": false
  },
  "coverage": {
