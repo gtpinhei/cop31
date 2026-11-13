@@ -32,6 +32,121 @@
  ],
  "items": [
   {
+   "id": "bluesky-ldcchairunfccc.bsky.social-20261113-guterres",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "03:25",
+   "text": "Honoured to meet UN Secretary-General António Guterres at #COP31. I expressed our gratitude for his leadership on climate justice and reaffirmed the LDCs’ call for urgent climate action, accessible finance, adaptation and loss and damage.",
+   "summary": "A presidência do Grupo dos PMDs agradeceu ao secretário-geral Guterres pela liderança em justiça climática e reiterou a demanda por ação urgente, finanças acessíveis, adaptação e perdas e danos.",
+   "summary_i18n": {
+    "en": "The LDC Group Chair thanked UN Secretary-General Guterres for his leadership on climate justice and reiterated the LDCs’ call for urgent action, accessible finance, adaptation and loss and damage.",
+    "es": "La Presidencia del Grupo de los PMA agradeció al Secretario General Guterres su liderazgo en justicia climática y reiteró el llamado de los PMA a una acción urgente, financiación accesible, adaptación y pérdidas y daños.",
+    "fr": "La présidence du Groupe des PMA a remercié le Secrétaire général Guterres pour son leadership en matière de justice climatique et a réitéré l’appel des PMA à une action urgente, à un financement accessible, à l’adaptation et aux pertes et préjudices.",
+    "ru": "Председатель Группы НРС поблагодарил Генерального секретаря Гутерриша за лидерство в вопросах климатической справедливости и вновь заявил о призыве НРС к срочным действиям, доступному финансированию, адаптации и потерям и ущербу.",
+    "zh": "最不发达国家集团主席感谢联合国秘书长古特雷斯在气候正义方面的领导力，并重申最不发达国家对紧急行动、可获取的资金、适应以及损失与损害的呼吁。",
+    "ar": "شكر رئيس مجموعة أقل البلدان نمواً الأمين العام للأمم المتحدة غوتيريش على قيادته في مجال العدالة المناخية، وأكد من جديد دعوة هذه البلدان إلى عمل عاجل وتمويل متاح والتكيف والخسائر والأضرار."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n26dzrh42c2c",
+   "tracks": [
+    "Perdas e danos",
+    "Finanças",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-13T03:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-ldcchairunfccc-bsky-social"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261113-cover-decision",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "03:12",
+   "text": "NEW – COP31 cover decision \"reflections\" text\n\nFor now, it's a long list of everyone's priorities\n\n✅electrification\n✅finance from developed countries\n✅responding to 1.5C overshoot\n✅resurrecting Kyoto Protocol\n✅CCUS\n\nMore details over at CB Connect: connect.carbonbrief....",
+   "summary": "Simon Evans informa que o texto de \"reflexões\" da decisão de cobertura da COP31 é, por ora, uma longa lista de prioridades: eletrificação, finanças dos países desenvolvidos, resposta à ultrapassagem de 1,5 °C, ressuscitar o Protocolo de Quioto e CCUS.",
+   "summary_i18n": {
+    "en": "Simon Evans reports that the COP31 cover decision \"reflections\" text is, for now, a long list of priorities: electrification, finance from developed countries, responding to 1.5C overshoot, resurrecting the Kyoto Protocol and CCUS.",
+    "es": "Simon Evans informa de que el texto de «reflexiones» de la decisión de cobertura de la COP31 es, por ahora, una larga lista de prioridades: electrificación, financiación de los países desarrollados, respuesta al rebasamiento de 1,5 °C, resurrección del Protocolo de Kyoto y CCUS.",
+    "fr": "Simon Evans indique que le texte de « réflexions » de la décision de couverture de la COP31 est, pour l’instant, une longue liste de priorités : électrification, financements des pays développés, réponse au dépassement de 1,5 °C, relance du Protocole de Kyoto et CCUS.",
+    "ru": "Саймон Эванс сообщает, что текст «размышлений» для общего решения COP31 пока представляет собой длинный перечень приоритетов: электрификация, финансирование от развитых стран, реагирование на превышение 1,5 °C, возрождение Киотского протокола и CCUS.",
+    "zh": "西蒙·埃文斯报道称，COP31 总体决定的“思考”文本目前只是一长串优先事项清单：电气化、发达国家出资、应对 1.5°C 超限、重振《京都议定书》以及 CCUS。",
+    "ar": "أفاد سايمون إيفانز بأن نص «التأملات» الخاص بالقرار الجامع لمؤتمر COP31 هو حتى الآن قائمة طويلة من الأولويات: الكهربة، وتمويل الدول المتقدمة، والاستجابة لتجاوز 1.5 درجة مئوية، وإحياء بروتوكول كيوتو، واحتجاز الكربون واستخدامه وتخزينه."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n26dc4wokw2d",
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-13T03:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261113-day5-finance-trade",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "02:52",
+   "text": "Welcome to Day 5 of #COP31 in Antalya!\n\nThe theme for today: “Finance and Trade”.\n\nThe full event schedule and programme details are available at cop31.tr and via the COP31 Türkiye mobile application.\n\nCOP31’in 5. gününe hoş geldiniz!\n\nBugünün teması: “Finans ve Ticaret”.",
+   "summary": "A Presidência da COP31 abre o quinto dia em Antalya, cujo tema é \"Finanças e Comércio\"; programação em cop31.tr e no aplicativo oficial.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency opens Day 5 in Antalya, themed \"Finance and Trade\"; the programme is available at cop31.tr and in the official app.",
+    "es": "La Presidencia de la COP31 abre el quinto día en Antalya, con el tema «Finanzas y Comercio»; el programa está disponible en cop31.tr y en la aplicación oficial.",
+    "fr": "La présidence de la COP31 ouvre le cinquième jour à Antalya, sur le thème « Finance et commerce » ; le programme est disponible sur cop31.tr et dans l’application officielle.",
+    "ru": "Председательство COP31 открывает пятый день в Анталье с темой «Финансы и торговля»; программа доступна на cop31.tr и в официальном приложении.",
+    "zh": "COP31 主席团在安塔利亚开启第五天议程，主题为“金融与贸易”；日程可在 cop31.tr 和官方应用中查看。",
+    "ar": "تفتتح رئاسة COP31 اليوم الخامس في أنطاليا بموضوع «التمويل والتجارة»؛ والبرنامج متاح على cop31.tr وفي التطبيق الرسمي."
+   },
+   "url": "https://www.instagram.com/p/Dfq7FBkjSMf/",
+   "tracks": [
+    "Finanças",
+    "Comércio",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-13T03:50:00-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "instagram-turkiyecop31-20261113-day5-recap-leaders-summit",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@turkiyecop31",
+   "institution": "Presidência da COP31 (Türkiye)",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "03:19",
+   "text": "Day 5 begins. Here is a quick recap of yesterday’s second and final day of the COP31 Antalya Leaders’ Summit. 📍\n\n5. gün başlıyor. Dün tamamlanan COP31 Antalya Liderler Zirvesi’nin ikinci ve son gününden kısa bir özet. 📍",
+   "summary": "A Presidência publica um resumo do segundo e último dia da Cúpula de Líderes da COP31 em Antalya, realizado em 12 de novembro.",
+   "summary_i18n": {
+    "en": "The Presidency publishes a quick recap of the second and final day of the COP31 Antalya Leaders’ Summit, held on 12 November.",
+    "es": "La Presidencia publica un breve resumen del segundo y último día de la Cumbre de Líderes de la COP31 en Antalya, celebrada el 12 de noviembre.",
+    "fr": "La présidence publie un bref récapitulatif du deuxième et dernier jour du Sommet des dirigeants de la COP31 à Antalya, tenu le 12 novembre.",
+    "ru": "Председательство публикует краткий обзор второго и заключительного дня Саммита лидеров COP31 в Анталье, состоявшегося 12 ноября.",
+    "zh": "COP31 主席团发布了 11 月 12 日安塔利亚领导人峰会第二天（也是最后一天）的简要回顾。",
+    "ar": "تنشر الرئاسة ملخصاً موجزاً لليوم الثاني والأخير من قمة القادة في COP31 بأنطاليا، التي عُقدت في 12 نوفمبر."
+   },
+   "url": "https://www.instagram.com/p/Dfq-KQPt0Xp/",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-13T03:50:00-03:00",
+   "lang": "en",
+   "source_id": "ig-turkiyecop31"
+  },
+  {
    "id": "bluesky-unep.org-20261113-emissions-gap",
    "kind": "post",
    "platform": "bluesky",
@@ -17302,11 +17417,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-13T02:45:39-03:00",
-  "label": "13 nov 2026, 02:45 (Brasília)",
-  "accounts_checked": 39,
+  "timestamp": "2026-11-13T03:50:00-03:00",
+  "label": "13 nov 2026, 03:50 (Brasília)",
+  "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 0,
+  "new_items": 4,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
