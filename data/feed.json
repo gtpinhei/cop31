@@ -32,6 +32,146 @@
  ],
  "items": [
   {
+   "platform": "instagram",
+   "account": "@institutotalanoa",
+   "institution": "Instituto Talanoa / Política por Inteiro",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "",
+   "text": "#COP31 Dia 4: Para os brasileiros, o noticiário de Antália foi bastante focado no segundo dia de @lulaoficial por lá. A sociedade civil teve um encontro grande com o presidente, em clima de celebração. É a hora de aproveitar o bom momento do Brasil para ajudar no coro para que o Mapa do Caminho para Longe dos Combustíveis Fósseis esteja numa decisão política capitaneada pelas Presidências, a chamada Decisão de Capa.\n\nEnquanto isso, as negociações seguem nas salas da COP31. Um dos impasses: todo mundo apoia discutir triplicar o financiamento para adaptação, só não concorda com em que trilho ...",
+   "summary": "Balanço do dia 4 da COP31: o Instituto Talanoa defende que o Mapa do Caminho para Longe dos Combustíveis Fósseis entre na Decisão de Capa e aponta o impasse sobre onde tratar a meta de triplicar o financiamento para adaptação (data aproximada).",
+   "url": "https://www.instagram.com/p/DfqD1TaDPrh/",
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Adaptação"
+   ],
+   "lang": "pt",
+   "source_id": "ig-institutotalanoa",
+   "summary_i18n": {
+    "en": "Day 4 of COP31 round-up: Instituto Talanoa urges that the Roadmap away from fossil fuels be included in the cover decision, and flags the impasse over where to address the goal of tripling adaptation finance (approximate date).",
+    "es": "Balance del día 4 de la COP31: el Instituto Talanoa defiende que la hoja de ruta para abandonar los combustibles fósiles figure en la decisión de cobertura y señala el impasse sobre dónde tratar la meta de triplicar la financiación para la adaptación (fecha aproximada).",
+    "fr": "Bilan du jour 4 de la COP31 : l'Institut Talanoa plaide pour que la feuille de route de transition hors des combustibles fossiles figure dans la décision de couverture et signale l'impasse sur le cadre où traiter l'objectif de tripler le financement de l'adaptation (date approximative).",
+    "ru": "Итоги 4-го дня COP31: Институт Таланоа выступает за включение дорожной карты отказа от ископаемого топлива в итоговое решение-обложку и указывает на тупик в вопросе о том, где рассматривать цель утроения финансирования адаптации (дата приблизительная).",
+    "zh": "COP31第4天回顾:Talanoa研究所主张将摆脱化石燃料路线图纳入总括性决定,并指出在何处讨论将适应资金增至三倍目标上存在僵局(日期为大致日期)。",
+    "ar": "حصيلة اليوم الرابع من COP31: يدعو معهد تالانوا إلى إدراج خارطة الطريق للابتعاد عن الوقود الأحفوري في القرار الجامع، ويشير إلى الجمود بشأن المسار الذي ينبغي أن يُناقَش فيه هدف مضاعفة تمويل التكيف ثلاث مرات (التاريخ تقريبي)."
+   },
+   "id": "instagram-institutotalanoa-20261112-talanoa-dia4",
+   "kind": "post",
+   "first_seen": "2026-11-12T22:50:00-03:00"
+  },
+  {
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "19:44",
+   "text": "#COP31 Latin America and the Caribbean face an estimated annual adaptation finance gap of USD 34 billion, despite growing recognition of adaptation as an economic and development priority. enb.iisd.org/accelerating-nap-implementation-latin-america-and-caribbean-cop31",
+   "summary": "ENB: América Latina e Caribe enfrentam uma lacuna anual estimada em US$ 34 bilhões em financiamento de adaptação, apesar do reconhecimento crescente da adaptação como prioridade (implementação de PNAs).",
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n25kagottk2z",
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org",
+   "summary_i18n": {
+    "en": "ENB: Latin America and the Caribbean face an estimated annual adaptation finance gap of US$34 billion, despite growing recognition of adaptation as a priority (NAP implementation).",
+    "es": "ENB: América Latina y el Caribe enfrentan una brecha anual estimada de 34.000 millones de dólares en financiación para la adaptación, pese al creciente reconocimiento de la adaptación como prioridad (implementación de los PNA).",
+    "fr": "ENB : l'Amérique latine et les Caraïbes font face à un déficit annuel estimé à 34 milliards de dollars É.-U. en financement de l'adaptation, malgré la reconnaissance croissante de l'adaptation comme priorité (mise en œuvre des PNA).",
+    "ru": "ENB: Латинская Америка и Карибский бассейн сталкиваются с ежегодным дефицитом финансирования адаптации, оцениваемым в 34 млрд долл. США, несмотря на растущее признание адаптации приоритетом (реализация НПА).",
+    "zh": "ENB:尽管适应日益被视为优先事项,拉丁美洲和加勒比地区每年仍面临约340亿美元的适应资金缺口(国家适应计划的实施)。",
+    "ar": "نشرة ENB: تواجه أمريكا اللاتينية ومنطقة الكاريبي فجوة سنوية في تمويل التكيف تُقدَّر بنحو 34 مليار دولار أمريكي، رغم تزايد الاعتراف بالتكيف كأولوية (تنفيذ خطط التكيف الوطنية)."
+   },
+   "id": "bluesky-enb.iisd.org-20261112-nap-lac-adaptacao",
+   "kind": "post",
+   "first_seen": "2026-11-12T22:50:00-03:00"
+  },
+  {
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "21:13",
+   "text": "IPCC: advancing knowledge of climate science assessments through Expert Meetings & Workshops",
+   "summary": "Evento de pavilhão: o IPCC apresenta resultados de reuniões de especialistas de 2026 (agricultura e alimentos, métodos e indicadores de impactos e adaptação, clima e saúde), com o presidente Jim Skea.",
+   "url": "https://www.youtube.com/watch?v=9TLQJe-y-i0",
+   "tracks": [
+    "GST2 e IPCC",
+    "Adaptação"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "summary_i18n": {
+    "en": "Pavilion event: the IPCC presents results of 2026 expert meetings (agriculture and food, impacts and adaptation methods and indicators, climate and health), with Chair Jim Skea.",
+    "es": "Evento de pabellón: el IPCC presenta resultados de las reuniones de expertos de 2026 (agricultura y alimentos, métodos e indicadores de impactos y adaptación, clima y salud), con el presidente Jim Skea.",
+    "fr": "Événement de pavillon : le GIEC présente les résultats des réunions d'experts de 2026 (agriculture et alimentation, méthodes et indicateurs d'impacts et d'adaptation, climat et santé), avec le président Jim Skea.",
+    "ru": "Мероприятие в павильоне: МГЭИК представляет итоги экспертных совещаний 2026 года (сельское хозяйство и продовольствие, методы и показатели воздействий и адаптации, климат и здоровье) с участием Председателя Джима Скеа.",
+    "zh": "展馆活动:IPCC介绍2026年专家会议成果(农业与粮食、影响与适应的方法和指标、气候与健康),主席吉姆·斯基(Jim Skea)出席。",
+    "ar": "فعالية في الجناح: تعرض الهيئة الحكومية الدولية المعنية بتغير المناخ (IPCC) نتائج اجتماعات الخبراء لعام 2026 (الزراعة والغذاء، ومنهجيات ومؤشرات الآثار والتكيف، والمناخ والصحة) بمشاركة الرئيس جيم سكيا."
+   },
+   "id": "youtube-UNClimateChangeEvents-20261112-ipcc-expert-meetings",
+   "kind": "post",
+   "first_seen": "2026-11-12T22:50:00-03:00"
+  },
+  {
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "22:25",
+   "text": "Financing What Matters Most: Delivering National Climate Priorities through Transformational Finance",
+   "summary": "Evento de pavilhão: finanças transformacionais para entregar prioridades climáticas nacionais, com base no documento do grupo Transformational Finance for Climate para a COP31 (NCQG e Roteiro Baku-Belém).",
+   "url": "https://www.youtube.com/watch?v=xdOdg0w1Vpo",
+   "tracks": [
+    "Finanças"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "summary_i18n": {
+    "en": "Pavilion event: transformational finance to deliver national climate priorities, based on the Transformational Finance for Climate group's paper for COP31 (NCQG and Baku-to-Belém Roadmap).",
+    "es": "Evento de pabellón: finanzas transformadoras para cumplir las prioridades climáticas nacionales, a partir del documento del grupo Transformational Finance for Climate para la COP31 (NCQG y Hoja de Ruta de Bakú a Belém).",
+    "fr": "Événement de pavillon : finance transformationnelle pour réaliser les priorités climatiques nationales, d'après le document du groupe Transformational Finance for Climate pour la COP31 (NCQG et feuille de route de Bakou à Belém).",
+    "ru": "Мероприятие в павильоне: трансформационное финансирование для реализации национальных климатических приоритетов на основе документа группы Transformational Finance for Climate к COP31 (НЦКЦФ и дорожная карта Баку–Белен).",
+    "zh": "展馆活动:以变革性融资落实各国气候优先事项,依据Transformational Finance for Climate小组为COP31撰写的文件(新集体量化目标NCQG与巴库至贝伦路线图)。",
+    "ar": "فعالية في الجناح: التمويل التحويلي لتحقيق الأولويات المناخية الوطنية، استناداً إلى ورقة مجموعة Transformational Finance for Climate المقدمة إلى COP31 (الهدف الكمي الجماعي الجديد وخارطة طريق باكو–بيليم)."
+   },
+   "id": "youtube-UNClimateChangeEvents-20261112-transformational-finance",
+   "kind": "post",
+   "first_seen": "2026-11-12T22:50:00-03:00"
+  },
+  {
+   "platform": "youtube",
+   "account": "@UNClimateChangeEvents",
+   "institution": "UNFCCC",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "22:37",
+   "text": "Transitioning Away from Fossil Fuels: Indigenous Peoples Shaping a Just Transition",
+   "summary": "Evento de pavilhão: povos indígenas e a transição para longe dos combustíveis fósseis; debate sobre como o Processo de Santa Marta pode fortalecer participação, direitos e territórios.",
+   "url": "https://www.youtube.com/watch?v=JkNtwH2Qweg",
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "lang": "en",
+   "source_id": "yt-unclimatechangeevents",
+   "summary_i18n": {
+    "en": "Pavilion event: Indigenous Peoples and the transition away from fossil fuels; debate on how the Santa Marta Process can strengthen participation, rights and territories.",
+    "es": "Evento de pabellón: pueblos indígenas y la transición para abandonar los combustibles fósiles; debate sobre cómo el Proceso de Santa Marta puede fortalecer la participación, los derechos y los territorios.",
+    "fr": "Événement de pavillon : peuples autochtones et transition hors des combustibles fossiles ; débat sur la façon dont le processus de Santa Marta peut renforcer la participation, les droits et les territoires.",
+    "ru": "Мероприятие в павильоне: коренные народы и переход от ископаемого топлива; обсуждение того, как Процесс Санта-Марты может укрепить участие, права и территории.",
+    "zh": "展馆活动:原住民与摆脱化石燃料转型;讨论圣玛尔塔进程如何加强参与、权利和领地保护。",
+    "ar": "فعالية في الجناح: الشعوب الأصلية والانتقال بعيداً عن الوقود الأحفوري؛ نقاش حول كيفية تعزيز عملية سانتا مارتا للمشاركة والحقوق والأراضي."
+   },
+   "id": "youtube-UNClimateChangeEvents-20261112-indigenous-fossil-transition",
+   "kind": "post",
+   "first_seen": "2026-11-12T22:50:00-03:00"
+  },
+  {
    "id": "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
    "kind": "post",
    "platform": "bluesky",
@@ -16871,11 +17011,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-12T18:45:00-03:00",
-  "label": "12 nov 2026, 18:45 (Brasília)",
-  "accounts_checked": 45,
+  "timestamp": "2026-11-12T22:50:00-03:00",
+  "label": "12 nov 2026, 22:50 (Brasília)",
+  "accounts_checked": 30,
   "blocked": 1,
-  "new_items": 17,
+  "new_items": 5,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-mmeioambiente"
