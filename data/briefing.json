@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T08:58+03:00",
+ "generated_at": "2026-11-13T10:00+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-13T00:13:00-03:00",
-  "social_round": "2026-11-13T02:45:39-03:00",
+  "social_round": "2026-11-13T03:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 126,
-  "stories": 106,
+  "candidates": 130,
+  "stories": 109,
   "top": 8,
   "publishers": [
    "350.org",
@@ -82,6 +82,50 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop30-presidency-daily-brief-2026-11-13",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-13",
+     "title": "COP30 Presidency Daily Brief – November 13: Finance and Trade",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov13_db_hm63nf92",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Finanças",
+      "Comércio",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 5º dia da COP31 (tema: finanças e comércio), a Presidência da COP30 informa que apresenta seu relatório sobre a implementação do Mapa do Caminho de Baku a Belém, segundo o qual medidas concretas poderiam levar o financiamento climático aos países em desenvolvimento a algo entre US$ 1,27 e 1,41 trilhão…",
+     "collected_at": "2026-11-13T03:58-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov13_db_hm63nf92",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov13_bd_aliz38yra"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 13 de novembro: Finanças e Comércio"
+     },
+     "description_i18n": {
+      "en": "In its Day 5 brief (theme: finance and trade), the COP30 Presidency says it is presenting its report on implementing the Baku to Belém Roadmap, which finds that concrete measures could lift climate finance for developing countries to between USD 1.27 and 1.41 trillion a year by 2035, and that ministers are attending…",
+      "es": "En su boletín del 5.º día de la COP31 (tema: finanzas y comercio), la Presidencia de la COP30 informa que presenta su informe sobre la implementación de la Hoja de Ruta de Bakú a Belém, según el cual medidas concretas podrían elevar la financiación climática para los países en desarrollo a entre 1,27 y 1,41 billones…",
+      "fr": "Dans son bulletin du 5e jour de la COP31 (thème : finance et commerce), la Présidence de la COP30 indique présenter son rapport sur la mise en œuvre de la Feuille de route de Bakou à Belém, selon lequel des mesures concrètes pourraient porter le financement climatique des pays en développement entre 1 270 et 1 410…",
+      "ru": "В бюллетене 5-го дня COP31 (тема: финансы и торговля) Председательство COP30 сообщает, что представляет свой доклад о реализации Дорожной карты от Баку до Белена, согласно которому конкретные меры могут увеличить климатическое финансирование развивающихся стран до 1,27–1,41 трлн долларов в год к 2035 году, а министры…",
+      "zh": "在COP31第5天的简报（主题：金融与贸易）中，COP30主席国表示，将介绍其关于落实“巴库至贝伦路线图”的报告。报告认为，具体措施可在2035年前使发展中国家获得的气候资金达到每年1.27万亿至1.41万亿美元；各国部长出席了启动贝伦设立的全球实施加速器的授权高级别活动。议程还包括巴西受监管碳市场（SBCE）的经验、行动议程第6轴展示及南南教育合作；据主席国称，第4天回顾提到甲烷峰会宣布了逾4.8亿美元慈善资金、卢拉以与民间社会的会面结束其参会，以及巴西开发银行（BNDES）宣布拟动员390亿雷亚尔气候投资。涉及主席国与东道国、金融、行动议程和GST2等议题。",
+      "ar": "في نشرة اليوم الخامس من COP31 (الموضوع: التمويل والتجارة)، تقول رئاسة COP30 إنها تعرض تقريرها عن تنفيذ خريطة الطريق من باكو إلى بيليم، الذي يرى أن تدابير ملموسة قد ترفع التمويل المناخي للبلدان النامية إلى ما بين 1.27 و1.41 تريليون دولار سنويًا بحلول 2035، وأن الوزراء يشاركون في الفعالية الرفيعة المستوى المكلَّف بها…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-12-industrial-climate-action-report",
     "section": "negotiations",
@@ -152,6 +196,104 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261113-day5-finance-trade",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261113-day5-finance-trade",
+     "title": "@turkiyecop31: Welcome to Day 5 of #COP31 in Antalya! The theme for today: “Finance and Trade”. The full event schedule and…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfq7FBkjSMf/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-13",
+     "time": "02:52",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Comércio",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A Presidência da COP31 abre o quinto dia em Antalya, cujo tema é \"Finanças e Comércio\"; programação em cop31.tr e no aplicativo oficial.",
+     "collected_at": "2026-11-13T03:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency opens Day 5 in Antalya, themed \"Finance and Trade\"; the programme is available at cop31.tr and in the official app.",
+      "es": "La Presidencia de la COP31 abre el quinto día en Antalya, con el tema «Finanzas y Comercio»; el programa está disponible en cop31.tr y en la aplicación oficial.",
+      "fr": "La présidence de la COP31 ouvre le cinquième jour à Antalya, sur le thème « Finance et commerce » ; le programme est disponible sur cop31.tr et dans l’application officielle.",
+      "ru": "Председательство COP31 открывает пятый день в Анталье с темой «Финансы и торговля»; программа доступна на cop31.tr и в официальном приложении.",
+      "zh": "COP31 主席团在安塔利亚开启第五天议程，主题为“金融与贸易”；日程可在 cop31.tr 和官方应用中查看。",
+      "ar": "تفتتح رئاسة COP31 اليوم الخامس في أنطاليا بموضوع «التمويل والتجارة»؛ والبرنامج متاح على cop31.tr وفي التطبيق الرسمي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261112-welcome-day-4",
+      "title": "@turkiyecop31: Welcome to Day 4 of #COP31 in Antalya and the second day of the COP31 Leaders’ Summit! Today’s theme: “Resilient…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfoM5eyDCd5/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-12",
+      "time": "01:30",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Adaptação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 anuncia o quarto dia da conferência e o segundo dia da Cúpula de Líderes de Antalya, com o tema \"Cidades resilientes e ambiente construído\".",
+      "collected_at": "2026-11-12T01:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency opens Day 4 of the conference and the second day of the Antalya Leaders' Summit, with the theme \"Resilient Cities and Built Environment\".",
+       "es": "La Presidencia de la COP31 da inicio al cuarto día de la conferencia y al segundo día de la Cumbre de Líderes de Antalya, con el tema «Ciudades resilientes y entorno construido».",
+       "fr": "La présidence de la COP31 ouvre le quatrième jour de la conférence et le deuxième jour du Sommet des dirigeants d'Antalya, sur le thème « Villes résilientes et environnement bâti ».",
+       "ru": "Президентство COP31 открывает четвёртый день конференции и второй день саммита лидеров в Анталье по теме «Устойчивые города и застроенная среда».",
+       "zh": "COP31主席团宣布大会进入第4天、安塔利亚领导人峰会进入第2天，当日主题为“韧性城市与建成环境”。",
+       "ar": "تعلن رئاسة COP31 بدء اليوم الرابع من المؤتمر واليوم الثاني من قمة القادة في أنطاليا، تحت عنوان «المدن القادرة على الصمود والبيئة المبنية»."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261110-day2-theme",
+      "title": "@turkiyecop31: Welcome to Day 2 of #COP31 in Antalya! The theme for today: “Energy and Transport”. The full event schedule and…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjIM48DL8Y/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "02:13",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 dá as boas-vindas ao 2º dia em Antália; o tema do dia é \"Energia e Transporte\", com programação em cop31.tr e no aplicativo COP31 Türkiye.",
+      "collected_at": "2026-11-10T02:42:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency welcomes participants to Day 2 in Antalya; the theme of the day is \"Energy and Transport\", with the programme available at cop31.tr and in the COP31 Türkiye app.",
+       "es": "La Presidencia de la COP31 da la bienvenida al segundo día en Antalya; el tema del día es «Energía y Transporte», con el programa en cop31.tr y en la aplicación COP31 Türkiye.",
+       "fr": "La Présidence de la COP31 souhaite la bienvenue au deuxième jour à Antalya ; le thème du jour est « Énergie et transports », avec le programme sur cop31.tr et dans l'application COP31 Türkiye.",
+       "ru": "Президентство КС-31 приветствует участников второго дня в Анталье; тема дня — «Энергетика и транспорт», программа доступна на cop31.tr и в приложении COP31 Türkiye.",
+       "zh": "COP31主席团欢迎各方参加安塔利亚第二天会议；当日主题为“能源与交通”，议程可在cop31.tr及COP31 Türkiye应用程序查看。",
+       "ar": "ترحب رئاسة مؤتمر الأطراف الحادي والثلاثين بالمشاركين في اليوم الثاني في أنطاليا؛ وموضوع اليوم هو «الطاقة والنقل»، والبرنامج متاح على cop31.tr وفي تطبيق COP31 Türkiye."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -227,50 +369,6 @@
     ]
    },
    {
-    "id": "st-cop30-presidency-daily-brief-2026-11-12",
-    "section": "action",
-    "score": 0.48,
-    "lead": {
-     "id": "cop30-presidency-daily-brief-2026-11-12",
-     "title": "COP30 Presidency Daily Brief – November 12: Resilient Cities and Built Environment, and the Antalya Leaders’ Summit continues",
-     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
-     "publisher": "Presidência da COP30",
-     "published": "2026-11-12",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Florestas",
-      "Adaptação",
-      "Eletrificação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "No boletim do 4º dia da COP31 (temas: cidades resilientes, ambiente construído e segundo dia da Cúpula de Líderes de Antália), a Presidência da COP30 informa que debate com o Climate Policy Initiative, no Pavilhão do Brasil, como manter o engajamento político em torno do seu Mapa do Caminho para deter e reverter o…",
-     "collected_at": "2026-11-12T03:58-03:00",
-     "validation": "registry source, collected by the monitor",
-     "url_i18n": {
-      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
-      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov12_bd_3rcjoz6u"
-     },
-     "title_i18n": {
-      "pt": "Boletim Diário da Presidência da COP30 – 12 de novembro: Cidades Resilientes e Ambiente Construído, e continuidade da Cúpula de Líderes de Antália"
-     },
-     "description_i18n": {
-      "en": "In its Day 4 brief (themes: resilient cities, the built environment and the second day of the Antalya Leaders' Summit), the COP30 Presidency says it is discussing with the Climate Policy Initiative, at the Brazil Pavilion, how to sustain political engagement around its Roadmap to halt and reverse deforestation by…",
-      "es": "En su boletín del 4.º día de la COP31 (temas: ciudades resilientes, entorno construido y segundo día de la Cumbre de Líderes de Antalya), la Presidencia de la COP30 informa que debate con Climate Policy Initiative, en el Pabellón de Brasil, cómo mantener el compromiso político en torno a su Hoja de Ruta para detener y…",
-      "fr": "Dans son bulletin du 4e jour de la COP31 (thèmes : villes résilientes, cadre bâti et deuxième journée du Sommet des dirigeants d'Antalya), la Présidence de la COP30 indique qu'elle débat avec la Climate Policy Initiative, au Pavillon du Brésil, de la manière de maintenir l'engagement politique autour de sa Feuille de…",
-      "ru": "В бюллетене 4-го дня COP31 (темы: устойчивые города, застроенная среда и второй день Саммита лидеров в Анталье) Председательство COP30 сообщает, что в павильоне Бразилии вместе с Climate Policy Initiative обсуждает, как сохранить политическую вовлечённость вокруг своей Дорожной карты по остановке и обращению вспять…",
-      "zh": "在COP31第4天的简报中（主题：韧性城市、建成环境以及安塔利亚领导人峰会第二天），COP30主席团表示，正与气候政策倡议组织（CPI）在巴西馆讨论如何围绕其2030年前制止和扭转毁林的路线图保持政治参与，巴西环境部也将介绍该国在同一议题上的国家路线图。议程还包括主席团参与主办的甲烷问题领导人峰会、关于拉丁美洲和加勒比地区落实国家适应计划的会议、与联合国开发计划署总结COP30经验，以及城市电气化；简报还回顾了第3天的情况——据主席团介绍，卢拉总统宣布热带森林永续基金（TFFF）已在66个国家和欧盟的支持下筹集78亿美元。涉及“主席国与东道国”“森林”“适应”和“电气化”议题。",
-      "ar": "في نشرة اليوم الرابع من COP31 (المحاور: المدن القادرة على الصمود، والبيئة المبنية، واليوم الثاني من قمة قادة أنطاليا)، تفيد رئاسة COP30 بأنها تناقش مع مبادرة سياسات المناخ في الجناح البرازيلي سبل الحفاظ على الزخم السياسي حول خريطة طريقها لوقف إزالة الغابات وعكس مسارها بحلول 2030، وبأن وزارة البيئة البرازيلية تعرض…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP30"
-    ]
-   },
-   {
     "id": "st-climate-action-tracker-2026-11-12-warming-projections",
     "section": "negotiations",
     "score": 0.459,
@@ -342,44 +440,6 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
-    "section": "negotiations",
-    "score": 0.44,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
-     "title": "@turkiyecop31: “No one should mistake safe and resilient cities for a privilege. They are the right of every society and our shared…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfpcvgKNDGy/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-12",
-     "time": "13:07",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "No Diálogo de Alto Nível sobre Resiliência Urbana, Adaptação e Ação Climática, o presidente da COP31, Murat Kurum, afirma que cidades seguras e resilientes são um direito de toda sociedade e uma responsabilidade compartilhada, não um privilégio.",
-     "collected_at": "2026-11-12T13:55:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At the High-Level Dialogue on Urban Resilience, Adaptation and Climate Action, COP31 President Murat Kurum says safe and resilient cities are a right of every society and a shared responsibility, not a privilege.",
-      "es": "En el Diálogo de Alto Nivel sobre Resiliencia Urbana, Adaptación y Acción Climática, el Presidente de la COP31, Murat Kurum, afirma que las ciudades seguras y resilientes son un derecho de toda sociedad y una responsabilidad compartida, no un privilegio.",
-      "fr": "Lors du Dialogue de haut niveau sur la résilience urbaine, l'adaptation et l'action climatique, le Président de la COP31, Murat Kurum, déclare que des villes sûres et résilientes sont un droit pour toute société et une responsabilité partagée, et non un privilège.",
-      "ru": "На диалоге высокого уровня по городской устойчивости, адаптации и климатическим действиям Председатель КС-31 Мурат Курум заявил, что безопасные и устойчивые города — это право каждого общества и общая ответственность, а не привилегия.",
-      "zh": "在城市韧性、适应与气候行动高级别对话上，COP31主席穆拉特·库鲁姆表示，安全且有韧性的城市是每个社会的权利和共同责任，而非特权。",
-      "ar": "في الحوار رفيع المستوى حول القدرة على الصمود الحضري والتكيف والعمل المناخي، قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن المدن الآمنة والقادرة على الصمود حق لكل مجتمع ومسؤولية مشتركة وليست امتيازا."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
     ]
    }
   ],
@@ -517,6 +577,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+    "section": "negotiations",
+    "score": 0.44,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+     "title": "@turkiyecop31: “No one should mistake safe and resilient cities for a privilege. They are the right of every society and our shared…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfpcvgKNDGy/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-12",
+     "time": "13:07",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "No Diálogo de Alto Nível sobre Resiliência Urbana, Adaptação e Ação Climática, o presidente da COP31, Murat Kurum, afirma que cidades seguras e resilientes são um direito de toda sociedade e uma responsabilidade compartilhada, não um privilégio.",
+     "collected_at": "2026-11-12T13:55:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the High-Level Dialogue on Urban Resilience, Adaptation and Climate Action, COP31 President Murat Kurum says safe and resilient cities are a right of every society and a shared responsibility, not a privilege.",
+      "es": "En el Diálogo de Alto Nivel sobre Resiliencia Urbana, Adaptación y Acción Climática, el Presidente de la COP31, Murat Kurum, afirma que las ciudades seguras y resilientes son un derecho de toda sociedad y una responsabilidad compartida, no un privilegio.",
+      "fr": "Lors du Dialogue de haut niveau sur la résilience urbaine, l'adaptation et l'action climatique, le Président de la COP31, Murat Kurum, déclare que des villes sûres et résilientes sont un droit pour toute société et une responsabilité partagée, et non un privilège.",
+      "ru": "На диалоге высокого уровня по городской устойчивости, адаптации и климатическим действиям Председатель КС-31 Мурат Курум заявил, что безопасные и устойчивые города — это право каждого общества и общая ответственность, а не привилегия.",
+      "zh": "在城市韧性、适应与气候行动高级别对话上，COP31主席穆拉特·库鲁姆表示，安全且有韧性的城市是每个社会的权利和共同责任，而非特权。",
+      "ar": "في الحوار رفيع المستوى حول القدرة على الصمود الحضري والتكيف والعمل المناخي، قال رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إن المدن الآمنة والقادرة على الصمود حق لكل مجتمع ومسؤولية مشتركة وليست امتيازا."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -767,6 +865,45 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-ldcchairunfccc.bsky.social-20261113-guterres",
+    "section": "negotiations",
+    "score": 0.421,
+    "lead": {
+     "id": "bluesky-ldcchairunfccc.bsky.social-20261113-guterres",
+     "title": "ldcchairunfccc.bsky.social: Honoured to meet UN Secretary-General António Guterres at #COP31. I expressed our gratitude for his leadership on…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n26dzrh42c2c",
+     "publisher": "LDC Group",
+     "published": "2026-11-13",
+     "time": "03:25",
+     "language": "en",
+     "tracks": [
+      "Perdas e danos",
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "A presidência do Grupo dos PMDs agradeceu ao secretário-geral Guterres pela liderança em justiça climática e reiterou a demanda por ação urgente, finanças acessíveis, adaptação e perdas e danos.",
+     "collected_at": "2026-11-13T03:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The LDC Group Chair thanked UN Secretary-General Guterres for his leadership on climate justice and reiterated the LDCs’ call for urgent action, accessible finance, adaptation and loss and damage.",
+      "es": "La Presidencia del Grupo de los PMA agradeció al Secretario General Guterres su liderazgo en justicia climática y reiteró el llamado de los PMA a una acción urgente, financiación accesible, adaptación y pérdidas y daños.",
+      "fr": "La présidence du Groupe des PMA a remercié le Secrétaire général Guterres pour son leadership en matière de justice climatique et a réitéré l’appel des PMA à une action urgente, à un financement accessible, à l’adaptation et aux pertes et préjudices.",
+      "ru": "Председатель Группы НРС поблагодарил Генерального секретаря Гутерриша за лидерство в вопросах климатической справедливости и вновь заявил о призыве НРС к срочным действиям, доступному финансированию, адаптации и потерям и ущербу.",
+      "zh": "最不发达国家集团主席感谢联合国秘书长古特雷斯在气候正义方面的领导力，并重申最不发达国家对紧急行动、可获取的资金、适应以及损失与损害的呼吁。",
+      "ar": "شكر رئيس مجموعة أقل البلدان نمواً الأمين العام للأمم المتحدة غوتيريش على قيادته في مجال العدالة المناخية، وأكد من جديد دعوة هذه البلدان إلى عمل عاجل وتمويل متاح والتكيف والخسائر والأضرار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "LDC Group"
     ]
    },
    {
@@ -2139,6 +2276,50 @@
     ]
    },
    {
+    "id": "st-cop30-presidency-daily-brief-2026-11-12",
+    "section": "action",
+    "score": 0.48,
+    "lead": {
+     "id": "cop30-presidency-daily-brief-2026-11-12",
+     "title": "COP30 Presidency Daily Brief – November 12: Resilient Cities and Built Environment, and the Antalya Leaders’ Summit continues",
+     "url": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
+     "publisher": "Presidência da COP30",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Florestas",
+      "Adaptação",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No boletim do 4º dia da COP31 (temas: cidades resilientes, ambiente construído e segundo dia da Cúpula de Líderes de Antália), a Presidência da COP30 informa que debate com o Climate Policy Initiative, no Pavilhão do Brasil, como manter o engajamento político em torno do seu Mapa do Caminho para deter e reverter o…",
+     "collected_at": "2026-11-12T03:58-03:00",
+     "validation": "registry source, collected by the monitor",
+     "url_i18n": {
+      "en": "https://cop30.br/en/news-about-cop30/daily-brief/nov12_db_vomx4ope",
+      "pt": "https://cop30.br/pt-br/noticias-da-cop30/boletim-diario/nov12_bd_3rcjoz6u"
+     },
+     "title_i18n": {
+      "pt": "Boletim Diário da Presidência da COP30 – 12 de novembro: Cidades Resilientes e Ambiente Construído, e continuidade da Cúpula de Líderes de Antália"
+     },
+     "description_i18n": {
+      "en": "In its Day 4 brief (themes: resilient cities, the built environment and the second day of the Antalya Leaders' Summit), the COP30 Presidency says it is discussing with the Climate Policy Initiative, at the Brazil Pavilion, how to sustain political engagement around its Roadmap to halt and reverse deforestation by…",
+      "es": "En su boletín del 4.º día de la COP31 (temas: ciudades resilientes, entorno construido y segundo día de la Cumbre de Líderes de Antalya), la Presidencia de la COP30 informa que debate con Climate Policy Initiative, en el Pabellón de Brasil, cómo mantener el compromiso político en torno a su Hoja de Ruta para detener y…",
+      "fr": "Dans son bulletin du 4e jour de la COP31 (thèmes : villes résilientes, cadre bâti et deuxième journée du Sommet des dirigeants d'Antalya), la Présidence de la COP30 indique qu'elle débat avec la Climate Policy Initiative, au Pavillon du Brésil, de la manière de maintenir l'engagement politique autour de sa Feuille de…",
+      "ru": "В бюллетене 4-го дня COP31 (темы: устойчивые города, застроенная среда и второй день Саммита лидеров в Анталье) Председательство COP30 сообщает, что в павильоне Бразилии вместе с Climate Policy Initiative обсуждает, как сохранить политическую вовлечённость вокруг своей Дорожной карты по остановке и обращению вспять…",
+      "zh": "在COP31第4天的简报中（主题：韧性城市、建成环境以及安塔利亚领导人峰会第二天），COP30主席团表示，正与气候政策倡议组织（CPI）在巴西馆讨论如何围绕其2030年前制止和扭转毁林的路线图保持政治参与，巴西环境部也将介绍该国在同一议题上的国家路线图。议程还包括主席团参与主办的甲烷问题领导人峰会、关于拉丁美洲和加勒比地区落实国家适应计划的会议、与联合国开发计划署总结COP30经验，以及城市电气化；简报还回顾了第3天的情况——据主席团介绍，卢拉总统宣布热带森林永续基金（TFFF）已在66个国家和欧盟的支持下筹集78亿美元。涉及“主席国与东道国”“森林”“适应”和“电气化”议题。",
+      "ar": "في نشرة اليوم الرابع من COP31 (المحاور: المدن القادرة على الصمود، والبيئة المبنية، واليوم الثاني من قمة قادة أنطاليا)، تفيد رئاسة COP30 بأنها تناقش مع مبادرة سياسات المناخ في الجناح البرازيلي سبل الحفاظ على الزخم السياسي حول خريطة طريقها لوقف إزالة الغابات وعكس مسارها بحلول 2030، وبأن وزارة البيئة البرازيلية تعرض…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP30"
+    ]
+   },
+   {
     "id": "st-instagram-muratkurum-20261112-acordo-russia",
     "section": "action",
     "score": 0.44,
@@ -2254,69 +2435,39 @@
     ]
    },
    {
-    "id": "st-instagram-turkiyecop31-20261112-welcome-day-4",
+    "id": "st-instagram-turkiyecop31-20261113-day5-recap-leaders-summit",
     "section": "action",
-    "score": 0.44,
+    "score": 0.413,
     "lead": {
-     "id": "instagram-turkiyecop31-20261112-welcome-day-4",
-     "title": "@turkiyecop31: Welcome to Day 4 of #COP31 in Antalya and the second day of the COP31 Leaders’ Summit! Today’s theme: “Resilient…",
+     "id": "instagram-turkiyecop31-20261113-day5-recap-leaders-summit",
+     "title": "@turkiyecop31: Day 5 begins. Here is a quick recap of yesterday’s second and final day of the COP31 Antalya Leaders’ Summit. 📍 5.…",
      "title_is_post": true,
-     "url": "https://www.instagram.com/p/DfoM5eyDCd5/",
+     "url": "https://www.instagram.com/p/Dfq-KQPt0Xp/",
      "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-12",
-     "time": "01:30",
+     "published": "2026-11-13",
+     "time": "03:19",
      "language": "en",
      "tracks": [
       "Presidência e anfitrião",
-      "Adaptação"
+      "Agenda de Ação"
      ],
      "content_type": "official",
      "kind": "post",
      "platform": "instagram",
-     "description": "A Presidência da COP31 anuncia o quarto dia da conferência e o segundo dia da Cúpula de Líderes de Antalya, com o tema \"Cidades resilientes e ambiente construído\".",
-     "collected_at": "2026-11-12T01:42:00-03:00",
+     "description": "A Presidência publica um resumo do segundo e último dia da Cúpula de Líderes da COP31 em Antalya, realizado em 12 de novembro.",
+     "collected_at": "2026-11-13T03:50:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "The COP31 Presidency opens Day 4 of the conference and the second day of the Antalya Leaders' Summit, with the theme \"Resilient Cities and Built Environment\".",
-      "es": "La Presidencia de la COP31 da inicio al cuarto día de la conferencia y al segundo día de la Cumbre de Líderes de Antalya, con el tema «Ciudades resilientes y entorno construido».",
-      "fr": "La présidence de la COP31 ouvre le quatrième jour de la conférence et le deuxième jour du Sommet des dirigeants d'Antalya, sur le thème « Villes résilientes et environnement bâti ».",
-      "ru": "Президентство COP31 открывает четвёртый день конференции и второй день саммита лидеров в Анталье по теме «Устойчивые города и застроенная среда».",
-      "zh": "COP31主席团宣布大会进入第4天、安塔利亚领导人峰会进入第2天，当日主题为“韧性城市与建成环境”。",
-      "ar": "تعلن رئاسة COP31 بدء اليوم الرابع من المؤتمر واليوم الثاني من قمة القادة في أنطاليا، تحت عنوان «المدن القادرة على الصمود والبيئة المبنية»."
+      "en": "The Presidency publishes a quick recap of the second and final day of the COP31 Antalya Leaders’ Summit, held on 12 November.",
+      "es": "La Presidencia publica un breve resumen del segundo y último día de la Cumbre de Líderes de la COP31 en Antalya, celebrada el 12 de noviembre.",
+      "fr": "La présidence publie un bref récapitulatif du deuxième et dernier jour du Sommet des dirigeants de la COP31 à Antalya, tenu le 12 novembre.",
+      "ru": "Председательство публикует краткий обзор второго и заключительного дня Саммита лидеров COP31 в Анталье, состоявшегося 12 ноября.",
+      "zh": "COP31 主席团发布了 11 月 12 日安塔利亚领导人峰会第二天（也是最后一天）的简要回顾。",
+      "ar": "تنشر الرئاسة ملخصاً موجزاً لليوم الثاني والأخير من قمة القادة في COP31 بأنطاليا، التي عُقدت في 12 نوفمبر."
      },
      "description_i18n_method": "machine"
     },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261110-day2-theme",
-      "title": "@turkiyecop31: Welcome to Day 2 of #COP31 in Antalya! The theme for today: “Energy and Transport”. The full event schedule and…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/DfjIM48DL8Y/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-10",
-      "time": "02:13",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Eletrificação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "A Presidência da COP31 dá as boas-vindas ao 2º dia em Antália; o tema do dia é \"Energia e Transporte\", com programação em cop31.tr e no aplicativo COP31 Türkiye.",
-      "collected_at": "2026-11-10T02:42:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 Presidency welcomes participants to Day 2 in Antalya; the theme of the day is \"Energy and Transport\", with the programme available at cop31.tr and in the COP31 Türkiye app.",
-       "es": "La Presidencia de la COP31 da la bienvenida al segundo día en Antalya; el tema del día es «Energía y Transporte», con el programa en cop31.tr y en la aplicación COP31 Türkiye.",
-       "fr": "La Présidence de la COP31 souhaite la bienvenue au deuxième jour à Antalya ; le thème du jour est « Énergie et transports », avec le programme sur cop31.tr et dans l'application COP31 Türkiye.",
-       "ru": "Президентство КС-31 приветствует участников второго дня в Анталье; тема дня — «Энергетика и транспорт», программа доступна на cop31.tr и в приложении COP31 Türkiye.",
-       "zh": "COP31主席团欢迎各方参加安塔利亚第二天会议；当日主题为“能源与交通”，议程可在cop31.tr及COP31 Türkiye应用程序查看。",
-       "ar": "ترحب رئاسة مؤتمر الأطراف الحادي والثلاثين بالمشاركين في اليوم الثاني في أنطاليا؛ وموضوع اليوم هو «الطاقة والنقل»، والبرنامج متاح على cop31.tr وفي تطبيق COP31 Türkiye."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
+    "related": [],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
     ]
@@ -4683,7 +4834,9 @@
    "climate-action-tracker-2026-11-12-warming-projections",
    "climatehome-2026-11-11-turkiye-zero-waste",
    "cop30-presidency-daily-brief-2026-11-12",
+   "cop30-presidency-daily-brief-2026-11-13",
    "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
+   "instagram-turkiyecop31-20261113-day5-finance-trade",
    "unfccc-2026-11-11-bmr-concept-note",
    "unfccc-2026-11-11-guterres-zero-waste",
    "unfccc-2026-11-12-industrial-climate-action-report",
