@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T13:59+03:00",
+ "generated_at": "2026-11-13T14:58+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-13T06:25:00-03:00",
-  "social_round": "2026-11-13T07:46:00-03:00",
+  "social_round": "2026-11-13T08:46:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 149,
-  "stories": 127,
+  "candidates": 151,
+  "stories": 129,
   "top": 8,
   "publishers": [
    "350.org",
@@ -843,6 +843,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261113-mwp-duracao",
+    "section": "negotiations",
+    "score": 0.468,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261113-mwp-duracao",
+     "title": "enb.iisd.org: At #COP31, Parties debate how long the #Mitigation Work Programme should continue & what it should deliver. They…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n26tvkn22s2v",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-13",
+     "time": "08:09",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "GST2 e IPCC"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: na COP31, as Partes debatem por quanto tempo o Programa de Trabalho de Mitigação deve continuar e o que deve entregar: datas de término, vínculo com o Balanço Global, planejamento plurianual de temas e mensagens-chave acordadas.",
+     "collected_at": "2026-11-13T08:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: at COP31, Parties debate how long the Mitigation Work Programme should continue and what it should deliver: end dates, links with the Global Stocktake, multi-year topic planning and agreed key messages.",
+      "es": "ENB: en la COP31, las Partes debaten cuánto tiempo debe continuar el Programa de Trabajo sobre Mitigación y qué debe lograr: fechas de finalización, vínculos con el Balance Mundial, planificación plurianual de temas y mensajes clave acordados.",
+      "fr": "ENB : à la COP31, les Parties débattent de la durée du Programme de travail sur l'atténuation et de ses résultats attendus : dates de fin, liens avec le bilan mondial, planification pluriannuelle des thèmes et messages clés convenus.",
+      "ru": "ENB: на КС-31 Стороны обсуждают, как долго должна продолжаться Рабочая программа по смягчению последствий и что она должна дать: сроки завершения, связь с Глобальным подведением итогов, многолетнее планирование тем и согласованные ключевые послания.",
+      "zh": "ENB:在COP31上,各缔约方讨论减缓工作方案应持续多久及应取得何种成果:终止日期、与全球盘点的联系、多年期议题规划以及商定的关键信息。",
+      "ar": "نشرة ENB: في مؤتمر الأطراف الحادي والثلاثين، تناقش الأطراف المدة التي ينبغي أن يستمر فيها برنامج العمل بشأن التخفيف وما ينبغي أن يحققه: مواعيد الانتهاء، والصلة بالحصيلة العالمية، والتخطيط متعدد السنوات للمواضيع، والرسائل الرئيسية المتفق عليها."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -2585,6 +2623,45 @@
     ],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261113-plataforma-cidades-resilientes",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261113-plataforma-cidades-resilientes",
+     "title": "@turkiyecop31: #COP31 President Murat Kurum announced the Türkiye Resilient Cities Country Platform, developed under ILBANK’s…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/Dfrf8jRNUao/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-13",
+     "time": "05:59",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O presidente da COP31, Murat Kurum, anuncia a Plataforma de País de Cidades Resilientes da Türkiye, coordenada pelo ILBANK com apoio do Banco Mundial e do ONU-Habitat, para reforçar a resiliência urbana reunindo financiamento, expertise e cooperação internacional.",
+     "collected_at": "2026-11-13T08:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum announces the Turkey Resilient Cities Country Platform, coordinated by ILBANK with support from the World Bank and UN-Habitat, to strengthen urban resilience by bringing together financing, expertise and international cooperation.",
+      "es": "El Presidente de la COP31, Murat Kurum, anuncia la Plataforma de País de Ciudades Resilientes de Turquía, coordinada por ILBANK con apoyo del Banco Mundial y ONU-Hábitat, para reforzar la resiliencia urbana reuniendo financiación, conocimientos especializados y cooperación internacional.",
+      "fr": "Le Président de la COP31, Murat Kurum, annonce la Plateforme pays des villes résilientes de la Turquie, coordonnée par ILBANK avec l'appui de la Banque mondiale et d'ONU-Habitat, afin de renforcer la résilience urbaine en réunissant financement, expertise et coopération internationale.",
+      "ru": "Президент КС-31 Мурат Курум объявляет о Страновой платформе устойчивых городов Турции под координацией ILBANK при поддержке Всемирного банка и ООН-Хабитат для укрепления городской устойчивости за счёт объединения финансирования, экспертизы и международного сотрудничества.",
+      "zh": "COP31主席穆拉特·库鲁姆宣布启动土耳其韧性城市国家平台,由ILBANK牵头协调,在世界银行和联合国人居署支持下,汇聚资金、专业知识和国际合作以增强城市韧性。",
+      "ar": "أعلن رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم عن المنصة القُطرية للمدن القادرة على الصمود في تركيا، بتنسيق من ILBANK وبدعم من البنك الدولي وموئل الأمم المتحدة، لتعزيز القدرة الحضرية على الصمود عبر الجمع بين التمويل والخبرات والتعاون الدولي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
