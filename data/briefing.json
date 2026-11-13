@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T00:58+03:00",
+ "generated_at": "2026-11-13T04:59+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-12T18:35:00-03:00",
-  "social_round": "2026-11-12T18:45:00-03:00",
+  "social_round": "2026-11-12T22:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 115,
-  "stories": 96,
+  "candidates": 116,
+  "stories": 97,
   "top": 8,
   "publishers": [
    "350.org",
@@ -679,6 +679,44 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261112-nap-lac-adaptacao",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261112-nap-lac-adaptacao",
+     "title": "enb.iisd.org: #COP31 Latin America and the Caribbean face an estimated annual adaptation finance gap of USD 34 billion, despite…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n25kagottk2z",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-12",
+     "time": "19:44",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "ENB: América Latina e Caribe enfrentam uma lacuna anual estimada em US$ 34 bilhões em financiamento de adaptação, apesar do reconhecimento crescente da adaptação como prioridade (implementação de PNAs).",
+     "collected_at": "2026-11-12T22:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB: Latin America and the Caribbean face an estimated annual adaptation finance gap of US$34 billion, despite growing recognition of adaptation as a priority (NAP implementation).",
+      "es": "ENB: América Latina y el Caribe enfrentan una brecha anual estimada de 34.000 millones de dólares en financiación para la adaptación, pese al creciente reconocimiento de la adaptación como prioridad (implementación de los PNA).",
+      "fr": "ENB : l'Amérique latine et les Caraïbes font face à un déficit annuel estimé à 34 milliards de dollars É.-U. en financement de l'adaptation, malgré la reconnaissance croissante de l'adaptation comme priorité (mise en œuvre des PNA).",
+      "ru": "ENB: Латинская Америка и Карибский бассейн сталкиваются с ежегодным дефицитом финансирования адаптации, оцениваемым в 34 млрд долл. США, несмотря на растущее признание адаптации приоритетом (реализация НПА).",
+      "zh": "ENB:尽管适应日益被视为优先事项,拉丁美洲和加勒比地区每年仍面临约340亿美元的适应资金缺口(国家适应计划的实施)。",
+      "ar": "نشرة ENB: تواجه أمريكا اللاتينية ومنطقة الكاريبي فجوة سنوية في تمويل التكيف تُقدَّر بنحو 34 مليار دولار أمريكي، رغم تزايد الاعتراف بالتكيف كأولوية (تنفيذ خطط التكيف الوطنية)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
