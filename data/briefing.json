@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T12:58+03:00",
+ "generated_at": "2026-11-13T13:59+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-13T06:25:00-03:00",
-  "social_round": "2026-11-13T06:45:00-03:00",
+  "social_round": "2026-11-13T07:46:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 148,
-  "stories": 126,
+  "candidates": 149,
+  "stories": 127,
   "top": 8,
   "publishers": [
    "350.org",
@@ -3179,6 +3179,43 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-instagram-muratkurum-20261112-filistin-basbakani",
+    "section": "action",
+    "score": 0.33,
+    "lead": {
+     "id": "instagram-muratkurum-20261112-filistin-basbakani",
+     "title": "@muratkurum: COP31’de Filistin Başbakanı Sayın Muhammed Mustafa’nın konuşmasını dinledik. Filistin’de yaşanan yıkımın, soykırımın…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfoydDiiB8x/",
+     "publisher": "Murat Kurum",
+     "published": "2026-11-12",
+     "time": "06:58",
+     "language": "tr",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Murat Kurum, presidente da COP31, ouviu o discurso do primeiro-ministro palestino Muhammad Mustafa na COP31 e reafirmou o apoio da Türkiye à Palestina, ligando a injustiça climática à situação em Gaza.",
+     "collected_at": "2026-11-13T07:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 President Murat Kurum listened to the speech by Palestinian Prime Minister Mohammad Mustafa at COP31 and reaffirmed Türkiye's support for Palestine, linking climate injustice to the situation there.",
+      "es": "El Presidente de la COP31, Murat Kurum, escuchó el discurso del Primer Ministro palestino Mohammad Mustafa en la COP31 y reafirmó el apoyo de Türkiye a Palestina, vinculando la injusticia climática con la situación allí.",
+      "fr": "Le Président de la COP31, Murat Kurum, a écouté le discours du Premier ministre palestinien Mohammad Mustafa à la COP31 et a réaffirmé le soutien de la Türkiye à la Palestine, en liant l'injustice climatique à la situation sur place.",
+      "ru": "Президент КС-31 Мурат Курум выслушал выступление премьер-министра Палестины Мухаммада Мустафы на КС-31 и подтвердил поддержку Турции Палестине, связав климатическую несправедливость с положением там.",
+      "zh": "第31届缔约方大会主席穆拉特·库鲁姆听取了巴勒斯坦总理穆罕默德·穆斯塔法在大会上的发言，重申土耳其对巴勒斯坦的支持，并将气候不公正与当地局势联系起来。",
+      "ar": "استمع رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إلى كلمة رئيس الوزراء الفلسطيني محمد مصطفى في المؤتمر، وجدد دعم تركيا لفلسطين رابطاً بين الظلم المناخي والوضع هناك."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Murat Kurum"
     ]
    },
    {
