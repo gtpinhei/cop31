@@ -1,16 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-12T18:35:00-03:00",
+ "generated_at": "2026-11-13T00:13:00-03:00",
  "round": {
-  "timestamp": "2026-11-12T18:35:00-03:00",
-  "label": "12 nov 2026, 18:35 (Brasília)",
-  "sites_checked": 58,
-  "blocked": 18,
-  "new_items": 3,
-  "fetches": "62 de 60",
+  "timestamp": "2026-11-13T00:13:00-03:00",
+  "label": "13 nov 2026, 00:13 (Brasília)",
+  "sites_checked": 57,
+  "blocked": 13,
+  "new_items": 8,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news, cop30-br-en-2026-priorities, unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, icccad-net-news, wemeanbusinesscoalition-org-news, eurodad-org-news, carbon-pulse-com-category-international, odi-org-en-insights, twn-my-title2-climate-climate-updates-htm, ember-energy-org-latest-insights"
+   "Bloqueados/sem listagem datada: climatechampions-unfccc-int-news (302), unep-org-resources-emissions-gap-report-2026, iea-org-events-world-energy-outlook-2026, chathamhouse-org-topics-climate-policy, caneurope-org-news, ituc-csi-org-climate-justice, christianaid-org-uk-news, foei-org-news, oilchange-org-press-releases, politicaporinteiro-org-en, icccad-net-news, carbon-pulse-com-category-international, africanclimatefoundation-org-news (erro)"
   ]
  },
  "tracks": [
@@ -31,6 +31,136 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-12-industrial-climate-action-report",
+   "institution": "UNFCCC",
+   "type": "notícia",
+   "title": "New UN Climate Change report highlights what it takes to scale up industrial climate action",
+   "date": "2026-11-12",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/new-un-climate-change-report-highlights-what-it-takes-to-scale-up-industrial-climate-action",
+   "summary": "O UNFCCC anunciou um novo relatório sobre o que é necessário para ampliar a ação climática na indústria. A página de listagem traz apenas o título, sem detalhar conclusões ou números. Relevante para as trilhas de mitigação e para a Agenda de Ação em torno da descarbonização industrial na COP31.",
+   "summary_i18n": {
+    "en": "UNFCCC announced a new report on what it takes to scale up climate action in industry. The listing page carries only the title, without detailing findings or figures. Relevant to the mitigation tracks and to the Action Agenda on industrial decarbonization at COP31.",
+    "es": "La CMNUCC anunció un nuevo informe sobre lo necesario para ampliar la acción climática en la industria. La página de listado solo trae el título, sin detallar conclusiones ni cifras. Pertinente para las vías de mitigación y para la Agenda de Acción sobre descarbonización industrial en la COP31.",
+    "fr": "La CCNUCC a annoncé un nouveau rapport sur ce qu'il faut pour intensifier l'action climatique dans l'industrie. La page de liste ne donne que le titre, sans détailler les conclusions ni les chiffres. Pertinent pour les volets d'atténuation et pour l'Agenda de l'action sur la décarbonation industrielle à la COP31.",
+    "ru": "РКИК ООН объявила о новом докладе о том, что необходимо для расширения климатических действий в промышленности. На странице списка указан только заголовок, без выводов и цифр. Актуально для направлений по смягчению последствий и для Повестки действий по декарбонизации промышленности на COP31.",
+    "zh": "《联合国气候变化框架公约》秘书处发布了一份新报告，介绍扩大工业领域气候行动所需的条件。列表页面仅有标题，未说明结论或数据。与COP31上的减缓议题及工业脱碳行动议程相关。",
+    "ar": "أعلنت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ عن تقرير جديد حول ما يلزم لتوسيع نطاق العمل المناخي في قطاع الصناعة. تقتصر صفحة القائمة على العنوان دون تفاصيل عن النتائج أو الأرقام. ويتصل ذلك بمسارات التخفيف وبخطة العمل بشأن إزالة الكربون من الصناعة في مؤتمر COP31."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-12-net-zero-recognition-framework-launch",
+   "institution": "UNFCCC",
+   "type": "notícia",
+   "title": "Net-Zero Recognition Framework launched to spotlight non-State actors' leadership",
+   "date": "2026-11-12",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/net-zero-recognition-framework-launched-to-spotlight-non-state-actors-leadership",
+   "summary": "O UNFCCC lançou o Net-Zero Recognition Framework, mecanismo para dar visibilidade à liderança de atores não estatais em metas de emissões líquidas zero. O lançamento acompanha a publicação, no mesmo dia, do documento de governança da versão piloto 2026. Relevante para a Agenda de Ação, com foco em credibilidade e reconhecimento de compromissos de empresas, cidades e regiões.",
+   "summary_i18n": {
+    "en": "UNFCCC launched the Net-Zero Recognition Framework, a mechanism to give visibility to the leadership of non-State actors on net-zero targets. The launch coincides with the same-day publication of the governance document for the 2026 pilot version. Relevant to the Action Agenda, with a focus on the credibility and recognition of commitments by companies, cities and regions.",
+    "es": "La CMNUCC lanzó el Net-Zero Recognition Framework, un mecanismo para dar visibilidad al liderazgo de los actores no estatales en metas de cero emisiones netas. El lanzamiento coincide con la publicación, el mismo día, del documento de gobernanza de la versión piloto de 2026. Pertinente para la Agenda de Acción, con foco en la credibilidad y el reconocimiento de los compromisos de empresas, ciudades y regiones.",
+    "fr": "La CCNUCC a lancé le Net-Zero Recognition Framework, un mécanisme visant à mettre en valeur le leadership des acteurs non étatiques en matière d'objectifs de zéro émission nette. Le lancement coïncide avec la publication, le même jour, du document de gouvernance de la version pilote 2026. Pertinent pour l'Agenda de l'action, avec un accent sur la crédibilité et la reconnaissance des engagements des entreprises, villes et régions.",
+    "ru": "РКИК ООН запустила Net-Zero Recognition Framework — механизм, призванный сделать заметным лидерство негосударственных субъектов в достижении нулевых чистых выбросов. Запуск совпал с публикацией в тот же день документа об управлении пилотной версией 2026 года. Актуально для Повестки действий: доверие к обязательствам компаний, городов и регионов и их признание.",
+    "zh": "《公约》秘书处启动了“净零认可框架”（Net-Zero Recognition Framework），旨在彰显非国家行为体在净零目标方面的领导力。同日还发布了2026年试点版本的治理结构文件。与行动议程相关，重点是企业、城市和地区承诺的可信度与认可。",
+    "ar": "أطلقت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ «إطار الاعتراف بالحياد الكربوني» (Net-Zero Recognition Framework)، وهو آلية لإبراز ريادة الجهات الفاعلة من غير الدول في أهداف صافي الانبعاثات الصفرية. ويتزامن الإطلاق مع نشر وثيقة الحوكمة للنسخة التجريبية لعام 2026 في اليوم نفسه. ويتصل ذلك بخطة العمل، مع التركيز على مصداقية التزامات الشركات والمدن والأقاليم والاعتراف بها."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-12-stiell-super-pollutants-methane",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "\"Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" - UN Climate Chief at COP31 today",
+   "date": "2026-11-12",
+   "authors": "Simon Stiell",
+   "url": "https://unfccc.int/news/super-pollutants-are-a-supersize-opportunity-methane-cuts-provide-rapid-results-un-climate-chief-at",
+   "summary": "Em discurso na COP31, Simon Stiell, secretário-executivo do UNFCCC, defendeu que cortar os superpoluentes, em especial o metano, traz resultados rápidos. A listagem traz só o título e a chamada do discurso. Relevante para a trilha de mitigação (MWP) e para o debate sobre metano e resíduos nos eventos da Cúpula de Líderes.",
+   "summary_i18n": {
+    "en": "In a speech at COP31, Simon Stiell, UNFCCC Executive Secretary, argued that cutting super pollutants, especially methane, delivers rapid results. The listing carries only the title and headline of the speech. Relevant to the mitigation track (MWP) and to the discussion on methane and waste at the Leaders' Summit events.",
+    "es": "En un discurso en la COP31, Simon Stiell, Secretario Ejecutivo de la CMNUCC, sostuvo que reducir los supercontaminantes, en especial el metano, produce resultados rápidos. El listado solo incluye el título y el titular del discurso. Pertinente para la vía de mitigación (MWP) y para el debate sobre metano y residuos en los eventos de la Cumbre de Líderes.",
+    "fr": "Dans un discours à la COP31, Simon Stiell, Secrétaire exécutif de la CCNUCC, a soutenu que réduire les superpolluants, en particulier le méthane, donne des résultats rapides. La liste ne contient que le titre et l'intitulé du discours. Pertinent pour le volet atténuation (MWP) et pour le débat sur le méthane et les déchets lors des événements du Sommet des dirigeants.",
+    "ru": "В выступлении на COP31 Исполнительный секретарь РКИК ООН Саймон Стилл заявил, что сокращение сверхзагрязнителей, прежде всего метана, даёт быстрые результаты. В списке указаны лишь заголовок и анонс выступления. Актуально для направления по смягчению последствий (MWP) и для обсуждения метана и отходов на мероприятиях Саммита лидеров.",
+    "zh": "在COP31的讲话中，《公约》执行秘书西蒙·斯蒂尔（Simon Stiell）指出，削减超级污染物（尤其是甲烷）能迅速见效。列表仅显示讲话的标题和导语。与减缓议题（MWP）以及领导人峰会活动中关于甲烷和废弃物的讨论相关。",
+    "ar": "قال سايمون ستيل، الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، في كلمة ألقاها في مؤتمر COP31 إن خفض الملوثات الفائقة، ولا سيما الميثان، يحقق نتائج سريعة. تقتصر القائمة على عنوان الكلمة ومقدمتها. ويتصل ذلك بمسار التخفيف (MWP) وبالنقاش حول الميثان والنفايات في فعاليات قمة القادة."
+   },
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" — Simon Stiell"
+   ],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-12-transparency-enabling-tool",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Transparency as an enabling tool for faster real-economy progress",
+   "date": "2026-11-12",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/transparency-as-an-enabling-tool-for-faster-real-economy-progress",
+   "summary": "O UNFCCC publicou discurso apresentando a transparência como ferramenta habilitadora para acelerar o progresso na economia real. A listagem traz apenas o título, sem o texto. Relevante para o quadro de transparência do Acordo de Paris (BTR) e para a Agenda de Ação.",
+   "summary_i18n": {
+    "en": "UNFCCC published a speech presenting transparency as an enabling tool to speed up progress in the real economy. The listing carries only the title, not the text. Relevant to the Paris Agreement transparency framework (BTR) and to the Action Agenda.",
+    "es": "La CMNUCC publicó un discurso que presenta la transparencia como herramienta habilitadora para acelerar el progreso en la economía real. El listado solo incluye el título, no el texto. Pertinente para el marco de transparencia del Acuerdo de París (BTR) y para la Agenda de Acción.",
+    "fr": "La CCNUCC a publié un discours présentant la transparence comme un outil habilitant pour accélérer les progrès dans l'économie réelle. La liste ne contient que le titre, pas le texte. Pertinent pour le cadre de transparence de l'Accord de Paris (BTR) et pour l'Agenda de l'action.",
+    "ru": "РКИК ООН опубликовала выступление, в котором прозрачность представлена как инструмент, способствующий ускорению прогресса в реальной экономике. В списке указан только заголовок, без текста. Актуально для рамок прозрачности Парижского соглашения (BTR) и для Повестки действий.",
+    "zh": "《公约》秘书处发布了一篇讲话，将透明度作为加快实体经济进展的促成工具。列表仅有标题，没有正文。与《巴黎协定》透明度框架（BTR）及行动议程相关。",
+    "ar": "نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ كلمة تعرض الشفافية بوصفها أداة تمكينية لتسريع التقدم في الاقتصاد الحقيقي. تقتصر القائمة على العنوان دون النص. ويتصل ذلك بإطار الشفافية في اتفاق باريس (BTR) وبخطة العمل."
+   },
+   "tracks": [
+    "Agenda de Ação",
+    "Mitigação e MWP"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "wmo-2026-11-12-escalating-hazards",
+   "institution": "WMO",
+   "type": "notícia",
+   "title": "Escalating hazards demand escalated action",
+   "date": "2026-11-12",
+   "authors": "WMO",
+   "url": "https://wmo.int/media/news/escalating-hazards-demand-escalated-action",
+   "summary": "A OMM publicou matéria sobre a escalada de eventos extremos e a necessidade de ação reforçada, ilustrada com a participação de António Guterres em sessão da COP31. A listagem traz só título e legenda. Relevante para adaptação, alertas precoces e perdas e danos.",
+   "summary_i18n": {
+    "en": "WMO published a news item on escalating hazards and the need for stronger action, illustrated with António Guterres at a COP31 session. The listing carries only the title and caption. Relevant to adaptation, early warnings and loss and damage.",
+    "es": "La OMM publicó una nota sobre la escalada de los peligros y la necesidad de una acción reforzada, ilustrada con la participación de António Guterres en una sesión de la COP31. El listado solo incluye título y pie de foto. Pertinente para adaptación, alertas tempranas y pérdidas y daños.",
+    "fr": "L'OMM a publié un article sur l'escalade des aléas et la nécessité d'une action renforcée, illustré par la présence d'António Guterres à une session de la COP31. La liste ne contient que le titre et la légende. Pertinent pour l'adaptation, les alertes précoces et les pertes et préjudices.",
+    "ru": "ВМО опубликовала материал о нарастании опасных явлений и необходимости усиления действий; иллюстрация — Антониу Гутерриш на сессии COP31. В списке указаны только заголовок и подпись. Актуально для адаптации, раннего оповещения и потерь и ущерба.",
+    "zh": "世界气象组织（WMO）发布了一篇关于灾害加剧、需要加大行动力度的新闻，配图为联合国秘书长安东尼奥·古特雷斯出席COP31会议。列表仅有标题和图片说明。与适应、早期预警及损失与损害相关。",
+    "ar": "نشرت المنظمة العالمية للأرصاد الجوية خبراً عن تصاعد المخاطر والحاجة إلى تعزيز العمل، مصحوباً بصورة لأنطونيو غوتيريش في إحدى جلسات COP31. تقتصر القائمة على العنوان وتعليق الصورة. ويتصل ذلك بالتكيف والإنذار المبكر والخسائر والأضرار."
+   },
+   "tracks": [
+    "Adaptação",
+    "Perdas e danos"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-wmo-int-news"
+  },
   {
    "platform": "instagram",
    "account": "@institutotalanoa",
@@ -2943,6 +3073,57 @@
    "first_seen": "2026-11-12T01:42:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "pmgovau-2026-11-11-leaders-summit-opening-ceremony",
+   "institution": "Prime Minister of Australia",
+   "type": "discurso",
+   "title": "COP31 Leaders' Summit Opening Ceremony",
+   "date": "2026-11-11",
+   "authors": "Primeiro-ministro da Austrália",
+   "url": "https://www.pm.gov.au/media/cop31-leaders-summit-opening-ceremony",
+   "summary": "O gabinete do primeiro-ministro da Austrália, país que co-preside a COP31 com a Türkiye, publicou a transcrição do discurso na cerimônia de abertura da Cúpula de Líderes. A listagem traz só o título. Relevante para a trilha Presidência e anfitrião.",
+   "summary_i18n": {
+    "en": "The Australian Prime Minister's office, whose country co-presides COP31 with Türkiye, published the transcript of the speech at the opening ceremony of the Leaders' Summit. The listing carries only the title. Relevant to the Presidency and host track.",
+    "es": "La oficina del Primer Ministro de Australia, país que copreside la COP31 con Türkiye, publicó la transcripción del discurso en la ceremonia de apertura de la Cumbre de Líderes. El listado solo incluye el título. Pertinente para la vía de Presidencia y anfitrión.",
+    "fr": "Le bureau du Premier ministre australien, pays qui copréside la COP31 avec la Türkiye, a publié la transcription du discours prononcé à la cérémonie d'ouverture du Sommet des dirigeants. La liste ne contient que le titre. Pertinent pour le volet Présidence et pays hôte.",
+    "ru": "Канцелярия премьер-министра Австралии, которая совместно с Турцией председательствует на COP31, опубликовала стенограмму выступления на церемонии открытия Саммита лидеров. В списке указан только заголовок. Актуально для направления «Председательство и принимающая страна».",
+    "zh": "澳大利亚（与土耳其共同主持COP31）总理办公室发布了领导人峰会开幕式上讲话的文字记录。列表仅有标题。与主席国及东道国议题相关。",
+    "ar": "نشر مكتب رئيس وزراء أستراليا، التي تشارك تركيا رئاسة COP31، نص الكلمة التي ألقاها في حفل افتتاح قمة القادة. تقتصر القائمة على العنوان. ويتصل ذلك بمسار الرئاسة والدولة المضيفة."
+   },
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-pm-gov-au-media"
+  },
+  {
+   "id": "pmgovau-2026-11-11-clean-energy-electrification-event",
+   "institution": "Prime Minister of Australia",
+   "type": "discurso",
+   "title": "High-Level Event on Clean Energy Transition and Electrification",
+   "date": "2026-11-11",
+   "authors": "Primeiro-ministro da Austrália",
+   "url": "https://www.pm.gov.au/media/high-level-event-clean-energy-transition-and-electrification",
+   "summary": "O gabinete do primeiro-ministro da Austrália publicou a transcrição de discurso no evento de alto nível sobre transição energética limpa e eletrificação, prioridade da Presidência da COP31 (meta 35 até 35). A listagem traz só o título. Relevante para as trilhas de eletrificação e Presidência.",
+   "summary_i18n": {
+    "en": "The Australian Prime Minister's office published the transcript of a speech at the high-level event on clean energy transition and electrification, a COP31 Presidency priority (35 by 35 goal). The listing carries only the title. Relevant to the electrification and Presidency tracks.",
+    "es": "La oficina del Primer Ministro de Australia publicó la transcripción de un discurso en el evento de alto nivel sobre transición energética limpia y electrificación, una prioridad de la Presidencia de la COP31 (meta 35 para 35). El listado solo incluye el título. Pertinente para las vías de electrificación y Presidencia.",
+    "fr": "Le bureau du Premier ministre australien a publié la transcription d'un discours à l'événement de haut niveau sur la transition vers une énergie propre et l'électrification, priorité de la présidence de la COP31 (objectif 35 d'ici 35). La liste ne contient que le titre. Pertinent pour les volets électrification et Présidence.",
+    "ru": "Канцелярия премьер-министра Австралии опубликовала стенограмму выступления на мероприятии высокого уровня по переходу к чистой энергии и электрификации — приоритету председательства COP31 (цель «35 к 35»). В списке указан только заголовок. Актуально для направлений «Электрификация» и «Председательство».",
+    "zh": "澳大利亚总理办公室发布了在清洁能源转型与电气化高级别活动上讲话的文字记录，该议题是COP31主席国的优先事项（“35 by 35”目标）。列表仅有标题。与电气化及主席国议题相关。",
+    "ar": "نشر مكتب رئيس وزراء أستراليا نص كلمة ألقاها في الفعالية الرفيعة المستوى حول تحول الطاقة النظيفة والكهربة، وهي من أولويات رئاسة COP31 (هدف «35 بحلول 35»). تقتصر القائمة على العنوان. ويتصل ذلك بمساري الكهربة والرئاسة."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-pm-gov-au-media"
   },
   {
    "id": "oxfam-international-2026-11-11-floods-records",
@@ -6288,6 +6469,31 @@
    "first_seen": "2026-11-11T01:45:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "bruegel-2026-11-10-lagarde-climate-risks",
+   "institution": "Bruegel",
+   "type": "análise",
+   "title": "As Lagarde steps down from the ECB, climate risks remain monetary risks",
+   "date": "2026-11-10",
+   "authors": "Uuriintuya Batsaikhan",
+   "url": "https://www.bruegel.org/first-glance/lagarde-steps-down-ecb-climate-risks-remain-monetary-risks",
+   "summary": "Em comentário rápido (First Glance), Uuriintuya Batsaikhan argumenta que, como choques climáticos seguem afetando a economia europeia, o sucessor de Christine Lagarde no BCE deve manter os riscos climáticos na política monetária. Ligado indiretamente ao debate de finanças e alinhamento de fluxos financeiros na COP31.",
+   "summary_i18n": {
+    "en": "In a quick commentary (First Glance), Uuriintuya Batsaikhan argues that because climate shocks keep affecting Europe's economy, Christine Lagarde's successor at the ECB should keep addressing climate-related risks in monetary policy. Indirectly linked to the finance debate and the alignment of financial flows at COP31.",
+    "es": "En un comentario rápido (First Glance), Uuriintuya Batsaikhan sostiene que, como los choques climáticos siguen afectando a la economía europea, el sucesor de Christine Lagarde en el BCE debería seguir abordando los riesgos climáticos en la política monetaria. Vinculado indirectamente al debate sobre finanzas y la alineación de los flujos financieros en la COP31.",
+    "fr": "Dans un commentaire rapide (First Glance), Uuriintuya Batsaikhan soutient que, les chocs climatiques continuant de peser sur l'économie européenne, le successeur de Christine Lagarde à la BCE devrait continuer à traiter les risques climatiques dans la politique monétaire. Lié indirectement au débat sur le financement et à l'alignement des flux financiers à la COP31.",
+    "ru": "В кратком комментарии (First Glance) Ууриинтуя Батсайхан утверждает, что, поскольку климатические потрясения продолжают влиять на экономику Европы, преемнику Кристин Лагард в ЕЦБ следует и впредь учитывать климатические риски в денежно-кредитной политике. Косвенно связано с обсуждением финансов и согласования финансовых потоков на COP31.",
+    "zh": "在简评（First Glance）中，乌里因图雅·巴特赛汉（Uuriintuya Batsaikhan）认为，由于气候冲击持续影响欧洲经济，克里斯蒂娜·拉加德在欧洲央行的继任者应继续在货币政策中应对气候风险。与COP31上的融资及资金流向协调讨论存在间接关联。",
+    "ar": "تجادل أوورينتويا باتسايخان في تعليق سريع (First Glance) بأن الصدمات المناخية ما دامت تؤثر في اقتصاد أوروبا، فينبغي لخليفة كريستين لاغارد في البنك المركزي الأوروبي أن يواصل معالجة المخاطر المناخية في السياسة النقدية. ويرتبط ذلك على نحو غير مباشر بنقاش التمويل ومواءمة التدفقات المالية في COP31."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-13T00:13:00-03:00",
+   "lang": "en",
+   "source_id": "web-bruegel-org-topics-green-economy"
   },
   {
    "id": "x-moefcc-20261110-india-cop31-statement",
