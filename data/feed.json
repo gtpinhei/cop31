@@ -59,6 +59,34 @@
    "source_id": "x-canintl"
   },
   {
+   "id": "x-fatmavarank-20261113-kadin-liderligi",
+   "kind": "post",
+   "platform": "x",
+   "account": "@fatmavarank",
+   "institution": "Fatma Varank (CEO da COP31)",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "",
+   "text": "Türkiye Pavyonunda, COP31 Kadın Elçimiz Tuğba Işık Ercan ile birlikte “Kadın Liderliğinde İklim Çözümleri: Politikadan Uygulamaya” başlıklı yan etkinliğe katılım sağladık.",
+   "summary": "Fatma Varank, CEO da COP31, participou no Pavilhão da Türkiye, com a Embaixadora da COP31 para as Mulheres, de um evento paralelo sobre soluções climáticas lideradas por mulheres, da política à implementação.",
+   "summary_i18n": {
+    "en": "COP31 CEO Fatma Varank attended a side event at the Türkiye Pavilion, with the COP31 Women's Ambassador, on women-led climate solutions from policy to implementation.",
+    "es": "La directora ejecutiva de la COP31, Fatma Varank, participó en el Pabellón de Türkiye, junto con la Embajadora de la COP31 para las Mujeres, en un evento paralelo sobre soluciones climáticas lideradas por mujeres, de la política a la implementación.",
+    "fr": "La directrice générale de la COP31, Fatma Varank, a participé au Pavillon de la Türkiye, avec l'Ambassadrice de la COP31 pour les femmes, à un événement parallèle sur les solutions climatiques dirigées par des femmes, de la politique à la mise en œuvre.",
+    "ru": "Директор КС-31 Фатма Варанк вместе с послом КС-31 по вопросам женщин приняла участие в параллельном мероприятии в павильоне Турции о климатических решениях под руководством женщин: от политики к практике.",
+    "zh": "第31届缔约方大会首席执行官法特玛·瓦朗克与大会妇女大使一道，参加了土耳其馆举办的边会，主题为妇女主导的气候解决方案：从政策到落实。",
+    "ar": "شاركت الرئيسة التنفيذية لمؤتمر الأطراف الحادي والثلاثين فاطمة فارانك، إلى جانب سفيرة المؤتمر للمرأة، في فعالية جانبية بجناح تركيا حول الحلول المناخية بقيادة النساء، من السياسات إلى التنفيذ."
+   },
+   "url": "https://x.com/fatmavarank",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Espaço cívico"
+   ],
+   "first_seen": "2026-11-13T07:46:00-03:00",
+   "lang": "tr",
+   "source_id": "x-fatmavarank"
+  },
+  {
    "id": "bluesky-carbonbrief.org-20261113-daily-briefing",
    "kind": "post",
    "platform": "bluesky",
@@ -623,6 +651,60 @@
    "first_seen": "2026-11-13T01:50:00-03:00",
    "lang": "en",
    "source_id": "bsky-unep-org"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261112-miliband-qa",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "14:00",
+   "text": "NEW – COP31: How Ed Miliband answered Carbon Brief readers’ questions \n\nRead the Q&A here ➡️ buff.ly/I6HZS7R",
+   "summary": "A Carbon Brief publica perguntas e respostas com Ed Miliband, secretário de Relações Exteriores do Reino Unido, que respondeu em Antália a perguntas de leitores sobre a COP31.",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes a Q&A with UK foreign secretary Ed Miliband, who answered readers' questions on COP31 in Antalya.",
+    "es": "Carbon Brief publica unas preguntas y respuestas con Ed Miliband, secretario de Relaciones Exteriores del Reino Unido, quien respondió en Antalya a preguntas de lectores sobre la COP31.",
+    "fr": "Carbon Brief publie un entretien questions-réponses avec Ed Miliband, secrétaire d'État britannique aux Affaires étrangères, qui a répondu à Antalya aux questions des lecteurs sur la COP31.",
+    "ru": "Carbon Brief публикует вопросы и ответы с министром иностранных дел Великобритании Эдом Милибэндом, который в Анталье ответил на вопросы читателей о КС-31.",
+    "zh": "Carbon Brief 发布对英国外交大臣埃德·米利班德的问答，他在安塔利亚就第31届缔约方大会回答了读者提问。",
+    "ar": "تنشر Carbon Brief حواراً بصيغة أسئلة وأجوبة مع وزير خارجية المملكة المتحدة إد ميليباند، أجاب في أنطاليا عن أسئلة القراء بشأن مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n24x2jm2is22",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-13T07:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "instagram-muratkurum-20261112-filistin-basbakani",
+   "kind": "post",
+   "platform": "instagram",
+   "account": "@muratkurum",
+   "institution": "Murat Kurum",
+   "verified": true,
+   "date": "2026-11-12",
+   "time": "06:58",
+   "text": "COP31’de Filistin Başbakanı Sayın Muhammed Mustafa’nın konuşmasını dinledik.\n\nFilistin’de yaşanan yıkımın, soykırımın ve acıların gölgesinde, Antalya’dan iklim adaletsizliğine de vicdanların sessizliğine de dur diyen bir ses yükselttik.\n\nDün olduğu gibi, bugün de ve gelecekte Türkiye her zaman Filistin’in ve kardeşlerimizin yanındadır.\n\n@turkiyecop31 \n\n📍Antalya",
+   "summary": "Murat Kurum, presidente da COP31, ouviu o discurso do primeiro-ministro palestino Muhammad Mustafa na COP31 e reafirmou o apoio da Türkiye à Palestina, ligando a injustiça climática à situação em Gaza.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum listened to the speech by Palestinian Prime Minister Mohammad Mustafa at COP31 and reaffirmed Türkiye's support for Palestine, linking climate injustice to the situation there.",
+    "es": "El Presidente de la COP31, Murat Kurum, escuchó el discurso del Primer Ministro palestino Mohammad Mustafa en la COP31 y reafirmó el apoyo de Türkiye a Palestina, vinculando la injusticia climática con la situación allí.",
+    "fr": "Le Président de la COP31, Murat Kurum, a écouté le discours du Premier ministre palestinien Mohammad Mustafa à la COP31 et a réaffirmé le soutien de la Türkiye à la Palestine, en liant l'injustice climatique à la situation sur place.",
+    "ru": "Президент КС-31 Мурат Курум выслушал выступление премьер-министра Палестины Мухаммада Мустафы на КС-31 и подтвердил поддержку Турции Палестине, связав климатическую несправедливость с положением там.",
+    "zh": "第31届缔约方大会主席穆拉特·库鲁姆听取了巴勒斯坦总理穆罕默德·穆斯塔法在大会上的发言，重申土耳其对巴勒斯坦的支持，并将气候不公正与当地局势联系起来。",
+    "ar": "استمع رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم إلى كلمة رئيس الوزراء الفلسطيني محمد مصطفى في المؤتمر، وجدد دعم تركيا لفلسطين رابطاً بين الظلم المناخي والوضع هناك."
+   },
+   "url": "https://www.instagram.com/p/DfoydDiiB8x/",
+   "tracks": [
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-13T07:46:00-03:00",
+   "lang": "tr",
+   "source_id": "ig-muratkurum"
   },
   {
    "id": "climate-home-news-2026-11-12-pacific-fund",
@@ -18168,11 +18250,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-13T06:45:00-03:00",
-  "label": "13 nov 2026, 06:45 (Brasília)",
+  "timestamp": "2026-11-13T07:46:00-03:00",
+  "label": "13 nov 2026, 07:46 (Brasília)",
   "accounts_checked": 30,
   "blocked": 0,
-  "new_items": 6,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
