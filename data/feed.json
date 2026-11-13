@@ -17302,14 +17302,13 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-13T01:50:00-03:00",
-  "label": "13 nov 2026, 01:50 (Brasília)",
-  "accounts_checked": 43,
-  "blocked": 2,
-  "new_items": 3,
+  "timestamp": "2026-11-13T02:45:39-03:00",
+  "label": "13 nov 2026, 02:45 (Brasília)",
+  "accounts_checked": 39,
+  "blocked": 1,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": [
-   "x-dcceew",
    "x-mmeioambiente"
   ]
  }
