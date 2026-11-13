@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T11:59+03:00",
+ "generated_at": "2026-11-13T12:58+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-13T00:13:00-03:00",
-  "social_round": "2026-11-13T05:50:00-03:00",
+  "web_round": "2026-11-13T06:25:00-03:00",
+  "social_round": "2026-11-13T06:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 132,
-  "stories": 111,
+  "candidates": 148,
+  "stories": 126,
   "top": 8,
   "publishers": [
    "350.org",
@@ -42,6 +42,7 @@
    "UNEP",
    "UNFCCC",
    "UNFCCC / Simon Stiell",
+   "V20 / CVF",
    "WBCSD",
    "WMO",
    "WRI"
@@ -65,12 +66,7 @@
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "sem listagem datada"
-   },
-   {
-    "publisher": "Arab Group (UNFCCC submissions)",
-    "outcome": "error",
-    "note": "302 para submissions.unfccc.int não seguido por orçamento; unfccc.int/documents lido: 9 documentos de 12 nov (já no feed"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
@@ -124,6 +120,79 @@
     "related": [],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-12-ocean-roadmap",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "climate-home-news-2026-11-12-ocean-roadmap",
+     "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
+     "url": "https://www.climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya/",
+     "publisher": "Climate Home News",
+     "author": "Diego Arguedas Ortíz",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Oceanos",
+      "GST2 e IPCC",
+      "Decisão de cobertura"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Uma coalizão com pequenos estados insulares, países africanos e a UE defende um roteiro oceânico plurianual ligado ao segundo balanço global (2028). Nenhum país se opôs à ideia em evento paralelo, e especialistas veem chance de o tema entrar na decisão de cobertura da COP31.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A coalition of small island states, African countries and the EU is pushing for a multi-year ocean roadmap linked to the second global stocktake (2028). No country opposed the idea at a side event, and experts see a chance it could enter the COP31 cover decision.",
+      "es": "Una coalición de pequeños Estados insulares, países africanos y la UE promueve una hoja de ruta oceánica plurianual vinculada al segundo balance mundial (2028). Ningún país se opuso a la idea en un evento paralelo y los expertos ven posible que figure en la decisión de cobertura de la COP31.",
+      "fr": "Une coalition de petits États insulaires, de pays africains et de l'UE plaide pour une feuille de route océanique pluriannuelle liée au deuxième bilan mondial (2028).",
+      "ru": "Коалиция малых островных государств, африканских стран и ЕС добивается многолетней океанской дорожной карты, увязанной со вторым глобальным подведением итогов (2028). Ни одна страна не возразила против идеи на параллельном мероприятии, а эксперты видят шанс на её включение в общее решение COP31.",
+      "zh": "由小岛屿国家、非洲国家和欧盟组成的联盟正推动制定与第二次全球盘点（2028年）挂钩的多年期海洋路线图。在一场边会上没有国家反对这一想法，专家认为它有可能写入COP31总括决定。文章指出，海洋已吸收了93%的多余热量。",
+      "ar": "يدفع تحالف يضم دولاً جزرية صغيرة ودولاً أفريقية والاتحاد الأوروبي نحو خارطة طريق للمحيطات متعددة السنوات مرتبطة بالحصيلة العالمية الثانية (2028). ولم تعترض أي دولة على الفكرة في فعالية جانبية، ويرى الخبراء أنها قد تدخل في القرار الشامل لـ COP31. وتشير المقالة إلى أن المحيط امتص 93% من الحرارة الزائدة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-cop31-presidency-2026-11-12-resilient-cities",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "cop31-presidency-2026-11-12-resilient-cities",
+     "title": "World leaders at COP31 focus on building resilient cities",
+     "url": "https://cop31.tr/news-detail/world-leaders-cop31-focus-on-building-resilient-cities",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No segundo dia da Cúpula de Líderes, mais de 100 líderes nacionais reuniram-se para acelerar ação e investimento em cidades resilientes e sustentáveis. Liga-se à Agenda de Ação e à adaptação urbana; só o resumo da listagem está visível.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "On the second day of the Leaders' Summit, more than 100 national leaders met to accelerate action and investment in resilient, sustainable cities. It ties to the Action Agenda and urban adaptation; only the listing summary is visible.",
+      "es": "En el segundo día de la Cumbre de Líderes, más de 100 líderes nacionales se reunieron para acelerar la acción y la inversión en ciudades resilientes y sostenibles. Se vincula con la Agenda de Acción y la adaptación urbana; solo es visible el resumen del listado.",
+      "fr": "Au deuxième jour du Sommet des dirigeants, plus de 100 dirigeants nationaux se sont réunis pour accélérer l'action et l'investissement dans des villes résilientes et durables. Il se rattache à l'Agenda de l'action et à l'adaptation urbaine ; seul le résumé de la liste est visible.",
+      "ru": "На второй день Саммита лидеров более 100 национальных лидеров собрались, чтобы ускорить действия и инвестиции в устойчивые и жизнестойкие города. Относится к Повестке действий и городской адаптации; видна только аннотация в списке.",
+      "zh": "在领导人峰会第二天，100多位国家领导人聚首，以加快对有韧性、可持续城市的行动与投资。与行动议程和城市适应相关；目前仅可见列表摘要。",
+      "ar": "في اليوم الثاني من قمة القادة، اجتمع أكثر من 100 قائد وطني لتسريع العمل والاستثمار في مدن قادرة على الصمود ومستدامة. ويتصل بجدول أعمال العمل والتكيف الحضري؛ ولا يظهر سوى ملخص القائمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
     ]
    },
    {
@@ -196,6 +265,386 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-carbon-brief-2026-11-12-miliband-qa",
+    "section": "action",
+    "score": 0.72,
+    "lead": {
+     "id": "carbon-brief-2026-11-12-miliband-qa",
+     "title": "COP31: How Ed Miliband answered Carbon Brief readers' questions",
+     "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
+     "publisher": "Carbon Brief",
+     "author": "Simon Evans",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Mitigação e MWP"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Entrevista na COP31 em que Ed Miliband responde a perguntas de leitores: defende que o Reino Unido segue líder climático apesar das críticas à aprovação do campo de gás Jackdaw, promete \"ir até o fim\" para cumprir a NDC de 2030 e apoia o compromisso 35x35 de eletrificação.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 interview in which Ed Miliband answers reader questions: he argues the UK remains a climate leader despite criticism over the Jackdaw gas field approval, vows to \"go all out\" to meet its 2030 NDC and backs the 35x35 electrification pledge.",
+      "es": "Entrevista en la COP31 en la que Ed Miliband responde a preguntas de los lectores: sostiene que el Reino Unido sigue siendo líder climático pese a las críticas por la aprobación del yacimiento de gas Jackdaw, promete «hacer todo lo posible» por cumplir su NDC de 2030 y respalda el compromiso de electrificación 35x35.",
+      "fr": "Entretien à la COP31 où Ed Miliband répond aux questions des lecteurs : il affirme que le Royaume-Uni reste un chef de file climatique malgré les critiques sur l'approbation du champ gazier Jackdaw, promet de « tout faire » pour atteindre sa NDC 2030 et soutient l'engagement d'électrification 35x35.",
+      "ru": "Интервью на COP31, в котором Эд Милибэнд отвечает на вопросы читателей: он утверждает, что Соединённое Королевство остаётся климатическим лидером, несмотря на критику одобрения газового месторождения Jackdaw, обещает «сделать всё возможное» для выполнения НОУ на 2030 год и поддерживает обязательство по электрификации…",
+      "zh": "COP31期间的访谈，埃德·米利班德（Ed Miliband）回答读者提问：他称尽管Jackdaw气田获批受到批评，英国仍是气候领导者，承诺“全力”实现2030年国家自主贡献，并支持35x35电气化承诺。文章指出，英国政府在约三小时后确认了对该承诺的支持。",
+      "ar": "مقابلة في COP31 يجيب فيها إد ميليباند عن أسئلة القراء: يرى أن المملكة المتحدة لا تزال رائدة مناخياً رغم الانتقادات بشأن الموافقة على حقل Jackdaw للغاز، ويتعهد ببذل \"أقصى الجهود\" لتحقيق مساهمتها المحددة وطنياً لعام 2030، ويؤيد تعهد التكهرب 35x35."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Carbon Brief"
+    ]
+   },
+   {
+    "id": "st-v20-cvf-2026-11-12-arise",
+    "section": "negotiations",
+    "score": 0.51,
+    "lead": {
+     "id": "v20-cvf-2026-11-12-arise",
+     "title": "CVF-V20 Urges Scale-Up as ARISE Names First Countries",
+     "url": "https://cvfv20.org/cvf-v20-urges-scale-up-as-arise-names-first-countries/",
+     "publisher": "V20 / CVF",
+     "author": "CVF-V20",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "O CVF-V20 pede a ampliação da iniciativa ARISE depois que os primeiros países foram anunciados. A listagem mostra só o título, então o resumo se limita a esse apelo de escala por parte dos países vulneráveis ao clima.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The CVF-V20 calls for scaling up the ARISE initiative now that its first countries have been named. The listing shows only the title, so the summary is limited to this call for scale from climate-vulnerable countries.",
+      "es": "El CVF-V20 pide ampliar la iniciativa ARISE ahora que se han nombrado los primeros países. El listado solo muestra el título, por lo que el resumen se limita a este llamamiento a ampliar la escala por parte de los países vulnerables al clima.",
+      "fr": "Le CVF-V20 appelle à étendre l'initiative ARISE maintenant que les premiers pays ont été désignés. La liste n'affiche que le titre ; le résumé se limite donc à cet appel à changer d'échelle émanant des pays vulnérables au climat.",
+      "ru": "CVF-V20 призывает расширить инициативу ARISE теперь, когда названы первые страны. В списке виден только заголовок, поэтому резюме ограничено этим призывом к масштабированию со стороны климатически уязвимых стран.",
+      "zh": "CVF-V20呼吁在ARISE倡议公布首批国家后扩大其规模。列表仅显示标题，因此摘要仅限于气候脆弱国家提出的这一扩容呼吁。",
+      "ar": "يدعو CVF-V20 إلى توسيع نطاق مبادرة ARISE بعد الإعلان عن أولى الدول المشاركة فيها. تعرض القائمة العنوان فقط، لذا يقتصر الملخص على هذه الدعوة إلى التوسع من جانب البلدان المعرضة للمناخ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "V20 / CVF"
+    ]
+   },
+   {
+    "id": "st-wmo-2026-11-12-escalating-hazards",
+    "section": "negotiations",
+    "score": 0.51,
+    "lead": {
+     "id": "wmo-2026-11-12-escalating-hazards",
+     "title": "Escalating hazards demand escalated action",
+     "url": "https://wmo.int/media/news/escalating-hazards-demand-escalated-action",
+     "publisher": "WMO",
+     "author": "WMO",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Perdas e danos"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A OMM publicou matéria sobre a escalada de eventos extremos e a necessidade de ação reforçada, ilustrada com a participação de António Guterres em sessão da COP31. A listagem traz só título e legenda. Relevante para adaptação, alertas precoces e perdas e danos.",
+     "collected_at": "2026-11-13T00:13:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "WMO published a news item on escalating hazards and the need for stronger action, illustrated with António Guterres at a COP31 session. The listing carries only the title and caption.",
+      "es": "La OMM publicó una nota sobre la escalada de los peligros y la necesidad de una acción reforzada, ilustrada con la participación de António Guterres en una sesión de la COP31. El listado solo incluye título y pie de foto. Pertinente para adaptación, alertas tempranas y pérdidas y daños.",
+      "fr": "L'OMM a publié un article sur l'escalade des aléas et la nécessité d'une action renforcée, illustré par la présence d'António Guterres à une session de la COP31. La liste ne contient que le titre et la légende. Pertinent pour l'adaptation, les alertes précoces et les pertes et préjudices.",
+      "ru": "ВМО опубликовала материал о нарастании опасных явлений и необходимости усиления действий; иллюстрация — Антониу Гутерриш на сессии COP31. В списке указаны только заголовок и подпись. Актуально для адаптации, раннего оповещения и потерь и ущерба.",
+      "zh": "世界气象组织（WMO）发布了一篇关于灾害加剧、需要加大行动力度的新闻，配图为联合国秘书长安东尼奥·古特雷斯出席COP31会议。列表仅有标题和图片说明。与适应、早期预警及损失与损害相关。",
+      "ar": "نشرت المنظمة العالمية للأرصاد الجوية خبراً عن تصاعد المخاطر والحاجة إلى تعزيز العمل، مصحوباً بصورة لأنطونيو غوتيريش في إحدى جلسات COP31. تقتصر القائمة على العنوان وتعليق الصورة. ويتصل ذلك بالتكيف والإنذار المبكر والخسائر والأضرار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WMO"
+    ]
+   }
+  ],
+  "negotiations": [
+   {
+    "id": "st-climate-home-news-2026-11-12-bulletin-day-4",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "climate-home-news-2026-11-12-bulletin-day-4",
+     "title": "COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision",
+     "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do dia 4: Rússia, Arábia Saudita e o grupo LMDC questionam a legitimidade do processo australiano para uma decisão de cobertura da COP31. Apoiadores, entre eles pequenos estados insulares e europeus, querem linguagem forte sobre overshoot, metano, florestas, finanças e perdas e danos.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Day 4 bulletin: Russia, Saudi Arabia and the Like-Minded Developing Countries question the legitimacy of Australia's process for a COP31 cover decision. Supporters, including small island and European states, want strong language on overshoot, methane, forests, finance and loss and damage.",
+      "es": "Boletín del día 4: Rusia, Arabia Saudita y el grupo de Países en Desarrollo de Ideas Afines cuestionan la legitimidad del proceso de Australia para una decisión de cobertura de la COP31.",
+      "fr": "Bulletin du jour 4 : la Russie, l'Arabie saoudite et le groupe des pays en développement qui partagent la même position contestent la légitimité du processus australien pour une décision de couverture de la COP31.",
+      "ru": "Бюллетень четвёртого дня: Россия, Саудовская Аравия и группа Единомышленников-развивающихся стран ставят под сомнение легитимность австралийского процесса подготовки общего решения COP31.",
+      "zh": "第4天简报：俄罗斯、沙特阿拉伯和立场相近发展中国家集团质疑澳大利亚推动COP31总括决定的程序是否正当。包括小岛屿国家和欧洲国家在内的支持方希望在温控超调、甲烷、森林、资金以及损失与损害方面写入有力措辞。文中引用了E3G的Cosima Cassel关于程序透明度的发言。",
+      "ar": "نشرة اليوم الرابع: تشكك روسيا والمملكة العربية السعودية ومجموعة البلدان النامية المتقاربة التفكير في شرعية العملية التي تقودها أستراليا للتوصل إلى قرار شامل لـ COP31. ويريد المؤيدون، ومنهم دول جزرية صغيرة ودول أوروبية، صياغة قوية بشأن التجاوز والميثان والغابات والتمويل والخسائر والأضرار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-13-trade-cooperation",
+    "section": "negotiations",
+    "score": 0.765,
+    "lead": {
+     "id": "climate-home-news-2026-11-13-trade-cooperation",
+     "title": "We must strengthen trade cooperation to deliver on global climate goals",
+     "url": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
+     "publisher": "Climate Home News",
+     "author": "Coalition of Trade Ministers on Climate (eight signatories incl. EU, UK, Norway, Singapore)",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Comércio"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Artigo de opinião assinado por ministros da Coalizão de Ministros do Comércio sobre Clima, que defendem usar a política comercial para apoiar a descarbonização e a resiliência climática e reduzir a fragmentação de medidas comerciais ligadas ao clima.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Opinion piece by ministers of the Coalition of Trade Ministers on Climate, urging the use of trade policy to support decarbonisation and climate resilience and to reduce fragmentation of trade-related climate measures. Published during COP31, it speaks to the trade agenda in the negotiations.",
+      "es": "Artículo de opinión firmado por ministros de la Coalición de Ministros de Comercio sobre el Clima, que abogan por usar la política comercial para apoyar la descarbonización y la resiliencia climática y reducir la fragmentación de las medidas comerciales relacionadas con el clima.",
+      "fr": "Tribune de ministres de la Coalition des ministres du commerce sur le climat, qui plaident pour l'utilisation de la politique commerciale au service de la décarbonation et de la résilience climatique et pour une moindre fragmentation des mesures commerciales liées au climat.",
+      "ru": "Статья министров Коалиции министров торговли по вопросам климата с призывом использовать торговую политику для поддержки декарбонизации и климатической устойчивости и сократить фрагментацию связанных с климатом торговых мер. Опубликована в ходе COP31 и касается торговой повестки переговоров.",
+      "zh": "气候问题贸易部长联盟（Coalition of Trade Ministers on Climate）部长们撰文，呼吁运用贸易政策支持脱碳和气候韧性，并减少与气候相关的贸易措施的碎片化。文章在COP31期间发表，涉及谈判中的贸易议题。",
+      "ar": "مقال رأي لوزراء ائتلاف وزراء التجارة المعني بالمناخ يدعون فيه إلى استخدام السياسة التجارية لدعم إزالة الكربون والقدرة على الصمود أمام تغير المناخ والحد من تجزئة التدابير التجارية المتصلة بالمناخ. نُشر أثناء COP31 ويتصل بجدول أعمال التجارة في المفاوضات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-12-pacific-fund",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "climate-home-news-2026-11-12-pacific-fund",
+     "title": "Pacific leaves empty handed from COP31 \"pledging event\" for new fund",
+     "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
+     "publisher": "Climate Home News",
+     "author": "Sebastian Rodriguez",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Perdas e danos"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Reportagem sobre o evento de anúncio de contribuições ao Pacific Resilience Facility na COP31: nenhum recurso novo foi prometido e países desenvolvidos reapresentaram compromissos antigos. O fundo continua abaixo da meta de US$ 500 milhões para 2026, com a Minderoo Foundation como única nova contribuinte.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Report on the Pacific Resilience Facility pledging event at COP31: no new money was pledged and developed countries re-announced old commitments. The fund remains short of its US$500 million target for 2026, with the Minderoo Foundation the only new contributor.",
+      "es": "Reportaje sobre el evento de anuncio de contribuciones al Pacific Resilience Facility en la COP31: no se prometieron recursos nuevos y los países desarrollados reiteraron compromisos antiguos.",
+      "fr": "Reportage sur l'événement d'annonce de contributions au Pacific Resilience Facility à la COP31 : aucun fonds nouveau n'a été promis et les pays développés ont réannoncé d'anciens engagements.",
+      "ru": "Репортаж о мероприятии по объявлению взносов в Pacific Resilience Facility на COP31: новых средств обещано не было, развитые страны повторно объявили прежние обязательства. Фонд по-прежнему не дотягивает до цели в 500 млн долларов США на 2026 год, единственным новым донором стал Minderoo Foundation.",
+      "zh": "报道COP31期间太平洋韧性基金（Pacific Resilience Facility）认捐活动：未有新资金承诺，发达国家重申旧有承诺。该基金距2026年5亿美元目标仍有差距，Minderoo Foundation是唯一新出资方。涉及资金、适应以及损失与损害议题。",
+      "ar": "تقرير عن فعالية إعلان التعهدات لمرفق المرونة في المحيط الهادئ (Pacific Resilience Facility) في COP31: لم تُعلن أموال جديدة وأعادت البلدان المتقدمة الإعلان عن التزامات قديمة. ولا يزال الصندوق دون هدفه البالغ 500 مليون دولار لعام 2026، وكانت Minderoo Foundation المساهم الجديد الوحيد."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-12-stiell-super-pollutants-methane",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "unfccc-2026-11-12-stiell-super-pollutants-methane",
+     "title": "\"Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" - UN Climate Chief at COP31 today",
+     "url": "https://unfccc.int/news/super-pollutants-are-a-supersize-opportunity-methane-cuts-provide-rapid-results-un-climate-chief-at",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Em discurso na COP31, Simon Stiell, secretário-executivo do UNFCCC, defendeu que cortar os superpoluentes, em especial o metano, traz resultados rápidos. A listagem traz só o título e a chamada do discurso.",
+     "collected_at": "2026-11-13T00:13:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "In a speech at COP31, Simon Stiell, UNFCCC Executive Secretary, argued that cutting super pollutants, especially methane, delivers rapid results. The listing carries only the title and headline of the speech.",
+      "es": "En un discurso en la COP31, Simon Stiell, Secretario Ejecutivo de la CMNUCC, sostuvo que reducir los supercontaminantes, en especial el metano, produce resultados rápidos. El listado solo incluye el título y el titular del discurso.",
+      "fr": "Dans un discours à la COP31, Simon Stiell, Secrétaire exécutif de la CCNUCC, a soutenu que réduire les superpolluants, en particulier le méthane, donne des résultats rapides. La liste ne contient que le titre et l'intitulé du discours.",
+      "ru": "В выступлении на COP31 Исполнительный секретарь РКИК ООН Саймон Стилл заявил, что сокращение сверхзагрязнителей, прежде всего метана, даёт быстрые результаты. В списке указаны лишь заголовок и анонс выступления.",
+      "zh": "在COP31的讲话中，《公约》执行秘书西蒙·斯蒂尔（Simon Stiell）指出，削减超级污染物（尤其是甲烷）能迅速见效。列表仅显示讲话的标题和导语。与减缓议题（MWP）以及领导人峰会活动中关于甲烷和废弃物的讨论相关。",
+      "ar": "قال سايمون ستيل، الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، في كلمة ألقاها في مؤتمر COP31 إن خفض الملوثات الفائقة، ولا سيما الميثان، يحقق نتائج سريعة. تقتصر القائمة على عنوان الكلمة ومقدمتها. ويتصل ذلك بمسار التخفيف (MWP) وبالنقاش حول الميثان والنفايات في فعاليات قمة القادة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261113-pavilhao-financas-comercio",
+    "section": "negotiations",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261113-pavilhao-financas-comercio",
+     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Finance and Trade! Pavilion B125, Friday 13 November, 10:00–18:00;…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfrBHXdDahU/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-13",
+     "time": "03:45",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Comércio",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A presidência da COP31 anuncia a programação do Pavilhão da Türkiye (B125, Blue Zone) para o Dia de Finanças e Comércio, das 10h às 18h, com finanças sustentáveis, investimentos na transição verde, diplomacia climática e políticas de comércio.",
+     "collected_at": "2026-11-13T06:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency announces the Türkiye Pavilion programme (B125, Blue Zone) for Finance and Trade Day, 10:00–18:00, covering sustainable finance, green transition investment, climate diplomacy and trade policy.",
+      "es": "La Presidencia de la COP31 anuncia el programa del Pabellón de Türkiye (B125, Zona Azul) para el Día de Finanzas y Comercio, de 10:00 a 18:00, con finanzas sostenibles, inversión en la transición verde, diplomacia climática y políticas comerciales.",
+      "fr": "La présidence de la COP31 annonce le programme du Pavillon de la Türkiye (B125, Zone bleue) pour la journée Finance et commerce, de 10 h à 18 h : finance durable, investissements dans la transition verte, diplomatie climatique et politiques commerciales.",
+      "ru": "Президентство КС-31 объявляет программу павильона Турции (B125, Синяя зона) ко Дню финансов и торговли, 10:00–18:00: устойчивое финансирование, инвестиции в зелёный переход, климатическая дипломатия и торговая политика.",
+      "zh": "COP31主席团公布土耳其馆（蓝区B125）“金融与贸易日”的活动安排，时间为10:00至18:00，涵盖可持续金融、绿色转型投资、气候外交和贸易政策。",
+      "ar": "تعلن رئاسة COP31 برنامج جناح تركيا (B125، المنطقة الزرقاء) ليوم التمويل والتجارة من الساعة 10:00 إلى 18:00، ويشمل التمويل المستدام واستثمارات التحول الأخضر والدبلوماسية المناخية والسياسات التجارية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "instagram-turkiyecop31-20261112-pavilhao-cidades",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Resilient Cities and Built Environment! 🏙️🌍 The Türkiye Pavilion…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/Dfob2xBjIs0/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-12",
+      "time": "03:40",
+      "language": "en",
+      "tracks": [
+       "Adaptação",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "O Pavilhão da Türkiye (B125, Blue Zone) dedica o dia 12 de novembro ao tema 'Cidades Resilientes e Ambiente Construído', com programação das 10h às 18h sobre planejamento urbano resiliente, construção sustentável e soluções de adaptação.",
+      "collected_at": "2026-11-12T03:55:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The Türkiye Pavilion (B125, Blue Zone) devotes 12 November to the theme 'Resilient Cities and Built Environment', with a programme from 10:00 to 18:00 on climate-resilient urban planning, sustainable construction and adaptation solutions.",
+       "es": "El Pabellón de Turquía (B125, Zona Azul) dedica el 12 de noviembre al tema 'Ciudades resilientes y entorno construido', con un programa de 10:00 a 18:00 sobre planificación urbana resiliente, construcción sostenible y soluciones de adaptación.",
+       "fr": "Le pavillon de la Turquie (B125, Zone bleue) consacre le 12 novembre au thème « Villes résilientes et environnement bâti », avec un programme de 10 h à 18 h sur l'urbanisme résilient, la construction durable et les solutions d'adaptation.",
+       "ru": "Павильон Турции (B125, Голубая зона) посвящает 12 ноября теме «Устойчивые города и застроенная среда»: программа с 10:00 до 18:00 охватывает устойчивое к изменению климата городское планирование, экологичное строительство и решения по адаптации.",
+       "zh": "土耳其馆（蓝区B125）11月12日以“韧性城市与建成环境”为主题，10:00至18:00的活动涵盖气候韧性城市规划、可持续建筑和适应解决方案。",
+       "ar": "يخصص جناح تركيا (B125، المنطقة الزرقاء) يوم 12 نوفمبر لموضوع «المدن القادرة على الصمود والبيئة المبنية»، ببرنامج من 10:00 إلى 18:00 يشمل التخطيط الحضري القادر على التكيف مع المناخ والبناء المستدام وحلول التكيف."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DflzlHIDVTg/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-11",
+      "time": "03:10",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
+      "collected_at": "2026-11-11T03:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
+       "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
+       "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
+       "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
+       "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
+       "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
+      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
+      "title_is_post": true,
+      "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
+      "publisher": "Presidência da COP31 (Türkiye)",
+      "published": "2026-11-10",
+      "time": "04:11",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Eletrificação"
+      ],
+      "content_type": "official",
+      "kind": "post",
+      "platform": "instagram",
+      "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
+      "collected_at": "2026-11-10T04:47:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
+       "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
+       "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
+       "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
+       "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
+       "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
     ]
    },
    {
@@ -297,189 +746,6 @@
     ]
    },
    {
-    "id": "st-wmo-2026-11-12-escalating-hazards",
-    "section": "negotiations",
-    "score": 0.51,
-    "lead": {
-     "id": "wmo-2026-11-12-escalating-hazards",
-     "title": "Escalating hazards demand escalated action",
-     "url": "https://wmo.int/media/news/escalating-hazards-demand-escalated-action",
-     "publisher": "WMO",
-     "author": "WMO",
-     "published": "2026-11-12",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Perdas e danos"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A OMM publicou matéria sobre a escalada de eventos extremos e a necessidade de ação reforçada, ilustrada com a participação de António Guterres em sessão da COP31. A listagem traz só título e legenda. Relevante para adaptação, alertas precoces e perdas e danos.",
-     "collected_at": "2026-11-13T00:13:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "WMO published a news item on escalating hazards and the need for stronger action, illustrated with António Guterres at a COP31 session. The listing carries only the title and caption.",
-      "es": "La OMM publicó una nota sobre la escalada de los peligros y la necesidad de una acción reforzada, ilustrada con la participación de António Guterres en una sesión de la COP31. El listado solo incluye título y pie de foto. Pertinente para adaptación, alertas tempranas y pérdidas y daños.",
-      "fr": "L'OMM a publié un article sur l'escalade des aléas et la nécessité d'une action renforcée, illustré par la présence d'António Guterres à une session de la COP31. La liste ne contient que le titre et la légende. Pertinent pour l'adaptation, les alertes précoces et les pertes et préjudices.",
-      "ru": "ВМО опубликовала материал о нарастании опасных явлений и необходимости усиления действий; иллюстрация — Антониу Гутерриш на сессии COP31. В списке указаны только заголовок и подпись. Актуально для адаптации, раннего оповещения и потерь и ущерба.",
-      "zh": "世界气象组织（WMO）发布了一篇关于灾害加剧、需要加大行动力度的新闻，配图为联合国秘书长安东尼奥·古特雷斯出席COP31会议。列表仅有标题和图片说明。与适应、早期预警及损失与损害相关。",
-      "ar": "نشرت المنظمة العالمية للأرصاد الجوية خبراً عن تصاعد المخاطر والحاجة إلى تعزيز العمل، مصحوباً بصورة لأنطونيو غوتيريش في إحدى جلسات COP31. تقتصر القائمة على العنوان وتعليق الصورة. ويتصل ذلك بالتكيف والإنذار المبكر والخسائر والأضرار."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "WMO"
-    ]
-   },
-   {
-    "id": "st-climatehome-2026-11-11-turkiye-zero-waste",
-    "section": "action",
-    "score": 0.5,
-    "lead": {
-     "id": "climatehome-2026-11-11-turkiye-zero-waste",
-     "title": "Türkiye pushes \"zero waste\" at COP31, but is it delivering at home?",
-     "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
-     "publisher": "Climate Home News",
-     "author": "Joe Lo",
-     "published": "2026-11-11",
-     "language": "en",
-     "tracks": [
-      "Presidência e anfitrião",
-      "Mitigação e MWP"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "A Climate Home News contrasta a agenda internacional de \"resíduo zero\" da Türkiye, liderada pela primeira-dama Emine Erdoğan, com a realidade doméstica: a geração de resíduos per capita não mudou desde 2010, aterros emitem metano e a lei de plásticos descartáveis está parada.",
-     "collected_at": "2026-11-12T06:30:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Climate Home News contrasts Türkiye's international \"zero waste\" agenda, led by First Lady Emine Erdoğan, with the domestic picture: per-person waste generation has not changed since 2010, landfills leak methane and single-use plastics legislation is stalled.",
-      "es": "Climate Home News contrasta la agenda internacional de \"residuo cero\" de Türkiye, encabezada por la primera dama Emine Erdoğan, con la situación interna: la generación de residuos per cápita no ha cambiado desde 2010, los vertederos emiten metano y la ley sobre plásticos de un solo uso está estancada.",
-      "fr": "Climate Home News met en regard l'agenda internationale « zéro déchet » de la Türkiye, portée par la Première dame Emine Erdoğan, et la situation intérieure : la production de déchets par habitant n'a pas changé depuis 2010, les décharges émettent du méthane et la législation sur les plastiques à usage unique est…",
-      "ru": "Climate Home News сопоставляет международную повестку Турции «ноль отходов», которую возглавляет первая леди Эмине Эрдоган, с внутренней ситуацией: объём отходов на душу населения не менялся с 2010 года, свалки выделяют метан, а закон об одноразовом пластике застопорился.",
-      "zh": "Climate Home News 将土耳其由第一夫人埃米内·埃尔多安牵头的国际“零废弃”议程与国内现实作了对比：人均废弃物产生量自2010年以来基本未变，垃圾填埋场泄漏甲烷，一次性塑料立法陷入停滞。该分析估计，填埋场甲烷造成的危害相当于7.3万辆汽油车。这关系到东道国的可信度和甲烷议程。",
-      "ar": "تقارن Climate Home News بين أجندة «صفر نفايات» الدولية لتركيا، التي تقودها السيدة الأولى أمينة أردوغان، والواقع المحلي: فمعدل توليد النفايات للفرد لم يتغير منذ عام 2010، وتتسرب الميثان من مكبات النفايات، وتشريع البلاستيك أحادي الاستخدام متعثر. وتقدّر أن ميثان المكبات يضر بقدر 73 ألف سيارة بنزين."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-climate-action-tracker-2026-11-12-warming-projections",
-    "section": "negotiations",
-    "score": 0.459,
-    "lead": {
-     "id": "climate-action-tracker-2026-11-12-warming-projections",
-     "title": "Without rapid action, the world is heading to irrecoverable overshoot",
-     "url": "https://climateactiontracker.org/publications/warming-projections-global-update-2026/",
-     "publisher": "Climate Action Tracker",
-     "author": "Climate Action Tracker (NewClimate Institute e Climate Analytics)",
-     "published": "2026-11-12",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP",
-      "GST2 e IPCC"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "O Climate Action Tracker publica a atualização global de projeções de aquecimento de 2026, segundo a qual o mundo caminha para um estouro irreversível do limite de 1,5 °C se o corte de emissões não acelerar.",
-     "collected_at": "2026-11-12T12:40:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The Climate Action Tracker publishes its 2026 global warming projections update, which finds the world is heading for an irreversible overshoot of 1.5°C unless emissions cuts speed up. Combined climate action has stalled for five years, and current policies point to about 2.7°C of warming.",
-      "es": "El Climate Action Tracker publica su actualización global de proyecciones de calentamiento de 2026, según la cual el mundo se encamina hacia un rebasamiento irreversible de 1,5 °C si no se aceleran los recortes de emisiones.",
-      "fr": "Le Climate Action Tracker publie sa mise à jour mondiale 2026 des projections de réchauffement, selon laquelle le monde se dirige vers un dépassement irréversible de 1,5 °C si les réductions d'émissions ne s'accélèrent pas.",
-      "ru": "Climate Action Tracker опубликовал глобальное обновление прогнозов потепления на 2026 год: мир движется к необратимому превышению 1,5 °C, если сокращение выбросов не ускорится. Совокупные климатические действия стагнируют уже пять лет, а текущая политика ведёт к потеплению примерно на 2,7 °C.",
-      "zh": "气候行动追踪组织（Climate Action Tracker）发布了2026年全球变暖预测更新，指出若减排不加速，世界将不可逆地超过1.5°C温控目标。各方合力的气候行动已停滞五年，现行政策指向约2.7°C的升温。该报告涉及减缓与MWP以及GST2与IPCC议题。",
-      "ar": "نشرت Climate Action Tracker تحديثها العالمي لعام 2026 لتوقعات الاحترار، ويفيد بأن العالم يتجه نحو تجاوز لا رجعة فيه لحد 1.5 درجة مئوية ما لم يتسارع خفض الانبعاثات. وقد ركد العمل المناخي المشترك طوال خمس سنوات، وتشير السياسات الحالية إلى احترار يبلغ نحو 2.7 درجة مئوية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Action Tracker"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
-    "section": "action",
-    "score": 0.44,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
-     "title": "enb.iisd.org: #COP31 In the face of rapidly increasing energy demands by data centers, experts urged changes in technologies,…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n25glllstc2z",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-12",
-     "time": "18:38",
-     "language": "en",
-     "tracks": [
-      "Eletrificação",
-      "Mitigação e MWP"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que, na COP31, especialistas pediram mudanças em tecnologias, políticas e capacidades para ganhar eficiência energética em data centers diante da demanda crescente e para que a IA beneficie pessoas e planeta.",
-     "collected_at": "2026-11-12T18:45:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that at COP31 experts urged changes in technologies, policies and skills to improve energy efficiency in data centres amid rapidly rising demand, so that AI can benefit people and the planet.",
-      "es": "El ENB informa de que, en la COP31, expertos instaron a cambiar tecnologías, políticas y capacidades para mejorar la eficiencia energética de los centros de datos ante una demanda creciente y para que la IA beneficie a las personas y al planeta.",
-      "fr": "L'ENB rapporte qu'à la COP31, des experts ont appelé à modifier les technologies, les politiques et les compétences pour améliorer l'efficacité énergétique des centres de données face à une demande croissante, afin que l'IA profite aux personnes et à la planète.",
-      "ru": "ENB сообщает, что на КС-31 эксперты призвали изменить технологии, политику и навыки для повышения энергоэффективности центров обработки данных на фоне быстрого роста спроса, чтобы ИИ приносил пользу людям и планете.",
-      "zh": "ENB报道，在COP31上，专家呼吁在数据中心能源需求快速增长的背景下，改进技术、政策和技能以提高能效，使人工智能造福人类和地球。",
-      "ar": "تفيد نشرة ENB بأن خبراء حثّوا في مؤتمر الأطراف الحادي والثلاثين على تغيير التقنيات والسياسات والمهارات لتحقيق مكاسب في كفاءة الطاقة في مراكز البيانات في ظل الطلب المتزايد بسرعة، بما يتيح استخدام الذكاء الاصطناعي لخدمة الناس والكوكب."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   }
-  ],
-  "negotiations": [
-   {
-    "id": "st-unfccc-2026-11-12-stiell-super-pollutants-methane",
-    "section": "negotiations",
-    "score": 0.68,
-    "lead": {
-     "id": "unfccc-2026-11-12-stiell-super-pollutants-methane",
-     "title": "\"Super pollutants are a supersize opportunity ... methane cuts provide rapid results\" - UN Climate Chief at COP31 today",
-     "url": "https://unfccc.int/news/super-pollutants-are-a-supersize-opportunity-methane-cuts-provide-rapid-results-un-climate-chief-at",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "Simon Stiell",
-     "published": "2026-11-12",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Em discurso na COP31, Simon Stiell, secretário-executivo do UNFCCC, defendeu que cortar os superpoluentes, em especial o metano, traz resultados rápidos. A listagem traz só o título e a chamada do discurso.",
-     "collected_at": "2026-11-13T00:13:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "In a speech at COP31, Simon Stiell, UNFCCC Executive Secretary, argued that cutting super pollutants, especially methane, delivers rapid results. The listing carries only the title and headline of the speech.",
-      "es": "En un discurso en la COP31, Simon Stiell, Secretario Ejecutivo de la CMNUCC, sostuvo que reducir los supercontaminantes, en especial el metano, produce resultados rápidos. El listado solo incluye el título y el titular del discurso.",
-      "fr": "Dans un discours à la COP31, Simon Stiell, Secrétaire exécutif de la CCNUCC, a soutenu que réduire les superpolluants, en particulier le méthane, donne des résultats rapides. La liste ne contient que le titre et l'intitulé du discours.",
-      "ru": "В выступлении на COP31 Исполнительный секретарь РКИК ООН Саймон Стилл заявил, что сокращение сверхзагрязнителей, прежде всего метана, даёт быстрые результаты. В списке указаны лишь заголовок и анонс выступления.",
-      "zh": "在COP31的讲话中，《公约》执行秘书西蒙·斯蒂尔（Simon Stiell）指出，削减超级污染物（尤其是甲烷）能迅速见效。列表仅显示讲话的标题和导语。与减缓议题（MWP）以及领导人峰会活动中关于甲烷和废弃物的讨论相关。",
-      "ar": "قال سايمون ستيل، الأمين التنفيذي لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، في كلمة ألقاها في مؤتمر COP31 إن خفض الملوثات الفائقة، ولا سيما الميثان، يحقق نتائج سريعة. تقتصر القائمة على عنوان الكلمة ومقدمتها. ويتصل ذلك بمسار التخفيف (MWP) وبالنقاش حول الميثان والنفايات في فعاليات قمة القادة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
     "id": "st-unfccc-2026-11-11-guterres-zero-waste",
     "section": "negotiations",
     "score": 0.5,
@@ -577,6 +843,42 @@
     "related": [],
     "publishers": [
      "UNFCCC"
+    ]
+   },
+   {
+    "id": "st-climate-action-tracker-2026-11-12-warming-projections",
+    "section": "negotiations",
+    "score": 0.459,
+    "lead": {
+     "id": "climate-action-tracker-2026-11-12-warming-projections",
+     "title": "Without rapid action, the world is heading to irrecoverable overshoot",
+     "url": "https://climateactiontracker.org/publications/warming-projections-global-update-2026/",
+     "publisher": "Climate Action Tracker",
+     "author": "Climate Action Tracker (NewClimate Institute e Climate Analytics)",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "GST2 e IPCC"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O Climate Action Tracker publica a atualização global de projeções de aquecimento de 2026, segundo a qual o mundo caminha para um estouro irreversível do limite de 1,5 °C se o corte de emissões não acelerar.",
+     "collected_at": "2026-11-12T12:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Climate Action Tracker publishes its 2026 global warming projections update, which finds the world is heading for an irreversible overshoot of 1.5°C unless emissions cuts speed up. Combined climate action has stalled for five years, and current policies point to about 2.7°C of warming.",
+      "es": "El Climate Action Tracker publica su actualización global de proyecciones de calentamiento de 2026, según la cual el mundo se encamina hacia un rebasamiento irreversible de 1,5 °C si no se aceleran los recortes de emisiones.",
+      "fr": "Le Climate Action Tracker publie sa mise à jour mondiale 2026 des projections de réchauffement, selon laquelle le monde se dirige vers un dépassement irréversible de 1,5 °C si les réductions d'émissions ne s'accélèrent pas.",
+      "ru": "Climate Action Tracker опубликовал глобальное обновление прогнозов потепления на 2026 год: мир движется к необратимому превышению 1,5 °C, если сокращение выбросов не ускорится. Совокупные климатические действия стагнируют уже пять лет, а текущая политика ведёт к потеплению примерно на 2,7 °C.",
+      "zh": "气候行动追踪组织（Climate Action Tracker）发布了2026年全球变暖预测更新，指出若减排不加速，世界将不可逆地超过1.5°C温控目标。各方合力的气候行动已停滞五年，现行政策指向约2.7°C的升温。该报告涉及减缓与MWP以及GST2与IPCC议题。",
+      "ar": "نشرت Climate Action Tracker تحديثها العالمي لعام 2026 لتوقعات الاحترار، ويفيد بأن العالم يتجه نحو تجاوز لا رجعة فيه لحد 1.5 درجة مئوية ما لم يتسارع خفض الانبعاثات. وقد ركد العمل المناخي المشترك طوال خمس سنوات، وتشير السياسات الحالية إلى احترار يبلغ نحو 2.7 درجة مئوية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Action Tracker"
     ]
    },
    {
@@ -689,103 +991,6 @@
      "description_i18n_method": "machine"
     },
     "related": [],
-    "publishers": [
-     "Presidência da COP31 (Türkiye)"
-    ]
-   },
-   {
-    "id": "st-instagram-turkiyecop31-20261112-pavilhao-cidades",
-    "section": "negotiations",
-    "score": 0.44,
-    "lead": {
-     "id": "instagram-turkiyecop31-20261112-pavilhao-cidades",
-     "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Resilient Cities and Built Environment! 🏙️🌍 The Türkiye Pavilion…",
-     "title_is_post": true,
-     "url": "https://www.instagram.com/p/Dfob2xBjIs0/",
-     "publisher": "Presidência da COP31 (Türkiye)",
-     "published": "2026-11-12",
-     "time": "03:40",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "instagram",
-     "description": "O Pavilhão da Türkiye (B125, Blue Zone) dedica o dia 12 de novembro ao tema 'Cidades Resilientes e Ambiente Construído', com programação das 10h às 18h sobre planejamento urbano resiliente, construção sustentável e soluções de adaptação.",
-     "collected_at": "2026-11-12T03:55:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The Türkiye Pavilion (B125, Blue Zone) devotes 12 November to the theme 'Resilient Cities and Built Environment', with a programme from 10:00 to 18:00 on climate-resilient urban planning, sustainable construction and adaptation solutions.",
-      "es": "El Pabellón de Turquía (B125, Zona Azul) dedica el 12 de noviembre al tema 'Ciudades resilientes y entorno construido', con un programa de 10:00 a 18:00 sobre planificación urbana resiliente, construcción sostenible y soluciones de adaptación.",
-      "fr": "Le pavillon de la Turquie (B125, Zone bleue) consacre le 12 novembre au thème « Villes résilientes et environnement bâti », avec un programme de 10 h à 18 h sur l'urbanisme résilient, la construction durable et les solutions d'adaptation.",
-      "ru": "Павильон Турции (B125, Голубая зона) посвящает 12 ноября теме «Устойчивые города и застроенная среда»: программа с 10:00 до 18:00 охватывает устойчивое к изменению климата городское планирование, экологичное строительство и решения по адаптации.",
-      "zh": "土耳其馆（蓝区B125）11月12日以“韧性城市与建成环境”为主题，10:00至18:00的活动涵盖气候韧性城市规划、可持续建筑和适应解决方案。",
-      "ar": "يخصص جناح تركيا (B125، المنطقة الزرقاء) يوم 12 نوفمبر لموضوع «المدن القادرة على الصمود والبيئة المبنية»، ببرنامج من 10:00 إلى 18:00 يشمل التخطيط الحضري القادر على التكيف مع المناخ والبناء المستدام وحلول التكيف."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "instagram-turkiyecop31-20261111-zero-waste-pavilion",
-      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Zero Waste! The Türkiye Pavilion (B125) is hosting a comprehensive…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/DflzlHIDVTg/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-11",
-      "time": "03:10",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Agenda de Ação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "A Presidência divulga a programação de hoje no Pavilhão da Türkiye (B125, Zona Azul), dedicada a Desperdício Zero: economia circular, cadeias de valor verdes e infraestrutura sustentável, das 10h às 18h.",
-      "collected_at": "2026-11-11T03:50:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The Presidency announces today's programme at the Türkiye Pavilion (B125, Blue Zone) on Zero Waste: circular economy, green value chains and sustainable infrastructure, 10:00-18:00.",
-       "es": "La Presidencia anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul) sobre Residuo Cero: economía circular, cadenas de valor verdes e infraestructura sostenible, de 10:00 a 18:00.",
-       "fr": "La présidence annonce le programme du jour au pavillon de la Türkiye (B125, zone bleue) consacré au zéro déchet : économie circulaire, chaînes de valeur vertes et infrastructures durables, de 10 h à 18 h.",
-       "ru": "Председательство объявляет сегодняшнюю программу в павильоне Турции (B125, Синяя зона), посвящённую нулевым отходам: циркулярная экономика, зелёные цепочки создания стоимости и устойчивая инфраструктура, 10:00–18:00.",
-       "zh": "主席国公布今天在蓝区土耳其馆(B125)的“零废弃”活动安排,涵盖循环经济、绿色价值链和可持续基础设施,时间为10:00至18:00。",
-       "ar": "تعلن الرئاسة برنامج اليوم في جناح تركيا (B125، المنطقة الزرقاء) المخصص للنفايات الصفرية: الاقتصاد الدائري وسلاسل القيمة الخضراء والبنية التحتية المستدامة، من 10:00 إلى 18:00."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "instagram-turkiyecop31-20261110-pavilhao-energia-transporte",
-      "title": "@turkiyecop31: Today at the COP31 Blue Zone Türkiye Pavilion: Energy and Transport! The Türkiye Pavilion (B125) is hosting a…",
-      "title_is_post": true,
-      "url": "https://www.instagram.com/p/DfjV0XjjJH2/",
-      "publisher": "Presidência da COP31 (Türkiye)",
-      "published": "2026-11-10",
-      "time": "04:11",
-      "language": "en",
-      "tracks": [
-       "Presidência e anfitrião",
-       "Eletrificação"
-      ],
-      "content_type": "official",
-      "kind": "post",
-      "platform": "instagram",
-      "description": "A Presidência da COP31 (Türkiye) anuncia o programa de hoje no Pavilhão Türkiye (B125, Zona Azul): tecnologias de energia limpa, infraestrutura de rede, transporte de emissão zero e soluções nucleares, das 10h às 18h.",
-      "collected_at": "2026-11-10T04:47:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 Presidency (Türkiye) announces today's programme at the Türkiye Pavilion (B125, Blue Zone): clean energy technologies, grid infrastructure, zero-emission transport and nuclear solutions, 10:00–18:00.",
-       "es": "La Presidencia de la COP31 (Türkiye) anuncia el programa de hoy en el Pabellón de Türkiye (B125, Zona Azul): tecnologías de energía limpia, infraestructura de red, transporte de cero emisiones y soluciones nucleares, de 10:00 a 18:00.",
-       "fr": "La Présidence de la COP31 (Türkiye) annonce le programme du jour au Pavillon de Türkiye (B125, Zone bleue) : technologies d'énergie propre, infrastructures de réseau, transports à émissions nulles et solutions nucléaires, de 10 h à 18 h.",
-       "ru": "Президентство КС-31 (Türkiye) объявляет сегодняшнюю программу в павильоне Türkiye (B125, Синяя зона): технологии чистой энергии, сетевая инфраструктура, транспорт с нулевыми выбросами и ядерные решения, с 10:00 до 18:00.",
-       "zh": "COP31 主席国（Türkiye）公布今日 Türkiye 展馆（B125，蓝区）的活动安排：清洁能源技术、电网基础设施、零排放交通和核能解决方案，10:00–18:00。",
-       "ar": "تعلن رئاسة COP31 (Türkiye) برنامج اليوم في جناح Türkiye (B125، المنطقة الزرقاء): تقنيات الطاقة النظيفة والبنية التحتية للشبكات والنقل عديم الانبعاثات وحلول الطاقة النووية، من الساعة 10:00 إلى 18:00."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
     "publishers": [
      "Presidência da COP31 (Türkiye)"
     ]
@@ -980,6 +1185,41 @@
     "related": [],
     "publishers": [
      "UNEP"
+    ]
+   },
+   {
+    "id": "st-v20-cvf-2026-11-11-igdc-partnership",
+    "section": "negotiations",
+    "score": 0.319,
+    "lead": {
+     "id": "v20-cvf-2026-11-11-igdc-partnership",
+     "title": "CVF-V20 and IGDC Sign Five-Year Partnership to Mobilize Green Investment for Climate-Vulnerable Countries",
+     "url": "https://cvfv20.org/cvf-v20-and-igdc-sign-five-year-partnership-to-mobilize-green-investment-for-climate-vulnerable-countries/",
+     "publisher": "V20 / CVF",
+     "author": "CVF-V20",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "CVF-V20 e IGDC assinaram uma parceria de cinco anos para mobilizar investimento verde para países vulneráveis ao clima. A listagem mostra apenas o título; detalhes e valores não estão acessíveis.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The CVF-V20 and IGDC signed a five-year partnership to mobilize green investment for climate-vulnerable countries. The listing shows only the title; details and amounts are not accessible.",
+      "es": "El CVF-V20 y el IGDC firmaron una alianza de cinco años para movilizar inversión verde en favor de los países vulnerables al clima. El listado solo muestra el título; no se pueden consultar los detalles ni los montos.",
+      "fr": "Le CVF-V20 et l'IGDC ont signé un partenariat de cinq ans pour mobiliser des investissements verts en faveur des pays vulnérables au climat. La liste n'affiche que le titre ; les détails et les montants ne sont pas accessibles.",
+      "ru": "CVF-V20 и IGDC подписали пятилетнее партнёрство для мобилизации зелёных инвестиций в интересах климатически уязвимых стран. В списке виден только заголовок; подробности и суммы недоступны.",
+      "zh": "CVF-V20与IGDC签署五年期伙伴关系，为气候脆弱国家动员绿色投资。列表仅显示标题，细节和金额暂无法获取。",
+      "ar": "وقّع CVF-V20 وIGDC شراكة مدتها خمس سنوات لحشد الاستثمار الأخضر لصالح البلدان المعرضة للمناخ. تعرض القائمة العنوان فقط؛ ولا تتوفر التفاصيل والمبالغ."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "V20 / CVF"
     ]
    },
    {
@@ -2179,6 +2419,78 @@
   ],
   "action": [
    {
+    "id": "st-climate-home-news-2026-11-12-electrification-pledge",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "climate-home-news-2026-11-12-electrification-pledge",
+     "title": "COP31's electrification pledge wins support, with caveats on clean power and finance",
+     "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/",
+     "publisher": "Climate Home News",
+     "author": "Matteo Civillini",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Mitigação e MWP",
+      "TAFF e fósseis"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Pelo menos 14 países apoiaram publicamente o compromisso voluntário de eletrificação da presidência (35% da energia final até 2035, ante 23% hoje), vários com ressalvas sobre energia limpa e finanças. Reino Unido e Brasil elogiaram o foco sem endossar; a Arábia Saudita foi cética.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At least 14 countries have publicly backed the presidency's voluntary electrification pledge (35% of final energy by 2035, up from 23% today), several attaching caveats on clean power and finance. The UK and Brazil welcomed the focus without endorsing it; Saudi Arabia was sceptical.",
+      "es": "Al menos 14 países han respaldado públicamente el compromiso voluntario de electrificación de la presidencia (35 % de la energía final para 2035, frente al 23 % actual), varios con salvedades sobre energía limpia y financiación. El Reino Unido y el Brasil acogieron con agrado el enfoque sin suscribirlo;",
+      "fr": "Au moins 14 pays ont publiquement soutenu l'engagement volontaire d'électrification de la présidence (35 % de l'énergie finale d'ici 2035, contre 23 % aujourd'hui), plusieurs assortissant leur appui de réserves sur l'énergie propre et le financement.",
+      "ru": "Не менее 14 стран публично поддержали добровольное обязательство председательства по электрификации (35% конечной энергии к 2035 году против 23% сегодня), ряд из них — с оговорками по чистой энергии и финансам. Соединённое Королевство и Бразилия приветствовали акцент, но не присоединились;",
+      "zh": "至少14个国家已公开支持主席国的自愿电气化承诺（到2035年电力占终端能源消费的35%，目前为23%），其中数国就清洁电力和资金附加了保留条件。英国和巴西欢迎这一重点但未背书；沙特阿拉伯持怀疑态度。帕劳警告说，该承诺不能取代化石燃料转型。",
+      "ar": "أيدت 14 دولة على الأقل علناً تعهد الرئاسة الطوعي بشأن التكهرب (35% من الطاقة النهائية بحلول 2035 مقابل 23% حالياً)، وأرفقت عدة دول تأييدها بتحفظات بشأن الطاقة النظيفة والتمويل. ورحبت المملكة المتحدة والبرازيل بالتركيز دون تأييده، وأبدت المملكة العربية السعودية تشككاً."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-cop31-presidency-2026-11-12-erdogan-statement",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "cop31-presidency-2026-11-12-erdogan-statement",
+     "title": "Statement by H.E. Recep Tayyip Erdoğan, President of the Republic of Türkiye",
+     "url": "https://cop31.tr/news-detail/president-erdogan-statement-cop31-leaders-summit",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "Recep Tayyip Erdoğan",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Declaração do presidente da Türkiye agradecendo aos chefes de Estado e de governo que participaram da Cúpula de Líderes da COP31 em Antalya. Registro do encerramento da etapa de líderes sob a presidência turca; a página listada não traz detalhes adicionais acessíveis.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Statement by the President of Türkiye thanking the heads of state and government who attended the COP31 Leaders' Summit in Antalya. It marks the close of the leaders' segment under the Turkish presidency; the listing gives no further accessible detail.",
+      "es": "Declaración del Presidente de Türkiye en la que agradece a los jefes de Estado y de Gobierno que asistieron a la Cumbre de Líderes de la COP31 en Antalya. Marca el cierre del segmento de líderes bajo la presidencia turca; el listado no ofrece más detalles accesibles.",
+      "fr": "Déclaration du Président de la Türkiye remerciant les chefs d'État et de gouvernement qui ont participé au Sommet des dirigeants de la COP31 à Antalya. Elle marque la clôture du segment des dirigeants sous la présidence turque ; la page de liste ne donne pas d'autres détails accessibles.",
+      "ru": "Заявление Президента Türkiye с благодарностью главам государств и правительств, принявшим участие в Саммите лидеров COP31 в Анталье. Отмечает завершение сегмента лидеров под председательством Türkiye; на странице списка иных доступных подробностей нет.",
+      "zh": "土耳其总统（Türkiye）发表声明，感谢出席安塔利亚COP31领导人峰会的各国国家元首和政府首脑。标志着土耳其主席国下领导人环节结束；列表页面未提供其他可获取的细节。",
+      "ar": "بيان رئيس تركيا (Türkiye) يشكر فيه رؤساء الدول والحكومات الذين شاركوا في قمة قادة COP31 في أنطاليا. ويمثل ختام شريحة القادة في ظل الرئاسة التركية؛ ولا تتيح صفحة القائمة تفاصيل إضافية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-12-net-zero-recognition-framework-launch",
     "section": "action",
     "score": 0.6,
@@ -2276,6 +2588,80 @@
     ]
    },
    {
+    "id": "st-instagram-chrisbowenmp-20261113-semana-1-cop31",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "instagram-chrisbowenmp-20261113-semana-1-cop31",
+     "title": "@chrisbowenmp: Week 1 of COP31 is done. We've accomplished a lot so far but there is a lot more to do as we move into a week of…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfrRmslEh2V/",
+     "publisher": "Chris Bowen",
+     "published": "2026-11-13",
+     "time": "06:09",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "Chris Bowen, ministro australiano, diz que a primeira semana da COP31 terminou com muitos avanços, mas que há muito a fazer na semana de negociações intensas; admite que construir consenso não é fácil.",
+     "collected_at": "2026-11-13T06:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Australian minister Chris Bowen says Week 1 of COP31 is done with much accomplished, but much remains to be done in a week of intense negotiations; he acknowledges consensus is not easy.",
+      "es": "El ministro australiano Chris Bowen afirma que la primera semana de la COP31 ha concluido con muchos logros, pero que queda mucho por hacer en una semana de negociaciones intensas; reconoce que lograr consenso no es fácil.",
+      "fr": "Le ministre australien Chris Bowen affirme que la première semaine de la COP31 s'achève avec de nombreux acquis, mais qu'il reste beaucoup à faire durant une semaine de négociations intenses ; il reconnaît que le consensus n'est pas facile.",
+      "ru": "Министр Австралии Крис Боуэн заявляет, что первая неделя КС-31 завершена со многими достижениями, но предстоит многое сделать в неделю интенсивных переговоров; он признаёт, что достичь консенсуса непросто.",
+      "zh": "澳大利亚部长克里斯·鲍文表示，COP31第一周已结束并取得诸多成果，但在紧张谈判的一周里仍有许多工作要做；他承认达成共识并不容易。",
+      "ar": "يقول الوزير الأسترالي كريس بوين إن الأسبوع الأول من COP31 انتهى بإنجازات كثيرة، لكن ما زال هناك الكثير ليُنجز في أسبوع من المفاوضات المكثفة، مع إقراره بأن بناء التوافق ليس سهلاً."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Chris Bowen"
+    ]
+   },
+   {
+    "id": "st-climatehome-2026-11-11-turkiye-zero-waste",
+    "section": "action",
+    "score": 0.5,
+    "lead": {
+     "id": "climatehome-2026-11-11-turkiye-zero-waste",
+     "title": "Türkiye pushes \"zero waste\" at COP31, but is it delivering at home?",
+     "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "A Climate Home News contrasta a agenda internacional de \"resíduo zero\" da Türkiye, liderada pela primeira-dama Emine Erdoğan, com a realidade doméstica: a geração de resíduos per capita não mudou desde 2010, aterros emitem metano e a lei de plásticos descartáveis está parada.",
+     "collected_at": "2026-11-12T06:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Climate Home News contrasts Türkiye's international \"zero waste\" agenda, led by First Lady Emine Erdoğan, with the domestic picture: per-person waste generation has not changed since 2010, landfills leak methane and single-use plastics legislation is stalled.",
+      "es": "Climate Home News contrasta la agenda internacional de \"residuo cero\" de Türkiye, encabezada por la primera dama Emine Erdoğan, con la situación interna: la generación de residuos per cápita no ha cambiado desde 2010, los vertederos emiten metano y la ley sobre plásticos de un solo uso está estancada.",
+      "fr": "Climate Home News met en regard l'agenda internationale « zéro déchet » de la Türkiye, portée par la Première dame Emine Erdoğan, et la situation intérieure : la production de déchets par habitant n'a pas changé depuis 2010, les décharges émettent du méthane et la législation sur les plastiques à usage unique est…",
+      "ru": "Climate Home News сопоставляет международную повестку Турции «ноль отходов», которую возглавляет первая леди Эмине Эрдоган, с внутренней ситуацией: объём отходов на душу населения не менялся с 2010 года, свалки выделяют метан, а закон об одноразовом пластике застопорился.",
+      "zh": "Climate Home News 将土耳其由第一夫人埃米内·埃尔多安牵头的国际“零废弃”议程与国内现实作了对比：人均废弃物产生量自2010年以来基本未变，垃圾填埋场泄漏甲烷，一次性塑料立法陷入停滞。该分析估计，填埋场甲烷造成的危害相当于7.3万辆汽油车。这关系到东道国的可信度和甲烷议程。",
+      "ar": "تقارن Climate Home News بين أجندة «صفر نفايات» الدولية لتركيا، التي تقودها السيدة الأولى أمينة أردوغان، والواقع المحلي: فمعدل توليد النفايات للفرد لم يتغير منذ عام 2010، وتتسرب الميثان من مكبات النفايات، وتشريع البلاستيك أحادي الاستخدام متعثر. وتقدّر أن ميثان المكبات يضر بقدر 73 ألف سيارة بنزين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-cop30-presidency-daily-brief-2026-11-12",
     "section": "action",
     "score": 0.48,
@@ -2317,6 +2703,44 @@
     "related": [],
     "publishers": [
      "Presidência da COP30"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
+    "section": "action",
+    "score": 0.44,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
+     "title": "enb.iisd.org: #COP31 In the face of rapidly increasing energy demands by data centers, experts urged changes in technologies,…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n25glllstc2z",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-12",
+     "time": "18:38",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB relata que, na COP31, especialistas pediram mudanças em tecnologias, políticas e capacidades para ganhar eficiência energética em data centers diante da demanda crescente e para que a IA beneficie pessoas e planeta.",
+     "collected_at": "2026-11-12T18:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that at COP31 experts urged changes in technologies, policies and skills to improve energy efficiency in data centres amid rapidly rising demand, so that AI can benefit people and the planet.",
+      "es": "El ENB informa de que, en la COP31, expertos instaron a cambiar tecnologías, políticas y capacidades para mejorar la eficiencia energética de los centros de datos ante una demanda creciente y para que la IA beneficie a las personas y al planeta.",
+      "fr": "L'ENB rapporte qu'à la COP31, des experts ont appelé à modifier les technologies, les politiques et les compétences pour améliorer l'efficacité énergétique des centres de données face à une demande croissante, afin que l'IA profite aux personnes et à la planète.",
+      "ru": "ENB сообщает, что на КС-31 эксперты призвали изменить технологии, политику и навыки для повышения энергоэффективности центров обработки данных на фоне быстрого роста спроса, чтобы ИИ приносил пользу людям и планете.",
+      "zh": "ENB报道，在COP31上，专家呼吁在数据中心能源需求快速增长的背景下，改进技术、政策和技能以提高能效，使人工智能造福人类和地球。",
+      "ar": "تفيد نشرة ENB بأن خبراء حثّوا في مؤتمر الأطراف الحادي والثلاثين على تغيير التقنيات والسياسات والمهارات لتحقيق مكاسب في كفاءة الطاقة في مراكز البيانات في ظل الطلب المتزايد بسرعة، بما يتيح استخدام الذكاء الاصطناعي لخدمة الناس والكوكب."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -2426,6 +2850,44 @@
       "ru": "На Бизнес-форуме КС-31 Председатель КС-31 Мурат Курум призвал к более активному участию частного сектора, увеличению инвестиций в чистую энергетику и развитию отечественных технологий, чтобы Турция могла воспользоваться возможностями глобального зелёного перехода.",
       "zh": "在COP31商业论坛上，COP31主席穆拉特·库鲁姆呼吁加强私营部门参与，加大对清洁能源的投资并发展本土技术，使土耳其抓住全球绿色转型的机遇。",
       "ar": "في المنتدى التجاري لمؤتمر الأطراف الحادي والثلاثين، دعا رئيس المؤتمر مراد كوروم إلى تعزيز مشاركة القطاع الخاص وزيادة الاستثمار في الطاقة النظيفة وتطوير التقنيات المحلية لتمكين تركيا من اغتنام فرص التحول الأخضر العالمي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Presidência da COP31 (Türkiye)"
+    ]
+   },
+   {
+    "id": "st-instagram-turkiyecop31-20261113-solak-residuo-zero",
+    "section": "action",
+    "score": 0.413,
+    "lead": {
+     "id": "instagram-turkiyecop31-20261113-solak-residuo-zero",
+     "title": "@turkiyecop31: Meet Solak, Antalya's Zero Waste Village. COP31 delegates visited Solak Zero Waste Village in Aksu, where olive pits…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfrPJ-kNThk/",
+     "publisher": "Presidência da COP31 (Türkiye)",
+     "published": "2026-11-13",
+     "time": "05:47",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "A presidência da COP31 mostra a visita de delegados à vila Solak, em Aksu (Antalya), exemplo de resíduo zero: caroços de azeitona viram piso de playground, restos de comida viram composto e materiais descartados viram móveis e roupas.",
+     "collected_at": "2026-11-13T06:45:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency showcases delegates' visit to Solak Zero Waste Village in Aksu (Antalya), where olive pits become playground surfaces, food scraps become compost and discarded materials become furniture and clothing.",
+      "es": "La Presidencia de la COP31 muestra la visita de delegados a la aldea Solak de residuo cero en Aksu (Antalya), donde los huesos de aceituna se convierten en suelo de parques infantiles, los restos de comida en compost y los materiales desechados en muebles y ropa.",
+      "fr": "La présidence de la COP31 présente la visite de délégués au village zéro déchet de Solak à Aksu (Antalya), où les noyaux d'olive deviennent des sols d'aires de jeux, les restes alimentaires du compost et les matériaux jetés des meubles et des vêtements.",
+      "ru": "Президентство КС-31 показывает визит делегатов в деревню нулевых отходов Солак в Аксу (Анталья), где оливковые косточки превращаются в покрытие для детских площадок, пищевые отходы — в компост, а выброшенные материалы — в мебель и одежду.",
+      "zh": "COP31主席团展示代表们参观安塔利亚阿克苏的索拉克零废弃村：橄榄核被制成游乐场地面，厨余变成堆肥，废弃材料被加工成家具和衣物。",
+      "ar": "تعرض رئاسة COP31 زيارة المندوبين إلى قرية سولاك للنفايات الصفرية في أكسو (أنطاليا)، حيث تتحول نوى الزيتون إلى أرضيات للملاعب وبقايا الطعام إلى سماد والمواد المهملة إلى أثاث وملابس."
      },
      "description_i18n_method": "machine"
     },
@@ -4615,6 +5077,113 @@
   ],
   "civil": [
    {
+    "id": "st-350-org-2026-11-12-australia-turkiye-silence",
+    "section": "civil",
+    "score": 0.45,
+    "lead": {
+     "id": "350-org-2026-11-12-australia-turkiye-silence",
+     "title": "COP31: Australia and Türkiye must break their silence as momentum builds for fossil fuel transition",
+     "url": "https://350.org/press-release/cop31-australia-and-t%C3%BCrkiye-must-break-their-silence-as-momentum-builds-for-fossil-fuel-transition/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A 350.org cobra de Austrália e Türkiye, co-presidências da COP31, que rompam o silêncio sobre a transição para longe dos combustíveis fósseis, argumentando que o apoio ao tema cresce nas negociações. Dialoga com o roteiro de transição liderado pelo Brasil e a decisão de cobertura.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org calls on Australia and Türkiye, the COP31 co-presidencies, to break their silence on the transition away from fossil fuels, arguing that momentum is building in the talks. It engages with the Brazil-led transition roadmap and the cover decision.",
+      "es": "350.org exhorta a Australia y Türkiye, copresidencias de la COP31, a romper su silencio sobre la transición para dejar atrás los combustibles fósiles, argumentando que el impulso crece en las negociaciones. Dialoga con la hoja de ruta de transición liderada por el Brasil y la decisión de cobertura.",
+      "fr": "350.org appelle l'Australie et la Türkiye, coprésidences de la COP31, à rompre le silence sur la transition hors des combustibles fossiles, estimant que la dynamique se renforce dans les négociations. Le texte renvoie à la feuille de route de transition menée par le Brésil et à la décision de couverture.",
+      "ru": "350.org призывает Австралию и Türkiye, сопредседателей COP31, нарушить молчание о переходе от ископаемого топлива, утверждая, что на переговорах нарастает импульс. Затрагивает дорожную карту перехода под руководством Бразилии и общее решение.",
+      "zh": "350.org呼吁COP31共同主席国澳大利亚和土耳其（Türkiye）就摆脱化石燃料转型打破沉默，称谈判中的势头正在增强。涉及由巴西牵头的转型路线图和总括决定。",
+      "ar": "تدعو 350.org أستراليا وتركيا (Türkiye)، الرئاستين المشتركتين لـ COP31، إلى كسر صمتهما بشأن التحول بعيداً عن الوقود الأحفوري، معتبرة أن الزخم يتصاعد في المفاوضات. ويتناول خارطة طريق التحول بقيادة البرازيل والقرار الشامل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
+    "id": "st-350-org-2026-11-13-peoples-climate-march",
+    "section": "civil",
+    "score": 0.422,
+    "lead": {
+     "id": "350-org-2026-11-13-peoples-climate-march",
+     "title": "People's Climate March to bring global call for climate justice to the streets of Antalya",
+     "url": "https://350.org/press-release/peoples-climate-march-to-bring-global-call-for-climate-justice-to-the-streets-of-antalya/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Espaço cívico"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Anúncio de uma marcha em Antalya ligada ao Dia Global de Ação de 14 de novembro, levando à rua o apelo por justiça climática. A página listada traz só título e data.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Announcement of a march in Antalya tied to the 14 November Global Day of Action, taking the call for climate justice to the streets. The listing shows only the title and date. It touches on civic space during COP31.",
+      "es": "Anuncio de una marcha en Antalya vinculada al Día Mundial de Acción del 14 de noviembre, que llevará a las calles el llamamiento por la justicia climática. El listado solo muestra el título y la fecha. Se relaciona con el espacio cívico durante la COP31.",
+      "fr": "Annonce d'une marche à Antalya liée à la Journée mondiale d'action du 14 novembre, qui portera dans la rue l'appel à la justice climatique. La liste n'affiche que le titre et la date. Elle touche à l'espace civique pendant la COP31.",
+      "ru": "Объявление о марше в Анталье, приуроченном к Глобальному дню действий 14 ноября, который вынесет призыв к климатической справедливости на улицы. В списке видны только заголовок и дата. Затрагивает тему гражданского пространства во время COP31.",
+      "zh": "宣布在安塔利亚举行游行，与11月14日全球行动日相呼应，将气候正义的呼声带上街头。列表仅显示标题和日期。涉及COP31期间的公民空间议题。",
+      "ar": "إعلان عن مسيرة في أنطاليا مرتبطة بيوم العمل العالمي في 14 تشرين الثاني/نوفمبر، تحمل المطالبة بالعدالة المناخية إلى الشوارع. تعرض القائمة العنوان والتاريخ فقط. ويتصل بالحيز المدني أثناء COP31."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
+    "id": "st-350-org-2026-11-12-indonesia-envoy",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "350-org-2026-11-12-indonesia-envoy",
+     "title": "350.org on Indonesia climate envoy Hashim Djojohadikusumo's speech at COP31",
+     "url": "https://350.org/press-release/350org-on-indonesia-climate-envoy-hashim-djojohadikusumos-speech-at-cop31/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-12",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Reação da 350.org ao discurso do enviado climático da Indonésia, Hashim Djojohadikusumo, na COP31. A página listada mostra apenas o título; o conteúdo da resposta não está acessível.",
+     "collected_at": "2026-11-13T06:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org's response to the COP31 speech by Indonesia's climate envoy, Hashim Djojohadikusumo. The listing shows only the title; the content of the response is not accessible.",
+      "es": "Respuesta de 350.org al discurso del enviado climático de Indonesia, Hashim Djojohadikusumo, en la COP31. El listado solo muestra el título; el contenido de la respuesta no es accesible.",
+      "fr": "Réaction de 350.org au discours de l'envoyé climat de l'Indonésie, Hashim Djojohadikusumo, à la COP31. La liste n'affiche que le titre ; le contenu de la réaction n'est pas accessible.",
+      "ru": "Реакция 350.org на выступление специального посланника Индонезии по климату Хашима Джоджохадикусумо на COP31. В списке виден только заголовок; содержание ответа недоступно.",
+      "zh": "350.org就印度尼西亚气候特使哈希姆·乔约哈迪库苏莫（Hashim Djojohadikusumo）在COP31上的发言作出回应。列表仅显示标题，回应内容暂无法获取。",
+      "ar": "رد 350.org على كلمة المبعوث المناخي لإندونيسيا هاشم دجوجوهاديكوسومو في COP31. تعرض القائمة العنوان فقط؛ ولا يتوفر محتوى الرد."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-11-australia-cop31",
     "section": "civil",
     "score": 0.281,
@@ -4906,10 +5475,13 @@
   ],
   "2026-11-13": [
    "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
+   "carbon-brief-2026-11-12-miliband-qa",
    "climate-action-tracker-2026-11-12-warming-projections",
+   "climate-home-news-2026-11-12-ocean-roadmap",
    "climatehome-2026-11-11-turkiye-zero-waste",
    "cop30-presidency-daily-brief-2026-11-12",
    "cop30-presidency-daily-brief-2026-11-13",
+   "cop31-presidency-2026-11-12-resilient-cities",
    "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
    "instagram-turkiyecop31-20261113-day5-finance-trade",
    "unfccc-2026-11-11-bmr-concept-note",
@@ -4917,6 +5489,7 @@
    "unfccc-2026-11-12-industrial-climate-action-report",
    "unfccc-2026-11-12-presidency-concept-note-process",
    "unfccc-2026-11-12-transparency-enabling-tool",
+   "v20-cvf-2026-11-12-arise",
    "wmo-2026-11-12-escalating-hazards"
   ]
  }
