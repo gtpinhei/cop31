@@ -32,6 +32,33 @@
  ],
  "items": [
   {
+   "id": "x-CANIntl-20261113-financeday",
+   "kind": "post",
+   "platform": "x",
+   "account": "@CANIntl",
+   "institution": "CAN International",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "03:52",
+   "text": "📣 Big numbers, empty pockets. It’s Finance Day at COP31, but will the announcements pay the bills?\n\nToday’s ECO demands real public climate finance, debt cancellation and action to make polluters pay.\n\nGet your morning insider’s look:\n👉 bit.ly/ECOatCOP31",
+   "summary": "No Dia das Finanças da COP31, a CAN International questiona se os anúncios serão concretos e diz que o ECO de hoje exige financiamento climático público real, cancelamento de dívidas e responsabilização dos poluidores.",
+   "summary_i18n": {
+    "en": "On COP31 Finance Day, CAN International asks whether the announcements will deliver, saying today's ECO demands real public climate finance, debt cancellation and action to make polluters pay.",
+    "es": "En el Día de las Finanzas de la COP31, CAN International se pregunta si los anuncios se cumplirán y afirma que el ECO de hoy exige financiación climática pública real, cancelación de la deuda y que los contaminadores paguen.",
+    "fr": "Lors de la journée Finance de la COP31, CAN International se demande si les annonces seront suivies d'effets et indique que l'ECO du jour exige un véritable financement climatique public, l'annulation de la dette et que les pollueurs paient.",
+    "ru": "В день финансов на КС-31 CAN International спрашивает, будут ли объявления подкреплены делами, и заявляет, что сегодняшний выпуск ECO требует реального публичного климатического финансирования, списания долгов и принципа «загрязнитель платит».",
+    "zh": "在 COP31 资金日，CAN International 质疑各项宣布能否兑现，并称今日的 ECO 要求提供真正的公共气候资金、减免债务，并让污染者付费。",
+    "ar": "في يوم التمويل بمؤتمر الأطراف الحادي والثلاثين، تتساءل شبكة العمل المناخي الدولية عمّا إذا كانت الإعلانات ستتحقق، وتقول إن نشرة ECO اليوم تطالب بتمويل مناخي عام حقيقي وإلغاء الديون وجعل الملوِّثين يدفعون."
+   },
+   "url": "https://x.com/CANIntl",
+   "tracks": [
+    "Finanças"
+   ],
+   "first_seen": "2026-11-13T09:58:00-03:00",
+   "lang": "en",
+   "source_id": "x-canintl"
+  },
+  {
    "id": "cop30-presidency-daily-brief-2026-11-13",
    "institution": "Presidência da COP30",
    "type": "boletim",
@@ -17453,14 +17480,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-13T03:50:00-03:00",
-  "label": "13 nov 2026, 03:50 (Brasília)",
+  "timestamp": "2026-11-13T09:58:00-03:00",
+  "label": "13 nov 2026, 09:58 (Brasília)",
   "accounts_checked": 30,
-  "blocked": 1,
-  "new_items": 4,
+  "blocked": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
-  "blocked_accounts": [
-   "x-mmeioambiente"
-  ]
+  "blocked_accounts": []
  }
 }
