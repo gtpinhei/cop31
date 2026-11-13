@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-13",
- "generated_at": "2026-11-13T06:58+03:00",
+ "generated_at": "2026-11-13T07:58+03:00",
  "window": {
   "from": "2026-11-10",
   "to": "2026-11-13",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-13T00:13:00-03:00",
-  "social_round": "2026-11-12T22:50:00-03:00",
+  "social_round": "2026-11-13T01:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 124,
-  "stories": 104,
+  "candidates": 126,
+  "stories": 106,
   "top": 8,
   "publishers": [
    "350.org",
@@ -808,6 +808,44 @@
     ]
    },
    {
+    "id": "st-bluesky-unep.org-20261113-emissions-gap",
+    "section": "negotiations",
+    "score": 0.351,
+    "lead": {
+     "id": "bluesky-unep.org-20261113-emissions-gap",
+     "title": "unep.org: Exceeding 1.5°C of warming is now unavoidable. But how much further temperatures rise depends on how quickly we cut…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/unep.org/post/3n25ykcqdi22u",
+     "publisher": "UNEP",
+     "published": "2026-11-13",
+     "time": "00:00",
+     "language": "en",
+     "tracks": [
+      "Mitigação e MWP",
+      "GST2 e IPCC"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O UNEP diz que ultrapassar 1,5 °C já é inevitável e que o Relatório Lacuna de Emissões mostra a profundidade dos cortes necessários para limitar o aquecimento e permitir o retorno a 1,5 °C.",
+     "collected_at": "2026-11-13T01:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNEP says exceeding 1.5°C is now unavoidable and that the Emissions Gap Report shows how deep emission cuts must be to limit warming and make a return to 1.5°C possible.",
+      "es": "El PNUMA afirma que superar 1,5 °C ya es inevitable y que el Informe sobre la brecha de emisiones muestra cuán profundos deben ser los recortes para limitar el calentamiento y hacer posible volver a 1,5 °C.",
+      "fr": "Le PNUE affirme que le dépassement de 1,5 °C est désormais inévitable et que le Rapport sur l'écart des émissions montre l'ampleur des réductions nécessaires pour limiter le réchauffement et permettre un retour à 1,5 °C.",
+      "ru": "ЮНЕП заявляет, что превышение 1,5 °C теперь неизбежно, а в Докладе о разрыве в уровнях выбросов показано, насколько глубокими должны быть сокращения, чтобы ограничить потепление и вернуться к 1,5 °C.",
+      "zh": "联合国环境规划署表示，升温超过1.5°C已不可避免，《排放差距报告》显示了为限制升温并使回到1.5°C成为可能所需的减排深度。",
+      "ar": "يقول برنامج الأمم المتحدة للبيئة إن تجاوز 1.5 درجة مئوية بات أمرًا لا مفر منه، وإن تقرير فجوة الانبعاثات يبيّن مدى عمق التخفيضات اللازمة للحدّ من الاحترار وإتاحة العودة إلى 1.5 درجة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNEP"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-11-stiell-leaders",
     "section": "negotiations",
     "score": 0.3,
@@ -945,6 +983,44 @@
     "related": [],
     "publishers": [
      "ICC"
+    ]
+   },
+   {
+    "id": "st-instagram-mmeioambiente-20261112-indicaclima",
+    "section": "negotiations",
+    "score": 0.281,
+    "lead": {
+     "id": "instagram-mmeioambiente-20261112-indicaclima",
+     "title": "@mmeioambiente: 🌎 INDICACLIMA | Como saber se o Brasil está avançando no enfrentamento às mudanças climáticas? O Governo Federal…",
+     "title_is_post": true,
+     "url": "https://www.instagram.com/p/DfqL-8fD8ZC/",
+     "publisher": "MMA (Brasil)",
+     "published": "2026-11-12",
+     "time": "20:00",
+     "language": "pt",
+     "tracks": [
+      "Mitigação e MWP",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "instagram",
+     "description": "O governo federal lançou o IndicaClima, sistema que monitora a implementação do Plano Clima com indicadores de mais de mil ações de mitigação e adaptação; o primeiro ciclo de monitoramento, em 2026, é o ponto de partida (data aproximada).",
+     "collected_at": "2026-11-13T01:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Brazilian federal government launched IndicaClima, a system that tracks implementation of the Climate Plan with indicators for over a thousand mitigation and adaptation actions; the first monitoring cycle, in 2026, is the baseline (approximate date).",
+      "es": "El gobierno federal de Brasil lanzó IndicaClima, un sistema que da seguimiento a la implementación del Plan Climático con indicadores de más de mil acciones de mitigación y adaptación; el primer ciclo de monitoreo, en 2026, es el punto de partida (fecha aproximada).",
+      "fr": "Le gouvernement fédéral brésilien a lancé IndicaClima, un système de suivi de la mise en œuvre du Plan Climat avec des indicateurs pour plus de mille actions d'atténuation et d'adaptation ; le premier cycle de suivi, en 2026, sert de point de départ (date approximative).",
+      "ru": "Федеральное правительство Бразилии запустило IndicaClima — систему отслеживания реализации Климатического плана с показателями более тысячи мер по смягчению последствий и адаптации; первый цикл мониторинга в 2026 году задаёт исходный уровень (дата приблизительная).",
+      "zh": "巴西联邦政府推出IndicaClima系统，用于跟踪《气候计划》的实施情况，涵盖一千多项减缓和适应行动的指标；2026年的首个监测周期为起点（日期为大致日期）。",
+      "ar": "أطلقت الحكومة الاتحادية البرازيلية نظام IndicaClima لتتبّع تنفيذ الخطة المناخية بمؤشرات لأكثر من ألف إجراء للتخفيف والتكيّف؛ وتشكّل دورة الرصد الأولى في عام 2026 نقطة الانطلاق (التاريخ تقريبي)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "MMA (Brasil)"
     ]
    },
    {
