@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-16",
- "generated_at": "2026-11-16T11:58+03:00",
+ "generated_at": "2026-11-16T12:59+03:00",
  "window": {
   "from": "2026-11-13",
   "to": "2026-11-16",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-16T00:45:00-03:00",
-  "social_round": "2026-11-16T05:46:10-03:00",
+  "web_round": "2026-11-16T06:16:12-03:00",
+  "social_round": "2026-11-16T06:44:30-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 73,
-  "stories": 66,
+  "candidates": 77,
+  "stories": 70,
   "top": 8,
   "publishers": [
    "350.org",
@@ -57,11 +57,6 @@
     "note": "sem listagem datada (parada em 2022)"
    },
    {
-    "publisher": "COP31 Presidency (Türkiye/Australia)",
-    "outcome": "error",
-    "note": "SERVER_ERROR no WebFetch; Nimble sem cota (402)"
-   },
-   {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
     "note": "client_error"
@@ -71,6 +66,43 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop31-tr-2026-11-16-first-week",
+    "section": "negotiations",
+    "score": 1.0,
+    "lead": {
+     "id": "cop31-tr-2026-11-16-first-week",
+     "title": "First week of COP31 ends with clear momentum for concrete action",
+     "url": "https://cop31.tr/news-detail/first-week-of-cop31-ends-with-clear-momentum-for-concrete-action",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Finanças",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Balanço da primeira semana da COP31 em Antalya: a Cúpula de Líderes de 11–12 de novembro reuniu mais de 100 líderes e a conferência passou de 100 mil participantes registrados.",
+     "collected_at": "2026-11-16T06:16:12-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Summary of the first week of COP31 in Antalya: the Leaders' Summit of 11–12 November brought together more than 100 leaders and registration passed 100,000 participants. Türkiye signed green investment partnerships worth over US$26 billion, and governments and funds announced climate finance pledges.",
+      "es": "Balance de la primera semana de la COP31 en Antalya: la Cumbre de Líderes del 11 al 12 de noviembre reunió a más de 100 líderes y los participantes inscritos superaron los 100.000.",
+      "fr": "Bilan de la première semaine de la COP31 à Antalya : le Sommet des dirigeants des 11 et 12 novembre a réuni plus de 100 dirigeants et les inscriptions ont dépassé 100 000 participants.",
+      "ru": "Итоги первой недели КС-31 в Анталье: саммит лидеров 11–12 ноября собрал более 100 лидеров, а число зарегистрированных участников превысило 100 тысяч. Турция подписала партнёрства в области зелёных инвестиций на сумму более 26 млрд долларов США, а правительства и фонды объявили о климатическом финансировании.",
+      "zh": "安塔利亚COP31第一周总结：11月11日至12日的领导人峰会汇聚了100多位领导人，注册参会人数超过10万。土耳其（Türkiye）签署了价值超过260亿美元的绿色投资伙伴关系，各国政府和基金宣布了气候资金承诺。谈判代表正在处理100多项议程议题，主席团预计下周初发布初步草案；涉及一揽子决定（cover decision）、资金和主席团三条主线。",
+      "ar": "حصيلة الأسبوع الأول من COP31 في أنطاليا: جمعت قمة القادة يومي 11 و12 نوفمبر أكثر من 100 قائد، وتجاوز عدد المسجلين 100 ألف مشارك. ووقّعت تركيا (Türkiye) شراكات استثمار أخضر تتجاوز قيمتها 26 مليار دولار، وأعلنت حكومات وصناديق التزامات بالتمويل المناخي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
    {
     "id": "st-climate-home-news-2026-11-15-turkiye-water",
     "section": "negotiations",
@@ -109,40 +141,42 @@
     ]
    },
    {
-    "id": "st-cop31-tr-2026-11-14-finance-trade-day",
-    "section": "negotiations",
-    "score": 0.5,
+    "id": "st-can-international-2026-11-15-midway-brief",
+    "section": "civil",
+    "score": 0.51,
     "lead": {
-     "id": "cop31-tr-2026-11-14-finance-trade-day",
-     "title": "COP31 mobilises finance to turn climate commitments into action",
-     "url": "https://cop31.tr/news-detail/cop31-mobilises-finance-to-turn-climate-commitments-into-action",
-     "publisher": "COP31 Presidency (Türkiye/Australia)",
-     "author": "COP31",
-     "published": "2026-11-14",
+     "id": "can-international-2026-11-15-midway-brief",
+     "title": "State of Play from Antalya: COP31 Midway Media Brief",
+     "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
+     "publisher": "CAN International",
+     "author": "Attila Kulcsar",
+     "published": "2026-11-15",
      "language": "en",
      "tracks": [
-      "Finanças",
+      "Transição justa",
       "Adaptação",
-      "Presidência e anfitrião"
+      "Perdas e danos",
+      "Finanças",
+      "Decisão de cobertura"
      ],
-     "content_type": "official",
+     "content_type": "advocacy",
      "kind": "publication",
-     "description": "Balanço do Dia de Finanças e Comércio da COP31, realizado junto ao Fórum Empresarial, voltado a canalizar recursos existentes para projetos climáticos investíveis.",
-     "collected_at": "2026-11-15T12:40:00-03:00",
+     "description": "A Climate Action Network International avalia que a COP31 começou com esperança de transformar os compromissos de Belém em proteção concreta, mas perdeu ritmo no meio da conferência.",
+     "collected_at": "2026-11-16T06:16:12-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Recap of COP31's Finance and Trade Day, held alongside the Business Forum and aimed at channelling existing funds into investable climate projects. Chile, Lebanon, Mexico and Zambia joined the BRIDGE platform, following Ethiopia, Fiji, Indonesia, Pakistan and Uzbekistan, and Türkiye committed USD 3 million in grants…",
-      "es": "Balance del Día de Finanzas y Comercio de la COP31, celebrado junto al Foro Empresarial y centrado en canalizar los fondos existentes hacia proyectos climáticos invertibles.",
-      "fr": "Bilan de la Journée de la finance et du commerce de la COP31, tenue en marge du Forum des entreprises et destinée à orienter les fonds existants vers des projets climatiques finançables.",
-      "ru": "Итоги Дня финансов и торговли на КС-31, прошедшего параллельно с Деловым форумом и посвящённого направлению имеющихся средств в инвестиционно привлекательные климатические проекты.",
-      "zh": "这是COP31金融与贸易日的总结，该活动与商业论坛同期举行，旨在将现有资金引导至可投资的气候项目。智利、黎巴嫩、墨西哥和赞比亚继埃塞俄比亚、斐济、印度尼西亚、巴基斯坦和乌兹别克斯坦之后加入BRIDGE平台，土耳其承诺提供300万美元赠款予以支持。商业论坛在23场会议中吸引了4000名与会者和100名发言人；全球气候资金中仅有0.2%用于小岛屿发展中国家的适应。",
-      "ar": "ملخص ليوم التمويل والتجارة في مؤتمر الأطراف الحادي والثلاثين، الذي عُقد بالتزامن مع منتدى الأعمال بهدف توجيه الأموال القائمة نحو مشاريع مناخية قابلة للاستثمار. وانضمت إلى منصة BRIDGE كل من شيلي ولبنان والمكسيك وزامبيا، بعد إثيوبيا وفيجي وإندونيسيا وباكستان وأوزبكستان، والتزمت تركيا بمبلغ 3 ملايين دولار أمريكي في شكل…"
+      "en": "Climate Action Network International assesses that COP31 began with hope of turning Belém commitments into real protection, but has lost momentum at the midway point.",
+      "es": "Climate Action Network International considera que la COP31 comenzó con la esperanza de convertir los compromisos de Belém en protección real, pero ha perdido impulso a mitad de la conferencia.",
+      "fr": "Climate Action Network International estime que la COP31 a commencé avec l'espoir de transformer les engagements de Belém en protection concrète, mais qu'elle a perdu de son élan à mi-parcours.",
+      "ru": "Climate Action Network International считает, что КС-31 началась с надежды превратить белемские обязательства в реальную защиту, но к середине конференции утратила динамику.",
+      "zh": "国际气候行动网络（CAN International）认为，COP31开局时曾寄望将贝伦承诺转化为切实保护，但到会议中段已失去势头。简报称，关于公正转型、适应资金增至三倍、损失与损害、减缓和资金的谈判被削弱，而关注点转向了亮点倡议和可能的一揽子决定（cover decision）。该网络呼吁各国政府以及作为谈判主席的澳大利亚在第二周取得具体成果，并援引 Carbon Brief 关于资金承诺下降70%的分析。",
+      "ar": "ترى شبكة العمل المناخي الدولية (CAN International) أن COP31 بدأت بأمل في تحويل التزامات بيليم إلى حماية فعلية، لكنها فقدت زخمها في منتصف المؤتمر. وتقول الإحاطة إن المفاوضات بشأن الانتقال العادل ومضاعفة التمويل للتكيف ثلاث مرات والخسائر والأضرار والتخفيف والتمويل قد ضعفت، بينما انتقل الاهتمام إلى المبادرات البارزة وإلى…"
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "COP31 Presidency (Türkiye/Australia)"
+     "CAN International"
     ]
    },
    {
@@ -184,6 +218,43 @@
     ]
    },
    {
+    "id": "st-cop31-tr-2026-11-16-industry-ai",
+    "section": "action",
+    "score": 0.75,
+    "lead": {
+     "id": "cop31-tr-2026-11-16-industry-ai",
+     "title": "Electrification of industry and responsible AI are essential climate priorities",
+     "url": "https://cop31.tr/news-detail/electrification-of-industry-and-responsible-ai-climate-priorities",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 lançou um pacote sobre IA responsável, industrialização verde e tecnologia climática, incluindo o Antalya AI Pledge, voluntário e organizado em quatro áreas de ação.",
+     "collected_at": "2026-11-16T06:16:12-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency launched a package on responsible AI, green industrialisation and climate technology, including the voluntary Antalya AI Pledge, organised in four areas of action.",
+      "es": "La Presidencia de la COP31 puso en marcha un paquete sobre IA responsable, industrialización verde y tecnología climática, que incluye el Antalya AI Pledge, voluntario y organizado en cuatro áreas de acción.",
+      "fr": "La présidence de la COP31 a lancé un ensemble d'actions sur l'IA responsable, l'industrialisation verte et les technologies climatiques, dont l'Antalya AI Pledge, volontaire et structuré en quatre domaines d'action.",
+      "ru": "Президентство КС-31 представило пакет мер по ответственному использованию ИИ, зелёной индустриализации и климатическим технологиям, включая добровольное Antalya AI Pledge по четырём направлениям.",
+      "zh": "COP31 主席团推出了一套关于负责任人工智能、绿色工业化和气候技术的行动方案，其中包括自愿性的 Antalya AI Pledge，涵盖四个行动领域。Antalya Green Industrialisation Compact 旨在推动近零排放生产领域的投资与落实，因为工业约占全球排放量的四分之一。这些举措与“35-by-35”目标挂钩，即到2035年将电力在终端能源消费中的占比提高到35%；涉及电气化和行动议程两条主线。",
+      "ar": "أطلقت رئاسة COP31 حزمة إجراءات بشأن الذكاء الاصطناعي المسؤول والتصنيع الأخضر والتكنولوجيا المناخية، تشمل تعهد أنطاليا للذكاء الاصطناعي (Antalya AI Pledge) الطوعي في أربعة مجالات عمل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
     "id": "st-bluesky-enb-iisd-org-20261115-sb-highlights-14nov",
     "section": "action",
     "score": 0.44,
@@ -219,43 +290,6 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-can-international-2026-11-14-australia-jtm",
-    "section": "civil",
-    "score": 0.375,
-    "lead": {
-     "id": "can-international-2026-11-14-australia-jtm",
-     "title": "COP31: Australia told to 'stop dicking around' as Just Transition ambition is weakened",
-     "url": "https://climatenetwork.org/2026/11/14/cop31-australia-told-to-stop-dicking-around-as-just-transition-ambition-is-weakened/",
-     "publisher": "CAN International",
-     "author": "Attila Kulcsar",
-     "published": "2026-11-14",
-     "language": "en",
-     "tracks": [
-      "Transição justa",
-      "Eletrificação",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Climate Action Network International critica a Austrália por liderança fraca como presidente de negociações da COP31, apontando oportunidades perdidas de anunciar finanças ou tratar de combustíveis fósseis.",
-     "collected_at": "2026-11-15T00:18:21-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Climate Action Network International criticises Australia for weak leadership as COP31 President of Negotiations, pointing to missed chances to announce finance or address fossil fuels.",
-      "es": "La Red de Acción Climática Internacional (CAN) critica a Australia por su liderazgo débil como presidente de negociaciones de la COP31, señalando oportunidades perdidas para anunciar financiación o abordar los combustibles fósiles.",
-      "fr": "Le Réseau action climat international (CAN) critique l'Australie pour son leadership insuffisant en tant que présidente des négociations de la COP31, évoquant des occasions manquées d'annoncer des financements ou d'aborder les combustibles fossiles.",
-      "ru": "Международная сеть климатических действий (CAN) критикует Австралию за слабое лидерство на посту председателя переговоров КС-31, указывая на упущенные возможности объявить о финансировании или заняться ископаемым топливом.",
-      "zh": "国际气候行动网络（CAN）批评澳大利亚作为COP31谈判主席领导乏力，指出其错失了宣布资金或处理化石燃料问题的机会。该组织认为贝伦-安塔利亚公正转型机制草案缺乏资源和雄心，有沦为又一个官僚程序的风险，发言人还警告称电气化并不必然公正或绿色。涉及公正转型、电气化和主席国议题。",
-      "ar": "تنتقد شبكة العمل المناخي الدولية أستراليا لضعف قيادتها بصفتها رئيسة المفاوضات في COP31، مشيرةً إلى فرص ضائعة للإعلان عن تمويل أو لمعالجة الوقود الأحفوري. وترى الشبكة أن مشروع آلية الانتقال العادل بيليم-أنطاليا يفتقر إلى الموارد والطموح وقد يتحول إلى عملية بيروقراطية أخرى، وتحذّر الناطقات من أن الكهربة ليست عادلة أو…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
     ]
    },
    {
@@ -410,6 +444,45 @@
     "publishers": [
      "SEFiA"
     ]
+   }
+  ],
+  "negotiations": [
+   {
+    "id": "st-cop31-tr-2026-11-14-finance-trade-day",
+    "section": "negotiations",
+    "score": 0.5,
+    "lead": {
+     "id": "cop31-tr-2026-11-14-finance-trade-day",
+     "title": "COP31 mobilises finance to turn climate commitments into action",
+     "url": "https://cop31.tr/news-detail/cop31-mobilises-finance-to-turn-climate-commitments-into-action",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31",
+     "published": "2026-11-14",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Balanço do Dia de Finanças e Comércio da COP31, realizado junto ao Fórum Empresarial, voltado a canalizar recursos existentes para projetos climáticos investíveis.",
+     "collected_at": "2026-11-15T12:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Recap of COP31's Finance and Trade Day, held alongside the Business Forum and aimed at channelling existing funds into investable climate projects. Chile, Lebanon, Mexico and Zambia joined the BRIDGE platform, following Ethiopia, Fiji, Indonesia, Pakistan and Uzbekistan, and Türkiye committed USD 3 million in grants…",
+      "es": "Balance del Día de Finanzas y Comercio de la COP31, celebrado junto al Foro Empresarial y centrado en canalizar los fondos existentes hacia proyectos climáticos invertibles.",
+      "fr": "Bilan de la Journée de la finance et du commerce de la COP31, tenue en marge du Forum des entreprises et destinée à orienter les fonds existants vers des projets climatiques finançables.",
+      "ru": "Итоги Дня финансов и торговли на КС-31, прошедшего параллельно с Деловым форумом и посвящённого направлению имеющихся средств в инвестиционно привлекательные климатические проекты.",
+      "zh": "这是COP31金融与贸易日的总结，该活动与商业论坛同期举行，旨在将现有资金引导至可投资的气候项目。智利、黎巴嫩、墨西哥和赞比亚继埃塞俄比亚、斐济、印度尼西亚、巴基斯坦和乌兹别克斯坦之后加入BRIDGE平台，土耳其承诺提供300万美元赠款予以支持。商业论坛在23场会议中吸引了4000名与会者和100名发言人；全球气候资金中仅有0.2%用于小岛屿发展中国家的适应。",
+      "ar": "ملخص ليوم التمويل والتجارة في مؤتمر الأطراف الحادي والثلاثين، الذي عُقد بالتزامن مع منتدى الأعمال بهدف توجيه الأموال القائمة نحو مشاريع مناخية قابلة للاستثمار. وانضمت إلى منصة BRIDGE كل من شيلي ولبنان والمكسيك وزامبيا، بعد إثيوبيا وفيجي وإندونيسيا وباكستان وأوزبكستان، والتزمت تركيا بمبلغ 3 ملايين دولار أمريكي في شكل…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
    },
    {
     "id": "st-climate-home-news-2026-11-14-bulletin-day-6",
@@ -450,9 +523,7 @@
     "publishers": [
      "Climate Home News"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-climate-home-news-2026-11-14-overshoot-report",
     "section": "negotiations",
@@ -1606,6 +1677,42 @@
   ],
   "action": [
    {
+    "id": "st-cop31-tr-2026-11-15-green-skills",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "cop31-tr-2026-11-15-green-skills",
+     "title": "COP31 promotes green skills for children and youth to electrify the global economy",
+     "url": "https://cop31.tr/news-detail/cop31-promotes-green-skills-for-children-and-youth",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-15",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Eletrificação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A COP31 e o UNICEF lançaram o Diálogo de Alto Nível de Antalya sobre Crianças, Juventude e Resiliência Climática, centrado na eletrificação e nas habilidades para construir sistemas de energia.",
+     "collected_at": "2026-11-16T06:16:12-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "COP31 and UNICEF launched the Antalya High-Level Dialogue on Children, Youth and Climate Resilience, focused on electrification and the skills needed to build energy systems.",
+      "es": "La COP31 y UNICEF pusieron en marcha el Diálogo de Alto Nivel de Antalya sobre la Infancia, la Juventud y la Resiliencia Climática, centrado en la electrificación y en las competencias necesarias para construir sistemas energéticos.",
+      "fr": "La COP31 et l'UNICEF ont lancé le Dialogue de haut niveau d'Antalya sur les enfants, les jeunes et la résilience climatique, axé sur l'électrification et les compétences nécessaires pour bâtir des systèmes énergétiques.",
+      "ru": "КС-31 и ЮНИСЕФ начали Антальский диалог высокого уровня по детям, молодёжи и климатической устойчивости, посвящённый электрификации и навыкам, необходимым для создания энергосистем.",
+      "zh": "COP31与联合国儿童基金会（UNICEF）发起了安塔利亚儿童、青年与气候韧性高级别对话，重点关注电气化以及建设能源系统所需的技能。主席团与绿色教育伙伴关系（Greening Education Partnership）联合土耳其国家教育部、联合国教科文组织（UNESCO）和经合组织（OECD），推进关于绿色教育的 Antalya Protocol for Action，青年主导气候论坛则让青年与谈判代表直接交流。教科文组织数据显示，95%的教师希望在学校讲授气候变化，但只有三分之一的教师认为自己能够解释其区域影响；涉及行动议程和电气化两条主线。",
+      "ar": "أطلقت COP31 واليونيسف حوار أنطاليا رفيع المستوى بشأن الأطفال والشباب والقدرة على الصمود المناخي، مع التركيز على الكهربة والمهارات اللازمة لبناء منظومات الطاقة. وعززت الرئاسة وشراكة التعليم الأخضر (Greening Education Partnership)، بالتعاون مع وزارة التربية الوطنية التركية واليونسكو ومنظمة التعاون والتنمية في الميدان…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
     "id": "st-instagram-muratkurum-20261115-primeira-semana",
     "section": "action",
     "score": 0.44,
@@ -2601,6 +2708,43 @@
   ],
   "civil": [
    {
+    "id": "st-can-international-2026-11-14-australia-jtm",
+    "section": "civil",
+    "score": 0.375,
+    "lead": {
+     "id": "can-international-2026-11-14-australia-jtm",
+     "title": "COP31: Australia told to 'stop dicking around' as Just Transition ambition is weakened",
+     "url": "https://climatenetwork.org/2026/11/14/cop31-australia-told-to-stop-dicking-around-as-just-transition-ambition-is-weakened/",
+     "publisher": "CAN International",
+     "author": "Attila Kulcsar",
+     "published": "2026-11-14",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Eletrificação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Climate Action Network International critica a Austrália por liderança fraca como presidente de negociações da COP31, apontando oportunidades perdidas de anunciar finanças ou tratar de combustíveis fósseis.",
+     "collected_at": "2026-11-15T00:18:21-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Climate Action Network International criticises Australia for weak leadership as COP31 President of Negotiations, pointing to missed chances to announce finance or address fossil fuels.",
+      "es": "La Red de Acción Climática Internacional (CAN) critica a Australia por su liderazgo débil como presidente de negociaciones de la COP31, señalando oportunidades perdidas para anunciar financiación o abordar los combustibles fósiles.",
+      "fr": "Le Réseau action climat international (CAN) critique l'Australie pour son leadership insuffisant en tant que présidente des négociations de la COP31, évoquant des occasions manquées d'annoncer des financements ou d'aborder les combustibles fossiles.",
+      "ru": "Международная сеть климатических действий (CAN) критикует Австралию за слабое лидерство на посту председателя переговоров КС-31, указывая на упущенные возможности объявить о финансировании или заняться ископаемым топливом.",
+      "zh": "国际气候行动网络（CAN）批评澳大利亚作为COP31谈判主席领导乏力，指出其错失了宣布资金或处理化石燃料问题的机会。该组织认为贝伦-安塔利亚公正转型机制草案缺乏资源和雄心，有沦为又一个官僚程序的风险，发言人还警告称电气化并不必然公正或绿色。涉及公正转型、电气化和主席国议题。",
+      "ar": "تنتقد شبكة العمل المناخي الدولية أستراليا لضعف قيادتها بصفتها رئيسة المفاوضات في COP31، مشيرةً إلى فرص ضائعة للإعلان عن تمويل أو لمعالجة الوقود الأحفوري. وترى الشبكة أن مشروع آلية الانتقال العادل بيليم-أنطاليا يفتقر إلى الموارد والطموح وقد يتحول إلى عملية بيروقراطية أخرى، وتحذّر الناطقات من أن الكهربة ليست عادلة أو…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-14-bad-jokes-boys-club",
     "section": "civil",
     "score": 0.281,
@@ -2828,11 +2972,14 @@
    "bluesky-enb-iisd-org-20261114-turfeiras-breakthrough",
    "bluesky-enb-iisd-org-20261115-sb-highlights-14nov",
    "can-international-2026-11-14-australia-jtm",
+   "can-international-2026-11-15-midway-brief",
    "climate-home-news-2026-11-13-trade-cooperation",
    "climate-home-news-2026-11-14-bulletin-day-6",
    "climate-home-news-2026-11-15-turkiye-water",
    "cop30-presidency-daily-brief-2026-11-13",
    "cop31-tr-2026-11-14-finance-trade-day",
+   "cop31-tr-2026-11-16-first-week",
+   "cop31-tr-2026-11-16-industry-ai",
    "instagram-turkiyecop31-20261115-onebillion",
    "sefia-2026-11-14-cop31-day-6",
    "unfccc-2026-11-14-stiell-midpoint",
