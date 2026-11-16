@@ -1,6 +1,55 @@
 {
-  "changes": [],
-  "checked_at": "2026-11-16T11:26:36.287398Z",
+  "changes": [
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "withdrawn",
+      "document_id": "10000282",
+      "event_id": "373b3df7e7217000406dee14"
+    },
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "revised",
+      "document_id": "10000319",
+      "event_id": "a4a6e7205cb4e179046a58e0"
+    },
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "withdrawn",
+      "document_id": "10000267",
+      "event_id": "c06ce73e7f5a5ae834cc2b34"
+    },
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "new",
+      "document_id": "10000331",
+      "event_id": "33ea8ca6288a14a93d073c33"
+    },
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "new",
+      "document_id": "10000332",
+      "event_id": "edb15bf6e2f32e21cf4046b1"
+    },
+    {
+      "at": "2026-11-16T16:20:28.541837Z",
+      "change": "new",
+      "document_id": "10000333",
+      "event_id": "3536ff2c04598d3441300a4a"
+    },
+    {
+      "at": "2026-11-16T17:30:44.564120Z",
+      "change": "withdrawn",
+      "document_id": "10000324",
+      "event_id": "4e9da1cea0ecc450e8fc81e8"
+    },
+    {
+      "at": "2026-11-16T17:30:44.564120Z",
+      "change": "new",
+      "document_id": "10000335",
+      "event_id": "0782269ef912a95b80c1fe7e"
+    }
+  ],
+  "checked_at": "2026-11-16T17:30:44.564120Z",
   "degraded": false,
   "documents": [
     {
@@ -234,6 +283,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMP 21 6; CMA 8 11(e)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "e3070543fe01e4424b2185be16f9e17aec5cb7e173eed62c40f8610b7a40089f",
+          "url": "https://docs.unfccc.int/documents/10000331/files/en/AF%20Matters_DT_CMP21CMA8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMP21.i6_CMA8.i.11e.1",
+      "id": "10000331",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-16T12:05:35.452045Z",
+      "published_at": "2026-11-16T12:00:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000331/metadata",
+      "status": "draft",
+      "title": "Matters relating to the Adaptation Fund",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
       "agenda": "CMA 8 11(g)",
       "attachments": [
         {
@@ -260,7 +331,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "070d276727bb3f2d3c0e95c8537088d7cdae9f17bef61e500a6e7495b5f1f541",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000282/files/en/GST_NDC_DT_cma8.pdf"
         }
       ],
@@ -268,10 +339,32 @@
       "document_code": "DT.CMA8.i4.1",
       "id": "10000282",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-12T20:52:28.583266Z",
+      "modified_at": "2026-11-16T12:13:58.258437Z",
       "published_at": "2026-11-12T20:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000282/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
+      "topic": "GST / IPCC",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 4",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "1855101e5dbe3b38ee79adbea49cede65ab0a3dc6c5cdf05812c3ea7b5ce7675",
+          "url": "https://docs.unfccc.int/documents/10000332/files/en/GST_NDC_DT_cma81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i4.2",
+      "id": "10000332",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T12:12:55.671567Z",
+      "published_at": "2026-11-16T11:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000332/metadata",
       "status": "draft",
       "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
       "topic": "GST / IPCC",
@@ -806,7 +899,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "b2fa65339444e62ac487f4c111997c7909cbaff4b6cfca994bf4822eb6941509",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000267/files/en/FRLD_DT_COP31.pdf"
         }
       ],
@@ -814,14 +907,14 @@
       "document_code": "DT.COP31.8e_CMA8.11d.1",
       "id": "10000267",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-12T08:24:29.985632Z",
+      "modified_at": "2026-11-16T12:23:23.206944Z",
       "published_at": "2026-11-12T07:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000267/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 11",
@@ -1291,7 +1384,7 @@
       "document_code": "FCCC/PA/CMA/2026/L.1",
       "id": "10000294",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-14T16:12:40.727281Z",
+      "modified_at": "2026-11-16T16:52:07.882093Z",
       "published_at": "2026-11-13T17:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000294/metadata",
@@ -1661,7 +1754,7 @@
       "document_code": "FCCC/KP/CMP/2026/L.1",
       "id": "10000309",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-14T16:17:21.372455Z",
+      "modified_at": "2026-11-16T16:47:55.833602Z",
       "published_at": "2026-11-14T08:30:00Z",
       "session": "CMP 21",
       "source_url": "https://docs.unfccc.int/documents/10000309/metadata",
@@ -1853,17 +1946,42 @@
       "agenda": "SBI 65 21",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "1945f8146c78e3c57e62fd9230906149ac9379fe5c3a5907e0b77f824b8e41a0",
+          "url": "https://docs.unfccc.int/documents/10000319/files/ar/sbi2026_L23A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "b22c1a92cc7e2f4ec9213fb501b162738b98548e01361188bca00f16c7ec93c4",
-          "url": "https://docs.unfccc.int/documents/10000319/files/en/SBI65_draft_report.pdf"
+          "sha256": "03ccb740269013ddf21d076d048e5727d0699d7546b00822ed95bd0082583039",
+          "url": "https://docs.unfccc.int/documents/10000319/files/en/sbi2026_L23E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "7c588c2adba7a91592b38c8f5acd58e06e6fcf6991cb4a04eeea3c3632966495",
+          "url": "https://docs.unfccc.int/documents/10000319/files/es/sbi2026_L23S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "5304cab85daba62b8bf84549ca0f508b542d759bac03c9bda52570605c95a7fa",
+          "url": "https://docs.unfccc.int/documents/10000319/files/fr/sbi2026_L23F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "ba2255a1466d8ec6d8855cfb26608eabf6626bc0bf5524f24775d8b0aa64d8c5",
+          "url": "https://docs.unfccc.int/documents/10000319/files/ru/sbi2026_L23R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "bbfe301f50c44e3b07d4c1d0bd9c69d5030827a82098cb70673be495993dbb9b",
+          "url": "https://docs.unfccc.int/documents/10000319/files/zh/sbi2026_L23C.pdf"
         }
       ],
       "body": "Subsidiary Body for Implementation (SBI)",
       "document_code": "FCCC/SBI/2026/L.23",
       "id": "10000319",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-14T18:21:44.313372Z",
-      "published_at": "2026-11-14T18:15:00Z",
+      "modified_at": "2026-11-16T15:39:44.881787Z",
+      "published_at": "2026-11-14T16:15:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000319/metadata",
       "status": "unknown",
@@ -1958,7 +2076,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "9513f165dc38177a9c40a614c804c241efa94dd367b62610f35f8f51d24229da",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000324/files/en/RM_DT_SB653.pdf"
         }
       ],
@@ -1966,14 +2084,14 @@
       "document_code": "DT.SBSTA65.i8_SBI65.i8.3",
       "id": "10000324",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-14T20:00:22.644958Z",
+      "modified_at": "2026-11-16T17:28:36.137069Z",
       "published_at": "2026-11-14T19:25:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000324/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Matters relating to the forum on the impact of the implementation of response measures serving the Convention, the Kyoto Protocol and the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBSTA 65 10; SBI 65 13(a)",
@@ -2086,6 +2204,50 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 8(e); CMA 8 11(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "81e1c4a36989ef2374579dceaa78762031fd5104f127c3833b8564c456718de3",
+          "url": "https://docs.unfccc.int/documents/10000333/files/en/FRLD_DT_COP311.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.8e_CMA8.11d.2",
+      "id": "10000333",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T12:20:45.170526Z",
+      "published_at": "2026-11-16T12:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000333/metadata",
+      "status": "draft",
+      "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "cc10223c005dd66ee51da0e16899b0138e3ac31e3d5fd3cd68038f53ef43e8c2",
+          "url": "https://docs.unfccc.int/documents/10000335/files/en/RM_DT_cop311.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i12_CMP21.i7_CMA8.i15.1",
+      "id": "10000335",
+      "metadata_version": "6.0",
+      "modified_at": "2026-11-16T17:26:39.031745Z",
+      "published_at": "2026-11-16T17:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000335/metadata",
+      "status": "draft",
+      "title": "Report of the forum on the impact of the implementation of response measures",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2130,9 +2292,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 0,
-  "last_attempt": "2026-11-16T11:26:36.287398Z",
-  "last_success": "2026-11-16T11:26:36.287398Z",
+  "history_count": 8,
+  "last_attempt": "2026-11-16T17:30:44.564120Z",
+  "last_success": "2026-11-16T17:30:44.564120Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
