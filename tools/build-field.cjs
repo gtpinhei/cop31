@@ -16,7 +16,7 @@ fs.mkdirSync(path.join(out,'data'));for(const f of ['feed.json','briefing.json',
 const docInput=process.argv[3]||path.join(root,'data/negotiating-texts.json');
 if(fs.existsSync(docInput)){
  const d=JSON.parse(fs.readFileSync(docInput,'utf8'));
- const top=new Set(['schema','documents','changes','checked_at','last_success','last_attempt','degraded','sources','history_count','error']);
+ const top=new Set(['schema','documents','changes','checked_at','last_success','last_attempt','degraded','sources','history_count','error','verification_mode']);
  const fields=new Set(['id','title','body','session','agenda','document_code','published_at','modified_at','metadata_version','status','withdrawn','attachments','topic','source_url']);
  const official=u=>{try{const v=new URL(u);return v.protocol==='https:'&&['docs.unfccc.int','unfccc.int'].includes(v.hostname)&&!v.username&&!v.password&&(!v.port||v.port==='443')}catch{return false}};
  if(d.schema!==1||!Array.isArray(d.documents)||!Array.isArray(d.changes)||Object.keys(d).some(k=>!top.has(k)))throw Error('Not a public document projection');
