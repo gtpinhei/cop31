@@ -11971,6 +11971,32 @@
    "source_id": "x-turkiyecop31"
   },
   {
+   "id": "gecf-2026-11-10-electrification-35-gas-demand",
+   "institution": "GECF (Gas Exporting Countries Forum)",
+   "type": "análise",
+   "title": "Expert Commentary: Electrification to 35% by 2035: Implications of the COP31 Goal for Natural Gas Demand",
+   "date": "2026-11-10",
+   "authors": "Mohammad Amin Naderian e Masoumeh Moradzadeh (GECF)",
+   "url": "https://www.gecf.org/Events-Conferences/Events-HH/ArticleID/1803/Expert-Commentary-Electrification-to-35-by-2035-Implications-of-the-COP31-Goal-for-Natural-Gas-Demand",
+   "summary": "Comentário de especialistas publicado pelo GECF, fórum dos países exportadores de gás, sobre a meta proposta pela presidência da COP31 de levar a eletricidade a 35% do consumo final de energia até 2035 (ante cerca de 24% hoje). Com base em um cenário do modelo global de gás do GECF, os autores argumentam que cumprir a meta elevaria a demanda mundial de gás no período e que isso deveria se refletir no desenho da meta; no cenário de referência do GECF, a eletricidade chega a 29,4%. Toca as trilhas de Eletrificação e TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Expert commentary published by the GECF, the forum of gas-exporting countries, on the COP31 Presidency's proposed goal of raising electricity to 35% of final energy consumption by 2035 (from about 24% today). Based on a scenario from the GECF global gas model, the authors argue that meeting the target would raise world gas demand over the period and that this should be reflected in the target's design; in the GECF reference case, electricity reaches 29.4%. It bears on the Electrification and TAFF and fossil fuels tracks.",
+    "es": "Comentario de expertos publicado por el GECF, el foro de países exportadores de gas, sobre la meta propuesta por la Presidencia de la COP31 de llevar la electricidad al 35% del consumo final de energía para 2035 (frente a cerca del 24% actual). Con base en un escenario del modelo mundial de gas del GECF, los autores sostienen que cumplir la meta elevaría la demanda mundial de gas en el período y que ello debería reflejarse en el diseño de la meta; en el escenario de referencia del GECF, la electricidad alcanza el 29,4%. Afecta a las líneas de Electrificación y TAFF y combustibles fósiles.",
+    "fr": "Commentaire d'experts publié par le GECF, le forum des pays exportateurs de gaz, sur l'objectif proposé par la Présidence de la COP31 de porter l'électricité à 35 % de la consommation finale d'énergie d'ici 2035 (contre environ 24 % aujourd'hui). S'appuyant sur un scénario du modèle mondial du gaz du GECF, les auteurs soutiennent qu'atteindre l'objectif accroîtrait la demande mondiale de gaz sur la période et que cela devrait se refléter dans la conception de l'objectif ; dans le scénario de référence du GECF, l'électricité atteint 29,4 %. Concerne les volets Électrification et TAFF et combustibles fossiles.",
+    "ru": "Экспертный комментарий, опубликованный ФСЭГ (форумом стран — экспортёров газа), о предложенной Председательством COP31 цели довести долю электроэнергии до 35% конечного энергопотребления к 2035 году (против примерно 24% сегодня). Опираясь на сценарий глобальной газовой модели ФСЭГ, авторы утверждают, что достижение цели увеличит мировой спрос на газ в этот период и что это должно быть отражено в её структуре; в базовом сценарии ФСЭГ доля электроэнергии достигает 29,4%. Касается направлений «Электрификация» и «TAFF и ископаемое топливо».",
+    "zh": "天然气出口国论坛（GECF）发布的专家评论，探讨COP31主席国提出的到2035年将电力在终端能源消费中的占比提高到35%（目前约为24%）的目标。作者基于GECF全球天然气模型的一个情景认为，实现该目标将在此期间推高全球天然气需求，目标设计应反映这一点；在GECF参考情景中，电力占比达到29.4%。涉及电气化和TAFF与化石燃料等议题。",
+    "ar": "تعليق خبراء نشره منتدى الدول المصدرة للغاز (GECF) حول الهدف الذي اقترحته رئاسة COP31 لرفع حصة الكهرباء إلى 35% من الاستهلاك النهائي للطاقة بحلول عام 2035 (مقارنة بنحو 24% اليوم). واستنادًا إلى سيناريو من نموذج الغاز العالمي للمنتدى، يحتج المؤلفان بأن تحقيق الهدف سيرفع الطلب العالمي على الغاز خلال هذه الفترة، وأن ذلك ينبغي أن ينعكس في تصميم الهدف؛ وفي السيناريو المرجعي للمنتدى تبلغ حصة الكهرباء 29.4%. يتعلق بمساري الكهربة وTAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:45:00-03:00",
+   "lang": "en",
+   "source_id": "web-gecf-org-events-conferences-gecf-at-cop"
+  },
+  {
    "id": "oilchange-2026-11-10-planning-or-chaos",
    "institution": "Oil Change International",
    "type": "briefing",
