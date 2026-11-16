@@ -73,6 +73,13 @@ class WireTests(unittest.TestCase):
     def test_missing_timestamp_not_spcreated(self):
         r=row();del r['publicationDate'];r['spCreated']=STAMP
         self.assertIsNone(c.normalize_wire(r)['published_at'])
+    def test_verification_mode_is_explicit(self):
+        _,p=c.run(Fake(),empty(),STAMP,hash_files=False)
+        self.assertEqual(p['verification_mode'],'metadata-only')
+        state,p=c.run(Fake(),empty(),STAMP)
+        self.assertEqual(p['verification_mode'],'pdf-hashes')
+        retained=c.public_payload(state,p,STAMP,True)
+        self.assertEqual(retained['verification_mode'],'pdf-hashes')
     def test_public_restore_no_bootstrap_events(self):
         f=Fake();_,p=c.run(f,empty(),STAMP)
         with tempfile.TemporaryDirectory() as directory:

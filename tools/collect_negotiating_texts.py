@@ -150,7 +150,7 @@ def collect(transport, state, stamp, hash_files=True):
     return {'snapshot_complete':True, 'checked_at':stamp, 'documents':list(rows.values())}
 
 def public_payload(state, payload, stamp, degraded=False):
-    payload.update(last_attempt=stamp, degraded=degraded)
+    payload.update(last_attempt=stamp, degraded=degraded, verification_mode=state.get('verification_mode', 'metadata-only'))
     cutoff = (dt.datetime.fromisoformat(stamp.replace('Z','+00:00')) - dt.timedelta(hours=24)).isoformat().replace('+00:00','Z')
     # Public change history is bounded; private delivered-alert state is never exported.
     payload['changes'] = [copy.deepcopy(e) for e in state.get('events', []) if cutoff <= e['at'] <= stamp][-500:]
@@ -163,6 +163,7 @@ def run(transport, state, stamp, hash_files=True):
     candidate = copy.deepcopy(state)
     data = collect(transport, candidate, stamp, hash_files)
     updated, payload = apply(data, candidate)
+    updated['verification_mode'] = 'pdf-hashes' if hash_files else 'metadata-only'
     return updated, public_payload(updated, payload, stamp)
 
 def restore_public(path):
@@ -182,7 +183,7 @@ def restore_public(path):
         if not isinstance(event,dict) or not re.fullmatch(r'[a-f0-9]{24}',str(event.get('event_id',''))) or str(event.get('document_id')) not in docs or event.get('change') not in {'new','revised','withdrawn','reinstated'} or not iso(event.get('at')):
             raise ValueError('invalid public change')
         events.append({k:event[k] for k in ('event_id','document_id','change','at')})
-    return {'schema':1,'initialized':True,'documents':docs,'events':events[-500:],'last_success':stamp}
+    return {'schema':1,'initialized':True,'documents':docs,'events':events[-500:],'last_success':stamp,'verification_mode':obj.get('verification_mode') if obj.get('verification_mode') in ('metadata-only','pdf-hashes') else 'metadata-only'}
 
 def main():
     p=argparse.ArgumentParser(description=__doc__)
