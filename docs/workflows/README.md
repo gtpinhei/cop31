@@ -28,3 +28,8 @@ The examples depend on collector exit0/1 and atomic-output guarantees; verify th
 
 Root monitor reconciliation and repository activation are release actions, not performed
 by creating these examples. New external runner/provider accounts are not required.
+
+Official reference checks (16 November 2026):
+- [Scheduled workflows can be delayed/dropped](https://docs.github.com/en/actions/how-tos/troubleshoot-workflows). Example runs at minutes3,13,… rather than the top of the hour.
+- [Token-triggered workflow exceptions](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow): workflow_dispatch is explicitly allowed; ordinary bot pushes do not start normal push workflows.
+- [Custom Pages workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages): validate Pages configuration and required deploy permissions before activation.
