@@ -7,7 +7,7 @@
 | Previous destination | New home | Treatment |
 |---|---|---|
 | #hoje | Today | Full briefing essential, negotiations, action and civil selections; duplicate lead URLs removed across the daily view. Related-source links retained. |
-| #atualizacoes, #pulso | Pulse | One canonical URL record; All/Publications/Social, search, institution, topic, platform, account and date-range filters; pagination. |
+| #atualizacoes, #pulso | Pulse | Conservative source-record identity; All/Publications/Social, search, institution, topic, platform, account and date-range filters; pagination. |
 | #mapa | Explore / Topics | Negotiating track framework, preserved source links. |
 | #belem | Explore / Topics | Historical mandates and unresolved questions, saved-reference label. |
 | #testes | Explore / Topics | Explicit E3G assessment-framework attribution, not an official verdict. |
@@ -27,22 +27,23 @@ Original section hash aliases and nested reference IDs route to their new home. 
 
 ## Evidence and preservation
 
-Public live HTML, feed and briefing fetched on 16 November, not private documents. Source snapshots remain in the bundle. The feed contains **810 input records and 632 distinct URL keys**. Pulse renders one canonical item per URL; all original input records remain in feed.json, with per-record IDs, institution, date and collection time exposed under source details. Topic labels are unioned. No distinct URL was dropped.
+Public live HTML, feed and briefing fetched on 16 November, not private documents. Source snapshots remain in the bundle. The feed contains **810 input records and 810 displayed records**. The initial URL-only grouping was rejected in independent review because profile fallback links are shared by distinct posts. Identity now requires the same source ID, record ID, platform, URL, author/account, publication date/time and content evidence. Distinct IDs and unidentified records are not collapsed. Exact repeated observations can share a display record while retaining every provenance observation and unioned topic labels. All 55 records linking to the Türkiye COP31 X profile and all 28 linking to Murat Kurum’s X profile remain independently visible.
 
 All **341** inline Carbon Brief rows preserved in positions.json, including original English question/topic text. All **15** reference sections preserved in seven existing locale variants using the site's own hashed translation maps. External attribution and original dates remain. Metadata versions in Texts are explicitly not substantive document diffs; document catalogue snapshot is unchanged from the prior prototype and is not a live 10-minute feed.
 
 ## Tests actually run
 
 - Existing baseline DOM suite: plain wordmark, seven language shell renders/Arabic direction, document filters/reset/pagination/theme and official PDF links.
-- New migration DOM suite: complete daily sections, 632 canonical feed items/810 source records, social filter and pagination, 341 positions/actor filter/reset, all 15 retained-section aliases, seven reference locale loads, Arabic RTL and no media embeds.
+- New migration DOM suite: complete daily sections, 810 preserved feed items/810 source records, social filter and pagination, 341 positions/actor filter/reset, all 15 retained-section aliases, seven reference locale loads, Arabic RTL and no media embeds.
+- Adversarial canonicalization tests: shared profile URLs, distinct IDs with identical text, reused IDs with changed content, different platforms/dates, missing IDs, true repeated observations and provenance preservation. All 810 input records are represented.
 - Lazy data requests only; no timers or repeated background polling.
 
 ## Remaining release gates, not claims of completion
 
 - Browser rendering/mobile layout, keyboard and screen-reader checks still need real-browser QA. DOM tests are not accessibility certification.
 - New controls beyond main destination/search labels still fall back to English in five locales; fluent review and complete UI translation remain required. Existing reference translations are preserved, not independently verified.
-- Some old contextual summaries overlap (especially Brazil/roadmap and actor synthesis). They are preserved deliberately rather than silently deleted; final editorial consolidation into canonical issue records remains pending. Top-level duplicated destinations and duplicate feed URL cards are removed now.
-- Canonical feed records use the first snapshot record as display text, retaining variant provenance; editorial choice of preferred rendition and unioning all variant classifications needs review.
+- Some old contextual summaries overlap (especially Brazil/roadmap and actor synthesis). They are preserved deliberately rather than silently deleted; final editorial consolidation into canonical issue records remains pending. Top-level duplicated destinations are removed now. Shared profile links are correctly retained as distinct posts.
+- Canonical feed records merge only repeated observations with matching stable identity and content evidence, retaining variant provenance. Distinct record IDs remain separate even when URLs coincide.
 - Positions search/filter works, but the previous actors-by-position aggregate visual is not recreated yet. Calendar is retained as reference, not live scheduling.
 - Arbitrary nested anchors belonging to generated old feed rows cannot resolve if they were never present in public HTML; original section anchors and static reference anchors are supported.
 - Private original analysis has a future home under Topics / Analysis & evidence, but no new analytical content has been imported or published. Further briefs require editorial authorization.
