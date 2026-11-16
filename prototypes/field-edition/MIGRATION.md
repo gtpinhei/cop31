@@ -53,3 +53,9 @@ All **341** inline Carbon Brief rows preserved in positions.json, including orig
 ## Reproducibility
 
 `build-migration.cjs` extracts public reference sections and the 341-row dataset from `source-public.html`, sanitizes executable elements/handlers and builds locale assets using the original site's translation mechanism. Requires repository development jsdom. `migration-test.cjs` verifies the isolated prototype. No production files changed.
+
+### Explore readability pass (16 November)
+- Prose is limited to 68 characters of approximate measure, with increased leading and explicit heading/list spacing. Tables retain their comparisons and scroll within their own container; cards become one column on small screens.
+- The especially dense think-tank report introduction has three semantic bullets for its three tests, followed by separate thematic paragraphs. Editorial boundary phrases are specified for all seven languages; no automatic sentence splitting or new claims are used.
+- `readability.cjs` is included in asset generation. `node prototypes/field-edition/readability-test.cjs` verifies exact character preservation, links/anchors, reproducibility and idempotence against the pre-readability commit across 105 sections.
+- Existing functional, migration, canonical-record and locale suites pass. This is structural/CSS QA, not a claim of completed real-browser visual or assistive-technology testing. No live-site deployment is included.
