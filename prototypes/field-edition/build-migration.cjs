@@ -1,7 +1,7 @@
 const fs=require('fs'),path=require('path'),{JSDOM}=require('../../tools/node_modules/jsdom');
 const base=process.env.COP31_REFERENCE_OUTPUT||__dirname,source=fs.readFileSync(process.env.COP31_REFERENCE_SOURCE||path.join(__dirname,'source-public.html'),'utf8');
 const core=source.match(/\/\*i18n-core-begin\*\/([\s\S]*?)\/\*i18n-core-end\*\//)[1];
-const dom=new JSDOM(source,{runScripts:'outside-only'});dom.window.eval(core);const key=Object.keys(dom.window).filter(k=>dom.window[k]?.collect&&dom.window[k]?.hash)[0];
+const dom=new JSDOM(source,{url:'https://cop31.grupotrie.com.br/',runScripts:'outside-only'});dom.window.eval(core);const key=Object.keys(Object.getOwnPropertyDescriptors(dom.window)).find(k=>{const v=Object.getOwnPropertyDescriptor(dom.window,k)?.value;return v?.collect&&v?.hash});if(!key)throw Error('Public translation core not found');
 const names=['panorama','belem','testes','mapa','radar','thinktanks','agenda','posicoes','brasil','quem','calendario','terreno','glossario','fontes','privacidade'];
 const positions=JSON.parse(source.match(/var DATA = (\[.*?\]);/s)[1]);fs.writeFileSync(path.join(base,'positions.json'),JSON.stringify(positions));
 for(const lang of ['en','pt','es','fr','ru','zh','ar']){
