@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T12:20:09-03:00",
+ "generated_at": "2026-11-16T18:15:48-03:00",
  "round": {
-  "timestamp": "2026-11-16T12:20:09-03:00",
-  "label": "16 nov 2026, 12:20 (Brasília)",
-  "sites_checked": 56,
-  "blocked": 16,
-  "new_items": 5,
-  "fetches": "64 de 60",
+  "timestamp": "2026-11-16T18:15:48-03:00",
+  "label": "16 nov 2026, 18:15 (Brasília)",
+  "sites_checked": 63,
+  "blocked": 21,
+  "new_items": 13,
+  "fetches": "63 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -20,9 +20,14 @@
    "web-wwf-panda-org-wwf-news",
    "web-christianaid-org-uk-news",
    "web-foei-org-news",
+   "web-institutotalanoa-org-publicacoes",
+   "web-politicaporinteiro-org-en",
+   "web-transforma-global",
    "web-icccad-net-news",
    "web-cseindia-org-page-cop31",
+   "web-wemeanbusinesscoalition-org-news",
    "web-eurodad-org-news",
+   "web-carbon-pulse-com-category-international",
    "web-odi-org-en-insights",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-ember-energy-org-latest-insights"
@@ -46,6 +51,138 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "350org-cover-decision-draft-2026-11-16",
+   "institution": "350.org",
+   "type": "comunicado",
+   "title": "First draft text of COP31 cover decision out: 350.org reacts",
+   "date": "2026-11-16",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/first-draft-text-of-cop31-cover-decision-out-350org-reacts/",
+   "summary": "A 350.org reage ao primeiro rascunho do texto da decisão de cobertura da COP31, divulgado em 16 de novembro. O comunicado se insere no debate sobre fósseis e finanças na decisão final.",
+   "summary_i18n": {
+    "en": "350.org reacts to the first draft text of the COP31 cover decision, released on 16 November. The statement feeds into the debate on fossil fuels and finance in the final decision.",
+    "es": "350.org reacciona al primer borrador del texto de la decisión de cobertura de la COP31, publicado el 16 de noviembre. El comunicado se inscribe en el debate sobre los combustibles fósiles y la financiación en la decisión final.",
+    "fr": "350.org réagit au premier projet de texte de la décision de couverture de la COP31, publié le 16 novembre. Le communiqué s'inscrit dans le débat sur les combustibles fossiles et le financement dans la décision finale.",
+    "ru": "350.org реагирует на первый проект текста общего решения КС-31, опубликованный 16 ноября. Заявление отражает дискуссию об ископаемом топливе и финансировании в итоговом решении.",
+    "zh": "350.org 对 11 月 16 日发布的 COP31 综合决定案文初稿作出回应。该声明涉及最终决定中关于化石燃料和资金的讨论。",
+    "ar": "ردّت منظمة 350.org على المسودة الأولى لنص القرار الجامع لمؤتمر COP31 الصادرة في 16 نوفمبر. ويندرج البيان في النقاش حول الوقود الأحفوري والتمويل في القرار النهائي."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-peoples-climate-summit-2026-11-16",
+   "institution": "350.org",
+   "type": "comunicado",
+   "title": "As COP31 talks remain divided, communities are building the fossil-free future at the Peoples' Climate Summit",
+   "date": "2026-11-16",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/as-cop31-talks-remain-divided-communities-are-building-the-fossil-free-future-at-the-peoples-climate-summit/",
+   "summary": "A 350.org destaca a Cúpula dos Povos pelo Clima, em que comunidades constroem um futuro livre de fósseis enquanto as negociações da COP31 seguem divididas. O texto contrasta a mobilização de base com o impasse em Antalya.",
+   "summary_i18n": {
+    "en": "350.org highlights the Peoples' Climate Summit, where communities are building a fossil-free future while the COP31 negotiations remain divided. The text contrasts grassroots mobilisation with the deadlock in Antalya.",
+    "es": "La 350.org destaca la Cumbre de los Pueblos por el Clima, donde las comunidades construyen un futuro libre de combustibles fósiles mientras las negociaciones de la COP31 siguen divididas. El texto contrasta la movilización de base con el estancamiento en Antalya.",
+    "fr": "350.org met en avant le Sommet des peuples pour le climat, où des communautés construisent un avenir sans combustibles fossiles alors que les négociations de la COP31 restent divisées. Le texte oppose la mobilisation citoyenne à l'impasse d'Antalya.",
+    "ru": "350.org подчёркивает Народный климатический саммит, на котором сообщества строят будущее без ископаемого топлива, пока переговоры на КС-31 остаются разделёнными. В тексте мобилизация низовых организаций противопоставляется тупику в Анталье.",
+    "zh": "350.org 重点介绍人民气候峰会：在 COP31 谈判仍存分歧之际，各社区正在建设无化石燃料的未来。文章将基层动员与安塔利亚的僵局作了对比。",
+    "ar": "تسلّط 350.org الضوء على قمة الشعوب من أجل المناخ، حيث تبني المجتمعات المحلية مستقبلاً خالياً من الوقود الأحفوري بينما تظل مفاوضات COP31 منقسمة. ويقارن النص بين الحشد الشعبي والجمود في أنطاليا."
+   },
+   "tracks": [
+    "Espaço cívico",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-japan-nuclear-2026-11-16",
+   "institution": "350.org",
+   "type": "comunicado",
+   "title": "350.org reacts to Japan's push for nuclear power amid UN climate talks",
+   "date": "2026-11-16",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/350org-reacts-to-japans-push-for-nuclear-power-amid-un-climate-talks/",
+   "summary": "A 350.org reage à defesa da energia nuclear pelo Japão durante as negociações climáticas da ONU em Antalya. O comunicado se relaciona às discussões de mitigação e transição energética.",
+   "summary_i18n": {
+    "en": "350.org reacts to Japan's push for nuclear power during the UN climate talks in Antalya. The statement bears on the mitigation and energy transition discussions.",
+    "es": "La 350.org reacciona al impulso de Japón a la energía nuclear durante las conversaciones climáticas de la ONU en Antalya. El comunicado se relaciona con los debates sobre mitigación y transición energética.",
+    "fr": "350.org réagit à la promotion du nucléaire par le Japon lors des négociations climatiques de l'ONU à Antalya. Le communiqué concerne les discussions sur l'atténuation et la transition énergétique.",
+    "ru": "350.org реагирует на продвижение Японией атомной энергетики в ходе климатических переговоров ООН в Анталье. Заявление относится к обсуждению смягчения последствий и энергетического перехода.",
+    "zh": "350.org 对日本在安塔利亚联合国气候谈判期间推动核电作出回应。该声明涉及减缓与能源转型方面的讨论。",
+    "ar": "ردّت 350.org على دفع اليابان باتجاه الطاقة النووية خلال محادثات الأمم المتحدة للمناخ في أنطاليا. ويتصل البيان بنقاشات التخفيف وتحول الطاقة."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "unfccc-presidency-note-cover-decision-2026-11-16",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Cover decision - COP 31 Presidency note on draft text",
+   "date": "2026-11-16",
+   "authors": "COP 31 Presidency / UNFCCC",
+   "url": "https://unfccc.int/documents/665035",
+   "summary": "Nota da Presidência da COP31 que acompanha o rascunho do texto da decisão de cobertura, publicado em 16 de novembro. Só os metadados do documento foram lidos; o conteúdo não foi analisado.",
+   "summary_i18n": {
+    "en": "COP31 Presidency note accompanying the draft text of the cover decision, published on 16 November. Only the document metadata was read; the content was not analysed.",
+    "es": "Nota de la Presidencia de la COP31 que acompaña el borrador del texto de la decisión de cobertura, publicada el 16 de noviembre. Solo se leyeron los metadatos del documento; no se analizó el contenido.",
+    "fr": "Note de la présidence de la COP31 accompagnant le projet de texte de la décision de couverture, publiée le 16 novembre. Seules les métadonnées du document ont été lues ; le contenu n'a pas été analysé.",
+    "ru": "Записка Председательства КС-31, сопровождающая проект текста общего решения, опубликованная 16 ноября. Прочитаны только метаданные документа; содержание не анализировалось.",
+    "zh": "COP31 主席团随 11 月 16 日发布的综合决定案文草案附上的说明。仅读取了文件元数据，未分析具体内容。",
+    "ar": "مذكرة من رئاسة COP31 مرفقة بمسودة نص القرار الجامع الصادرة في 16 نوفمبر. لم تُقرأ سوى البيانات الوصفية للوثيقة ولم يُحلَّل المضمون."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "cop31tr-ocean-seas-compact-2026-11-16",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "Antalya Ocean and Seas Compact",
+   "date": "2026-11-16",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/antalya-ocean-and-seas-compact",
+   "summary": "A Presidência da COP31 divulgou o \"Antalya Ocean and Seas Compact\" em 16 de novembro, listado entre as últimas notícias do site oficial. Só o título foi lido; o conteúdo da iniciativa não foi analisado.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency published the \"Antalya Ocean and Seas Compact\" on 16 November, listed among the latest news on the official site. Only the title was read; the initiative's content was not analysed.",
+    "es": "La Presidencia de la COP31 publicó el «Antalya Ocean and Seas Compact» el 16 de noviembre, entre las últimas noticias del sitio oficial. Solo se leyó el título; no se analizó el contenido de la iniciativa.",
+    "fr": "La présidence de la COP31 a publié l'« Antalya Ocean and Seas Compact » le 16 novembre, parmi les dernières actualités du site officiel. Seul le titre a été lu ; le contenu de l'initiative n'a pas été analysé.",
+    "ru": "Председательство КС-31 опубликовало «Antalya Ocean and Seas Compact» 16 ноября среди последних новостей официального сайта. Прочитан только заголовок; содержание инициативы не анализировалось.",
+    "zh": "COP31 主席团于 11 月 16 日在官方网站最新新闻中发布了“Antalya Ocean and Seas Compact”。仅读取了标题，未分析该倡议的具体内容。",
+    "ar": "نشرت رئاسة COP31 في 16 نوفمبر «Antalya Ocean and Seas Compact» ضمن آخر أخبار الموقع الرسمي. لم يُقرأ سوى العنوان ولم يُحلَّل مضمون المبادرة."
+   },
+   "tracks": [
+    "Oceanos",
+    "Agenda de Ação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
   {
    "id": "cop31-presidency-2026-11-16-geothermal",
    "institution": "COP31 Presidency (Türkiye/Australia)",
@@ -2921,6 +3058,58 @@
    "source_id": "ig-turkiyecop31"
   },
   {
+   "id": "wri-2026-11-13-subsidy-trap-2026-11-13",
+   "institution": "WRI",
+   "type": "análise",
+   "title": "Avoiding the Subsidy Trap: How Countries Can Prepare for the Next Energy Crisis",
+   "date": "2026-11-13",
+   "authors": "WRI",
+   "url": "https://www.wri.org/insights/avoiding-fossil-fuel-subsidy-trap-next-energy-crisis",
+   "summary": "Análise do WRI sobre como os países podem se preparar para a próxima crise energética sem cair na armadilha dos subsídios a combustíveis fósseis. Relaciona-se às trilhas de finanças e de fósseis.",
+   "summary_i18n": {
+    "en": "WRI analysis on how countries can prepare for the next energy crisis without falling into the fossil fuel subsidy trap. It bears on the finance and fossil fuel tracks.",
+    "es": "Análisis del WRI sobre cómo los países pueden prepararse para la próxima crisis energética sin caer en la trampa de los subsidios a los combustibles fósiles. Se relaciona con las vías de finanzas y de combustibles fósiles.",
+    "fr": "Analyse du WRI sur la façon dont les pays peuvent se préparer à la prochaine crise énergétique sans tomber dans le piège des subventions aux combustibles fossiles. Elle concerne les volets finance et combustibles fossiles.",
+    "ru": "Анализ WRI о том, как странам подготовиться к следующему энергетическому кризису, не попадая в ловушку субсидий на ископаемое топливо. Относится к направлениям финансов и ископаемого топлива.",
+    "zh": "WRI 的分析文章，探讨各国如何在不陷入化石燃料补贴陷阱的前提下为下一次能源危机做好准备。涉及资金和化石燃料议题。",
+    "ar": "تحليل لمعهد الموارد العالمية (WRI) حول كيفية استعداد البلدان لأزمة الطاقة المقبلة دون الوقوع في فخ دعم الوقود الأحفوري. ويتصل بمساري التمويل والوقود الأحفوري."
+   },
+   "tracks": [
+    "Finanças",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
+   "id": "greenpeace-2026-11-13-trojan-horse-2026-11-13",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "Greenpeace unveils giant Trojan Horse at COP31 to expose fossil fuel industry's plastic expansion",
+   "date": "2026-11-13",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87117/greenpeace-unveils-giant-trojan-horse-at-cop31-to-expose-fossil-fuel-industrys-plastic-expansion/",
+   "summary": "A Greenpeace expõe na COP31 um cavalo de Troia gigante para denunciar a expansão da indústria fóssil no setor de plásticos. Só o título foi lido.",
+   "summary_i18n": {
+    "en": "Greenpeace unveils a giant Trojan Horse at COP31 to expose the fossil fuel industry's expansion into plastics. Only the title was read.",
+    "es": "Greenpeace presenta en la COP31 un caballo de Troya gigante para denunciar la expansión de la industria de los combustibles fósiles en el sector del plástico. Solo se leyó el título.",
+    "fr": "Greenpeace dévoile à la COP31 un cheval de Troie géant pour dénoncer l'expansion de l'industrie fossile dans le plastique. Seul le titre a été lu.",
+    "ru": "Greenpeace представляет на КС-31 гигантского троянского коня, чтобы разоблачить экспансию индустрии ископаемого топлива в сфере пластика. Прочитан только заголовок.",
+    "zh": "绿色和平在 COP31 现场展示巨型特洛伊木马，揭露化石燃料行业向塑料领域的扩张。仅读取了标题。",
+    "ar": "تكشف غرينبيس في COP31 عن حصان طروادة عملاق لفضح توسع صناعة الوقود الأحفوري في مجال البلاستيك. لم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-greenpeace-org-international-press"
+  },
+  {
    "id": "kbpo-2026-11-13-big-polluters-cop31",
    "institution": "Kick Big Polluters Out",
    "type": "release",
@@ -5045,6 +5234,32 @@
    "first_seen": "2026-11-13T01:50:00-03:00",
    "lang": "en",
    "source_id": "bsky-unep-org"
+  },
+  {
+   "id": "kbpo-2026-11-12-advisory-2026-11-12",
+   "institution": "Kick Big Polluters Out",
+   "type": "comunicado",
+   "title": "ADVISORY: KBPO to expose egregious Big Polluter presence at COP31",
+   "date": "2026-11-12",
+   "authors": "Kick Big Polluters Out",
+   "url": "https://kickbigpollutersout.org/Advisory-CoP31",
+   "summary": "A coalizão Kick Big Polluters Out anuncia que vai expor a presença de grandes poluidores na COP31. Só o título foi lido.",
+   "summary_i18n": {
+    "en": "The Kick Big Polluters Out coalition announces it will expose the presence of big polluters at COP31. Only the title was read.",
+    "es": "La coalición Kick Big Polluters Out anuncia que expondrá la presencia de grandes contaminadores en la COP31. Solo se leyó el título.",
+    "fr": "La coalition Kick Big Polluters Out annonce qu'elle dénoncera la présence des grands pollueurs à la COP31. Seul le titre a été lu.",
+    "ru": "Коалиция Kick Big Polluters Out объявляет, что разоблачит присутствие крупных загрязнителей на КС-31. Прочитан только заголовок.",
+    "zh": "Kick Big Polluters Out 联盟宣布将揭露大型污染企业在 COP31 的存在。仅读取了标题。",
+    "ar": "يعلن ائتلاف Kick Big Polluters Out أنه سيكشف حضور كبار الملوِّثين في COP31. لم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "Espaço cívico",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-kickbigpollutersout-org-articles-and-resources"
   },
   {
    "id": "sefia-2026-11-12-day4-finance",
@@ -8588,6 +8803,32 @@
    "source_id": "ig-turkiyecop31"
   },
   {
+   "id": "greenpeace-2026-11-11-end-fossil-fuels-2026-11-11",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "World leaders at COP31 must take the baton and accelerate action to end fossil fuels",
+   "date": "2026-11-11",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87085/cop31-world-leaders-end-fossil-fuels/",
+   "summary": "A Greenpeace Internacional pede que os líderes mundiais na COP31 assumam o bastão e acelerem a ação para encerrar o uso de combustíveis fósseis. Só o título foi lido.",
+   "summary_i18n": {
+    "en": "Greenpeace International calls on world leaders at COP31 to take the baton and accelerate action to end fossil fuels. Only the title was read.",
+    "es": "Greenpeace Internacional pide a los líderes mundiales en la COP31 que tomen la posta y aceleren la acción para poner fin a los combustibles fósiles. Solo se leyó el título.",
+    "fr": "Greenpeace International demande aux dirigeants mondiaux à la COP31 de prendre le relais et d'accélérer l'action pour mettre fin aux combustibles fossiles. Seul le titre a été lu.",
+    "ru": "Greenpeace International призывает мировых лидеров на КС-31 подхватить эстафету и ускорить действия по отказу от ископаемого топлива. Прочитан только заголовок.",
+    "zh": "绿色和平国际呼吁 COP31 上的世界领导人接过接力棒，加快行动以终结化石燃料。仅读取了标题。",
+    "ar": "تدعو غرينبيس الدولية قادة العالم في COP31 إلى تسلّم الراية وتسريع العمل لإنهاء الوقود الأحفوري. لم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-greenpeace-org-international-press"
+  },
+  {
    "id": "demandclimatejustice-2026-11-11-position-paper",
    "institution": "Demand Climate Justice",
    "type": "relatório",
@@ -12110,6 +12351,32 @@
    "first_seen": "2026-11-11T01:45:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "wbcsd-2026-11-10-freight-corridors-2026-11-10",
+   "institution": "WBCSD",
+   "type": "notícia",
+   "title": "Delivering Electrification Through Zero-Emission Freight Corridors",
+   "date": "2026-11-10",
+   "authors": "WBCSD",
+   "url": "https://www.wbcsd.org/news/delivering-electrification-through-zero-emission-freight-corridors/",
+   "summary": "O WBCSD apresenta corredores de carga de zero emissão como via para entregar a eletrificação, tema central da COP31. Só o título foi lido.",
+   "summary_i18n": {
+    "en": "WBCSD presents zero-emission freight corridors as a way to deliver electrification, a central COP31 theme. Only the title was read.",
+    "es": "El WBCSD presenta los corredores de carga de cero emisiones como vía para lograr la electrificación, tema central de la COP31. Solo se leyó el título.",
+    "fr": "Le WBCSD présente les corridors de fret zéro émission comme un moyen de réaliser l'électrification, thème central de la COP31. Seul le titre a été lu.",
+    "ru": "WBCSD представляет грузовые коридоры с нулевыми выбросами как способ обеспечить электрификацию — одну из центральных тем КС-31. Прочитан только заголовок.",
+    "zh": "WBCSD 提出零排放货运走廊作为实现电气化的途径，这是 COP31 的核心议题之一。仅读取了标题。",
+    "ar": "يعرض WBCSD ممرات الشحن الخالية من الانبعاثات كوسيلة لتحقيق الكهربة، وهي موضوع محوري في COP31. لم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-wbcsd-org-news"
   },
   {
    "id": "gecf-2026-11-10-electrification-35-gas-demand",
@@ -19998,6 +20265,32 @@
    "lang": "tr"
   },
   {
+   "id": "dcj-2026-11-08-implementation-cop-2026-11-08",
+   "institution": "Demand Climate Justice",
+   "type": "opinião",
+   "title": "The Big Question: Is COP31 really the implementation COP?",
+   "date": "2026-11-08",
+   "authors": "Demand Climate Justice",
+   "url": "https://demandclimatejustice.org/2026/11/08/the-big-question-is-cop31-really-the-implementation-cop-2/",
+   "summary": "A rede Demand Climate Justice questiona se a COP31 é de fato a \"COP da implementação\". Só o título foi lido.",
+   "summary_i18n": {
+    "en": "The Demand Climate Justice network asks whether COP31 is really the \"implementation COP\". Only the title was read.",
+    "es": "La red Demand Climate Justice se pregunta si la COP31 es realmente la «COP de la implementación». Solo se leyó el título.",
+    "fr": "Le réseau Demand Climate Justice se demande si la COP31 est vraiment la « COP de la mise en œuvre ». Seul le titre a été lu.",
+    "ru": "Сеть Demand Climate Justice спрашивает, действительно ли КС-31 является «КС по осуществлению». Прочитан только заголовок.",
+    "zh": "Demand Climate Justice 网络质疑 COP31 是否真正是“落实之COP”。仅读取了标题。",
+    "ar": "تتساءل شبكة Demand Climate Justice عمّا إذا كان COP31 بالفعل «مؤتمر التنفيذ». لم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-demandclimatejustice-org"
+  },
+  {
    "id": "wri-2026-11-08-1-3t-statement",
    "institution": "WRI",
    "type": "comunicado",
@@ -22399,6 +22692,32 @@
    }
   },
   {
+   "id": "wri-2026-11-04-africa-priorities-2026-11-04",
+   "institution": "WRI",
+   "type": "análise",
+   "title": "COP31: Delivering on Africa's Climate Priorities",
+   "date": "2026-11-04",
+   "authors": "WRI",
+   "url": "https://www.wri.org/insights/cop31-delivering-africas-climate-priorities",
+   "summary": "Texto do WRI sobre o que a COP31 precisa entregar para as prioridades climáticas da África. Publicado antes da abertura da conferência; só o título foi lido.",
+   "summary_i18n": {
+    "en": "WRI piece on what COP31 needs to deliver for Africa's climate priorities. Published before the conference opened; only the title was read.",
+    "es": "Texto del WRI sobre lo que la COP31 debe lograr para las prioridades climáticas de África. Publicado antes de la apertura de la conferencia; solo se leyó el título.",
+    "fr": "Texte du WRI sur ce que la COP31 doit apporter pour les priorités climatiques de l'Afrique. Publié avant l'ouverture de la conférence ; seul le titre a été lu.",
+    "ru": "Материал WRI о том, что КС-31 должна обеспечить для климатических приоритетов Африки. Опубликован до открытия конференции; прочитан только заголовок.",
+    "zh": "WRI 发表的文章，探讨 COP31 应如何落实非洲的气候优先事项。发布于大会开幕之前；仅读取了标题。",
+    "ar": "مقال لمعهد الموارد العالمية (WRI) حول ما ينبغي أن يحققه COP31 لأولويات أفريقيا المناخية. نُشر قبل افتتاح المؤتمر؛ ولم يُقرأ سوى العنوان."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
    "id": "iisd-enb-2026-11-04-antalya-curtain-raiser",
    "institution": "IISD / ENB",
    "type": "explicador",
@@ -22855,6 +23174,31 @@
    }
   },
   {
+   "id": "ldc-2026-11-02-key-messages-cop31-2026-11-02",
+   "institution": "Loss and Damage Collaboration",
+   "type": "briefing",
+   "title": "Key Messages on Loss and Damage for the thirty-first Conference of Parties (COP 31)",
+   "date": "2026-11-02",
+   "authors": "The Loss and Damage Collaboration",
+   "url": "https://www.lossanddamagecollaboration.org/resources/key-messages-on-loss-and-damage-for-the-thirty-first-conference-of-parties-cop-31",
+   "summary": "A Loss and Damage Collaboration reúne mensagens-chave sobre perdas e danos para a COP31 (publicado em 2 de nov.). Só o título foi lido; a mesma fonte publicou também atualizações diárias de políticas para a COP31.",
+   "summary_i18n": {
+    "en": "The Loss and Damage Collaboration sets out key messages on loss and damage for COP31 (published 2 November). Only the title was read; the same source also published daily policy updates for COP31.",
+    "es": "La Loss and Damage Collaboration presenta mensajes clave sobre pérdidas y daños para la COP31 (publicado el 2 de noviembre). Solo se leyó el título; la misma fuente publicó también actualizaciones diarias de políticas para la COP31.",
+    "fr": "La Loss and Damage Collaboration présente des messages clés sur les pertes et préjudices pour la COP31 (publié le 2 novembre). Seul le titre a été lu ; la même source a aussi publié des mises à jour quotidiennes pour la COP31.",
+    "ru": "Loss and Damage Collaboration излагает ключевые сообщения по потерям и ущербу для КС-31 (опубликовано 2 ноября). Прочитан только заголовок; тот же источник опубликовал и ежедневные обзоры политики для КС-31.",
+    "zh": "Loss and Damage Collaboration 发布了面向 COP31 的损失与损害关键信息（11 月 2 日发布）。仅读取了标题；该机构还发布了 COP31 每日政策动态。",
+    "ar": "تعرض Loss and Damage Collaboration رسائل رئيسية بشأن الخسائر والأضرار لمؤتمر COP31 (نُشرت في 2 نوفمبر). لم يُقرأ سوى العنوان؛ ونشر المصدر نفسه أيضاً مستجدات سياساتية يومية لـCOP31."
+   },
+   "tracks": [
+    "Perdas e danos"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T18:15:48-03:00",
+   "lang": "en",
+   "source_id": "web-lossanddamagecollaboration-org-publications"
+  },
+  {
    "id": "x-UNFCCC-20261102-uma-semana",
    "kind": "post",
    "platform": "x",
@@ -22966,8 +23310,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-16T17:43:41-03:00",
-  "label": "16 nov 2026, 17:43 (Brasília)",
+  "timestamp": "2026-11-16T18:43:21-03:00",
+  "label": "16 nov 2026, 18:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
