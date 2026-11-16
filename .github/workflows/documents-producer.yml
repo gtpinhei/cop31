@@ -1,4 +1,4 @@
-# DORMANT EXAMPLE: review and move to .github/workflows only at approved release.
+# Release workflow: enabled only once merged to the default branch.
 name: Negotiating documents producer
 on:
   schedule:

@@ -1,4 +1,4 @@
-# DORMANT EXAMPLE: activate together with Pages source=GitHub Actions.
+# Release workflow: enabled only once merged to the default branch.
 name: Publish Field Edition
 on:
   workflow_dispatch:
