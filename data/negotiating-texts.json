@@ -47,9 +47,21 @@
       "change": "new",
       "document_id": "10000335",
       "event_id": "0782269ef912a95b80c1fe7e"
+    },
+    {
+      "at": "2026-11-16T20:25:25.624815Z",
+      "change": "withdrawn",
+      "document_id": "10000305",
+      "event_id": "d14c3b43c98a941c93763afb"
+    },
+    {
+      "at": "2026-11-16T20:25:25.624815Z",
+      "change": "new",
+      "document_id": "10000336",
+      "event_id": "229d02d27c21af816cae908d"
     }
   ],
-  "checked_at": "2026-11-16T20:07:18.016289Z",
+  "checked_at": "2026-11-16T20:25:25.624815Z",
   "degraded": false,
   "documents": [
     {
@@ -1558,7 +1570,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "4d82781f49f9b2b6274a706f8de498ba8560f66f6c4271c756fa00c21f688297",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000305/files/en/Art%206.8%20Review_DT_SBSTA651.pdf"
         }
       ],
@@ -1566,14 +1578,14 @@
       "document_code": "DT.SBSTA65.i11b.2",
       "id": "10000305",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-14T09:28:59.676343Z",
+      "modified_at": "2026-11-16T20:22:25.963216Z",
       "published_at": "2026-11-14T08:00:00Z",
       "session": "SBSTA 65",
       "source_url": "https://docs.unfccc.int/documents/10000305/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Review of the work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 18",
@@ -2248,6 +2260,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 16(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "95d477a1a9e0c3b2074fd0a78af07a350ee324c99b593cc387f3582ca498d8a3",
+          "url": "https://docs.unfccc.int/documents/10000336/files/en/Art%206.8%20Review_DT_SBSTA652.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16c.1",
+      "id": "10000336",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-16T20:19:54.046227Z",
+      "published_at": "2026-11-16T20:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000336/metadata",
+      "status": "draft",
+      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2292,9 +2326,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 8,
-  "last_attempt": "2026-11-16T20:07:18.016289Z",
-  "last_success": "2026-11-16T20:07:18.016289Z",
+  "history_count": 10,
+  "last_attempt": "2026-11-16T20:25:25.624815Z",
+  "last_success": "2026-11-16T20:25:25.624815Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
