@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-16",
- "generated_at": "2026-11-16T12:59+03:00",
+ "generated_at": "2026-11-16T13:29+03:00",
  "window": {
   "from": "2026-11-13",
   "to": "2026-11-16",
@@ -13,8 +13,8 @@
   "stale": false
  },
  "coverage": {
-  "candidates": 77,
-  "stories": 70,
+  "candidates": 83,
+  "stories": 76,
   "top": 8,
   "publishers": [
    "350.org",
@@ -25,8 +25,10 @@
    "ICC",
    "IISD / ENB",
    "Instituto Clima e Sociedade",
+   "Kick Big Polluters Out",
    "LDC Group",
    "Murat Kurum",
+   "Oil Change International",
    "Presidência da COP30",
    "Presidência da COP31 (Türkiye)",
    "SEFiA",
@@ -138,6 +140,42 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-16-ai-gas-electrification",
+    "section": "civil",
+    "score": 0.562,
+    "lead": {
+     "id": "oilchange-2026-11-16-ai-gas-electrification",
+     "title": "COP31: Big Tech's AI Boom Risks Fueling New Fossil Gas Expansion",
+     "url": "https://oilchange.org/news/cop31-big-techs-ai-boom-risks-fueling-new-fossil-gas-expansion/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Romain Ioualalen)",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International atualizou sua análise da meta de eletrificação proposta para a COP31 e alerta que a demanda de eletricidade de IA e data centers pode absorver a nova energia renovável sem deslocar os fósseis, servindo de pretexto para expandir a infraestrutura de gás.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International has updated its analysis of the electrification target proposed for COP31 and warns that electricity demand from AI and data centres could absorb new renewable energy without displacing fossil fuels, serving as a pretext to expand gas infrastructure.",
+      "es": "Oil Change International actualizó su análisis de la meta de electrificación propuesta para la COP31 y advierte que la demanda eléctrica de la IA y los centros de datos podría absorber la nueva energía renovable sin desplazar a los combustibles fósiles, sirviendo de pretexto para ampliar la infraestructura de gas.",
+      "fr": "Oil Change International a mis à jour son analyse de l'objectif d'électrification proposé pour la COP31 et avertit que la demande d'électricité de l'IA et des centres de données pourrait absorber les nouvelles énergies renouvelables sans évincer les combustibles fossiles, servant de prétexte à l'expansion des…",
+      "ru": "Oil Change International обновила анализ предлагаемой для COP31 цели по электрификации и предупреждает, что спрос на электроэнергию со стороны ИИ и центров обработки данных может поглотить новую возобновляемую энергию, не вытесняя ископаемое топливо, и стать предлогом для расширения газовой инфраструктуры.",
+      "zh": "石油变革国际更新了对COP31拟议电气化目标的分析，警告称人工智能和数据中心的电力需求可能吸收新增可再生能源而不能替代化石燃料，从而成为扩建天然气基础设施的借口。该组织要求该目标附带明确承诺，即由可再生能源满足并服务于逐步淘汰化石燃料。涉及电气化和TAFF与化石燃料等议题。",
+      "ar": "حدّثت منظمة Oil Change International تحليلها لهدف الكهربة المقترح لـCOP31، وتحذّر من أن الطلب على الكهرباء من الذكاء الاصطناعي ومراكز البيانات قد يستوعب الطاقة المتجددة الجديدة من دون أن يحل محل الوقود الأحفوري، فيصبح ذريعة لتوسيع البنية التحتية للغاز."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
     ]
    },
    {
@@ -408,42 +446,6 @@
      "SEFiA",
      "V20 / CVF"
     ]
-   },
-   {
-    "id": "st-sefia-2026-11-14-cop31-day-6",
-    "section": "negotiations",
-    "score": 0.338,
-    "lead": {
-     "id": "sefia-2026-11-14-cop31-day-6",
-     "title": "COP31 Day 6: Inclusive Transformation, Adaptation and Electrification",
-     "url": "https://sefia.org/en/blog/cop31-day-6-inclusive-transformation-adaptation-and-electrification/",
-     "publisher": "SEFiA",
-     "author": "Sevdin Köseoğlu",
-     "published": "2026-11-14",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Eletrificação"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "Balanço do sexto dia da COP31: 79% dos 59 NDCs recentes mencionam a participação de jovens, mas só 9% trazem dados desagregados por gênero. Na adaptação, os países em desenvolvimento com Planos Nacionais de Adaptação subiram de 67 para 83, mas cerca de 25% dos pedidos de apoio à adaptação seguem sem atendimento (15%…",
-     "collected_at": "2026-11-15T18:30:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Summary of COP31 Day 6: 79% of 59 recent NDCs mention youth participation, but only 9% report gender-disaggregated data. On adaptation, the number of developing countries with National Adaptation Plans rose from 67 to 83, yet about 25% of adaptation support requests remain unmet (15% for mitigation), prompting the…",
-      "es": "Balance del sexto día de la COP31: el 79% de las 59 NDC recientes menciona la participación de los jóvenes, pero solo el 9% presenta datos desglosados por género.",
-      "fr": "Bilan du sixième jour de la COP31 : 79 % des 59 CDN récentes mentionnent la participation des jeunes, mais seules 9 % fournissent des données ventilées par genre.",
-      "ru": "Итоги шестого дня COP31: 79% из 59 недавних NDC упоминают участие молодёжи, но лишь 9% содержат данные с разбивкой по полу. В области адаптации число развивающихся стран с национальными планами адаптации выросло с 67 до 83, однако около 25% запросов о поддержке адаптации остаются неудовлетворёнными (15% по смягчению),…",
-      "zh": "COP31第六天综述：59份近期提交的国家自主贡献中，79%提及青年参与，但仅9%提供按性别分列的数据。在适应方面，制定国家适应计划的发展中国家从67个增至83个，但约25%的适应支持请求仍未得到满足（减缓为15%），为此启动了国家适应计划实施联盟。在电气化方面，“35 by 35”承诺旨在到2035年使电力占最终能源消费的比重达到35%。",
-      "ar": "حصيلة اليوم السادس من مؤتمر الأطراف الحادي والثلاثين: تشير 79% من أصل 59 مساهمة محددة وطنياً حديثة إلى مشاركة الشباب، لكن 9% فقط تتضمن بيانات مصنفة حسب نوع الجنس."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "SEFiA"
-    ]
    }
   ],
   "negotiations": [
@@ -629,6 +631,42 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-sefia-2026-11-14-cop31-day-6",
+    "section": "negotiations",
+    "score": 0.338,
+    "lead": {
+     "id": "sefia-2026-11-14-cop31-day-6",
+     "title": "COP31 Day 6: Inclusive Transformation, Adaptation and Electrification",
+     "url": "https://sefia.org/en/blog/cop31-day-6-inclusive-transformation-adaptation-and-electrification/",
+     "publisher": "SEFiA",
+     "author": "Sevdin Köseoğlu",
+     "published": "2026-11-14",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Eletrificação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Balanço do sexto dia da COP31: 79% dos 59 NDCs recentes mencionam a participação de jovens, mas só 9% trazem dados desagregados por gênero. Na adaptação, os países em desenvolvimento com Planos Nacionais de Adaptação subiram de 67 para 83, mas cerca de 25% dos pedidos de apoio à adaptação seguem sem atendimento (15%…",
+     "collected_at": "2026-11-15T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Summary of COP31 Day 6: 79% of 59 recent NDCs mention youth participation, but only 9% report gender-disaggregated data. On adaptation, the number of developing countries with National Adaptation Plans rose from 67 to 83, yet about 25% of adaptation support requests remain unmet (15% for mitigation), prompting the…",
+      "es": "Balance del sexto día de la COP31: el 79% de las 59 NDC recientes menciona la participación de los jóvenes, pero solo el 9% presenta datos desglosados por género.",
+      "fr": "Bilan du sixième jour de la COP31 : 79 % des 59 CDN récentes mentionnent la participation des jeunes, mais seules 9 % fournissent des données ventilées par genre.",
+      "ru": "Итоги шестого дня COP31: 79% из 59 недавних NDC упоминают участие молодёжи, но лишь 9% содержат данные с разбивкой по полу. В области адаптации число развивающихся стран с национальными планами адаптации выросло с 67 до 83, однако около 25% запросов о поддержке адаптации остаются неудовлетворёнными (15% по смягчению),…",
+      "zh": "COP31第六天综述：59份近期提交的国家自主贡献中，79%提及青年参与，但仅9%提供按性别分列的数据。在适应方面，制定国家适应计划的发展中国家从67个增至83个，但约25%的适应支持请求仍未得到满足（减缓为15%），为此启动了国家适应计划实施联盟。在电气化方面，“35 by 35”承诺旨在到2035年使电力占最终能源消费的比重达到35%。",
+      "ar": "حصيلة اليوم السادس من مؤتمر الأطراف الحادي والثلاثين: تشير 79% من أصل 59 مساهمة محددة وطنياً حديثة إلى مشاركة الشباب، لكن 9% فقط تتضمن بيانات مصنفة حسب نوع الجنس."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "SEFiA"
     ]
    },
    {
@@ -2782,6 +2820,114 @@
     ]
    },
    {
+    "id": "st-oilchange-2026-11-14-jtm-draft",
+    "section": "civil",
+    "score": 0.239,
+    "lead": {
+     "id": "oilchange-2026-11-14-jtm-draft",
+     "title": "Response to the latest draft of the COP31 Just Transition Mechanism",
+     "url": "https://oilchange.org/news/response-to-the-latest-draft-of-the-cop31-just-transition-mechanism/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Romain Ioualalen)",
+     "published": "2026-11-14",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International afirma que a presidência australiana da COP31 enfraqueceu de um dia para o outro o rascunho do mecanismo de transição justa, retirando demandas centrais dos países em desenvolvimento.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International says the Australian COP31 Presidency weakened the draft just transition mechanism overnight, dropping key demands of developing countries.",
+      "es": "Oil Change International afirma que la Presidencia australiana de la COP31 debilitó de un día para otro el borrador del mecanismo de transición justa, eliminando demandas clave de los países en desarrollo.",
+      "fr": "Oil Change International affirme que la Présidence australienne de la COP31 a affaibli du jour au lendemain le projet de mécanisme de transition juste, en supprimant des demandes clés des pays en développement.",
+      "ru": "Oil Change International утверждает, что австралийское Председательство COP31 за одну ночь ослабило проект механизма справедливого перехода, исключив ключевые требования развивающихся стран.",
+      "zh": "石油变革国际称，COP31澳大利亚主席国一夜之间削弱了公正转型机制草案，删除了发展中国家的关键诉求。该组织认为，该机制应协调公共资金、工人保护和社区支持，电气化必须是可再生且可负担的，而不是扩大天然气的理由；它要求富裕国家提供公共资金。涉及公正转型和金融等议题。",
+      "ar": "تقول منظمة Oil Change International إن الرئاسة الأسترالية لـCOP31 أضعفت بين ليلة وضحاها مشروع آلية الانتقال العادل، وحذفت مطالب رئيسية للبلدان النامية. وترى المنظمة أن الآلية ينبغي أن تنسّق التمويل العام وحماية العمال ودعم المجتمعات، وأن الكهربة يجب أن تكون متجددة وميسورة التكلفة لا مبررًا لمزيد من الغاز؛ وتطالب…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
+    "id": "st-kbpo-2026-11-13-big-polluters-cop31",
+    "section": "civil",
+    "score": 0.169,
+    "lead": {
+     "id": "kbpo-2026-11-13-big-polluters-cop31",
+     "title": "RELEASE: Big Polluters at the COP31 climate talks",
+     "url": "https://kickbigpollutersout.org/Big-Polluters-COP31",
+     "publisher": "Kick Big Polluters Out",
+     "author": "Kick Big Polluters Out (KBPO)",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Espaço cívico"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A coalição Kick Big Polluters Out analisou a lista provisória de participantes da UNFCCC e diz ter encontrado mais de 100 empresas e associações de setores poluentes (fósseis, Big Tech, agronegócio) com delegações na COP31, incluindo 30 dos 100 maiores bancos financiadores de combustíveis fósseis.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The Kick Big Polluters Out coalition analysed the UNFCCC provisional participant list and says it found more than 100 companies and associations from polluting sectors (fossil fuels, Big Tech, agribusiness) with delegations at COP31, including 30 of the top 100 fossil fuel-financing banks.",
+      "es": "La coalición Kick Big Polluters Out analizó la lista provisional de participantes de la CMNUCC y afirma haber encontrado más de 100 empresas y asociaciones de sectores contaminantes (combustibles fósiles, Big Tech, agronegocio) con delegaciones en la COP31, incluidos 30 de los 100 mayores bancos financiadores de…",
+      "fr": "La coalition Kick Big Polluters Out a analysé la liste provisoire des participants de la CCNUCC et affirme y avoir trouvé plus de 100 entreprises et associations de secteurs polluants (combustibles fossiles, Big Tech, agro-industrie) dotées de délégations à la COP31, dont 30 des 100 principales banques finançant les…",
+      "ru": "Коалиция Kick Big Polluters Out проанализировала предварительный список участников РКИК ООН и, по её словам, обнаружила на COP31 делегации более 100 компаний и ассоциаций из загрязняющих отраслей (ископаемое топливо, Big Tech, агробизнес), в том числе 30 из 100 крупнейших банков, финансирующих ископаемое топливо.",
+      "zh": "“踢走大污染者”联盟分析了《联合国气候变化框架公约》的临时与会者名单，称发现有100多家来自污染行业（化石燃料、大型科技公司、农业综合企业）的公司和协会派代表团出席COP31，其中包括为化石燃料提供资金最多的100家银行中的30家。据该联盟称为保守估计的统计，IETA、法国巴黎银行和汇丰银行等代表团的规模超过尼泊尔和菲律宾等脆弱国家。该联盟呼吁在《公约》下建立问责框架和具有约束力的利益冲突政策。涉及TAFF与化石燃料和公民空间等议题。",
+      "ar": "حللت ائتلاف «اطردوا كبار الملوِّثين» القائمة المؤقتة للمشاركين في اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، وتقول إنها وجدت أكثر من 100 شركة ورابطة من قطاعات ملوِّثة (الوقود الأحفوري والتكنولوجيا الكبرى والأعمال الزراعية) لها وفود في COP31، منها 30 من أكبر 100 مصرف ممول للوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Kick Big Polluters Out"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-13-bridge-finance",
+    "section": "civil",
+    "score": 0.169,
+    "lead": {
+     "id": "oilchange-2026-11-13-bridge-finance",
+     "title": "COP31 Presidency Releases BRIDGE initiative That Fails to Address Climate Finance Cuts",
+     "url": "https://oilchange.org/news/cop31-presidency-releases-bridge-initiative-that-fails-to-address-climate-finance-cuts/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Laurie van der Burg)",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International critica a BRIDGE (Climate Implementation Bridge), iniciativa lançada pelo presidente turco da COP31, Murat Kurum, para ligar planos climáticos nacionais a oportunidades de financiamento: sem recursos novos, diz, o mecanismo de coordenação fracassará.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International criticises BRIDGE (Climate Implementation Bridge), an initiative launched by the Turkish COP31 President, Murat Kurum, to link national climate plans with financing opportunities: without new resources, it says, the coordination mechanism will fail.",
+      "es": "Oil Change International critica BRIDGE (Climate Implementation Bridge), iniciativa lanzada por el presidente turco de la COP31, Murat Kurum, para vincular los planes climáticos nacionales con oportunidades de financiación: sin recursos nuevos, afirma, el mecanismo de coordinación fracasará.",
+      "fr": "Oil Change International critique BRIDGE (Climate Implementation Bridge), initiative lancée par le président turc de la COP31, Murat Kurum, pour relier les plans climatiques nationaux à des possibilités de financement : sans ressources nouvelles, dit-elle, le mécanisme de coordination échouera.",
+      "ru": "Oil Change International критикует BRIDGE (Climate Implementation Bridge) — инициативу турецкого председателя COP31 Мурата Курума, призванную связать национальные климатические планы с возможностями финансирования: по её словам, без новых ресурсов этот координационный механизм потерпит неудачу.",
+      "zh": "石油变革国际批评COP31土耳其主席穆拉特·库鲁姆发起的BRIDGE（气候实施桥梁）倡议，该倡议旨在将国家气候计划与融资机会对接：该组织称，如果没有新增资金，这一协调机制将会失败。它援引报道称气候资金认捐下降了70%，质疑对私人资金的依赖，并呼吁全球北方履行其公共义务。涉及金融以及主席国与东道国等议题。",
+      "ar": "تنتقد منظمة Oil Change International مبادرة BRIDGE (جسر تنفيذ العمل المناخي) التي أطلقها رئيس COP31 التركي مراد قوروم لربط الخطط المناخية الوطنية بفرص التمويل، وتقول إن آلية التنسيق ستفشل من دون موارد جديدة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-13-cover-decision",
     "section": "civil",
     "score": 0.169,
@@ -2817,6 +2963,79 @@
     "related": [],
     "publishers": [
      "350.org"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-13-cover-decision-draft",
+    "section": "civil",
+    "score": 0.143,
+    "lead": {
+     "id": "oilchange-2026-11-13-cover-decision-draft",
+     "title": "In Response to the First Draft of the COP31 Cover Decision",
+     "url": "https://oilchange.org/news/in-response-to-the-first-draft-of-the-cop31-cover-decision/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Shady Khalil)",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "TAFF e fósseis",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International vê elementos promissores no primeiro rascunho da cover decision da COP31, como o reconhecimento de que os países ricos estão aquém no financiamento climático e de que são necessários roteiros para a transição dos fósseis.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International sees promising elements in the first draft of the COP31 cover decision, such as the acknowledgement that wealthy countries are falling short on climate finance and that roadmaps for the transition away from fossil fuels are needed.",
+      "es": "Oil Change International ve elementos prometedores en el primer borrador de la decisión general de la COP31, como el reconocimiento de que los países ricos se quedan cortos en financiación climática y de que se necesitan hojas de ruta para la transición fuera de los combustibles fósiles.",
+      "fr": "Oil Change International voit des éléments prometteurs dans le premier projet de décision-cadre de la COP31, comme la reconnaissance que les pays riches sont en deçà en matière de financement climatique et que des feuilles de route pour la transition hors des combustibles fossiles sont nécessaires.",
+      "ru": "Oil Change International видит многообещающие элементы в первом проекте общего решения COP31, например признание того, что богатые страны не выполняют обязательств по климатическому финансированию, и того, что нужны дорожные карты перехода от ископаемого топлива.",
+      "zh": "石油变革国际认为COP31总括决定的首份草案中有一些积极要素，例如承认富裕国家在气候资金方面未达要求，以及需要制定摆脱化石燃料的路线图。但它指出，草案缺乏遏制化石燃料扩张和为这些路线图提供资金的具体承诺，并呼吁删除碳捕集与封存、二氧化碳移除以及任何推动天然气的内容。涉及总括决定、TAFF与化石燃料和金融等议题。",
+      "ar": "ترى منظمة Oil Change International عناصر واعدة في المشروع الأول للمقرر الجامع لـCOP31، مثل الإقرار بأن البلدان الغنية مقصّرة في التمويل المناخي وبالحاجة إلى خرائط طريق للانتقال بعيدًا عن الوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-13-eu-leadership",
+    "section": "civil",
+    "score": 0.143,
+    "lead": {
+     "id": "oilchange-2026-11-13-eu-leadership",
+     "title": "EU Climate Leadership is Nowhere to be Found at COP31",
+     "url": "https://oilchange.org/news/eu-climate-leadership-is-nowhere-to-be-found-at-cop31/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Laurie van der Burg)",
+     "published": "2026-11-13",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International afirma que falta liderança climática europeia na COP31: líderes de Alemanha, França e Itália não foram à Cúpula de Líderes, e a presidente da Comissão Europeia não mencionou combustíveis fósseis em seu discurso.",
+     "collected_at": "2026-11-16T07:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International says European climate leadership is missing at COP31: the leaders of Germany, France and Italy skipped the Leaders' Summit, and the President of the European Commission did not mention fossil fuels in her address.",
+      "es": "Oil Change International afirma que falta liderazgo climático europeo en la COP31: los líderes de Alemania, Francia e Italia no acudieron a la Cumbre de Líderes y la presidenta de la Comisión Europea no mencionó los combustibles fósiles en su discurso.",
+      "fr": "Oil Change International affirme que le leadership climatique européen fait défaut à la COP31 : les dirigeants de l'Allemagne, de la France et de l'Italie ont manqué le Sommet des dirigeants, et la présidente de la Commission européenne n'a pas mentionné les combustibles fossiles dans son discours.",
+      "ru": "Oil Change International утверждает, что на COP31 не хватает европейского климатического лидерства: лидеры Германии, Франции и Италии пропустили Саммит лидеров, а Председатель Европейской комиссии не упомянула ископаемое топливо в своём выступлении.",
+      "zh": "石油变革国际称，COP31上缺乏欧洲的气候领导力：德国、法国和意大利领导人缺席领导人峰会，欧盟委员会主席在讲话中未提及化石燃料。该组织指出，七个欧盟国家尚未提交2025年后的新气候资金认捐，欧盟没有逐步淘汰化石燃料的路线图，并正考虑放宽甲烷规定。涉及金融和TAFF与化石燃料等议题。",
+      "ar": "تقول منظمة Oil Change International إن القيادة المناخية الأوروبية غائبة عن COP31: فقد تغيّب قادة ألمانيا وفرنسا وإيطاليا عن قمة القادة، ولم تذكر رئيسة المفوضية الأوروبية الوقود الأحفوري في كلمتها."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
     ]
    },
    {
@@ -2981,6 +3200,7 @@
    "cop31-tr-2026-11-16-first-week",
    "cop31-tr-2026-11-16-industry-ai",
    "instagram-turkiyecop31-20261115-onebillion",
+   "oilchange-2026-11-16-ai-gas-electrification",
    "sefia-2026-11-14-cop31-day-6",
    "unfccc-2026-11-14-stiell-midpoint",
    "v20-cvf-2026-11-14-gambia-investment"
