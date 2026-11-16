@@ -34,3 +34,34 @@ Headless Chromium could not start in this executor: `socket() failed: Operation 
 This is a separate implementation checkpoint, **not deployed**. Open `index.html` through a static HTTP server. Current branch `prototype/ia-migration`. See `MIGRATION.md` for exact coverage and known gaps. `node migration-test.cjs` runs the DOM integration suite using the repository's development jsdom installation.
 
 The prototype fetches full Pulse data only when Pulse is opened, and reference translations/positions only when needed. No polling, embeds, private briefings, subscriptions or analytics are enabled. The 10-minute collector belongs to the independent backend integration work, not this preview.
+
+## Additive live-data integration candidate (not deployed)
+
+`live-preview.html` uses `live-config.js` to read the repository's canonical public
+`data/briefing.json` and `data/feed.json`. Serve the **repository root**, then open
+`/prototypes/field-edition/live-preview.html`. Routine collector commits therefore
+appear on page reload without copying fixtures, rebuilding the design or querying
+UNFCCC from visitors' devices. `index.html` remains a self-contained frozen review.
+Documents remain explicitly saved/uncompared, not a working ten-minute feed.
+
+This entry is additive: it does not replace the production root or modify public data.
+No changes to collectors, GitHub workflows, publication permissions or held PRs.
+Latest-main comparison at 1786fdd found only feed and briefing data changed from local
+base dc52cb7. Exact connector blobs were used for the integration run: 823 records,
+16 November briefing. Those verification copies are not committed or shipped.
+
+Run `node prototypes/field-edition/integration-test.cjs` against repository data.
+For separately fetched exact-main fixtures named `data/*.json.latest`, run with
+`COP31_DATA_FIXTURE_SUFFIX=.latest`. Existing five prototype suites also remain valid.
+
+### Release gates still open
+- Corrected real-browser mobile/RTL test (grid min-content, scrollable tables, dates).
+- DACS collector deployment, actual schema/withdrawal/error handling and freshness.
+- Preserve or explicitly replace global search, community-approved entries and
+  live/on-demand social functionality before replacing production root.
+- Full existing repository CI (known unrelated QA fixture failure is not waived).
+- Production swap must refresh current remote and preserve concurrent collector data.
+
+Mobile containment fixes avoid hiding document overflow at body level: tables scroll
+locally; grid children may shrink; undated/invalid dates sort after dated documents.
+Pulse provenance dates are localized and explicitly bidi-isolated.

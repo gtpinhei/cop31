@@ -19,3 +19,10 @@
 .reference table td{line-height:1.65}
 .reference .card p:last-child{margin-block-end:0}
 @media(max-width:720px){.reference .grid{grid-template-columns:1fr}.reference:not(:has(.table-scroll)){overflow-x:visible}}
+/* Grid children must shrink below min-content width, including RTL tables. */
+.method{grid-template-columns:minmax(0,1fr)}
+.method>*,#explore-content,.reference,.reference .grid>*,.filters>*{min-width:0;max-width:100%}
+.table-scroll{width:100%;max-width:100%;overflow-x:auto}
+.reference{overflow-wrap:anywhere}
+.reference table{display:block;max-width:100%;overflow-x:auto}
+@media(max-width:720px){.reference table{min-width:0}.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.reference .grid{grid-template-columns:minmax(0,1fr)}}
