@@ -12,8 +12,20 @@ let html=fs.readFileSync(path.join(src,'live-preview.html'),'utf8');fs.writeFile
 fs.copyFileSync(path.join(root,'index.html'),path.join(out,'classic.html'));
 fs.writeFileSync(path.join(out,'live-config.js'),'window.COP31_DATA={briefing:"data/briefing.json",pulse:"data/feed.json",feed:"data/feed.json",today:"data/today.json"};\nwindow.COP31_CLASSIC="classic.html";\n');
 fs.mkdirSync(path.join(out,'data'));for(const f of ['feed.json','briefing.json','today.json','pulse.json','newsletter.json'])fs.copyFileSync(path.join(root,'data',f),path.join(out,'data',f));
+// Optional dedicated PUBLIC projection. Reject private checkpoint/raw metadata shapes.
+const docInput=process.argv[3]||path.join(root,'data/negotiating-texts.json');
+if(fs.existsSync(docInput)){
+ const d=JSON.parse(fs.readFileSync(docInput,'utf8'));
+ const top=new Set(['schema','documents','changes','checked_at','last_success','last_attempt','degraded','sources','history_count','error']);
+ const fields=new Set(['id','title','body','session','agenda','document_code','published_at','modified_at','metadata_version','status','withdrawn','attachments','topic','source_url']);
+ const official=u=>{try{const v=new URL(u);return v.protocol==='https:'&&['docs.unfccc.int','unfccc.int'].includes(v.hostname)&&!v.username&&!v.password&&(!v.port||v.port==='443')}catch{return false}};
+ if(d.schema!==1||!Array.isArray(d.documents)||!Array.isArray(d.changes)||Object.keys(d).some(k=>!top.has(k)))throw Error('Not a public document projection');
+ for(const r of d.documents){if(Object.keys(r).some(k=>!fields.has(k))||!r.id||!r.title||!Array.isArray(r.attachments)||!official(r.source_url)||r.attachments.some(a=>Object.keys(a).some(k=>!['url','sha256','language'].includes(k))||!official(a.url)))throw Error('Unsafe document projection')}
+ fs.copyFileSync(docInput,path.join(out,'data/negotiating-texts.json'));
+ fs.appendFileSync(path.join(out,'live-config.js'),'window.COP31_DATA.documents="data/negotiating-texts.json";\n');
+}
 for(const folder of ['i18n','data/articles'])if(fs.existsSync(path.join(root,folder)))fs.cpSync(path.join(root,folder),path.join(out,folder),{recursive:true});
 for(const f of ['CNAME','LICENSE'])if(fs.existsSync(path.join(root,f)))fs.copyFileSync(path.join(root,f),path.join(out,f));
 const sha=f=>crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex');
-fs.writeFileSync(path.join(out,'build-manifest.json'),JSON.stringify({source_commit:cp.execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),built_at:new Date().toISOString(),classic_sha256:sha(path.join(out,'classic.html')),feed_sha256:sha(path.join(out,'data/feed.json')),document_mode:'saved catalog; collector not connected',deployment:'NOT DEPLOYED'},null,2));
+fs.writeFileSync(path.join(out,'build-manifest.json'),JSON.stringify({source_commit:cp.execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),built_at:new Date().toISOString(),classic_sha256:sha(path.join(out,'classic.html')),feed_sha256:sha(path.join(out,'data/feed.json')),document_mode:fs.existsSync(docInput)?'public DACS projection; scheduler not certified':'saved catalog; collector not connected',deployment:'NOT DEPLOYED'},null,2));
 console.log('Staged (not deployed): '+out);
