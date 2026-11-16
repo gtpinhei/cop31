@@ -64,3 +64,35 @@ function startDocumentUpdates(){
  documentUpdatesStarted=true;lastDocumentCheck=Date.now();
  document.addEventListener('visibilitychange',scheduleDocumentUpdate);scheduleDocumentUpdate();
 }
+
+/* This browser only: compare catalog records with the previous page visit.
+   These labels never imply substantive PDF changes or editorial verification. */
+const VISIT_KEY='cop31.documents.visit.v1';
+const VISIT_LABEL={
+ en:['Since your previous visit','New records','Updated records','Catalog records only; not a comparison of negotiating text. Saved only in this browser.','Reset comparison'],
+ pt:['Desde sua visita anterior','Novos registros','Registros atualizados','Somente registros do catálogo; não é uma comparação dos textos de negociação. Salvo apenas neste navegador.','Reiniciar comparação'],
+ es:['Desde su visita anterior','Registros nuevos','Registros actualizados','Solo registros del catálogo; no es una comparación de textos de negociación. Guardado solo en este navegador.','Reiniciar comparación'],
+ fr:['Depuis votre visite précédente','Nouvelles entrées','Entrées mises à jour','Entrées du catalogue uniquement ; pas une comparaison des textes de négociation. Enregistré dans ce navigateur uniquement.','Réinitialiser la comparaison'],
+ ru:['С предыдущего посещения','Новые записи','Обновлённые записи','Только записи каталога, не сравнение переговорных текстов. Сохранено только в этом браузере.','Сбросить сравнение'],
+ zh:['自上次访问以来','新记录','已更新记录','仅比较目录记录，并非谈判文本比较。仅保存在此浏览器中。','重置比较'],
+ ar:['منذ زيارتك السابقة','سجلات جديدة','سجلات محدّثة','سجلات الدليل فقط، وليست مقارنة لنصوص التفاوض. تُحفظ في هذا المتصفح فقط.','إعادة ضبط المقارنة']};
+let visitBaseline,visitStorageOK=true,visitSavedSignature='';
+function catalogVisitRecords(){return Object.fromEntries(data.documents.documents.filter(d=>d.id!=null).slice(0,5000).map(d=>[String(d.id),JSON.stringify([d.title,d.symbol,d.body,d.agenda,d.version,d.status,d.withdrawn, d.url,d.attachments?.map(a=>[a.url,a.sha256])])]))}
+function documentVisitSummary(){
+ if($('document-visit'))$('document-visit').hidden=true;
+ if(!data||!window.COP31_DATA?.documents||data.documents.load_failed||!data.documents.documents.length)return;
+ const records=catalogVisitRecords(),signature=JSON.stringify(records);
+ if(visitBaseline===undefined){try{const raw=localStorage.getItem(VISIT_KEY);let old;try{old=JSON.parse(raw)}catch{old=null}visitBaseline=old&&old.schema===1&&old.records&&typeof old.records==='object'&&!Array.isArray(old.records)?old:null}catch{visitBaseline=null;visitStorageOK=false}}
+ // Do not overwrite a good comparison with a failed, partial or older snapshot.
+ const check=data.documents.last_success||data.documents.checked_at;
+ if(!Number.isFinite(Date.parse(check))||data.documents.degraded)return;
+ if(visitBaseline&&Date.parse(check)<Date.parse(visitBaseline.checked))return;
+ if(visitStorageOK&&signature!==visitSavedSignature){try{localStorage.setItem(VISIT_KEY,JSON.stringify({schema:1,checked:check,records}));visitSavedSignature=signature}catch{visitStorageOK=false}}
+ let box=$('document-visit');if(!box){box=document.createElement('section');box.id='document-visit';box.className='freshness';$('texts-status').after(box)}
+ box.hidden=!visitBaseline||!visitStorageOK;
+ if(box.hidden)return;
+ let added=0,changed=0;for(const [id,value] of Object.entries(records)){if(!Object.hasOwn(visitBaseline.records,id))added++;else if(visitBaseline.records[id]!==value)changed++}
+ const labels=VISIT_LABEL[lang];box.innerHTML=`<strong>${esc(labels[0])}</strong><p>${esc(labels[1])}: ${added} · ${esc(labels[2])}: ${changed}</p><p>${esc(labels[3])}</p><button type="button">${esc(labels[4])}</button>`;
+ box.querySelector('button').onclick=()=>{visitBaseline={schema:1,checked:check,records};documentVisitSummary()};
+}
+const beforeVisitHealth=documentHealth;documentHealth=function(){beforeVisitHealth();documentVisitSummary()};
