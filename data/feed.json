@@ -51,6 +51,32 @@
  ],
  "items": [
   {
+   "id": "oilchange-2026-11-16-ai-gas-electrification",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "COP31: Big Tech's AI Boom Risks Fueling New Fossil Gas Expansion",
+   "date": "2026-11-16",
+   "authors": "Oil Change International (Romain Ioualalen)",
+   "url": "https://oilchange.org/news/cop31-big-techs-ai-boom-risks-fueling-new-fossil-gas-expansion/",
+   "summary": "A Oil Change International atualizou sua análise da meta de eletrificação proposta para a COP31 e alerta que a demanda de eletricidade de IA e data centers pode absorver a nova energia renovável sem deslocar os fósseis, servindo de pretexto para expandir a infraestrutura de gás. A organização pede que a meta venha com compromisso explícito de ser atendida por renováveis e a serviço da eliminação dos combustíveis fósseis. Toca as trilhas de Eletrificação e TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change International has updated its analysis of the electrification target proposed for COP31 and warns that electricity demand from AI and data centres could absorb new renewable energy without displacing fossil fuels, serving as a pretext to expand gas infrastructure. The organisation asks for the target to come with an explicit commitment that it be met with renewables and serve the phase-out of fossil fuels. It bears on the Electrification and TAFF and fossil fuels tracks.",
+    "es": "Oil Change International actualizó su análisis de la meta de electrificación propuesta para la COP31 y advierte que la demanda eléctrica de la IA y los centros de datos podría absorber la nueva energía renovable sin desplazar a los combustibles fósiles, sirviendo de pretexto para ampliar la infraestructura de gas. La organización pide que la meta incluya un compromiso explícito de cubrirse con renovables y al servicio de la eliminación de los combustibles fósiles. Afecta a las líneas de Electrificación y TAFF y combustibles fósiles.",
+    "fr": "Oil Change International a mis à jour son analyse de l'objectif d'électrification proposé pour la COP31 et avertit que la demande d'électricité de l'IA et des centres de données pourrait absorber les nouvelles énergies renouvelables sans évincer les combustibles fossiles, servant de prétexte à l'expansion des infrastructures gazières. L'organisation demande que l'objectif s'accompagne d'un engagement explicite à être atteint par les renouvelables et au service de la sortie des combustibles fossiles. Concerne les volets Électrification et TAFF et combustibles fossiles.",
+    "ru": "Oil Change International обновила анализ предлагаемой для COP31 цели по электрификации и предупреждает, что спрос на электроэнергию со стороны ИИ и центров обработки данных может поглотить новую возобновляемую энергию, не вытесняя ископаемое топливо, и стать предлогом для расширения газовой инфраструктуры. Организация призывает дополнить цель чётким обязательством обеспечивать её за счёт возобновляемых источников и в интересах отказа от ископаемого топлива. Касается направлений «Электрификация» и «TAFF и ископаемое топливо».",
+    "zh": "石油变革国际更新了对COP31拟议电气化目标的分析，警告称人工智能和数据中心的电力需求可能吸收新增可再生能源而不能替代化石燃料，从而成为扩建天然气基础设施的借口。该组织要求该目标附带明确承诺，即由可再生能源满足并服务于逐步淘汰化石燃料。涉及电气化和TAFF与化石燃料等议题。",
+    "ar": "حدّثت منظمة Oil Change International تحليلها لهدف الكهربة المقترح لـCOP31، وتحذّر من أن الطلب على الكهرباء من الذكاء الاصطناعي ومراكز البيانات قد يستوعب الطاقة المتجددة الجديدة من دون أن يحل محل الوقود الأحفوري، فيصبح ذريعة لتوسيع البنية التحتية للغاز. وتطالب المنظمة بأن يقترن الهدف بالتزام صريح بتلبيته من مصادر متجددة وبما يخدم التخلص التدريجي من الوقود الأحفوري. يتعلق بمساري الكهربة وTAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
    "id": "bluesky-carbonbrief.org-20261116-daily-briefing",
    "kind": "post",
    "platform": "bluesky",
@@ -840,6 +866,32 @@
    "first_seen": "2026-11-15T01:50:00-03:00",
    "lang": "en",
    "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "oilchange-2026-11-14-jtm-draft",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Response to the latest draft of the COP31 Just Transition Mechanism",
+   "date": "2026-11-14",
+   "authors": "Oil Change International (Romain Ioualalen)",
+   "url": "https://oilchange.org/news/response-to-the-latest-draft-of-the-cop31-just-transition-mechanism/",
+   "summary": "A Oil Change International afirma que a presidência australiana da COP31 enfraqueceu de um dia para o outro o rascunho do mecanismo de transição justa, retirando demandas centrais dos países em desenvolvimento. Para a organização, o mecanismo deveria coordenar financiamento público, proteção a trabalhadores e apoio a comunidades, e a eletrificação precisa ser renovável e acessível em vez de justificar mais gás; ela cobra financiamento público dos países ricos. Toca as trilhas de Transição justa e Finanças.",
+   "summary_i18n": {
+    "en": "Oil Change International says the Australian COP31 Presidency weakened the draft just transition mechanism overnight, dropping key demands of developing countries. For the organisation, the mechanism should coordinate public finance, worker protection and community support, and electrification must be renewable and affordable rather than a justification for more gas; it calls on wealthy countries to provide public finance. It bears on the Just transition and Finance tracks.",
+    "es": "Oil Change International afirma que la Presidencia australiana de la COP31 debilitó de un día para otro el borrador del mecanismo de transición justa, eliminando demandas clave de los países en desarrollo. Para la organización, el mecanismo debería coordinar financiación pública, protección de los trabajadores y apoyo a las comunidades, y la electrificación debe ser renovable y asequible en lugar de justificar más gas; exige financiación pública de los países ricos. Afecta a las líneas de Transición justa y Finanzas.",
+    "fr": "Oil Change International affirme que la Présidence australienne de la COP31 a affaibli du jour au lendemain le projet de mécanisme de transition juste, en supprimant des demandes clés des pays en développement. Pour l'organisation, le mécanisme devrait coordonner le financement public, la protection des travailleurs et le soutien aux communautés, et l'électrification doit être renouvelable et abordable plutôt que de justifier davantage de gaz ; elle exige un financement public des pays riches. Concerne les volets Transition juste et Finance.",
+    "ru": "Oil Change International утверждает, что австралийское Председательство COP31 за одну ночь ослабило проект механизма справедливого перехода, исключив ключевые требования развивающихся стран. По мнению организации, механизм должен координировать государственное финансирование, защиту работников и поддержку сообществ, а электрификация должна быть возобновляемой и доступной, а не оправданием для расширения газа; она требует от богатых стран государственного финансирования. Касается направлений «Справедливый переход» и «Финансы».",
+    "zh": "石油变革国际称，COP31澳大利亚主席国一夜之间削弱了公正转型机制草案，删除了发展中国家的关键诉求。该组织认为，该机制应协调公共资金、工人保护和社区支持，电气化必须是可再生且可负担的，而不是扩大天然气的理由；它要求富裕国家提供公共资金。涉及公正转型和金融等议题。",
+    "ar": "تقول منظمة Oil Change International إن الرئاسة الأسترالية لـCOP31 أضعفت بين ليلة وضحاها مشروع آلية الانتقال العادل، وحذفت مطالب رئيسية للبلدان النامية. وترى المنظمة أن الآلية ينبغي أن تنسّق التمويل العام وحماية العمال ودعم المجتمعات، وأن الكهربة يجب أن تكون متجددة وميسورة التكلفة لا مبررًا لمزيد من الغاز؛ وتطالب البلدان الغنية بتقديم التمويل العام. يتعلق بمساري الانتقال العادل والتمويل."
+   },
+   "tracks": [
+    "Transição justa",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
   },
   {
    "id": "350org-2026-11-14-bad-jokes-boys-club",
@@ -2730,6 +2782,111 @@
    "first_seen": "2026-11-14T02:47:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "kbpo-2026-11-13-big-polluters-cop31",
+   "institution": "Kick Big Polluters Out",
+   "type": "release",
+   "title": "RELEASE: Big Polluters at the COP31 climate talks",
+   "date": "2026-11-13",
+   "authors": "Kick Big Polluters Out (KBPO)",
+   "url": "https://kickbigpollutersout.org/Big-Polluters-COP31",
+   "summary": "A coalição Kick Big Polluters Out analisou a lista provisória de participantes da UNFCCC e diz ter encontrado mais de 100 empresas e associações de setores poluentes (fósseis, Big Tech, agronegócio) com delegações na COP31, incluindo 30 dos 100 maiores bancos financiadores de combustíveis fósseis. Segundo o levantamento, que os autores consideram conservador, delegações como as da IETA, BNP Paribas e HSBC superam as de países vulneráveis como Nepal e Filipinas. A coalizão pede um marco de prestação de contas e uma política vinculante de conflito de interesses na UNFCCC. Toca as trilhas de TAFF e fósseis e Espaço cívico.",
+   "summary_i18n": {
+    "en": "The Kick Big Polluters Out coalition analysed the UNFCCC provisional participant list and says it found more than 100 companies and associations from polluting sectors (fossil fuels, Big Tech, agribusiness) with delegations at COP31, including 30 of the top 100 fossil fuel-financing banks. According to the count, which the authors describe as conservative, delegations such as those of IETA, BNP Paribas and HSBC outnumber those of vulnerable countries such as Nepal and the Philippines. The coalition calls for an accountability framework and a binding conflict-of-interest policy at the UNFCCC. It bears on the TAFF and fossil fuels and Civic space tracks.",
+    "es": "La coalición Kick Big Polluters Out analizó la lista provisional de participantes de la CMNUCC y afirma haber encontrado más de 100 empresas y asociaciones de sectores contaminantes (combustibles fósiles, Big Tech, agronegocio) con delegaciones en la COP31, incluidos 30 de los 100 mayores bancos financiadores de combustibles fósiles. Según el recuento, que los autores consideran conservador, delegaciones como las de IETA, BNP Paribas y HSBC superan a las de países vulnerables como Nepal y Filipinas. La coalición pide un marco de rendición de cuentas y una política vinculante de conflicto de intereses en la CMNUCC. Afecta a las líneas de TAFF y combustibles fósiles y Espacio cívico.",
+    "fr": "La coalition Kick Big Polluters Out a analysé la liste provisoire des participants de la CCNUCC et affirme y avoir trouvé plus de 100 entreprises et associations de secteurs polluants (combustibles fossiles, Big Tech, agro-industrie) dotées de délégations à la COP31, dont 30 des 100 principales banques finançant les combustibles fossiles. Selon ce décompte, que les auteurs jugent prudent, des délégations comme celles de l'IETA, de BNP Paribas et de HSBC dépassent celles de pays vulnérables comme le Népal et les Philippines. La coalition réclame un cadre de redevabilité et une politique contraignante sur les conflits d'intérêts à la CCNUCC. Concerne les volets TAFF et combustibles fossiles et Espace civique.",
+    "ru": "Коалиция Kick Big Polluters Out проанализировала предварительный список участников РКИК ООН и, по её словам, обнаружила на COP31 делегации более 100 компаний и ассоциаций из загрязняющих отраслей (ископаемое топливо, Big Tech, агробизнес), в том числе 30 из 100 крупнейших банков, финансирующих ископаемое топливо. Согласно подсчёту, который авторы называют консервативным, делегации IETA, BNP Paribas и HSBC превосходят делегации уязвимых стран, таких как Непал и Филиппины. Коалиция призывает ввести в РКИК ООН рамки подотчётности и обязательную политику в отношении конфликта интересов. Касается направлений «TAFF и ископаемое топливо» и «Гражданское пространство».",
+    "zh": "“踢走大污染者”联盟分析了《联合国气候变化框架公约》的临时与会者名单，称发现有100多家来自污染行业（化石燃料、大型科技公司、农业综合企业）的公司和协会派代表团出席COP31，其中包括为化石燃料提供资金最多的100家银行中的30家。据该联盟称为保守估计的统计，IETA、法国巴黎银行和汇丰银行等代表团的规模超过尼泊尔和菲律宾等脆弱国家。该联盟呼吁在《公约》下建立问责框架和具有约束力的利益冲突政策。涉及TAFF与化石燃料和公民空间等议题。",
+    "ar": "حللت ائتلاف «اطردوا كبار الملوِّثين» القائمة المؤقتة للمشاركين في اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، وتقول إنها وجدت أكثر من 100 شركة ورابطة من قطاعات ملوِّثة (الوقود الأحفوري والتكنولوجيا الكبرى والأعمال الزراعية) لها وفود في COP31، منها 30 من أكبر 100 مصرف ممول للوقود الأحفوري. ووفقًا للإحصاء الذي يصفه معدّوه بأنه متحفظ، تفوق وفود مثل IETA وبي إن بي باريبا وإتش إس بي سي وفود بلدان معرّضة للخطر مثل نيبال والفلبين. ويطالب الائتلاف بإطار للمساءلة وسياسة ملزمة بشأن تضارب المصالح في الاتفاقية. يتعلق بمساري TAFF والوقود الأحفوري والفضاء المدني."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-kickbigpollutersout-org-articles-and-resources"
+  },
+  {
+   "id": "oilchange-2026-11-13-bridge-finance",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "COP31 Presidency Releases BRIDGE initiative That Fails to Address Climate Finance Cuts",
+   "date": "2026-11-13",
+   "authors": "Oil Change International (Laurie van der Burg)",
+   "url": "https://oilchange.org/news/cop31-presidency-releases-bridge-initiative-that-fails-to-address-climate-finance-cuts/",
+   "summary": "A Oil Change International critica a BRIDGE (Climate Implementation Bridge), iniciativa lançada pelo presidente turco da COP31, Murat Kurum, para ligar planos climáticos nacionais a oportunidades de financiamento: sem recursos novos, diz, o mecanismo de coordenação fracassará. A organização cita relatos de queda de 70% nas promessas de financiamento climático, questiona a aposta em financiamento privado e pede que o Norte Global cumpra suas obrigações públicas. Toca as trilhas de Finanças e Presidência e anfitrião.",
+   "summary_i18n": {
+    "en": "Oil Change International criticises BRIDGE (Climate Implementation Bridge), an initiative launched by the Turkish COP31 President, Murat Kurum, to link national climate plans with financing opportunities: without new resources, it says, the coordination mechanism will fail. The organisation cites reports of a 70% drop in climate finance pledges, questions the reliance on private finance and calls on the Global North to meet its public obligations. It bears on the Finance and Presidency and host tracks.",
+    "es": "Oil Change International critica BRIDGE (Climate Implementation Bridge), iniciativa lanzada por el presidente turco de la COP31, Murat Kurum, para vincular los planes climáticos nacionales con oportunidades de financiación: sin recursos nuevos, afirma, el mecanismo de coordinación fracasará. La organización cita informes de una caída del 70% en las promesas de financiación climática, cuestiona la apuesta por la financiación privada y pide al Norte Global que cumpla sus obligaciones públicas. Afecta a las líneas de Finanzas y Presidencia y anfitrión.",
+    "fr": "Oil Change International critique BRIDGE (Climate Implementation Bridge), initiative lancée par le président turc de la COP31, Murat Kurum, pour relier les plans climatiques nationaux à des possibilités de financement : sans ressources nouvelles, dit-elle, le mécanisme de coordination échouera. L'organisation cite des informations faisant état d'une baisse de 70 % des promesses de financement climatique, met en doute le recours au financement privé et appelle le Nord global à respecter ses obligations publiques. Concerne les volets Finance et Présidence et pays hôte.",
+    "ru": "Oil Change International критикует BRIDGE (Climate Implementation Bridge) — инициативу турецкого председателя COP31 Мурата Курума, призванную связать национальные климатические планы с возможностями финансирования: по её словам, без новых ресурсов этот координационный механизм потерпит неудачу. Организация ссылается на сообщения о сокращении обещаний климатического финансирования на 70%, ставит под сомнение ставку на частное финансирование и призывает Глобальный Север выполнить свои государственные обязательства. Касается направлений «Финансы» и «Председательство и принимающая сторона».",
+    "zh": "石油变革国际批评COP31土耳其主席穆拉特·库鲁姆发起的BRIDGE（气候实施桥梁）倡议，该倡议旨在将国家气候计划与融资机会对接：该组织称，如果没有新增资金，这一协调机制将会失败。它援引报道称气候资金认捐下降了70%，质疑对私人资金的依赖，并呼吁全球北方履行其公共义务。涉及金融以及主席国与东道国等议题。",
+    "ar": "تنتقد منظمة Oil Change International مبادرة BRIDGE (جسر تنفيذ العمل المناخي) التي أطلقها رئيس COP31 التركي مراد قوروم لربط الخطط المناخية الوطنية بفرص التمويل، وتقول إن آلية التنسيق ستفشل من دون موارد جديدة. وتستشهد المنظمة بتقارير عن انخفاض تعهدات التمويل المناخي بنسبة 70%، وتشكك في الاعتماد على التمويل الخاص، وتدعو بلدان الشمال إلى الوفاء بالتزاماتها العامة. يتعلق بمساري التمويل والرئاسة والبلد المضيف."
+   },
+   "tracks": [
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-13-cover-decision-draft",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "In Response to the First Draft of the COP31 Cover Decision",
+   "date": "2026-11-13",
+   "authors": "Oil Change International (Shady Khalil)",
+   "url": "https://oilchange.org/news/in-response-to-the-first-draft-of-the-cop31-cover-decision/",
+   "summary": "A Oil Change International vê elementos promissores no primeiro rascunho da cover decision da COP31, como o reconhecimento de que os países ricos estão aquém no financiamento climático e de que são necessários roteiros para a transição dos fósseis. Aponta, porém, a ausência de compromissos concretos para frear a expansão fóssil e financiar esses roteiros, e pede a retirada de CCS, CDR e de qualquer estímulo ao gás. Toca as trilhas de Decisão de cobertura, TAFF e fósseis e Finanças.",
+   "summary_i18n": {
+    "en": "Oil Change International sees promising elements in the first draft of the COP31 cover decision, such as the acknowledgement that wealthy countries are falling short on climate finance and that roadmaps for the transition away from fossil fuels are needed. It points, however, to the lack of concrete commitments to halt fossil expansion and fund those roadmaps, and calls for the removal of CCS, CDR and any push for gas. It bears on the Cover decision, TAFF and fossil fuels and Finance tracks.",
+    "es": "Oil Change International ve elementos prometedores en el primer borrador de la decisión general de la COP31, como el reconocimiento de que los países ricos se quedan cortos en financiación climática y de que se necesitan hojas de ruta para la transición fuera de los combustibles fósiles. Señala, sin embargo, la falta de compromisos concretos para frenar la expansión fósil y financiar esas hojas de ruta, y pide eliminar la CAC, la EDC y cualquier impulso al gas. Afecta a las líneas de Decisión general, TAFF y combustibles fósiles y Finanzas.",
+    "fr": "Oil Change International voit des éléments prometteurs dans le premier projet de décision-cadre de la COP31, comme la reconnaissance que les pays riches sont en deçà en matière de financement climatique et que des feuilles de route pour la transition hors des combustibles fossiles sont nécessaires. Elle relève toutefois l'absence d'engagements concrets pour stopper l'expansion fossile et financer ces feuilles de route, et demande le retrait du CSC, de l'EDC et de toute incitation au gaz. Concerne les volets Décision-cadre, TAFF et combustibles fossiles et Finance.",
+    "ru": "Oil Change International видит многообещающие элементы в первом проекте общего решения COP31, например признание того, что богатые страны не выполняют обязательств по климатическому финансированию, и того, что нужны дорожные карты перехода от ископаемого топлива. Однако она указывает на отсутствие конкретных обязательств остановить расширение добычи ископаемого топлива и профинансировать эти дорожные карты и призывает исключить УХУ, удаление CO2 и любое стимулирование газа. Касается направлений «Общее решение», «TAFF и ископаемое топливо» и «Финансы».",
+    "zh": "石油变革国际认为COP31总括决定的首份草案中有一些积极要素，例如承认富裕国家在气候资金方面未达要求，以及需要制定摆脱化石燃料的路线图。但它指出，草案缺乏遏制化石燃料扩张和为这些路线图提供资金的具体承诺，并呼吁删除碳捕集与封存、二氧化碳移除以及任何推动天然气的内容。涉及总括决定、TAFF与化石燃料和金融等议题。",
+    "ar": "ترى منظمة Oil Change International عناصر واعدة في المشروع الأول للمقرر الجامع لـCOP31، مثل الإقرار بأن البلدان الغنية مقصّرة في التمويل المناخي وبالحاجة إلى خرائط طريق للانتقال بعيدًا عن الوقود الأحفوري. لكنها تشير إلى غياب التزامات ملموسة لوقف التوسع الأحفوري وتمويل خرائط الطريق هذه، وتطالب بحذف احتجاز الكربون وتخزينه وإزالة ثاني أكسيد الكربون وأي دفع نحو الغاز. يتعلق بمسارات المقرر الجامع وTAFF والوقود الأحفوري والتمويل."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-13-eu-leadership",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "EU Climate Leadership is Nowhere to be Found at COP31",
+   "date": "2026-11-13",
+   "authors": "Oil Change International (Laurie van der Burg)",
+   "url": "https://oilchange.org/news/eu-climate-leadership-is-nowhere-to-be-found-at-cop31/",
+   "summary": "A Oil Change International afirma que falta liderança climática europeia na COP31: líderes de Alemanha, França e Itália não foram à Cúpula de Líderes, e a presidente da Comissão Europeia não mencionou combustíveis fósseis em seu discurso. A organização aponta que sete países da UE ainda não apresentaram novas promessas de financiamento climático pós-2025, que o bloco não tem roteiro de eliminação dos fósseis e que cogita afrouxar regras sobre metano. Toca as trilhas de Finanças e TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change International says European climate leadership is missing at COP31: the leaders of Germany, France and Italy skipped the Leaders' Summit, and the President of the European Commission did not mention fossil fuels in her address. The organisation notes that seven EU countries have not yet submitted new post-2025 climate finance pledges, that the bloc has no fossil fuel phase-out roadmap and that it is considering loosening methane rules. It bears on the Finance and TAFF and fossil fuels tracks.",
+    "es": "Oil Change International afirma que falta liderazgo climático europeo en la COP31: los líderes de Alemania, Francia e Italia no acudieron a la Cumbre de Líderes y la presidenta de la Comisión Europea no mencionó los combustibles fósiles en su discurso. La organización señala que siete países de la UE aún no han presentado nuevas promesas de financiación climática posteriores a 2025, que el bloque no tiene hoja de ruta para eliminar los combustibles fósiles y que estudia flexibilizar las normas sobre metano. Afecta a las líneas de Finanzas y TAFF y combustibles fósiles.",
+    "fr": "Oil Change International affirme que le leadership climatique européen fait défaut à la COP31 : les dirigeants de l'Allemagne, de la France et de l'Italie ont manqué le Sommet des dirigeants, et la présidente de la Commission européenne n'a pas mentionné les combustibles fossiles dans son discours. L'organisation relève que sept pays de l'UE n'ont pas encore présenté de nouvelles promesses de financement climatique pour l'après-2025, que le bloc n'a pas de feuille de route de sortie des fossiles et qu'il envisage d'assouplir les règles sur le méthane. Concerne les volets Finance et TAFF et combustibles fossiles.",
+    "ru": "Oil Change International утверждает, что на COP31 не хватает европейского климатического лидерства: лидеры Германии, Франции и Италии пропустили Саммит лидеров, а Председатель Европейской комиссии не упомянула ископаемое топливо в своём выступлении. Организация отмечает, что семь стран ЕС ещё не представили новых обязательств по климатическому финансированию на период после 2025 года, что у блока нет дорожной карты отказа от ископаемого топлива и что он рассматривает ослабление правил по метану. Касается направлений «Финансы» и «TAFF и ископаемое топливо».",
+    "zh": "石油变革国际称，COP31上缺乏欧洲的气候领导力：德国、法国和意大利领导人缺席领导人峰会，欧盟委员会主席在讲话中未提及化石燃料。该组织指出，七个欧盟国家尚未提交2025年后的新气候资金认捐，欧盟没有逐步淘汰化石燃料的路线图，并正考虑放宽甲烷规定。涉及金融和TAFF与化石燃料等议题。",
+    "ar": "تقول منظمة Oil Change International إن القيادة المناخية الأوروبية غائبة عن COP31: فقد تغيّب قادة ألمانيا وفرنسا وإيطاليا عن قمة القادة، ولم تذكر رئيسة المفوضية الأوروبية الوقود الأحفوري في كلمتها. وتشير المنظمة إلى أن سبعة بلدان في الاتحاد الأوروبي لم تقدّم بعد تعهدات جديدة للتمويل المناخي لما بعد عام 2025، وأن التكتل ليست لديه خريطة طريق للتخلص التدريجي من الوقود الأحفوري، وأنه يدرس تخفيف قواعد الميثان. يتعلق بمساري التمويل وTAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "Finanças",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
   },
   {
    "id": "sefia-2026-11-13-cop31-day-5",
@@ -11812,6 +11969,32 @@
    "first_seen": "2026-11-11T01:45:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "oilchange-2026-11-10-planning-or-chaos",
+   "institution": "Oil Change International",
+   "type": "briefing",
+   "title": "Planning or Chaos: roadmaps for fair and funded fossil fuel phaseouts in producing countries",
+   "date": "2026-11-10",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/publications/planning-or-chaos/",
+   "summary": "Briefing da Oil Change International defende que países produtores de combustíveis fósseis precisam de roteiros de transição liderados pelos governos, e não pelo mercado, para uma eliminação justa e financiada. O texto propõe quatro componentes para roteiros críveis: visão de longo prazo com metas, política industrial para setores não fósseis, criação de espaço fiscal e enfrentamento de barreiras sistêmicas, inclusive reformas financeiras internacionais. Toca as trilhas de TAFF e fósseis e Transição justa.",
+   "summary_i18n": {
+    "en": "An Oil Change International briefing argues that fossil fuel producing countries need transition roadmaps led by governments, not markets, for a fair and funded phase-out. It proposes four components of credible roadmaps: a long-term vision with targets, industrial policy for non-fossil sectors, the creation of fiscal space and action on systemic barriers, including international financial reforms. It bears on the TAFF and fossil fuels and Just transition tracks.",
+    "es": "Un informe breve de Oil Change International sostiene que los países productores de combustibles fósiles necesitan hojas de ruta de transición dirigidas por los gobiernos, y no por el mercado, para una eliminación justa y financiada. Propone cuatro componentes de hojas de ruta creíbles: una visión a largo plazo con metas, política industrial para sectores no fósiles, la creación de espacio fiscal y la acción sobre barreras sistémicas, incluidas reformas financieras internacionales. Afecta a las líneas de TAFF y combustibles fósiles y Transición justa.",
+    "fr": "Une note d'Oil Change International soutient que les pays producteurs de combustibles fossiles ont besoin de feuilles de route de transition pilotées par les gouvernements, et non par le marché, pour une sortie juste et financée. Elle propose quatre composantes de feuilles de route crédibles : une vision à long terme assortie d'objectifs, une politique industrielle pour les secteurs non fossiles, la création d'une marge budgétaire et l'action sur les obstacles systémiques, y compris des réformes financières internationales. Concerne les volets TAFF et combustibles fossiles et Transition juste.",
+    "ru": "В аналитической записке Oil Change International утверждается, что странам — производителям ископаемого топлива нужны дорожные карты перехода, которыми руководят правительства, а не рынок, для справедливого и обеспеченного финансированием отказа от ископаемого топлива. В ней предлагаются четыре компонента убедительных дорожных карт: долгосрочное видение с целевыми показателями, промышленная политика для неископаемых отраслей, создание бюджетного пространства и устранение системных барьеров, включая международные финансовые реформы. Касается направлений «TAFF и ископаемое топливо» и «Справедливый переход».",
+    "zh": "石油变革国际的一份简报认为，化石燃料生产国需要由政府而非市场主导的转型路线图，以实现公正且有资金保障的逐步淘汰。简报提出可信路线图的四个组成部分：设有目标的长期愿景、面向非化石行业的产业政策、创造财政空间，以及应对包括国际金融改革在内的系统性障碍。涉及TAFF与化石燃料和公正转型等议题。",
+    "ar": "تحتج موجزة صادرة عن منظمة Oil Change International بأن البلدان المنتجة للوقود الأحفوري تحتاج إلى خرائط طريق للانتقال تقودها الحكومات لا الأسواق، من أجل تخلص تدريجي عادل وممول. وتقترح أربعة مكونات لخرائط طريق ذات مصداقية: رؤية طويلة الأجل مع أهداف، وسياسة صناعية للقطاعات غير الأحفورية، وإيجاد حيز مالي، ومعالجة العوائق المنهجية بما في ذلك الإصلاحات المالية الدولية. يتعلق بمساري TAFF والوقود الأحفوري والانتقال العادل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T07:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
   },
   {
    "id": "ics-2026-11-10-edital-adaptacao",
