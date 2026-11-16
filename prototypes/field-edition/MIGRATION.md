@@ -36,12 +36,13 @@ All **341** inline Carbon Brief rows preserved in positions.json, including orig
 - Existing baseline DOM suite: plain wordmark, seven language shell renders/Arabic direction, document filters/reset/pagination/theme and official PDF links.
 - New migration DOM suite: complete daily sections, 810 preserved feed items/810 source records, social filter and pagination, 341 positions/actor filter/reset, all 15 retained-section aliases, seven reference locale loads, Arabic RTL and no media embeds.
 - Adversarial canonicalization tests: shared profile URLs, distinct IDs with identical text, reused IDs with changed content, different platforms/dates, missing IDs, true repeated observations and provenance preservation. All 810 input records are represented.
+- Locale regression suite: all 33 IA labels exist in all seven locales; Civil society differs from Social; rendered controls, reference warnings and archive labels use the selected locale.
 - Lazy data requests only; no timers or repeated background polling.
 
 ## Remaining release gates, not claims of completion
 
 - Browser rendering/mobile layout, keyboard and screen-reader checks still need real-browser QA. DOM tests are not accessibility certification.
-- New controls beyond main destination/search labels still fall back to English in five locales; fluent review and complete UI translation remain required. Existing reference translations are preserved, not independently verified.
+- All 33 newly introduced IA labels now have explicit translations in all seven locales, with no English fallback. Civil society is correctly distinguished from social-media posts. Reference warnings, Pulse controls/eyebrow and archive labels are localized. Fluent linguistic review remains required; existing reference translations are preserved, not independently verified.
 - Some old contextual summaries overlap (especially Brazil/roadmap and actor synthesis). They are preserved deliberately rather than silently deleted; final editorial consolidation into canonical issue records remains pending. Top-level duplicated destinations are removed now. Shared profile links are correctly retained as distinct posts.
 - Canonical feed records merge only repeated observations with matching stable identity and content evidence, retaining variant provenance. Distinct record IDs remain separate even when URLs coincide.
 - Positions search/filter works, but the previous actors-by-position aggregate visual is not recreated yet. Calendar is retained as reference, not live scheduling.
