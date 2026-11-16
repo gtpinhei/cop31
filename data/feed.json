@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T00:45:00-03:00",
+ "generated_at": "2026-11-16T06:16:12-03:00",
  "round": {
-  "timestamp": "2026-11-16T00:45:00-03:00",
-  "label": "16 nov 2026, 00:45 (Brasília)",
+  "timestamp": "2026-11-16T06:16:12-03:00",
+  "label": "16 nov 2026, 06:16 (Brasília)",
   "sites_checked": 61,
-  "blocked": 18,
-  "new_items": 0,
-  "fetches": "66 de 60",
+  "blocked": 20,
+  "new_items": 4,
+  "fetches": "72 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -17,11 +17,13 @@
    "web-chathamhouse-org-topics-climate-policy",
    "web-caneurope-org-news",
    "web-ituc-csi-org-climate-justice",
+   "web-wwf-panda-org-wwf-news",
    "web-christianaid-org-uk-news",
    "web-foei-org-news",
    "web-oilchange-org-press-releases",
    "web-politicaporinteiro-org-en",
    "web-transforma-global",
+   "web-shura-org-tr-en",
    "web-wemeanbusinesscoalition-org-news",
    "web-eurodad-org-news",
    "web-carbon-pulse-com-category-international",
@@ -49,6 +51,96 @@
  ],
  "items": [
   {
+   "id": "bluesky-carbonbrief.org-20261116-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "06:41",
+   "text": "Daily Briefing: COP31 ‘deeply divided’ | $10bn for ‘emerging markets’ | Rosebank ‘rebellion’",
+   "summary": "O Carbon Brief publica o Daily Briefing do dia: COP31 'profundamente dividida', US$ 10 bilhões para 'mercados emergentes' e a 'rebelião' em torno de Rosebank.",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes today's Daily Briefing: COP31 'deeply divided', $10bn for 'emerging markets' and the Rosebank 'rebellion'.",
+    "es": "Carbon Brief publica el Daily Briefing de hoy: la COP31 'profundamente dividida', 10.000 millones de dólares para 'mercados emergentes' y la 'rebelión' por Rosebank.",
+    "fr": "Carbon Brief publie le Daily Briefing du jour : la COP31 « profondément divisée », 10 milliards de dollars pour les « marchés émergents » et la « rébellion » autour de Rosebank.",
+    "ru": "Carbon Brief публикует ежедневный брифинг: КС-31 «глубоко расколота», 10 млрд долларов для «формирующихся рынков» и «бунт» вокруг Rosebank.",
+    "zh": "Carbon Brief发布今日每日简报：COP31“严重分裂”、为“新兴市场”提供100亿美元，以及围绕Rosebank的“反叛”。",
+    "ar": "تنشر Carbon Brief نشرتها اليومية: COP31 «منقسم بعمق» و10 مليارات دولار لـ«الأسواق الناشئة» و«تمرد» بشأن Rosebank."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2gae32rqc2a",
+   "tracks": [
+    "Decisão de cobertura",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-16T06:44:30-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "cop31-tr-2026-11-16-industry-ai",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "Electrification of industry and responsible AI are essential climate priorities",
+   "date": "2026-11-16",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/electrification-of-industry-and-responsible-ai-climate-priorities",
+   "summary": "A Presidência da COP31 lançou um pacote sobre IA responsável, industrialização verde e tecnologia climática, incluindo o Antalya AI Pledge, voluntário e organizado em quatro áreas de ação. O Antalya Green Industrialisation Compact busca investimento e implementação em produção de emissões quase zero, já que a indústria responde por cerca de um quarto das emissões globais. As iniciativas se ligam à meta 35-by-35 de elevar a eletricidade a 35% do consumo final de energia até 2035; toca as trilhas de eletrificação e Agenda de Ação.",
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Murat Kurum, COP31 President: \"Industry and technology must be part of the climate solution.\"",
+    "Gerd Mueller, UNIDO Director General: \"No country should have to choose between development and climate action.\"",
+    "Doreen Bogdan-Martin, ITU Secretary-General: \"AI is a powerful tool for tackling the climate crisis, but it must be used responsibly.\""
+   ],
+   "source_id": "web-cop31-tr",
+   "summary_i18n": {
+    "en": "The COP31 Presidency launched a package on responsible AI, green industrialisation and climate technology, including the voluntary Antalya AI Pledge, organised in four areas of action. The Antalya Green Industrialisation Compact seeks investment and implementation in near-zero emissions production, since industry accounts for about a quarter of global emissions. The initiatives are tied to the 35-by-35 goal of raising electricity to 35% of final energy consumption by 2035; they bear on the electrification and Action Agenda tracks.",
+    "es": "La Presidencia de la COP31 puso en marcha un paquete sobre IA responsable, industrialización verde y tecnología climática, que incluye el Antalya AI Pledge, voluntario y organizado en cuatro áreas de acción. El Antalya Green Industrialisation Compact busca inversión y aplicación en la producción de emisiones casi nulas, ya que la industria genera alrededor de una cuarta parte de las emisiones mundiales. Las iniciativas se vinculan con la meta 35-by-35 de elevar la electricidad al 35% del consumo final de energía para 2035; inciden en las vías de electrificación y la Agenda de Acción.",
+    "fr": "La présidence de la COP31 a lancé un ensemble d'actions sur l'IA responsable, l'industrialisation verte et les technologies climatiques, dont l'Antalya AI Pledge, volontaire et structuré en quatre domaines d'action. L'Antalya Green Industrialisation Compact vise l'investissement et la mise en œuvre dans la production à émissions quasi nulles, l'industrie représentant environ un quart des émissions mondiales. Ces initiatives s'inscrivent dans l'objectif 35-by-35 de porter l'électricité à 35 % de la consommation finale d'énergie d'ici 2035 ; elles concernent les volets électrification et Programme d'action.",
+    "ru": "Президентство КС-31 представило пакет мер по ответственному использованию ИИ, зелёной индустриализации и климатическим технологиям, включая добровольное Antalya AI Pledge по четырём направлениям. Antalya Green Industrialisation Compact нацелен на инвестиции и внедрение в производстве с почти нулевыми выбросами, поскольку на промышленность приходится около четверти мировых выбросов. Инициативы связаны с целью «35-by-35» — довести долю электроэнергии в конечном потреблении энергии до 35% к 2035 году; они относятся к направлениям электрификации и Повестки действий.",
+    "zh": "COP31 主席团推出了一套关于负责任人工智能、绿色工业化和气候技术的行动方案，其中包括自愿性的 Antalya AI Pledge，涵盖四个行动领域。Antalya Green Industrialisation Compact 旨在推动近零排放生产领域的投资与落实，因为工业约占全球排放量的四分之一。这些举措与“35-by-35”目标挂钩，即到2035年将电力在终端能源消费中的占比提高到35%；涉及电气化和行动议程两条主线。",
+    "ar": "أطلقت رئاسة COP31 حزمة إجراءات بشأن الذكاء الاصطناعي المسؤول والتصنيع الأخضر والتكنولوجيا المناخية، تشمل تعهد أنطاليا للذكاء الاصطناعي (Antalya AI Pledge) الطوعي في أربعة مجالات عمل. ويسعى Antalya Green Industrialisation Compact إلى الاستثمار والتنفيذ في الإنتاج شبه الخالي من الانبعاثات، إذ تسهم الصناعة بنحو ربع الانبعاثات العالمية. وترتبط المبادرات بهدف «35-by-35» لرفع حصة الكهرباء إلى 35% من الاستهلاك النهائي للطاقة بحلول عام 2035؛ وتمس مساري الكهربة وأجندة العمل."
+   },
+   "first_seen": "2026-11-16T06:16:12-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "cop31-tr-2026-11-16-first-week",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "First week of COP31 ends with clear momentum for concrete action",
+   "date": "2026-11-16",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/first-week-of-cop31-ends-with-clear-momentum-for-concrete-action",
+   "summary": "Balanço da primeira semana da COP31 em Antalya: a Cúpula de Líderes de 11–12 de novembro reuniu mais de 100 líderes e a conferência passou de 100 mil participantes registrados. A Türkiye assinou parcerias de investimento verde superiores a US$ 26 bilhões, e governos e fundos anunciaram compromissos de finanças climáticas. Os negociadores trabalham em mais de 100 itens de agenda e a Presidência espera divulgar um primeiro rascunho no início da próxima semana; toca as trilhas de decisão de cobertura, finanças e presidência.",
+   "tracks": [
+    "Decisão de cobertura",
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Murat Kurum, COP31 President: \"We have made a strong start during the first five days.\"",
+    "Chris Bowen, President of Negotiations: \"there are more than 100 agenda items and around 60 significant mandates in play\"",
+    "Murat Kurum, COP31 President: \"From the very first day we succeeded in adopting our agenda by consensus among all parties.\""
+   ],
+   "source_id": "web-cop31-tr",
+   "summary_i18n": {
+    "en": "Summary of the first week of COP31 in Antalya: the Leaders' Summit of 11–12 November brought together more than 100 leaders and registration passed 100,000 participants. Türkiye signed green investment partnerships worth over US$26 billion, and governments and funds announced climate finance pledges. Negotiators are working through more than 100 agenda items and the Presidency expects to release an initial draft early next week; it bears on the cover decision, finance and presidency tracks.",
+    "es": "Balance de la primera semana de la COP31 en Antalya: la Cumbre de Líderes del 11 al 12 de noviembre reunió a más de 100 líderes y los participantes inscritos superaron los 100.000. Türkiye firmó asociaciones de inversión verde por más de 26.000 millones de dólares, y gobiernos y fondos anunciaron compromisos de financiación climática. Los negociadores trabajan en más de 100 temas del programa y la Presidencia prevé publicar un primer borrador a principios de la próxima semana; incide en las vías de decisión de cobertura, finanzas y presidencia.",
+    "fr": "Bilan de la première semaine de la COP31 à Antalya : le Sommet des dirigeants des 11 et 12 novembre a réuni plus de 100 dirigeants et les inscriptions ont dépassé 100 000 participants. La Türkiye a signé des partenariats d'investissement vert de plus de 26 milliards de dollars, et des gouvernements et des fonds ont annoncé des engagements de financement climatique. Les négociateurs examinent plus de 100 points de l'ordre du jour et la présidence prévoit de publier un premier projet en début de semaine prochaine ; cela concerne les volets décision de couverture, finance et présidence.",
+    "ru": "Итоги первой недели КС-31 в Анталье: саммит лидеров 11–12 ноября собрал более 100 лидеров, а число зарегистрированных участников превысило 100 тысяч. Турция подписала партнёрства в области зелёных инвестиций на сумму более 26 млрд долларов США, а правительства и фонды объявили о климатическом финансировании. Переговорщики работают более чем над 100 пунктами повестки, а президентство рассчитывает опубликовать первый проект в начале следующей недели; это относится к направлениям общего решения, финансов и президентства.",
+    "zh": "安塔利亚COP31第一周总结：11月11日至12日的领导人峰会汇聚了100多位领导人，注册参会人数超过10万。土耳其（Türkiye）签署了价值超过260亿美元的绿色投资伙伴关系，各国政府和基金宣布了气候资金承诺。谈判代表正在处理100多项议程议题，主席团预计下周初发布初步草案；涉及一揽子决定（cover decision）、资金和主席团三条主线。",
+    "ar": "حصيلة الأسبوع الأول من COP31 في أنطاليا: جمعت قمة القادة يومي 11 و12 نوفمبر أكثر من 100 قائد، وتجاوز عدد المسجلين 100 ألف مشارك. ووقّعت تركيا (Türkiye) شراكات استثمار أخضر تتجاوز قيمتها 26 مليار دولار، وأعلنت حكومات وصناديق التزامات بالتمويل المناخي. ويعمل المفاوضون على أكثر من 100 بند في جدول الأعمال، وتتوقع الرئاسة إصدار مسودة أولية في بداية الأسبوع المقبل؛ وهو يمس مسارات قرار الغطاء والتمويل والرئاسة."
+   },
+   "first_seen": "2026-11-16T06:16:12-03:00",
+   "lang": "en"
+  },
+  {
    "id": "bluesky-350.org-20261116-trump-activists",
    "kind": "post",
    "platform": "bluesky",
@@ -74,6 +166,68 @@
    "first_seen": "2026-11-16T05:46:10-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "cop31-tr-2026-11-15-green-skills",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "COP31 promotes green skills for children and youth to electrify the global economy",
+   "date": "2026-11-15",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/cop31-promotes-green-skills-for-children-and-youth",
+   "summary": "A COP31 e o UNICEF lançaram o Diálogo de Alto Nível de Antalya sobre Crianças, Juventude e Resiliência Climática, centrado na eletrificação e nas habilidades para construir sistemas de energia. A Presidência e a Greening Education Partnership, com o Ministério da Educação da Türkiye, a UNESCO e a OCDE, promoveram o Antalya Protocol for Action sobre educação verde, e o Fórum Climático Liderado por Jovens levou jovens a conversar com negociadores. Dados da UNESCO: 95% dos professores querem ensinar clima, mas só um terço se sente apto a explicar impactos regionais; toca a Agenda de Ação e a eletrificação.",
+   "tracks": [
+    "Agenda de Ação",
+    "Eletrificação"
+   ],
+   "quotes": [
+    "Murat Kurum, COP31 President: \"When the lights come on in a school, it means lessons can continue.\"",
+    "Gernot Laganda, UNICEF: \"Every child should benefit from the transition to a sustainable energy future.\"",
+    "Christopher Castle, UNESCO: \"Thanks to this global mobilization, 73% of countries now include climate education in their curricula\""
+   ],
+   "source_id": "web-cop31-tr",
+   "summary_i18n": {
+    "en": "COP31 and UNICEF launched the Antalya High-Level Dialogue on Children, Youth and Climate Resilience, focused on electrification and the skills needed to build energy systems. The Presidency and the Greening Education Partnership, with Türkiye's Ministry of National Education, UNESCO and the OECD, advanced the Antalya Protocol for Action on greening education, and the Youth-Led Climate Forum let young people speak with negotiators. UNESCO figures show 95% of teachers want climate taught in schools, yet only one third feel able to explain regional impacts; it bears on the Action Agenda and electrification tracks.",
+    "es": "La COP31 y UNICEF pusieron en marcha el Diálogo de Alto Nivel de Antalya sobre la Infancia, la Juventud y la Resiliencia Climática, centrado en la electrificación y en las competencias necesarias para construir sistemas energéticos. La Presidencia y la Greening Education Partnership, con el Ministerio de Educación Nacional de Türkiye, la UNESCO y la OCDE, impulsaron el Antalya Protocol for Action sobre educación verde, y el Foro Climático Dirigido por Jóvenes permitió a los jóvenes dialogar con los negociadores. Las cifras de la UNESCO indican que el 95% de los docentes quiere que se enseñe el clima, pero solo un tercio se siente capaz de explicar sus efectos regionales; incide en la Agenda de Acción y la electrificación.",
+    "fr": "La COP31 et l'UNICEF ont lancé le Dialogue de haut niveau d'Antalya sur les enfants, les jeunes et la résilience climatique, axé sur l'électrification et les compétences nécessaires pour bâtir des systèmes énergétiques. La présidence et la Greening Education Partnership, avec le ministère turc de l'Éducation nationale, l'UNESCO et l'OCDE, ont fait avancer l'Antalya Protocol for Action sur l'éducation verte, et le Forum climatique dirigé par les jeunes a permis aux jeunes de s'adresser aux négociateurs. Selon l'UNESCO, 95 % des enseignants veulent que le climat soit enseigné, mais seul un tiers se sent capable d'en expliquer les effets régionaux ; cela concerne le Programme d'action et l'électrification.",
+    "ru": "КС-31 и ЮНИСЕФ начали Антальский диалог высокого уровня по детям, молодёжи и климатической устойчивости, посвящённый электрификации и навыкам, необходимым для создания энергосистем. Президентство и Greening Education Partnership вместе с Министерством национального образования Турции, ЮНЕСКО и ОЭСР продвигали Antalya Protocol for Action по «зелёному» образованию, а Молодёжный климатический форум позволил молодым людям обратиться к переговорщикам. По данным ЮНЕСКО, 95% учителей хотят преподавать климатическую тематику, но лишь треть считает, что может объяснить региональные последствия; это относится к Повестке действий и электрификации.",
+    "zh": "COP31与联合国儿童基金会（UNICEF）发起了安塔利亚儿童、青年与气候韧性高级别对话，重点关注电气化以及建设能源系统所需的技能。主席团与绿色教育伙伴关系（Greening Education Partnership）联合土耳其国家教育部、联合国教科文组织（UNESCO）和经合组织（OECD），推进关于绿色教育的 Antalya Protocol for Action，青年主导气候论坛则让青年与谈判代表直接交流。教科文组织数据显示，95%的教师希望在学校讲授气候变化，但只有三分之一的教师认为自己能够解释其区域影响；涉及行动议程和电气化两条主线。",
+    "ar": "أطلقت COP31 واليونيسف حوار أنطاليا رفيع المستوى بشأن الأطفال والشباب والقدرة على الصمود المناخي، مع التركيز على الكهربة والمهارات اللازمة لبناء منظومات الطاقة. وعززت الرئاسة وشراكة التعليم الأخضر (Greening Education Partnership)، بالتعاون مع وزارة التربية الوطنية التركية واليونسكو ومنظمة التعاون والتنمية في الميدان الاقتصادي، بروتوكول أنطاليا للعمل (Antalya Protocol for Action) بشأن التعليم الأخضر، وأتاح المنتدى المناخي بقيادة الشباب للشباب التحدث مع المفاوضين. وتفيد أرقام اليونسكو بأن 95% من المعلمين يريدون تدريس المناخ في المدارس، لكن ثلثهم فقط يشعر بقدرته على شرح آثاره الإقليمية؛ وهو يمس أجندة العمل والكهربة."
+   },
+   "first_seen": "2026-11-16T06:16:12-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "can-international-2026-11-15-midway-brief",
+   "institution": "CAN International",
+   "type": "briefing",
+   "title": "State of Play from Antalya: COP31 Midway Media Brief",
+   "date": "2026-11-15",
+   "authors": "Attila Kulcsar",
+   "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
+   "summary": "A Climate Action Network International avalia que a COP31 começou com esperança de transformar os compromissos de Belém em proteção concreta, mas perdeu ritmo no meio da conferência. O briefing afirma que as negociações sobre transição justa, triplicação da adaptação, perdas e danos, mitigação e finanças foram enfraquecidas, enquanto a atenção migrou para iniciativas de destaque e uma possível decisão de cobertura. A rede cobra dos governos e da Austrália, presidente das negociações, resultados concretos na segunda semana, e cita a análise da Carbon Brief de queda de 70% nas promessas de finanças.",
+   "tracks": [
+    "Transição justa",
+    "Adaptação",
+    "Perdas e danos",
+    "Finanças",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "Tasneem Essop, CAN International: \"We came to Antalya to turn promises into protection for people.\"",
+    "Tasneem Essop, CAN International: \"the world will judge them on what they agree, not what they announce.\""
+   ],
+   "source_id": "web-climatenetwork-org-updates",
+   "summary_i18n": {
+    "en": "Climate Action Network International assesses that COP31 began with hope of turning Belém commitments into real protection, but has lost momentum at the midway point. The brief says negotiations on just transition, adaptation tripling, loss and damage, mitigation and finance have been weakened, while attention has shifted to headline initiatives and a possible cover decision. The network calls on governments, and on Australia as President of Negotiations, to deliver concrete outcomes in week two, and cites Carbon Brief analysis of a 70% fall in finance pledges.",
+    "es": "Climate Action Network International considera que la COP31 comenzó con la esperanza de convertir los compromisos de Belém en protección real, pero ha perdido impulso a mitad de la conferencia. El informe sostiene que las negociaciones sobre transición justa, triplicación de la adaptación, pérdidas y daños, mitigación y financiación se han debilitado, mientras la atención se desplaza hacia iniciativas destacadas y una posible decisión de cobertura. La red exige a los gobiernos y a Australia, como Presidencia de las negociaciones, resultados concretos en la segunda semana, y cita el análisis de Carbon Brief sobre una caída del 70% en las promesas de financiación.",
+    "fr": "Climate Action Network International estime que la COP31 a commencé avec l'espoir de transformer les engagements de Belém en protection concrète, mais qu'elle a perdu de son élan à mi-parcours. Le document affirme que les négociations sur la transition juste, le triplement de l'adaptation, les pertes et préjudices, l'atténuation et le financement ont été affaiblies, tandis que l'attention s'est déplacée vers des initiatives phares et une éventuelle décision de couverture. Le réseau demande aux gouvernements et à l'Australie, présidente des négociations, des résultats concrets la deuxième semaine, et cite l'analyse de Carbon Brief sur une baisse de 70 % des promesses de financement.",
+    "ru": "Climate Action Network International считает, что КС-31 началась с надежды превратить белемские обязательства в реальную защиту, но к середине конференции утратила динамику. В брифинге говорится, что переговоры по справедливому переходу, утроению адаптации, потерям и ущербу, смягчению и финансированию ослаблены, а внимание сместилось на громкие инициативы и возможное общее решение. Сеть призывает правительства и Австралию как председателя переговоров добиться конкретных результатов на второй неделе и ссылается на анализ Carbon Brief о 70-процентном падении обязательств по финансированию.",
+    "zh": "国际气候行动网络（CAN International）认为，COP31开局时曾寄望将贝伦承诺转化为切实保护，但到会议中段已失去势头。简报称，关于公正转型、适应资金增至三倍、损失与损害、减缓和资金的谈判被削弱，而关注点转向了亮点倡议和可能的一揽子决定（cover decision）。该网络呼吁各国政府以及作为谈判主席的澳大利亚在第二周取得具体成果，并援引 Carbon Brief 关于资金承诺下降70%的分析。",
+    "ar": "ترى شبكة العمل المناخي الدولية (CAN International) أن COP31 بدأت بأمل في تحويل التزامات بيليم إلى حماية فعلية، لكنها فقدت زخمها في منتصف المؤتمر. وتقول الإحاطة إن المفاوضات بشأن الانتقال العادل ومضاعفة التمويل للتكيف ثلاث مرات والخسائر والأضرار والتخفيف والتمويل قد ضعفت، بينما انتقل الاهتمام إلى المبادرات البارزة وإلى قرار غطاء محتمل. وتدعو الشبكة الحكومات وأستراليا بصفتها رئيسة المفاوضات إلى تحقيق نتائج ملموسة في الأسبوع الثاني، وتستشهد بتحليل Carbon Brief بشأن انخفاض تعهدات التمويل بنسبة 70%."
+   },
+   "first_seen": "2026-11-16T06:16:12-03:00",
+   "lang": "en"
   },
   {
    "id": "x-turkiyecop31-20261115-35by35-pledge",
@@ -22460,64 +22614,35 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-16T05:46:10-03:00",
-  "label": "16 nov 2026, 05:46 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
+  "timestamp": "2026-11-16T06:44:30-03:00",
+  "label": "16 nov 2026, 06:44 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
   "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
    "ig-turkiyecop31",
-   "yt-turkiyecop31",
    "x-murat-kurum",
    "ig-muratkurum",
-   "x-iklimbaskanligi",
-   "x-abayraktar",
-   "x-samedagirbas",
    "ig-chrisbowenmp",
-   "x-dcceew",
    "x-unfccc",
-   "ig-unclimatechange",
    "yt-unclimatechangeevents",
-   "yt-unclimatechange",
    "x-simonstiell",
    "x-aosischair",
-   "ig-aosis-chair",
    "x-ldcchairunfccc",
-   "x-cfrn-org",
-   "x-caricomorg",
    "x-ireland2026eu",
-   "x-wbhoekstra",
    "x-lulaoficial",
-   "ig-lulaoficial",
    "x-mmeioambiente",
-   "ig-mmeioambiente",
    "x-itamaratygovbr",
    "x-marinasilva",
-   "ig-marinasilvaoficial",
    "ig-institutotalanoa",
-   "x-talanoareal",
-   "yt-pol-tica-por-inteiro",
    "x-unatalie",
    "ig-observatoriodoclima",
-   "x-obsclima",
-   "x-moefcc",
-   "x-byadavbjp",
    "x-canintl",
-   "ig-greenpeaceturkiye",
-   "x-powershftafrica",
    "x-hiz-2026",
-   "ig-halklariniklimzirvesi",
-   "x-lossanddamage",
-   "x-e3g",
-   "x-climateactiontr",
-   "x-iisd-enb",
    "x-carbonpulse",
-   "x-turkeyrecap",
-   "x-fatmavarank",
-   "x-miatsf",
-   "x-wmo"
+   "x-fatmavarank"
   ]
  }
 }
