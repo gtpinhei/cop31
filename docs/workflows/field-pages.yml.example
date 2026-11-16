@@ -34,7 +34,7 @@ jobs:
             node prototypes/field-edition/$test.cjs
           done
           node prototypes/field-edition/integration-test.cjs
-          node tools/build-field.cjs "$RUNNER_TEMP/field-site"
+          node tools/build-field.cjs "$RUNNER_TEMP/field-site" --release
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ runner.temp }}/field-site

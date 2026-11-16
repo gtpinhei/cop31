@@ -1,7 +1,8 @@
 /* Explicit staging build only. Never modifies repository root or live data. */
 const fs=require('fs'),path=require('path'),crypto=require('crypto'),cp=require('child_process');
 const root=path.resolve(__dirname,'..'),src=path.join(root,'prototypes/field-edition');
-const target=process.argv[2];if(!target)throw Error('Provide a new staging directory');const out=path.resolve(target);
+const args=process.argv.slice(2),release=args.includes('--release'),positions=args.filter(x=>x!=='--release');
+const target=positions[0];if(!target)throw Error('Provide a new staging directory');const out=path.resolve(target);
 if(fs.existsSync(out))throw Error('Refusing to overwrite an existing directory');
 if(out===root||root.startsWith(out+path.sep))throw Error('Invalid output');
 cp.execFileSync('python3',['-I',path.join(root,'tools/check_public.py')],{cwd:root,stdio:'inherit'});
@@ -10,10 +11,12 @@ fs.mkdirSync(out,{recursive:true});
 for(const name of ['style.css','app.js','canonical.js','migration.js','retention.js','document-health.js','positions.json','documents.json',...['en','pt','es','fr','ru','zh','ar'].map(l=>'explore-'+l+'.json')])fs.copyFileSync(path.join(src,name),path.join(out,name));
 let html=fs.readFileSync(path.join(src,'live-preview.html'),'utf8');fs.writeFileSync(path.join(out,'index.html'),html);
 fs.copyFileSync(path.join(root,'index.html'),path.join(out,'classic.html'));
+cp.execFileSync(process.execPath,[path.join(src,'build-migration.cjs')],{cwd:root,env:{...process.env,COP31_REFERENCE_SOURCE:path.join(root,'index.html'),COP31_REFERENCE_OUTPUT:out},stdio:'inherit'});
 fs.writeFileSync(path.join(out,'live-config.js'),'window.COP31_DATA={briefing:"data/briefing.json",pulse:"data/feed.json",feed:"data/feed.json",today:"data/today.json"};\nwindow.COP31_CLASSIC="classic.html";\n');
+if(release)fs.appendFileSync(path.join(out,'live-config.js'),'window.COP31_RELEASE=true;\n');
 fs.mkdirSync(path.join(out,'data'));for(const f of ['feed.json','briefing.json','today.json','pulse.json','newsletter.json'])fs.copyFileSync(path.join(root,'data',f),path.join(out,'data',f));
 // Optional dedicated PUBLIC projection. Reject private checkpoint/raw metadata shapes.
-const docInput=process.argv[3]||path.join(root,'data/negotiating-texts.json');
+const docInput=positions[1]||path.join(root,'data/negotiating-texts.json');
 if(fs.existsSync(docInput)){
  const d=JSON.parse(fs.readFileSync(docInput,'utf8'));
  const top=new Set(['schema','documents','changes','checked_at','last_success','last_attempt','degraded','sources','history_count','error','verification_mode']);
