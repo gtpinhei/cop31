@@ -14,6 +14,8 @@ import re
 import sys
 from urllib.parse import quote, urlsplit
 from urllib.request import Request, build_opener, HTTPRedirectHandler
+# Support isolated Python execution while importing only this checked-in directory.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from dacs_texts import apply, atomic, iso, load, official, normalize
 
 BASE = 'https://docs.unfccc.int/documents'
