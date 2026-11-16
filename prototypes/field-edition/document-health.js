@@ -96,3 +96,32 @@ function documentVisitSummary(){
  box.querySelector('button').onclick=()=>{visitBaseline={schema:1,checked:check,records};documentVisitSummary()};
 }
 const beforeVisitHealth=documentHealth;documentHealth=function(){beforeVisitHealth();documentVisitSummary()};
+
+/* Public, bounded change log. Events record detection, not negotiation outcomes.
+   No previous PDFs are fabricated and no metadata version is called a revision. */
+const HISTORY_LABEL={
+ en:['Recent catalog changes','New record','PDF changed','Withdrawn','Reinstated','Latest 20 retained events. Times show detection, not publication. This is not a complete text-version history.','View official record'],
+ pt:['Alterações recentes no catálogo','Novo registro','PDF alterado','Retirado','Restabelecido','Últimos 20 eventos retidos. Os horários indicam detecção, não publicação. Não é um histórico completo das versões dos textos.','Ver registro oficial'],
+ es:['Cambios recientes del catálogo','Registro nuevo','PDF modificado','Retirado','Restablecido','Últimos 20 eventos conservados. Las horas indican detección, no publicación. No es un historial completo de versiones de textos.','Ver registro oficial'],
+ fr:['Changements récents du catalogue','Nouvelle entrée','PDF modifié','Retiré','Rétabli','Les 20 derniers événements conservés. Les heures indiquent la détection, pas la publication. Ce n’est pas un historique complet des versions des textes.','Voir la fiche officielle'],
+ ru:['Последние изменения каталога','Новая запись','PDF изменён','Отозвано','Восстановлено','Последние 20 сохранённых событий. Указано время обнаружения, не публикации. Это не полная история версий текстов.','Открыть официальную запись'],
+ zh:['最近的目录变更','新记录','PDF 已更改','已撤回','已恢复','最近保留的 20 条事件。时间表示检测时间，而非发布时间。这不是完整的文本版本历史。','查看官方记录'],
+ ar:['أحدث تغييرات الدليل','سجل جديد','تغيّر ملف PDF','سُحب','أُعيد إدراجه','آخر 20 حدثاً محفوظاً. الأوقات هي أوقات الرصد وليست النشر. هذا ليس سجلاً كاملاً لإصدارات النصوص.','عرض السجل الرسمي']};
+function documentHistory(){
+ if(!data||!window.COP31_DATA?.documents)return;
+ let box=$('document-history');
+ if(!box){box=document.createElement('details');box.id='document-history';box.className='freshness';$('document-coverage').after(box)}
+ const records=new Map(data.documents.documents.map(d=>[String(d.id),d]));
+ const kinds={new:1,revised:2,withdrawn:3,reinstated:4},seen=new Set();
+ const events=(Array.isArray(data.documents.changes)?data.documents.changes:[]).filter(e=>{
+  if(!e||!Object.hasOwn(kinds,e.change)||!records.has(String(e.document_id))||!Number.isFinite(Date.parse(e.at))||!e.event_id||seen.has(e.event_id))return false;
+  seen.add(e.event_id);return true;
+ }).sort((a,b)=>Date.parse(b.at)-Date.parse(a.at)).slice(0,20);
+ box.hidden=!events.length;if(box.hidden)return;
+ const h=HISTORY_LABEL[lang];const markup=`<summary>${esc(h[0])} · ${events.length}</summary><p>${esc(h[5])}</p><ol>`+events.map(e=>{
+  const row=records.get(String(e.document_id));
+  return `<li><p><strong>${esc(h[kinds[e.change]])}</strong> · <bdi>${esc(date(e.at))}</bdi></p><p lang="en" dir="auto">${esc(row.title)}</p><a href="${safeURL(row.source_url)}">${esc(h[6])} ↗</a></li>`;
+ }).join('')+'</ol>';
+ if(box._historyMarkup!==markup){box.innerHTML=markup;box._historyMarkup=markup}
+}
+const beforeHistoryHealth=documentHealth;documentHealth=function(){beforeHistoryHealth();documentHistory()};
