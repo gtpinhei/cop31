@@ -11,7 +11,7 @@ for(const u of dom.window[key].collect(node)){const s=dic[u.key];if(s){if(u.kind
 if(name==='posicoes'){node.querySelectorAll('table,.filters,[role="status"],input,select,button').forEach(n=>n.remove())}
 node.querySelectorAll('script,style,iframe,img,video,audio,form,input,select,button').forEach(n=>n.remove());
 for(const el of node.querySelectorAll('*')){for(const a of [...el.attributes])if(/^on/i.test(a.name)||a.name==='style')el.removeAttribute(a.name);if(el.id)out.anchors[el.id]=name;for(const attr of ['href','src'])if(el.hasAttribute(attr)&&! /^(https?:\/\/|#|mailto:)/.test(el.getAttribute(attr)))el.removeAttribute(attr);}
-node.querySelectorAll('a[href^="#"]').forEach(a=>{const h=a.getAttribute('href');if(a.getAttribute('onclick'))a.removeAttribute('onclick');});if(name==='thinktanks')require('./readability.cjs').improve(node,lang);out.sections[name]=node.innerHTML;
+node.querySelectorAll('a[href^="#"]').forEach(a=>{const h=a.getAttribute('href');if(a.getAttribute('onclick'))a.removeAttribute('onclick');});if(name==='thinktanks'&&process.env.COP31_SKIP_READABILITY!=='1')require('./readability.cjs').improve(node,lang);out.sections[name]=node.innerHTML;
 }
 fs.writeFileSync(path.join(base,'explore-'+lang+'.json'),JSON.stringify(out));}
 console.log('Built 15 retained sections × 7 locales and '+positions.length+' positions.');
