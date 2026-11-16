@@ -7,7 +7,7 @@ if(out===root||root.startsWith(out+path.sep))throw Error('Invalid output');
 cp.execFileSync('python3',['-I',path.join(root,'tools/check_public.py')],{cwd:root,stdio:'inherit'});
 cp.execFileSync('python3',['-I',path.join(root,'tools/validate_feed.py'),'-q'],{cwd:root,stdio:'inherit'});
 fs.mkdirSync(out,{recursive:true});
-for(const name of ['style.css','app.js','canonical.js','migration.js','retention.js','positions.json','documents.json',...['en','pt','es','fr','ru','zh','ar'].map(l=>'explore-'+l+'.json')])fs.copyFileSync(path.join(src,name),path.join(out,name));
+for(const name of ['style.css','app.js','canonical.js','migration.js','retention.js','document-health.js','positions.json','documents.json',...['en','pt','es','fr','ru','zh','ar'].map(l=>'explore-'+l+'.json')])fs.copyFileSync(path.join(src,name),path.join(out,name));
 let html=fs.readFileSync(path.join(src,'live-preview.html'),'utf8');fs.writeFileSync(path.join(out,'index.html'),html);
 fs.copyFileSync(path.join(root,'index.html'),path.join(out,'classic.html'));
 fs.writeFileSync(path.join(out,'live-config.js'),'window.COP31_DATA={briefing:"data/briefing.json",pulse:"data/feed.json",feed:"data/feed.json",today:"data/today.json"};\nwindow.COP31_CLASSIC="classic.html";\n');

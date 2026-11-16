@@ -90,3 +90,20 @@ it stays current. Saved document catalog remains explicitly non-live.
 `retention-test.cjs` covers all seven interface locales, global search, Close, approved
 versus draft/unapproved content, correction visibility and absence of private fetches
 or embedded platforms. Real-browser checks must be repeated on this changed shell.
+
+## Document-feed adapter stage
+
+`document-health.js` and the loader accept the normalized collector contract:
+`last_success`, `last_attempt`, `degraded`, `documents`, `changes`. Metadata fields
+`document_code`, `published_at`, `metadata_version`, attachment language/URL and
+`source_url` map to the shell without inventing political status or comparisons.
+Withdrawn records do not appear as active documents; withdrawal totals remain visible.
+PDF links are distinguished from source-record links. Last-success/attempt and degraded
+states are translated in seven languages. Visitors only fetch the site's public JSON,
+once on opening or by explicit Refresh; they never call UNFCCC or start background polls.
+
+No `documents` override is enabled by default: the catalog remains explicitly saved
+until the validated producer and deployment configuration are connected. Initial feed
+failure no longer blanks Today, and manual refresh failure keeps the last valid catalog.
+`document-health-test.cjs` covers schema mapping, withdrawals, seven locales, failure,
+recovery and the no-visitor-polling boundary. Scheduler/production remain separate gates.
