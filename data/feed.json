@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T06:16:12-03:00",
+ "generated_at": "2026-11-16T12:20:09-03:00",
  "round": {
-  "timestamp": "2026-11-16T06:16:12-03:00",
-  "label": "16 nov 2026, 06:16 (Brasília)",
-  "sites_checked": 61,
-  "blocked": 20,
-  "new_items": 4,
-  "fetches": "72 de 60",
+  "timestamp": "2026-11-16T12:20:09-03:00",
+  "label": "16 nov 2026, 12:20 (Brasília)",
+  "sites_checked": 56,
+  "blocked": 16,
+  "new_items": 5,
+  "fetches": "64 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -20,13 +20,9 @@
    "web-wwf-panda-org-wwf-news",
    "web-christianaid-org-uk-news",
    "web-foei-org-news",
-   "web-oilchange-org-press-releases",
-   "web-politicaporinteiro-org-en",
-   "web-transforma-global",
-   "web-shura-org-tr-en",
-   "web-wemeanbusinesscoalition-org-news",
+   "web-icccad-net-news",
+   "web-cseindia-org-page-cop31",
    "web-eurodad-org-news",
-   "web-carbon-pulse-com-category-international",
    "web-odi-org-en-insights",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-ember-energy-org-latest-insights"
@@ -50,6 +46,119 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "cop31-presidency-2026-11-16-geothermal",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "Türkiye rallies more than 50 countries behind Global Geothermal Ambition 2050 at COP31, calling for broader global action",
+   "date": "2026-11-16",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/more-than-50-countries-back-global-geothermal-ambition-2050",
+   "summary": "A Presidência da COP31 informou que mais de 50 países, incluindo a UE, apoiam a Global Geothermal Ambition 2050, lançada em 10 de novembro, que prevê multiplicar por 12 a oferta de energia e calor geotérmicos até 2050 em relação a 2025, com base em dados da IRENA. Os organizadores querem agora converter as adesões em investimentos e projetos, com um painel consultivo ligando prioridades nacionais à indústria e às finanças. Toca as trilhas de Eletrificação e Agenda de Ação.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency reported that more than 50 countries, including the EU, back the Global Geothermal Ambition 2050, launched on 10 November, which aims to raise geothermal power and heat supply to 12 times 2025 levels by 2050, drawing on IRENA data. Organisers now want to turn the pledges into investment and projects, with an advisory panel linking national priorities to industry and finance. It bears on the Electrification and Action Agenda tracks.",
+    "es": "La Presidencia de la COP31 informó de que más de 50 países, incluida la UE, respaldan la Global Geothermal Ambition 2050, lanzada el 10 de noviembre, que prevé multiplicar por 12 el suministro de energía y calor geotérmicos para 2050 respecto de 2025, con datos de la IRENA. Los organizadores quieren ahora convertir las adhesiones en inversiones y proyectos, con un panel asesor que vincule las prioridades nacionales con la industria y las finanzas. Afecta a las vías de Electrificación y Agenda de Acción.",
+    "fr": "La présidence de la COP31 indique que plus de 50 pays, dont l'UE, soutiennent la Global Geothermal Ambition 2050, lancée le 10 novembre, qui vise à multiplier par 12 l'offre d'énergie et de chaleur géothermiques d'ici 2050 par rapport à 2025, sur la base de données de l'IRENA. Les organisateurs veulent désormais transformer ces engagements en investissements et en projets, avec un groupe consultatif reliant priorités nationales, industrie et finance. Concerne les volets Électrification et Programme d'action.",
+    "ru": "Президентство COP31 сообщило, что более 50 стран, включая ЕС, поддерживают Global Geothermal Ambition 2050, начатую 10 ноября: она предусматривает к 2050 году увеличить в 12 раз по сравнению с 2025 годом объём геотермальной энергии и тепла на основе данных IRENA. Организаторы хотят теперь превратить обязательства в инвестиции и проекты, создав консультативную группу, связывающую национальные приоритеты с промышленностью и финансами. Затрагивает направления «Электрификация» и «Повестка действий».",
+    "zh": "COP31主席团表示,包括欧盟在内的50多个国家支持11月10日启动的Global Geothermal Ambition 2050,该倡议依据IRENA数据,力争到2050年将地热发电和供热规模提高到2025年水平的12倍。组织方希望把承诺转化为投资和项目,并设立咨询小组,将各国优先事项与产业和资金联系起来。涉及电气化和行动议程议题。",
+    "ar": "أفادت رئاسة COP31 بأن أكثر من 50 دولة، بينها الاتحاد الأوروبي، تدعم Global Geothermal Ambition 2050 التي أُطلقت في 10 تشرين الثاني/نوفمبر، وتستهدف رفع إمدادات الطاقة والحرارة الجوفية بمقدار 12 ضعفاً بحلول عام 2050 مقارنة بعام 2025، استناداً إلى بيانات الوكالة الدولية للطاقة المتجددة (IRENA). ويريد المنظمون الآن تحويل التعهدات إلى استثمارات ومشاريع، مع هيئة استشارية تربط الأولويات الوطنية بالصناعة والتمويل. ويتصل ذلك بمساري الكهربة وخطة العمل."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"We can turn this underground source into a greater energy production opportunity\" — Alparslan Bayraktar, ministro da Energia da Türkiye",
+    "\"our task is to turn momentum into investment, partnerships and projects\" — Murat Kurum, presidente da COP31"
+   ],
+   "first_seen": "2026-11-16T12:20:09-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "cop31-presidency-2026-11-16-35by35-join",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "How to join the 35-by-35 Global Electrification Pledge",
+   "date": "2026-11-16",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/how-to-join-the-35-by-35-global-electrification-pledge",
+   "summary": "A Presidência da COP31 lembra que o 35-by-35 Global Electrification Pledge segue aberto a adesões, tanto de países quanto de atores não estatais, como empresas e instituições financeiras, e explica como aderir. A meta de eletrificação é um dos pontos em disputa nas negociações sobre a decisão de cobertura. Toca as trilhas de Eletrificação e Presidência e anfitrião.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency reminds that the 35-by-35 Global Electrification Pledge remains open for sign-ups, from both countries and non-state actors such as businesses and financial institutions, and explains how to join. The electrification target is one of the contested points in the cover decision negotiations. It bears on the Electrification and Presidency and host tracks.",
+    "es": "La Presidencia de la COP31 recuerda que el 35-by-35 Global Electrification Pledge sigue abierto a adhesiones, tanto de países como de actores no estatales, como empresas e instituciones financieras, y explica cómo adherirse. La meta de electrificación es uno de los puntos en disputa en las negociaciones sobre la decisión de cobertura. Afecta a las vías de Electrificación y Presidencia y anfitrión.",
+    "fr": "La présidence de la COP31 rappelle que le 35-by-35 Global Electrification Pledge reste ouvert aux adhésions, tant des pays que des acteurs non étatiques, comme les entreprises et les institutions financières, et explique comment y adhérer. L'objectif d'électrification est l'un des points contestés dans les négociations sur la décision de couverture. Concerne les volets Électrification et Présidence et pays hôte.",
+    "ru": "Президентство COP31 напоминает, что 35-by-35 Global Electrification Pledge остаётся открытой для присоединения как стран, так и негосударственных субъектов, таких как компании и финансовые учреждения, и объясняет, как присоединиться. Цель электрификации остаётся одним из спорных пунктов переговоров по общему решению. Затрагивает направления «Электрификация» и «Президентство и принимающая сторона».",
+    "zh": "COP31主席团提醒,35-by-35 Global Electrification Pledge仍开放加入,各国以及企业、金融机构等非国家行为体均可参加,并说明了加入方式。电气化目标是涵盖性决定谈判中的争议点之一。涉及电气化以及主席团和东道国议题。",
+    "ar": "تذكّر رئاسة COP31 بأن 35-by-35 Global Electrification Pledge ما زال مفتوحاً للانضمام، أمام الدول والجهات الفاعلة من غير الدول مثل الشركات والمؤسسات المالية، وتشرح كيفية الانضمام. ويُعدّ هدف الكهربة من نقاط الخلاف في مفاوضات المقرر الجامع. ويتصل ذلك بمساري الكهربة والرئاسة والبلد المضيف."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T12:20:09-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "climatechangenews-2026-11-16-bulletin-day-7",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 7: Sharp divisions lower expectations for COP outcome",
+   "date": "2026-11-16",
+   "authors": "Megan Rowling, Joe Lo, Matteo Civillini",
+   "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/",
+   "summary": "Na abertura da segunda semana da COP31, um grupo de países árabes e em desenvolvimento de visões semelhantes se opõe a novas metas setoriais, incluindo o pledge de eletrificação (35% da eletricidade até 2035), que teria apoio de cerca de 30 países; a Alemanha diz que ele não precisa constar da decisão de cobertura. Os países em desenvolvimento pedem ao menos US$ 120 bilhões por ano até 2035 para adaptação, mas os ricos têm pouco financiamento novo, e o Canadá prometeu até C$ 560 milhões ao TFFF, elevando o total a cerca de US$ 8,2 bilhões, US$ 1,8 bilhão abaixo da meta de US$ 10 bilhões. Trilhas: Decisão de cobertura, Eletrificação, Finanças, Adaptação, Florestas.",
+   "summary_i18n": {
+    "en": "As the second week of COP31 opened, a group of Arab and Like-Minded Developing Countries opposes new sectoral targets, including the electrification pledge (35% of electricity by 2035), reportedly backed by about 30 countries; Germany says it need not appear in the cover decision. Developing countries want at least US$120 billion a year by 2035 for adaptation, but wealthy nations have little new finance, and Canada pledged up to C$560 million to the TFFF, bringing the total to about US$8.2 billion, US$1.8 billion short of the US$10 billion goal. Tracks: Cover decision, Electrification, Finance, Adaptation, Forests.",
+    "es": "Al abrirse la segunda semana de la COP31, un grupo de países árabes y en desarrollo de ideas afines se opone a nuevas metas sectoriales, incluido el compromiso de electrificación (35 % de la electricidad para 2035), que contaría con el respaldo de unos 30 países; Alemania dice que no tiene por qué figurar en la decisión de cobertura. Los países en desarrollo piden al menos 120 000 millones de dólares anuales para 2035 en adaptación, pero los países ricos tienen poca financiación nueva, y el Canadá prometió hasta 560 millones de dólares canadienses al TFFF, con lo que el total asciende a unos 8200 millones de dólares, 1800 millones menos que la meta de 10 000 millones. Vías: Decisión de cobertura, Electrificación, Finanzas, Adaptación, Bosques.",
+    "fr": "À l'ouverture de la deuxième semaine de la COP31, un groupe de pays arabes et de pays en développement partageant les mêmes idées s'oppose à de nouveaux objectifs sectoriels, dont l'engagement d'électrification (35 % de l'électricité d'ici 2035), qui serait soutenu par une trentaine de pays ; l'Allemagne estime qu'il n'a pas à figurer dans la décision de couverture. Les pays en développement réclament au moins 120 milliards de dollars par an d'ici 2035 pour l'adaptation, mais les pays riches ont peu de financements nouveaux, et le Canada a promis jusqu'à 560 millions de dollars canadiens au TFFF, portant le total à environ 8,2 milliards de dollars, soit 1,8 milliard de moins que l'objectif de 10 milliards. Volets : décision de couverture, électrification, finance, adaptation, forêts.",
+    "ru": "С началом второй недели COP31 группа арабских и единомышленных развивающихся стран выступает против новых секторальных целей, включая обязательство по электрификации (35 % электроэнергии к 2035 году), которое, по сообщениям, поддерживают около 30 стран; Германия заявляет, что его не обязательно включать в общее решение. Развивающиеся страны требуют не менее 120 млрд долл. США в год к 2035 году на адаптацию, но у богатых стран мало нового финансирования, а Канада пообещала до 560 млн канадских долларов TFFF, доведя общую сумму примерно до 8,2 млрд долл., что на 1,8 млрд меньше цели в 10 млрд. Направления: общее решение, электрификация, финансы, адаптация, леса.",
+    "zh": "COP31进入第二周之际,一组阿拉伯和立场相近的发展中国家反对新的部门性目标,包括据报约有30个国家支持的电气化承诺(到2035年电力占比35%);德国表示该承诺不必写入涵盖性决定。发展中国家要求到2035年每年至少1200亿美元用于适应,但富裕国家几乎没有新的资金,加拿大承诺向TFFF提供最多5.6亿加元,使总额达约82亿美元,距100亿美元目标仍差18亿美元。涉及涵盖性决定、电气化、资金、适应和森林议题。",
+    "ar": "مع انطلاق الأسبوع الثاني من COP31، تعارض مجموعة من الدول العربية والدول النامية المتقاربة في المواقف أهدافاً قطاعية جديدة، من بينها تعهّد الكهربة (35% من الكهرباء بحلول عام 2035) الذي تؤيده، بحسب التقارير، نحو 30 دولة؛ وتقول ألمانيا إنه لا يلزم إدراجه في المقرر الجامع. وتطالب الدول النامية بما لا يقل عن 120 مليار دولار سنوياً بحلول عام 2035 للتكيف، لكن الدول الغنية لديها تمويل جديد محدود، وتعهدت كندا بما يصل إلى 560 مليون دولار كندي لمرفق الغابات الاستوائية للأبد (TFFF)، ليبلغ الإجمالي نحو 8.2 مليارات دولار، أي أقل بـ1.8 مليار دولار من هدف 10 مليارات. المسارات: المقرر الجامع، الكهربة، التمويل، التكيف، الغابات."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "Finanças",
+    "Adaptação",
+    "Florestas"
+   ],
+   "quotes": [
+    "\"You can always wish and fight for this, but this is not for us the ultimate benchmark for success\" — Heike Henn, secretária de Estado do Meio Ambiente da Alemanha",
+    "\"Everyone says they want to accelerate the implementation of the Paris Agreement\" — Tatiana Oliveira, WWF-Brasil"
+   ],
+   "first_seen": "2026-11-16T12:20:09-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "unfccc-2026-11-16-draft-cover-decision",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Draft text cover decision 16 Nov 2026 @ 13:30",
+   "date": "2026-11-16",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/665036",
+   "summary": "A UNFCCC publicou em 16 de novembro, às 13h30, o rascunho da decisão de cobertura da COP31 (documento de sessão não oficial), acompanhado de uma nota da Presidência sobre o rascunho. O conteúdo não pôde ser lido a partir da página de catálogo; o PDF tem cerca de 0,29 MB. Trilha: Decisão de cobertura.",
+   "summary_i18n": {
+    "en": "On 16 November at 13:30 the UNFCCC published the draft cover decision text for COP31 (a non-official session document), accompanied by a Presidency note on the draft. The content could not be read from the catalogue page; the PDF is about 0.29 MB. Track: Cover decision.",
+    "es": "El 16 de noviembre a las 13:30 la CMNUCC publicó el borrador de la decisión de cobertura de la COP31 (documento de sesión no oficial), acompañado de una nota de la Presidencia sobre el borrador. El contenido no pudo leerse desde la página del catálogo; el PDF pesa unos 0,29 MB. Vía: Decisión de cobertura.",
+    "fr": "Le 16 novembre à 13 h 30, la CCNUCC a publié le projet de décision de couverture de la COP31 (document de session non officiel), accompagné d'une note de la présidence sur ce projet. Le contenu n'a pas pu être lu depuis la page du catalogue ; le PDF pèse environ 0,29 Mo. Volet : décision de couverture.",
+    "ru": "16 ноября в 13:30 РКИК ООН опубликовала проект общего решения COP31 (неофициальный сессионный документ) вместе с запиской Президентства по этому проекту. Содержание не удалось прочитать на странице каталога; размер PDF около 0,29 МБ. Направление: общее решение.",
+    "zh": "联合国气候变化框架公约秘书处于11月16日13:30发布了COP31涵盖性决定草案(非正式会议文件),并附有主席团关于该草案的说明。目录页面无法读取具体内容;PDF文件约0.29 MB。涉及涵盖性决定议题。",
+    "ar": "نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC) في 16 تشرين الثاني/نوفمبر الساعة 13:30 مسودة المقرر الجامع لمؤتمر COP31 (وثيقة جلسة غير رسمية)، مصحوبة بمذكرة من الرئاسة بشأن المسودة. وتعذّرت قراءة المحتوى من صفحة الفهرس؛ وحجم ملف PDF نحو 0.29 ميغابايت. المسار: المقرر الجامع."
+   },
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T12:20:09-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "oilchange-2026-11-16-ai-gas-electrification",
    "institution": "Oil Change International",
@@ -867,6 +976,32 @@
    "first_seen": "2026-11-15T01:50:00-03:00",
    "lang": "en",
    "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "greenpeace-2026-11-14-bluster-rhetoric",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "COP31: bluster and rhetoric, but still short of ambition to end fossil fuels",
+   "date": "2026-11-14",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87169/cop31-bluster-rhetoric-fossil-fuel-ambition-gap/",
+   "summary": "Em comunicado divulgado durante a marcha em Antalya, o Greenpeace afirma que a primeira semana da COP31 mostra líderes com muita retórica e ritmo insuficiente para acabar com os combustíveis fósseis. Toca as trilhas de TAFF e fósseis e Espaço cívico.",
+   "summary_i18n": {
+    "en": "In a statement issued as people marched in Antalya, Greenpeace says the first week of COP31 shows leaders with plenty of rhetoric but too little pace to end fossil fuels. It bears on the TAFF and fossil fuels and Civic space tracks.",
+    "es": "En un comunicado difundido durante la marcha en Antalya, Greenpeace afirma que la primera semana de la COP31 muestra a unos líderes con mucha retórica y un ritmo insuficiente para poner fin a los combustibles fósiles. Afecta a las vías de TAFF y combustibles fósiles y Espacio cívico.",
+    "fr": "Dans un communiqué publié pendant la marche à Antalya, Greenpeace affirme que la première semaine de la COP31 montre des dirigeants qui multiplient les discours sans avancer assez vite pour mettre fin aux combustibles fossiles. Concerne les volets TAFF et combustibles fossiles et Espace civique.",
+    "ru": "В заявлении, опубликованном во время марша в Анталье, Greenpeace утверждает, что первая неделя COP31 показала лидеров, готовых к риторике, но не к достаточно быстрому прекращению использования ископаемого топлива. Затрагивает направления «TAFF и ископаемое топливо» и «Гражданское пространство».",
+    "zh": "绿色和平在安塔利亚游行期间发表声明称,COP31第一周显示各国领导人言辞很多,但在终结化石燃料方面步伐不够快。涉及TAFF与化石燃料以及公民空间议题。",
+    "ar": "في بيان صدر أثناء المسيرة في أنطاليا، تقول منظمة غرينبيس إن الأسبوع الأول من COP31 أظهر قادة يكثرون من الخطابة ولا يتحركون بالسرعة الكافية لإنهاء الوقود الأحفوري. ويتصل ذلك بمساري TAFF والوقود الأحفوري والفضاء المدني."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-16T12:20:09-03:00",
+   "lang": "en",
+   "source_id": "web-greenpeace-org-international-press"
   },
   {
    "id": "oilchange-2026-11-14-jtm-draft",
@@ -22831,8 +22966,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-16T11:45:00-03:00",
-  "label": "16 nov 2026, 11:45 (Brasília)",
+  "timestamp": "2026-11-16T12:44:00-03:00",
+  "label": "16 nov 2026, 12:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
