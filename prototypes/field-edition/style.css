@@ -30,3 +30,5 @@
 .filters label:first-child,.filters input{min-width:0}
 .filters input{width:100%;max-width:100%}
 @media(max-width:380px){.filters{grid-template-columns:minmax(0,1fr)}}
+.site-search{margin-bottom:2rem}.site-search label{display:block;font-weight:600;margin-bottom:.4rem}.search-actions{display:flex;gap:.5rem;flex-wrap:wrap}.search-actions input{flex:1;min-width:0;max-width:100%}#site-search-results{margin-block:1rem;max-height:60vh;overflow:auto}#social-tools{margin-block:1rem;padding:1rem;border:1px solid var(--line)}.reference td,.reference th{min-width:12ch}
+@media(max-width:380px){.search-actions input{flex-basis:100%}}

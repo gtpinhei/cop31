@@ -65,3 +65,28 @@ For separately fetched exact-main fixtures named `data/*.json.latest`, run with
 Mobile containment fixes avoid hiding document overflow at body level: tables scroll
 locally; grid children may shrink; undated/invalid dates sort after dated documents.
 Pulse provenance dates are localized and explicitly bidi-isolated.
+
+## Functional retention stage
+
+The shell now includes native submit-triggered global search across public feed,
+document metadata, reference sections and approved community entries. Public community
+cards use the original published + approval + verified-source gate; corrections remain
+visible and the full context opens in the preserved classic application. Private draft
+routes are never fetched by the new shell, even on localhost. Search does not poll.
+
+Pulse includes a clearly labelled link to the existing live Bluesky/on-demand platform
+tools. Those tools are not iframed or preloaded. Their existing controls and safeguards
+remain in the unchanged classic application, including full readouts and newsletter
+behaviour. This is intentional transitional access, not a claim of native feature parity.
+
+`node tools/build-field.cjs /absolute/new/staging-directory` makes an isolated candidate:
+new shell at index.html, byte-identical old index at classic.html, current canonical
+public data and seven-language resources. It refuses to overwrite an existing output,
+runs public/feed validators, and records hashes. It does not publish, modify root,
+change a collector, or install a deployment workflow. Existing data updates must trigger
+this build in the final publishing pipeline; do not deploy a one-off snapshot and claim
+it stays current. Saved document catalog remains explicitly non-live.
+
+`retention-test.cjs` covers all seven interface locales, global search, Close, approved
+versus draft/unapproved content, correction visibility and absence of private fetches
+or embedded platforms. Real-browser checks must be repeated on this changed shell.
