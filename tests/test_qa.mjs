@@ -157,11 +157,8 @@ async function stateFor(resp, wait = 450) {
   assert(card("beta newest post")?.querySelector(".badge.id-reported"), "#4 reported identity is distinct from unverified");
   d.querySelector('#pTabs [data-p="x"]').click(); await sleep(20);
   assert(/identidade citada por terceiros/.test(txt(d, "#xCards")), "#4 same identity wording on X cards");
-  const out = read("data/pulse.json");
-  const ch = out.accounts.find(a => a.handle === "chesc.bsky.social"), ca = out.accounts.find(a => a.handle === "climateanalytics.bsky.social"), rk = out.accounts.find(a => a.handle === "rkyte365.bsky.social");
-  assert(ch.identity === "reported" && ch.verified === false && ch.identity_basis === "reportado", "#4 export keeps 'reported' distinct from checked");
-  assert(ca.identity === "unverified" && /resolver/.test(ca.identity_basis), "#4 unresolved handle is not treated as checked");
-  assert(rk.identity === "unverified", "#4 Rachel Kyte's handle stays unverified");
+  // Export identity mapping is covered with synthetic watchlists in test_build_pulse.py.
+  // Do not pin identity regression checks to the mutable production account registry.
 }
 
 // ---------- #5 X selector stays valid and Load never silently no-ops
