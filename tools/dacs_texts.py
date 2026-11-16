@@ -187,7 +187,7 @@ def apply(data, state):
         if not first and change in {"new", "revised", "withdrawn", "reinstated"}:
             # Stable event key keeps retry / repeated snapshots idempotent.
             hashes, urls = signatures(row)
-            proof = json.dumps([did, change, hashes if hashes else urls, row["withdrawn"]], sort_keys=True)
+            proof = json.dumps([did, change, hashes if hashes else urls, row["withdrawn"], row["modified_at"], row["metadata_version"]], sort_keys=True)
             event_id = hashlib.sha256(proof.encode()).hexdigest()[:24]
             events.append({"event_id": event_id, "document_id": did, "change": change, "at": stamp})
     # Disappearing records stay visible; absence from full snapshot alone is not withdrawal.

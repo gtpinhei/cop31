@@ -81,6 +81,16 @@ class WireTests(unittest.TestCase):
             _,again=c.run(f,state,STAMP)
             self.assertEqual(again['changes'],[])
             self.assertNotIn('source_url',state['documents']['10000328'])
+    def test_repeated_withdrawal_after_reinstatement_is_distinct(self):
+        f=Fake();state,_=c.run(f,empty(),STAMP)
+        f.delta['documents']=[{'id':10000328,'unpublished':STAMP,'changed':STAMP}]
+        state,_=c.run(f,state,STAMP)
+        f.delta['documents']=[]
+        state,_=c.run(f,state,'2026-11-16T12:10:00Z')
+        f.delta['documents']=[{'id':10000328,'unpublished':'2026-11-16T12:20:00Z','changed':'2026-11-16T12:20:00Z'}]
+        state,p=c.run(f,state,'2026-11-16T12:20:00Z')
+        self.assertEqual(3,len(p['changes']))
+        self.assertEqual(3,len({x['event_id'] for x in p['changes']}))
     def test_recent_change_survives_next_poll(self):
         f=Fake();state,p=c.run(f,empty(),STAMP)
         f.snapshot['documentMetadata'].append(row(10000330))
