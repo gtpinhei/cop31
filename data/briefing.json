@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-16",
- "generated_at": "2026-11-16T13:29+03:00",
+ "generated_at": "2026-11-16T13:58+03:00",
  "window": {
   "from": "2026-11-13",
   "to": "2026-11-16",
@@ -9,7 +9,7 @@
  },
  "collection": {
   "web_round": "2026-11-16T06:16:12-03:00",
-  "social_round": "2026-11-16T06:44:30-03:00",
+  "social_round": "2026-11-16T07:43:23-03:00",
   "stale": false
  },
  "coverage": {
@@ -161,7 +161,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A Oil Change International atualizou sua análise da meta de eletrificação proposta para a COP31 e alerta que a demanda de eletricidade de IA e data centers pode absorver a nova energia renovável sem deslocar os fósseis, servindo de pretexto para expandir a infraestrutura de gás.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "Oil Change International has updated its analysis of the electrification target proposed for COP31 and warns that electricity demand from AI and data centres could absorb new renewable energy without displacing fossil fuels, serving as a pretext to expand gas infrastructure.",
@@ -2838,7 +2838,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A Oil Change International afirma que a presidência australiana da COP31 enfraqueceu de um dia para o outro o rascunho do mecanismo de transição justa, retirando demandas centrais dos países em desenvolvimento.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "Oil Change International says the Australian COP31 Presidency weakened the draft just transition mechanism overnight, dropping key demands of developing countries.",
@@ -2874,7 +2874,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A coalição Kick Big Polluters Out analisou a lista provisória de participantes da UNFCCC e diz ter encontrado mais de 100 empresas e associações de setores poluentes (fósseis, Big Tech, agronegócio) com delegações na COP31, incluindo 30 dos 100 maiores bancos financiadores de combustíveis fósseis.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "The Kick Big Polluters Out coalition analysed the UNFCCC provisional participant list and says it found more than 100 companies and associations from polluting sectors (fossil fuels, Big Tech, agribusiness) with delegations at COP31, including 30 of the top 100 fossil fuel-financing banks.",
@@ -2910,7 +2910,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A Oil Change International critica a BRIDGE (Climate Implementation Bridge), iniciativa lançada pelo presidente turco da COP31, Murat Kurum, para ligar planos climáticos nacionais a oportunidades de financiamento: sem recursos novos, diz, o mecanismo de coordenação fracassará.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "Oil Change International criticises BRIDGE (Climate Implementation Bridge), an initiative launched by the Turkish COP31 President, Murat Kurum, to link national climate plans with financing opportunities: without new resources, it says, the coordination mechanism will fail.",
@@ -2985,7 +2985,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A Oil Change International vê elementos promissores no primeiro rascunho da cover decision da COP31, como o reconhecimento de que os países ricos estão aquém no financiamento climático e de que são necessários roteiros para a transição dos fósseis.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "Oil Change International sees promising elements in the first draft of the COP31 cover decision, such as the acknowledgement that wealthy countries are falling short on climate finance and that roadmaps for the transition away from fossil fuels are needed.",
@@ -3021,7 +3021,7 @@
      "content_type": "advocacy",
      "kind": "publication",
      "description": "A Oil Change International afirma que falta liderança climática europeia na COP31: líderes de Alemanha, França e Itália não foram à Cúpula de Líderes, e a presidente da Comissão Europeia não mencionou combustíveis fósseis em seu discurso.",
-     "collected_at": "2026-11-16T07:35:00-03:00",
+     "collected_at": "2026-11-16T07:29:22-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
       "en": "Oil Change International says European climate leadership is missing at COP31: the leaders of Germany, France and Italy skipped the Leaders' Summit, and the President of the European Commission did not mention fossil fuels in her address.",
