@@ -1,0 +1,53 @@
+# DORMANT EXAMPLE: activate together with Pages source=GitHub Actions.
+name: Publish Field Edition
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'i18n/**'
+      - 'prototypes/field-edition/**'
+      - 'tools/build-field.cjs'
+      - 'index.html'
+permissions:
+  contents: read
+concurrency:
+  group: cop31-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: cd tools && npm install --no-audit --no-fund
+      - run: |
+          for test in test migration-test canonical-test locale-test readability-test retention-test document-health-test; do
+            node prototypes/field-edition/$test.cjs
+          done
+          node prototypes/field-edition/integration-test.cjs
+          node tools/build-field.cjs "$RUNNER_TEMP/field-site"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/field-site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy verified artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
