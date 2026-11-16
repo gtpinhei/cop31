@@ -28,3 +28,9 @@ Headless Chromium could not start in this executor: `socket() failed: Operation 
 - Native review of Arabic, Chinese and other interface translations; preserve source-language labels.
 - Compare network and CPU activity against current production under identical tasks. File bytes are not power measurements.
 - Keep existing PR11/26 holds and editorial governance; no deployment authorization inferred.
+
+## IA migration review (16 November 2026)
+
+This is a separate implementation checkpoint, **not deployed**. Open `index.html` through a static HTTP server. Current branch `prototype/ia-migration`. See `MIGRATION.md` for exact coverage and known gaps. `node migration-test.cjs` runs the DOM integration suite using the repository's development jsdom installation.
+
+The prototype fetches full Pulse data only when Pulse is opened, and reference translations/positions only when needed. No polling, embeds, private briefings, subscriptions or analytics are enabled. The 10-minute collector belongs to the independent backend integration work, not this preview.
