@@ -1,6 +1,6 @@
 const fs=require('fs'),assert=require('assert'),{JSDOM}=require('../../tools/node_modules/jsdom');
 async function run(fail){const w=new JSDOM(fs.readFileSync(__dirname+'/index.html','utf8'),{url:'https://review.test/',runScripts:'outside-only'}).window;let failNext=fail,calls=[];
-w.COP31_DATA={documents:'central-documents.json'};
+w.scrollTo=()=>{};w.COP31_DATA={documents:'central-documents.json'};
 const feed={last_success:'2026-11-16T10:00:00Z',last_attempt:'2026-11-16T10:10:00Z',degraded:true,documents:[{id:1,title:'Active finance',document_code:'FIN/1',published_at:'2026-11-16T09:00:00Z',metadata_version:3,attachments:[{language:'en',url:'https://docs.unfccc.int/documents/1/files/en/a.pdf'}]},{id:2,title:'Withdrawn finance',withdrawn:true,attachments:[]},{id:3,title:'No PDF',published_at:null,source_url:'https://docs.unfccc.int/documents/3/metadata',attachments:[]}]};
 w.fetch=async u=>{calls.push(u);if(u==='central-documents.json'){if(failNext)return {ok:false};return {ok:true,json:async()=>feed}}return {ok:true,json:async()=>JSON.parse(fs.readFileSync(__dirname+'/'+u))}};
 w.eval(['app.js','canonical.js','migration.js','document-health.js'].map(f=>fs.readFileSync(__dirname+'/'+f,'utf8')).join('\n'));const tick=()=>new Promise(r=>setTimeout(r,25));await tick();assert(w.document.querySelector('#lead h2'),'briefing survives document failure');

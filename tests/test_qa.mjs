@@ -157,11 +157,12 @@ async function stateFor(resp, wait = 450) {
   assert(card("beta newest post")?.querySelector(".badge.id-reported"), "#4 reported identity is distinct from unverified");
   d.querySelector('#pTabs [data-p="x"]').click(); await sleep(20);
   assert(/identidade citada por terceiros/.test(txt(d, "#xCards")), "#4 same identity wording on X cards");
+  // The live watchlist changes independently of the identity contract. Check its
+  // shape, not the continued presence of particular people/handles. Classifier
+  // examples are deterministic in test_build_pulse.py.
   const out = read("data/pulse.json");
-  const ch = out.accounts.find(a => a.handle === "chesc.bsky.social"), ca = out.accounts.find(a => a.handle === "climateanalytics.bsky.social"), rk = out.accounts.find(a => a.handle === "rkyte365.bsky.social");
-  assert(ch.identity === "reported" && ch.verified === false && ch.identity_basis === "reportado", "#4 export keeps 'reported' distinct from checked");
-  assert(ca.identity === "unverified" && /resolver/.test(ca.identity_basis), "#4 unresolved handle is not treated as checked");
-  assert(rk.identity === "unverified", "#4 Rachel Kyte's handle stays unverified");
+  assert(out.accounts.every(a => ["checked", "reported", "unverified"].includes(a.identity)
+    && a.verified === (a.identity === "checked")), "#4 exported identity states stay distinct and verified agrees with checked");
 }
 
 // ---------- #5 X selector stays valid and Load never silently no-ops

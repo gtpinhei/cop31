@@ -35,3 +35,18 @@
 
 /* Blue light edition; dark mode retains its original palette and focus ring. */
 body:not(.dark) :focus-visible{outline-color:#175f9b}
+/* Calendar: legacy moving day marker, adapted to Field Edition and RTL. */
+.reference .timeline{list-style:none;padding:0;margin-block:1.5rem;position:relative;max-inline-size:100%}
+.timeline::before{content:"";position:absolute;inset-inline-start:7.5rem;inset-block:0;border-inline-start:2px solid var(--line)}
+.timeline .tl-item,.timeline .tl-today{display:grid;grid-template-columns:6.5rem minmax(0,1fr);gap:2rem;position:relative;padding-block-end:1.5rem;margin:0}
+.timeline .tl-item::before{content:"";position:absolute;inset-inline-start:7.15rem;inset-block-start:.55rem;inline-size:.8rem;block-size:.8rem;border:2px solid var(--accent);border-radius:50%;background:var(--panel)}
+.timeline .tl-date{font-size:.85rem;line-height:1.5;text-align:end;overflow-wrap:anywhere;color:var(--muted)}
+.timeline .tl-body h4{margin:0 0 .4rem}.timeline .tl-body p{margin:0}
+.timeline .past .tl-body{color:var(--muted)}
+.timeline .past::before{background:var(--line);border-color:var(--muted)}
+.timeline .current .tl-body{border-inline-start:3px solid var(--accent);padding-inline-start:.8rem}
+.timeline .current::before{background:var(--accent)}
+.timeline .tl-today{padding-block:.5rem 1.5rem}
+.timeline .tl-line{border-block-start:2px solid var(--accent);color:var(--accent);padding-block-start:.3rem}
+.timeline .tl-line small{display:block;color:var(--muted);font-size:.75rem}
+@media(max-width:480px){.timeline::before{inset-inline-start:4.7rem}.timeline .tl-item,.timeline .tl-today{grid-template-columns:3.8rem minmax(0,1fr);gap:1.8rem}.timeline .tl-item::before{inset-inline-start:4.35rem}.timeline .tl-date{font-size:.75rem}.timeline .tl-body h4{font-size:1rem}}

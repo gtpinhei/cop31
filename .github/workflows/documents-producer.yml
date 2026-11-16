@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: '3,13,23,33,43,53 * * * *'
   workflow_dispatch:
+  # Recovery trigger: broader public-feed updates also refresh the text feed if
+  # GitHub delays/drops scheduled runs. This is not a ten-minute guarantee.
+  # Deliberately exclude negotiating-texts.json to prevent a producer loop.
+  push:
+    branches: [main]
+    paths:
+      - 'data/feed.json'
+      - 'data/briefing.json'
 permissions:
   contents: read
 concurrency:
