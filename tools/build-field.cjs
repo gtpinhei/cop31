@@ -30,5 +30,13 @@ if(fs.existsSync(docInput)){
 for(const folder of ['i18n','data/articles'])if(fs.existsSync(path.join(root,folder)))fs.cpSync(path.join(root,folder),path.join(out,folder),{recursive:true});
 for(const f of ['CNAME','LICENSE'])if(fs.existsSync(path.join(root,f)))fs.copyFileSync(path.join(root,f),path.join(out,f));
 const sha=f=>crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex');
+// Returning readers must not mix a new HTML shell with cached pre-release code.
+// Content hashes retain browser caching when an asset is unchanged.
+html=html.replace(/(src|href)="([^"?#]+\.(?:js|css))"/g,(all,attribute,file)=>{
+ const asset=path.join(out,file);
+ if(!fs.existsSync(asset))throw Error('Missing release asset: '+file);
+ return `${attribute}="${file}?v=${sha(asset).slice(0,16)}"`;
+});
+fs.writeFileSync(path.join(out,'index.html'),html);
 fs.writeFileSync(path.join(out,'build-manifest.json'),JSON.stringify({source_commit:cp.execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),source_tree_dirty:!!cp.execFileSync('git',['status','--porcelain','--untracked-files=no'],{cwd:root,encoding:'utf8'}).trim(),built_at:new Date().toISOString(),classic_sha256:sha(path.join(out,'classic.html')),feed_sha256:sha(path.join(out,'data/feed.json')),document_mode:fs.existsSync(docInput)?'public DACS projection':'saved catalog; collector not connected',scheduler_status:'not certified by build',artifact_mode:release?'release':'preview',deployment_status:'not asserted by build',workflow_run:process.env.GITHUB_RUN_ID||null},null,2));
 console.log('Staged (not deployed): '+out);
