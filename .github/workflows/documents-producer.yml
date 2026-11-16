@@ -1,0 +1,64 @@
+# DORMANT EXAMPLE: review and move to .github/workflows only at approved release.
+name: Negotiating documents producer
+on:
+  schedule:
+    - cron: '3-59/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: cop31-documents-producer
+  cancel-in-progress: false
+jobs:
+  collect:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect into ephemeral private checkpoint
+        id: collect
+        shell: bash
+        run: |
+          set +e
+          python3 -I tools/collect_negotiating_texts.py \
+            --state "$RUNNER_TEMP/dacs-state.json" \
+            --restore-public data/negotiating-texts.json \
+            --out data/negotiating-texts.json
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Validate and publish only sanitized public output
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test -s data/negotiating-texts.json
+          python3 -I tools/check_public.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet -- data/negotiating-texts.json; then
+            git add -- data/negotiating-texts.json
+            git commit -m 'Update official negotiating-document feed'
+            pushed=false
+            for attempt in 1 2 3; do
+              git pull --rebase origin main || exit 1
+              if git push origin HEAD:main; then pushed=true; break; fi
+              sleep 2
+            done
+            "$pushed"
+            # GITHUB_TOKEN pushes do not trigger ordinary push workflows.
+            gh workflow run field-pages.yml --ref main
+          fi
+      - name: Surface degraded collection as failed run
+        if: steps.collect.outputs.exit_code != '0'
+        run: exit 1

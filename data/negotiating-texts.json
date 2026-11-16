@@ -1,0 +1,2142 @@
+{
+  "changes": [],
+  "checked_at": "2026-11-16T11:26:36.287398Z",
+  "degraded": false,
+  "documents": [
+    {
+      "agenda": "SBI 65 10(e)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i10e.1",
+      "id": "10000255",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T17:33:20.855675Z",
+      "published_at": "2026-11-11T16:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000255/metadata",
+      "status": "withdrawn",
+      "title": "Guidance relating to Adaptation Communications",
+      "topic": "Adaptation",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 4(a); SBI 65 10(a)",
+      "attachments": [],
+      "body": "Subsidiary Bodies (SB); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.SBI65.i10a.1_SBTA65.i4a.1",
+      "id": "10000263",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T20:30:15.187594Z",
+      "published_at": "2026-11-11T18:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000263/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the global goal on adaptation",
+      "topic": "Adaptation",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 10(e)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i10e.2",
+      "id": "10000280",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T06:36:03.885485Z",
+      "published_at": "2026-11-12T17:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000280/metadata",
+      "status": "withdrawn",
+      "title": "Guidance relating to Adaptation Communications",
+      "topic": "Adaptation",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 10(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "048417261edd39a2f6b0a7818b725258ad8e6887b4a21f4cc0a65bf4491ebe27",
+          "url": "https://docs.unfccc.int/documents/10000284/files/en/NAPs_DT_SBI65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i10d.1",
+      "id": "10000284",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T21:21:27.188356Z",
+      "published_at": "2026-11-12T21:15:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000284/metadata",
+      "status": "draft",
+      "title": "National adaptation plans",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 4(a); SBI 65 10(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "e0989ca3e2314d441a65c2cac070fed066ab7d2342384e4ed301789e15e19102",
+          "url": "https://docs.unfccc.int/documents/10000295/files/en/GGA_DT_SB651.pdf"
+        }
+      ],
+      "body": "Subsidiary Bodies (SB); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.SBI65.i10a_SBTA65.i4a.2",
+      "id": "10000295",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-13T20:29:00.817265Z",
+      "published_at": "2026-11-13T20:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000295/metadata",
+      "status": "draft",
+      "title": "Matters relating to the global goal on adaptation",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 10(e)",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "d0c6022ab606a374382b1df1a8036e2349debf25a6f57cede6a2b735720db76f",
+          "url": "https://docs.unfccc.int/documents/10000297/files/ar/sbi2026_L14A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "d858d4883b252ee15614e9642f53aa40d86d375e8ed94fabef2f6769a50f87b0",
+          "url": "https://docs.unfccc.int/documents/10000297/files/en/sbi2026_L14E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "03fd71f4b64a244fdfc38752856d8279c063cde0a0c41b326f54f81e34e53ffa",
+          "url": "https://docs.unfccc.int/documents/10000297/files/es/sbi2026_L14S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "b061cf0c65231e0af95c3839bdc12dbb2e09ab509c32bbec130cb88c179c7ed0",
+          "url": "https://docs.unfccc.int/documents/10000297/files/fr/sbi2026_L14F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "ff0250dffcf055255925fdae462487bcaa47ed52ef63f968565cf05fba0ecdb6",
+          "url": "https://docs.unfccc.int/documents/10000297/files/ru/sbi2026_L14R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "6154f2f3e43c3f82b7cd4634769ca9145cf21ef30d2b854d6738a7defa0de495",
+          "url": "https://docs.unfccc.int/documents/10000297/files/zh/sbi2026_L14C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.14",
+      "id": "10000297",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-14T11:48:51.301189Z",
+      "published_at": "2026-11-13T18:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000297/metadata",
+      "status": "unknown",
+      "title": "Guidance relating to Adaptation Communications. Draft conclusions proposed by the Chair",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 14(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "362b4467b480f7c8fc6f1b8cc07e4122533a0a653f9cf036bd0f56c9dd289aff",
+          "url": "https://docs.unfccc.int/documents/10000302/files/en/AF%20Matters_DT_SBI65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.SBI65.i14a.1",
+      "id": "10000302",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T13:36:22.102571Z",
+      "published_at": "2026-11-14T05:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000302/metadata",
+      "status": "draft",
+      "title": "Matters relating to the Adaptation Fund",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 14(a)",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "4311c9470d2d4e1b8441c41c6ce432c94734e92ea6b223254900cadf13da7d7e",
+          "url": "https://docs.unfccc.int/documents/10000312/files/ar/sbi2026_L21A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "0c3226f6da03f9cbabbc90900773c20a1f7725e51d7f2164be9e414b20afaceb",
+          "url": "https://docs.unfccc.int/documents/10000312/files/en/sbi2026_L21E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "736d45e589f552d922f6227b64de4b15d01ad5410f699a5e795fa0f52e512202",
+          "url": "https://docs.unfccc.int/documents/10000312/files/es/sbi2026_L21S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "4a140e8dddb9f0254d1d181e10de9f5d855d05107ee11250bec9f26e4fb2ca4b",
+          "url": "https://docs.unfccc.int/documents/10000312/files/fr/sbi2026_L21F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "4df521d7b9afb744c035e9d9197bcd832f294644b7b7c5892f93c35b34316a8a",
+          "url": "https://docs.unfccc.int/documents/10000312/files/ru/sbi2026_L21R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "80a692a2a905c2c0defeb482d9fc50c3dc1bcfccca815ef452fb2f8569019ed6",
+          "url": "https://docs.unfccc.int/documents/10000312/files/zh/sbi2026_L21C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/SBI/2026/L.21",
+      "id": "10000312",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T15:29:01.741166Z",
+      "published_at": "2026-11-14T13:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000312/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the Adaptation Fund",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 10(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "7cbe073de09f65f3dc4af4e0a03119a17e31723fae8809c64ced2bb9fcc4e6fd",
+          "url": "https://docs.unfccc.int/documents/10000315/files/en/NAPs_DT_SBI651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i10d.2",
+      "id": "10000315",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T16:56:44.763125Z",
+      "published_at": "2026-11-14T14:50:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000315/metadata",
+      "status": "draft",
+      "title": "National adaptation plans",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(g)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0ea4547fd9b28f04996e49c55b133e7ab72527b739d29d32aed6af49753c4d25",
+          "url": "https://docs.unfccc.int/documents/10000328/files/en/CFWP_DT_cma8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i11g.1",
+      "id": "10000328",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-16T05:01:42.683423Z",
+      "published_at": "2026-11-16T05:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000328/metadata",
+      "status": "draft",
+      "title": "Work programme on climate finance, including on Article 9, paragraph 1, of the Paris Agreement in the context of Article 9 of the Paris Agreement as a whole",
+      "topic": "Finance",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 4",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "070d276727bb3f2d3c0e95c8537088d7cdae9f17bef61e500a6e7495b5f1f541",
+          "url": "https://docs.unfccc.int/documents/10000282/files/en/GST_NDC_DT_cma8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i4.1",
+      "id": "10000282",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T20:52:28.583266Z",
+      "published_at": "2026-11-12T20:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000282/metadata",
+      "status": "draft",
+      "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
+      "topic": "GST / IPCC",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 7; SBI 65 7",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "674d7fc13753c7b2b9c87962a85ab726e6d84a5d85e7be0e10d5cf5a0c0bb041",
+          "url": "https://docs.unfccc.int/documents/10000298/files/en/UAE%20JTWP_DT_SB65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "IN.SBI65.i7_SBSTA65.i7.1",
+      "id": "10000298",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T16:51:12.751183Z",
+      "published_at": "2026-11-13T17:20:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000298/metadata",
+      "status": "informal",
+      "title": "United Arab Emirates just transition work programme",
+      "topic": "Just transition",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 4",
+      "attachments": [],
+      "body": "Subsidiary Bodies (SB); Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "test_symbol_8_11",
+      "id": "10000236",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-10T09:13:03.029291Z",
+      "published_at": null,
+      "session": "SB 65",
+      "source_url": "https://docs.unfccc.int/documents/10000236/metadata",
+      "status": "withdrawn",
+      "title": "Informal document template with Rachel",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "COP 31 8(e); COP 31 2(a)",
+      "attachments": [],
+      "body": "Subsidiary Bodies (SB); Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "test_symbol_8_11",
+      "id": "10000237",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-10T09:13:21.137230Z",
+      "published_at": null,
+      "session": "SB 65",
+      "source_url": "https://docs.unfccc.int/documents/10000237/metadata",
+      "status": "withdrawn",
+      "title": "Informal document template with Rachel",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 4(b); SBI 65 5",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "d5b5c84dd2d011c7ecddf7a77a615d30170b45b486aa27c713edb9bbaf7f8e05",
+          "url": "https://docs.unfccc.int/documents/10000238/files/en/GEF%20SBI%2065%20Written%20Statement_Agenda%20Item%204b%20and%205.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i4b_5.1",
+      "id": "10000238",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-10T09:30:03.766775Z",
+      "published_at": "2026-11-09T19:05:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000238/metadata",
+      "status": "unknown",
+      "title": "Written Statement by the Global Environment Facility",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 19",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "742c9e57935bd95eb3c0415e448ee452ec5b330ce85045625b399843d567585a",
+          "url": "https://docs.unfccc.int/documents/10000239/files/en/PLOP_COP31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "COP31.PLOP",
+      "id": "10000239",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-10T15:14:14.096586Z",
+      "published_at": "2026-11-10T15:10:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000239/metadata",
+      "status": "unknown",
+      "title": "Provisional list of participants COP31",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 4(b)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i4b.1",
+      "id": "10000240",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T06:29:36.486510Z",
+      "published_at": "2026-11-10T14:45:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000240/metadata",
+      "status": "withdrawn",
+      "title": "Reporting from Parties not included in Annex I to the Convention: Provision of financial and technical support",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 11(a)",
+      "attachments": [],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i11a.1",
+      "id": "10000241",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T07:50:03.149879Z",
+      "published_at": "2026-11-10T14:45:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000241/metadata",
+      "status": "withdrawn",
+      "title": "Meeting of the Glasgow Committee on Non-market Approaches",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 5",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i5.2",
+      "id": "10000242",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-10T19:41:09.937701Z",
+      "published_at": "2026-11-10T18:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000242/metadata",
+      "status": "withdrawn",
+      "title": "Reporting and review pursuant to Article 13 of the Paris Agreement: provision of financial and technical support to developing country Parties for reporting and capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 5",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i5.1",
+      "id": "10000243",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T20:32:04.883890Z",
+      "published_at": "2026-11-10T18:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000243/metadata",
+      "status": "withdrawn",
+      "title": "Reporting and review pursuant to Article 13 of the Paris Agreement: provision of financial and technical support to developing country Parties for reporting and capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 18",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "bc4e8b1e5b0d32efdfdf5e7d6f1cd88d2434b6e3b92157ef5e238f007ced43f2",
+          "url": "https://docs.unfccc.int/documents/10000244/files/en/Gender_DT_cop31.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i18.1",
+      "id": "10000244",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T05:29:58.736121Z",
+      "published_at": "2026-11-10T20:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000244/metadata",
+      "status": "draft",
+      "title": "Gender and climate change",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 16",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i16",
+      "id": "10000245",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T10:08:07.564664Z",
+      "published_at": "2026-11-10T20:20:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000245/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to Action for Climate Empowerment",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 19",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i19.1",
+      "id": "10000246",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T10:36:39.985743Z",
+      "published_at": "2026-11-10T21:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000246/metadata",
+      "status": "withdrawn",
+      "title": "Administrative, financial and institutional matters. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 13(b)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i13b.1",
+      "id": "10000247",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T10:53:41.309277Z",
+      "published_at": "2026-11-11T06:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000247/metadata",
+      "status": "withdrawn",
+      "title": "Host of the Climate Technology Centre",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 5; SBI 65 12",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i5_SBI65.i12.1",
+      "id": "10000248",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T10:11:09.266130Z",
+      "published_at": "2026-11-11T05:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000248/metadata",
+      "status": "withdrawn",
+      "title": "Joint annual report of the Executive Committee and the Santiago network of the Warsaw International Mechanism for Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 3",
+      "attachments": [],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i3.1",
+      "id": "10000249",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T17:55:57.901760Z",
+      "published_at": "2026-11-11T07:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000249/metadata",
+      "status": "withdrawn",
+      "title": "Research and systematic observation",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 4(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4caeaa749b7cb222216301c429f75a8a5dd320b390eb58d704dccb87053f3f79",
+          "url": "https://docs.unfccc.int/documents/10000250/files/en/SBI65_Oral%20report%20by%20the%20Consultative%20Group%20of%20Experts.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i4d.1",
+      "id": "10000250",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T11:13:06.518012Z",
+      "published_at": "2026-11-11T10:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000250/metadata",
+      "status": "unknown",
+      "title": "Oral report by the Consultative Group of Experts",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i15.1",
+      "id": "10000251",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T12:34:53.721782Z",
+      "published_at": "2026-11-11T12:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000251/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i15.2",
+      "id": "10000252",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T15:39:58.098779Z",
+      "published_at": "2026-11-11T13:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000252/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 5",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9a320bcbca0744a48df1471e5c3235aee59b1b811a9a5877cb3e3264fa63284d",
+          "url": "https://docs.unfccc.int/documents/10000253/files/en/ETF%20support%20update%20SBI5_IC2.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i5.1",
+      "id": "10000253",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T14:12:14.393491Z",
+      "published_at": null,
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000253/metadata",
+      "status": "unknown",
+      "title": "Update on ETF support activities",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 17",
+      "attachments": [],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i17.1",
+      "id": "10000254",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T11:20:23.761962Z",
+      "published_at": "2026-11-11T13:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000254/metadata",
+      "status": "withdrawn",
+      "title": "Paris Agreement implementation and compliance committee",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 3",
+      "attachments": [],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i3.2",
+      "id": "10000256",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-13T08:57:20.355377Z",
+      "published_at": "2026-11-11T09:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000256/metadata",
+      "status": "withdrawn",
+      "title": "Research and systematic observation",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 14",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "fdc7713fc6ae8bad032981b6a60f6400798d0fdfefd67918858098e42b21f21f",
+          "url": "https://docs.unfccc.int/documents/10000257/files/en/CIO_DT_SBSTA65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i14.1",
+      "id": "10000257",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T18:06:04.170840Z",
+      "published_at": "2026-11-11T16:55:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000257/metadata",
+      "status": "draft",
+      "title": "Cooperation with other international organizations",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 18",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "309b2f1fe8e5a3192199f062057ecb04114274246b665dbe4944be83c74f4843",
+          "url": "https://docs.unfccc.int/documents/10000258/files/en/Gender_DT_cop311.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i18.2",
+      "id": "10000258",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T06:24:35.718794Z",
+      "published_at": "2026-11-11T19:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000258/metadata",
+      "status": "draft",
+      "title": "Gender and climate change",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 4(d)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i4d.1",
+      "id": "10000259",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T21:02:08.187328Z",
+      "published_at": "2026-11-11T18:10:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000259/metadata",
+      "status": "withdrawn",
+      "title": "Report of the Consultative Group of Experts",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 8; SBI 65 8",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i5_SBI65.i15.1",
+      "id": "10000260",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T20:13:50.837741Z",
+      "published_at": "2026-11-11T19:45:00Z",
+      "session": "SB 65",
+      "source_url": "https://docs.unfccc.int/documents/10000260/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the forum on the impact of the implementation of response measures serving the Convention, the Kyoto Protocol and the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 8; SBI 65 8",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i8_SBI65.i8.1",
+      "id": "10000261",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T13:23:55.998221Z",
+      "published_at": "2026-11-11T19:45:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000261/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the forum on the impact of the implementation of response measures serving the Convention, the Kyoto Protocol and the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 18; SBI 65 17",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "fca39aef6a993a3dcdf770e40e5bff5064421d2e2c5d7f96cdd97403a061ade6",
+          "url": "https://docs.unfccc.int/documents/10000264/files/en/Art_6.2_funding_DT_SBI65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.SBI65.i17.1",
+      "id": "10000264",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T20:47:07.817291Z",
+      "published_at": "2026-11-11T20:45:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000264/metadata",
+      "status": "draft",
+      "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 11(b)",
+      "attachments": [],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i11b.1",
+      "id": "10000265",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T09:42:49.332929Z",
+      "published_at": "2026-11-11T20:50:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000265/metadata",
+      "status": "withdrawn",
+      "title": "Review of the work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 13(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "bb4f180461a08e7824794681e48b9a469daf7cedae79c96f4c0b22e8935da04b",
+          "url": "https://docs.unfccc.int/documents/10000266/files/en/PSP_DT_SBI65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i13c.1",
+      "id": "10000266",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T05:02:55.539448Z",
+      "published_at": "2026-11-11T21:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000266/metadata",
+      "status": "draft",
+      "title": "Poznan strategic programme on technology transfer",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(e); CMA 8 11(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "b2fa65339444e62ac487f4c111997c7909cbaff4b6cfca994bf4822eb6941509",
+          "url": "https://docs.unfccc.int/documents/10000267/files/en/FRLD_DT_COP31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.8e_CMA8.11d.1",
+      "id": "10000267",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T08:24:29.985632Z",
+      "published_at": "2026-11-12T07:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000267/metadata",
+      "status": "draft",
+      "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 11",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i11.1",
+      "id": "10000268",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T17:05:51.434767Z",
+      "published_at": "2026-11-12T08:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000268/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the least developed countries",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 10; SBI 65 13(a)",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBI65.i13a_SBSTA65.i10.1",
+      "id": "10000269",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T12:24:40.846445Z",
+      "published_at": "2026-11-12T08:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000269/metadata",
+      "status": "withdrawn",
+      "title": "Joint annual report of the Technology Executive Committee and the Climate Technology Centre and Network",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 5; SBI 65 12",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i5_SBI65.i12.2",
+      "id": "10000270",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T22:21:09.485297Z",
+      "published_at": "2026-11-12T09:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000270/metadata",
+      "status": "withdrawn",
+      "title": "Joint annual report of the Executive Committee and the Santiago network of the Warsaw International Mechanism for Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMP 21 8",
+      "attachments": [],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)",
+      "document_code": "DT.CMP21.i8.1",
+      "id": "10000271",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T10:54:55.119925Z",
+      "published_at": "2026-11-12T10:00:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000271/metadata",
+      "status": "withdrawn",
+      "title": "Report of the Compliance Committee",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 8; SBI 65 8",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i8_SBI65.i8.2",
+      "id": "10000275",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-14T20:01:27.226531Z",
+      "published_at": "2026-11-12T12:15:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000275/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the forum on the impact of the implementation of response measures serving the Convention, the Kyoto Protocol and the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 11(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "bc0de34ab273f9cd958e095a955230c985d948d8feea4f91a03a26e338df29c8",
+          "url": "https://docs.unfccc.int/documents/10000276/files/en/Art%206.8%20GCNMA_DT_SBSTA65_Annex.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i11a.2",
+      "id": "10000276",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-12T14:40:04.880618Z",
+      "published_at": "2026-11-12T08:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000276/metadata",
+      "status": "draft",
+      "title": "Meeting of the Glasgow Committee on Non-market Approaches",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i15.3",
+      "id": "10000277",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-13T10:31:17.869726Z",
+      "published_at": "2026-11-12T15:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000277/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 9; SBI 65 9",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBI65.i9_SBSTA65.i9.1",
+      "id": "10000278",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T15:16:44.897968Z",
+      "published_at": "2026-11-12T16:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000278/metadata",
+      "status": "withdrawn",
+      "title": "Sharm el-Sheikh joint work on implementation of climate action on agriculture and food security. Draft conclusions proposed by the Chairs",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 11(a)",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "16fd9538f163ee84a8a676e932b0a11864c662fe1aeddfee900fdc896023325e",
+          "url": "https://docs.unfccc.int/documents/10000279/files/ar/sbsta2026_L06A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "db5678a1bd50344f341ede5345d67435e223feed4ab503d9110bedcc96a00a4b",
+          "url": "https://docs.unfccc.int/documents/10000279/files/en/sbsta2026_L06E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "6f1ec394c2a8191e8172666580f45db9e1b079732802097521154845c3f47aac",
+          "url": "https://docs.unfccc.int/documents/10000279/files/es/sbsta2026_L06S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "ad893cae388a16a62033b4520c834f1089b5330fdcb1435c39b3423de68b0895",
+          "url": "https://docs.unfccc.int/documents/10000279/files/fr/sbsta2026_L06F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "9fcdef244201dec3c4b519a85dc4e7d0e05117067031175d6b4897b7cfb27086",
+          "url": "https://docs.unfccc.int/documents/10000279/files/ru/sbsta2026_L06R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "e3d67e77e55c03da92dfa7435467fed2942e350ac1cd780628555b18c332845a",
+          "url": "https://docs.unfccc.int/documents/10000279/files/zh/sbsta2026_L06C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SBSTA/2026/L.6",
+      "id": "10000279",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-13T16:19:24.766791Z",
+      "published_at": "2026-11-12T14:40:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000279/metadata",
+      "status": "unknown",
+      "title": "Meeting of the Glasgow Committee on Non-market Approaches. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 5",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "5f298fb2b7c5182f92abe806e388c0c665215094ebf6f2650dc01fb369f25925",
+          "url": "https://docs.unfccc.int/documents/10000281/files/en/ETF_DT_SBI652.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i5.02",
+      "id": "10000281",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-12T20:23:45.565160Z",
+      "published_at": "2026-11-12T20:15:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000281/metadata",
+      "status": "draft",
+      "title": "Reporting and review pursuant to Article 13 of the Paris Agreement: provision of financial and technical support to developing country Parties for reporting and capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 4(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4d46602ae14fa99060aea60505ae789a6dc22bd89ae1bc662c1abb2af0ba6476",
+          "url": "https://docs.unfccc.int/documents/10000283/files/en/CGE_REPORT_DT_SBI651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i4d.2",
+      "id": "10000283",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-12T22:03:35.057850Z",
+      "published_at": "2026-11-12T20:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000283/metadata",
+      "status": "draft",
+      "title": "Report of the Consultative Group of Experts",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 5; SBI 65 12",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000285/files/en/WIM_JAR_DT_SB652.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i5_SBI65.i12.3",
+      "id": "10000285",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-16T05:23:50.009091Z",
+      "published_at": "2026-11-12T20:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000285/metadata",
+      "status": "withdrawn",
+      "title": "Joint annual report of the Executive Committee and the Santiago network of the Warsaw International Mechanism for Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 3",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4afe59a41eda93484a52f12c91138763e792afedba4c6dae18e7f9ae072ccd88",
+          "url": "https://docs.unfccc.int/documents/10000286/files/en/RSO_DT_SBSTA652.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i3.3",
+      "id": "10000286",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-13T05:25:05.587053Z",
+      "published_at": "2026-11-13T04:45:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000286/metadata",
+      "status": "draft",
+      "title": "Research and systematic observation",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 13",
+      "attachments": [],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i13.1",
+      "id": "10000287",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T14:00:06.999699Z",
+      "published_at": "2026-11-13T08:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000287/metadata",
+      "status": "withdrawn",
+      "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 16",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i16.2",
+      "id": "10000288",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-13T18:35:29.894507Z",
+      "published_at": "2026-11-13T10:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000288/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to Action for Climate Empowerment",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i15.4",
+      "id": "10000289",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-14T06:45:38.911285Z",
+      "published_at": "2026-11-13T11:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000289/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to capacity-building",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBSTA 65 10; SBI 65 13(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000290/files/en/TEC-CTCN%20JAR_DT_SB651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBI65.i13a_SBSTA65.i10.2",
+      "id": "10000290",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T05:18:43.458164Z",
+      "published_at": "2026-11-13T12:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000290/metadata",
+      "status": "withdrawn",
+      "title": "Joint annual report of the Technology Executive Committee and the Climate Technology Centre and Network",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "SBI 65 4(b)",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "8e0b030469543207640d1f8c9051a3acfc816df77df3952700bd207a6f5a436d",
+          "url": "https://docs.unfccc.int/documents/10000291/files/ar/sbi2026_L13A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "ca61c2866092501278b00f1adff2293e746088a3de803dc0da7639581ebc761e",
+          "url": "https://docs.unfccc.int/documents/10000291/files/en/sbi2026_L13E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "47050690e3ff9eb7b84e650c57334ec67c64868cc13645722596ef997632677a",
+          "url": "https://docs.unfccc.int/documents/10000291/files/es/sbi2026_L13S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "f04a2f0919e15d9407fe571d8c0dc363b339b25f6960ee366fe2cf441e84c192",
+          "url": "https://docs.unfccc.int/documents/10000291/files/fr/sbi2026_L13F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "cc01a78d9ba8a7293ba5ea6f782e019b5f140db48b27bfe6e5c984907e450335",
+          "url": "https://docs.unfccc.int/documents/10000291/files/ru/sbi2026_L13R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "20ee2aa1708d2b40689ff1b166f96f03913ea18e099d81a3152f69b70b5fea4f",
+          "url": "https://docs.unfccc.int/documents/10000291/files/zh/sbi2026_L13C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.13",
+      "id": "10000291",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T09:58:07.444911Z",
+      "published_at": "2026-11-13T12:17:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000291/metadata",
+      "status": "unknown",
+      "title": "Provision of financial and technical support. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 9; SBI 65 9",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "08acddeb6e289831f7d10b5bab0548f73cd90c3439f7a19c1b7db7baa57e5563",
+          "url": "https://docs.unfccc.int/documents/10000292/files/en/SJWA_DT_SB651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBI65.i9_SBSTA65.i9.2",
+      "id": "10000292",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-13T15:12:28.346007Z",
+      "published_at": "2026-11-13T15:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000292/metadata",
+      "status": "draft",
+      "title": "Sharm el-Sheikh joint work on implementation of climate action on agriculture and food security. Draft conclusions proposed by the Chairs",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 16",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "14d60036891fd1a60bcae69523a5a1c1e4ce9b99c7fb761b70455f9a73e81029",
+          "url": "https://docs.unfccc.int/documents/10000293/files/en/ACE_DT_SBI652.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "IN.SBI65.i16.3",
+      "id": "10000293",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-13T18:34:12.427897Z",
+      "published_at": "2026-11-13T18:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000293/metadata",
+      "status": "informal",
+      "title": "Matters relating to Action for Climate Empowerment",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 17",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "caf9e26647b4efb2102a8deed99d4cd4f92c350ceb01251b30c3312810e22b51",
+          "url": "https://docs.unfccc.int/documents/10000294/files/ar/cma2026_L01A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "0af2ee3484144ef324294bb4fa02abc06e4d5598251f4010947778efb737a965",
+          "url": "https://docs.unfccc.int/documents/10000294/files/en/cma2026_L01E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "1a61502bdf75ac708b2a58f2bede679458520abbcd144158a95d0aea598ed69d",
+          "url": "https://docs.unfccc.int/documents/10000294/files/es/cma2026_L01S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "aa6438d2625b1cd5ad2dce7ac307d52d6a13ee6b82279d15165ede5531f2487a",
+          "url": "https://docs.unfccc.int/documents/10000294/files/fr/cma2026_L01F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "9ae5d9a366c26a1fe03abf9b35ed76d930ce1c0176ac969d636d59bf827abbcc",
+          "url": "https://docs.unfccc.int/documents/10000294/files/ru/cma2026_L01R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "473d552d121f304eeec5011c3e65a296062d98788443aca34a70be4d4b041144",
+          "url": "https://docs.unfccc.int/documents/10000294/files/zh/cma2026_L01C.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.1",
+      "id": "10000294",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T16:12:40.727281Z",
+      "published_at": "2026-11-13T17:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000294/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the committee to facilitate implementation and promote compliance referred to in Article 15, paragraph 2, of the Paris Agreement. Draft decision -/CMA.8",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "05b29f785d86bcb7439f1e79efb1202812982695eedaf35904ec30d11880f8db",
+          "url": "https://docs.unfccc.int/documents/10000296/files/en/GCF_DT_cp31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.8c.1",
+      "id": "10000296",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T20:32:09.978097Z",
+      "published_at": "2026-11-12T21:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000296/metadata",
+      "status": "draft",
+      "title": "Report of the Green Climate Fund to the Conference of the Parties and guidance to the Green Climate Fund",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "a045943235a871864f94f92af9eb0a09525ffeb454ac670e3f203b5b2031474e",
+          "url": "https://docs.unfccc.int/documents/10000299/files/ar/sbi2026_L15A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "ac21c6ac4f2c6eed35bbcf6fc7dab1ae187e0181bda615bc087db526e37a6242",
+          "url": "https://docs.unfccc.int/documents/10000299/files/en/sbi2026_L15E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "1a6a912f4c63c67fffad6be7a08af537bed63061ca6433acf785969318a04d08",
+          "url": "https://docs.unfccc.int/documents/10000299/files/es/sbi2026_L15S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "1be87f68de9d67b59274f196f158d0e0c0deac872d5af424057d7ee564334c42",
+          "url": "https://docs.unfccc.int/documents/10000299/files/fr/sbi2026_L15F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "4702b66d9297db036d4f941972e7dce3e5d31a7aebbff08e97a0a6fbe99d6348",
+          "url": "https://docs.unfccc.int/documents/10000299/files/ru/sbi2026_L15R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "cf18c19fbe0a0de4932e00a3c18ed290b823c9c842019a7f682c75895c0610ec",
+          "url": "https://docs.unfccc.int/documents/10000299/files/zh/sbi2026_L15C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.15",
+      "id": "10000299",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-14T13:13:07.441460Z",
+      "published_at": "2026-11-13T17:05:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000299/metadata",
+      "status": "unknown",
+      "title": "Annual technical progress report of the Paris Committee on Capacity-building for 2026. Draft decision -/CMA.8. Recommendation of the Subsidiary Body for Implementation",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 15",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "2e6b2a0f6b1447eeaa018cdbf0076d1fdd788b03c9032dd8d07c8ecc047893a9",
+          "url": "https://docs.unfccc.int/documents/10000300/files/en/CB_DT_SBI65_COP.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.16",
+      "id": "10000300",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-13T21:18:17.283899Z",
+      "published_at": "2026-11-13T20:55:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000300/metadata",
+      "status": "unknown",
+      "title": "Annual technical progress report of the Paris Committee on Capacity-building for 2026. Draft decision -/CP.31. Recommendation of the Subsidiary Body for Implementation",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 13(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "20dcfce1ce66757d251a331e076fd7f89ca91f58e0f34760954b1e8805a2d2a7",
+          "url": "https://docs.unfccc.int/documents/10000303/files/en/PSP_DT_SBI651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i13c.2",
+      "id": "10000303",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T05:40:42.906161Z",
+      "published_at": "2026-11-14T05:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000303/metadata",
+      "status": "draft",
+      "title": "Poznan strategic programme on technology transfer",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 4(d)",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "fea8e9520c3c26b27370620152a9e1e3fb48f9049f28e14e5d90d69677156a37",
+          "url": "https://docs.unfccc.int/documents/10000304/files/ar/sbi2026_L17A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "77eca705207be308d2abc751c239749650ad7b7934f0cd1ff63068069396bf84",
+          "url": "https://docs.unfccc.int/documents/10000304/files/en/sbi2026_L17E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "3ca4648038aa4d67d54b8a331ace42f3d8569e332d32a5e126e9d4b1476935e6",
+          "url": "https://docs.unfccc.int/documents/10000304/files/es/sbi2026_L17S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "c8506b868b2a1c3b680d96943cb05125ef88deb23b0dd37e1ea72b210b2b26c3",
+          "url": "https://docs.unfccc.int/documents/10000304/files/fr/sbi2026_L17F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "b85f2576b44125c8021c3569fa6331182ece98d89ea376a226628084a3d2bf9c",
+          "url": "https://docs.unfccc.int/documents/10000304/files/ru/sbi2026_L17R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "37b29343d8504f7fb17a2bedaa32c4713327ad576b5bd9b94ed5de16d6407024",
+          "url": "https://docs.unfccc.int/documents/10000304/files/zh/sbi2026_L17C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.17",
+      "id": "10000304",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-14T15:15:49.934518Z",
+      "published_at": "2026-11-14T03:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000304/metadata",
+      "status": "unknown",
+      "title": "Report of the Consultative Group of Experts. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 11(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4d82781f49f9b2b6274a706f8de498ba8560f66f6c4271c756fa00c21f688297",
+          "url": "https://docs.unfccc.int/documents/10000305/files/en/Art%206.8%20Review_DT_SBSTA651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i11b.2",
+      "id": "10000305",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T09:28:59.676343Z",
+      "published_at": "2026-11-14T08:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000305/metadata",
+      "status": "draft",
+      "title": "Review of the work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 18",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "faea7143ecb34c152d77ac765e1a678c24494944378ea1f3e7a8e24c64afd888",
+          "url": "https://docs.unfccc.int/documents/10000306/files/ar/sbi2026_L18A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "d40dd30a5b1b12609b0b0dbbbfea5e122f56fe8a4d78e73aad280deab5a48f9a",
+          "url": "https://docs.unfccc.int/documents/10000306/files/en/sbi2026_L18E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "879b99d03f5137dd3ee7b29f21abe39196cfd62846e09a96103d3cd4ae734450",
+          "url": "https://docs.unfccc.int/documents/10000306/files/es/sbi2026_L18S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "5f10efec30a095413f8be29a38d78dc033b506181057d4ec0d84b57a96268f64",
+          "url": "https://docs.unfccc.int/documents/10000306/files/fr/sbi2026_L18F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "23120cfc44d2ee83a13f336dc4342fa00bbeb0dc72b4712d06d97cc7aac5f98b",
+          "url": "https://docs.unfccc.int/documents/10000306/files/ru/sbi2026_L18R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "6f9df2ee3e32f3433989a19c37708dcaabef2cf9bcdf51b3f2e1b9cc489103b0",
+          "url": "https://docs.unfccc.int/documents/10000306/files/zh/sbi2026_L18C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.18",
+      "id": "10000306",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-14T12:51:57.528712Z",
+      "published_at": "2026-11-14T06:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000306/metadata",
+      "status": "unknown",
+      "title": "Gender and climate change. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 19",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "4cc626e1ee57a93c143d05a81a8868c81136343fb319257d2c30ef13f5660954",
+          "url": "https://docs.unfccc.int/documents/10000307/files/ar/sbi2026_L19A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "b117264537a74e71cafe15ee187deb552f09182ba0dd0f3228c68db4b84b24dd",
+          "url": "https://docs.unfccc.int/documents/10000307/files/en/sbi2026_L19E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "3722c6c15201489aaca206fb4bcd8d4a862fe75b2fb02b70f41c92c5e454a11e",
+          "url": "https://docs.unfccc.int/documents/10000307/files/es/sbi2026_L19S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "68cb60443adf34bd11f9ccad566b2e2ee0a7ca35eb0c86f56fe3003e65d32273",
+          "url": "https://docs.unfccc.int/documents/10000307/files/fr/sbi2026_L19F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "60878bc4a2be556827d7e590c923e4c694dc2cf4740e8743b2112bd64695ac01",
+          "url": "https://docs.unfccc.int/documents/10000307/files/ru/sbi2026_L19R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "e89e109a948f5b1fffd7d791dfbe19d0dad6f2db01531117a026e6880f94f218",
+          "url": "https://docs.unfccc.int/documents/10000307/files/zh/sbi2026_L19C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.19",
+      "id": "10000307",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T14:37:18.692314Z",
+      "published_at": "2026-11-14T08:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000307/metadata",
+      "status": "unknown",
+      "title": "Administrative, financial and institutional matters. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 19",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "6f1af069c2b3c4dbc1b8e33f5c05cf167e4204a26d1752f776c4d4171f84c001",
+          "url": "https://docs.unfccc.int/documents/10000308/files/ar/sbi2026_L20A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "8db2c0784a925069b157ec3980da8b22e929781509f7d00bc4b3db9c1e1d7c74",
+          "url": "https://docs.unfccc.int/documents/10000308/files/en/sbi2026_L20E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "0c67f9038fb21c0644872530e5dc49838a6d955e1f3544319db7af1197f9a74e",
+          "url": "https://docs.unfccc.int/documents/10000308/files/es/sbi2026_L20S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "b02c2fb2f6dd2e09adb763081528b1f5733ad19d64bf3fd5b81052146e10e87b",
+          "url": "https://docs.unfccc.int/documents/10000308/files/fr/sbi2026_L20F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "80f3ec2cccd3459ffade85eba2556fb95a621e5b87feb05f0c4a8f938fed395b",
+          "url": "https://docs.unfccc.int/documents/10000308/files/ru/sbi2026_L20R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "f374c1f4a3307546ca9f3123dc73bbafa61e7d388ae738f69f2af6b8c3c42f4b",
+          "url": "https://docs.unfccc.int/documents/10000308/files/zh/sbi2026_L20C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.20",
+      "id": "10000308",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T14:38:02.890915Z",
+      "published_at": "2026-11-14T08:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000308/metadata",
+      "status": "unknown",
+      "title": "Administrative, financial and institutional matters. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMP 21 8",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "83ef2e3c81b6e25865e59fbc0cec2da7a239d05e5bd5e71ec95ad462d848d5e4",
+          "url": "https://docs.unfccc.int/documents/10000309/files/ar/cmp2026_L01A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "db016a0f64ea27b9e05e61df23c5f293f34a6d76c1d3b5c5b41deb32d901dd87",
+          "url": "https://docs.unfccc.int/documents/10000309/files/en/cmp2026_L01E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "fe1ec9b682809517b23584babe43b79215581405dcf99ebae850eecc21182de5",
+          "url": "https://docs.unfccc.int/documents/10000309/files/es/cmp2026_L01S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "b0fd6f9067fcccdb745eea04a2067dd272ba1f713a01e31e2490014440d02347",
+          "url": "https://docs.unfccc.int/documents/10000309/files/fr/cmp2026_L01F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "9e7d9ac0b700ac620d994abf073442a379b6c14b59a4bef8fde7d085417dd48b",
+          "url": "https://docs.unfccc.int/documents/10000309/files/ru/cmp2026_L01R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "e77f98a11409dca43ab32431bbd9af8e22ac65c7d943d93fc5001124589dc9c9",
+          "url": "https://docs.unfccc.int/documents/10000309/files/zh/cmp2026_L01C.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)",
+      "document_code": "FCCC/KP/CMP/2026/L.1",
+      "id": "10000309",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T16:17:21.372455Z",
+      "published_at": "2026-11-14T08:30:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000309/metadata",
+      "status": "unknown",
+      "title": "Report of the Compliance Committee",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 13(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0b92e3a5134ca2c26230084eabf963c3d265e734df80d1e6768820ec38095883",
+          "url": "https://docs.unfccc.int/documents/10000310/files/en/CTC%20Host_DT_SBI651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i13b.2",
+      "id": "10000310",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T10:51:31.494918Z",
+      "published_at": "2026-11-14T09:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000310/metadata",
+      "status": "draft",
+      "title": "Host of the Climate Technology Centre",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 9; SBI 65 9",
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": "f64fb834e1a73b98820451be3cd984951d9ffa59b03e7dc852c6cc5a35f4245b",
+          "url": "https://docs.unfccc.int/documents/10000311/files/ar/sbi2026_L14A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": "3e1e2289668bac86692d64afa5e242217f6b2d095a1759af330fd51f5e879438",
+          "url": "https://docs.unfccc.int/documents/10000311/files/en/sbi2026_L14E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "943fa2250a533b9b27915d67c8e67d946b0fadf4dd36b0e351763075858cc7c3",
+          "url": "https://docs.unfccc.int/documents/10000311/files/es/sbi2026_L14S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "070214a380498d64d415f13f2f833807079b012fe97020388bab9d6f8644e52e",
+          "url": "https://docs.unfccc.int/documents/10000311/files/fr/sbi2026_L14F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "fe144d51751b64dadc8e7251b9dbb9abdafdc544aae18baa5f7c6b09ab2f9c20",
+          "url": "https://docs.unfccc.int/documents/10000311/files/ru/sbi2026_L14R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "172cda41a6c92ff4a5d79203821eac9008d3470c154a51b2f804d30930f35f17",
+          "url": "https://docs.unfccc.int/documents/10000311/files/zh/sbi2026_L14C.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SB/2026/L.5",
+      "id": "10000311",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-14T14:02:24.492342Z",
+      "published_at": "2026-11-14T09:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000311/metadata",
+      "status": "unknown",
+      "title": "Sharm el-Sheikh joint work on implementation of climate action on agriculture and food security. Draft conclusions proposed by the Chairs",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 13",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "1ea5f30592e40daff416ec0fd0764274ba5639b621b4115270ce3835f314df52",
+          "url": "https://docs.unfccc.int/documents/10000313/files/en/PRLTGG_DT_cp311.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i13.2",
+      "id": "10000313",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T07:45:47.571667Z",
+      "published_at": "2026-11-14T10:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000313/metadata",
+      "status": "draft",
+      "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 11",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "e5151e1336d0f09b50f619eef7c061b5860b3988822d27cdaba05387390cf39d",
+          "url": "https://docs.unfccc.int/documents/10000314/files/en/LDCs_DT_SBI651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "DT.SBI65.i11.2",
+      "id": "10000314",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T17:04:32.966300Z",
+      "published_at": "2026-11-14T05:20:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000314/metadata",
+      "status": "draft",
+      "title": "Matters relating to the least developed countries",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 11",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0462c534c26e5a6d91c7af88ff0f5bd8170fc13c6b3f45227e4de38b4128ab77",
+          "url": "https://docs.unfccc.int/documents/10000316/files/en/LDCs_DT_SBI65_DC.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.22",
+      "id": "10000316",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T17:02:38.295729Z",
+      "published_at": "2026-11-14T08:30:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000316/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the least developed countries. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 5; SBI 65 12",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "889a0f6e3f3a018d92c260f4e2deb3676fb891aab2c5c4e09b240b4cd887855c",
+          "url": "https://docs.unfccc.int/documents/10000317/files/en/WIM_JAR_DT_SB653.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SB/2026/L.6",
+      "id": "10000317",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-14T17:56:26.110199Z",
+      "published_at": "2026-11-14T16:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000317/metadata",
+      "status": "unknown",
+      "title": "Joint annual report of the Executive Committee of the Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts and the Santiago network for averting, minimizing and addressing loss and damage associated with...",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 5; SBI 65 12",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "36a3f4df1cca2ef5dfd8bda94b58222d04c72c29845b662185f16f37e1850afe",
+          "url": "https://docs.unfccc.int/documents/10000318/files/en/WIM_JAR_2026_COP31.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SB/2026/L.7",
+      "id": "10000318",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T18:06:19.052892Z",
+      "published_at": "2026-11-14T15:55:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000318/metadata",
+      "status": "unknown",
+      "title": "Joint annual report of the Executive Committee of the Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts and the Santiago network for averting, minimizing and addressing loss and damage associated with...",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBI 65 21",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "b22c1a92cc7e2f4ec9213fb501b162738b98548e01361188bca00f16c7ec93c4",
+          "url": "https://docs.unfccc.int/documents/10000319/files/en/SBI65_draft_report.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI)",
+      "document_code": "FCCC/SBI/2026/L.23",
+      "id": "10000319",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T18:21:44.313372Z",
+      "published_at": "2026-11-14T18:15:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000319/metadata",
+      "status": "unknown",
+      "title": "Draft report of the Subsidiary Body for Implementation on its sixty-fifth session",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 16",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0aa8c82462ab098f1feaef9ea1f9fd3a086535f5c9a89c9c1c6457ea6f41b7d7",
+          "url": "https://docs.unfccc.int/documents/10000320/files/en/SBSTA65_draft_report.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SBSTA/2026/L.7",
+      "id": "10000320",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T18:25:40.770022Z",
+      "published_at": "2026-11-14T16:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000320/metadata",
+      "status": "unknown",
+      "title": "Draft report of the Subsidiary Body for Scientific and Technological Advice on its sixty-fifth session",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(b)",
+      "attachments": [],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.X (ID 16230)",
+      "id": "10000321",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T18:49:08.845473Z",
+      "published_at": "2026-11-14T18:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000321/metadata",
+      "status": "withdrawn",
+      "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 16(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "c4d31ed7a3989545c59c89030273a308854a1123ecc2e7e5408a7eaec4bd609b",
+          "url": "https://docs.unfccc.int/documents/10000322/files/en/art_6.4_DT_cma81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16b.1",
+      "id": "10000322",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T18:54:30.949132Z",
+      "published_at": "2026-11-14T16:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000322/metadata",
+      "status": "draft",
+      "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "24be2c9906d102204be79f28a71233ffb24dc0e2b4fd5dab51a640bf1edc4cd9",
+          "url": "https://docs.unfccc.int/documents/10000323/files/en/art_6.2_DT_cma8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16a.1",
+      "id": "10000323",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-14T19:46:25.903329Z",
+      "published_at": "2026-11-14T19:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000323/metadata",
+      "status": "draft",
+      "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 8; SBI 65 8",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9513f165dc38177a9c40a614c804c241efa94dd367b62610f35f8f51d24229da",
+          "url": "https://docs.unfccc.int/documents/10000324/files/en/RM_DT_SB653.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "DT.SBSTA65.i8_SBI65.i8.3",
+      "id": "10000324",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-14T20:00:22.644958Z",
+      "published_at": "2026-11-14T19:25:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000324/metadata",
+      "status": "draft",
+      "title": "Matters relating to the forum on the impact of the implementation of response measures serving the Convention, the Kyoto Protocol and the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 10; SBI 65 13(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "40c4dc4a3416e59c88bee7367d1f1d8ce5e09bf781e31f487eb44ceb28883e68",
+          "url": "https://docs.unfccc.int/documents/10000325/files/en/TEC-CTCN%20JAR_DT_SB65JAR_CP31_DC.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SB/2026/L.9",
+      "id": "10000325",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-16T09:12:39.395919Z",
+      "published_at": "2026-11-14T18:40:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000325/metadata",
+      "status": "unknown",
+      "title": "Enhancing climate technology development and transfer through the Technology Mechanism. Draft decision -/CP.31. Recommendation of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 10; SBI 65 13(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "3f110dc8d332a953a33cdfe33d1cd2c6075c57635dd7a68bd5c695833cc2668d",
+          "url": "https://docs.unfccc.int/documents/10000326/files/en/TEC-CTCN%20JAR_DT_SB65_CMA8.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SB/2026/L.8",
+      "id": "10000326",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-16T09:13:21.659485Z",
+      "published_at": "2026-11-14T18:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000326/metadata",
+      "status": "unknown",
+      "title": "Enhancing climate technology development and transfer through the Technology Mechanism. Draft decision -/CMA.8. Recommendation of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 3",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "2deb2332601301fa954f23ca33f6ce65aea8b0eb3eb268ddd1579466270e75c4",
+          "url": "https://docs.unfccc.int/documents/10000327/files/en/RSO_DT_SBSTA653.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "document_code": "FCCC/SBSTA/2026/L.8",
+      "id": "10000327",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-14T20:51:41.359567Z",
+      "published_at": "2026-11-14T20:00:00Z",
+      "session": "SBSTA 65",
+      "source_url": "https://docs.unfccc.int/documents/10000327/metadata",
+      "status": "unknown",
+      "title": "Research and systematic observation. Draft conclusions proposed by the Chair",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 9(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "224fc4e65c3f40ee76fbaf663b9d84ab250e37bcec5580f0f0701e166bc0d0fe",
+          "url": "https://docs.unfccc.int/documents/10000329/files/en/CTCN_review_DT_cp31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.9c.1",
+      "id": "10000329",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-16T08:36:01.627086Z",
+      "published_at": "2026-11-16T08:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000329/metadata",
+      "status": "draft",
+      "title": "Third review of the effective implementation of the Climate Technology Centre and Network",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(d); CMA 8 11(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9131d20e47841f76691bbcec3591d37cfa540a955e14716cb0dd61d8ebae7721",
+          "url": "https://docs.unfccc.int/documents/10000330/files/en/GEF_DT_cp31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i8d_CMA8.11c.1",
+      "id": "10000330",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-16T10:49:14.900931Z",
+      "published_at": "2026-11-16T10:45:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000330/metadata",
+      "status": "draft",
+      "title": "Report of the Global Environment Facility to the Conference of the Parties and guidance to the Global Environment Facility",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 6; SBI 65 6",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "660b09d85fe32a6db1e0d9923d13994f5af547ffe65283d0984a96bc6a965f43",
+          "url": "https://docs.unfccc.int/documents/10000262/files/en/MWP_DT_SB65.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "IN.SBI65.i6_SBSTA65.i6.1",
+      "id": "10000262",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-11T20:50:31.815370Z",
+      "published_at": "2026-11-11T18:20:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000262/metadata",
+      "status": "informal",
+      "title": "Sharm el-Sheikh mitigation ambition and implementation work programme",
+      "topic": "TAFF / mitigation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "SBSTA 65 6; SBI 65 6",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "310cf40223c4f8d0fabb40a3a5ff0887c62cb7e2a63be8df5af7bd38fab9942f",
+          "url": "https://docs.unfccc.int/documents/10000301/files/en/MWP_DT_SB651.pdf"
+        }
+      ],
+      "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "IN.SBI65.i6_SBSTA65.i6.2",
+      "id": "10000301",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-14T05:04:42.211574Z",
+      "published_at": "2026-11-14T03:00:00Z",
+      "session": "SBI 65",
+      "source_url": "https://docs.unfccc.int/documents/10000301/metadata",
+      "status": "informal",
+      "title": "Sharm el-Sheikh mitigation ambition and implementation work programme",
+      "topic": "TAFF / mitigation",
+      "withdrawn": false
+    }
+  ],
+  "history_count": 0,
+  "last_attempt": "2026-11-16T11:26:36.287398Z",
+  "last_success": "2026-11-16T11:26:36.287398Z",
+  "schema": 1,
+  "sources": [
+    "https://docs.unfccc.int/documents/metadata/all",
+    "https://docs.unfccc.int/documents/metadata/changed/today"
+  ],
+  "verification_mode": "pdf-hashes"
+}
