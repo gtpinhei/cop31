@@ -26,3 +26,7 @@
 .reference{overflow-wrap:anywhere}
 .reference table{display:block;max-width:100%;overflow-x:auto}
 @media(max-width:720px){.reference table{min-width:0}.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.reference .grid{grid-template-columns:minmax(0,1fr)}}
+/* Native date/search inputs also have intrinsic minimum widths on phones. */
+.filters label:first-child,.filters input{min-width:0}
+.filters input{width:100%;max-width:100%}
+@media(max-width:380px){.filters{grid-template-columns:minmax(0,1fr)}}
