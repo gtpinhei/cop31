@@ -3,6 +3,7 @@
 **Not production-ready. Not deployed.** Standalone implementation of the approved design direction. Run `python3 -m http.server 8765 --directory prototypes/field-edition` and open `http://localhost:8765`.
 
 ## Scope
+- Plain typographic COP31 Monitor wordmark, no C31 box, logo mark or replacement image. Bidi isolation preserves brand order in RTL.
 - Field Edition editorial identity, compact mobile cards and a document-first Texts workspace.
 - Today, Texts, Pulse, Explore navigation; optional light/dark; seven interface languages; RTL direction and logical CSS.
 - Real public source snapshots, with saved-check timestamps and explicit non-live banner. No simulated continuously updated data, invented comparisons, adoption claims or private intelligence.
