@@ -59,9 +59,39 @@
       "change": "new",
       "document_id": "10000336",
       "event_id": "229d02d27c21af816cae908d"
+    },
+    {
+      "at": "2026-11-16T23:48:44.042823Z",
+      "change": "withdrawn",
+      "document_id": "10000323",
+      "event_id": "a2f3cd8d50dce5965af26bc2"
+    },
+    {
+      "at": "2026-11-16T23:48:44.042823Z",
+      "change": "new",
+      "document_id": "10000334",
+      "event_id": "077d2716bc2f1bb9d003f4f9"
+    },
+    {
+      "at": "2026-11-16T23:48:44.042823Z",
+      "change": "new",
+      "document_id": "10000337",
+      "event_id": "97af33e6492c5d748a38f157"
+    },
+    {
+      "at": "2026-11-16T23:48:44.042823Z",
+      "change": "withdrawn",
+      "document_id": "10000296",
+      "event_id": "f1758ca3d91abe31123f54dd"
+    },
+    {
+      "at": "2026-11-16T23:48:44.042823Z",
+      "change": "new",
+      "document_id": "10000338",
+      "event_id": "c0ddf1add7af8579b48b108e"
     }
   ],
-  "checked_at": "2026-11-16T20:25:25.624815Z",
+  "checked_at": "2026-11-16T23:48:44.042823Z",
   "degraded": false,
   "documents": [
     {
@@ -340,13 +370,7 @@
     },
     {
       "agenda": "CMA 8 4",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000282/files/en/GST_NDC_DT_cma8.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i4.1",
       "id": "10000282",
@@ -908,13 +932,7 @@
     },
     {
       "agenda": "COP 31 8(e); CMA 8 11(d)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000267/files/en/FRLD_DT_COP31.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.8e_CMA8.11d.1",
       "id": "10000267",
@@ -1155,13 +1173,7 @@
     },
     {
       "agenda": "SBSTA 65 5; SBI 65 12",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000285/files/en/WIM_JAR_DT_SB652.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "DT.SBSTA65.i5_SBI65.i12.3",
       "id": "10000285",
@@ -1247,13 +1259,7 @@
     },
     {
       "agenda": "SBSTA 65 10; SBI 65 13(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000290/files/en/TEC-CTCN%20JAR_DT_SB651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "DT.SBI65.i13a_SBSTA65.i10.2",
       "id": "10000290",
@@ -1407,25 +1413,19 @@
     },
     {
       "agenda": "COP 31 8(c)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "05b29f785d86bcb7439f1e79efb1202812982695eedaf35904ec30d11880f8db",
-          "url": "https://docs.unfccc.int/documents/10000296/files/en/GCF_DT_cp31.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.8c.1",
       "id": "10000296",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-13T20:32:09.978097Z",
+      "modified_at": "2026-11-16T20:37:49.122979Z",
       "published_at": "2026-11-12T21:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000296/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Report of the Green Climate Fund to the Conference of the Parties and guidance to the Green Climate Fund",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 15",
@@ -1567,13 +1567,7 @@
     },
     {
       "agenda": "SBSTA 65 11(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000305/files/en/Art%206.8%20Review_DT_SBSTA651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "DT.SBSTA65.i11b.2",
       "id": "10000305",
@@ -2063,35 +2057,23 @@
     },
     {
       "agenda": "CMA 8 16(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "24be2c9906d102204be79f28a71233ffb24dc0e2b4fd5dab51a640bf1edc4cd9",
-          "url": "https://docs.unfccc.int/documents/10000323/files/en/art_6.2_DT_cma8.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16a.1",
       "id": "10000323",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-14T19:46:25.903329Z",
+      "modified_at": "2026-11-16T21:11:02.062126Z",
       "published_at": "2026-11-14T19:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000323/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBSTA 65 8; SBI 65 8",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000324/files/en/RM_DT_SB653.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "DT.SBSTA65.i8_SBI65.i8.3",
       "id": "10000324",
@@ -2239,6 +2221,22 @@
     },
     {
       "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
+      "attachments": [],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i12_CMA21.i15_CMP8.i7.1",
+      "id": "10000334",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-16T17:22:49.199198Z",
+      "published_at": "2026-11-16T17:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000334/metadata",
+      "status": "withdrawn",
+      "title": "Report of the forum on the impact of the implementation of response measures",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
       "attachments": [
         {
           "language": "en",
@@ -2272,12 +2270,56 @@
       "document_code": "DT.CMA8.i16c.1",
       "id": "10000336",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-16T20:19:54.046227Z",
-      "published_at": "2026-11-16T20:00:00Z",
+      "modified_at": "2026-11-16T20:54:02.160420Z",
+      "published_at": "2026-11-16T18:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000336/metadata",
       "status": "draft",
       "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "68a1f4b22476e6788dd7c4dcb57c798b9b350378a83b87377a741b44e1f3d9fa",
+          "url": "https://docs.unfccc.int/documents/10000337/files/en/GCF_DT_cp311.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.8c.2",
+      "id": "10000337",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T20:35:45.560074Z",
+      "published_at": "2026-11-16T19:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000337/metadata",
+      "status": "draft",
+      "title": "Report of the Green Climate Fund to the Conference of the Parties and guidance to the Green Climate Fund",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "bc787885c01cfcb28b05176c1df9c6cb3e36200171ff70705c2d425787b12fdd",
+          "url": "https://docs.unfccc.int/documents/10000338/files/en/art_6.2_DT_cma81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16a.2",
+      "id": "10000338",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-16T21:03:44.273146Z",
+      "published_at": "2026-11-16T20:45:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000338/metadata",
+      "status": "draft",
+      "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
       "withdrawn": false
     },
@@ -2326,9 +2368,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 10,
-  "last_attempt": "2026-11-16T20:25:25.624815Z",
-  "last_success": "2026-11-16T20:25:25.624815Z",
+  "history_count": 15,
+  "last_attempt": "2026-11-16T23:48:44.042823Z",
+  "last_success": "2026-11-16T23:48:44.042823Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
