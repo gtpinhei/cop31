@@ -185,9 +185,15 @@
       "change": "revised",
       "document_id": "10000325",
       "event_id": "2c33ec0cb197dbb43b4bb0af"
+    },
+    {
+      "at": "2026-11-17T15:17:09.420066Z",
+      "change": "withdrawn",
+      "document_id": "10000283",
+      "event_id": "430bd50ed75b2f204cf4b30b"
     }
   ],
-  "checked_at": "2026-11-17T15:06:29.888410Z",
+  "checked_at": "2026-11-17T15:17:09.420066Z",
   "degraded": false,
   "documents": [
     {
@@ -1316,7 +1322,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "4d46602ae14fa99060aea60505ae789a6dc22bd89ae1bc662c1abb2af0ba6476",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000283/files/en/CGE_REPORT_DT_SBI651.pdf"
         }
       ],
@@ -1324,14 +1330,14 @@
       "document_code": "DT.SBI65.i4d.2",
       "id": "10000283",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-12T22:03:35.057850Z",
+      "modified_at": "2026-11-17T15:13:02.235478Z",
       "published_at": "2026-11-12T20:00:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000283/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Report of the Consultative Group of Experts",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBSTA 65 5; SBI 65 12",
@@ -2743,9 +2749,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 31,
-  "last_attempt": "2026-11-17T15:06:29.888410Z",
-  "last_success": "2026-11-17T15:06:29.888410Z",
+  "history_count": 32,
+  "last_attempt": "2026-11-17T15:17:09.420066Z",
+  "last_success": "2026-11-17T15:17:09.420066Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
