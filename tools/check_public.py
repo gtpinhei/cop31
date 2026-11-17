@@ -40,6 +40,11 @@ def main(argv):
     if r.returncode != 0:
         bad.append("public data does not validate:\n" + r.stdout)
     bad += newsletter_problems()
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("analysis_gate", ROOT / "tools" / "validate_analysis.py")
+    analysis_gate = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(analysis_gate)
+    bad += analysis_gate.problems(ROOT)
     for b in bad:
         print("BLOCKED:", b)
     print("OK" if not bad else f"{len(bad)} problem(s)")
