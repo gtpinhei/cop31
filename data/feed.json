@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T18:15:48-03:00",
+ "generated_at": "2026-11-17T00:14:50-03:00",
  "round": {
-  "timestamp": "2026-11-16T18:15:48-03:00",
-  "label": "16 nov 2026, 18:15 (Brasília)",
-  "sites_checked": 63,
-  "blocked": 21,
-  "new_items": 13,
-  "fetches": "63 de 60",
+  "timestamp": "2026-11-17T00:14:50-03:00",
+  "label": "17 nov 2026, 00:14 (Brasília)",
+  "sites_checked": 59,
+  "blocked": 18,
+  "new_items": 4,
+  "fetches": "59 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -26,11 +26,8 @@
    "web-icccad-net-news",
    "web-cseindia-org-page-cop31",
    "web-wemeanbusinesscoalition-org-news",
-   "web-eurodad-org-news",
-   "web-carbon-pulse-com-category-international",
-   "web-odi-org-en-insights",
-   "web-twn-my-title2-climate-climate-updates-htm",
-   "web-ember-energy-org-latest-insights"
+   "web-cvfv20-org-communiques",
+   "web-odi-org-en-insights"
   ]
  },
  "tracks": [
@@ -51,6 +48,110 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-16-ai-speech",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\"",
+   "date": "2026-11-16",
+   "authors": "Simon Stiell",
+   "url": "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen",
+   "summary": "Discurso do chefe de clima da ONU sobre inteligência artificial na COP31, que enquadra a IA como risco a conter e ferramenta a pôr a serviço da ação climática. Liga-se à Agenda de Ação e à implementação do GST. Resumo feito a partir do título e dos metadados da listagem.",
+   "summary_i18n": {
+    "en": "Speech by the UN Climate Chief on artificial intelligence at COP31, framing AI as a risk to be contained and a tool to put at the service of climate action. It bears on the Action Agenda and GST implementation. Summary based on the title and listing metadata.",
+    "es": "Discurso del Jefe de Clima de la ONU sobre la inteligencia artificial en la COP31, que presenta la IA como un riesgo que hay que contener y una herramienta que debe ponerse al servicio de la acción climática. Se vincula con la Agenda de Acción y la aplicación del balance mundial. Resumen basado en el título y los metadatos del listado.",
+    "fr": "Discours du chef du climat de l'ONU sur l'intelligence artificielle à la COP31, qui présente l'IA comme un risque à contenir et un outil à mettre au service de l'action climatique. Il touche à l'Agenda de l'action et à la mise en œuvre du bilan mondial. Résumé établi à partir du titre et des métadonnées de la liste.",
+    "ru": "Выступление главы ООН по климату об искусственном интеллекте на КС-31: ИИ представлен как риск, который необходимо сдерживать, и как инструмент, который следует поставить на службу климатическим действиям. Относится к Повестке действий и выполнению итогов глобальной инвентаризации. Резюме составлено по заголовку и метаданным списка.",
+    "zh": "联合国气候变化事务负责人在 COP31 上就人工智能发表讲话，将人工智能视为需要遏制的风险，同时也是可服务于气候行动的工具。涉及行动议程和全球盘点的落实。摘要依据标题和列表元数据撰写。",
+    "ar": "خطاب رئيس الأمم المتحدة لشؤون المناخ بشأن الذكاء الاصطناعي في مؤتمر الأطراف الحادي والثلاثين، يصوّر الذكاء الاصطناعي بوصفه خطراً ينبغي احتواؤه وأداة ينبغي تسخيرها لخدمة العمل المناخي. يتصل بخطة العمل وتنفيذ الحصيلة العالمية. الملخص مبني على العنوان والبيانات الوصفية للقائمة."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "Simon Stiell: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\""
+   ],
+   "first_seen": "2026-11-17T00:14:50-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-16-press-conference-transcript",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Transcript of COP31 press conference with COP31 President of Negotiations",
+   "date": "2026-11-16",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations",
+   "summary": "Transcrição da coletiva de imprensa do Presidente de Negociações da COP31, publicada em 16 de novembro, na segunda semana de negociações em torno da decisão de cobertura. Só o título e a listagem foram lidos; o conteúdo da transcrição não foi verificado.",
+   "summary_i18n": {
+    "en": "Transcript of the press conference by the COP31 President of Negotiations, published on 16 November, at the start of the second week of talks on the cover decision. Only the title and listing were read; the transcript content was not verified.",
+    "es": "Transcripción de la rueda de prensa del Presidente de Negociaciones de la COP31, publicada el 16 de noviembre, al inicio de la segunda semana de conversaciones sobre la decisión de cobertura. Solo se leyeron el título y el listado; no se verificó el contenido de la transcripción.",
+    "fr": "Transcription de la conférence de presse du Président des négociations de la COP31, publiée le 16 novembre, au début de la deuxième semaine de discussions sur la décision de couverture. Seuls le titre et la liste ont été lus ; le contenu de la transcription n'a pas été vérifié.",
+    "ru": "Стенограмма пресс-конференции Председателя переговоров КС-31, опубликованная 16 ноября, в начале второй недели переговоров по общему решению. Прочитаны только заголовок и список; содержание стенограммы не проверялось.",
+    "zh": "COP31 谈判主席新闻发布会的文字记录，发布于 11 月 16 日，正值围绕综合决定的谈判进入第二周之际。仅阅读了标题和列表，未核实记录内容。",
+    "ar": "نص المؤتمر الصحفي لرئيس المفاوضات في مؤتمر الأطراف الحادي والثلاثين، نُشر في 16 تشرين الثاني/نوفمبر في بداية الأسبوع الثاني من المحادثات بشأن القرار الجامع. قُرئ العنوان والقائمة فقط ولم يُتحقق من محتوى النص."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T00:14:50-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-16-gcaa-gst2-concept-note",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "briefing",
+   "title": "The Global Climate Action Agenda as an Engine of Implementation for a successful GST2 Concept Note",
+   "date": "2026-11-16",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/665066",
+   "summary": "Nota conceitual sobre a Agenda Global de Ação Climática como motor de implementação para o sucesso do GST2, publicada em 16 de novembro. Vincula a Agenda de Ação ao segundo balanço global. Só os metadados da listagem foram lidos.",
+   "summary_i18n": {
+    "en": "Concept note on the Global Climate Action Agenda as an engine of implementation for a successful GST2, published on 16 November. It links the Action Agenda to the second Global Stocktake. Only listing metadata was read.",
+    "es": "Nota conceptual sobre la Agenda Global de Acción Climática como motor de aplicación para el éxito del GST2, publicada el 16 de noviembre. Vincula la Agenda de Acción con el segundo balance mundial. Solo se leyeron los metadatos del listado.",
+    "fr": "Note conceptuelle sur l'Agenda mondial de l'action climatique comme moteur de mise en œuvre pour la réussite du GST2, publiée le 16 novembre. Elle relie l'Agenda de l'action au deuxième bilan mondial. Seules les métadonnées de la liste ont été lues.",
+    "ru": "Концептуальная записка о Глобальной повестке климатических действий как двигателе осуществления для успеха ГИ-2, опубликованная 16 ноября. Связывает Повестку действий со вторым глобальным подведением итогов. Прочитаны только метаданные списка.",
+    "zh": "关于全球气候行动议程作为推动第二次全球盘点（GST2）成功落实之引擎的概念文件，发布于 11 月 16 日。它将行动议程与第二次全球盘点联系起来。仅阅读了列表元数据。",
+    "ar": "مذكرة مفاهيمية عن خطة العمل المناخي العالمية كمحرّك للتنفيذ من أجل نجاح الحصيلة العالمية الثانية، نُشرت في 16 تشرين الثاني/نوفمبر. تربط خطة العمل بالحصيلة العالمية الثانية. قُرئت البيانات الوصفية للقائمة فقط."
+   },
+   "tracks": [
+    "Agenda de Ação",
+    "GST2 e IPCC"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T00:14:50-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-16-pre2030-roundtable-info-note",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "briefing",
+   "title": "Information Note on the 2026 Annual high-level ministerial round table on pre-2030 ambition",
+   "date": "2026-11-16",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/665079",
+   "summary": "Nota informativa sobre a mesa-redonda ministerial anual de alto nível de 2026 sobre ambição pré-2030, publicada em 16 de novembro. Trata de mitigação e implementação antes de 2030. Só os metadados da listagem foram lidos.",
+   "summary_i18n": {
+    "en": "Information note on the 2026 annual high-level ministerial round table on pre-2030 ambition, published on 16 November. It concerns mitigation and implementation before 2030. Only listing metadata was read.",
+    "es": "Nota informativa sobre la mesa redonda ministerial anual de alto nivel de 2026 sobre la ambición previa a 2030, publicada el 16 de noviembre. Trata de la mitigación y la aplicación antes de 2030. Solo se leyeron los metadatos del listado.",
+    "fr": "Note d'information sur la table ronde ministérielle annuelle de haut niveau de 2026 sur l'ambition avant 2030, publiée le 16 novembre. Elle porte sur l'atténuation et la mise en œuvre avant 2030. Seules les métadonnées de la liste ont été lues.",
+    "ru": "Информационная записка о ежегодном министерском круглом столе высокого уровня 2026 года по амбициозности до 2030 года, опубликованная 16 ноября. Касается смягчения последствий и осуществления до 2030 года. Прочитаны только метаданные списка.",
+    "zh": "关于 2026 年度 2030 年前力度高级别部长级圆桌会议的信息说明，发布于 11 月 16 日。涉及 2030 年前的减缓与落实。仅阅读了列表元数据。",
+    "ar": "مذكرة إعلامية عن المائدة المستديرة الوزارية السنوية رفيعة المستوى لعام 2026 بشأن الطموح قبل عام 2030، نُشرت في 16 تشرين الثاني/نوفمبر. تتناول التخفيف والتنفيذ قبل عام 2030. قُرئت البيانات الوصفية للقائمة فقط."
+   },
+   "tracks": [
+    "Mitigação e MWP"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T00:14:50-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "350org-cover-decision-draft-2026-11-16",
    "institution": "350.org",
