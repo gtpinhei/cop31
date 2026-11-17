@@ -47,6 +47,33 @@
  ],
  "items": [
   {
+   "id": "bluesky-carbonbrief.org-20261117-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-17",
+   "time": "06:36",
+   "text": "[resumo da fonte] Carbon Brief daily briefing video for 17 Nov, with links to today's briefing and the email sign-up.",
+   "summary": "O Carbon Brief publica o vídeo do Daily Briefing de 17 de novembro, com link para a edição do dia e para a inscrição na newsletter.",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes its Daily Briefing video for 17 November, with links to today's edition and the newsletter sign-up.",
+    "es": "Carbon Brief publica el vídeo del Daily Briefing del 17 de noviembre, con enlaces a la edición del día y a la suscripción al boletín.",
+    "fr": "Carbon Brief publie la vidéo du Daily Briefing du 17 novembre, avec des liens vers l'édition du jour et l'inscription à la newsletter.",
+    "ru": "Carbon Brief публикует видео ежедневного брифинга от 17 ноября со ссылками на сегодняшний выпуск и подписку на рассылку.",
+    "zh": "Carbon Brief发布11月17日每日简报视频，附今日简报链接和新闻通讯订阅链接。",
+    "ar": "تنشر Carbon Brief فيديو نشرتها اليومية بتاريخ 17 نوفمبر مع روابط إلى عدد اليوم والاشتراك في النشرة."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2iqjs6bm42v",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-17T10:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "actionaid-2026-11-17-electrification-draft",
    "institution": "ActionAid International",
    "type": "comunicado",
@@ -23655,11 +23682,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T09:43:47-03:00",
-  "label": "17 nov 2026, 09:43 (Brasília)",
+  "timestamp": "2026-11-17T10:46:00-03:00",
+  "label": "17 nov 2026, 10:46 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
