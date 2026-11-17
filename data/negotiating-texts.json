@@ -149,9 +149,15 @@
       "change": "new",
       "document_id": "10000346",
       "event_id": "415f8c2f312594514928e7d0"
+    },
+    {
+      "at": "2026-11-17T20:46:51.737106Z",
+      "change": "new",
+      "document_id": "10000347",
+      "event_id": "6d3284196056e2ec115e4da9"
     }
   ],
-  "checked_at": "2026-11-17T20:37:50.028285Z",
+  "checked_at": "2026-11-17T20:46:51.737106Z",
   "degraded": false,
   "documents": [
     {
@@ -2649,6 +2655,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 9(b); CMA 8 12(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "7febbc31762f69d3bca09a2cb736a8de08888cdb38af754ba169f35c502b14e6",
+          "url": "https://docs.unfccc.int/documents/10000347/files/en/CTC%20Host_DT_SBI652.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i9b_CMA8.i12b.1",
+      "id": "10000347",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-17T20:46:24.608489Z",
+      "published_at": "2026-11-17T19:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000347/metadata",
+      "status": "draft",
+      "title": "Host of the Climate Technology Centre",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2693,9 +2721,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 27,
-  "last_attempt": "2026-11-17T20:37:50.028285Z",
-  "last_success": "2026-11-17T20:37:50.028285Z",
+  "history_count": 26,
+  "last_attempt": "2026-11-17T20:46:51.737106Z",
+  "last_success": "2026-11-17T20:46:51.737106Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
