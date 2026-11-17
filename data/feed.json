@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-17T12:17:18-03:00",
+ "generated_at": "2026-11-17T18:30:00-03:00",
  "round": {
-  "timestamp": "2026-11-17T12:17:18-03:00",
-  "label": "17 nov 2026, 12:17 (Brasília)",
-  "sites_checked": 57,
-  "blocked": 16,
-  "new_items": 11,
-  "fetches": "58 de 60",
+  "timestamp": "2026-11-17T18:30:00-03:00",
+  "label": "17 nov 2026, 18:30 (Brasília)",
+  "sites_checked": 56,
+  "blocked": 13,
+  "new_items": 8,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -16,16 +16,13 @@
    "web-iea-org-events-world-energy-outlook-2026",
    "web-chathamhouse-org-topics-climate-policy",
    "web-caneurope-org-news",
+   "web-ituc-csi-org-climate-justice",
+   "web-wwf-panda-org-wwf-news",
    "web-christianaid-org-uk-news",
    "web-foei-org-news",
-   "web-institutotalanoa-org-publicacoes",
-   "web-politicaporinteiro-org-en",
-   "web-transforma-global",
    "web-icccad-net-news",
-   "web-wemeanbusinesscoalition-org-news",
-   "web-odi-org-en-insights",
-   "web-twn-my-title2-climate-climate-updates-htm",
-   "web-ember-energy-org-latest-insights"
+   "web-eurodad-org-news",
+   "web-carbon-pulse-com-category-international"
   ]
  },
  "tracks": [
@@ -46,6 +43,35 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "germanwatch-2026-11-17-cri-2027",
+   "institution": "Germanwatch",
+   "type": "release",
+   "title": "More than 900,000 deaths by heat waves, storms, or floods within past 30 years",
+   "date": "2026-11-17",
+   "authors": "Germanwatch",
+   "url": "https://www.germanwatch.org/en/93639",
+   "summary": "O Índice de Risco Climático (CRI) 2027 da Germanwatch, apresentado na COP31, aponta mais de 900 mil mortes por eventos climáticos extremos entre 1996 e 2025, com perdas diretas acima de US$ 4,7 trilhões. Dominica, Mianmar e Honduras lideram o ranking de longo prazo; em 2025 os mais afetados foram Jamaica, Sri Lanka e Espanha. O estudo alimenta os debates sobre perdas e danos e adaptação.",
+   "summary_i18n": {
+    "en": "Germanwatch's Climate Risk Index (CRI) 2027, presented at COP31, records more than 900,000 deaths from extreme weather between 1996 and 2025, with direct losses above US$ 4.7 trillion. Dominica, Myanmar and Honduras top the long-term ranking; in 2025 the most affected were Jamaica, Sri Lanka and Spain. The study feeds the debates on loss and damage and adaptation.",
+    "es": "El Índice de Riesgo Climático (IRC) 2027 de Germanwatch, presentado en la COP31, registra más de 900.000 muertes por fenómenos meteorológicos extremos entre 1996 y 2025, con pérdidas directas superiores a 4,7 billones de dólares. Dominica, Myanmar y Honduras encabezan la clasificación a largo plazo; en 2025 los más afectados fueron Jamaica, Sri Lanka y España. El estudio alimenta los debates sobre pérdidas y daños y adaptación.",
+    "fr": "L'Indice de risque climatique (IRC) 2027 de Germanwatch, présenté à la COP31, recense plus de 900 000 décès liés aux phénomènes météorologiques extrêmes entre 1996 et 2025, avec des pertes directes supérieures à 4 700 milliards de dollars. La Dominique, le Myanmar et le Honduras dominent le classement à long terme ; en 2025, les plus touchés ont été la Jamaïque, le Sri Lanka et l'Espagne. L'étude nourrit les débats sur les pertes et préjudices et l'adaptation.",
+    "ru": "Индекс климатических рисков (CRI) 2027 организации Germanwatch, представленный на КС-31, фиксирует более 900 тысяч смертей от экстремальных погодных явлений в 1996–2025 годах и прямые потери свыше 4,7 трлн долларов США. Долгосрочный рейтинг возглавляют Доминика, Мьянма и Гондурас; в 2025 году сильнее всего пострадали Ямайка, Шри-Ланка и Испания. Исследование подпитывает дискуссии об утратах и ущербе и об адаптации.",
+    "zh": "Germanwatch 在COP31上发布的《2027年气候风险指数》（CRI）显示，1996年至2025年间极端天气造成逾90万人死亡，直接损失超过4.7万亿美元。长期排名前三位为多米尼克、缅甸和洪都拉斯；2025年受影响最严重的是牙买加、斯里兰卡和西班牙。该研究为损失与损害及适应议题的讨论提供依据。",
+    "ar": "يسجّل مؤشر المخاطر المناخية (CRI) لعام 2027 الصادر عن Germanwatch، والذي عُرض في COP31، أكثر من 900 ألف وفاة بسبب الظواهر الجوية المتطرفة بين عامي 1996 و2025، مع خسائر مباشرة تتجاوز 4.7 تريليون دولار أمريكي. وتتصدر دومينيكا وميانمار وهندوراس الترتيب طويل الأجل؛ وفي عام 2025 كانت جامايكا وسري لانكا وإسبانيا الأكثر تضرراً. وتغذّي الدراسة النقاشات حول الخسائر والأضرار والتكيف."
+   },
+   "tracks": [
+    "Perdas e danos",
+    "Adaptação"
+   ],
+   "quotes": [
+    "David Eckstein, Germanwatch: \"The costs of inaction are considerably higher than those of transition\"",
+    "Lisa Schultheiß, Germanwatch: \"heat waves are the extreme weather event that claimed the most lives in the past 30 years.\""
+   ],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-germanwatch-org-en-press"
+  },
   {
    "id": "climatechangenews-2026-11-17-bulletin-day-8",
    "institution": "Climate Home News",
@@ -342,6 +368,118 @@
    "first_seen": "2026-11-17T06:20:00-03:00",
    "lang": "en",
    "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
+  },
+  {
+   "id": "oilchange-2026-11-16-cover-decision",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "Response to the draft COP31 Cover Decision",
+   "date": "2026-11-16",
+   "authors": "Romain Ioualalen",
+   "url": "https://oilchange.org/news/response-to-the-draft-cop31-cover-decision/",
+   "summary": "A Oil Change International avalia que o rascunho da decisão de cobertura da COP31 faz o diagnóstico correto da crise climática, mas que os remédios propostos podem ter efeitos colaterais graves. Defende que a eletrificação se apoie em renováveis, e não em gás ou captura de carbono não comprovada, e que os países ricos entreguem financiamento público com prestação de contas. Toca as trilhas de decisão de cobertura, eletrificação, TAFF e finanças.",
+   "summary_i18n": {
+    "en": "Oil Change International assesses that the draft COP31 cover decision makes the right diagnosis of the climate crisis, but that the proposed remedies could have serious side effects. It argues that electrification should rely on renewables rather than gas or unproven carbon capture, and that wealthy countries must deliver public climate finance with accountability. It bears on the cover decision, electrification, TAFF and finance tracks.",
+    "es": "Oil Change International considera que el proyecto de decisión de cobertura de la COP31 hace el diagnóstico correcto de la crisis climática, pero que los remedios propuestos podrían tener efectos secundarios graves. Sostiene que la electrificación debe basarse en energías renovables y no en el gas ni en una captura de carbono no probada, y que los países ricos deben aportar financiación pública con rendición de cuentas. Incide en las vías de decisión de cobertura, electrificación, TAFF y finanzas.",
+    "fr": "Oil Change International estime que le projet de décision de couverture de la COP31 pose le bon diagnostic sur la crise climatique, mais que les remèdes proposés pourraient avoir de graves effets secondaires. L'organisation plaide pour une électrification fondée sur les énergies renouvelables, et non sur le gaz ou un captage du carbone non éprouvé, et pour que les pays riches fournissent un financement public assorti de redevabilité. Le texte touche aux volets décision de couverture, électrification, TAFF et finance.",
+    "ru": "Oil Change International считает, что проект общего решения КС-31 верно диагностирует климатический кризис, но предлагаемые меры могут иметь серьёзные побочные эффекты. Организация настаивает, что электрификация должна опираться на возобновляемые источники, а не на газ или непроверенный улавливание углерода, и что богатые страны должны предоставлять публичное климатическое финансирование с подотчётностью. Документ затрагивает треки общего решения, электрификации, TAFF и финансов.",
+    "zh": "Oil Change International 认为，COP31综合决定草案对气候危机的诊断是正确的，但所提出的对策可能带来严重的副作用。该组织主张电气化应依靠可再生能源，而不是天然气或未经验证的碳捕集，并要求富裕国家提供可问责的公共气候资金。内容涉及综合决定、电气化、TAFF和资金等议题。",
+    "ar": "ترى منظمة Oil Change International أن مشروع القرار الشامل لمؤتمر COP31 يقدّم التشخيص الصحيح لأزمة المناخ، لكن العلاجات المقترحة قد تترتب عليها آثار جانبية خطيرة. وتدعو إلى أن يعتمد التحول إلى الكهرباء على مصادر الطاقة المتجددة لا على الغاز أو على احتجاز الكربون غير المثبت، وإلى أن تقدّم الدول الغنية تمويلاً عاماً للمناخ مع المساءلة. ويمسّ ذلك مسارات القرار الشامل والكهربة وTAFF والتمويل."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [
+    "Romain Ioualalen, Oil Change International: \"The draft text makes the right diagnosis, but the medicine it offers could have deadly side effects.\"",
+    "Romain Ioualalen, Oil Change International: \"A 35% electrification target is only a win if it doesn't lock in decades of more fossil fuel dependence.\""
+   ],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-16-media-advisory",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Oil Change International COP31 Media Advisory – November 16, 2026",
+   "date": "2026-11-16",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-16-2026/",
+   "summary": "Aviso à imprensa da Oil Change International de Antalya, no início da segunda semana, sobre os novos rascunhos do programa de trabalho de finanças climáticas e da decisão de cobertura. Laurie van der Burg afirma que países ricos cortam financiamento climático enquanto elevam gastos militares e pede o fim dos subsídios aos fósseis. Lista eventos do dia, como a mesa sobre roteiros de transição dos fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change International media advisory from Antalya at the start of the second week, on the new drafts of the climate finance work programme and the cover decision. Laurie van der Burg says rich countries are cutting climate finance while raising military spending and calls for ending fossil fuel subsidies. It lists the day's events, including the session on fossil fuel transition roadmaps.",
+    "es": "Aviso a los medios de Oil Change International desde Antalya, al comienzo de la segunda semana, sobre los nuevos proyectos del programa de trabajo sobre financiación climática y de la decisión de cobertura. Laurie van der Burg afirma que los países ricos recortan la financiación climática mientras aumentan el gasto militar y pide poner fin a los subsidios a los combustibles fósiles. Enumera los actos del día, entre ellos la sesión sobre hojas de ruta de transición de los combustibles fósiles.",
+    "fr": "Avis aux médias d'Oil Change International depuis Antalya, au début de la deuxième semaine, sur les nouveaux projets de programme de travail sur le financement climatique et de décision de couverture. Laurie van der Burg affirme que les pays riches réduisent le financement climatique tout en augmentant les dépenses militaires et appelle à mettre fin aux subventions aux combustibles fossiles. L'avis recense les événements du jour, dont la session sur les feuilles de route de transition des combustibles fossiles.",
+    "ru": "Пресс-релиз Oil Change International из Анталии в начале второй недели о новых проектах программы работы по климатическому финансированию и общего решения. Лори ван дер Бург заявляет, что богатые страны сокращают климатическое финансирование, одновременно наращивая военные расходы, и призывает прекратить субсидии на ископаемое топливо. В нём перечислены мероприятия дня, включая сессию о дорожных картах перехода от ископаемого топлива.",
+    "zh": "Oil Change International 从安塔利亚发布的媒体通告，时值第二周开始，涉及气候资金工作方案和综合决定的新草案。Laurie van der Burg 表示，富裕国家在增加军费的同时削减气候资金，并呼吁取消化石燃料补贴。通告还列出当天活动，包括关于化石燃料转型路线图的会议。",
+    "ar": "إشعار صحفي من منظمة Oil Change International من أنطاليا مع بداية الأسبوع الثاني بشأن المشاريع الجديدة لبرنامج العمل المعني بتمويل المناخ والقرار الشامل. وتقول لوري فان دير بورغ إن الدول الغنية تخفّض تمويل المناخ بينما ترفع الإنفاق العسكري، وتدعو إلى إنهاء إعانات الوقود الأحفوري. ويسرد الإشعار فعاليات اليوم، ومنها الجلسة المعنية بخرائط طريق التحول بعيداً عن الوقود الأحفوري."
+   },
+   "tracks": [
+    "Finanças",
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Laurie van der Burg, Oil Change International: \"The money is there. What we need is political will.\""
+   ],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "wbcsd-2026-11-16-physical-risk",
+   "institution": "WBCSD",
+   "type": "análise",
+   "title": "The road from physical risk assessment to action",
+   "date": "2026-11-16",
+   "authors": "WBCSD",
+   "url": "https://www.wbcsd.org/news/the-road-from-physical-risk-assessment-to-action/",
+   "summary": "O WBCSD publica texto sobre como empresas podem passar da avaliação de riscos físicos climáticos para ações concretas de adaptação e resiliência. Liga-se à trilha de adaptação e ao engajamento empresarial na COP31. Resumo baseado no título e na listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "WBCSD publishes a piece on how companies can move from assessing physical climate risks to concrete adaptation and resilience action. It bears on the adaptation track and business engagement at COP31. Summary based on the title and listing; the body was not read.",
+    "es": "El WBCSD publica un texto sobre cómo las empresas pueden pasar de evaluar los riesgos climáticos físicos a emprender acciones concretas de adaptación y resiliencia. Se vincula con la vía de adaptación y la participación empresarial en la COP31. Resumen basado en el título y el listado; no se leyó el cuerpo.",
+    "fr": "Le WBCSD publie un texte sur la façon dont les entreprises peuvent passer de l'évaluation des risques climatiques physiques à des actions concrètes d'adaptation et de résilience. Il touche au volet adaptation et à l'engagement des entreprises à la COP31. Résumé fondé sur le titre et la liste ; le corps du texte n'a pas été lu.",
+    "ru": "WBCSD публикует материал о том, как компаниям перейти от оценки физических климатических рисков к конкретным действиям по адаптации и устойчивости. Он относится к треку адаптации и участию бизнеса в КС-31. Краткое изложение основано на заголовке и списке; текст не читался.",
+    "zh": "WBCSD发布文章，探讨企业如何从评估气候物理风险转向具体的适应和韧性行动。内容涉及适应议题以及企业在COP31中的参与。摘要基于标题和列表页，未阅读正文。",
+    "ar": "ينشر WBCSD مقالاً حول كيفية انتقال الشركات من تقييم المخاطر المناخية المادية إلى إجراءات ملموسة للتكيف والقدرة على الصمود. ويتصل ذلك بمسار التكيف ومشاركة قطاع الأعمال في COP31. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-wbcsd-org-news"
+  },
+  {
+   "id": "unfccc-2026-11-16-emissions-gap-insights",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "ferramenta",
+   "title": "Insights from the latest UNEP Emissions Gap Report and UNFCCC NDC Synthesis and BTR Synthesis Reports - Presentation",
+   "date": "2026-11-16",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/documents/665065",
+   "summary": "Apresentação do secretariado da UNFCCC com os principais resultados do mais recente Emissions Gap Report do PNUMA e dos relatórios de síntese das NDCs e dos BTRs. Alimenta a avaliação de lacuna de ambição e o GST2. Resumo baseado no título do documento; o conteúdo não foi lido.",
+   "summary_i18n": {
+    "en": "Presentation by the UNFCCC secretariat with the main findings of the latest UNEP Emissions Gap Report and the NDC and BTR synthesis reports. It feeds the assessment of the ambition gap and GST2. Summary based on the document title; the content was not read.",
+    "es": "Presentación de la secretaría de la CMNUCC con las principales conclusiones del último Informe sobre la Brecha de Emisiones del PNUMA y de los informes de síntesis de las NDC y los BTR. Alimenta la evaluación de la brecha de ambición y el GST2. Resumen basado en el título del documento; no se leyó el contenido.",
+    "fr": "Présentation du secrétariat de la CCNUCC avec les principaux résultats du dernier Rapport sur l'écart entre les besoins et les perspectives en matière de réduction des émissions du PNUE et des rapports de synthèse sur les CDN et les BTR. Elle alimente l'évaluation de l'écart d'ambition et le GST2. Résumé fondé sur le titre du document ; le contenu n'a pas été lu.",
+    "ru": "Презентация секретариата РКИК ООН с основными выводами последнего доклада ЮНЕП о разрыве в уровнях выбросов и сводных докладов по НОВ и ДДП. Она служит основой для оценки разрыва в амбициях и GST2. Краткое изложение основано на названии документа; содержание не читалось.",
+    "zh": "联合国气候变化框架公约秘书处的演示文稿，介绍联合国环境署最新《排放差距报告》以及国家自主贡献综合报告和两年期透明度报告综合报告的主要发现。为雄心差距评估和GST2提供依据。摘要基于文件标题，未阅读内容。",
+    "ar": "عرض تقدّمه أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ يتضمن أبرز نتائج أحدث تقرير لبرنامج الأمم المتحدة للبيئة عن فجوة الانبعاثات وتقارير التجميع الخاصة بالمساهمات المحددة وطنياً وتقارير الشفافية الثنائية السنوات. ويغذّي تقييم فجوة الطموح وGST2. الملخص مبني على عنوان الوثيقة؛ ولم يُقرأ المحتوى."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
   },
   {
    "id": "bluesky-drsimevans.carbonbrief.org-20261116-metano-alimentos",
@@ -3724,6 +3862,57 @@
    "first_seen": "2026-11-14T02:47:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "greenpeace-2026-11-13-norway-court",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "Norway Supreme Court rules North Sea oil and gas approvals invalid in historic climate case",
+   "date": "2026-11-13",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87146/norway-supreme-court-north-sea-oil-gas-approvals-invalid-historic-climate-legal-case/",
+   "summary": "O Greenpeace comemora a decisão da Suprema Corte da Noruega que considerou inválidas as aprovações de petróleo e gás no Mar do Norte, num caso climático histórico. A decisão reforça o debate sobre a transição dos combustíveis fósseis durante a COP31. Resumo baseado no título e na listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "Greenpeace welcomes the ruling of Norway's Supreme Court that found North Sea oil and gas approvals invalid in a historic climate case. The decision strengthens the debate on the fossil fuel transition during COP31. Summary based on the title and listing; the body was not read.",
+    "es": "Greenpeace celebra el fallo del Tribunal Supremo de Noruega que declaró inválidas las aprobaciones de petróleo y gas en el Mar del Norte en un caso climático histórico. La decisión refuerza el debate sobre la transición de los combustibles fósiles durante la COP31. Resumen basado en el título y el listado; no se leyó el cuerpo.",
+    "fr": "Greenpeace salue la décision de la Cour suprême de Norvège qui a jugé invalides les autorisations pétrolières et gazières en mer du Nord dans une affaire climatique historique. Cette décision renforce le débat sur la transition hors des combustibles fossiles pendant la COP31. Résumé fondé sur le titre et la liste ; le corps du texte n'a pas été lu.",
+    "ru": "Greenpeace приветствует решение Верховного суда Норвегии, признавшего недействительными разрешения на добычу нефти и газа в Северном море по историческому климатическому делу. Решение усиливает дискуссию о переходе от ископаемого топлива в ходе КС-31. Краткое изложение основано на заголовке и списке; текст не читался.",
+    "zh": "绿色和平欢迎挪威最高法院的裁决，该裁决在一起具有历史意义的气候案件中认定北海油气审批无效。这一裁决在COP31期间加强了关于化石燃料转型的讨论。摘要基于标题和列表页，未阅读正文。",
+    "ar": "ترحّب غرينبيس بحكم المحكمة العليا النرويجية الذي اعتبر تراخيص النفط والغاز في بحر الشمال باطلة في قضية مناخية تاريخية. ويعزّز الحكم النقاش حول التحول بعيداً عن الوقود الأحفوري خلال COP31. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-greenpeace-org-international-press"
+  },
+  {
+   "id": "actionaid-2026-11-13-debt-cancellation",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "ActionAid 'chefs' reveal debt cancellation as the secret ingredient for climate action at COP31",
+   "date": "2026-11-13",
+   "authors": "ActionAid",
+   "url": "https://actionaid.org/news/2026/actionaid-chefs-reveal-debt-cancellation-secret-ingredient-climate-action-cop31",
+   "summary": "A ActionAid usa uma ação criativa de \"chefs\" na COP31 para defender o cancelamento de dívidas como ingrediente-chave da ação climática. Liga-se à trilha de finanças e às demandas de alívio da dívida de países em desenvolvimento. Resumo baseado no título e na listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "ActionAid stages a creative 'chefs' action at COP31 to argue that debt cancellation is a key ingredient of climate action. It bears on the finance track and on developing countries' calls for debt relief. Summary based on the title and listing; the body was not read.",
+    "es": "ActionAid realiza una acción creativa de «chefs» en la COP31 para defender que la cancelación de la deuda es un ingrediente clave de la acción climática. Incide en la vía de finanzas y en las demandas de alivio de la deuda de los países en desarrollo. Resumen basado en el título y el listado; no se leyó el cuerpo.",
+    "fr": "ActionAid organise à la COP31 une action créative de « chefs » pour défendre l'annulation de la dette comme ingrédient essentiel de l'action climatique. Elle touche au volet finance et aux demandes d'allègement de la dette des pays en développement. Résumé fondé sur le titre et la liste ; le corps du texte n'a pas été lu.",
+    "ru": "ActionAid проводит на КС-31 творческую акцию с «поварами», доказывая, что списание долгов — ключевой ингредиент климатических действий. Она относится к треку финансов и требованиям развивающихся стран об облегчении долгового бремени. Краткое изложение основано на заголовке и списке; текст не читался.",
+    "zh": "ActionAid在COP31上开展“厨师”创意行动，主张债务减免是气候行动的关键要素。内容涉及资金议题以及发展中国家的债务减免诉求。摘要基于标题和列表页，未阅读正文。",
+    "ar": "تنظّم ActionAid في COP31 فعالية إبداعية بعنوان «الطهاة» للدفاع عن أن إلغاء الديون عنصر أساسي في العمل المناخي. ويتصل ذلك بمسار التمويل ومطالب البلدان النامية بتخفيف الديون. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
   },
   {
    "id": "pm-gov-au-2026-11-13-pacific-resilience-facility",
@@ -13046,6 +13235,31 @@
    "first_seen": "2026-11-11T01:45:00-03:00",
    "lang": "en",
    "source_id": "x-turkiyecop31"
+  },
+  {
+   "id": "demandclimatejustice-2026-11-10-no-finance-no-future",
+   "institution": "Demand Climate Justice",
+   "type": "comunicado",
+   "title": "No Finance, No Future: The Battle at the Heart of COP31",
+   "date": "2026-11-10",
+   "authors": "Global Campaign to Demand Climate Justice",
+   "url": "https://demandclimatejustice.org/2026/11/10/media-advisory-press-conference/",
+   "summary": "Aviso de coletiva de imprensa da Campanha Global por Justiça Climática que enquadra as finanças como a disputa central da COP31. Liga-se à trilha de finanças e às demandas de países em desenvolvimento por financiamento público. Resumo baseado no título e na listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "Media advisory for a press conference by the Global Campaign to Demand Climate Justice framing finance as the central battle of COP31. It bears on the finance track and on developing-country demands for public finance. Summary based on the title and listing; the body was not read.",
+    "es": "Aviso a los medios de una rueda de prensa de la Campaña Mundial para Exigir Justicia Climática que presenta las finanzas como la batalla central de la COP31. Incide en la vía de finanzas y en las demandas de los países en desarrollo de financiación pública. Resumen basado en el título y el listado; no se leyó el cuerpo.",
+    "fr": "Avis aux médias d'une conférence de presse de la Campagne mondiale pour exiger la justice climatique, qui présente la finance comme le combat central de la COP31. Il touche au volet finance et aux demandes des pays en développement en matière de financement public. Résumé fondé sur le titre et la liste ; le corps du texte n'a pas été lu.",
+    "ru": "Анонс пресс-конференции Глобальной кампании за климатическую справедливость, в котором финансы названы центральной битвой КС-31. Он относится к треку финансов и требованиям развивающихся стран о публичном финансировании. Краткое изложение основано на заголовке и списке; текст не читался.",
+    "zh": "全球气候正义倡议运动发布的新闻发布会通告，将资金问题定位为COP31的核心较量。内容涉及资金议题以及发展中国家对公共资金的要求。摘要基于标题和列表页，未阅读正文。",
+    "ar": "إشعار صحفي لمؤتمر صحفي تنظمه الحملة العالمية للمطالبة بالعدالة المناخية، يصوّر التمويل بوصفه المعركة المحورية في COP31. ويتصل بمسار التمويل ومطالب البلدان النامية بالتمويل العام. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-demandclimatejustice-org"
   },
   {
    "id": "wbcsd-2026-11-10-freight-corridors-2026-11-10",
@@ -24005,8 +24219,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T17:43:00-03:00",
-  "label": "17 nov 2026, 17:43 (Brasília)",
+  "timestamp": "2026-11-17T18:44:00-03:00",
+  "label": "17 nov 2026, 18:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
