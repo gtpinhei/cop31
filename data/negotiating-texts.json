@@ -103,7 +103,7 @@
       "event_id": "82ca7f0235e7358c3c1af82f"
     }
   ],
-  "checked_at": "2026-11-17T04:17:13.960096Z",
+  "checked_at": "2026-11-17T04:26:43.308467Z",
   "degraded": false,
   "documents": [
     {
@@ -2403,8 +2403,8 @@
     }
   ],
   "history_count": 17,
-  "last_attempt": "2026-11-17T04:17:13.960096Z",
-  "last_success": "2026-11-17T04:17:13.960096Z",
+  "last_attempt": "2026-11-17T04:26:43.308467Z",
+  "last_success": "2026-11-17T04:26:43.308467Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
