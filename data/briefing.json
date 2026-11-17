@@ -1,25 +1,27 @@
 {
  "schema": 1,
  "edition": "2026-11-17",
- "generated_at": "2026-11-17T11:58+03:00",
+ "generated_at": "2026-11-17T12:58+03:00",
  "window": {
   "from": "2026-11-14",
   "to": "2026-11-17",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-17T00:14:50-03:00",
-  "social_round": "2026-11-17T05:50:00-03:00",
+  "web_round": "2026-11-17T06:20:00-03:00",
+  "social_round": "2026-11-17T06:44:03-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 53,
-  "stories": 47,
+  "candidates": 59,
+  "stories": 52,
   "top": 8,
   "publishers": [
    "350.org",
+   "ActionAid International",
    "CAN International",
    "COP31 Presidency (Türkiye/Australia)",
+   "Carbon Brief",
    "Climate Home News",
    "Greenpeace International",
    "IISD / ENB",
@@ -44,22 +46,22 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "listagem sem datas"
+    "note": "listagem sem datas nem URLs"
    },
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem datas explícitas"
+    "note": "budget"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "parada em 2022"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error"
    }
   ]
  },
@@ -178,11 +180,75 @@
        "ar": "نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ (UNFCCC) في 16 تشرين الثاني/نوفمبر الساعة 13:30 مسودة المقرر الجامع لمؤتمر COP31 (وثيقة جلسة غير رسمية)، مصحوبة بمذكرة من الرئاسة بشأن المسودة. وتعذّرت قراءة المحتوى من صفحة الفهرس؛ وحجم ملف PDF نحو 0.29 ميغابايت. المسار: المقرر الجامع."
       },
       "description_i18n_method": "machine"
+     },
+     {
+      "id": "unfccc-2026-11-14-press-conference-youth",
+      "title": "Transcript of COP31 press conference with COP31 President of Negotiations and COP31 Presidency Youth Climate Champion",
+      "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations-and-cop31-presidency-youth",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "UNFCCC",
+      "published": "2026-11-14",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Decisão de cobertura",
+       "Espaço cívico"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Transcrição da coletiva de imprensa de 14 de novembro com o Presidente de Negociações da COP31 e a Campeã Jovem do Clima da Presidência, no ponto intermediário da conferência. Só o título e a listagem foram lidos; o conteúdo da transcrição não foi verificado.",
+      "collected_at": "2026-11-17T06:20:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Transcript of the 14 November press conference with the COP31 President of Negotiations and the COP31 Presidency Youth Climate Champion, at the halfway point of the conference. Only the title and listing were read; the transcript content was not verified.",
+       "es": "Transcripción de la rueda de prensa del 14 de noviembre con el Presidente de Negociaciones de la COP31 y la Campeona Juvenil del Clima de la Presidencia, a mitad de la conferencia. Solo se leyeron el título y el listado; no se verificó el contenido de la transcripción.",
+       "fr": "Transcription de la conférence de presse du 14 novembre avec le Président des négociations de la COP31 et la Championne jeunesse pour le climat de la présidence, à mi-parcours de la conférence. Seuls le titre et la liste ont été lus ; le contenu de la transcription n'a pas été vérifié.",
+       "ru": "Стенограмма пресс-конференции 14 ноября с Президентом переговоров COP31 и молодёжным климатическим чемпионом председательства COP31, прошедшей в середине конференции. Прочитаны только заголовок и список; содержание стенограммы не проверялось.",
+       "zh": "11月14日与COP31谈判主席及COP31主席国青年气候倡导者举行的新闻发布会的文字记录，时间处于会议中段。仅阅读了标题和列表，未核实记录内容。",
+       "ar": "نص المؤتمر الصحفي الذي عُقد في 14 نوفمبر مع رئيس المفاوضات في COP31 ومناصر الشباب للمناخ التابع لرئاسة COP31، في منتصف المؤتمر. لم يُقرأ سوى العنوان والقائمة؛ ولم يُتحقق من مضمون النص."
+      },
+      "description_i18n_method": "machine"
      }
     ],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)",
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-carbonbrief-2026-11-17-co2-exporters",
+    "section": "negotiations",
+    "score": 0.9,
+    "lead": {
+     "id": "carbonbrief-2026-11-17-co2-exporters",
+     "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+     "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+     "publisher": "Carbon Brief",
+     "author": "Simon Evans",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Análise da Carbon Brief ordena os países pelas emissões de CO2 dos combustíveis fósseis que exportaram desde 1850, com Rússia, Arábia Saudita e Austrália no topo. Interessa à trilha de TAFF e fósseis e à responsabilidade de produtores, incluindo a Austrália, coanfitriã da COP31. Resumo baseado na descrição do feed RSS.",
+     "collected_at": "2026-11-17T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A Carbon Brief analysis ranks countries by the CO2 emissions from the fossil fuels they have exported since 1850, with Russia, Saudi Arabia and Australia at the top. It matters for the TAFF and fossil fuels track and for producer responsibility, including Australia, co-host of COP31.",
+      "es": "Un análisis de Carbon Brief clasifica a los países según las emisiones de CO2 de los combustibles fósiles que han exportado desde 1850, con Rusia, Arabia Saudita y Australia a la cabeza.",
+      "fr": "Une analyse de Carbon Brief classe les pays selon les émissions de CO2 des combustibles fossiles qu'ils ont exportés depuis 1850, la Russie, l'Arabie saoudite et l'Australie arrivant en tête.",
+      "ru": "Анализ Carbon Brief ранжирует страны по выбросам CO2 от ископаемого топлива, экспортированного с 1850 года; первые места занимают Россия, Саудовская Аравия и Австралия. Это важно для направления TAFF и ископаемого топлива и для ответственности производителей, включая Австралию, сопредседателя COP31.",
+      "zh": "碳简报（Carbon Brief）的分析按1850年以来各国出口化石燃料所对应的二氧化碳排放量对国家排序，俄罗斯、沙特阿拉伯和澳大利亚位居前列。这与TAFF与化石燃料议题以及生产国责任相关，其中包括COP31共同东道国澳大利亚。摘要依据RSS订阅源中的描述。",
+      "ar": "يصنّف تحليل لموقع Carbon Brief الدول بحسب انبعاثات ثاني أكسيد الكربون الناتجة عن الوقود الأحفوري الذي صدّرته منذ عام 1850، وتتصدر القائمة روسيا والمملكة العربية السعودية وأستراليا. ويهمّ ذلك مسار TAFF والوقود الأحفوري ومسؤولية المنتجين، ومنهم أستراليا المضيف المشارك لـ COP31. الملخص مبني على وصف موجز RSS."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Carbon Brief"
     ]
    },
    {
@@ -219,6 +285,43 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-actionaid-2026-11-17-electrification-draft",
+    "section": "civil",
+    "score": 0.562,
+    "lead": {
+     "id": "actionaid-2026-11-17-electrification-draft",
+     "title": "‘Dangerously Co-opted’: ActionAid blasts COP31’s electrification draft for keeping fossil fuels in the mix.",
+     "url": "https://actionaid.org/news/2026/dangerously-co-opted-actionaid-blasts-cop31s-electrification-draft-keeping-fossil-fuels",
+     "publisher": "ActionAid International",
+     "author": "ActionAid",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis",
+      "Decisão de cobertura"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A ActionAid critica o rascunho de eletrificação da COP31, que considera \"dangerously co-opted\" por manter os combustíveis fósseis na mistura energética. A reação se liga às trilhas de eletrificação e de TAFF e fósseis, em meio à disputa sobre a decisão de cobertura.",
+     "collected_at": "2026-11-17T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ActionAid criticises the COP31 electrification draft, which it considers \"dangerously co-opted\" for keeping fossil fuels in the energy mix. The reaction bears on the electrification and TAFF and fossil fuels tracks, amid the dispute over the cover decision. Summary based on the title and listing metadata;",
+      "es": "ActionAid critica el borrador de electrificación de la COP31, que considera \"dangerously co-opted\" por mantener los combustibles fósiles en la matriz energética. La reacción se vincula con las vías de electrificación y de TAFF y combustibles fósiles, en medio de la disputa sobre la decisión de cobertura.",
+      "fr": "ActionAid critique le projet sur l'électrification de la COP31, qu'elle juge \"dangerously co-opted\" parce qu'il maintient les combustibles fossiles dans le bouquet énergétique. Cette réaction concerne les volets électrification et TAFF et combustibles fossiles, dans le débat sur la décision de couverture.",
+      "ru": "ActionAid критикует проект по электрификации на COP31, который организация считает \"dangerously co-opted\", поскольку в нём сохраняется ископаемое топливо в энергобалансе. Реакция относится к направлениям электрификации и TAFF и ископаемого топлива на фоне спора вокруг решения о закрытии (cover decision).",
+      "zh": "ActionAid批评COP31的电气化草案，认为其在能源结构中保留化石燃料，属于\"dangerously co-opted\"。该回应涉及电气化以及TAFF与化石燃料议题，背景是围绕总括性决定（cover decision）的争论。摘要依据标题和列表元数据，未阅读正文。",
+      "ar": "تنتقد منظمة ActionAid مسودة الكهربة في COP31، التي تعتبرها \"dangerously co-opted\" لإبقائها الوقود الأحفوري ضمن مزيج الطاقة. ويتصل هذا الرد بمساري الكهربة وTAFF والوقود الأحفوري، في خضم الخلاف حول القرار الجامع (cover decision). الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ نص المقال."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ActionAid International"
     ]
    },
    {
@@ -360,6 +463,47 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261116-negociadores-divididos",
+    "section": "action",
+    "score": 0.44,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261116-negociadores-divididos",
+     "title": "enb.iisd.org: [resumo da fonte] COP31 negotiators remain split over wording on electrification targets and a fossil fuel…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2hpdhvi322h",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-16",
+     "time": "20:41",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB relata que, no fim do dia 16 de novembro, os negociadores da COP31 seguem divididos sobre a redação de metas de eletrificação e de um roteiro de transição dos combustíveis fósseis, com alguns pedindo ação mais firme sobre o excesso de 1,5°C e sobre finanças.",
+     "collected_at": "2026-11-17T06:44:03-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that at the close of 16 November COP31 negotiators remain split over the wording on electrification targets and a fossil fuel transition roadmap, with some calling for firmer action on 1.5°C overshoot and finance.",
+      "es": "ENB informa de que, al cierre del 16 de noviembre, los negociadores de la COP31 siguen divididos sobre la redacción de las metas de electrificación y de una hoja de ruta de transición de los combustibles fósiles, y algunos piden una acción más firme sobre el exceso de 1,5°C y la financiación.",
+      "fr": "L'ENB rapporte qu'à la fin du 16 novembre, les négociateurs de la COP31 restent divisés sur la formulation des objectifs d'électrification et d'une feuille de route de transition des combustibles fossiles, certains réclamant une action plus ferme sur le dépassement de 1,5°C et sur le financement.",
+      "ru": "ENB сообщает, что по итогам 16 ноября участники переговоров на COP31 по-прежнему расходятся в формулировках о целях электрификации и дорожной карте перехода от ископаемого топлива; некоторые требуют более решительных действий по превышению 1,5°C и по финансированию.",
+      "zh": "ENB 报道，截至 11 月 16 日，COP31 谈判代表在电气化目标和化石燃料转型路线图的措辞上仍存在分歧，一些代表要求对 1.5°C 温升超调和资金问题采取更坚定的行动。",
+      "ar": "تفيد نشرة ENB بأنه مع نهاية 16 نوفمبر لا يزال المفاوضون في COP31 منقسمين حول صياغة أهداف الكهربة وخارطة طريق التحول عن الوقود الأحفوري، ويطالب بعضهم بإجراءات أكثر حزماً بشأن تجاوز 1,5°م والتمويل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   }
+  ],
+  "negotiations": [
+   {
     "id": "st-cop31-tr-2026-11-16-first-week",
     "section": "negotiations",
     "score": 0.48,
@@ -397,80 +541,44 @@
     ]
    },
    {
-    "id": "st-oilchange-2026-11-16-ai-gas-electrification",
-    "section": "civil",
-    "score": 0.27,
+    "id": "st-bluesky-enb.iisd.org-20261116-segunda-semana",
+    "section": "negotiations",
+    "score": 0.374,
     "lead": {
-     "id": "oilchange-2026-11-16-ai-gas-electrification",
-     "title": "COP31: Big Tech's AI Boom Risks Fueling New Fossil Gas Expansion",
-     "url": "https://oilchange.org/news/cop31-big-techs-ai-boom-risks-fueling-new-fossil-gas-expansion/",
-     "publisher": "Oil Change International",
-     "author": "Oil Change International (Romain Ioualalen)",
+     "id": "bluesky-enb.iisd.org-20261116-segunda-semana",
+     "title": "enb.iisd.org: [resumo da fonte] Week two of COP31 opened with long-running disputes over mitigation, finance, carbon markets, NDCs…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2gk63ck6c25",
+     "publisher": "IISD / ENB",
      "published": "2026-11-16",
+     "time": "09:36",
      "language": "en",
      "tracks": [
-      "Eletrificação",
-      "TAFF e fósseis"
+      "Mitigação e MWP",
+      "Finanças",
+      "Transição justa"
      ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Oil Change International atualizou sua análise da meta de eletrificação proposta para a COP31 e alerta que a demanda de eletricidade de IA e data centers pode absorver a nova energia renovável sem deslocar os fósseis, servindo de pretexto para expandir a infraestrutura de gás.",
-     "collected_at": "2026-11-16T07:29:22-03:00",
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB descreve a abertura da segunda semana da COP31, marcada por disputas antigas sobre mitigação, finanças, mercados de carbono, NDCs e transição justa, com as Partes instadas a transformar os rascunhos em decisões.",
+     "collected_at": "2026-11-17T06:44:03-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Oil Change International has updated its analysis of the electrification target proposed for COP31 and warns that electricity demand from AI and data centres could absorb new renewable energy without displacing fossil fuels, serving as a pretext to expand gas infrastructure.",
-      "es": "Oil Change International actualizó su análisis de la meta de electrificación propuesta para la COP31 y advierte que la demanda eléctrica de la IA y los centros de datos podría absorber la nueva energía renovable sin desplazar a los combustibles fósiles, sirviendo de pretexto para ampliar la infraestructura de gas.",
-      "fr": "Oil Change International a mis à jour son analyse de l'objectif d'électrification proposé pour la COP31 et avertit que la demande d'électricité de l'IA et des centres de données pourrait absorber les nouvelles énergies renouvelables sans évincer les combustibles fossiles, servant de prétexte à l'expansion des…",
-      "ru": "Oil Change International обновила анализ предлагаемой для COP31 цели по электрификации и предупреждает, что спрос на электроэнергию со стороны ИИ и центров обработки данных может поглотить новую возобновляемую энергию, не вытесняя ископаемое топливо, и стать предлогом для расширения газовой инфраструктуры.",
-      "zh": "石油变革国际更新了对COP31拟议电气化目标的分析，警告称人工智能和数据中心的电力需求可能吸收新增可再生能源而不能替代化石燃料，从而成为扩建天然气基础设施的借口。该组织要求该目标附带明确承诺，即由可再生能源满足并服务于逐步淘汰化石燃料。涉及电气化和TAFF与化石燃料等议题。",
-      "ar": "حدّثت منظمة Oil Change International تحليلها لهدف الكهربة المقترح لـCOP31، وتحذّر من أن الطلب على الكهرباء من الذكاء الاصطناعي ومراكز البيانات قد يستوعب الطاقة المتجددة الجديدة من دون أن يحل محل الوقود الأحفوري، فيصبح ذريعة لتوسيع البنية التحتية للغاز."
+      "en": "ENB describes the opening of the second week of COP31, marked by long-running disputes over mitigation, finance, carbon markets, NDCs and just transition, with Parties urged to turn draft texts into decisions.",
+      "es": "ENB describe la apertura de la segunda semana de la COP31, marcada por antiguas disputas sobre mitigación, financiación, mercados de carbono, NDC y transición justa, con las Partes instadas a convertir los borradores en decisiones.",
+      "fr": "L'ENB décrit l'ouverture de la deuxième semaine de la COP31, marquée par d'anciens différends sur l'atténuation, le financement, les marchés du carbone, les CDN et la transition juste, les Parties étant invitées à transformer les projets de texte en décisions.",
+      "ru": "ENB описывает начало второй недели COP31, отмеченное давними разногласиями по смягчению последствий, финансированию, углеродным рынкам, NDC и справедливому переходу; Сторонам предлагается превратить проекты текстов в решения.",
+      "zh": "ENB 描述了 COP31 第二周的开局，减缓、资金、碳市场、国家自主贡献（NDC）和公正转型等问题上的长期分歧依旧，缔约方被敦促将案文草案转化为决定。",
+      "ar": "تصف نشرة ENB افتتاح الأسبوع الثاني من COP31، الذي اتسم بخلافات قديمة حول التخفيف والتمويل وأسواق الكربون والمساهمات المحددة وطنياً والانتقال العادل، مع حث الأطراف على تحويل مشاريع النصوص إلى مقررات."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "Oil Change International"
+     "IISD / ENB"
     ]
    },
-   {
-    "id": "st-350org-cover-decision-draft-2026-11-16",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "350org-cover-decision-draft-2026-11-16",
-     "title": "First draft text of COP31 cover decision out: 350.org reacts",
-     "url": "https://350.org/press-release/first-draft-text-of-cop31-cover-decision-out-350org-reacts/",
-     "publisher": "350.org",
-     "author": "350.org",
-     "published": "2026-11-16",
-     "language": "en",
-     "tracks": [
-      "Decisão de cobertura",
-      "TAFF e fósseis",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A 350.org reage ao primeiro rascunho do texto da decisão de cobertura da COP31, divulgado em 16 de novembro. O comunicado se insere no debate sobre fósseis e finanças na decisão final.",
-     "collected_at": "2026-11-16T18:15:48-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "350.org reacts to the first draft text of the COP31 cover decision, released on 16 November. The statement feeds into the debate on fossil fuels and finance in the final decision.",
-      "es": "350.org reacciona al primer borrador del texto de la decisión de cobertura de la COP31, publicado el 16 de noviembre. El comunicado se inscribe en el debate sobre los combustibles fósiles y la financiación en la decisión final.",
-      "fr": "350.org réagit au premier projet de texte de la décision de couverture de la COP31, publié le 16 novembre. Le communiqué s'inscrit dans le débat sur les combustibles fossiles et le financement dans la décision finale.",
-      "ru": "350.org реагирует на первый проект текста общего решения КС-31, опубликованный 16 ноября. Заявление отражает дискуссию об ископаемом топливе и финансировании в итоговом решении.",
-      "zh": "350.org 对 11 月 16 日发布的 COP31 综合决定案文初稿作出回应。该声明涉及最终决定中关于化石燃料和资金的讨论。",
-      "ar": "ردّت منظمة 350.org على المسودة الأولى لنص القرار الجامع لمؤتمر COP31 الصادرة في 16 نوفمبر. ويندرج البيان في النقاش حول الوقود الأحفوري والتمويل في القرار النهائي."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "350.org"
-    ]
-   }
-  ],
-  "negotiations": [
    {
     "id": "st-climate-home-news-2026-11-15-turkiye-water",
     "section": "negotiations",
@@ -1762,6 +1870,43 @@
   ],
   "civil": [
    {
+    "id": "st-350org-cover-decision-draft-2026-11-16",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "350org-cover-decision-draft-2026-11-16",
+     "title": "First draft text of COP31 cover decision out: 350.org reacts",
+     "url": "https://350.org/press-release/first-draft-text-of-cop31-cover-decision-out-350org-reacts/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "TAFF e fósseis",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A 350.org reage ao primeiro rascunho do texto da decisão de cobertura da COP31, divulgado em 16 de novembro. O comunicado se insere no debate sobre fósseis e finanças na decisão final.",
+     "collected_at": "2026-11-16T18:15:48-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org reacts to the first draft text of the COP31 cover decision, released on 16 November. The statement feeds into the debate on fossil fuels and finance in the final decision.",
+      "es": "350.org reacciona al primer borrador del texto de la decisión de cobertura de la COP31, publicado el 16 de noviembre. El comunicado se inscribe en el debate sobre los combustibles fósiles y la financiación en la decisión final.",
+      "fr": "350.org réagit au premier projet de texte de la décision de couverture de la COP31, publié le 16 novembre. Le communiqué s'inscrit dans le débat sur les combustibles fossiles et le financement dans la décision finale.",
+      "ru": "350.org реагирует на первый проект текста общего решения КС-31, опубликованный 16 ноября. Заявление отражает дискуссию об ископаемом топливе и финансировании в итоговом решении.",
+      "zh": "350.org 对 11 月 16 日发布的 COP31 综合决定案文初稿作出回应。该声明涉及最终决定中关于化石燃料和资金的讨论。",
+      "ar": "ردّت منظمة 350.org على المسودة الأولى لنص القرار الجامع لمؤتمر COP31 الصادرة في 16 نوفمبر. ويندرج البيان في النقاش حول الوقود الأحفوري والتمويل في القرار النهائي."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
     "id": "st-350org-japan-nuclear-2026-11-16",
     "section": "civil",
     "score": 0.383,
@@ -1795,6 +1940,42 @@
     "related": [],
     "publishers": [
      "350.org"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-16-ai-gas-electrification",
+    "section": "civil",
+    "score": 0.27,
+    "lead": {
+     "id": "oilchange-2026-11-16-ai-gas-electrification",
+     "title": "COP31: Big Tech's AI Boom Risks Fueling New Fossil Gas Expansion",
+     "url": "https://oilchange.org/news/cop31-big-techs-ai-boom-risks-fueling-new-fossil-gas-expansion/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International (Romain Ioualalen)",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International atualizou sua análise da meta de eletrificação proposta para a COP31 e alerta que a demanda de eletricidade de IA e data centers pode absorver a nova energia renovável sem deslocar os fósseis, servindo de pretexto para expandir a infraestrutura de gás.",
+     "collected_at": "2026-11-16T07:29:22-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International has updated its analysis of the electrification target proposed for COP31 and warns that electricity demand from AI and data centres could absorb new renewable energy without displacing fossil fuels, serving as a pretext to expand gas infrastructure.",
+      "es": "Oil Change International actualizó su análisis de la meta de electrificación propuesta para la COP31 y advierte que la demanda eléctrica de la IA y los centros de datos podría absorber la nueva energía renovable sin desplazar a los combustibles fósiles, sirviendo de pretexto para ampliar la infraestructura de gas.",
+      "fr": "Oil Change International a mis à jour son analyse de l'objectif d'électrification proposé pour la COP31 et avertit que la demande d'électricité de l'IA et des centres de données pourrait absorber les nouvelles énergies renouvelables sans évincer les combustibles fossiles, servant de prétexte à l'expansion des…",
+      "ru": "Oil Change International обновила анализ предлагаемой для COP31 цели по электрификации и предупреждает, что спрос на электроэнергию со стороны ИИ и центров обработки данных может поглотить новую возобновляемую энергию, не вытесняя ископаемое топливо, и стать предлогом для расширения газовой инфраструктуры.",
+      "zh": "石油变革国际更新了对COP31拟议电气化目标的分析，警告称人工智能和数据中心的电力需求可能吸收新增可再生能源而不能替代化石燃料，从而成为扩建天然气基础设施的借口。该组织要求该目标附带明确承诺，即由可再生能源满足并服务于逐步淘汰化石燃料。涉及电气化和TAFF与化石燃料等议题。",
+      "ar": "حدّثت منظمة Oil Change International تحليلها لهدف الكهربة المقترح لـCOP31، وتحذّر من أن الطلب على الكهرباء من الذكاء الاصطناعي ومراكز البيانات قد يستوعب الطاقة المتجددة الجديدة من دون أن يحل محل الوقود الأحفوري، فيصبح ذريعة لتوسيع البنية التحتية للغاز."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
     ]
    },
    {
@@ -1834,6 +2015,42 @@
     "related": [],
     "publishers": [
      "CAN International"
+    ]
+   },
+   {
+    "id": "st-actionaid-2026-11-14-australia-just-transition",
+    "section": "civil",
+    "score": 0.169,
+    "lead": {
+     "id": "actionaid-2026-11-14-australia-just-transition",
+     "title": "COP31: Australia's leadership is nowhere to be found and exciting potential for a real Just Transition…",
+     "url": "https://actionaid.org/news/2026/cop31-australias-leadership-nowhere-be-found-and-exciting-potential-real-just-transition",
+     "publisher": "ActionAid International",
+     "author": "ActionAid",
+     "published": "2026-11-14",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Comunicado da ActionAid de 14 de novembro afirma que a liderança da Austrália está ausente na COP31, ao mesmo tempo em que destaca o potencial para uma Transição Justa real. Liga-se à trilha de transição justa e ao papel da presidência e anfitriã. Resumo baseado no título e nos metadados da listagem;",
+     "collected_at": "2026-11-17T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "An ActionAid statement of 14 November says Australia's leadership is nowhere to be found at COP31, while highlighting the potential for a real Just Transition. It bears on the just transition track and on the role of the presidency and host. Summary based on the title and listing metadata; the body was not read.",
+      "es": "Un comunicado de ActionAid del 14 de noviembre afirma que el liderazgo de Australia brilla por su ausencia en la COP31, al tiempo que destaca el potencial de una Transición Justa real. Se vincula con la vía de transición justa y con el papel de la presidencia y el anfitrión.",
+      "fr": "Un communiqué d'ActionAid du 14 novembre affirme que le leadership de l'Australie est introuvable à la COP31, tout en soulignant le potentiel d'une véritable Transition juste. Il concerne le volet transition juste et le rôle de la présidence et du pays hôte. Résumé fondé sur le titre et les métadonnées de la liste ;",
+      "ru": "В заявлении ActionAid от 14 ноября говорится, что лидерство Австралии на COP31 не видно, при этом отмечается потенциал для реального справедливого перехода. Это относится к направлению справедливого перехода и роли председательства и принимающей стороны. Резюме составлено по заголовку и метаданным списка;",
+      "zh": "ActionAid于11月14日发表声明称，澳大利亚在COP31上的领导力缺位，同时指出实现真正公正转型的潜力。该声明涉及公正转型议题以及主席国和东道国的角色。摘要依据标题和列表元数据，未阅读正文。",
+      "ar": "يقول بيان لمنظمة ActionAid صدر في 14 نوفمبر إن قيادة أستراليا غائبة في COP31، مع إبراز إمكانات تحقيق انتقال عادل حقيقي. ويتصل ذلك بمسار الانتقال العادل ودور الرئاسة والبلد المضيف. الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ النص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ActionAid International"
     ]
    },
    {
@@ -2084,7 +2301,10 @@
   "2026-11-17": [
    "350org-cover-decision-draft-2026-11-16",
    "350org-peoples-climate-summit-2026-11-16",
+   "actionaid-2026-11-17-electrification-draft",
+   "bluesky-enb.iisd.org-20261116-negociadores-divididos",
    "can-international-2026-11-15-midway-brief",
+   "carbonbrief-2026-11-17-co2-exporters",
    "climatechangenews-2026-11-16-bulletin-day-7",
    "cop31-presidency-2026-11-16-35by35-join",
    "cop31-tr-2026-11-16-first-week",
