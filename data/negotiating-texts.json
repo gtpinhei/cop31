@@ -191,9 +191,15 @@
       "change": "withdrawn",
       "document_id": "10000283",
       "event_id": "430bd50ed75b2f204cf4b30b"
+    },
+    {
+      "at": "2026-11-17T15:27:07.869866Z",
+      "change": "withdrawn",
+      "document_id": "10000292",
+      "event_id": "89dbb836375dc69fab988d9d"
     }
   ],
-  "checked_at": "2026-11-17T15:17:09.420066Z",
+  "checked_at": "2026-11-17T15:27:07.869866Z",
   "degraded": false,
   "documents": [
     {
@@ -1493,7 +1499,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "08acddeb6e289831f7d10b5bab0548f73cd90c3439f7a19c1b7db7baa57e5563",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000292/files/en/SJWA_DT_SB651.pdf"
         }
       ],
@@ -1501,14 +1507,14 @@
       "document_code": "DT.SBI65.i9_SBSTA65.i9.2",
       "id": "10000292",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-13T15:12:28.346007Z",
+      "modified_at": "2026-11-17T15:18:52.580017Z",
       "published_at": "2026-11-13T15:00:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000292/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Sharm el-Sheikh joint work on implementation of climate action on agriculture and food security. Draft conclusions proposed by the Chairs",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 16",
@@ -2749,9 +2755,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 32,
-  "last_attempt": "2026-11-17T15:17:09.420066Z",
-  "last_success": "2026-11-17T15:17:09.420066Z",
+  "history_count": 33,
+  "last_attempt": "2026-11-17T15:27:07.869866Z",
+  "last_success": "2026-11-17T15:27:07.869866Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
