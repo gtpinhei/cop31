@@ -1,18 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-16T17:30:44.564120Z",
-      "change": "withdrawn",
-      "document_id": "10000324",
-      "event_id": "4e9da1cea0ecc450e8fc81e8"
-    },
-    {
-      "at": "2026-11-16T17:30:44.564120Z",
-      "change": "new",
-      "document_id": "10000335",
-      "event_id": "0782269ef912a95b80c1fe7e"
-    },
-    {
       "at": "2026-11-16T20:25:25.624815Z",
       "change": "withdrawn",
       "document_id": "10000305",
@@ -163,7 +151,7 @@
       "event_id": "89dbb836375dc69fab988d9d"
     }
   ],
-  "checked_at": "2026-11-17T17:06:51.654257Z",
+  "checked_at": "2026-11-17T17:37:53.181179Z",
   "degraded": false,
   "documents": [
     {
@@ -1010,13 +998,7 @@
     },
     {
       "agenda": "CMA 8 18; SBI 65 17",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000264/files/en/Art_6.2_funding_DT_SBI65.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.SBI65.i17.1",
       "id": "10000264",
@@ -1289,13 +1271,7 @@
     },
     {
       "agenda": "SBI 65 4(d)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000283/files/en/CGE_REPORT_DT_SBI651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI)",
       "document_code": "DT.SBI65.i4d.2",
       "id": "10000283",
@@ -1460,13 +1436,7 @@
     },
     {
       "agenda": "SBSTA 65 9; SBI 65 9",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000292/files/en/SJWA_DT_SB651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "DT.SBI65.i9_SBSTA65.i9.2",
       "id": "10000292",
@@ -1978,13 +1948,7 @@
     },
     {
       "agenda": "COP 31 13",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000313/files/en/PRLTGG_DT_cp311.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.i13.2",
       "id": "10000313",
@@ -2248,13 +2212,7 @@
     },
     {
       "agenda": "CMA 8 16(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000322/files/en/art_6.4_DT_cma81.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16b.1",
       "id": "10000322",
@@ -2418,13 +2376,7 @@
     },
     {
       "agenda": "COP 31 9(c)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000329/files/en/CTCN_review_DT_cp31.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.9c.1",
       "id": "10000329",
@@ -2720,8 +2672,8 @@
     }
   ],
   "history_count": 27,
-  "last_attempt": "2026-11-17T17:06:51.654257Z",
-  "last_success": "2026-11-17T17:06:51.654257Z",
+  "last_attempt": "2026-11-17T17:37:53.181179Z",
+  "last_success": "2026-11-17T17:37:53.181179Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
