@@ -149,9 +149,15 @@
       "change": "new",
       "document_id": "10000344",
       "event_id": "82e7f707918f2671e625ca02"
+    },
+    {
+      "at": "2026-11-17T09:07:26.933535Z",
+      "change": "revised",
+      "document_id": "10000317",
+      "event_id": "6dd4f5a97573f8b73b35520e"
     }
   ],
-  "checked_at": "2026-11-17T08:56:40.193495Z",
+  "checked_at": "2026-11-17T09:07:26.933535Z",
   "degraded": false,
   "documents": [
     {
@@ -2012,16 +2018,41 @@
       "agenda": "SBSTA 65 5; SBI 65 12",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "cd3e8e47520274ff3688fa15b5095e101bb17dd8fd63be5f52df12d514d78e4d",
+          "url": "https://docs.unfccc.int/documents/10000317/files/ar/sb2026_06A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "889a0f6e3f3a018d92c260f4e2deb3676fb891aab2c5c4e09b240b4cd887855c",
-          "url": "https://docs.unfccc.int/documents/10000317/files/en/WIM_JAR_DT_SB653.pdf"
+          "sha256": "c64735a16c2ff609c7ca1424acc1173f21f4410a534f444250f78bb1af03794a",
+          "url": "https://docs.unfccc.int/documents/10000317/files/en/sb2026_06E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "0d2c895116b3b55ea8d6f9511d0a11a25731a69e68c32e22e42dfece404ae000",
+          "url": "https://docs.unfccc.int/documents/10000317/files/es/sb2026_06S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "eb0e46dba20cdb7a271869be58a28a92e61cf051880ae183997ea092379b0202",
+          "url": "https://docs.unfccc.int/documents/10000317/files/fr/sb2026_06F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "ccdf8699fdc5fff01b198a1b47aa18d892ae40add24606acd837f73bff3aec30",
+          "url": "https://docs.unfccc.int/documents/10000317/files/ru/sb2026_06R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "b27b67279f87268c7d94a863e4bb336dff94228d7193a98b2f1e123f95906ff1",
+          "url": "https://docs.unfccc.int/documents/10000317/files/zh/sb2026_06C.pdf"
         }
       ],
       "body": "Subsidiary Body for Implementation (SBI); Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "FCCC/SB/2026/L.6",
       "id": "10000317",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-17T08:21:51.030553Z",
+      "modified_at": "2026-11-17T08:59:14.160748Z",
       "published_at": "2026-11-14T14:00:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000317/metadata",
@@ -2560,9 +2591,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 25,
-  "last_attempt": "2026-11-17T08:56:40.193495Z",
-  "last_success": "2026-11-17T08:56:40.193495Z",
+  "history_count": 26,
+  "last_attempt": "2026-11-17T09:07:26.933535Z",
+  "last_success": "2026-11-17T09:07:26.933535Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
