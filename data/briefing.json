@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-17",
- "generated_at": "2026-11-17T04:58+03:00",
+ "generated_at": "2026-11-17T06:58+03:00",
  "window": {
   "from": "2026-11-14",
   "to": "2026-11-17",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-16T18:15:48-03:00",
+  "web_round": "2026-11-17T00:14:50-03:00",
   "social_round": "2026-11-16T22:43:14-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 49,
-  "stories": 45,
+  "candidates": 53,
+  "stories": 47,
   "top": 8,
   "publishers": [
    "350.org",
@@ -49,17 +49,17 @@
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem datas visíveis (só caminhos de upload)"
+    "note": "sem datas explícitas"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "sem listagem datada; site parado em 2022"
+    "note": "parada em 2022"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "client_error"
+    "note": "budget"
    }
   ]
  },
@@ -98,6 +98,33 @@
      "description_i18n_method": "machine"
     },
     "related": [
+     {
+      "id": "unfccc-2026-11-16-press-conference-transcript",
+      "title": "Transcript of COP31 press conference with COP31 President of Negotiations",
+      "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "UNFCCC",
+      "published": "2026-11-16",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Transcrição da coletiva de imprensa do Presidente de Negociações da COP31, publicada em 16 de novembro, na segunda semana de negociações em torno da decisão de cobertura. Só o título e a listagem foram lidos; o conteúdo da transcrição não foi verificado.",
+      "collected_at": "2026-11-17T00:14:50-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Transcript of the press conference by the COP31 President of Negotiations, published on 16 November, at the start of the second week of talks on the cover decision. Only the title and listing were read; the transcript content was not verified.",
+       "es": "Transcripción de la rueda de prensa del Presidente de Negociaciones de la COP31, publicada el 16 de noviembre, al inicio de la segunda semana de conversaciones sobre la decisión de cobertura. Solo se leyeron el título y el listado; no se verificó el contenido de la transcripción.",
+       "fr": "Transcription de la conférence de presse du Président des négociations de la COP31, publiée le 16 novembre, au début de la deuxième semaine de discussions sur la décision de couverture. Seuls le titre et la liste ont été lus ; le contenu de la transcription n'a pas été vérifié.",
+       "ru": "Стенограмма пресс-конференции Председателя переговоров КС-31, опубликованная 16 ноября, в начале второй недели переговоров по общему решению. Прочитаны только заголовок и список; содержание стенограммы не проверялось.",
+       "zh": "COP31 谈判主席新闻发布会的文字记录，发布于 11 月 16 日，正值围绕综合决定的谈判进入第二周之际。仅阅读了标题和列表，未核实记录内容。",
+       "ar": "نص المؤتمر الصحفي لرئيس المفاوضات في مؤتمر الأطراف الحادي والثلاثين، نُشر في 16 تشرين الثاني/نوفمبر في بداية الأسبوع الثاني من المحادثات بشأن القرار الجامع. قُرئ العنوان والقائمة فقط ولم يُتحقق من محتوى النص."
+      },
+      "description_i18n_method": "machine"
+     },
      {
       "id": "cop31tr-ocean-seas-compact-2026-11-16",
       "title": "Antalya Ocean and Seas Compact",
@@ -192,6 +219,69 @@
     "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-16-gcaa-gst2-concept-note",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-16-gcaa-gst2-concept-note",
+     "title": "The Global Climate Action Agenda as an Engine of Implementation for a successful GST2 Concept Note",
+     "url": "https://unfccc.int/documents/665066",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "UNFCCC",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "GST2 e IPCC"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Nota conceitual sobre a Agenda Global de Ação Climática como motor de implementação para o sucesso do GST2, publicada em 16 de novembro. Vincula a Agenda de Ação ao segundo balanço global. Só os metadados da listagem foram lidos.",
+     "collected_at": "2026-11-17T00:14:50-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Concept note on the Global Climate Action Agenda as an engine of implementation for a successful GST2, published on 16 November. It links the Action Agenda to the second Global Stocktake. Only listing metadata was read.",
+      "es": "Nota conceptual sobre la Agenda Global de Acción Climática como motor de aplicación para el éxito del GST2, publicada el 16 de noviembre. Vincula la Agenda de Acción con el segundo balance mundial. Solo se leyeron los metadatos del listado.",
+      "fr": "Note conceptuelle sur l'Agenda mondial de l'action climatique comme moteur de mise en œuvre pour la réussite du GST2, publiée le 16 novembre. Elle relie l'Agenda de l'action au deuxième bilan mondial. Seules les métadonnées de la liste ont été lues.",
+      "ru": "Концептуальная записка о Глобальной повестке климатических действий как двигателе осуществления для успеха ГИ-2, опубликованная 16 ноября. Связывает Повестку действий со вторым глобальным подведением итогов. Прочитаны только метаданные списка.",
+      "zh": "关于全球气候行动议程作为推动第二次全球盘点（GST2）成功落实之引擎的概念文件，发布于 11 月 16 日。它将行动议程与第二次全球盘点联系起来。仅阅读了列表元数据。",
+      "ar": "مذكرة مفاهيمية عن خطة العمل المناخي العالمية كمحرّك للتنفيذ من أجل نجاح الحصيلة العالمية الثانية، نُشرت في 16 تشرين الثاني/نوفمبر. تربط خطة العمل بالحصيلة العالمية الثانية. قُرئت البيانات الوصفية للقائمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "unfccc-2026-11-16-pre2030-roundtable-info-note",
+      "title": "Information Note on the 2026 Annual high-level ministerial round table on pre-2030 ambition",
+      "url": "https://unfccc.int/documents/665079",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "UNFCCC",
+      "published": "2026-11-16",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Nota informativa sobre a mesa-redonda ministerial anual de alto nível de 2026 sobre ambição pré-2030, publicada em 16 de novembro. Trata de mitigação e implementação antes de 2030. Só os metadados da listagem foram lidos.",
+      "collected_at": "2026-11-17T00:14:50-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Information note on the 2026 annual high-level ministerial round table on pre-2030 ambition, published on 16 November. It concerns mitigation and implementation before 2030. Only listing metadata was read.",
+       "es": "Nota informativa sobre la mesa redonda ministerial anual de alto nivel de 2026 sobre la ambición previa a 2030, publicada el 16 de noviembre. Trata de la mitigación y la aplicación antes de 2030. Solo se leyeron los metadatos del listado.",
+       "fr": "Note d'information sur la table ronde ministérielle annuelle de haut niveau de 2026 sur l'ambition avant 2030, publiée le 16 novembre. Elle porte sur l'atténuation et la mise en œuvre avant 2030. Seules les métadonnées de la liste ont été lues.",
+       "ru": "Информационная записка о ежегодном министерском круглом столе высокого уровня 2026 года по амбициозности до 2030 года, опубликованная 16 ноября. Касается смягчения последствий и осуществления до 2030 года. Прочитаны только метаданные списка.",
+       "zh": "关于 2026 年度 2030 年前力度高级别部长级圆桌会议的信息说明，发布于 11 月 16 日。涉及 2030 年前的减缓与落实。仅阅读了列表元数据。",
+       "ar": "مذكرة إعلامية عن المائدة المستديرة الوزارية السنوية رفيعة المستوى لعام 2026 بشأن الطموح قبل عام 2030، نُشرت في 16 تشرين الثاني/نوفمبر. تتناول التخفيف والتنفيذ قبل عام 2030. قُرئت البيانات الوصفية للقائمة فقط."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
     ]
    },
    {
@@ -377,45 +467,6 @@
     "related": [],
     "publishers": [
      "350.org"
-    ]
-   },
-   {
-    "id": "st-can-international-2026-11-15-midway-brief",
-    "section": "civil",
-    "score": 0.191,
-    "lead": {
-     "id": "can-international-2026-11-15-midway-brief",
-     "title": "State of Play from Antalya: COP31 Midway Media Brief",
-     "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
-     "publisher": "CAN International",
-     "author": "Attila Kulcsar",
-     "published": "2026-11-15",
-     "language": "en",
-     "tracks": [
-      "Transição justa",
-      "Adaptação",
-      "Perdas e danos",
-      "Finanças",
-      "Decisão de cobertura"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Climate Action Network International avalia que a COP31 começou com esperança de transformar os compromissos de Belém em proteção concreta, mas perdeu ritmo no meio da conferência.",
-     "collected_at": "2026-11-16T06:16:12-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Climate Action Network International assesses that COP31 began with hope of turning Belém commitments into real protection, but has lost momentum at the midway point.",
-      "es": "Climate Action Network International considera que la COP31 comenzó con la esperanza de convertir los compromisos de Belém en protección real, pero ha perdido impulso a mitad de la conferencia.",
-      "fr": "Climate Action Network International estime que la COP31 a commencé avec l'espoir de transformer les engagements de Belém en protection concrète, mais qu'elle a perdu de son élan à mi-parcours.",
-      "ru": "Climate Action Network International считает, что КС-31 началась с надежды превратить белемские обязательства в реальную защиту, но к середине конференции утратила динамику.",
-      "zh": "国际气候行动网络（CAN International）认为，COP31开局时曾寄望将贝伦承诺转化为切实保护，但到会议中段已失去势头。简报称，关于公正转型、适应资金增至三倍、损失与损害、减缓和资金的谈判被削弱，而关注点转向了亮点倡议和可能的一揽子决定（cover decision）。该网络呼吁各国政府以及作为谈判主席的澳大利亚在第二周取得具体成果，并援引 Carbon Brief 关于资金承诺下降70%的分析。",
-      "ar": "ترى شبكة العمل المناخي الدولية (CAN International) أن COP31 بدأت بأمل في تحويل التزامات بيليم إلى حماية فعلية، لكنها فقدت زخمها في منتصف المؤتمر. وتقول الإحاطة إن المفاوضات بشأن الانتقال العادل ومضاعفة التمويل للتكيف ثلاث مرات والخسائر والأضرار والتخفيف والتمويل قد ضعفت، بينما انتقل الاهتمام إلى المبادرات البارزة وإلى…"
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
     ]
    }
   ],
@@ -1020,6 +1071,41 @@
    }
   ],
   "action": [
+   {
+    "id": "st-unfccc-2026-11-16-ai-speech",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "unfccc-2026-11-16-ai-speech",
+     "title": "UN Climate Chief on artificial intelligence: \"The task ahead is to blunt their dangerous edges, sharpen their catalytic ones, and put these technologies responsibly to work\"",
+     "url": "https://unfccc.int/news/un-climate-chief-on-artificial-intelligence-the-task-ahead-is-to-blunt-their-dangerous-edges-sharpen",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Discurso do chefe de clima da ONU sobre inteligência artificial na COP31, que enquadra a IA como risco a conter e ferramenta a pôr a serviço da ação climática. Liga-se à Agenda de Ação e à implementação do GST. Resumo feito a partir do título e dos metadados da listagem.",
+     "collected_at": "2026-11-17T00:14:50-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Speech by the UN Climate Chief on artificial intelligence at COP31, framing AI as a risk to be contained and a tool to put at the service of climate action. It bears on the Action Agenda and GST implementation. Summary based on the title and listing metadata.",
+      "es": "Discurso del Jefe de Clima de la ONU sobre la inteligencia artificial en la COP31, que presenta la IA como un riesgo que hay que contener y una herramienta que debe ponerse al servicio de la acción climática. Se vincula con la Agenda de Acción y la aplicación del balance mundial.",
+      "fr": "Discours du chef du climat de l'ONU sur l'intelligence artificielle à la COP31, qui présente l'IA comme un risque à contenir et un outil à mettre au service de l'action climatique. Il touche à l'Agenda de l'action et à la mise en œuvre du bilan mondial. Résumé établi à partir du titre et des métadonnées de la liste.",
+      "ru": "Выступление главы ООН по климату об искусственном интеллекте на КС-31: ИИ представлен как риск, который необходимо сдерживать, и как инструмент, который следует поставить на службу климатическим действиям. Относится к Повестке действий и выполнению итогов глобальной инвентаризации.",
+      "zh": "联合国气候变化事务负责人在 COP31 上就人工智能发表讲话，将人工智能视为需要遏制的风险，同时也是可服务于气候行动的工具。涉及行动议程和全球盘点的落实。摘要依据标题和列表元数据撰写。",
+      "ar": "خطاب رئيس الأمم المتحدة لشؤون المناخ بشأن الذكاء الاصطناعي في مؤتمر الأطراف الحادي والثلاثين، يصوّر الذكاء الاصطناعي بوصفه خطراً ينبغي احتواؤه وأداة ينبغي تسخيرها لخدمة العمل المناخي. يتصل بخطة العمل وتنفيذ الحصيلة العالمية. الملخص مبني على العنوان والبيانات الوصفية للقائمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
    {
     "id": "st-cop31-tr-2026-11-15-green-skills",
     "section": "action",
@@ -1712,6 +1798,45 @@
     ]
    },
    {
+    "id": "st-can-international-2026-11-15-midway-brief",
+    "section": "civil",
+    "score": 0.191,
+    "lead": {
+     "id": "can-international-2026-11-15-midway-brief",
+     "title": "State of Play from Antalya: COP31 Midway Media Brief",
+     "url": "https://climatenetwork.org/2026/11/15/state-of-play-from-antalya-cop31-midway-media-brief/",
+     "publisher": "CAN International",
+     "author": "Attila Kulcsar",
+     "published": "2026-11-15",
+     "language": "en",
+     "tracks": [
+      "Transição justa",
+      "Adaptação",
+      "Perdas e danos",
+      "Finanças",
+      "Decisão de cobertura"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Climate Action Network International avalia que a COP31 começou com esperança de transformar os compromissos de Belém em proteção concreta, mas perdeu ritmo no meio da conferência.",
+     "collected_at": "2026-11-16T06:16:12-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Climate Action Network International assesses that COP31 began with hope of turning Belém commitments into real protection, but has lost momentum at the midway point.",
+      "es": "Climate Action Network International considera que la COP31 comenzó con la esperanza de convertir los compromisos de Belém en protección real, pero ha perdido impulso a mitad de la conferencia.",
+      "fr": "Climate Action Network International estime que la COP31 a commencé avec l'espoir de transformer les engagements de Belém en protection concrète, mais qu'elle a perdu de son élan à mi-parcours.",
+      "ru": "Climate Action Network International считает, что КС-31 началась с надежды превратить белемские обязательства в реальную защиту, но к середине конференции утратила динамику.",
+      "zh": "国际气候行动网络（CAN International）认为，COP31开局时曾寄望将贝伦承诺转化为切实保护，但到会议中段已失去势头。简报称，关于公正转型、适应资金增至三倍、损失与损害、减缓和资金的谈判被削弱，而关注点转向了亮点倡议和可能的一揽子决定（cover decision）。该网络呼吁各国政府以及作为谈判主席的澳大利亚在第二周取得具体成果，并援引 Carbon Brief 关于资金承诺下降70%的分析。",
+      "ar": "ترى شبكة العمل المناخي الدولية (CAN International) أن COP31 بدأت بأمل في تحويل التزامات بيليم إلى حماية فعلية، لكنها فقدت زخمها في منتصف المؤتمر. وتقول الإحاطة إن المفاوضات بشأن الانتقال العادل ومضاعفة التمويل للتكيف ثلاث مرات والخسائر والأضرار والتخفيف والتمويل قد ضعفت، بينما انتقل الاهتمام إلى المبادرات البارزة وإلى…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
+    ]
+   },
+   {
     "id": "st-greenpeace-2026-11-14-bluster-rhetoric",
     "section": "civil",
     "score": 0.169,
@@ -1964,6 +2089,7 @@
    "cop31-presidency-2026-11-16-35by35-join",
    "cop31-tr-2026-11-16-first-week",
    "oilchange-2026-11-16-ai-gas-electrification",
+   "unfccc-2026-11-16-gcaa-gst2-concept-note",
    "unfccc-presidency-note-cover-decision-2026-11-16"
   ]
  }
