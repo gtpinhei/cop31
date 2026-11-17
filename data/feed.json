@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-17T06:20:00-03:00",
+ "generated_at": "2026-11-17T12:17:18-03:00",
  "round": {
-  "timestamp": "2026-11-17T06:20:00-03:00",
-  "label": "17 nov 2026, 06:20 (Brasília)",
+  "timestamp": "2026-11-17T12:17:18-03:00",
+  "label": "17 nov 2026, 12:17 (Brasília)",
   "sites_checked": 57,
   "blocked": 16,
-  "new_items": 5,
-  "fetches": "60 de 60",
+  "new_items": 11,
+  "fetches": "58 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -16,13 +16,13 @@
    "web-iea-org-events-world-energy-outlook-2026",
    "web-chathamhouse-org-topics-climate-policy",
    "web-caneurope-org-news",
-   "web-ituc-csi-org-climate-justice",
-   "web-wwf-panda-org-wwf-news",
+   "web-christianaid-org-uk-news",
    "web-foei-org-news",
-   "web-climaesociedade-org-noticias",
+   "web-institutotalanoa-org-publicacoes",
+   "web-politicaporinteiro-org-en",
+   "web-transforma-global",
+   "web-icccad-net-news",
    "web-wemeanbusinesscoalition-org-news",
-   "web-eurodad-org-news",
-   "web-carbon-pulse-com-category-international",
    "web-odi-org-en-insights",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-ember-energy-org-latest-insights"
@@ -46,6 +46,223 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "climatechangenews-2026-11-17-bulletin-day-8",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 8: Arab Group, Russia reject cover text over fossil fuels and electrification goal",
+   "date": "2026-11-17",
+   "authors": "Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
+   "summary": "Os ministros começam a enxugar o longo rascunho da decisão de cobertura da COP31. O Grupo Árabe, o LMDC e a Rússia se opõem à meta de eletrificação, ao roteiro de transição dos combustíveis fósseis e à linguagem sobre metano, enquanto os países desenvolvidos permanecem relativamente calados. As negociações sobre finanças climáticas continuam, e a UE deve apoiar o compromisso de eletrificação; o Dia dos Oceanos também é coberto.",
+   "summary_i18n": {
+    "en": "Ministers begin trimming the lengthy COP31 draft cover decision. The Arab Group, the LMDC and Russia object to the electrification target, the fossil fuel transition roadmap and methane language, while developed countries remain relatively quiet. Climate finance negotiations continue, and the EU is expected to back the electrification pledge; Oceans Day events are also covered.",
+    "es": "Los ministros comienzan a recortar el extenso proyecto de decisión de cobertura de la COP31. El Grupo Árabe, el LMDC y Rusia se oponen a la meta de electrificación, a la hoja de ruta de transición de los combustibles fósiles y al lenguaje sobre el metano, mientras los países desarrollados permanecen relativamente callados. Continúan las negociaciones sobre financiación climática y se espera que la UE respalde el compromiso de electrificación; también se cubren los actos del Día de los Océanos.",
+    "fr": "Les ministres commencent à élaguer le long projet de décision de couverture de la COP31. Le Groupe arabe, le LMDC et la Russie s'opposent à l'objectif d'électrification, à la feuille de route de transition des combustibles fossiles et au libellé sur le méthane, tandis que les pays développés restent relativement discrets. Les négociations sur le financement climatique se poursuivent et l'UE devrait soutenir l'engagement d'électrification ; les événements de la Journée des océans sont aussi couverts.",
+    "ru": "Министры начинают сокращать объёмный проект общего решения COP31. Арабская группа, LMDC и Россия возражают против цели по электрификации, дорожной карты перехода от ископаемого топлива и формулировок о метане, тогда как развитые страны остаются относительно сдержанными. Переговоры по климатическому финансированию продолжаются, ожидается, что ЕС поддержит обязательство по электрификации; освещаются также мероприятия Дня океанов.",
+    "zh": "部长们开始精简篇幅冗长的COP31涵盖性决定草案。阿拉伯集团、LMDC和俄罗斯反对电气化目标、化石燃料转型路线图及甲烷相关措辞,而发达国家则相对沉默。气候资金谈判仍在继续,预计欧盟将支持电气化承诺;报道还涵盖了海洋日活动。",
+    "ar": "بدأ الوزراء تقليص مشروع المقرر الجامع الطويل لمؤتمر COP31. وتعترض المجموعة العربية ومجموعة LMDC وروسيا على هدف الكهربة وخارطة طريق التحول عن الوقود الأحفوري وصياغة الميثان، فيما تبقى الدول المتقدمة هادئة نسبياً. وتتواصل مفاوضات تمويل المناخ، ومن المتوقع أن يؤيد الاتحاد الأوروبي تعهد الكهربة؛ كما تُغطى فعاليات يوم المحيطات."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Finanças",
+    "Oceanos"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatechangenews-2026-11-17-fiji-ocean-islands",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "COP31 can't deliver for islands without delivering for the ocean",
+   "date": "2026-11-17",
+   "authors": "Dr Sivendra Michael",
+   "url": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
+   "summary": "O secretário permanente de Meio Ambiente e Mudança Climática de Fiji argumenta que os Estados insulares dependem do oceano e enfrentam branqueamento de corais e acidificação cada vez piores. Pede que o reconhecimento do oceano oriente as contribuições nacionais, o Balanço Global de 2028 e o financiamento climático, com acesso mais fácil a recursos para pequenos Estados insulares.",
+   "summary_i18n": {
+    "en": "Fiji's permanent secretary for environment and climate change argues that island nations depend on the ocean and face worsening coral bleaching and acidification. He calls for ocean recognition to shape national climate commitments, the 2028 Global Stocktake and climate finance, and for easier access to funding for island states.",
+    "es": "El secretario permanente de Medio Ambiente y Cambio Climático de Fiji sostiene que las naciones insulares dependen del océano y se enfrentan a un empeoramiento del blanqueamiento de los corales y de la acidificación. Pide que el reconocimiento del océano influya en los compromisos climáticos nacionales, el Balance Mundial de 2028 y la financiación climática, y que los Estados insulares accedan más fácilmente a los fondos.",
+    "fr": "Le secrétaire permanent de Fidji pour l'environnement et le changement climatique soutient que les États insulaires dépendent de l'océan et font face à un blanchiment des coraux et à une acidification de plus en plus graves. Il demande que la reconnaissance de l'océan guide les engagements climatiques nationaux, le bilan mondial de 2028 et le financement climatique, et que les États insulaires accèdent plus facilement aux fonds.",
+    "ru": "Постоянный секретарь Фиджи по окружающей среде и изменению климата утверждает, что островные государства зависят от океана и сталкиваются с нарастающим обесцвечиванием кораллов и закислением. Он призывает учитывать океан в национальных климатических обязательствах, глобальном подведении итогов 2028 года и климатическом финансировании и упростить доступ островных государств к финансированию.",
+    "zh": "斐济环境与气候变化常务秘书认为,岛屿国家依赖海洋,并面临日益严重的珊瑚白化和海洋酸化。他呼吁让海洋因素体现在国家气候承诺、2028年全球盘点和气候资金中,并让岛屿国家更便捷地获得资金。",
+    "ar": "يرى الأمين الدائم لوزارة البيئة وتغير المناخ في فيجي أن الدول الجزرية تعتمد على المحيط وتواجه ابيضاضاً متفاقماً للشعاب المرجانية وتحمّضاً. ويدعو إلى أن يوجّه الاعتراف بالمحيط الالتزامات المناخية الوطنية والحصيلة العالمية لعام 2028 وتمويل المناخ، وإلى تسهيل وصول الدول الجزرية إلى التمويل."
+   },
+   "tracks": [
+    "Oceanos",
+    "Finanças",
+    "GST2 e IPCC"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatechangenews-2026-11-17-morgera-critical-minerals",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "Minerals for the planet or for war and AI? COP31 must make clear what we prioritise",
+   "date": "2026-11-17",
+   "authors": "Elisa Morgera",
+   "url": "https://www.climatechangenews.com/2026/11/17/minerals-for-the-planet-or-for-war-and-ai-cop31-must-make-clear-what-we-prioritise/",
+   "summary": "A relatora especial da ONU sobre mudança climática e direitos humanos afirma que a demanda por minerais críticos é cada vez mais puxada por usos militares e de IA, e não pela transição energética. Defende priorizar renováveis e necessidades das comunidades, excluir usos prejudiciais ao clima, exigir rastreabilidade, respeitar consentimento e direitos indígenas e criar zonas proibidas à mineração.",
+   "summary_i18n": {
+    "en": "The UN Special Rapporteur on climate change and human rights says demand for critical minerals is increasingly driven by military and AI uses rather than the energy transition. She calls for prioritising renewables and community needs, excluding climate-harming uses, requiring traceability, respecting consent and Indigenous rights, and establishing no-go mining zones.",
+    "es": "La Relatora Especial de la ONU sobre el cambio climático y los derechos humanos afirma que la demanda de minerales críticos responde cada vez más a usos militares y de IA, y no a la transición energética. Aboga por priorizar las energías renovables y las necesidades de las comunidades, excluir los usos perjudiciales para el clima, exigir trazabilidad, respetar el consentimiento y los derechos de los pueblos indígenas y establecer zonas vedadas a la minería.",
+    "fr": "La Rapporteuse spéciale des Nations Unies sur les changements climatiques et les droits de l'homme affirme que la demande de minerais critiques est de plus en plus tirée par des usages militaires et d'IA plutôt que par la transition énergétique. Elle plaide pour donner la priorité aux énergies renouvelables et aux besoins des communautés, exclure les usages nuisibles au climat, exiger la traçabilité, respecter le consentement et les droits des peuples autochtones, et créer des zones interdites à l'exploitation minière.",
+    "ru": "Специальный докладчик ООН по изменению климата и правам человека отмечает, что спрос на критически важные минералы всё больше определяется военным и ИИ-применением, а не энергетическим переходом. Она призывает отдавать приоритет возобновляемым источникам и потребностям общин, исключить климатически вредное использование, обеспечить прослеживаемость, уважать согласие и права коренных народов и создать зоны, закрытые для добычи.",
+    "zh": "联合国气候变化与人权问题特别报告员指出,关键矿产需求日益受军事和人工智能用途驱动,而非能源转型。她呼吁优先考虑可再生能源和社区需求,排除损害气候的用途,要求可追溯,尊重同意权和原住民权利,并设立禁止采矿区。",
+    "ar": "تقول المقررة الخاصة للأمم المتحدة المعنية بتغير المناخ وحقوق الإنسان إن الطلب على المعادن الحرجة يدفعه بشكل متزايد الاستخدام العسكري واستخدامات الذكاء الاصطناعي لا التحول في مجال الطاقة. وتدعو إلى إعطاء الأولوية للطاقة المتجددة واحتياجات المجتمعات، واستبعاد الاستخدامات المضرة بالمناخ، واشتراط إمكانية التتبع، واحترام الموافقة وحقوق الشعوب الأصلية، وإقامة مناطق محظورة على التعدين."
+   },
+   "tracks": [
+    "Transição justa",
+    "Mitigação e MWP"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "can-international-2026-11-17-carbon-markets",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "COP31: Push to deregulate UN carbon markets risks putting profits before people and the planet",
+   "date": "2026-11-17",
+   "authors": "",
+   "url": "https://climatenetwork.org/2026/11/17/cop31-carbon-markets/",
+   "summary": "Em comunicado, a CAN International alerta que a pressão para desregular os mercados de carbono da ONU na COP31 pode favorecer lucros corporativos em detrimento de pessoas e do planeta. Relaciona-se às negociações do Artigo 6 e ao rascunho da decisão de cobertura. Resumo feito a partir do título e da listagem.",
+   "summary_i18n": {
+    "en": "In a press release, CAN International warns that the push to deregulate UN carbon markets at COP31 could favour corporate profits over people and the planet. It bears on the Article 6 negotiations and the draft cover decision. Summary based on the headline and listing.",
+    "es": "En un comunicado, CAN International advierte de que la presión para desregular los mercados de carbono de la ONU en la COP31 podría favorecer los beneficios empresariales frente a las personas y el planeta. Atañe a las negociaciones del artículo 6 y al proyecto de decisión de cobertura. Resumen basado en el titular y el listado.",
+    "fr": "Dans un communiqué, CAN International avertit que la pression en faveur de la déréglementation des marchés carbone de l'ONU à la COP31 pourrait favoriser les profits des entreprises au détriment des personnes et de la planète. Cela concerne les négociations sur l'article 6 et le projet de décision de couverture. Résumé fondé sur le titre et la liste.",
+    "ru": "В пресс-релизе CAN International предупреждает, что стремление дерегулировать углеродные рынки ООН на COP31 может поставить корпоративные прибыли выше интересов людей и планеты. Тема связана с переговорами по статье 6 и проектом общего решения. Резюме составлено по заголовку и списку публикаций.",
+    "zh": "CAN International在新闻稿中警告称,COP31上放松联合国碳市场监管的推动可能使企业利润凌驾于人与地球之上。该议题涉及第6条谈判和涵盖性决定草案。摘要依据标题和列表页撰写。",
+    "ar": "حذّرت CAN International في بيان صحفي من أن الدفع نحو تخفيف الضوابط على أسواق الكربون التابعة للأمم المتحدة في COP31 قد يقدّم أرباح الشركات على الناس والكوكب. ويتصل ذلك بمفاوضات المادة 6 ومشروع المقرر الجامع. الملخص مبني على العنوان وصفحة القائمة."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
+  },
+  {
+   "id": "oilchange-2026-11-17-fossil-roadmaps",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "Group of countries announce fossil fuel transition roadmaps at COP31",
+   "date": "2026-11-17",
+   "authors": "",
+   "url": "https://oilchange.org/news/group-of-countries-announce-fossil-fuel-transition-roadmaps-at-cop31/",
+   "summary": "Oil Change International saúda o anúncio, por um grupo de países, de roteiros de transição dos combustíveis fósseis na COP31 e questiona se os negociadores vão liderar ou obstruir esse esforço. Liga-se à trilha TAFF e ao rascunho da decisão de cobertura. Resumo baseado na descrição da listagem.",
+   "summary_i18n": {
+    "en": "Oil Change International welcomes a group of countries' announcement of fossil fuel transition roadmaps at COP31 and asks whether negotiators will lead or obstruct the effort. It bears on the TAFF track and the draft cover decision. Summary based on the listing description.",
+    "es": "Oil Change International acoge con satisfacción el anuncio por un grupo de países de hojas de ruta de transición de los combustibles fósiles en la COP31 y se pregunta si los negociadores liderarán o obstruirán ese esfuerzo. Atañe a la vía TAFF y al proyecto de decisión de cobertura. Resumen basado en la descripción del listado.",
+    "fr": "Oil Change International salue l'annonce par un groupe de pays de feuilles de route de transition des combustibles fossiles à la COP31 et se demande si les négociateurs vont mener ou entraver cet effort. Cela concerne le volet TAFF et le projet de décision de couverture. Résumé fondé sur la description de la liste.",
+    "ru": "Oil Change International приветствует объявление группой стран дорожных карт перехода от ископаемого топлива на COP31 и задаётся вопросом, возглавят ли переговорщики эти усилия или будут им препятствовать. Тема относится к направлению TAFF и проекту общего решения. Резюме основано на описании в списке публикаций.",
+    "zh": "Oil Change International欢迎一组国家在COP31上宣布化石燃料转型路线图,并质疑谈判代表是将引领还是阻碍这一努力。该内容涉及TAFF议题和涵盖性决定草案。摘要依据列表页描述撰写。",
+    "ar": "ترحب Oil Change International بإعلان مجموعة من الدول عن خرائط طريق للتحول عن الوقود الأحفوري في COP31، وتتساءل عما إذا كان المفاوضون سيقودون هذا الجهد أم يعرقلونه. ويتصل ذلك بمسار TAFF ومشروع المقرر الجامع. الملخص مبني على وصف صفحة القائمة."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"The political will to build concrete plans to move beyond fossil fuels is growing.\" — Oil Change International"
+   ],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-17-finance-work-programme",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Response to the latest draft of the Climate Finance Work Program",
+   "date": "2026-11-17",
+   "authors": "",
+   "url": "https://oilchange.org/news/response-to-the-latest-draft-of-the-climate-finance-work-program/",
+   "summary": "Em resposta ao último rascunho do Programa de Trabalho sobre Finanças Climáticas, a Oil Change International diz que o texto é uma chance de responsabilizar países ricos por suas obrigações legais de financiamento. Critica UE, Noruega, Suíça e outros por apoiarem a opção de \"nenhum texto\". Resumo baseado na descrição da listagem.",
+   "summary_i18n": {
+    "en": "Responding to the latest draft of the Climate Finance Work Programme, Oil Change International says the text offers a chance to hold wealthy nations to their legal climate finance obligations. It criticises the EU, Norway, Switzerland and others for backing a \"no text\" option. Summary based on the listing description.",
+    "es": "En respuesta al último proyecto del Programa de Trabajo sobre Financiación Climática, Oil Change International afirma que el texto ofrece la oportunidad de exigir a los países ricos que cumplan sus obligaciones jurídicas de financiación climática. Critica a la UE, Noruega, Suiza y otros por respaldar la opción de «ningún texto». Resumen basado en la descripción del listado.",
+    "fr": "En réponse au dernier projet du Programme de travail sur le financement climatique, Oil Change International estime que le texte offre l'occasion de contraindre les pays riches à respecter leurs obligations juridiques en matière de financement climatique. Elle critique l'UE, la Norvège, la Suisse et d'autres pour leur soutien à l'option « pas de texte ». Résumé fondé sur la description de la liste.",
+    "ru": "Отвечая на последний проект Программы работы по климатическому финансированию, Oil Change International заявляет, что текст даёт возможность заставить богатые страны выполнять юридические обязательства по финансированию. Организация критикует ЕС, Норвегию, Швейцарию и других за поддержку варианта «без текста». Резюме основано на описании в списке публикаций.",
+    "zh": "针对气候资金工作方案的最新草案,Oil Change International表示该文本为追究富裕国家的法定气候资金义务提供了机会,并批评欧盟、挪威、瑞士等支持“无文本”方案。摘要依据列表页描述撰写。",
+    "ar": "في ردها على أحدث مسودة لبرنامج العمل المتعلق بتمويل المناخ، تقول Oil Change International إن النص يتيح فرصة لمساءلة الدول الغنية عن التزاماتها القانونية في مجال تمويل المناخ. وتنتقد الاتحاد الأوروبي والنرويج وسويسرا وغيرها لدعمها خيار «عدم وجود نص». الملخص مبني على وصف صفحة القائمة."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [
+    "\"We have a once-in-a-generation opportunity to hold wealthy countries accountable\" — Oil Change International"
+   ],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-17-media-advisory",
+   "institution": "Oil Change International",
+   "type": "briefing",
+   "title": "Oil Change International COP31 Media Advisory – November 17, 2026",
+   "date": "2026-11-17",
+   "authors": "",
+   "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-17-2026/",
+   "summary": "Alerta de mídia da Oil Change International: as negociações em Antalya chegaram a um estágio crítico, e o último rascunho da decisão de cobertura é visto ao mesmo tempo como oportunidade de avanço e como risco. Resumo baseado na descrição da listagem.",
+   "summary_i18n": {
+    "en": "Oil Change International's media advisory says negotiations in Antalya have reached a critical stage and that the latest draft of the cover decision is seen as both an opportunity for progress and a risk. Summary based on the listing description.",
+    "es": "El aviso a los medios de Oil Change International indica que las negociaciones en Antalya han llegado a una fase crítica y que el último proyecto de decisión de cobertura se considera a la vez una oportunidad de avance y un riesgo. Resumen basado en la descripción del listado.",
+    "fr": "L'avis aux médias d'Oil Change International indique que les négociations à Antalya ont atteint un stade critique et que le dernier projet de décision de couverture est vu à la fois comme une occasion de progrès et comme un risque. Résumé fondé sur la description de la liste.",
+    "ru": "В медиа-анонсе Oil Change International говорится, что переговоры в Анталье достигли критической стадии, а последний проект общего решения рассматривается одновременно как возможность прогресса и как риск. Резюме основано на описании в списке публикаций.",
+    "zh": "Oil Change International的媒体通告称,安塔利亚的谈判已进入关键阶段,涵盖性决定的最新草案既被视为取得进展的机会,也被视为风险。摘要依据列表页描述撰写。",
+    "ar": "يفيد التنبيه الإعلامي لـOil Change International بأن المفاوضات في أنطاليا بلغت مرحلة حرجة، وبأن أحدث مسودة للمقرر الجامع تُعدّ فرصة للتقدم وتحذيراً في آن واحد. الملخص مبني على وصف صفحة القائمة."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"the latest draft of the cover decision presents both an opportunity and a warning.\" — Oil Change International"
+   ],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "cse-india-2026-11-17-just-transition-green-industrialization",
+   "institution": "CSE India",
+   "type": "evento",
+   "title": "Just Transition through Green Industrialization: Enabling Conditions for the Global South",
+   "date": "2026-11-17",
+   "authors": "Avantika Goswami (CSE)",
+   "url": "https://www.cseindia.org/unfccc-side-event-at-cop31-africa-policy-research-institute-apri-cse-india-e-energy-transition-institute-tufts-university-13342",
+   "summary": "Evento paralelo da UNFCCC na COP31 (17 nov, 18h30, Sala 2 DALYAN) coorganizado por CSE India, APRI, Tufts University e E+ Energy Transition Institute, com Avantika Goswami (CSE). Discute as condições que permitem ao Sul Global buscar industrialização verde de forma justa. Resumo baseado na listagem da página COP31 do CSE.",
+   "summary_i18n": {
+    "en": "UNFCCC side event at COP31 (17 Nov, 18:30, Side Event Room 2 DALYAN) co-hosted by CSE India, APRI, Tufts University and the E+ Energy Transition Institute, with Avantika Goswami (CSE). It discusses the conditions that let Global South countries pursue green industrialisation fairly. Summary based on the listing on CSE's COP31 page.",
+    "es": "Acto paralelo de la CMNUCC en la COP31 (17 de nov., 18:30, Sala 2 DALYAN) coorganizado por CSE India, APRI, la Universidad de Tufts y el E+ Energy Transition Institute, con Avantika Goswami (CSE). Examina las condiciones que permiten a los países del Sur Global emprender una industrialización verde de forma justa. Resumen basado en el listado de la página de la COP31 del CSE.",
+    "fr": "Événement parallèle de la CCNUCC à la COP31 (17 nov., 18 h 30, salle 2 DALYAN) coorganisé par CSE India, APRI, l'Université Tufts et l'E+ Energy Transition Institute, avec Avantika Goswami (CSE). Il examine les conditions permettant aux pays du Sud de poursuivre une industrialisation verte de manière équitable. Résumé fondé sur la liste de la page COP31 du CSE.",
+    "ru": "Параллельное мероприятие РКИК ООН на COP31 (17 ноября, 18:30, зал 2 DALYAN), организованное CSE India, APRI, Университетом Тафтса и E+ Energy Transition Institute при участии Авантики Госвами (CSE). Обсуждаются условия, позволяющие странам Глобального Юга справедливо проводить зелёную индустриализацию. Резюме основано на списке на странице CSE о COP31.",
+    "zh": "COP31期间的《联合国气候变化框架公约》边会(11月17日18:30,DALYAN 2号边会室),由CSE India、APRI、塔夫茨大学和E+ Energy Transition Institute共同主办,CSE的Avantika Goswami出席。讨论使全球南方国家能够公平推进绿色工业化的条件。摘要依据CSE的COP31页面列表撰写。",
+    "ar": "فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في COP31 (17 نوفمبر، 18:30، قاعة الفعاليات الجانبية 2 DALYAN) تشارك في تنظيمها CSE India وAPRI وجامعة تافتس ومعهد E+ Energy Transition Institute، بمشاركة Avantika Goswami (CSE). وتناقش الشروط التي تمكّن بلدان الجنوب العالمي من السعي إلى التصنيع الأخضر بصورة عادلة. الملخص مبني على قائمة صفحة COP31 لدى CSE."
+   },
+   "tracks": [
+    "Transição justa",
+    "Comércio"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-cseindia-org-page-cop31"
+  },
   {
    "id": "bluesky-carbonbrief.org-20261117-daily-briefing",
    "kind": "post",
@@ -125,6 +342,84 @@
    "first_seen": "2026-11-17T06:20:00-03:00",
    "lang": "en",
    "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
+  },
+  {
+   "id": "climatechangenews-2026-11-16-carbon-markets-article-6",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Countries take up industry push to loosen UN carbon market rules at COP31",
+   "date": "2026-11-16",
+   "authors": "Matteo Civillini",
+   "url": "https://www.climatechangenews.com/2026/11/16/countries-take-up-industry-push-to-loosen-un-carbon-market-rules-at-cop31/",
+   "summary": "Vários países, incluindo membros do LMDC e PMDs, pedem a reavaliação das regras de integridade do Mecanismo de Crédito do Acordo de Paris, ecoando o lobby da indústria. O rascunho de decisão pede ao Órgão de Supervisão que revise o efeito cumulativo das regras conservadoras; ativistas alertam para o risco de enfraquecer a integridade ambiental, e UE, Suíça e Senegal resistem. Relaciona-se ao Artigo 6 e aos mercados de carbono.",
+   "summary_i18n": {
+    "en": "Several countries, including some LMDC members and LDCs, are calling for the integrity rules of the Paris Agreement Crediting Mechanism to be reassessed, echoing industry lobbying. The draft decision asks the Supervisory Body to review the cumulative effect of conservative rules; campaigners warn this could weaken environmental integrity, while the EU, Switzerland and Senegal push back. It bears on Article 6 and carbon markets.",
+    "es": "Varios países, incluidos algunos miembros del LMDC y países menos adelantados, piden que se reevalúen las normas de integridad del Mecanismo de Acreditación del Acuerdo de París, en eco del cabildeo de la industria. El proyecto de decisión pide al Órgano de Supervisión que examine el efecto acumulativo de las normas conservadoras; los activistas advierten de que ello podría debilitar la integridad ambiental, mientras la UE, Suiza y el Senegal se oponen. Atañe al artículo 6 y a los mercados de carbono.",
+    "fr": "Plusieurs pays, dont certains membres du LMDC et des PMA, demandent que les règles d'intégrité du Mécanisme de crédit de l'Accord de Paris soient réévaluées, en écho au lobbying de l'industrie. Le projet de décision demande à l'Organe de supervision d'examiner l'effet cumulé des règles conservatrices ; les militants préviennent que cela pourrait affaiblir l'intégrité environnementale, tandis que l'UE, la Suisse et le Sénégal s'y opposent. Cela touche à l'article 6 et aux marchés du carbone.",
+    "ru": "Ряд стран, включая некоторых членов LMDC и НРС, призывают пересмотреть правила обеспечения целостности Механизма кредитования Парижского соглашения, повторяя позицию отраслевого лобби. Проект решения просит Наблюдательный орган рассмотреть совокупное воздействие консервативных правил; активисты предупреждают, что это может ослабить экологическую целостность, а ЕС, Швейцария и Сенегал возражают. Тема относится к статье 6 и углеродным рынкам.",
+    "zh": "包括部分LMDC成员和最不发达国家在内的多个国家呼吁重新评估《巴黎协定》减排信用机制的完整性规则,与行业游说的主张如出一辙。决定草案请监督机构审查保守规则的累积影响;活动人士警告此举可能削弱环境完整性,欧盟、瑞士和塞内加尔则表示反对。该议题涉及第6条和碳市场。",
+    "ar": "تدعو عدة دول، من بينها بعض أعضاء مجموعة LMDC وأقل البلدان نمواً، إلى إعادة تقييم قواعد النزاهة الخاصة بآلية الاعتمادات في اتفاق باريس، بما يتماشى مع ضغوط قطاع الصناعة. ويطلب مشروع المقرر من هيئة الإشراف مراجعة الأثر التراكمي للقواعد المتحفظة؛ ويحذر ناشطون من أن ذلك قد يضعف النزاهة البيئية، بينما يعارض الاتحاد الأوروبي وسويسرا والسنغال. ويتصل الأمر بالمادة 6 وأسواق الكربون."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climatechangenews-2026-11-16-adow-electricity-goal",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "COP31's electricity goal must be about more than AI and luxuries for the rich",
+   "date": "2026-11-16",
+   "authors": "Mohamed Adow",
+   "url": "https://www.climatechangenews.com/2026/11/16/cop31s-electricity-goal-must-be-about-more-than-ai-and-luxuries-for-the-rich/",
+   "summary": "O diretor do Power Shift Africa argumenta que o compromisso de eletrificação deve priorizar energia limpa e acessível para as centenas de milhões de pessoas sem eletricidade, e não girar sobretudo em torno de IA e consumidores ricos. Resumo baseado na chamada do artigo; liga-se às trilhas de eletrificação e transição justa.",
+   "summary_i18n": {
+    "en": "The director of Power Shift Africa argues that the electrification pledge should prioritise clean, affordable power for the hundreds of millions of people who still lack electricity, rather than focusing mainly on AI and wealthy consumers. Summary based on the article's standfirst; it bears on the electrification and just transition tracks.",
+    "es": "El director de Power Shift Africa sostiene que el compromiso de electrificación debe priorizar una energía limpia y asequible para los cientos de millones de personas que aún carecen de electricidad, en lugar de centrarse sobre todo en la IA y los consumidores ricos. Resumen basado en el sumario del artículo; atañe a las vías de electrificación y transición justa.",
+    "fr": "Le directeur de Power Shift Africa soutient que l'engagement d'électrification doit donner la priorité à une énergie propre et abordable pour les centaines de millions de personnes qui n'ont toujours pas d'électricité, plutôt que de se concentrer surtout sur l'IA et les consommateurs aisés. Résumé fondé sur le chapeau de l'article ; il concerne les volets électrification et transition juste.",
+    "ru": "Директор Power Shift Africa утверждает, что обязательство по электрификации должно отдавать приоритет чистой и доступной энергии для сотен миллионов людей, до сих пор лишённых электричества, а не сосредоточиваться главным образом на ИИ и состоятельных потребителях. Резюме основано на анонсе статьи; относится к направлениям электрификации и справедливого перехода.",
+    "zh": "Power Shift Africa主任认为,电气化承诺应优先为仍无电可用的数亿人提供清洁、可负担的电力,而不是主要围绕人工智能和富裕消费者。摘要依据文章导语撰写;涉及电气化与公正转型议题。",
+    "ar": "يرى مدير Power Shift Africa أن تعهد الكهربة ينبغي أن يعطي الأولوية للطاقة النظيفة وبأسعار معقولة لمئات الملايين من الناس الذين ما زالوا بلا كهرباء، بدلاً من التركيز أساساً على الذكاء الاصطناعي والمستهلكين الأثرياء. الملخص مبني على مقدمة المقال؛ ويتصل بمساري الكهربة والانتقال العادل."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Transição justa"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "wri-2026-11-16-energy-access-connections",
+   "institution": "WRI",
+   "type": "blog",
+   "title": "How Can Energy Improve Lives? Why Counting Connections Isn't Enough",
+   "date": "2026-11-16",
+   "authors": "",
+   "url": "https://www.wri.org/insights/how-can-energy-improve-lives-why-counting-connections-isnt-enough",
+   "summary": "O WRI argumenta que o acesso à energia é base do desenvolvimento, mas apenas um primeiro passo: o monitoramento global deveria ir além de contar ligações e incluir acessibilidade de preço, confiabilidade, adequação e resultados de desenvolvimento. Cita o exemplo de uma clínica que não funciona de forma confiável com quedas frequentes de energia. Relaciona-se ao debate sobre eletrificação na COP31.",
+   "summary_i18n": {
+    "en": "WRI argues that energy access is a foundation for development but only a first step, and that global tracking should go beyond counting connections to include affordability, reliability, adequacy and development outcomes. It gives the example of a clinic that cannot operate reliably during frequent power cuts. It bears on the COP31 electrification debate.",
+    "es": "El WRI sostiene que el acceso a la energía es una base para el desarrollo, pero solo un primer paso, y que el seguimiento mundial debería ir más allá de contar conexiones e incluir asequibilidad, fiabilidad, suficiencia y resultados de desarrollo. Pone el ejemplo de una clínica que no puede funcionar de forma fiable con cortes de energía frecuentes. Atañe al debate sobre electrificación en la COP31.",
+    "fr": "Le WRI soutient que l'accès à l'énergie est une base du développement mais seulement une première étape, et que le suivi mondial devrait aller au-delà du décompte des raccordements pour inclure l'abordabilité, la fiabilité, l'adéquation et les résultats en matière de développement. Il cite l'exemple d'une clinique qui ne peut pas fonctionner de manière fiable en cas de coupures fréquentes. Cela touche au débat sur l'électrification à la COP31.",
+    "ru": "WRI утверждает, что доступ к энергии — основа развития, но лишь первый шаг, и глобальный мониторинг должен выходить за рамки подсчёта подключений и включать доступность по цене, надёжность, достаточность и результаты развития. В качестве примера приводится клиника, которая не может надёжно работать при частых отключениях электроэнергии. Тема связана с дискуссией об электрификации на COP31.",
+    "zh": "WRI认为,能源可及是发展的基础,但只是第一步,全球监测不应只统计接入数量,还应纳入可负担性、可靠性、充足性和发展成效。文中以一家因频繁停电而无法可靠运转的诊所为例。该内容与COP31的电气化讨论相关。",
+    "ar": "يرى WRI أن الحصول على الطاقة أساس للتنمية لكنه خطوة أولى فقط، وأن الرصد العالمي ينبغي ألا يقتصر على عدّ التوصيلات بل يشمل القدرة على تحمل التكلفة والموثوقية والكفاية والنتائج الإنمائية. ويضرب مثالاً بعيادة لا تستطيع العمل بشكل موثوق في ظل الانقطاعات المتكررة للكهرباء. ويتصل ذلك بنقاش الكهربة في COP31."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Transição justa"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T12:17:18-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
   },
   {
    "id": "bluesky-enb.iisd.org-20261116-negociadores-divididos",
@@ -23682,8 +23977,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T11:43:23-03:00",
-  "label": "17 nov 2026, 11:43 (Brasília)",
+  "timestamp": "2026-11-17T12:43:33-03:00",
+  "label": "17 nov 2026, 12:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
