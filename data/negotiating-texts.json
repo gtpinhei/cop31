@@ -143,9 +143,15 @@
       "change": "new",
       "document_id": "10000343",
       "event_id": "20fbe15878525f339b186e4a"
+    },
+    {
+      "at": "2026-11-17T08:48:30.848731Z",
+      "change": "new",
+      "document_id": "10000344",
+      "event_id": "82e7f707918f2671e625ca02"
     }
   ],
-  "checked_at": "2026-11-17T08:30:50.271900Z",
+  "checked_at": "2026-11-17T08:48:30.848731Z",
   "degraded": false,
   "documents": [
     {
@@ -397,6 +403,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000331/metadata",
       "status": "draft",
       "title": "Matters relating to the Adaptation Fund",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 2(f)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "a52cf97493ee6db94ca465797bfdd85d459bee596ed6ad3133f3b9d7c7643b8e",
+          "url": "https://docs.unfccc.int/documents/10000344/files/en/NAPs_DT_SBI652.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i2f.1",
+      "id": "10000344",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-17T08:47:20.526018Z",
+      "published_at": "2026-11-17T08:20:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000344/metadata",
+      "status": "draft",
+      "title": "National adaptation plans",
       "topic": "Adaptation",
       "withdrawn": false
     },
@@ -2532,9 +2560,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 24,
-  "last_attempt": "2026-11-17T08:30:50.271900Z",
-  "last_success": "2026-11-17T08:30:50.271900Z",
+  "history_count": 25,
+  "last_attempt": "2026-11-17T08:48:30.848731Z",
+  "last_success": "2026-11-17T08:48:30.848731Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
