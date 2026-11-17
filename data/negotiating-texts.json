@@ -131,9 +131,21 @@
       "change": "new",
       "document_id": "10000342",
       "event_id": "a1683fc6c9fa89222451e587"
+    },
+    {
+      "at": "2026-11-17T06:06:45.601401Z",
+      "change": "withdrawn",
+      "document_id": "10000313",
+      "event_id": "f0bdcc4ddc70d32f036b913e"
+    },
+    {
+      "at": "2026-11-17T06:06:45.601401Z",
+      "change": "new",
+      "document_id": "10000343",
+      "event_id": "20fbe15878525f339b186e4a"
     }
   ],
-  "checked_at": "2026-11-17T05:57:10.920154Z",
+  "checked_at": "2026-11-17T06:06:45.601401Z",
   "degraded": false,
   "documents": [
     {
@@ -1907,7 +1919,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "1ea5f30592e40daff416ec0fd0764274ba5639b621b4115270ce3835f314df52",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000313/files/en/PRLTGG_DT_cp311.pdf"
         }
       ],
@@ -1915,14 +1927,14 @@
       "document_code": "DT.COP31.i13.2",
       "id": "10000313",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-16T07:45:47.571667Z",
+      "modified_at": "2026-11-17T06:05:24.465484Z",
       "published_at": "2026-11-14T10:30:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000313/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 11",
@@ -2454,6 +2466,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 13",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9f61d9b6220d651f07a8e59e05a232072dd955cf5a03847b14ac50c587da7bf0",
+          "url": "https://docs.unfccc.int/documents/10000343/files/en/PRLTGG_DT_cp312.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i13.3",
+      "id": "10000343",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-17T06:03:08.017615Z",
+      "published_at": "2026-11-17T06:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000343/metadata",
+      "status": "draft",
+      "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2498,9 +2532,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 22,
-  "last_attempt": "2026-11-17T05:57:10.920154Z",
-  "last_success": "2026-11-17T05:57:10.920154Z",
+  "history_count": 24,
+  "last_attempt": "2026-11-17T06:06:45.601401Z",
+  "last_success": "2026-11-17T06:06:45.601401Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
