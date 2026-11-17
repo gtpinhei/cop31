@@ -199,6 +199,26 @@ class Sources(unittest.TestCase):
         self.assertGreaterEqual(t["all"]["never"], 1)       # web sources never read by an agent
         self.assertIn("Cobertura nas últimas 24 h", self.run_tool("report"))
 
+    def test_report_uses_latest_valid_failure_note_not_cached_streak(self):
+        self.seed()
+        import datetime as dt
+        reg = self.reg()
+        s = next(s for s in reg["sources"] if s["id"] == "x-unfccc")
+        at = dt.datetime.now(dt.timezone.utc)
+        stamp = lambda hours: (at + dt.timedelta(hours=hours)).isoformat()
+        s["health"].update(last_outcome="success", consecutive_failures=0, history=[
+            {"at": stamp(-1), "agent": "social", "outcome": "blocked", "note": "CURRENT_BLOCK_NOTE"},
+            {"at": stamp(-4), "agent": "social", "outcome": "success", "note": "OLD_NOTE"},
+            {"at": stamp(4), "agent": "social", "outcome": "success", "note": "FUTURE_NOTE"}])
+        (self.tmp / "private" / "sources" / "registry.json").write_text(json.dumps(reg))
+        report = self.run_tool("report")
+        line = next(line for line in report.splitlines() if "CURRENT_BLOCK_NOTE" in line)
+        self.assertIn("blocked", line)
+        self.assertNotIn("×0", line)
+        self.assertNotIn("OLD_NOTE", report)
+        self.assertNotIn("FUTURE_NOTE", report)
+        self.assertIn("registros inválidos/futuros ignorados 1", report)
+
     def test_distinct_from_clears_near_duplicate_warning(self):
         self.seed()
         p, _ = self.batch("x:UNFCCCEvents | institution=UNFCCC | category=unfccc")

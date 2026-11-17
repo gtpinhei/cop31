@@ -652,7 +652,8 @@ DUE_H = {"every_3h": 2.75, "daily": 23, "weekly": 167}   # a little under the ca
 
 
 def due_view(s, at=None):
-    out = _due(s)
+    at = at or datetime.datetime.now(datetime.timezone.utc)
+    out = _due(s, at)
     if s["status"] == "active" and not out["last_attempt"] and s["provenance"].get("origin") not in ("legacy-watchlist-social", "legacy-watchlist-web"):
         out["first_collection_pending"] = True
     cad = s["collection"]["cadence"]
@@ -662,12 +663,13 @@ def due_view(s, at=None):
     return out
 
 
-def _due(s):
-    h = s["health"]
-    agent_runs = [x for x in h["history"] if x.get("agent") != "probe" and x.get("outcome") != "skipped"]
+def _due(s, at=None):
+    at = at or datetime.datetime.now(datetime.timezone.utc)
+    agent_runs, invalid_runs = _agent_runs(s, at)
     last = agent_runs[-1] if agent_runs else {}
     ok = [x for x in agent_runs if x.get("outcome") in ("success", "success_empty")]
-    return {"last_attempt": h.get("last_collected"), "last_success": ok[-1]["at"] if ok else None, "last_outcome": last.get("outcome")}
+    return {"last_attempt": last.get("at"), "last_success": ok[-1]["at"] if ok else None,
+            "last_outcome": last.get("outcome"), "invalid_runs": invalid_runs}
 
 
 def views(reg):
@@ -732,6 +734,19 @@ def _ts(x):
         return None
 
 
+def _agent_runs(s, at):
+    """Chronological usable collection evidence; never registration probes.
+
+    Invalid/future reports remain in the private registry for diagnosis but do
+    not suppress due collection or manufacture health. Same-time failure wins.
+    """
+    reported = [x for x in s["health"]["history"] if x.get("agent") != "probe" and x.get("outcome") != "skipped"]
+    valid = [(ts, x) for x in reported if (ts := _ts(x.get("at"))) is not None
+             and ts <= at and x.get("outcome") in OUTCOMES]
+    valid.sort(key=lambda pair: (pair[0], pair[1].get("outcome") in ("blocked", "unavailable", "error")))
+    return [x for _, x in valid], len(reported) - len(valid)
+
+
 def window_h(s):
     """Hours within which an agent must have read the source successfully to count as on time for its cadence."""
     cad = s["collection"]["cadence"]
@@ -750,13 +765,13 @@ def coverage(reg, at=None):
     for s in reg["sources"]:
         if s["status"] != "active":
             continue
-        runs = [x for x in s["health"]["history"] if x.get("agent") != "probe" and x.get("outcome") != "skipped"]
+        runs, invalid_runs = _agent_runs(s, at)
         ok = [x for x in runs if x.get("outcome") in ("success", "success_empty")]
         last_ok = _ts(ok[-1]["at"]) if ok else None
         w = window_h(s)
         last = runs[-1].get("outcome") if runs else None
         if not runs:
-            state = "never"
+            state = "unknown" if invalid_runs else "never"
         elif last in ("blocked", "unavailable", "error"):
             state = last
         elif last_ok and (at - last_ok).total_seconds() <= w * 3600:
@@ -764,10 +779,17 @@ def coverage(reg, at=None):
         else:
             state = "overdue"
         recent = [x for x in runs if (_ts(x["at"]) or since) > since]
-        items = sum(int(x.get("new_items") or 0) for x in recent)
+        def item_count(x):
+            v = x.get("new_items")
+            return v if isinstance(v, int) and not isinstance(v, bool) and v >= 0 else 0
+        items = sum(item_count(x) for x in recent)
+        invalid_item_counts = sum(x.get("new_items") is not None and
+                                 not (isinstance(x.get("new_items"), int) and not isinstance(x.get("new_items"), bool)
+                                      and x["new_items"] >= 0) for x in recent)
         covered = bool(last_ok and (at - last_ok).total_seconds() <= max(24, w) * 3600)
         rows.append({"id": s["id"], "platform": s["platform"], "priority": s["priority"], "cadence": s["collection"]["cadence"],
                      "state": state, "covered_24h": covered, "checks_24h": len(recent),
+                     "invalid_runs": invalid_runs, "invalid_item_counts": invalid_item_counts,
                      "ok_checks_24h": sum(1 for x in recent if x.get("outcome") in ("success", "success_empty")),
                      "new_items_24h": items, "last_success": ok[-1]["at"] if ok else None,
                      "last_item_date": s["health"].get("latest_item_date")})
@@ -780,7 +802,9 @@ def coverage(reg, at=None):
         st = Counter(r["state"] for r in rs)
         tot[key] = {"active": len(rs), "covered_24h": sum(r["covered_24h"] for r in rs),
                     "coverage_24h": round(sum(r["covered_24h"] for r in rs) / len(rs), 3), **{k: st.get(k, 0) for k in
-                    ("on_time", "overdue", "never", "blocked", "unavailable", "error")},
+                    ("on_time", "overdue", "never", "unknown", "blocked", "unavailable", "error")},
+                    "invalid_runs": sum(r["invalid_runs"] for r in rs),
+                    "invalid_item_counts": sum(r["invalid_item_counts"] for r in rs),
                     "checks_24h": sum(r["checks_24h"] for r in rs), "ok_checks_24h": sum(r["ok_checks_24h"] for r in rs),
                     "sources_with_new_items_24h": sum(1 for r in rs if r["new_items_24h"]),
                     "new_items_24h": sum(r["new_items_24h"] for r in rs)}
@@ -808,7 +832,8 @@ def report_md(reg):
             L.append(f"- {lab}: {t['covered_24h']}/{t['active']} cobertas ({t['coverage_24h']:.0%}); em dia {t['on_time']}, atrasadas {t['overdue']}, "
                      f"nunca lidas {t['never']}, bloqueadas {t['blocked']}, indisponíveis {t['unavailable']}, erro {t['error']}; "
                      f"leituras {t['ok_checks_24h']}/{t['checks_24h']} com sucesso; itens novos relevantes {t['new_items_24h']} "
-                     f"de {t['sources_with_new_items_24h']} fontes")
+                     f"de {t['sources_with_new_items_24h']} fontes; evidência insuficiente {t['unknown']}; "
+                     f"registros inválidos/futuros ignorados {t['invalid_runs']}; contagens inválidas {t['invalid_item_counts']}")
     L.append("")
     L.append("- por plataforma: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_platform"].items())))
     L.append("- por prioridade: " + ", ".join(f"{k} {v}" for k, v in sorted(c["by_priority"].items())))
@@ -823,9 +848,11 @@ def report_md(reg):
     bad = [s for s in reg["sources"] if s["status"] == "active" and due_view(s)["last_outcome"] in ("blocked", "unavailable", "error")]
     L.append("")
     L.append(f"## Ativas com problema na última tentativa ({len(bad)})")
-    for s in sorted(bad, key=lambda x: -x["health"]["consecutive_failures"]):
-        note = next((x.get("note") for x in reversed(s["health"]["history"]) if x.get("note")), "")
-        L.append(f"- `{s['id']}` {s['institution']}: {s['health']['last_outcome']} ×{s['health']['consecutive_failures']} {note}")
+    for s in sorted(bad, key=lambda x: x["id"]):
+        runs, _ = _agent_runs(s, datetime.datetime.now(datetime.timezone.utc))
+        last = runs[-1]
+        note = last.get("note") or ""
+        L.append(f"- `{s['id']}` {s['institution']}: {last['outcome']} ({last['at']}) {note}")
     cvs = {r["id"]: r for r in coverage(reg)["sources"]}
     st = [s for s in reg["sources"] if s["status"] == "active" and s["priority"] == "A" and cvs[s["id"]]["state"] != "on_time"]
     L.append("")
