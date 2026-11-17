@@ -24005,11 +24005,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T16:48:00-03:00",
-  "label": "17 nov 2026, 16:48 (Brasília)",
+  "timestamp": "2026-11-17T17:43:00-03:00",
+  "label": "17 nov 2026, 17:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 1,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
