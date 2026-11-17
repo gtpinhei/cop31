@@ -344,6 +344,34 @@
    "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
   },
   {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261116-metano-alimentos",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "14:08",
+   "text": "[resumo da fonte] \"Food systems contribute over half of methane emissions.\" Evans notes the draft COP31 text does not discuss cutting emissions from the sector.",
+   "summary": "Simon Evans (Carbon Brief) destaca que os sistemas alimentares respondem por mais da metade das emissões de metano, mas o rascunho do texto da COP31 não trata de reduzir as emissões do setor.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) notes that food systems account for over half of methane emissions, yet the draft COP31 text does not address cutting the sector's emissions.",
+    "es": "Simon Evans (Carbon Brief) señala que los sistemas alimentarios generan más de la mitad de las emisiones de metano, pero el borrador del texto de la COP31 no aborda la reducción de las emisiones del sector.",
+    "fr": "Simon Evans (Carbon Brief) souligne que les systèmes alimentaires représentent plus de la moitié des émissions de méthane, mais que le projet de texte de la COP31 n'aborde pas la réduction des émissions du secteur.",
+    "ru": "Саймон Эванс (Carbon Brief) отмечает, что на продовольственные системы приходится более половины выбросов метана, однако проект текста СОР31 не затрагивает сокращение выбросов в этом секторе.",
+    "zh": "Simon Evans（Carbon Brief）指出，粮食系统占甲烷排放的一半以上，但COP31草案文本并未涉及削减该部门的排放。",
+    "ar": "يشير سايمون إيفانز (Carbon Brief) إلى أن النظم الغذائية تسهم بأكثر من نصف انبعاثات الميثان، بينما لا تتناول مسودة نص COP31 خفض انبعاثات هذا القطاع."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2gzdjzfzk2y",
+   "tracks": [
+    "Mitigação e MWP",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-17T16:48:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
    "id": "climatechangenews-2026-11-16-carbon-markets-article-6",
    "institution": "Climate Home News",
    "type": "notícia",
@@ -23977,11 +24005,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T15:43:12-03:00",
-  "label": "17 nov 2026, 15:43 (Brasília)",
+  "timestamp": "2026-11-17T16:48:00-03:00",
+  "label": "17 nov 2026, 16:48 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
