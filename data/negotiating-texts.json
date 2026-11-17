@@ -163,7 +163,7 @@
       "event_id": "2ab92c9bc15726f24bd4948d"
     }
   ],
-  "checked_at": "2026-11-17T21:47:35.359345Z",
+  "checked_at": "2026-11-17T22:17:20.244296Z",
   "degraded": false,
   "documents": [
     {
@@ -1891,13 +1891,7 @@
     },
     {
       "agenda": "SBI 65 13(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000310/files/en/CTC%20Host_DT_SBI651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Subsidiary Body for Implementation (SBI)",
       "document_code": "DT.SBI65.i13b.2",
       "id": "10000310",
@@ -2426,13 +2420,7 @@
     },
     {
       "agenda": "COP 31 8(e); CMA 8 11(d)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000333/files/en/FRLD_DT_COP311.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.8e_CMA8.11d.2",
       "id": "10000333",
@@ -2728,8 +2716,8 @@
     }
   ],
   "history_count": 27,
-  "last_attempt": "2026-11-17T21:47:35.359345Z",
-  "last_success": "2026-11-17T21:47:35.359345Z",
+  "last_attempt": "2026-11-17T22:17:20.244296Z",
+  "last_success": "2026-11-17T22:17:20.244296Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
