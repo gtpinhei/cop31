@@ -1,0 +1,32 @@
+{
+  "dumpedAt": "2026-11-15T23:00:00Z",
+  "documentMetadataSchemaVersion": 17,
+  "documentMetadata": [
+    {
+      "id": 10000328,
+      "schemaVersion": 17,
+      "title": "Climate finance work programme",
+      "session": {
+        "title": "CMA 8"
+      },
+      "symbol": "DT.CMA8.i11g.1",
+      "documentType": {
+        "title": "draft text"
+      },
+      "version": 1.0,
+      "changed": "2026-11-16T05:01:00Z",
+      "publicationDate": "2026-11-16T05:00:00Z",
+      "attachments": {
+        "en": {
+          "filename": "CFWP_DT_cma8.pdf"
+        }
+      },
+      "agendaItems": [
+        {
+          "sessionId": "CMA 8",
+          "itemNo": "11(g)"
+        }
+      ]
+    }
+  ]
+}

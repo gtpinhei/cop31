@@ -45,7 +45,7 @@ class WireTests(unittest.TestCase):
         f=Fake();f.delta['changedAfter']='2026-11-16T00:00:00Z'
         with self.assertRaisesRegex(ValueError,'coverage gap'):c.run(f,empty(),STAMP)
     def test_bad_schema(self):
-        f=Fake();f.snapshot['documentMetadataSchemaVersion']=18
+        f=Fake();f.snapshot['documentMetadataSchemaVersion']=19
         with self.assertRaises(ValueError):c.run(f,empty(),STAMP)
     def test_snapshot_absence_not_withdrawal(self):
         f=Fake();s,p=c.run(f,empty(),STAMP)

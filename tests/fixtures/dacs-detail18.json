@@ -1,0 +1,62 @@
+{
+  "id": 10000325,
+  "title": "Enhancing climate technology development and transfer through the Technology Mechanism. Draft decision -/CP.31. Recommendation of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation",
+  "bodies": [
+    {
+      "title": "Subsidiary Body for Implementation (SBI)",
+      "spTermId": "3d0976b2-c8bc-40ac-9a53-09b0260e1ce9"
+    },
+    {
+      "title": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "spTermId": "1180ba09-8201-4eaa-b845-b5097c22079f"
+    }
+  ],
+  "symbol": "FCCC/SB/2026/L.9",
+  "session": {
+    "title": "SBI 65",
+    "spTermId": "de5be056-bc7d-48b7-9de1-74ee82f53796"
+  },
+  "version": 1.0,
+  "documentType": {
+    "title": "Draft decisions"
+  },
+  "schemaVersion": 18,
+  "attachments": {
+    "ar": {
+      "filename": "sb2026_L09A.pdf"
+    },
+    "en": {
+      "filename": "sb2026_L09E.pdf"
+    },
+    "es": {
+      "filename": "sb2026_L09S.pdf"
+    },
+    "fr": {
+      "filename": "sb2026_L09F.pdf"
+    },
+    "ru": {
+      "filename": "sb2026_L09R.pdf"
+    },
+    "zh": {
+      "filename": "sb2026_L09C.pdf"
+    }
+  },
+  "publicationDate": "2026-11-14T18:40:00+00:00",
+  "nextDocumentId": 10000326,
+  "prevDocumentId": 10000324,
+  "changed": "2026-11-16T06:00:00Z",
+  "agendaItems": [
+    {
+      "sessionId": "SBSTA 65",
+      "itemNo": "10",
+      "conclusions": "<div class=\"ExternalClassFF4377F86B31415EAC059BF2238887F1\"><br></div>",
+      "conclusionLabel": "Conclusions and recommendation to COP 31 and CMA 8 adopted as presented."
+    },
+    {
+      "sessionId": "SBI 65",
+      "itemNo": "13(a)",
+      "conclusions": "<div class=\"ExternalClass1BBBA5E2332444048386C74B840DBF4B\"><div style=\"font-family&#58;Calibri, Arial, Helvetica, sans-serif;font-size&#58;11pt;color&#58;rgb(50, 49, 48);background-color&#58;transparent;\"><span style=\"color&#58;rgb(255, 255, 255);\">.</span></div></div>",
+      "conclusionLabel": "Conclusions and recommendation to COP 31 and CMA 8 adopted as presented."
+    }
+  ]
+}

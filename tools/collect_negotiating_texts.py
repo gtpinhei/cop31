@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DACS schema-17 wire adapter. Private state must remain outside the public tree.
+"""DACS schema-17/18 wire adapter. Private state must remain outside the public tree.
 Full dump + explicit changed/today detail overlay, no disappearance withdrawals.
 HTTP failures never advance last_success. Bootstrap creates no historical alerts.
 """
@@ -21,6 +21,12 @@ from dacs_texts import apply, atomic, iso, load, official, normalize
 BASE = 'https://docs.unfccc.int/documents'
 SESSIONS = {'COP 31', 'CMA 8', 'CMP 21', 'SBI 65', 'SBSTA 65'}
 MAX_BYTES = 40 * 1024 * 1024
+# Schema 18 retains the consumed fields; new document links and agenda
+# conclusions are not projected or interpreted as document status.
+SUPPORTED_METADATA_SCHEMAS = frozenset({17, 18})
+
+def supported_schema(value):
+    return type(value) is int and value in SUPPORTED_METADATA_SCHEMAS
 
 class SafeRedirect(HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
@@ -64,9 +70,30 @@ def title(value):
 def relevant(row):
     return title(row.get('session')) in SESSIONS or any(x.get('sessionId') in SESSIONS for x in row.get('agendaItems', []))
 
-def normalize_wire(row):
-    if row.get('schemaVersion') != 17:
+def optional_timestamp(value, name):
+    if value is not None and iso(value) is None:
+        raise ValueError(f'invalid DACS {name}')
+    return value
+
+def is_withdrawn(value):
+    # DACS uses a withdrawal timestamp; explicit booleans are also unambiguous.
+    # Never interpret arbitrary strings (notably "false") by Python truthiness.
+    if value is None or value is False:
+        return False
+    if value is True:
+        return True
+    optional_timestamp(value, 'unpublished')
+    return True
+
+def validate_wire(row):
+    if not isinstance(row, dict) or not supported_schema(row.get('schemaVersion')):
         raise ValueError('unsupported DACS metadata schema')
+    optional_timestamp(row.get('publicationDate'), 'publicationDate')
+    optional_timestamp(row.get('changed'), 'changed')
+    is_withdrawn(row.get('unpublished'))
+
+def normalize_wire(row):
+    validate_wire(row)
     id_ = did(row.get('id'))
     if not isinstance(row.get('title'), str) or not row['title'].strip():
         raise ValueError('missing title')
@@ -83,7 +110,7 @@ def normalize_wire(row):
         files.append({'language':lang,'url':f'{BASE}/{id_}/files/{lang}/{quote(filename, safe="")}','sha256':None})
     kind = title(row.get('documentType')).lower()
     status = {'draft text':'draft','informal note':'informal'}.get(kind, 'unknown')
-    withdrawn = bool(row.get('unpublished'))
+    withdrawn = is_withdrawn(row.get('unpublished'))
     return {'id':id_, 'title':row['title'], 'body':'; '.join(title(b) for b in row.get('bodies', [])),
             'session':title(row.get('session')), 'agenda':'; '.join(f"{a.get('sessionId','')} {a.get('itemNo','')}".strip() for a in row.get('agendaItems', [])),
             'document_code':row.get('symbol',''), 'published_at':row.get('publicationDate'),
@@ -93,7 +120,7 @@ def normalize_wire(row):
 def collect(transport, state, stamp, hash_files=True):
     snapshot = transport.json(BASE + '/metadata/all')
     delta = transport.json(BASE + '/metadata/changed/today')
-    if snapshot.get('documentMetadataSchemaVersion') != 17 or not isinstance(snapshot.get('documentMetadata'), list):
+    if not supported_schema(snapshot.get('documentMetadataSchemaVersion')) or not isinstance(snapshot.get('documentMetadata'), list):
         raise ValueError('unrecognized snapshot schema')
     dumped = iso(snapshot.get('dumpedAt'))
     since = iso(delta.get('changedAfter'))
@@ -105,6 +132,7 @@ def collect(transport, state, stamp, hash_files=True):
         raise ValueError('future source timestamp')
     rows = {}
     for row in snapshot['documentMetadata']:
+        validate_wire(row)
         if relevant(row):
             key = did(row.get('id'))
             if key in rows:
@@ -112,13 +140,15 @@ def collect(transport, state, stamp, hash_files=True):
             rows[key] = normalize_wire(row)
     for change in delta['documents']:
         key = did(change.get('id'))
-        if change.get('unpublished'):
+        optional_timestamp(change.get('changed'), 'changed')
+        if is_withdrawn(change.get('unpublished')):
             old = rows.get(key) or state.get('documents', {}).get(key)
             if old:
                 rows[key] = dict(old, withdrawn=True, status='withdrawn', modified_at=change.get('changed'))
             # Unknown withdrawn items have no safe title/session; never invent them.
             continue
         detail = transport.json(f'{BASE}/{key}/metadata')
+        validate_wire(detail)
         if did(detail.get('id')) != key:
             raise ValueError('detail id mismatch')
         if relevant(detail):
