@@ -149,9 +149,21 @@
       "change": "withdrawn",
       "document_id": "10000292",
       "event_id": "89dbb836375dc69fab988d9d"
+    },
+    {
+      "at": "2026-11-17T19:37:00.075138Z",
+      "change": "withdrawn",
+      "document_id": "10000333",
+      "event_id": "e50de4971f49bf3850139bc1"
+    },
+    {
+      "at": "2026-11-17T19:37:00.075138Z",
+      "change": "new",
+      "document_id": "10000346",
+      "event_id": "415f8c2f312594514928e7d0"
     }
   ],
-  "checked_at": "2026-11-17T19:16:59.189090Z",
+  "checked_at": "2026-11-17T19:37:00.075138Z",
   "degraded": false,
   "documents": [
     {
@@ -2417,7 +2429,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "81e1c4a36989ef2374579dceaa78762031fd5104f127c3833b8564c456718de3",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000333/files/en/FRLD_DT_COP311.pdf"
         }
       ],
@@ -2425,14 +2437,14 @@
       "document_code": "DT.COP31.8e_CMA8.11d.2",
       "id": "10000333",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-16T12:20:45.170526Z",
+      "modified_at": "2026-11-17T19:34:31.644796Z",
       "published_at": "2026-11-16T12:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000333/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
@@ -2627,6 +2639,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 8(e); CMA 8 11(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9505232079df4e98ca57ac8013621502028b40b669ba103da54a53a3f577aee9",
+          "url": "https://docs.unfccc.int/documents/10000346/files/en/FRLD_DT_COP312.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.8e_CMA8.11d.3",
+      "id": "10000346",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-17T19:31:02.839674Z",
+      "published_at": "2026-11-17T19:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000346/metadata",
+      "status": "draft",
+      "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2671,9 +2705,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 25,
-  "last_attempt": "2026-11-17T19:16:59.189090Z",
-  "last_success": "2026-11-17T19:16:59.189090Z",
+  "history_count": 27,
+  "last_attempt": "2026-11-17T19:37:00.075138Z",
+  "last_success": "2026-11-17T19:37:00.075138Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
