@@ -178,5 +178,13 @@ const setLang = async (b, l) => { const s = b.d.getElementById("langSel"); s.val
   assert(/\.ti\{[^}]*min-width:0/.test(css), "cards shrink on narrow screens");
 }
 
+// Direct canonical URLs must not bypass publication approval.
+for (const change of [{status:"draft"},{approved_by:""},{approved_at:"invalid"},{id:"mismatched-article"}]) {
+  const b=boot({today:{schema:1,entries:[]},articles:{"2099-01-01-test-readout":article(change)}});
+  await sleep(80); await go(b.w,"hoje/leitura/2099-01-01-test-readout");
+  assert(!b.d.getElementById("todayArticle").textContent.includes("Linha fina"), "direct article route rejects "+JSON.stringify(change));
+  b.w.close();
+}
+
 console.log(failed ? `${failed} CHECK(S) FAILED` : "ALL OK");
 process.exit(failed ? 1 : 0);

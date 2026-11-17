@@ -1894,6 +1894,7 @@ a:hover{text-decoration-color:var(--un)}
       });
       h += srcLine(a.sources) + corrLines(a.corrections);
       artBox.innerHTML = h;
+      document.dispatchEvent(new CustomEvent("cop31:article", {detail:{article:a, language:LANG, preview:PREVIEW}}));
       artBox.setAttribute("lang", t || LANG === "pt" ? document.documentElement.lang : "pt-BR");
     }
     function loadArticle(id){
@@ -1901,7 +1902,7 @@ a:hover{text-decoration-color:var(--un)}
       var u = "data/articles/" + id + ".json";
       get(u).then(function(a){ return a; }, function(){
         return PREVIEW ? get("__private__/articles/" + id + ".json").then(function(x){ return x && x.blocks ? x : null; }, function(){ return null; }) : null;
-      }).then(function(a){ ARTS[id] = a && Array.isArray(a.blocks) ? a : null; render(); });
+      }).then(function(a){ ARTS[id] = a && a.id === id && Array.isArray(a.blocks) && (PREVIEW || (a.status === "published" && typeof a.approved_by === "string" && a.approved_by.trim() && typeof a.approved_at === "string" && Number.isFinite(Date.parse(a.approved_at)))) ? a : null; render(); });
     }
     function render(){
       if (!loaded) return;

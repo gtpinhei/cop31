@@ -8,13 +8,15 @@ if(out===root||root.startsWith(out+path.sep))throw Error('Invalid output');
 cp.execFileSync('python3',['-I',path.join(root,'tools/check_public.py')],{cwd:root,stdio:'inherit'});
 cp.execFileSync('python3',['-I',path.join(root,'tools/validate_feed.py'),'-q'],{cwd:root,stdio:'inherit'});
 fs.mkdirSync(out,{recursive:true});
-for(const name of ['style.css','app.js','canonical.js','migration.js','retention.js','document-health.js','positions.json','documents.json',...['en','pt','es','fr','ru','zh','ar'].map(l=>'explore-'+l+'.json')])fs.copyFileSync(path.join(src,name),path.join(out,name));
+for(const name of ['style.css','app.js','canonical.js','migration.js','retention.js','analysis-core.js','analysis.js','analysis-classic.js','document-health.js','positions.json','documents.json',...['en','pt','es','fr','ru','zh','ar'].map(l=>'explore-'+l+'.json')])fs.copyFileSync(path.join(src,name),path.join(out,name));
 let html=fs.readFileSync(path.join(src,'live-preview.html'),'utf8');fs.writeFileSync(path.join(out,'index.html'),html);
-fs.copyFileSync(path.join(root,'index.html'),path.join(out,'classic.html'));
+let classic=fs.readFileSync(path.join(root,'index.html'),'utf8');
+classic=classic.replace('<script>', '<script src="analysis-core.js"></script><script src="analysis-classic.js"></script><script>');
+fs.writeFileSync(path.join(out,'classic.html'),classic);
 cp.execFileSync(process.execPath,[path.join(src,'build-migration.cjs')],{cwd:root,env:{...process.env,COP31_REFERENCE_SOURCE:path.join(root,'index.html'),COP31_REFERENCE_OUTPUT:out},stdio:'inherit'});
-fs.writeFileSync(path.join(out,'live-config.js'),'window.COP31_DATA={briefing:"data/briefing.json",pulse:"data/feed.json",feed:"data/feed.json",today:"data/today.json"};\nwindow.COP31_CLASSIC="classic.html";\n');
+fs.writeFileSync(path.join(out,'live-config.js'),'window.COP31_DATA={briefing:"data/briefing.json",pulse:"data/feed.json",feed:"data/feed.json",today:"data/today.json",analysis:"data/analysis.json"};\nwindow.COP31_CLASSIC="classic.html";\n');
 if(release)fs.appendFileSync(path.join(out,'live-config.js'),'window.COP31_RELEASE=true;\n');
-fs.mkdirSync(path.join(out,'data'));for(const f of ['feed.json','briefing.json','today.json','pulse.json','newsletter.json'])fs.copyFileSync(path.join(root,'data',f),path.join(out,'data',f));
+fs.mkdirSync(path.join(out,'data'));for(const f of ['feed.json','briefing.json','today.json','analysis.json','pulse.json','newsletter.json'])fs.copyFileSync(path.join(root,'data',f),path.join(out,'data',f));
 // Optional dedicated PUBLIC projection. Reject private checkpoint/raw metadata shapes.
 const docInput=positions[1]||path.join(root,'data/negotiating-texts.json');
 if(fs.existsSync(docInput)){
@@ -32,11 +34,13 @@ for(const f of ['CNAME','LICENSE'])if(fs.existsSync(path.join(root,f)))fs.copyFi
 const sha=f=>crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex');
 // Returning readers must not mix a new HTML shell with cached pre-release code.
 // Content hashes retain browser caching when an asset is unchanged.
-html=html.replace(/(src|href)="([^"?#]+\.(?:js|css))"/g,(all,attribute,file)=>{
+const fingerprint=markup=>markup.replace(/(src|href)="([^"?#]+\.(?:js|css))"/g,(all,attribute,file)=>{
  const asset=path.join(out,file);
  if(!fs.existsSync(asset))throw Error('Missing release asset: '+file);
  return `${attribute}="${file}?v=${sha(asset).slice(0,16)}"`;
 });
+html=fingerprint(html);classic=fingerprint(classic);
 fs.writeFileSync(path.join(out,'index.html'),html);
+fs.writeFileSync(path.join(out,'classic.html'),classic);
 fs.writeFileSync(path.join(out,'build-manifest.json'),JSON.stringify({source_commit:cp.execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),source_tree_dirty:!!cp.execFileSync('git',['status','--porcelain','--untracked-files=no'],{cwd:root,encoding:'utf8'}).trim(),built_at:new Date().toISOString(),classic_sha256:sha(path.join(out,'classic.html')),feed_sha256:sha(path.join(out,'data/feed.json')),document_mode:fs.existsSync(docInput)?'public DACS projection':'saved catalog; collector not connected',scheduler_status:'not certified by build',artifact_mode:release?'release':'preview',deployment_status:'not asserted by build',workflow_run:process.env.GITHUB_RUN_ID||null},null,2));
 console.log('Staged (not deployed): '+out);
