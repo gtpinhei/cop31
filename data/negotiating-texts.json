@@ -109,7 +109,7 @@
       "event_id": "44d8c297e9000371cec71fb9"
     }
   ],
-  "checked_at": "2026-11-17T04:37:09.226212Z",
+  "checked_at": "2026-11-17T04:47:14.523492Z",
   "degraded": false,
   "documents": [
     {
@@ -2376,8 +2376,8 @@
       "document_code": "DT.CMA8.i18.1",
       "id": "10000340",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-17T04:33:37.117626Z",
-      "published_at": "2026-11-18T04:30:00Z",
+      "modified_at": "2026-11-17T04:46:58.869184Z",
+      "published_at": "2026-11-17T02:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000340/metadata",
       "status": "draft",
@@ -2431,8 +2431,8 @@
     }
   ],
   "history_count": 18,
-  "last_attempt": "2026-11-17T04:37:09.226212Z",
-  "last_success": "2026-11-17T04:37:09.226212Z",
+  "last_attempt": "2026-11-17T04:47:14.523492Z",
+  "last_success": "2026-11-17T04:47:14.523492Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
