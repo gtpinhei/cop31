@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-17T00:14:50-03:00",
+ "generated_at": "2026-11-17T06:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-17T00:14:50-03:00",
-  "label": "17 nov 2026, 00:14 (Brasília)",
-  "sites_checked": 59,
-  "blocked": 18,
-  "new_items": 4,
-  "fetches": "59 de 60",
+  "timestamp": "2026-11-17T06:20:00-03:00",
+  "label": "17 nov 2026, 06:20 (Brasília)",
+  "sites_checked": 57,
+  "blocked": 16,
+  "new_items": 5,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -18,16 +18,14 @@
    "web-caneurope-org-news",
    "web-ituc-csi-org-climate-justice",
    "web-wwf-panda-org-wwf-news",
-   "web-christianaid-org-uk-news",
    "web-foei-org-news",
-   "web-institutotalanoa-org-publicacoes",
-   "web-politicaporinteiro-org-en",
-   "web-transforma-global",
-   "web-icccad-net-news",
-   "web-cseindia-org-page-cop31",
+   "web-climaesociedade-org-noticias",
    "web-wemeanbusinesscoalition-org-news",
-   "web-cvfv20-org-communiques",
-   "web-odi-org-en-insights"
+   "web-eurodad-org-news",
+   "web-carbon-pulse-com-category-international",
+   "web-odi-org-en-insights",
+   "web-twn-my-title2-climate-climate-updates-htm",
+   "web-ember-energy-org-latest-insights"
   ]
  },
  "tracks": [
@@ -48,6 +46,172 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "actionaid-2026-11-17-electrification-draft",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "‘Dangerously Co-opted’: ActionAid blasts COP31’s electrification draft for keeping fossil fuels in the mix.",
+   "date": "2026-11-17",
+   "authors": "ActionAid",
+   "url": "https://actionaid.org/news/2026/dangerously-co-opted-actionaid-blasts-cop31s-electrification-draft-keeping-fossil-fuels",
+   "summary": "A ActionAid critica o rascunho de eletrificação da COP31, que considera \"dangerously co-opted\" por manter os combustíveis fósseis na mistura energética. A reação se liga às trilhas de eletrificação e de TAFF e fósseis, em meio à disputa sobre a decisão de cobertura. Resumo baseado no título e nos metadados da listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "ActionAid criticises the COP31 electrification draft, which it considers \"dangerously co-opted\" for keeping fossil fuels in the energy mix. The reaction bears on the electrification and TAFF and fossil fuels tracks, amid the dispute over the cover decision. Summary based on the title and listing metadata; the body was not read.",
+    "es": "ActionAid critica el borrador de electrificación de la COP31, que considera \"dangerously co-opted\" por mantener los combustibles fósiles en la matriz energética. La reacción se vincula con las vías de electrificación y de TAFF y combustibles fósiles, en medio de la disputa sobre la decisión de cobertura. Resumen basado en el título y los metadatos del listado; no se leyó el cuerpo.",
+    "fr": "ActionAid critique le projet sur l'électrification de la COP31, qu'elle juge \"dangerously co-opted\" parce qu'il maintient les combustibles fossiles dans le bouquet énergétique. Cette réaction concerne les volets électrification et TAFF et combustibles fossiles, dans le débat sur la décision de couverture. Résumé fondé sur le titre et les métadonnées de la liste ; le corps du texte n'a pas été lu.",
+    "ru": "ActionAid критикует проект по электрификации на COP31, который организация считает \"dangerously co-opted\", поскольку в нём сохраняется ископаемое топливо в энергобалансе. Реакция относится к направлениям электрификации и TAFF и ископаемого топлива на фоне спора вокруг решения о закрытии (cover decision). Резюме составлено по заголовку и метаданным списка; текст не читался.",
+    "zh": "ActionAid批评COP31的电气化草案，认为其在能源结构中保留化石燃料，属于\"dangerously co-opted\"。该回应涉及电气化以及TAFF与化石燃料议题，背景是围绕总括性决定（cover decision）的争论。摘要依据标题和列表元数据，未阅读正文。",
+    "ar": "تنتقد منظمة ActionAid مسودة الكهربة في COP31، التي تعتبرها \"dangerously co-opted\" لإبقائها الوقود الأحفوري ضمن مزيج الطاقة. ويتصل هذا الرد بمساري الكهربة وTAFF والوقود الأحفوري، في خضم الخلاف حول القرار الجامع (cover decision). الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ نص المقال."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
+  },
+  {
+   "id": "carbonbrief-2026-11-17-co2-exporters",
+   "institution": "Carbon Brief",
+   "type": "análise",
+   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+   "date": "2026-11-17",
+   "authors": "Simon Evans",
+   "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+   "summary": "Análise da Carbon Brief ordena os países pelas emissões de CO2 dos combustíveis fósseis que exportaram desde 1850, com Rússia, Arábia Saudita e Austrália no topo. Interessa à trilha de TAFF e fósseis e à responsabilidade de produtores, incluindo a Austrália, coanfitriã da COP31. Resumo baseado na descrição do feed RSS.",
+   "summary_i18n": {
+    "en": "A Carbon Brief analysis ranks countries by the CO2 emissions from the fossil fuels they have exported since 1850, with Russia, Saudi Arabia and Australia at the top. It matters for the TAFF and fossil fuels track and for producer responsibility, including Australia, co-host of COP31. Summary based on the RSS feed description.",
+    "es": "Un análisis de Carbon Brief clasifica a los países según las emisiones de CO2 de los combustibles fósiles que han exportado desde 1850, con Rusia, Arabia Saudita y Australia a la cabeza. Es relevante para la vía de TAFF y combustibles fósiles y para la responsabilidad de los productores, incluida Australia, coanfitriona de la COP31. Resumen basado en la descripción del canal RSS.",
+    "fr": "Une analyse de Carbon Brief classe les pays selon les émissions de CO2 des combustibles fossiles qu'ils ont exportés depuis 1850, la Russie, l'Arabie saoudite et l'Australie arrivant en tête. Elle intéresse le volet TAFF et combustibles fossiles et la responsabilité des producteurs, dont l'Australie, co-hôte de la COP31. Résumé fondé sur la description du flux RSS.",
+    "ru": "Анализ Carbon Brief ранжирует страны по выбросам CO2 от ископаемого топлива, экспортированного с 1850 года; первые места занимают Россия, Саудовская Аравия и Австралия. Это важно для направления TAFF и ископаемого топлива и для ответственности производителей, включая Австралию, сопредседателя COP31. Резюме составлено по описанию RSS-ленты.",
+    "zh": "碳简报（Carbon Brief）的分析按1850年以来各国出口化石燃料所对应的二氧化碳排放量对国家排序，俄罗斯、沙特阿拉伯和澳大利亚位居前列。这与TAFF与化石燃料议题以及生产国责任相关，其中包括COP31共同东道国澳大利亚。摘要依据RSS订阅源中的描述。",
+    "ar": "يصنّف تحليل لموقع Carbon Brief الدول بحسب انبعاثات ثاني أكسيد الكربون الناتجة عن الوقود الأحفوري الذي صدّرته منذ عام 1850، وتتصدر القائمة روسيا والمملكة العربية السعودية وأستراليا. ويهمّ ذلك مسار TAFF والوقود الأحفوري ومسؤولية المنتجين، ومنهم أستراليا المضيف المشارك لـ COP31. الملخص مبني على وصف موجز RSS."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-carbonbrief-org-interactive-tracking-negotiating"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261116-negociadores-divididos",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "20:41",
+   "text": "[resumo da fonte] COP31 negotiators remain split over wording on electrification targets and a fossil fuel transition roadmap; some want firmer action on 1.5°C overshoot and finance.",
+   "summary": "O ENB relata que, no fim do dia 16 de novembro, os negociadores da COP31 seguem divididos sobre a redação de metas de eletrificação e de um roteiro de transição dos combustíveis fósseis, com alguns pedindo ação mais firme sobre o excesso de 1,5°C e sobre finanças.",
+   "summary_i18n": {
+    "en": "ENB reports that at the close of 16 November COP31 negotiators remain split over the wording on electrification targets and a fossil fuel transition roadmap, with some calling for firmer action on 1.5°C overshoot and finance.",
+    "es": "ENB informa de que, al cierre del 16 de noviembre, los negociadores de la COP31 siguen divididos sobre la redacción de las metas de electrificación y de una hoja de ruta de transición de los combustibles fósiles, y algunos piden una acción más firme sobre el exceso de 1,5°C y la financiación.",
+    "fr": "L'ENB rapporte qu'à la fin du 16 novembre, les négociateurs de la COP31 restent divisés sur la formulation des objectifs d'électrification et d'une feuille de route de transition des combustibles fossiles, certains réclamant une action plus ferme sur le dépassement de 1,5°C et sur le financement.",
+    "ru": "ENB сообщает, что по итогам 16 ноября участники переговоров на COP31 по-прежнему расходятся в формулировках о целях электрификации и дорожной карте перехода от ископаемого топлива; некоторые требуют более решительных действий по превышению 1,5°C и по финансированию.",
+    "zh": "ENB 报道，截至 11 月 16 日，COP31 谈判代表在电气化目标和化石燃料转型路线图的措辞上仍存在分歧，一些代表要求对 1.5°C 温升超调和资金问题采取更坚定的行动。",
+    "ar": "تفيد نشرة ENB بأنه مع نهاية 16 نوفمبر لا يزال المفاوضون في COP31 منقسمين حول صياغة أهداف الكهربة وخارطة طريق التحول عن الوقود الأحفوري، ويطالب بعضهم بإجراءات أكثر حزماً بشأن تجاوز 1,5°م والتمويل."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2hpdhvi322h",
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-17T06:44:03-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261116-segunda-semana",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "09:36",
+   "text": "[resumo da fonte] Week two of COP31 opened with long-running disputes over mitigation, finance, carbon markets, NDCs and just transition; parties urged to turn draft texts into decisions.",
+   "summary": "O ENB descreve a abertura da segunda semana da COP31, marcada por disputas antigas sobre mitigação, finanças, mercados de carbono, NDCs e transição justa, com as Partes instadas a transformar os rascunhos em decisões.",
+   "summary_i18n": {
+    "en": "ENB describes the opening of the second week of COP31, marked by long-running disputes over mitigation, finance, carbon markets, NDCs and just transition, with Parties urged to turn draft texts into decisions.",
+    "es": "ENB describe la apertura de la segunda semana de la COP31, marcada por antiguas disputas sobre mitigación, financiación, mercados de carbono, NDC y transición justa, con las Partes instadas a convertir los borradores en decisiones.",
+    "fr": "L'ENB décrit l'ouverture de la deuxième semaine de la COP31, marquée par d'anciens différends sur l'atténuation, le financement, les marchés du carbone, les CDN et la transition juste, les Parties étant invitées à transformer les projets de texte en décisions.",
+    "ru": "ENB описывает начало второй недели COP31, отмеченное давними разногласиями по смягчению последствий, финансированию, углеродным рынкам, NDC и справедливому переходу; Сторонам предлагается превратить проекты текстов в решения.",
+    "zh": "ENB 描述了 COP31 第二周的开局，减缓、资金、碳市场、国家自主贡献（NDC）和公正转型等问题上的长期分歧依旧，缔约方被敦促将案文草案转化为决定。",
+    "ar": "تصف نشرة ENB افتتاح الأسبوع الثاني من COP31، الذي اتسم بخلافات قديمة حول التخفيف والتمويل وأسواق الكربون والمساهمات المحددة وطنياً والانتقال العادل، مع حث الأطراف على تحويل مشاريع النصوص إلى مقررات."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2gk63ck6c25",
+   "tracks": [
+    "Mitigação e MWP",
+    "Finanças",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-17T06:44:03-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261116-primeiro-rascunho",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "08:43",
+   "text": "[resumo da fonte] First full draft of the COP31 cover decision has landed; initial analysis from Carbon Brief (connect.carbonbrief.org).",
+   "summary": "Simon Evans (Carbon Brief) anuncia a chegada do primeiro rascunho completo da decisão de cobertura da COP31 e divulga a análise inicial no CB Connect.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) announces the arrival of the first full draft of the COP31 cover decision and shares initial analysis on CB Connect.",
+    "es": "Simon Evans (Carbon Brief) anuncia la llegada del primer borrador completo de la decisión de cobertura de la COP31 y comparte un análisis inicial en CB Connect.",
+    "fr": "Simon Evans (Carbon Brief) annonce la publication du premier projet complet de la décision de couverture de la COP31 et partage une analyse initiale sur CB Connect.",
+    "ru": "Саймон Эванс (Carbon Brief) сообщает о появлении первого полного проекта общего решения COP31 и публикует первичный анализ на CB Connect.",
+    "zh": "Simon Evans（Carbon Brief）宣布 COP31 综合性决定的首份完整草案已出炉，并在 CB Connect 发布初步分析。",
+    "ar": "يعلن سايمون إيفانز (Carbon Brief) صدور المسودة الكاملة الأولى للمقرر الشامل لـ COP31 وينشر تحليلاً أولياً على CB Connect."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2gh67gfnd2c",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-17T06:44:03-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261116-irritando-todos",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-16",
+   "time": "11:41",
+   "text": "[resumo da fonte] Evans suggests that by including every group's demands, the presidency may have ended up \"annoying everyone instead\" (quote of Natalie Jones's post).",
+   "summary": "Simon Evans (Carbon Brief) sugere que, ao incluir as demandas de todos os grupos no rascunho, a presidência pode ter acabado \"irritando todo mundo\".",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) suggests that by including every group's demands in the draft, the presidency may have ended up \"annoying everyone instead\".",
+    "es": "Simon Evans (Carbon Brief) sugiere que, al incluir las demandas de todos los grupos en el borrador, la presidencia podría haber acabado «molestando a todos».",
+    "fr": "Simon Evans (Carbon Brief) suggère qu'en intégrant les demandes de tous les groupes dans le projet, la présidence a peut-être fini par « agacer tout le monde ».",
+    "ru": "Саймон Эванс (Carbon Brief) предполагает, что, включив в проект требования всех групп, президентство могло в итоге «раздражить всех».",
+    "zh": "Simon Evans（Carbon Brief）认为，主席团在草案中纳入各方诉求，结果可能“反而惹恼了所有人”。",
+    "ar": "يرى سايمون إيفانز (Carbon Brief) أن الرئاسة، بإدراجها مطالب جميع المجموعات في المسودة، ربما انتهت إلى «إزعاج الجميع»."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2gr5vy2ds2a",
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-17T06:44:03-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
   {
    "id": "unfccc-2026-11-16-ai-speech",
    "institution": "UNFCCC / Simon Stiell",
@@ -1214,6 +1378,59 @@
    "first_seen": "2026-11-15T01:50:00-03:00",
    "lang": "en",
    "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "actionaid-2026-11-14-australia-just-transition",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "COP31: Australia's leadership is nowhere to be found and exciting potential for a real Just Transition…",
+   "date": "2026-11-14",
+   "authors": "ActionAid",
+   "url": "https://actionaid.org/news/2026/cop31-australias-leadership-nowhere-be-found-and-exciting-potential-real-just-transition",
+   "summary": "Comunicado da ActionAid de 14 de novembro afirma que a liderança da Austrália está ausente na COP31, ao mesmo tempo em que destaca o potencial para uma Transição Justa real. Liga-se à trilha de transição justa e ao papel da presidência e anfitriã. Resumo baseado no título e nos metadados da listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "An ActionAid statement of 14 November says Australia's leadership is nowhere to be found at COP31, while highlighting the potential for a real Just Transition. It bears on the just transition track and on the role of the presidency and host. Summary based on the title and listing metadata; the body was not read.",
+    "es": "Un comunicado de ActionAid del 14 de noviembre afirma que el liderazgo de Australia brilla por su ausencia en la COP31, al tiempo que destaca el potencial de una Transición Justa real. Se vincula con la vía de transición justa y con el papel de la presidencia y el anfitrión. Resumen basado en el título y los metadatos del listado; no se leyó el cuerpo.",
+    "fr": "Un communiqué d'ActionAid du 14 novembre affirme que le leadership de l'Australie est introuvable à la COP31, tout en soulignant le potentiel d'une véritable Transition juste. Il concerne le volet transition juste et le rôle de la présidence et du pays hôte. Résumé fondé sur le titre et les métadonnées de la liste ; le corps du texte n'a pas été lu.",
+    "ru": "В заявлении ActionAid от 14 ноября говорится, что лидерство Австралии на COP31 не видно, при этом отмечается потенциал для реального справедливого перехода. Это относится к направлению справедливого перехода и роли председательства и принимающей стороны. Резюме составлено по заголовку и метаданным списка; текст не читался.",
+    "zh": "ActionAid于11月14日发表声明称，澳大利亚在COP31上的领导力缺位，同时指出实现真正公正转型的潜力。该声明涉及公正转型议题以及主席国和东道国的角色。摘要依据标题和列表元数据，未阅读正文。",
+    "ar": "يقول بيان لمنظمة ActionAid صدر في 14 نوفمبر إن قيادة أستراليا غائبة في COP31، مع إبراز إمكانات تحقيق انتقال عادل حقيقي. ويتصل ذلك بمسار الانتقال العادل ودور الرئاسة والبلد المضيف. الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Transição justa",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
+  },
+  {
+   "id": "unfccc-2026-11-14-press-conference-youth",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Transcript of COP31 press conference with COP31 President of Negotiations and COP31 Presidency Youth Climate Champion",
+   "date": "2026-11-14",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/transcript-of-cop31-press-conference-with-cop31-president-of-negotiations-and-cop31-presidency-youth",
+   "summary": "Transcrição da coletiva de imprensa de 14 de novembro com o Presidente de Negociações da COP31 e a Campeã Jovem do Clima da Presidência, no ponto intermediário da conferência. Só o título e a listagem foram lidos; o conteúdo da transcrição não foi verificado.",
+   "summary_i18n": {
+    "en": "Transcript of the 14 November press conference with the COP31 President of Negotiations and the COP31 Presidency Youth Climate Champion, at the halfway point of the conference. Only the title and listing were read; the transcript content was not verified.",
+    "es": "Transcripción de la rueda de prensa del 14 de noviembre con el Presidente de Negociaciones de la COP31 y la Campeona Juvenil del Clima de la Presidencia, a mitad de la conferencia. Solo se leyeron el título y el listado; no se verificó el contenido de la transcripción.",
+    "fr": "Transcription de la conférence de presse du 14 novembre avec le Président des négociations de la COP31 et la Championne jeunesse pour le climat de la présidence, à mi-parcours de la conférence. Seuls le titre et la liste ont été lus ; le contenu de la transcription n'a pas été vérifié.",
+    "ru": "Стенограмма пресс-конференции 14 ноября с Президентом переговоров COP31 и молодёжным климатическим чемпионом председательства COP31, прошедшей в середине конференции. Прочитаны только заголовок и список; содержание стенограммы не проверялось.",
+    "zh": "11月14日与COP31谈判主席及COP31主席国青年气候倡导者举行的新闻发布会的文字记录，时间处于会议中段。仅阅读了标题和列表，未核实记录内容。",
+    "ar": "نص المؤتمر الصحفي الذي عُقد في 14 نوفمبر مع رئيس المفاوضات في COP31 ومناصر الشباب للمناخ التابع لرئاسة COP31، في منتصف المؤتمر. لم يُقرأ سوى العنوان والقائمة؛ ولم يُتحقق من مضمون النص."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
   },
   {
    "id": "greenpeace-2026-11-14-bluster-rhetoric",
@@ -3157,6 +3374,33 @@
    "first_seen": "2026-11-14T02:47:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "pm-gov-au-2026-11-13-pacific-resilience-facility",
+   "institution": "Primeiro-ministro da Austrália (PM&C)",
+   "type": "release",
+   "title": "COP31 spotlight on the Pacific Resilience Facility",
+   "date": "2026-11-13",
+   "authors": "Prime Minister of Australia",
+   "url": "https://www.pm.gov.au/media/cop31-spotlight-pacific-resilience-facility",
+   "summary": "Comunicado do primeiro-ministro da Austrália põe em foco, na COP31, o Pacific Resilience Facility, mecanismo ligado à resiliência climática no Pacífico. Toca as trilhas de adaptação e finanças e o papel da Austrália como coanfitriã. Resumo baseado no título e nos metadados da listagem; o corpo não foi lido.",
+   "summary_i18n": {
+    "en": "A release from the Prime Minister of Australia puts the spotlight at COP31 on the Pacific Resilience Facility, a mechanism linked to climate resilience in the Pacific. It touches the adaptation and finance tracks and Australia's role as co-host. Summary based on the title and listing metadata; the body was not read.",
+    "es": "Un comunicado del Primer Ministro de Australia destaca en la COP31 el Pacific Resilience Facility, un mecanismo vinculado a la resiliencia climática en el Pacífico. Toca las vías de adaptación y finanzas y el papel de Australia como coanfitriona. Resumen basado en el título y los metadatos del listado; no se leyó el cuerpo.",
+    "fr": "Un communiqué du Premier ministre australien met en avant à la COP31 le Pacific Resilience Facility, un mécanisme lié à la résilience climatique dans le Pacifique. Il touche les volets adaptation et finance ainsi que le rôle de l'Australie comme co-hôte. Résumé fondé sur le titre et les métadonnées de la liste ; le corps du texte n'a pas été lu.",
+    "ru": "В сообщении премьер-министра Австралии на COP31 в центре внимания оказывается Pacific Resilience Facility — механизм, связанный с климатической устойчивостью в Тихоокеанском регионе. Оно затрагивает направления адаптации и финансов и роль Австралии как сопредседателя. Резюме составлено по заголовку и метаданным списка; текст не читался.",
+    "zh": "澳大利亚总理发布的新闻稿在COP31上聚焦太平洋复原力基金（Pacific Resilience Facility），这是一个与太平洋地区气候复原力相关的机制。内容涉及适应和资金议题，以及澳大利亚作为共同东道国的角色。摘要依据标题和列表元数据，未阅读正文。",
+    "ar": "يسلّط بيان صادر عن رئيس وزراء أستراليا الضوء في COP31 على Pacific Resilience Facility، وهي آلية مرتبطة بالقدرة على الصمود المناخي في المحيط الهادئ. ويمس مساري التكيف والتمويل ودور أستراليا بوصفها مضيفاً مشاركاً. الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-17T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-pm-gov-au-media"
   },
   {
    "id": "wri-2026-11-13-subsidy-trap-2026-11-13",
@@ -23411,11 +23655,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-17T05:50:00-03:00",
-  "label": "17 nov 2026, 05:50 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
-  "new_items": 0,
+  "timestamp": "2026-11-17T06:44:03-03:00",
+  "label": "17 nov 2026, 06:44 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
+  "new_items": 4,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
