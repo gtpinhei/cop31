@@ -101,9 +101,15 @@
       "change": "withdrawn",
       "document_id": "10000322",
       "event_id": "82ca7f0235e7358c3c1af82f"
+    },
+    {
+      "at": "2026-11-17T04:37:09.226212Z",
+      "change": "new",
+      "document_id": "10000340",
+      "event_id": "44d8c297e9000371cec71fb9"
     }
   ],
-  "checked_at": "2026-11-17T04:26:43.308467Z",
+  "checked_at": "2026-11-17T04:37:09.226212Z",
   "degraded": false,
   "documents": [
     {
@@ -2358,6 +2364,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 18; SBI 65 17",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9ddc8c45c49cd9356463babf1f1f11f68daaa81abf295e8b9cc9d829ae5e4396",
+          "url": "https://docs.unfccc.int/documents/10000340/files/en/Art_6.2_funding_DT_CMA.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i18.1",
+      "id": "10000340",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-17T04:33:37.117626Z",
+      "published_at": "2026-11-18T04:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000340/metadata",
+      "status": "draft",
+      "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2402,9 +2430,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 17,
-  "last_attempt": "2026-11-17T04:26:43.308467Z",
-  "last_success": "2026-11-17T04:26:43.308467Z",
+  "history_count": 18,
+  "last_attempt": "2026-11-17T04:37:09.226212Z",
+  "last_success": "2026-11-17T04:37:09.226212Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
