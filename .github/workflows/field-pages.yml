@@ -30,7 +30,7 @@ jobs:
           python-version: '3.12'
       - run: cd tools && npm install --no-audit --no-fund
       - run: |
-          for test in test migration-test canonical-test locale-test readability-test retention-test document-health-test document-updates-test document-visit-test document-history-test calendar-test; do
+          for test in test migration-test canonical-test locale-test readability-test retention-test document-health-test document-updates-test document-visit-test document-history-test document-search-test calendar-test; do
             node prototypes/field-edition/$test.cjs
           done
           node prototypes/field-edition/integration-test.cjs
