@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-18",
- "generated_at": "2026-11-18T11:58+03:00",
+ "generated_at": "2026-11-18T12:58+03:00",
  "window": {
   "from": "2026-11-15",
   "to": "2026-11-18",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-18T00:20:00-03:00",
-  "social_round": "2026-11-18T05:46:00-03:00",
+  "web_round": "2026-11-18T06:35:00-03:00",
+  "social_round": "2026-11-18T06:43:07-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 49,
-  "stories": 43,
+  "candidates": 54,
+  "stories": 47,
   "top": 8,
   "publishers": [
    "350.org",
@@ -25,10 +25,12 @@
    "Carbon Brief",
    "Climate Home News",
    "Germanwatch",
+   "IDDRI",
    "IISD / ENB",
    "Murat Kurum",
    "Oil Change International",
    "Presidência da COP31 (Türkiye)",
+   "Primeiro-ministro da Austrália (PM&C)",
    "UNEP",
    "UNFCCC / Simon Stiell",
    "WBCSD",
@@ -53,23 +55,89 @@
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem datas por item"
+    "note": "sem datas explícitas"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "só artigo de 2022"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "client_error"
+    "note": "budget"
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop31tr-smart-cities-call-2026-11-18",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop31tr-smart-cities-call-2026-11-18",
+     "title": "Global Call to Action for Smart, Resilient and Sustainable Cities Announced at COP31",
+     "url": "https://cop31.tr/news-detail/cop31-global-call-to-action-smart-resilient-sustainable-cities",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "O site da Presidência da COP31 anuncia um Global Call to Action para cidades inteligentes, resilientes e sustentáveis, no âmbito da Agenda de Ação em Antalya. O tema liga ação urbana a adaptação e implementação local. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+     "collected_at": "2026-11-18T06:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency website announces a Global Call to Action for smart, resilient and sustainable cities under the Action Agenda in Antalya. The topic links urban action to adaptation and local implementation. Summary based only on the listing headline; the full text was not read.",
+      "es": "El sitio de la Presidencia de la COP31 anuncia un Llamado Mundial a la Acción para ciudades inteligentes, resilientes y sostenibles en el marco de la Agenda de Acción en Antalya. El tema vincula la acción urbana con la adaptación y la implementación local. Resumen basado solo en el titular del listado;",
+      "fr": "Le site de la Présidence de la COP31 annonce un appel mondial à l'action pour des villes intelligentes, résilientes et durables, dans le cadre du Programme d'action à Antalya. Le sujet relie l'action urbaine à l'adaptation et à la mise en œuvre locale. Résumé fondé uniquement sur le titre de la liste ;",
+      "ru": "Сайт Председательства СОР31 объявляет Глобальный призыв к действиям в интересах умных, устойчивых к изменению климата и экологичных городов в рамках Повестки дня действий в Анталье. Тема связывает городские меры с адаптацией и местной реализацией. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+      "zh": "COP31主席国网站宣布，在安塔利亚行动议程框架下发起关于智慧、韧性和可持续城市的全球行动倡议。该主题将城市行动与适应和地方落实联系起来。摘要仅依据列表标题，未阅读全文。",
+      "ar": "يعلن موقع رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) عن دعوة عالمية إلى العمل من أجل مدن ذكية وقادرة على الصمود ومستدامة، في إطار جدول أعمال العمل في أنطاليا. ويربط الموضوع بين العمل الحضري والتكيف والتنفيذ المحلي. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "cop31tr-ocean-nature-2026-11-17",
+      "title": "COP31 puts the ocean and nature at the heart of climate action",
+      "url": "https://cop31.tr/news-detail/cop31-puts-the-ocean-and-nature-at-the-heart-of-climate-action",
+      "publisher": "COP31 Presidency (Türkiye/Australia)",
+      "author": "COP31 Presidency",
+      "published": "2026-11-17",
+      "language": "en",
+      "tracks": [
+       "Oceanos",
+       "Florestas",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A Presidência da COP31 destaca o oceano e a natureza como eixo central da ação climática, na linha do Antalya Ocean and Seas Compact divulgado em 16 de novembro. O item toca as agendas de oceanos e florestas da Agenda de Ação. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+      "collected_at": "2026-11-18T06:35:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency highlights the ocean and nature as central to climate action, in line with the Antalya Ocean and Seas Compact released on 16 November. The item touches the oceans and forests agendas of the Action Agenda. Summary based only on the listing headline; the full text was not read.",
+       "es": "La Presidencia de la COP31 destaca el océano y la naturaleza como ejes centrales de la acción climática, en línea con el Antalya Ocean and Seas Compact publicado el 16 de noviembre. El texto toca las agendas de océanos y bosques de la Agenda de Acción. Resumen basado solo en el titular del listado;",
+       "fr": "La Présidence de la COP31 place l'océan et la nature au cœur de l'action climatique, dans le prolongement de l'Antalya Ocean and Seas Compact publié le 16 novembre. Le texte touche aux volets océans et forêts du Programme d'action. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
+       "ru": "Председательство СОР31 выделяет океан и природу как центральные элементы климатических действий в русле Antalya Ocean and Seas Compact, опубликованного 16 ноября. Материал затрагивает направления по океанам и лесам в рамках Повестки дня действий. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+       "zh": "COP31主席国强调海洋和自然是气候行动的核心，与11月16日发布的Antalya Ocean and Seas Compact一脉相承。该内容涉及行动议程中的海洋和森林议题。摘要仅依据列表标题，未阅读全文。",
+       "ar": "تُبرز رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) المحيط والطبيعة بوصفهما محورين أساسيين للعمل المناخي، تماشياً مع Antalya Ocean and Seas Compact الصادر في 16 نوفمبر. ويتناول النص مساري المحيطات والغابات في جدول أعمال العمل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
    {
     "id": "st-climatechangenews-2026-11-17-fiji-ocean-islands",
     "section": "action",
@@ -141,6 +209,77 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-iddri-2026-11-18-cop31-debrief-webinar",
+    "section": "action",
+    "score": 0.675,
+    "lead": {
+     "id": "iddri-2026-11-18-cop31-debrief-webinar",
+     "title": "COP31 debrief: Electrifying debates, or lights out for cooperation?",
+     "url": "https://www.iddri.org/en/publications-and-events/webinar/cop31-debrief-electrifying-debates-or-lights-out-cooperation",
+     "publisher": "IDDRI",
+     "author": "Céline Kauffmann, Marta Torres Gunfaus",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O IDDRI anuncia para 25 de novembro, das 15h às 16h CET, um webinar de balanço da COP31 com Céline Kauffmann e Marta Torres Gunfaus. O título sugere avaliação do debate sobre a meta de eletrificação e da cooperação multilateral. Resumo baseado apenas na listagem.",
+     "collected_at": "2026-11-18T06:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "IDDRI announces a COP31 debrief webinar on 25 November, 3:00–4:00 pm CET, with Céline Kauffmann and Marta Torres Gunfaus. The title suggests an assessment of the debate on the electrification goal and of multilateral cooperation. Summary based only on the listing.",
+      "es": "IDDRI anuncia para el 25 de noviembre, de 15:00 a 16:00 CET, un seminario web de balance de la COP31 con Céline Kauffmann y Marta Torres Gunfaus. El título sugiere una evaluación del debate sobre la meta de electrificación y de la cooperación multilateral. Resumen basado solo en el listado.",
+      "fr": "L'IDDRI annonce pour le 25 novembre, de 15 h à 16 h CET, un webinaire de bilan de la COP31 avec Céline Kauffmann et Marta Torres Gunfaus. Le titre suggère une évaluation du débat sur l'objectif d'électrification et de la coopération multilatérale. Résumé fondé uniquement sur la liste.",
+      "ru": "IDDRI анонсирует на 25 ноября с 15:00 до 16:00 по CET вебинар с подведением итогов СОР31 с участием Селин Кауфман и Марты Торрес Гюнфаус. Название указывает на оценку дискуссии о цели по электрификации и многостороннего сотрудничества. Резюме основано только на списке.",
+      "zh": "IDDRI宣布将于11月25日（中欧时间15:00–16:00）举办COP31总结网络研讨会，由Céline Kauffmann和Marta Torres Gunfaus主讲。标题表明将评估关于电气化目标的辩论和多边合作。摘要仅依据列表。",
+      "ar": "يعلن IDDRI عن ندوة عبر الإنترنت لتقييم نتائج COP31 في 25 نوفمبر من الساعة 15:00 إلى 16:00 بتوقيت وسط أوروبا، يتحدث فيها Céline Kauffmann وMarta Torres Gunfaus. ويوحي العنوان بتقييم النقاش حول هدف التحول الكهربائي والتعاون المتعدد الأطراف. الملخص مبني على القائمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IDDRI"
+    ]
+   },
+   {
+    "id": "st-can-international-2026-11-17-adaptation-pittance",
+    "section": "civil",
+    "score": 0.51,
+    "lead": {
+     "id": "can-international-2026-11-17-adaptation-pittance",
+     "title": "COP31 Adaptation: Developed countries offer pittance, not a pledge",
+     "url": "https://climatenetwork.org/2026/11/17/cop31-adaptation-find-pittance/",
+     "publisher": "CAN International",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Climate Action Network International critica o que considera uma oferta insuficiente dos países desenvolvidos em financiamento de adaptação na COP31, descrita como \"pittance, not a pledge\". O comunicado trata das negociações de adaptação e de finanças. Resumo baseado apenas no título da listagem;",
+     "collected_at": "2026-11-18T06:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Climate Action Network International criticises what it sees as an inadequate offer by developed countries on adaptation finance at COP31, described as \"pittance, not a pledge\". The release bears on the adaptation and finance negotiations. Summary based only on the listing headline; the text was not read.",
+      "es": "La Red de Acción Climática Internacional (CAN International) critica lo que considera una oferta insuficiente de los países desarrollados en financiación para la adaptación en la COP31, descrita como \"pittance, not a pledge\". El comunicado se refiere a las negociaciones sobre adaptación y finanzas.",
+      "fr": "Le Réseau Action Climat international (CAN International) critique ce qu'il juge être une offre insuffisante des pays développés en matière de financement de l'adaptation à la COP31, qualifiée de « pittance, not a pledge ». Le communiqué porte sur les négociations relatives à l'adaptation et aux finances.",
+      "ru": "Международная сеть климатических действий (CAN International) критикует то, что считает недостаточным предложением развитых стран по финансированию адаптации на СОР31, назвав его «pittance, not a pledge». Заявление относится к переговорам по адаптации и финансам. Резюме основано только на заголовке из списка;",
+      "zh": "国际气候行动网络（CAN International）批评发达国家在COP31上就适应资金提出的方案不足，称其为“pittance, not a pledge”。该新闻稿涉及适应和资金谈判。摘要仅依据列表标题，未阅读正文。",
+      "ar": "تنتقد شبكة العمل المناخي الدولية (CAN International) ما تعدّه عرضاً غير كافٍ من البلدان المتقدمة بشأن تمويل التكيف في COP31، ووصفته بعبارة \"pittance, not a pledge\". ويتعلق البيان بمفاوضات التكيف والتمويل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
     ]
    },
    {
@@ -270,41 +409,43 @@
     ]
    },
    {
-    "id": "st-carbonbrief-2026-11-17-co2-exporters",
+    "id": "st-pm-gov-au-2026-11-17-asia-zero-emissions",
     "section": "negotiations",
-    "score": 0.432,
+    "score": 0.44,
     "lead": {
-     "id": "carbonbrief-2026-11-17-co2-exporters",
-     "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-     "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-     "publisher": "Carbon Brief",
-     "author": "Simon Evans",
+     "id": "pm-gov-au-2026-11-17-asia-zero-emissions",
+     "title": "Asia Zero Emissions Community Leaders' Meeting",
+     "url": "https://www.pm.gov.au/media/asia-zero-emissions-community-leaders-meeting",
+     "publisher": "Primeiro-ministro da Austrália (PM&C)",
+     "author": "Prime Minister of Australia",
      "published": "2026-11-17",
      "language": "en",
      "tracks": [
-      "TAFF e fósseis",
+      "Mitigação e MWP",
       "Presidência e anfitrião"
      ],
-     "content_type": "analysis",
+     "content_type": "official",
      "kind": "publication",
-     "description": "Análise da Carbon Brief ordena os países pelas emissões de CO2 dos combustíveis fósseis que exportaram desde 1850, com Rússia, Arábia Saudita e Austrália no topo. Interessa à trilha de TAFF e fósseis e à responsabilidade de produtores, incluindo a Austrália, coanfitriã da COP31. Resumo baseado na descrição do feed RSS.",
-     "collected_at": "2026-11-17T06:20:00-03:00",
+     "description": "O gabinete do primeiro-ministro da Austrália publica material sobre a reunião de líderes da Asia Zero Emissions Community, em 17 de novembro. O tema é a cooperação regional por descarbonização, relevante para o papel da Austrália como Presidente de Negociações da COP31. Resumo baseado apenas no título;",
+     "collected_at": "2026-11-18T06:35:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "A Carbon Brief analysis ranks countries by the CO2 emissions from the fossil fuels they have exported since 1850, with Russia, Saudi Arabia and Australia at the top. It matters for the TAFF and fossil fuels track and for producer responsibility, including Australia, co-host of COP31.",
-      "es": "Un análisis de Carbon Brief clasifica a los países según las emisiones de CO2 de los combustibles fósiles que han exportado desde 1850, con Rusia, Arabia Saudita y Australia a la cabeza.",
-      "fr": "Une analyse de Carbon Brief classe les pays selon les émissions de CO2 des combustibles fossiles qu'ils ont exportés depuis 1850, la Russie, l'Arabie saoudite et l'Australie arrivant en tête.",
-      "ru": "Анализ Carbon Brief ранжирует страны по выбросам CO2 от ископаемого топлива, экспортированного с 1850 года; первые места занимают Россия, Саудовская Аравия и Австралия. Это важно для направления TAFF и ископаемого топлива и для ответственности производителей, включая Австралию, сопредседателя COP31.",
-      "zh": "碳简报（Carbon Brief）的分析按1850年以来各国出口化石燃料所对应的二氧化碳排放量对国家排序，俄罗斯、沙特阿拉伯和澳大利亚位居前列。这与TAFF与化石燃料议题以及生产国责任相关，其中包括COP31共同东道国澳大利亚。摘要依据RSS订阅源中的描述。",
-      "ar": "يصنّف تحليل لموقع Carbon Brief الدول بحسب انبعاثات ثاني أكسيد الكربون الناتجة عن الوقود الأحفوري الذي صدّرته منذ عام 1850، وتتصدر القائمة روسيا والمملكة العربية السعودية وأستراليا. ويهمّ ذلك مسار TAFF والوقود الأحفوري ومسؤولية المنتجين، ومنهم أستراليا المضيف المشارك لـ COP31. الملخص مبني على وصف موجز RSS."
+      "en": "The Australian Prime Minister's office publishes material on the Asia Zero Emissions Community Leaders' Meeting held on 17 November. The topic is regional decarbonisation cooperation, relevant to Australia's role as COP31 President of Negotiations. Summary based only on the title; the text was not read.",
+      "es": "La oficina del Primer Ministro de Australia publica material sobre la Reunión de Líderes de la Comunidad de Cero Emisiones de Asia, celebrada el 17 de noviembre. El tema es la cooperación regional en descarbonización, relevante para el papel de Australia como Presidente de Negociaciones de la COP31.",
+      "fr": "Le cabinet du Premier ministre australien publie un document sur la réunion des dirigeants de la Communauté Asie zéro émission, tenue le 17 novembre. Le sujet est la coopération régionale en matière de décarbonation, pertinente pour le rôle de l'Australie comme Président des négociations de la COP31.",
+      "ru": "Канцелярия премьер-министра Австралии опубликовала материал о встрече лидеров Азиатского сообщества нулевых выбросов, состоявшейся 17 ноября. Тема — региональное сотрудничество в сфере декарбонизации, важное для роли Австралии как Председателя переговоров СОР31. Резюме основано только на заголовке; текст не прочитан.",
+      "zh": "澳大利亚总理办公室发布了关于11月17日举行的亚洲零排放共同体领导人会议的材料。主题是区域脱碳合作，与澳大利亚担任COP31谈判主席的角色相关。摘要仅依据标题，未阅读正文。",
+      "ar": "ينشر مكتب رئيس وزراء أستراليا مادة عن اجتماع قادة مجتمع آسيا للانبعاثات الصفرية الذي عُقد في 17 نوفمبر. والموضوع هو التعاون الإقليمي في إزالة الكربون، وهو وثيق الصلة بدور أستراليا رئيسةً للمفاوضات في COP31. الملخص مبني على العنوان فقط، ولم يُقرأ النص."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "Carbon Brief"
+     "Primeiro-ministro da Austrália (PM&C)"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
     "id": "st-unfccc-2026-11-17-transparency-stiell",
     "section": "negotiations",
@@ -377,44 +518,6 @@
      "Climate Home News"
     ]
    },
-   {
-    "id": "st-wbcsd-2026-11-16-physical-risk",
-    "section": "negotiations",
-    "score": 0.338,
-    "lead": {
-     "id": "wbcsd-2026-11-16-physical-risk",
-     "title": "The road from physical risk assessment to action",
-     "url": "https://www.wbcsd.org/news/the-road-from-physical-risk-assessment-to-action/",
-     "publisher": "WBCSD",
-     "author": "WBCSD",
-     "published": "2026-11-16",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Agenda de Ação"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "O WBCSD publica texto sobre como empresas podem passar da avaliação de riscos físicos climáticos para ações concretas de adaptação e resiliência. Liga-se à trilha de adaptação e ao engajamento empresarial na COP31. Resumo baseado no título e na listagem; o corpo não foi lido.",
-     "collected_at": "2026-11-17T18:30:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "WBCSD publishes a piece on how companies can move from assessing physical climate risks to concrete adaptation and resilience action. It bears on the adaptation track and business engagement at COP31. Summary based on the title and listing; the body was not read.",
-      "es": "El WBCSD publica un texto sobre cómo las empresas pueden pasar de evaluar los riesgos climáticos físicos a emprender acciones concretas de adaptación y resiliencia. Se vincula con la vía de adaptación y la participación empresarial en la COP31. Resumen basado en el título y el listado; no se leyó el cuerpo.",
-      "fr": "Le WBCSD publie un texte sur la façon dont les entreprises peuvent passer de l'évaluation des risques climatiques physiques à des actions concrètes d'adaptation et de résilience. Il touche au volet adaptation et à l'engagement des entreprises à la COP31. Résumé fondé sur le titre et la liste ;",
-      "ru": "WBCSD публикует материал о том, как компаниям перейти от оценки физических климатических рисков к конкретным действиям по адаптации и устойчивости. Он относится к треку адаптации и участию бизнеса в КС-31. Краткое изложение основано на заголовке и списке; текст не читался.",
-      "zh": "WBCSD发布文章，探讨企业如何从评估气候物理风险转向具体的适应和韧性行动。内容涉及适应议题以及企业在COP31中的参与。摘要基于标题和列表页，未阅读正文。",
-      "ar": "ينشر WBCSD مقالاً حول كيفية انتقال الشركات من تقييم المخاطر المناخية المادية إلى إجراءات ملموسة للتكيف والقدرة على الصمود. ويتصل ذلك بمسار التكيف ومشاركة قطاع الأعمال في COP31. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "WBCSD"
-    ]
-   }
-  ],
-  "negotiations": [
    {
     "id": "st-unfccc-2026-11-16-press-conference-transcript",
     "section": "negotiations",
@@ -574,6 +677,42 @@
     ]
    },
    {
+    "id": "st-carbonbrief-2026-11-17-co2-exporters",
+    "section": "negotiations",
+    "score": 0.432,
+    "lead": {
+     "id": "carbonbrief-2026-11-17-co2-exporters",
+     "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+     "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+     "publisher": "Carbon Brief",
+     "author": "Simon Evans",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Análise da Carbon Brief ordena os países pelas emissões de CO2 dos combustíveis fósseis que exportaram desde 1850, com Rússia, Arábia Saudita e Austrália no topo. Interessa à trilha de TAFF e fósseis e à responsabilidade de produtores, incluindo a Austrália, coanfitriã da COP31. Resumo baseado na descrição do feed RSS.",
+     "collected_at": "2026-11-17T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A Carbon Brief analysis ranks countries by the CO2 emissions from the fossil fuels they have exported since 1850, with Russia, Saudi Arabia and Australia at the top. It matters for the TAFF and fossil fuels track and for producer responsibility, including Australia, co-host of COP31.",
+      "es": "Un análisis de Carbon Brief clasifica a los países según las emisiones de CO2 de los combustibles fósiles que han exportado desde 1850, con Rusia, Arabia Saudita y Australia a la cabeza.",
+      "fr": "Une analyse de Carbon Brief classe les pays selon les émissions de CO2 des combustibles fossiles qu'ils ont exportés depuis 1850, la Russie, l'Arabie saoudite et l'Australie arrivant en tête.",
+      "ru": "Анализ Carbon Brief ранжирует страны по выбросам CO2 от ископаемого топлива, экспортированного с 1850 года; первые места занимают Россия, Саудовская Аравия и Австралия. Это важно для направления TAFF и ископаемого топлива и для ответственности производителей, включая Австралию, сопредседателя COP31.",
+      "zh": "碳简报（Carbon Brief）的分析按1850年以来各国出口化石燃料所对应的二氧化碳排放量对国家排序，俄罗斯、沙特阿拉伯和澳大利亚位居前列。这与TAFF与化石燃料议题以及生产国责任相关，其中包括COP31共同东道国澳大利亚。摘要依据RSS订阅源中的描述。",
+      "ar": "يصنّف تحليل لموقع Carbon Brief الدول بحسب انبعاثات ثاني أكسيد الكربون الناتجة عن الوقود الأحفوري الذي صدّرته منذ عام 1850، وتتصدر القائمة روسيا والمملكة العربية السعودية وأستراليا. ويهمّ ذلك مسار TAFF والوقود الأحفوري ومسؤولية المنتجين، ومنهم أستراليا المضيف المشارك لـ COP31. الملخص مبني على وصف موجز RSS."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Carbon Brief"
+    ]
+   },
+   {
     "id": "st-climatechangenews-2026-11-16-carbon-markets-article-6",
     "section": "negotiations",
     "score": 0.425,
@@ -706,6 +845,42 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-wbcsd-2026-11-16-physical-risk",
+    "section": "negotiations",
+    "score": 0.338,
+    "lead": {
+     "id": "wbcsd-2026-11-16-physical-risk",
+     "title": "The road from physical risk assessment to action",
+     "url": "https://www.wbcsd.org/news/the-road-from-physical-risk-assessment-to-action/",
+     "publisher": "WBCSD",
+     "author": "WBCSD",
+     "published": "2026-11-16",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Agenda de Ação"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O WBCSD publica texto sobre como empresas podem passar da avaliação de riscos físicos climáticos para ações concretas de adaptação e resiliência. Liga-se à trilha de adaptação e ao engajamento empresarial na COP31. Resumo baseado no título e na listagem; o corpo não foi lido.",
+     "collected_at": "2026-11-17T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "WBCSD publishes a piece on how companies can move from assessing physical climate risks to concrete adaptation and resilience action. It bears on the adaptation track and business engagement at COP31. Summary based on the title and listing; the body was not read.",
+      "es": "El WBCSD publica un texto sobre cómo las empresas pueden pasar de evaluar los riesgos climáticos físicos a emprender acciones concretas de adaptación y resiliencia. Se vincula con la vía de adaptación y la participación empresarial en la COP31. Resumen basado en el título y el listado; no se leyó el cuerpo.",
+      "fr": "Le WBCSD publie un texte sur la façon dont les entreprises peuvent passer de l'évaluation des risques climatiques physiques à des actions concrètes d'adaptation et de résilience. Il touche au volet adaptation et à l'engagement des entreprises à la COP31. Résumé fondé sur le titre et la liste ;",
+      "ru": "WBCSD публикует материал о том, как компаниям перейти от оценки физических климатических рисков к конкретным действиям по адаптации и устойчивости. Он относится к треку адаптации и участию бизнеса в КС-31. Краткое изложение основано на заголовке и списке; текст не читался.",
+      "zh": "WBCSD发布文章，探讨企业如何从评估气候物理风险转向具体的适应和韧性行动。内容涉及适应议题以及企业在COP31中的参与。摘要基于标题和列表页，未阅读正文。",
+      "ar": "ينشر WBCSD مقالاً حول كيفية انتقال الشركات من تقييم المخاطر المناخية المادية إلى إجراءات ملموسة للتكيف والقدرة على الصمود. ويتصل ذلك بمسار التكيف ومشاركة قطاع الأعمال في COP31. الملخص مبني على العنوان والقائمة؛ ولم يُقرأ النص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "WBCSD"
     ]
    },
    {
@@ -1916,12 +2091,16 @@
    "wri-2026-11-16-energy-access-connections"
   ],
   "2026-11-18": [
+   "can-international-2026-11-17-adaptation-pittance",
    "can-international-2026-11-17-carbon-markets",
    "carbonbrief-2026-11-17-co2-exporters",
    "climatechangenews-2026-11-17-fiji-ocean-islands",
    "climatechangenews-2026-11-17-morgera-critical-minerals",
+   "cop31tr-smart-cities-call-2026-11-18",
    "germanwatch-2026-11-17-cri-2027",
+   "iddri-2026-11-18-cop31-debrief-webinar",
    "oilchange-2026-11-17-fossil-roadmaps",
+   "pm-gov-au-2026-11-17-asia-zero-emissions",
    "unfccc-2026-11-16-press-conference-transcript",
    "unfccc-2026-11-17-article62-registry",
    "unfccc-2026-11-17-transparency-stiell",
