@@ -125,9 +125,21 @@
       "change": "new",
       "document_id": "10000354",
       "event_id": "20214a109c594c40d563f3bf"
+    },
+    {
+      "at": "2026-11-18T12:36:50.231745Z",
+      "change": "withdrawn",
+      "document_id": "10000338",
+      "event_id": "1aba3d7b080f9ae0f5237382"
+    },
+    {
+      "at": "2026-11-18T12:36:50.231745Z",
+      "change": "new",
+      "document_id": "10000355",
+      "event_id": "fdf42a8170872cb67654b13d"
     }
   ],
-  "checked_at": "2026-11-18T12:27:59.404898Z",
+  "checked_at": "2026-11-18T12:36:50.231745Z",
   "degraded": false,
   "documents": [
     {
@@ -2529,7 +2541,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "bc787885c01cfcb28b05176c1df9c6cb3e36200171ff70705c2d425787b12fdd",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000338/files/en/art_6.2_DT_cma81.pdf"
         }
       ],
@@ -2537,14 +2549,14 @@
       "document_code": "DT.CMA8.i16a.2",
       "id": "10000338",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-16T21:03:44.273146Z",
+      "modified_at": "2026-11-18T12:34:15.572235Z",
       "published_at": "2026-11-16T20:45:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000338/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 16(b)",
@@ -2745,6 +2757,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 16(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9fec974ee9b56337edbd27902d2d8e2fa5b8ceee921bb4d62c387e2b43da00f1",
+          "url": "https://docs.unfccc.int/documents/10000355/files/en/art_6.2_DT_cma82.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16a.3",
+      "id": "10000355",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-18T12:32:25.097320Z",
+      "published_at": "2026-11-18T12:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000355/metadata",
+      "status": "draft",
+      "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2833,9 +2867,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 21,
-  "last_attempt": "2026-11-18T12:27:59.404898Z",
-  "last_success": "2026-11-18T12:27:59.404898Z",
+  "history_count": 23,
+  "last_attempt": "2026-11-18T12:36:50.231745Z",
+  "last_success": "2026-11-18T12:36:50.231745Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
