@@ -139,7 +139,7 @@
       "event_id": "babd6f1a4d1ecd9d95fcd08a"
     }
   ],
-  "checked_at": "2026-11-18T22:27:05.052680Z",
+  "checked_at": "2026-11-18T22:37:24.169303Z",
   "degraded": false,
   "documents": [
     {
@@ -374,13 +374,7 @@
     },
     {
       "agenda": "CMP 21 6; CMA 8 11(e)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000331/files/en/AF%20Matters_DT_CMP21CMA8.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMP21.i6_CMA8.i.11e.1",
       "id": "10000331",
@@ -462,13 +456,7 @@
     },
     {
       "agenda": "COP 31 8(b); CMA 8 11(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000341/files/en/SCF_COP31_8b_CMA_11a_DT.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i8b_CMA8.i11a.1",
       "id": "10000341",
@@ -2619,13 +2607,7 @@
     },
     {
       "agenda": "CMA 8 16(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000338/files/en/art_6.2_DT_cma81.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16a.2",
       "id": "10000338",
@@ -2641,13 +2623,7 @@
     },
     {
       "agenda": "CMA 8 16(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000339/files/en/art_6.4_DT_cma82.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16b.2",
       "id": "10000339",
@@ -2773,13 +2749,7 @@
     },
     {
       "agenda": "COP 31 11; CMA 8 14",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "e37aa978168fdd53a838a0397bc50e6d90d77be7be05c8d58dcdf1159590aa86",
-          "url": "https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i11_CMA8.i14.1",
       "id": "10000350",
@@ -2883,13 +2853,7 @@
     },
     {
       "agenda": "CMA 8 8",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "ead0b248d35df27d5d62bdcea859d8a1f85c149471cf2bcdf33ffccf442359fa",
-          "url": "https://docs.unfccc.int/documents/10000357/files/en/ETF_DT_CMA_81.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "FCCC/PA/CMA/2026/L.2",
       "id": "10000357",
@@ -2949,13 +2913,7 @@
     },
     {
       "agenda": "CMA 8 6",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "c9876208f6e836cf5ea1fb6ad44d3be5a3ad4934d45650ee08c088b4d72497f2",
-          "url": "https://docs.unfccc.int/documents/10000352/files/en/MWP_DT_SB652.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i1.1",
       "id": "10000352",
@@ -2993,8 +2951,8 @@
     }
   ],
   "history_count": 23,
-  "last_attempt": "2026-11-18T22:27:05.052680Z",
-  "last_success": "2026-11-18T22:27:05.052680Z",
+  "last_attempt": "2026-11-18T22:37:24.169303Z",
+  "last_success": "2026-11-18T22:37:24.169303Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
