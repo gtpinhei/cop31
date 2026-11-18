@@ -47,6 +47,34 @@
  ],
  "items": [
   {
+   "id": "bluesky-carbonbrief.org-20261118-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "06:45",
+   "text": "[resumo da fonte] Carbon Brief's Daily Briefing, headlined \"Cover-decision 'outrage' | Saudis 'disrupt' COP31 | UK EV warning\", with links to today's briefing and the email sign-up.",
+   "summary": "O Daily Briefing do Carbon Brief de 18 de novembro destaca a \"indignação\" com a decisão de cobertura, acusações de que a Arábia Saudita \"atrapalha\" a COP31 e um alerta sobre veículos elétricos no Reino Unido.",
+   "summary_i18n": {
+    "en": "Carbon Brief's 18 November Daily Briefing highlights \"outrage\" over the cover decision, claims that Saudi Arabia is \"disrupting\" COP31, and a warning on electric vehicles in the United Kingdom.",
+    "es": "El Daily Briefing de Carbon Brief del 18 de noviembre destaca la \"indignación\" por la decisión de cobertura, acusaciones de que Arabia Saudita \"obstaculiza\" la COP31 y una advertencia sobre los vehículos eléctricos en el Reino Unido.",
+    "fr": "Le Daily Briefing de Carbon Brief du 18 novembre met en avant l'« indignation » suscitée par la décision de couverture, des accusations selon lesquelles l'Arabie saoudite « perturbe » la COP31 et un avertissement sur les véhicules électriques au Royaume-Uni.",
+    "ru": "В ежедневном брифинге Carbon Brief от 18 ноября: «возмущение» из-за решения-обложки, обвинения в адрес Саудовской Аравии в «срыве» COP31 и предупреждение о электромобилях в Соединённом Королевстве.",
+    "zh": "Carbon Brief 11月18日每日简报重点关注：对总括决定的“愤怒”、沙特阿拉伯被指“扰乱”COP31，以及英国电动汽车方面的警告。",
+    "ar": "تبرز النشرة اليومية لـ Carbon Brief بتاريخ 18 نوفمبر \"الغضب\" من قرار الغطاء، واتهامات للمملكة العربية السعودية بـ\"عرقلة\" COP31، وتحذيرًا بشأن المركبات الكهربائية في المملكة المتحدة."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2lbiphy2522",
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-18T11:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "cop31tr-smart-cities-call-2026-11-18",
    "institution": "COP31 Presidency (Türkiye/Australia)",
    "type": "notícia",
@@ -126,6 +154,34 @@
    "first_seen": "2026-11-18T05:46:00-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261117-miliband-coalizoes",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-17",
+   "time": "13:56",
+   "text": "[resumo da fonte] Video interview asking whether COP has run its course; Ed Miliband argues COP is where \"coalitions of the willing\" are formed.",
+   "summary": "O Carbon Brief publica entrevista em vídeo sobre se a COP esgotou seu papel; Ed Miliband defende que a COP é o espaço onde se formam \"coalizões de países dispostos\".",
+   "summary_i18n": {
+    "en": "Carbon Brief publishes a video interview on whether COP has run its course; Ed Miliband argues COP is where \"coalitions of the willing\" are formed.",
+    "es": "Carbon Brief publica una entrevista en vídeo sobre si la COP ha agotado su papel; Ed Miliband sostiene que la COP es donde se forman \"coaliciones de voluntades\".",
+    "fr": "Carbon Brief publie un entretien vidéo sur la question de savoir si la COP a fait son temps ; Ed Miliband soutient que la COP est le lieu où se forment des « coalitions de volontaires ».",
+    "ru": "Carbon Brief публикует видеоинтервью о том, исчерпала ли COP свою роль; Эд Милибэнд утверждает, что COP — место формирования «коалиций желающих».",
+    "zh": "Carbon Brief发布视频访谈，探讨COP是否已完成其使命；埃德·米利班德认为COP是形成“有意愿国家联盟”的场所。",
+    "ar": "تنشر Carbon Brief مقابلة مصورة حول ما إذا كان مؤتمر الأطراف قد استنفد دوره؛ ويرى إد ميليباند أن المؤتمر هو المكان الذي تتشكل فيه \"ائتلافات الراغبين\"."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2jj5b3ic224",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-18T11:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
   },
   {
    "id": "bluesky-drsimevans.carbonbrief.org-20261117-cover-decision-trouble",
@@ -25037,11 +25093,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T10:43:50-03:00",
-  "label": "18 nov 2026, 10:43 (Brasília)",
+  "timestamp": "2026-11-18T11:50:00-03:00",
+  "label": "18 nov 2026, 11:50 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
