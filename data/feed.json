@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18T00:20:00-03:00",
+ "generated_at": "2026-11-18T06:35:00-03:00",
  "round": {
-  "timestamp": "2026-11-18T00:20:00-03:00",
-  "label": "18 nov 2026, 00:20 (Brasília)",
-  "sites_checked": 60,
-  "blocked": 19,
+  "timestamp": "2026-11-18T06:35:00-03:00",
+  "label": "18 nov 2026, 06:35 (Brasília)",
+  "sites_checked": 59,
+  "blocked": 16,
   "new_items": 5,
-  "fetches": "60 de 60",
+  "fetches": "59 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
@@ -20,15 +20,12 @@
    "web-wwf-panda-org-wwf-news",
    "web-christianaid-org-uk-news",
    "web-foei-org-news",
-   "web-icccad-net-news",
-   "web-eurodad-org-news",
-   "web-carbon-pulse-com-category-international",
+   "web-institutotalanoa-org-publicacoes",
+   "web-transforma-global",
    "web-wemeanbusinesscoalition-org-news",
-   "web-twn-my-title2-climate-climate-updates-htm",
-   "web-politicaporinteiro-org-en",
-   "web-odi-org-en-insights",
-   "web-ember-energy-org-latest-insights",
-   "web-institutotalanoa-org-publicacoes"
+   "web-carbon-pulse-com-category-international",
+   "web-climateanalytics-org-publications",
+   "web-ember-energy-org-latest-insights"
   ]
  },
  "tracks": [
@@ -49,6 +46,59 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "cop31tr-smart-cities-call-2026-11-18",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "Global Call to Action for Smart, Resilient and Sustainable Cities Announced at COP31",
+   "date": "2026-11-18",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/cop31-global-call-to-action-smart-resilient-sustainable-cities",
+   "summary": "O site da Presidência da COP31 anuncia um Global Call to Action para cidades inteligentes, resilientes e sustentáveis, no âmbito da Agenda de Ação em Antalya. O tema liga ação urbana a adaptação e implementação local. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency website announces a Global Call to Action for smart, resilient and sustainable cities under the Action Agenda in Antalya. The topic links urban action to adaptation and local implementation. Summary based only on the listing headline; the full text was not read.",
+    "es": "El sitio de la Presidencia de la COP31 anuncia un Llamado Mundial a la Acción para ciudades inteligentes, resilientes y sostenibles en el marco de la Agenda de Acción en Antalya. El tema vincula la acción urbana con la adaptación y la implementación local. Resumen basado solo en el titular del listado; no se leyó el texto completo.",
+    "fr": "Le site de la Présidence de la COP31 annonce un appel mondial à l'action pour des villes intelligentes, résilientes et durables, dans le cadre du Programme d'action à Antalya. Le sujet relie l'action urbaine à l'adaptation et à la mise en œuvre locale. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
+    "ru": "Сайт Председательства СОР31 объявляет Глобальный призыв к действиям в интересах умных, устойчивых к изменению климата и экологичных городов в рамках Повестки дня действий в Анталье. Тема связывает городские меры с адаптацией и местной реализацией. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+    "zh": "COP31主席国网站宣布，在安塔利亚行动议程框架下发起关于智慧、韧性和可持续城市的全球行动倡议。该主题将城市行动与适应和地方落实联系起来。摘要仅依据列表标题，未阅读全文。",
+    "ar": "يعلن موقع رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) عن دعوة عالمية إلى العمل من أجل مدن ذكية وقادرة على الصمود ومستدامة، في إطار جدول أعمال العمل في أنطاليا. ويربط الموضوع بين العمل الحضري والتكيف والتنفيذ المحلي. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+   },
+   "tracks": [
+    "Agenda de Ação",
+    "Adaptação",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T06:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "iddri-2026-11-18-cop31-debrief-webinar",
+   "institution": "IDDRI",
+   "type": "evento",
+   "title": "COP31 debrief: Electrifying debates, or lights out for cooperation?",
+   "date": "2026-11-18",
+   "authors": "Céline Kauffmann, Marta Torres Gunfaus",
+   "url": "https://www.iddri.org/en/publications-and-events/webinar/cop31-debrief-electrifying-debates-or-lights-out-cooperation",
+   "summary": "O IDDRI anuncia para 25 de novembro, das 15h às 16h CET, um webinar de balanço da COP31 com Céline Kauffmann e Marta Torres Gunfaus. O título sugere avaliação do debate sobre a meta de eletrificação e da cooperação multilateral. Resumo baseado apenas na listagem.",
+   "summary_i18n": {
+    "en": "IDDRI announces a COP31 debrief webinar on 25 November, 3:00–4:00 pm CET, with Céline Kauffmann and Marta Torres Gunfaus. The title suggests an assessment of the debate on the electrification goal and of multilateral cooperation. Summary based only on the listing.",
+    "es": "IDDRI anuncia para el 25 de noviembre, de 15:00 a 16:00 CET, un seminario web de balance de la COP31 con Céline Kauffmann y Marta Torres Gunfaus. El título sugiere una evaluación del debate sobre la meta de electrificación y de la cooperación multilateral. Resumen basado solo en el listado.",
+    "fr": "L'IDDRI annonce pour le 25 novembre, de 15 h à 16 h CET, un webinaire de bilan de la COP31 avec Céline Kauffmann et Marta Torres Gunfaus. Le titre suggère une évaluation du débat sur l'objectif d'électrification et de la coopération multilatérale. Résumé fondé uniquement sur la liste.",
+    "ru": "IDDRI анонсирует на 25 ноября с 15:00 до 16:00 по CET вебинар с подведением итогов СОР31 с участием Селин Кауфман и Марты Торрес Гюнфаус. Название указывает на оценку дискуссии о цели по электрификации и многостороннего сотрудничества. Резюме основано только на списке.",
+    "zh": "IDDRI宣布将于11月25日（中欧时间15:00–16:00）举办COP31总结网络研讨会，由Céline Kauffmann和Marta Torres Gunfaus主讲。标题表明将评估关于电气化目标的辩论和多边合作。摘要仅依据列表。",
+    "ar": "يعلن IDDRI عن ندوة عبر الإنترنت لتقييم نتائج COP31 في 25 نوفمبر من الساعة 15:00 إلى 16:00 بتوقيت وسط أوروبا، يتحدث فيها Céline Kauffmann وMarta Torres Gunfaus. ويوحي العنوان بتقييم النقاش حول هدف التحول الكهربائي والتعاون المتعدد الأطراف. الملخص مبني على القائمة فقط."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T06:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-iddri-org-en-publications-and-events"
+  },
   {
    "id": "bluesky-350.org-20261118-roteiro-taff",
    "kind": "post",
@@ -76,6 +126,85 @@
    "first_seen": "2026-11-18T05:46:00-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "cop31tr-ocean-nature-2026-11-17",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "COP31 puts the ocean and nature at the heart of climate action",
+   "date": "2026-11-17",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/cop31-puts-the-ocean-and-nature-at-the-heart-of-climate-action",
+   "summary": "A Presidência da COP31 destaca o oceano e a natureza como eixo central da ação climática, na linha do Antalya Ocean and Seas Compact divulgado em 16 de novembro. O item toca as agendas de oceanos e florestas da Agenda de Ação. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency highlights the ocean and nature as central to climate action, in line with the Antalya Ocean and Seas Compact released on 16 November. The item touches the oceans and forests agendas of the Action Agenda. Summary based only on the listing headline; the full text was not read.",
+    "es": "La Presidencia de la COP31 destaca el océano y la naturaleza como ejes centrales de la acción climática, en línea con el Antalya Ocean and Seas Compact publicado el 16 de noviembre. El texto toca las agendas de océanos y bosques de la Agenda de Acción. Resumen basado solo en el titular del listado; no se leyó el texto completo.",
+    "fr": "La Présidence de la COP31 place l'océan et la nature au cœur de l'action climatique, dans le prolongement de l'Antalya Ocean and Seas Compact publié le 16 novembre. Le texte touche aux volets océans et forêts du Programme d'action. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
+    "ru": "Председательство СОР31 выделяет океан и природу как центральные элементы климатических действий в русле Antalya Ocean and Seas Compact, опубликованного 16 ноября. Материал затрагивает направления по океанам и лесам в рамках Повестки дня действий. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+    "zh": "COP31主席国强调海洋和自然是气候行动的核心，与11月16日发布的Antalya Ocean and Seas Compact一脉相承。该内容涉及行动议程中的海洋和森林议题。摘要仅依据列表标题，未阅读全文。",
+    "ar": "تُبرز رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) المحيط والطبيعة بوصفهما محورين أساسيين للعمل المناخي، تماشياً مع Antalya Ocean and Seas Compact الصادر في 16 نوفمبر. ويتناول النص مساري المحيطات والغابات في جدول أعمال العمل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+   },
+   "tracks": [
+    "Oceanos",
+    "Florestas",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T06:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "pm-gov-au-2026-11-17-asia-zero-emissions",
+   "institution": "Primeiro-ministro da Austrália (PM&C)",
+   "type": "comunicado",
+   "title": "Asia Zero Emissions Community Leaders' Meeting",
+   "date": "2026-11-17",
+   "authors": "Prime Minister of Australia",
+   "url": "https://www.pm.gov.au/media/asia-zero-emissions-community-leaders-meeting",
+   "summary": "O gabinete do primeiro-ministro da Austrália publica material sobre a reunião de líderes da Asia Zero Emissions Community, em 17 de novembro. O tema é a cooperação regional por descarbonização, relevante para o papel da Austrália como Presidente de Negociações da COP31. Resumo baseado apenas no título; o texto não foi lido.",
+   "summary_i18n": {
+    "en": "The Australian Prime Minister's office publishes material on the Asia Zero Emissions Community Leaders' Meeting held on 17 November. The topic is regional decarbonisation cooperation, relevant to Australia's role as COP31 President of Negotiations. Summary based only on the title; the text was not read.",
+    "es": "La oficina del Primer Ministro de Australia publica material sobre la Reunión de Líderes de la Comunidad de Cero Emisiones de Asia, celebrada el 17 de noviembre. El tema es la cooperación regional en descarbonización, relevante para el papel de Australia como Presidente de Negociaciones de la COP31. Resumen basado solo en el título; no se leyó el texto.",
+    "fr": "Le cabinet du Premier ministre australien publie un document sur la réunion des dirigeants de la Communauté Asie zéro émission, tenue le 17 novembre. Le sujet est la coopération régionale en matière de décarbonation, pertinente pour le rôle de l'Australie comme Président des négociations de la COP31. Résumé fondé uniquement sur le titre ; le texte n'a pas été lu.",
+    "ru": "Канцелярия премьер-министра Австралии опубликовала материал о встрече лидеров Азиатского сообщества нулевых выбросов, состоявшейся 17 ноября. Тема — региональное сотрудничество в сфере декарбонизации, важное для роли Австралии как Председателя переговоров СОР31. Резюме основано только на заголовке; текст не прочитан.",
+    "zh": "澳大利亚总理办公室发布了关于11月17日举行的亚洲零排放共同体领导人会议的材料。主题是区域脱碳合作，与澳大利亚担任COP31谈判主席的角色相关。摘要仅依据标题，未阅读正文。",
+    "ar": "ينشر مكتب رئيس وزراء أستراليا مادة عن اجتماع قادة مجتمع آسيا للانبعاثات الصفرية الذي عُقد في 17 نوفمبر. والموضوع هو التعاون الإقليمي في إزالة الكربون، وهو وثيق الصلة بدور أستراليا رئيسةً للمفاوضات في COP31. الملخص مبني على العنوان فقط، ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T06:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-pm-gov-au-media"
+  },
+  {
+   "id": "can-international-2026-11-17-adaptation-pittance",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "COP31 Adaptation: Developed countries offer pittance, not a pledge",
+   "date": "2026-11-17",
+   "authors": "",
+   "url": "https://climatenetwork.org/2026/11/17/cop31-adaptation-find-pittance/",
+   "summary": "A Climate Action Network International critica o que considera uma oferta insuficiente dos países desenvolvidos em financiamento de adaptação na COP31, descrita como \"pittance, not a pledge\". O comunicado trata das negociações de adaptação e de finanças. Resumo baseado apenas no título da listagem; o texto não foi lido.",
+   "summary_i18n": {
+    "en": "Climate Action Network International criticises what it sees as an inadequate offer by developed countries on adaptation finance at COP31, described as \"pittance, not a pledge\". The release bears on the adaptation and finance negotiations. Summary based only on the listing headline; the text was not read.",
+    "es": "La Red de Acción Climática Internacional (CAN International) critica lo que considera una oferta insuficiente de los países desarrollados en financiación para la adaptación en la COP31, descrita como \"pittance, not a pledge\". El comunicado se refiere a las negociaciones sobre adaptación y finanzas. Resumen basado solo en el titular del listado; no se leyó el texto.",
+    "fr": "Le Réseau Action Climat international (CAN International) critique ce qu'il juge être une offre insuffisante des pays développés en matière de financement de l'adaptation à la COP31, qualifiée de « pittance, not a pledge ». Le communiqué porte sur les négociations relatives à l'adaptation et aux finances. Résumé fondé uniquement sur le titre de la liste ; le texte n'a pas été lu.",
+    "ru": "Международная сеть климатических действий (CAN International) критикует то, что считает недостаточным предложением развитых стран по финансированию адаптации на СОР31, назвав его «pittance, not a pledge». Заявление относится к переговорам по адаптации и финансам. Резюме основано только на заголовке из списка; текст не прочитан.",
+    "zh": "国际气候行动网络（CAN International）批评发达国家在COP31上就适应资金提出的方案不足，称其为“pittance, not a pledge”。该新闻稿涉及适应和资金谈判。摘要仅依据列表标题，未阅读正文。",
+    "ar": "تنتقد شبكة العمل المناخي الدولية (CAN International) ما تعدّه عرضاً غير كافٍ من البلدان المتقدمة بشأن تمويل التكيف في COP31، ووصفته بعبارة \"pittance, not a pledge\". ويتعلق البيان بمفاوضات التكيف والتمويل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T06:35:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
   },
   {
    "id": "bluesky-350.org-20261117-rollback-taff",
@@ -24742,11 +24871,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T05:46:00-03:00",
-  "label": "18 nov 2026, 05:46 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
-  "new_items": 14,
+  "timestamp": "2026-11-18T06:43:07-03:00",
+  "label": "18 nov 2026, 06:43 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
