@@ -125,9 +125,15 @@
       "change": "withdrawn",
       "document_id": "10000357",
       "event_id": "8d39ad02f2a9c0941c7e8810"
+    },
+    {
+      "at": "2026-11-18T15:46:55.977066Z",
+      "change": "revised",
+      "document_id": "10000327",
+      "event_id": "dba7f81426c96541707f12aa"
     }
   ],
-  "checked_at": "2026-11-18T15:36:54.892882Z",
+  "checked_at": "2026-11-18T15:46:55.977066Z",
   "degraded": false,
   "documents": [
     {
@@ -2376,15 +2382,35 @@
         },
         {
           "language": "en",
-          "sha256": "2deb2332601301fa954f23ca33f6ce65aea8b0eb3eb268ddd1579466270e75c4",
-          "url": "https://docs.unfccc.int/documents/10000327/files/en/RSO_DT_SBSTA653.pdf"
+          "sha256": "fd90cc3a036db41915202a79ee00fe9c77c7e8ed25289ba057558eacee0a4f67",
+          "url": "https://docs.unfccc.int/documents/10000327/files/en/sbsta2026_L08E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "5cb9f8ee0a361b5e309b444ee3427f8d7fb68368bb69ba4cff62e2c9ade9db83",
+          "url": "https://docs.unfccc.int/documents/10000327/files/es/sbsta2026_L08S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "efe2508391fbae9027baab8d051b426dbff5bfca4f09e6b7bbbd155cff7a1303",
+          "url": "https://docs.unfccc.int/documents/10000327/files/fr/sbsta2026_L08F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "14ba2ad05b907c5ffab167951ee77e75aba365f20ac62478a7a195d80d62d19f",
+          "url": "https://docs.unfccc.int/documents/10000327/files/ru/sbsta2026_L08R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "4337695132251ab8d3b1d3b2c73c4d9b85199ea2c2de0944c31c0866820f396a",
+          "url": "https://docs.unfccc.int/documents/10000327/files/zh/sbsta2026_L08C.pdf"
         }
       ],
       "body": "Subsidiary Body for Scientific and Technological Advice (SBSTA)",
       "document_code": "FCCC/SBSTA/2026/L.8",
       "id": "10000327",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-18T15:37:43.634076Z",
+      "modified_at": "2026-11-18T15:37:49.770994Z",
       "published_at": "2026-11-14T18:00:00Z",
       "session": "SBSTA 65",
       "source_url": "https://docs.unfccc.int/documents/10000327/metadata",
@@ -2905,8 +2931,8 @@
     }
   ],
   "history_count": 22,
-  "last_attempt": "2026-11-18T15:36:54.892882Z",
-  "last_success": "2026-11-18T15:36:54.892882Z",
+  "last_attempt": "2026-11-18T15:46:55.977066Z",
+  "last_success": "2026-11-18T15:46:55.977066Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
