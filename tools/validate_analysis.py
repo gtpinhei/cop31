@@ -147,6 +147,14 @@ def validate(doc, root=ROOT):
                 errors.append(f"{aid}: reporting_date belongs to daily-diplomacy-brief")
         else:
             errors.append(f"{aid}: unsupported analysis format")
+    # AI explanations have no fabricated Today card; they must have exactly one index home.
+    for path in (root / "data" / "articles").glob("*.json"):
+        try:
+            article = json.loads(path.read_text())
+            if isinstance(article, dict) and "ai_provenance" in article and article.get("id") not in seen:
+                errors.append(f"{path.name}: AI article must be bound in the analysis index")
+        except (OSError, ValueError):
+            errors.append(f"{path.name}: unreadable public article")
     links = {r.get("article"): r.get("superseded_by") for r in doc["entries"] if isinstance(r, dict) and isinstance(r.get("article"), str)}
     for aid, target in links.items():
         if target is not None and (not isinstance(target, str) or target not in seen):
@@ -167,7 +175,15 @@ def validate(doc, root=ROOT):
 def problems(root=ROOT):
     path = root / "data" / "analysis.json"
     if not path.exists():
-        return []  # Backward-compatible for older snapshots and private tooling tests.
+        # Older human-only snapshots remain compatible, but AI content needs an index.
+        for article_path in (root / "data" / "articles").glob("*.json"):
+            try:
+                article = json.loads(article_path.read_text())
+                if isinstance(article, dict) and "ai_provenance" in article:
+                    return ["AI articles require a public analysis index"]
+            except (OSError, ValueError):
+                return ["public article unreadable"]
+        return []
     try:
         return validate(json.loads(path.read_text()), root)
     except (ValueError, OSError):

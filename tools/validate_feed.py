@@ -206,10 +206,11 @@ def check_corrections(cs, e):
             e.append(f"correction has unknown fields {sorted(set(c) - {'at', 'note', 'by', 'i18n'})}")
 
 
-def _check_i18n(tr, fields, e, extra_ok=()):
+def _check_i18n(tr, fields, e, extra_ok=(), allowed_langs=None):
+    allowed_langs = LANGS if allowed_langs is None else allowed_langs
     if not isinstance(tr, dict): e.append("i18n must be an object"); return {}
     for l, d in tr.items():
-        if l not in LANGS: e.append(f"i18n has unknown language {l!r}"); continue
+        if l not in allowed_langs: e.append(f"i18n has unknown language {l!r}"); continue
         if not isinstance(d, dict): e.append(f"i18n[{l}] must be an object"); continue
         for k, v in d.items():
             if k in fields:
@@ -302,8 +303,8 @@ def check_article(a, public=True):
         if leak: e.append(f"public article mentions private-store material: {leak}")
     if "language" in a and a["language"] not in {"pt", "en", "es", "fr", "ru", "zh", "ar"}: e.append("invalid original article language")
     if not _str(a.get("title")): e.append("missing title")
-    if not (isinstance(a.get("entries"), list) and a["entries"] and all(_str(x) for x in a["entries"])):
-        e.append("article needs entries: the ids of the Today cards it expands")
+    if not (isinstance(a.get("entries"), list) and (a["entries"] or "ai_provenance" in a) and all(_str(x) for x in a["entries"])):
+        e.append("article needs Today card ids; AI text articles may use an empty list and bind through the analysis index")
     blocks = a.get("blocks")
     if not isinstance(blocks, list) or not blocks: e.append("article needs blocks"); blocks = []
     for i, b in enumerate(blocks):
@@ -316,14 +317,14 @@ def check_article(a, public=True):
     check_sources(a.get("sources"), e, public)
     check_contributor(a.get("contributor"), e)
     check_corrections(a.get("corrections"), e)
-    tr = _check_i18n(a.get("i18n") or {}, ARTICLE_TEXT, e, extra_ok=("blocks",))
+    tr = _check_i18n(a.get("i18n") or {}, ARTICLE_TEXT, e, extra_ok=("blocks",), allowed_langs=set(LANGS) | {"pt"})
     for l, d in tr.items():
         if isinstance(d, dict) and "blocks" in d:
             bl = d["blocks"]
             if not (isinstance(bl, list) and len(bl) == len(blocks) and all(isinstance(x, dict) and _str(x.get("md")) for x in bl)):
                 e.append(f"i18n[{l}].blocks must translate every block (same count, each with md)")
     pending = a.get("i18n_pending", [])
-    if not isinstance(pending, list) or any(l not in LANGS for l in pending): e.append("i18n_pending must list language codes")
+    if not isinstance(pending, list) or any(l not in set(LANGS) | {"pt"} for l in pending): e.append("i18n_pending must list language codes")
     if st == "published":
         if "ai_provenance" in a:
             import importlib.util
@@ -334,7 +335,8 @@ def check_article(a, public=True):
             e.append("published article needs approved_by and approved_at")
         texts = [a.get(f) for f in ARTICLE_TEXT] + [b.get("md") for b in blocks if isinstance(b, dict)]
         if any(_markers(v) for v in texts): e.append("published article still contains review markers")
-        for l in LANGS:
+        for l in set(LANGS) | {"pt"}:
+            if l == a.get("language", "pt"): continue
             if l in (pending if isinstance(pending, list) else []): continue
             d = tr.get(l) if isinstance(tr.get(l), dict) else {}
             if not (_str(d.get("title")) and isinstance(d.get("blocks"), list)):

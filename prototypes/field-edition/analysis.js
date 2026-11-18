@@ -29,9 +29,11 @@ function analysisDocumentLinks(){
  document.querySelectorAll('#documents .analysis-document-link').forEach(n=>n.remove());
  const labels=detailLabels[lang]||detailLabels.en;
  for(const card of document.querySelectorAll('#documents .document')){
+  const genericStatus=card.querySelector('.document-comparison-status'),genericNote=card.querySelector('.document-comparison-note');if(genericStatus)genericStatus.textContent=t(19);if(genericNote)genericNote.hidden=false;
   const doc=data.documents?.documents?.find(d=>String(d.id)===card.dataset.documentId);
   if(!doc)continue;
   for(const row of approvedAnalyses.filter(r=>analysisMatchesDocument(r,doc))){
+   if(row.comparison.status==='compared'){const status=card.querySelector('.document-comparison-status'),note=card.querySelector('.document-comparison-note');if(status)status.textContent=al(7)+' · '+row.comparison.baseline.version_label;if(note)note.hidden=true;}
    const panel=document.createElement('section');panel.className='analysis-document-link analysis-inline';
    panel.setAttribute('aria-label',al(2)+' · '+row.document.version_label);
    if(row.content.ai_provenance){const badge=document.createElement('p');badge.className='badge';badge.textContent=aiLabels[lang]||aiLabels.en;panel.append(badge)}

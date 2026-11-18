@@ -1,0 +1,131 @@
+{
+  "schema": 1,
+  "id": "ldc-draft-10000354-2026-11-18",
+  "entries": [],
+  "status": "published",
+  "language": "en",
+  "title": "LDC draft: what changed between 11:42 and 14:31",
+  "standfirst": "Selected changes clarify the Convention reference, revise support terminology and institutional references, and remove explicit “for adoption” wording from provisions concerning November 2027 recommendations.",
+  "reporting_note": "AI-generated pilot drafted from selected public UNFCCC PDF excerpts in a fresh context and checked against the source passages by a separate AI reviewer. No human editorial approval. This is not an autonomous monitoring-to-publication pipeline.",
+  "blocks": [
+    {
+      "basis": "verified",
+      "heading": "COP preamble",
+      "md": "The COP preamble replaces recognition of LDC needs with a fuller reference to Article 4.9, recalling that Parties shall take full account of those needs regarding funding and technology transfer.\n\n[Reviewed baseline, p. 1](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=1) · [Revised draft, p. 1](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=1)"
+    },
+    {
+      "basis": "verified",
+      "heading": "COP paragraph 8",
+      "md": "The COP draft replaces “technical guidance” with “technical assistance” in the national adaptation plan implementation-platform provision.\n\n[Reviewed baseline, p. 2](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=2) · [Revised draft, p. 2](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=2)"
+    },
+    {
+      "basis": "verified",
+      "heading": "COP paragraphs 10 and 21",
+      "md": "COP paragraph 10 explicitly identifies implementing agencies of the Least Developed Countries Fund. Paragraph 21 replaces forwarding “those recommendations” “for adoption” with forwarding “a recommendation” to COP’s November 2027 session.\n\n[Reviewed baseline, p. 3](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=3) · [Revised draft, p. 3](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=3) · [Baseline paragraph 21, p. 4](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=4) · [Revised paragraph 21, p. 4](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=4)"
+    },
+    {
+      "basis": "verified",
+      "heading": "CMA paragraph 9",
+      "md": "CMA paragraph 9 explicitly identifies implementing agencies of the Least Developed Countries Fund, revising the earlier grouping with accredited entities and implementing agencies.\n\n[Reviewed baseline, p. 7](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=7) · [Revised draft, p. 7](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=7)"
+    },
+    {
+      "basis": "verified",
+      "heading": "CMA paragraph 20",
+      "md": "CMA paragraph 20 replaces forwarding “those recommendations” “for adoption” with forwarding “a recommendation” to CMA’s November 2027 session.\n\n[Reviewed baseline, p. 8](https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf#page=8) · [Revised draft, p. 8](https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf#page=8)"
+    },
+    {
+      "basis": "analysis",
+      "heading": "Why it matters",
+      "md": "Removing “for adoption” makes the stated procedural destination less explicit about the intended decision outcome; it does not establish what Parties will decide."
+    },
+    {
+      "basis": "analysis",
+      "heading": "What to watch",
+      "md": "Check whether subsequent drafts retain the revised recommendation wording."
+    },
+    {
+      "basis": "verified",
+      "heading": "Scope and version limits",
+      "md": "Both texts are drafts; comparison does not establish consensus, adoption or political intent.\n\nOnly this pair and supplied excerpts were considered. Selected changes are not exhaustive.\n\nNo changed funding amount is identified in the supplied excerpts; finance delivery is not assessed.\n\nThe baseline (10000350) is withdrawn. This comparison used retained original official PDF bytes, identified by the baseline hash in the source record. At verification, its official URL returned a different PDF; the link does not provide the reviewed original bytes. The revised document (10000354) remained a draft in the UNFCCC catalog at 12:07 UTC on 18 November 2026. Neither text is presented as an adopted outcome.\n\nReviewed baseline PDF SHA-256: e37aa978168fdd53a838a0397bc50e6d90d77be7be05c8d58dcdf1159590aa86"
+    }
+  ],
+  "contributor": {
+    "display": "named",
+    "name": "COP31 Monitor AI",
+    "role": "analyst"
+  },
+  "sources": [
+    {
+      "title": "Revised LDC draft · 18 November 2026, 14:31",
+      "publisher": "UNFCCC",
+      "kind": "official",
+      "url": "https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf",
+      "verified": true
+    },
+    {
+      "title": "Reviewed baseline LDC draft · 18 November 2026, 11:42 · withdrawn",
+      "publisher": "UNFCCC",
+      "kind": "official",
+      "url": "https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf",
+      "verified": true,
+      "note": "Comparison uses retained original official bytes. This URL now returns a different PDF; see baseline hash and version caveat."
+    },
+    {
+      "title": "Official catalog status of revised draft 10000354",
+      "publisher": "UNFCCC",
+      "kind": "official",
+      "url": "https://docs.unfccc.int/documents/10000354/metadata",
+      "verified": true
+    },
+    {
+      "title": "Official withdrawal status of baseline 10000350",
+      "publisher": "UNFCCC",
+      "kind": "official",
+      "url": "https://docs.unfccc.int/documents/10000350/metadata",
+      "verified": true
+    }
+  ],
+  "i18n_pending": [
+    "pt",
+    "es",
+    "fr",
+    "ru",
+    "zh",
+    "ar"
+  ],
+  "ai_provenance": {
+    "schema": 1,
+    "mode": "public-unfccc-diff",
+    "generated_at": "2026-11-18T12:05:50.996959+00:00",
+    "model": "OpenAI assistant (model identifier not exposed)",
+    "prompt_version": "official-pdf-delta-pilot-v1",
+    "authorization": "owner-public-unfccc-analysis-2026-11-18",
+    "source_documents": [
+      {
+        "id": "10000350",
+        "url": "https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf",
+        "version_label": "Version 18/11/2026 11:42",
+        "sha256": "e37aa978168fdd53a838a0397bc50e6d90d77be7be05c8d58dcdf1159590aa86",
+        "reviewed_at": "2026-11-18T12:01:49.656350+00:00"
+      },
+      {
+        "id": "10000354",
+        "url": "https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf",
+        "version_label": "Version 18/11/2026 14:31",
+        "sha256": "898d8c18ceb0f25a0d6de2d4c4f66aa7341c5a942da845664b5fadf180628049",
+        "reviewed_at": "2026-11-18T12:02:00.341904+00:00"
+      }
+    ],
+    "qa": {
+      "status": "passed",
+      "checked_at": "2026-11-18T12:06:38.933757+00:00",
+      "checks": [
+        "official_sources_only",
+        "pdf_bytes_verified",
+        "version_identity_verified",
+        "evidence_links_checked",
+        "confidential_inputs_excluded"
+      ]
+    }
+  }
+}

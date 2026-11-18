@@ -11,7 +11,7 @@ async function boot(entries=[],articles={}){
  if(u==='data/today.json')return {ok:true,json:async()=>({entries:[{status:'published',approved_by:'SYNTHETIC',approved_at:'2026-11-17',headline:'DUPLICATE CARD',article:row.article,sources:[{verified:true}]}]})};
  if(u.includes('/articles/')){const a=articles[u.split('/').pop().replace('.json','')];return {ok:!!a,json:async()=>a}}
  return {ok:true,json:async()=>JSON.parse(fs.readFileSync(__dirname+'/'+u))}};
- w.eval(['app.js','canonical.js','migration.js','retention.js','analysis-core.js','analysis.js'].map(f=>fs.readFileSync(__dirname+'/'+f,'utf8')).join('\n')+';window.gate=analysisAllowed;window.docGate=analysisDocument;window.translationView=analysisTitle;window.refreshAnalysis=renderAnalysis;window.setDocs=v=>{data.documents=v};');
+ w.eval(['app.js','canonical.js','migration.js','retention.js','analysis-core.js','analysis.js'].map(f=>fs.readFileSync(__dirname+'/'+f,'utf8')).join('\n')+';window.gate=analysisAllowed;window.docGate=analysisDocument;window.translationView=analysisTitle;window.refreshAnalysis=renderAnalysis;window.setDocs=v=>{data.documents=v};window.setAnalyses=v=>{approvedAnalyses=v};');
  await tick();return {w,calls};
 }
 (async()=>{
@@ -25,6 +25,11 @@ async function boot(entries=[],articles={}){
  const cards=w.document.getElementById('documents');w.setDocs({documents:[{id:doc.id,attachments:[{url:doc.url,sha256:doc.sha256}]}]});cards.innerHTML='<article class="document" data-document-id="'+doc.id+'"><a href="'+doc.url+'">PDF</a></article><article class="document"><a href="https://unfccc.int/other.pdf">Other</a></article>';w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);
  assert(cards.textContent.includes('SYNTHETIC change <unsafe>'));assert(!cards.querySelector('unsafe'));assert(cards.querySelector('.analysis-read').hash==='#hoje/leitura/synthetic-text');
  w.setDocs({documents:[{id:doc.id,attachments:[{url:doc.url,sha256:'b'.repeat(64)}]}]});w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-inline').length,0,'same URL changed PDF must not show old summary');
+ w.setDocs({documents:[{id:doc.id,attachments:[{url:doc.url,sha256:doc.sha256}]}]});
+ cards.innerHTML='<article class="document" data-document-id="'+doc.id+'"><span class="document-comparison-status">Change not compared</span><span class="document-comparison-note">No comparison available</span></article><article class="document" data-document-id="other"><span class="document-comparison-status">Change not compared</span><span class="document-comparison-note">No comparison available</span></article>';
+ w.setAnalyses([{...row,comparison:{status:'compared',baseline:{...doc,version_label:'SYNTHETIC baseline'}},content:article}]);w.refreshAnalysis();
+ assert(cards.querySelector('.document-comparison-status').textContent.includes('SYNTHETIC baseline'));assert(cards.querySelector('.document-comparison-note').hidden);assert(!cards.querySelector('[data-document-id="other"] .document-comparison-status').textContent.includes('SYNTHETIC baseline'));assert(!cards.querySelector('[data-document-id="other"] .document-comparison-note').hidden);
+ w.setAnalyses([]);w.refreshAnalysis();assert(!cards.querySelector('.document-comparison-status').textContent.includes('SYNTHETIC baseline'));assert(!cards.querySelector('.document-comparison-note').hidden);
  for(const change of [{status:'draft'},{approved_by:''},{approved_at:'bad'},{contributor:null},{sources:[]},{id:'other'}])assert(!w.gate(row,{...article,...change}),JSON.stringify(change));
  assert(!w.gate({...row,document:{...doc,url:'https://evil.test'}},article));assert(!w.gate({...row,comparison:{status:'compared'}},article));assert(!w.docGate({...doc,url:'https://localhost/a'}));w.close();
  ({w}=await boot([{...row,superseded_by:'missing-new'}],{[row.article]:article}));assert(w.document.getElementById('original-analysis').hidden);w.close();

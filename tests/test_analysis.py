@@ -135,11 +135,17 @@ class AIReleaseGate(unittest.TestCase):
         self.baseline=dict(self.document, id='synthetic-before', url='https://unfccc.int/before.pdf',sha256='b'*64)
         self.row={'article':'synthetic-brief','format':'text-explained','document':self.document,'comparison':{'status':'compared','baseline':self.baseline}}
         self.article['language']='en'
+        self.article['entries']=[]
+        self.article['i18n_pending']=['pt','es','fr','ru','zh','ar']
         self.article.pop('approved_by');self.article.pop('approved_at')
         self.article['sources'].append({'url':self.baseline['url'],'verified':True})
         self.article['contributor']={'display':'named','name':'COP31 Monitor AI','role':'analyst'}
         self.article['ai_provenance']={'schema':1,'mode':'public-unfccc-diff','generated_at':'2026-11-18T00:00:00Z','model':'SYNTHETIC TEST MODEL','prompt_version':'synthetic-v1','authorization':'owner-public-unfccc-analysis-2026-11-18','source_documents':[self.baseline,self.document],'qa':{'status':'passed','checked_at':'2026-11-18T00:01:00Z','checks':['official_sources_only','pdf_bytes_verified','version_identity_verified','evidence_links_checked','confidential_inputs_excluded']}}
         self.write()
+    def test_ai_article_requires_index_home(self):
+        self.assertTrue(self.check([]))
+        self.assertTrue(gate.problems(self.root))
+
     def test_explicit_ai_not_human_approval(self):
         self.assertEqual(self.check(),[])
         self.article['approved_by']='SYNTHETIC fake editor';self.write()
