@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18T12:17:46-03:00",
+ "generated_at": "2026-11-18T18:16:49-03:00",
  "round": {
-  "timestamp": "2026-11-18T12:17:46-03:00",
-  "label": "18 nov 2026, 12:17 (Brasília)",
-  "sites_checked": 52,
-  "blocked": 10,
-  "new_items": 4,
+  "timestamp": "2026-11-18T18:16:49-03:00",
+  "label": "18 nov 2026, 18:16 (Brasília)",
+  "sites_checked": 51,
+  "blocked": 9,
+  "new_items": 7,
   "fetches": "58 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
@@ -14,12 +14,11 @@
    "web-unep-org-resources-emissions-gap-report-2026",
    "web-iea-org-events-world-energy-outlook-2026",
    "web-caneurope-org-news",
-   "web-wwf-panda-org-wwf-news",
-   "web-politicaporinteiro-org-en",
    "web-icccad-net-news",
    "web-eurodad-org-news",
    "web-odi-org-en-insights",
-   "web-twn-my-title2-climate-climate-updates-htm"
+   "web-twn-my-title2-climate-climate-updates-htm",
+   "web-politicaporinteiro-org-en"
   ]
  },
  "tracks": [
@@ -40,6 +39,152 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "actionaid-2026-11-18-eu-villain",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "'The EU has taken off its mask': ActionAid warns bloc is the new climate 'villain'",
+   "date": "2026-11-18",
+   "authors": "Brandon Wu (ActionAid USA)",
+   "url": "https://actionaid.org/news/2026/eu-has-taken-its-mask-actionaid-warns-bloc-new-climate-villain",
+   "summary": "Em entrevista coletiva da Rede de Ação Climática na COP31, Brandon Wu, da ActionAid EUA, acusou a UE de liderar o bloqueio em finanças de adaptação e transição justa. Segundo ele, os países desenvolvidos prometeram apenas US$ 50 milhões ao Fundo de Adaptação este ano e resistem ao triplicamento da finança de adaptação acordado em Belém. A crítica incide sobre as trilhas de Finanças, Adaptação e Transição justa.",
+   "summary_i18n": {
+    "en": "At a Climate Action Network press conference at COP31, ActionAid USA's Brandon Wu accused the EU of leading the blocking on adaptation finance and just transition. He said developed countries have pledged only US$ 50 million to the Adaptation Fund this year and are resisting the tripling of adaptation finance agreed in Belém. The criticism bears on the Finance, Adaptation and Just Transition tracks.",
+    "es": "En una rueda de prensa de la Red de Acción por el Clima en la COP31, Brandon Wu, de ActionAid EE. UU., acusó a la UE de liderar el bloqueo en la financiación de la adaptación y la transición justa. Según él, los países desarrollados solo han prometido US$ 50 millones al Fondo de Adaptación este año y se resisten a triplicar la financiación para la adaptación acordada en Belém. La crítica atañe a las vías de Finanzas, Adaptación y Transición justa.",
+    "fr": "Lors d'une conférence de presse du Réseau Action Climat à la COP31, Brandon Wu, d'ActionAid États-Unis, a accusé l'UE de mener le blocage sur le financement de l'adaptation et la transition juste. Selon lui, les pays développés n'ont promis que 50 millions de dollars au Fonds pour l'adaptation cette année et refusent le triplement du financement de l'adaptation convenu à Belém. La critique concerne les volets Finance, Adaptation et Transition juste.",
+    "ru": "На пресс-конференции Сети действий по климату на КС-31 Брэндон Ву из ActionAid США обвинил ЕС в том, что он возглавляет блокирование по финансированию адаптации и справедливому переходу. По его словам, развитые страны пообещали в этом году Адаптационному фонду лишь 50 млн долл. США и сопротивляются утроению финансирования адаптации, согласованному в Белене. Критика относится к направлениям «Финансы», «Адаптация» и «Справедливый переход».",
+    "zh": "在COP31气候行动网络的新闻发布会上，ActionAid美国的Brandon Wu指责欧盟在适应资金和公正转型问题上带头阻挠。他表示，发达国家今年仅向适应基金承诺了5000万美元，并抵制贝伦会议商定的适应资金翻两番。这一批评涉及资金、适应和公正转型三条谈判轨道。",
+    "ar": "خلال مؤتمر صحفي لشبكة العمل المناخي في مؤتمر الأطراف الحادي والثلاثين، اتهم براندون وو من منظمة أكشن إيد الولايات المتحدة الاتحاد الأوروبي بقيادة عرقلة تمويل التكيف والانتقال العادل. وقال إن البلدان المتقدمة لم تتعهد هذا العام إلا بمبلغ 50 مليون دولار لصندوق التكيف، وتقاوم مضاعفة تمويل التكيف ثلاث مرات المتفق عليها في بيليم. ويتصل هذا النقد بمساري التمويل والتكيف والانتقال العادل."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Transição justa"
+   ],
+   "quotes": [
+    "Brandon Wu: \"We are seeing massive steps backwards on adaptation finance and just transition, with the EU leading the blocking.\"",
+    "Brandon Wu: \"Developed countries have pledged a record low $50m for the Adaptation Fund this year\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
+  },
+  {
+   "id": "oilchange-2026-11-18-roadmaps-ireland",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Growing group of countries submit fossil fuel transition roadmaps at COP31",
+   "date": "2026-11-18",
+   "authors": "Romain Ioualalen; contato de imprensa Nicole Rodel",
+   "url": "https://oilchange.org/news/growing-group-of-countries-submit-fossil-fuel-transition-roadmaps-at-cop31/",
+   "summary": "A Oil Change International registra que a Irlanda se junta a França, Alemanha, Países Baixos, Suécia, Finlândia, Reino Unido, Dinamarca, Portugal e países do Pacífico na apresentação de roteiros nacionais de transição dos combustíveis fósseis na COP31. A organização diz que os roteiros só serão críveis com vontade política, finanças públicas e prazo acelerado, e pede que as presidências da Türkiye e da Austrália levem o processo para dentro da UNFCCC. Trilha: TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change International reports that Ireland has joined France, Germany, the Netherlands, Sweden, Finland, the UK, Denmark, Portugal and Pacific nations in submitting national fossil fuel transition roadmaps at COP31. The organisation says the roadmaps will only be credible with political will, public finance and an accelerated timeline, and urges the Turkish and Australian presidencies to bring the process under the UNFCCC. Track: TAFF and fossil fuels.",
+    "es": "Oil Change International informa de que Irlanda se suma a Francia, Alemania, los Países Bajos, Suecia, Finlandia, el Reino Unido, Dinamarca, Portugal y naciones del Pacífico en la presentación de hojas de ruta nacionales de transición de los combustibles fósiles en la COP31. La organización afirma que las hojas de ruta solo serán creíbles con voluntad política, financiación pública y un calendario acelerado, e insta a las presidencias de Turquía y Australia a llevar el proceso al marco de la CMNUCC. Vía: TAFF y combustibles fósiles.",
+    "fr": "Oil Change International indique que l'Irlande rejoint la France, l'Allemagne, les Pays-Bas, la Suède, la Finlande, le Royaume-Uni, le Danemark, le Portugal et des pays du Pacifique parmi ceux qui présentent des feuilles de route nationales de transition hors des combustibles fossiles à la COP31. L'organisation estime que ces feuilles de route ne seront crédibles qu'avec une volonté politique, des financements publics et un calendrier accéléré, et exhorte les présidences de la Turquie et de l'Australie à placer le processus sous l'égide de la CCNUCC. Volet : TAFF et combustibles fossiles.",
+    "ru": "Oil Change International сообщает, что Ирландия присоединилась к Франции, Германии, Нидерландам, Швеции, Финляндии, Великобритании, Дании, Португалии и тихоокеанским странам, представившим на КС-31 национальные дорожные карты перехода от ископаемого топлива. По мнению организации, дорожные карты будут убедительны лишь при политической воле, государственном финансировании и ускоренных сроках; она призывает президентства Турции и Австралии вывести процесс в рамки РКИК ООН. Направление: ТАФФ и ископаемое топливо.",
+    "zh": "Oil Change International报告称，爱尔兰已加入法国、德国、荷兰、瑞典、芬兰、英国、丹麦、葡萄牙和太平洋国家的行列，在COP31上提交国家化石燃料转型路线图。该组织表示，路线图只有在政治意愿、公共资金和加快时间表的支持下才可信，并敦促土耳其和澳大利亚主席团将该进程纳入《联合国气候变化框架公约》。轨道：TAFF与化石燃料。",
+    "ar": "تفيد منظمة أويل تشينج إنترناشونال بأن أيرلندا انضمت إلى فرنسا وألمانيا وهولندا والسويد وفنلندا والمملكة المتحدة والدانمرك والبرتغال ودول المحيط الهادئ في تقديم خرائط طريق وطنية للانتقال بعيداً عن الوقود الأحفوري في مؤتمر الأطراف الحادي والثلاثين. وترى المنظمة أن خرائط الطريق لن تكون ذات مصداقية إلا بالإرادة السياسية والتمويل العام وجدول زمني متسارع، وتحث رئاستي تركيا وأستراليا على إدراج العملية في إطار اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. المسار: الانتقال بعيداً عن الوقود الأحفوري."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Romain Ioualalen: \"Ireland is the latest country to join the growing momentum for national fossil fuel transition roadmaps.\"",
+    "Romain Ioualalen: \"roadmaps will only be as credible as the political will to back them.\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-18-australia-korea-mou",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Australia and South Korea sign joint Memorandum of Understanding at COP31",
+   "date": "2026-11-18",
+   "authors": "Adam McGibbon",
+   "url": "https://oilchange.org/news/australia-and-south-korea-sign-joint-memorandum-of-understanding-at-cop31/",
+   "summary": "Adam McGibbon, da Oil Change International, reage ao memorando de entendimento entre Austrália e Coreia do Sul na COP31 e pede que Seul adira à Clean Energy Transition Partnership e encerre o financiamento público internacional a fósseis. Segundo o relatório citado, os signatários da CETP, incluindo a Austrália, cortaram esse financiamento em até 80% (US$ 8,5–13,2 bilhões por ano), enquanto a Coreia do Sul é o maior financiador internacional de fósseis sem esse compromisso. Trilhas: Finanças e TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Adam McGibbon of Oil Change International reacts to the Australia–South Korea memorandum of understanding at COP31 and urges Seoul to join the Clean Energy Transition Partnership and end international public finance for fossil fuels. According to the report he cites, CETP signatories, including Australia, have cut such finance by up to 80% (US$ 8.5–13.2 billion a year), while South Korea is the largest international financier of fossil fuels without that commitment. Tracks: Finance and TAFF and fossil fuels.",
+    "es": "Adam McGibbon, de Oil Change International, reacciona al memorando de entendimiento entre Australia y la República de Corea en la COP31 e insta a Seúl a unirse a la Clean Energy Transition Partnership y a poner fin a la financiación pública internacional de los combustibles fósiles. Según el informe que cita, los signatarios de la CETP, incluida Australia, han recortado esa financiación hasta en un 80 % (US$ 8.500–13.200 millones al año), mientras que la República de Corea es el mayor financiador internacional de combustibles fósiles sin ese compromiso. Vías: Finanzas y TAFF y combustibles fósiles.",
+    "fr": "Adam McGibbon, d'Oil Change International, réagit au protocole d'accord entre l'Australie et la République de Corée à la COP31 et exhorte Séoul à rejoindre la Clean Energy Transition Partnership et à mettre fin au financement public international des combustibles fossiles. Selon le rapport cité, les signataires du CETP, dont l'Australie, ont réduit ce financement jusqu'à 80 % (8,5 à 13,2 milliards de dollars par an), tandis que la République de Corée est le premier bailleur international de combustibles fossiles sans cet engagement. Volets : Finance et TAFF et combustibles fossiles.",
+    "ru": "Адам Макгиббон из Oil Change International комментирует меморандум о взаимопонимании между Австралией и Республикой Корея на КС-31 и призывает Сеул присоединиться к Clean Energy Transition Partnership и прекратить международное государственное финансирование ископаемого топлива. Согласно цитируемому докладу, подписанты CETP, включая Австралию, сократили такое финансирование до 80% (8,5–13,2 млрд долл. США в год), тогда как Республика Корея — крупнейший международный финансист ископаемого топлива без такого обязательства. Направления: «Финансы» и «ТАФФ и ископаемое топливо».",
+    "zh": "Oil Change International的Adam McGibbon对澳大利亚与韩国在COP31上签署的谅解备忘录作出回应，敦促首尔加入清洁能源转型伙伴关系（CETP），并终止对化石燃料的国际公共融资。据其引用的报告，包括澳大利亚在内的CETP签署方已将此类融资削减最多80%（每年85亿至132亿美元），而韩国是尚未作出这一承诺的最大国际化石燃料融资方。轨道：资金，TAFF与化石燃料。",
+    "ar": "يعلّق آدم ماكجيبون من أويل تشينج إنترناشونال على مذكرة التفاهم بين أستراليا وجمهورية كوريا في مؤتمر الأطراف الحادي والثلاثين، ويحث سيول على الانضمام إلى شراكة الانتقال إلى الطاقة النظيفة (CETP) وإنهاء التمويل العام الدولي للوقود الأحفوري. ووفقاً للتقرير الذي يستشهد به، خفّض الموقّعون على الشراكة، ومنهم أستراليا، هذا التمويل بنسبة تصل إلى 80% (8.5 إلى 13.2 مليار دولار سنوياً)، بينما تظل جمهورية كوريا أكبر ممول دولي للوقود الأحفوري دون هذا الالتزام. المساران: التمويل والانتقال بعيداً عن الوقود الأحفوري."
+   },
+   "tracks": [
+    "Finanças",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Adam McGibbon: \"South Korea could sign this today, and Australia could help them develop the policy over the next 12 months.\"",
+    "Adam McGibbon: \"Without committing to clear actions like this, the memorandum both countries signed yesterday is meaningless.\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-18-media-advisory",
+   "institution": "Oil Change International",
+   "type": "briefing",
+   "title": "Oil Change International COP31 Media Advisory – November 17, 2026",
+   "date": "2026-11-18",
+   "authors": "Romain Ioualalen; contato de imprensa Nicole Rodel",
+   "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-17-2026-2/",
+   "summary": "O aviso à imprensa da Oil Change International, datado de 17 e publicado em 18 de novembro em Antalya, diz que vários países apresentaram roteiros para superar os fósseis, enquanto países ricos estariam trabalhando para travar as negociações sobre finanças públicas climáticas. Lista eventos, ações e temas de porta-vozes e informa que o próximo rascunho da decisão de cobertura era esperado no mesmo dia. Trilhas: Finanças, TAFF e fósseis e Decisão de cobertura.",
+   "summary_i18n": {
+    "en": "Oil Change International's media advisory, dated 17 and published 18 November in Antalya, says several countries have put forward roadmaps for moving beyond fossil fuels while wealthy nations are reportedly working to stall negotiations on public climate finance. It lists press events, actions and spokesperson topics, and says the next draft of the cover decision was expected later that day. Tracks: Finance, TAFF and fossil fuels, and Cover decision.",
+    "es": "El aviso a la prensa de Oil Change International, fechado el 17 y publicado el 18 de noviembre en Antalya, afirma que varios países han presentado hojas de ruta para superar los combustibles fósiles, mientras que, según se informa, los países ricos trabajan para frenar las negociaciones sobre financiación pública climática. Enumera actos de prensa, acciones y temas de los portavoces, y señala que el siguiente borrador de la decisión de cobertura se esperaba ese mismo día. Vías: Finanzas, TAFF y combustibles fósiles, y Decisión de cobertura.",
+    "fr": "L'avis aux médias d'Oil Change International, daté du 17 et publié le 18 novembre à Antalya, indique que plusieurs pays ont présenté des feuilles de route pour sortir des combustibles fossiles, tandis que les pays riches chercheraient à freiner les négociations sur le financement public climatique. Il énumère les événements presse, les actions et les thèmes des porte-parole, et précise que le prochain projet de décision de couverture était attendu plus tard dans la journée. Volets : Finance, TAFF et combustibles fossiles, et Décision de couverture.",
+    "ru": "В пресс-уведомлении Oil Change International, датированном 17 и опубликованном 18 ноября в Анталье, говорится, что несколько стран представили дорожные карты отказа от ископаемого топлива, тогда как богатые страны, как сообщается, стремятся затормозить переговоры о государственном климатическом финансировании. В нём перечислены мероприятия для прессы, акции и темы спикеров, а также указано, что следующий проект итогового решения ожидался позднее в тот же день. Направления: «Финансы», «ТАФФ и ископаемое топливо» и «Итоговое решение».",
+    "zh": "Oil Change International的媒体通告日期为11月17日，于11月18日在安塔利亚发布，称多个国家已提出摆脱化石燃料的路线图，而富裕国家据报正设法拖延气候公共资金谈判。通告列出了新闻活动、行动和发言人议题，并称下一版一揽子决定草案预计当天稍晚发布。轨道：资金、TAFF与化石燃料、一揽子决定。",
+    "ar": "تفيد النشرة الإعلامية لمنظمة أويل تشينج إنترناشونال، المؤرخة في 17 نوفمبر والمنشورة في 18 نوفمبر في أنطاليا، بأن عدة بلدان قدمت خرائط طريق للتحرر من الوقود الأحفوري، بينما تعمل البلدان الغنية، بحسب ما ورد، على تعطيل المفاوضات بشأن التمويل المناخي العام. وتسرد النشرة الفعاليات الصحفية والإجراءات وموضوعات المتحدثين، وتذكر أن المسودة التالية للقرار الجامع كانت متوقعة في اليوم نفسه. المسارات: التمويل، والانتقال بعيداً عن الوقود الأحفوري، والقرار الجامع."
+   },
+   "tracks": [
+    "Finanças",
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "Romain Ioualalen: \"You can't design an exit ramp from fossil fuels and then refuse to fund the offramp.\"",
+    "Romain Ioualalen: \"The money does exist if rich countries end fossil fuel subsidies, tax big polluters, and change unfair financial rules.\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "kbpo-2026-11-18-big-ag-lobbyists",
+   "institution": "Kick Big Polluters Out",
+   "type": "release",
+   "title": "RELEASE: Fertilizer, Big Meat and Biofuels Among 260 Food Sector Lobbyists at COP31",
+   "date": "2026-11-18",
+   "authors": "Kick Big Polluters Out (análise da DeSmog)",
+   "url": "https://kickbigpollutersout.org/Big-Ag-COP31",
+   "summary": "A análise da DeSmog divulgada pela coalizão Kick Big Polluters Out conta 260 lobistas do setor de alimentos e agricultura com acesso às negociações em Antalya, 43% deles em delegações nacionais. O total é 18% menor que na COP30, mas cerca de 40% maior que na COP27; carne e laticínios enviaram mais lobistas (71) e os de fertilizantes aumentaram 45% em um ano. Trilha: Espaço cívico.",
+   "summary_i18n": {
+    "en": "DeSmog's analysis released by the Kick Big Polluters Out coalition counts 260 food and agriculture lobbyists with access to the talks in Antalya, 43% of them attending within national delegations. The total is 18% lower than at COP30 but about 40% higher than at COP27; meat and dairy sent the most lobbyists (71) and fertilizer delegates rose 45% year on year. Track: Civic space.",
+    "es": "El análisis de DeSmog difundido por la coalición Kick Big Polluters Out contabiliza 260 cabilderos del sector alimentario y agrícola con acceso a las negociaciones en Antalya, el 43 % de ellos dentro de delegaciones nacionales. El total es un 18 % inferior al de la COP30, pero cerca de un 40 % superior al de la COP27; la carne y los lácteos enviaron más cabilderos (71) y los de fertilizantes aumentaron un 45 % interanual. Vía: Espacio cívico.",
+    "fr": "L'analyse de DeSmog diffusée par la coalition Kick Big Polluters Out recense 260 lobbyistes de l'alimentation et de l'agriculture ayant accès aux négociations à Antalya, dont 43 % au sein de délégations nationales. Ce total est inférieur de 18 % à celui de la COP30 mais supérieur d'environ 40 % à celui de la COP27 ; la viande et les produits laitiers ont envoyé le plus de lobbyistes (71) et ceux des engrais ont augmenté de 45 % en un an. Volet : Espace civique.",
+    "ru": "Анализ DeSmog, опубликованный коалицией Kick Big Polluters Out, насчитывает 260 лоббистов пищевого и сельскохозяйственного сектора с доступом к переговорам в Анталье, 43% из них входят в состав национальных делегаций. Это на 18% меньше, чем на КС-30, но примерно на 40% больше, чем на КС-27; больше всего лоббистов направили мясная и молочная отрасли (71), а число представителей производителей удобрений выросло на 45% за год. Направление: «Гражданское пространство».",
+    "zh": "DeSmog的分析由“踢走大污染者”联盟发布，统计出260名获准参加安塔利亚谈判的食品和农业游说人员，其中43%为国家代表团成员。总数比COP30少18%，但比COP27多约40%；肉类和乳制品行业派出的游说人员最多（71人），化肥行业代表同比增加45%。轨道：公民空间。",
+    "ar": "يحصي تحليل «ديسموغ» الذي نشره ائتلاف «اطردوا كبار الملوِّثين» 260 من جماعات الضغط في قطاع الأغذية والزراعة يحق لها الوصول إلى المفاوضات في أنطاليا، منها 43% ضمن وفود وطنية. ويقل هذا العدد 18% عن مؤتمر الأطراف الثلاثين لكنه يزيد نحو 40% عن مؤتمر الأطراف السابع والعشرين؛ وأرسل قطاع اللحوم والألبان أكبر عدد من الضغّاطين (71) وارتفع عدد ممثلي الأسمدة 45% على أساس سنوي. المسار: الفضاء المدني."
+   },
+   "tracks": [
+    "Espaço cívico"
+   ],
+   "quotes": [
+    "Hazel Healy (DeSmog): \"Farmers are first in line for the worst impacts of climate breakdown\"",
+    "Lisa Tostado (CIEL): \"Chemical fertilizers are fossil fuels in another form\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-kickbigpollutersout-org-articles-and-resources"
+  },
   {
    "id": "climate-home-news-2026-11-18-bulletin-day-9",
    "institution": "Climate Home News",
@@ -207,6 +352,63 @@
    "first_seen": "2026-11-18T05:46:00-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "actionaid-2026-11-17-adaptation-heartbreaking",
+   "institution": "ActionAid International",
+   "type": "comunicado",
+   "title": "It's heartbreaking that as the need for adaptation grows, the money on offer is shrinking, says ActionAid",
+   "date": "2026-11-17",
+   "authors": "Teresa Anderson (ActionAid International)",
+   "url": "https://actionaid.org/news/2026/its-heartbreaking-need-adaptation-grows-money-offer-shrinking-says-actionaid",
+   "summary": "Em reação à sessão de promessas para o Fundo de Adaptação na COP31, Teresa Anderson, da ActionAid Internacional, afirma que o financiamento oferecido encolhe justamente quando crescem as necessidades de adaptação. Ela destaca que a adaptação, de sistemas de alerta precoce a agricultura resiliente, pode ser a diferença entre vida e morte nas comunidades vulneráveis. O texto se insere nas trilhas de Adaptação e Finanças.",
+   "summary_i18n": {
+    "en": "Responding to the Adaptation Fund pledging session at COP31, Teresa Anderson of ActionAid International says the funding on offer is shrinking just as adaptation needs grow. She stresses that adaptation, from early warning systems to resilient farming, can mean the difference between life and death for vulnerable communities. The text bears on the Adaptation and Finance tracks.",
+    "es": "En reacción a la sesión de promesas para el Fondo de Adaptación en la COP31, Teresa Anderson, de ActionAid Internacional, afirma que la financiación ofrecida disminuye justo cuando crecen las necesidades de adaptación. Destaca que la adaptación, desde los sistemas de alerta temprana hasta la agricultura resiliente, puede marcar la diferencia entre la vida y la muerte en las comunidades vulnerables. El texto se inscribe en las vías de Adaptación y Finanzas.",
+    "fr": "En réaction à la session d'annonces de contributions au Fonds pour l'adaptation à la COP31, Teresa Anderson, d'ActionAid International, affirme que les financements offerts diminuent alors que les besoins d'adaptation augmentent. Elle souligne que l'adaptation, des systèmes d'alerte précoce à l'agriculture résiliente, peut faire la différence entre la vie et la mort pour les communautés vulnérables. Le texte relève des volets Adaptation et Finance.",
+    "ru": "Откликаясь на сессию объявления взносов в Адаптационный фонд на КС-31, Тереза Андерсон из ActionAid International заявляет, что предлагаемое финансирование сокращается именно тогда, когда потребности в адаптации растут. Она подчёркивает, что адаптация — от систем раннего предупреждения до устойчивого земледелия — может означать для уязвимых общин разницу между жизнью и смертью. Текст относится к направлениям «Адаптация» и «Финансы».",
+    "zh": "针对COP31适应基金认捐会议，ActionAid International的Teresa Anderson表示，在适应需求不断增长之际，所提供的资金却在减少。她强调，从预警系统到韧性农业，适应措施可能决定脆弱社区的生死。该文涉及适应和资金两条轨道。",
+    "ar": "ردّاً على جلسة إعلان التعهدات لصندوق التكيف في مؤتمر الأطراف الحادي والثلاثين، قالت تيريزا أندرسون من أكشن إيد الدولية إن التمويل المعروض يتقلص في وقت تتزايد فيه احتياجات التكيف. وشددت على أن التكيف، من نظم الإنذار المبكر إلى الزراعة القادرة على الصمود، قد يعني الفارق بين الحياة والموت للمجتمعات الضعيفة. ويتصل النص بمساري التكيف والتمويل."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "Teresa Anderson: \"It's heartbreaking that as the need for adaptation grows, the money on offer is shrinking.\"",
+    "Teresa Anderson: \"For communities in vulnerable countries, adaptation can mean the difference between life and death.\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-actionaid-org-news"
+  },
+  {
+   "id": "climate-home-news-2026-11-17-honduras-coastal-resilience",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Building coastal resilience for local communities in Honduras",
+   "date": "2026-11-17",
+   "authors": "Adam Wentworth",
+   "url": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
+   "summary": "Matéria patrocinada sobre um projeto de US$ 4 milhões e quatro anos do Fundo de Adaptação, executado pela CASM no departamento de Gracias a Dios, em Honduras, para proteger comunidades indígenas contra inundações, furacões e elevação do mar. A meta é alcançar 18 mil pessoas, 60% mulheres, com alerta precoce, restauração de manguezais e água movida a energia solar. Trilha: Adaptação.",
+   "summary_i18n": {
+    "en": "Sponsored article on a four-year, US$ 4 million Adaptation Fund project run by CASM in Honduras' Gracias a Dios department to protect Indigenous communities from flooding, hurricanes and sea-level rise. It aims to reach 18,000 people, 60% of them women, through early warning, mangrove restoration and solar-powered water systems. Track: Adaptation.",
+    "es": "Artículo patrocinado sobre un proyecto de cuatro años y US$ 4 millones del Fondo de Adaptación, ejecutado por la CASM en el departamento de Gracias a Dios, en Honduras, para proteger a comunidades indígenas frente a inundaciones, huracanes y el aumento del nivel del mar. Prevé llegar a 18.000 personas, el 60 % mujeres, con alerta temprana, restauración de manglares y sistemas de agua con energía solar. Vía: Adaptación.",
+    "fr": "Article sponsorisé sur un projet de quatre ans et 4 millions de dollars du Fonds pour l'adaptation, mené par la CASM dans le département de Gracias a Dios, au Honduras, pour protéger des communautés autochtones contre les inondations, les ouragans et l'élévation du niveau de la mer. Il vise à toucher 18 000 personnes, dont 60 % de femmes, grâce à l'alerte précoce, à la restauration des mangroves et à des systèmes d'eau alimentés à l'énergie solaire. Volet : Adaptation.",
+    "ru": "Спонсорская статья о четырёхлетнем проекте Адаптационного фонда стоимостью 4 млн долл. США, который реализует CASM в департаменте Грасьяс-а-Дьос в Гондурасе для защиты коренных общин от наводнений, ураганов и повышения уровня моря. Проект рассчитан на 18 тыс. человек, 60% из них женщины, и включает раннее предупреждение, восстановление мангровых зарослей и водоснабжение на солнечной энергии. Направление: «Адаптация».",
+    "zh": "这是一篇赞助文章，介绍由CASM在洪都拉斯格拉西亚斯阿迪奥斯省实施的、为期四年、金额400万美元的适应基金项目，旨在保护原住民社区免受洪水、飓风和海平面上升的影响。项目计划通过预警、红树林恢复和太阳能供水系统惠及1.8万人，其中60%为女性。轨道：适应。",
+    "ar": "مقال برعاية عن مشروع لصندوق التكيف مدته أربع سنوات وتبلغ كلفته 4 ملايين دولار تنفذه منظمة CASM في مقاطعة غراسياس إيه ديوس في هندوراس لحماية مجتمعات الشعوب الأصلية من الفيضانات والأعاصير وارتفاع مستوى سطح البحر. ويستهدف المشروع الوصول إلى 18 ألف شخص، 60% منهم نساء، عبر الإنذار المبكر واستعادة أشجار المانغروف ونظم المياه العاملة بالطاقة الشمسية. المسار: التكيف."
+   },
+   "tracks": [
+    "Adaptação"
+   ],
+   "quotes": [
+    "Kevin Santos (CASM): \"Resilience requires an integrated approach rather than an isolated intervention.\"",
+    "Kevin Santos (CASM): \"Adaptation works better when solutions are based on local knowledge and priorities.\""
+   ],
+   "first_seen": "2026-11-18T18:16:49-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
   },
   {
    "id": "bluesky-enb.iisd.org-20261117-measuring-progress",
@@ -25230,8 +25432,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T17:43:47-03:00",
-  "label": "18 nov 2026, 17:43 (Brasília)",
+  "timestamp": "2026-11-18T18:43:04-03:00",
+  "label": "18 nov 2026, 18:42 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
