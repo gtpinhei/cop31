@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-18",
- "generated_at": "2026-11-18T10:58+03:00",
+ "generated_at": "2026-11-18T11:58+03:00",
  "window": {
   "from": "2026-11-15",
   "to": "2026-11-18",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-18T00:20:00-03:00",
-  "social_round": "2026-11-18T04:45:00-03:00",
+  "social_round": "2026-11-18T05:46:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 48,
-  "stories": 42,
+  "candidates": 49,
+  "stories": 43,
   "top": 8,
   "publishers": [
    "350.org",
@@ -29,6 +29,7 @@
    "Murat Kurum",
    "Oil Change International",
    "Presidência da COP31 (Türkiye)",
+   "UNEP",
    "UNFCCC / Simon Stiell",
    "WBCSD",
    "WRI"
@@ -893,6 +894,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-unep.org-20261115-promessas-beneficios",
+    "section": "negotiations",
+    "score": 0.124,
+    "lead": {
+     "id": "bluesky-unep.org-20261115-promessas-beneficios",
+     "title": "unep.org: [resumo da fonte] UNEP says COP31 should focus on turning climate pledges into tangible benefits, with leaders in…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/unep.org/post/3n2dh6a473o2m",
+     "publisher": "UNEP",
+     "published": "2026-11-15",
+     "time": "04:05",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O PNUMA diz que a COP31 deve transformar promessas climáticas em benefícios concretos, acelerando soluções já comprovadas, e divulga os eventos da segunda semana.",
+     "collected_at": "2026-11-18T05:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNEP says COP31 should turn climate pledges into tangible benefits by speeding up proven solutions, and promotes its week-two events.",
+      "es": "El PNUMA afirma que la COP31 debe convertir las promesas climáticas en beneficios tangibles acelerando soluciones probadas, y difunde sus actos de la segunda semana.",
+      "fr": "Le PNUE estime que la COP31 doit transformer les engagements climatiques en avantages concrets en accélérant des solutions éprouvées, et présente ses événements de la deuxième semaine.",
+      "ru": "ЮНЕП заявляет, что СОР31 должна превратить климатические обещания в ощутимые выгоды, ускорив внедрение проверенных решений, и анонсирует мероприятия второй недели.",
+      "zh": "联合国环境规划署表示，COP31应通过加快推广成熟方案，把气候承诺转化为切实成果，并介绍其第二周的活动安排。",
+      "ar": "يقول برنامج الأمم المتحدة للبيئة إن على مؤتمر الأطراف الحادي والثلاثين تحويل التعهدات المناخية إلى فوائد ملموسة عبر تسريع الحلول المجربة، ويروّج لفعالياته في الأسبوع الثاني."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNEP"
     ]
    }
   ],
