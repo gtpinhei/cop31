@@ -89,9 +89,27 @@
       "change": "new",
       "document_id": "10000349",
       "event_id": "8eba96cfe0fdc326ebb8deb1"
+    },
+    {
+      "at": "2026-11-18T09:17:13.169436Z",
+      "change": "withdrawn",
+      "document_id": "10000339",
+      "event_id": "e2e9af6afd32f2abadd76c4a"
+    },
+    {
+      "at": "2026-11-18T09:17:13.169436Z",
+      "change": "new",
+      "document_id": "10000350",
+      "event_id": "7abd9ea0684d8f54923d5351"
+    },
+    {
+      "at": "2026-11-18T09:17:13.169436Z",
+      "change": "new",
+      "document_id": "10000351",
+      "event_id": "e0de9455dd46a21e49d50228"
     }
   ],
-  "checked_at": "2026-11-18T09:07:45.621809Z",
+  "checked_at": "2026-11-18T09:17:13.169436Z",
   "degraded": false,
   "documents": [
     {
@@ -2515,7 +2533,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "31de58bbaaad4e57a41b3f6f5a40afc279c0bc3aac9b2450ebbfaf6d02e5621c",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000339/files/en/art_6.4_DT_cma82.pdf"
         }
       ],
@@ -2523,14 +2541,14 @@
       "document_code": "DT.CMA8.i16b.2",
       "id": "10000339",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-17T03:53:52.025742Z",
+      "modified_at": "2026-11-18T09:15:28.874970Z",
       "published_at": "2026-11-17T03:50:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000339/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 18",
@@ -2643,6 +2661,50 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 11; CMA 8 14",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "e37aa978168fdd53a838a0397bc50e6d90d77be7be05c8d58dcdf1159590aa86",
+          "url": "https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i11_CMA8.i14.1",
+      "id": "10000350",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-18T09:10:45.498806Z",
+      "published_at": "2026-11-18T08:45:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000350/metadata",
+      "status": "draft",
+      "title": "Matters relating to the least developed countries",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "264837022e6c6fb795d7fe95e34bd1f66ca29b5e494c730bfec3d55b4eca84e2",
+          "url": "https://docs.unfccc.int/documents/10000351/files/en/art_6.4_DT_cma83.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16b.3",
+      "id": "10000351",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-18T09:14:34.014309Z",
+      "published_at": "2026-11-18T08:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000351/metadata",
+      "status": "draft",
+      "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2687,9 +2749,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 16,
-  "last_attempt": "2026-11-18T09:07:45.621809Z",
-  "last_success": "2026-11-18T09:07:45.621809Z",
+  "history_count": 18,
+  "last_attempt": "2026-11-18T09:17:13.169436Z",
+  "last_success": "2026-11-18T09:17:13.169436Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
