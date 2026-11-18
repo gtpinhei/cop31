@@ -1,18 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-17T06:06:45.601401Z",
-      "change": "withdrawn",
-      "document_id": "10000313",
-      "event_id": "f0bdcc4ddc70d32f036b913e"
-    },
-    {
-      "at": "2026-11-17T06:06:45.601401Z",
-      "change": "new",
-      "document_id": "10000343",
-      "event_id": "20fbe15878525f339b186e4a"
-    },
-    {
       "at": "2026-11-17T08:48:30.848731Z",
       "change": "new",
       "document_id": "10000344",
@@ -101,9 +89,21 @@
       "change": "new",
       "document_id": "10000348",
       "event_id": "527444622c3ffe7152319eba"
+    },
+    {
+      "at": "2026-11-18T07:59:22.432755Z",
+      "change": "withdrawn",
+      "document_id": "10000331",
+      "event_id": "b69b9d81efc8f9eb1e75cf20"
+    },
+    {
+      "at": "2026-11-18T07:59:22.432755Z",
+      "change": "new",
+      "document_id": "10000349",
+      "event_id": "8eba96cfe0fdc326ebb8deb1"
     }
   ],
-  "checked_at": "2026-11-18T05:27:13.049194Z",
+  "checked_at": "2026-11-18T07:59:22.432755Z",
   "degraded": false,
   "documents": [
     {
@@ -341,7 +341,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "e3070543fe01e4424b2185be16f9e17aec5cb7e173eed62c40f8610b7a40089f",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000331/files/en/AF%20Matters_DT_CMP21CMA8.pdf"
         }
       ],
@@ -349,14 +349,14 @@
       "document_code": "DT.CMP21.i6_CMA8.i.11e.1",
       "id": "10000331",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-16T12:05:35.452045Z",
+      "modified_at": "2026-11-18T05:41:13.715011Z",
       "published_at": "2026-11-16T12:00:00Z",
       "session": "CMP 21",
       "source_url": "https://docs.unfccc.int/documents/10000331/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Matters relating to the Adaptation Fund",
       "topic": "Adaptation",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 2(f)",
@@ -377,6 +377,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000344/metadata",
       "status": "draft",
       "title": "National adaptation plans",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMP 21 6; CMA 8 11(e)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "3f9f2dffe8d694cdecf02344a81f144456fefbe52dd7d670f8bac3894fdd6a4b",
+          "url": "https://docs.unfccc.int/documents/10000349/files/en/AF%20Matters_DT_CMP21CMA81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMP21.i6_CMA8.i.11e.2",
+      "id": "10000349",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-18T05:37:49.102579Z",
+      "published_at": "2026-11-18T05:00:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000349/metadata",
+      "status": "draft",
+      "title": "Matters relating to the Adaptation Fund",
       "topic": "Adaptation",
       "withdrawn": false
     },
@@ -2678,8 +2700,8 @@
     }
   ],
   "history_count": 19,
-  "last_attempt": "2026-11-18T05:27:13.049194Z",
-  "last_success": "2026-11-18T05:27:13.049194Z",
+  "last_attempt": "2026-11-18T07:59:22.432755Z",
+  "last_success": "2026-11-18T07:59:22.432755Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
