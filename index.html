@@ -1886,7 +1886,7 @@ a:hover{text-decoration-color:var(--un)}
       var sf = t ? t.standfirst : a.standfirst;
       if (sf) h += '<p class="art-sf">' + esc(sf) + '</p>';
       if (!a.ai_provenance) h += '<p class="art-note">' + esc(J.tArtNote) + '</p>';
-      else h += '<p class="art-note" lang="en" dir="ltr">AI-generated analysis of public UNFCCC documents. Automated evidence checks, not human editorial approval. Analysis of the identified draft versions only, not an adopted outcome. Current document status is unverified until the version context loads.</p>';
+      else h += '<p class="art-note art-ai-note" lang="en" dir="ltr">AI-generated · Public UNFCCC documents. Analysis of these drafts, not an adopted outcome. Current status is unverified until version context loads.</p><details class="art-ai-fallback"><summary>Sources &amp; verification</summary><p>Automated evidence checks, not human editorial approval.</p></details>';
       h += contribLine(a.contributor);
       var rn = t ? t.reporting_note : a.reporting_note;   // como o colaborador apurou (presença, fontes), nas palavras dele
       if (rn) h += '<p class="art-rn"><strong>' + esc(J.tReportNote) + ':</strong> ' + esc(rn) + '</p>';

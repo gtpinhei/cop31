@@ -38,6 +38,6 @@ async function direct(index){
   const w=await direct(bad);assert(!w.document.getElementById('todayArticle').textContent.includes('SYNTHETIC AI BODY SENTINEL'),'invalid index must block direct body');w.close();
  }
  const w=await direct({schema:1,entries:[row]});const body=w.document.getElementById('todayArticle');
- assert(body.textContent.includes('SYNTHETIC AI BODY SENTINEL'));assert(body.textContent.includes('AI-generated analysis'));assert(body.textContent.includes('not human editorial approval'));assert(body.textContent.includes('not an adopted outcome'));assert.equal(body.lang,'en');w.close();
+ assert(body.textContent.includes('SYNTHETIC AI BODY SENTINEL'));assert(body.textContent.includes('AI-generated'));assert(body.textContent.includes('not human editorial approval'));assert(body.textContent.includes('not an adopted outcome'));assert.equal(body.lang,'en');w.close();
  console.log('PASS AI canonical route: absent/duplicate/mismatched index blocks body; valid route has synchronous AI/draft warning even while status stalls');
 })().catch(e=>{console.error(e);process.exitCode=1});

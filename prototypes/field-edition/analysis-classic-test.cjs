@@ -14,6 +14,13 @@ const fs=require('fs'),assert=require('assert'),{JSDOM}=require('../../tools/nod
  dispatch({...article,status:'draft'});await tick();assert(!w.document.getElementById('analysis-version-context'));
  dispatch(article,'ar');await tick();assert(w.document.getElementById('analysis-version-context').textContent.includes('حل محله'));
  w.fetch=async()=>({ok:false});dispatch();await tick();assert(w.document.getElementById('analysis-version-context').textContent.includes('Superseded by'));assert(w.document.getElementById('analysis-version-context').textContent.includes('SYNTHETIC exact v1'));
+ // Reading order and exact-token disclosure, without deleting scope prose or citations.
+ const host=w.document.getElementById('todayArticle');host.innerHTML='<h3 class="art-title">Title</h3><p class="art-sf">Standfirst</p><p class="art-rn">Reporting method</p><section class="art-block"><p>Withdrawn baseline; mutable URL. '+doc.sha256+'</p><a href="https://unfccc.int/citation">Claim citation</a></section>';
+ dispatch({...article,blocks:[{md:'scope'}]});await tick();box=w.document.getElementById('analysis-version-context');
+ assert.equal(host.querySelector('.art-sf').nextElementSibling,box);assert(!box.querySelector('.analysis-summary'),'real article body is not duplicated');
+ assert(!box.querySelector('details').open);assert(box.querySelector('details').textContent.includes(doc.sha256));assert(!host.querySelector('.art-block').textContent.includes(doc.sha256));assert(host.querySelector('.art-block').textContent.includes('Withdrawn baseline; mutable URL.'));assert(host.querySelector('a[href="https://unfccc.int/citation"]'));
+ assert(host.querySelector(':scope > .art-rn').hidden);assert(box.querySelector('details .art-rn')&&!box.querySelector('details .art-rn').hidden);
+ dispatch({...article,blocks:[{md:'scope'}]});await tick();assert.equal(w.document.querySelectorAll('#analysis-verification').length,1);const disclosure=w.document.getElementById('analysis-verification');w.dispatchEvent(new w.Event('beforeprint'));assert(disclosure.open);w.dispatchEvent(new w.Event('afterprint'));assert(!disclosure.open);disclosure.open=true;w.dispatchEvent(new w.Event('beforeprint'));w.dispatchEvent(new w.Event('afterprint'));assert(disclosure.open);
  dispatch();w.dispatchEvent(new w.Event('hashchange'));await tick();assert(!w.document.getElementById('analysis-version-context'));
  w.close();console.log('PASS: canonical version/source links and supersession, no duplicate context, invalid approval hidden, Arabic, navigation race');
 })().catch(e=>{console.error(e);process.exit(1)});
