@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-18",
- "generated_at": "2026-11-18T17:58+03:00",
+ "generated_at": "2026-11-18T18:58+03:00",
  "window": {
   "from": "2026-11-15",
   "to": "2026-11-18",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-18T06:35:00-03:00",
-  "social_round": "2026-11-18T11:50:00-03:00",
+  "web_round": "2026-11-18T12:17:46-03:00",
+  "social_round": "2026-11-18T12:43:19-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 59,
-  "stories": 52,
+  "candidates": 63,
+  "stories": 56,
   "top": 8,
   "publishers": [
    "350.org",
@@ -25,6 +25,7 @@
    "Carbon Brief",
    "Climate Home News",
    "Germanwatch",
+   "Greenpeace International",
    "IDDRI",
    "IISD / ENB",
    "Murat Kurum",
@@ -33,6 +34,7 @@
    "Primeiro-ministro da Austrália (PM&C)",
    "UNEP",
    "UNFCCC / Simon Stiell",
+   "V20 / CVF",
    "WBCSD",
    "WRI"
   ],
@@ -55,17 +57,17 @@
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem datas explícitas"
+    "note": "budget"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "só artigo de 2022 visível"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "client_error"
    }
   ]
  },
@@ -139,34 +141,35 @@
     ]
    },
    {
-    "id": "st-climatechangenews-2026-11-17-fiji-ocean-islands",
-    "section": "action",
-    "score": 0.72,
+    "id": "st-climate-home-news-2026-11-18-bulletin-day-9",
+    "section": "negotiations",
+    "score": 0.85,
     "lead": {
-     "id": "climatechangenews-2026-11-17-fiji-ocean-islands",
-     "title": "COP31 can't deliver for islands without delivering for the ocean",
-     "url": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
+     "id": "climate-home-news-2026-11-18-bulletin-day-9",
+     "title": "COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening",
+     "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/",
      "publisher": "Climate Home News",
-     "author": "Dr Sivendra Michael",
-     "published": "2026-11-17",
+     "author": "Megan Rowling, Joe Lo",
+     "published": "2026-11-18",
      "language": "en",
      "tracks": [
-      "Oceanos",
+      "Decisão de cobertura",
       "Finanças",
-      "GST2 e IPCC"
+      "Adaptação",
+      "TAFF e fósseis"
      ],
-     "content_type": "analysis",
+     "content_type": "reporting",
      "kind": "publication",
-     "description": "O secretário permanente de Meio Ambiente e Mudança Climática de Fiji argumenta que os Estados insulares dependem do oceano e enfrentam branqueamento de corais e acidificação cada vez piores.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
+     "description": "Com três dias oficiais de negociação restantes, o rascunho da decisão de cobertura continua longo e foi rejeitado pelo Grupo Árabe e pela Rússia. A Presidência convocou uma reunião \"Divan\" às 17h para identificar terreno comum rumo a um pacote equilibrado.",
+     "collected_at": "2026-11-18T12:17:46-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Fiji's permanent secretary for environment and climate change argues that island nations depend on the ocean and face worsening coral bleaching and acidification.",
-      "es": "El secretario permanente de Medio Ambiente y Cambio Climático de Fiji sostiene que las naciones insulares dependen del océano y se enfrentan a un empeoramiento del blanqueamiento de los corales y de la acidificación.",
-      "fr": "Le secrétaire permanent de Fidji pour l'environnement et le changement climatique soutient que les États insulaires dépendent de l'océan et font face à un blanchiment des coraux et à une acidification de plus en plus graves.",
-      "ru": "Постоянный секретарь Фиджи по окружающей среде и изменению климата утверждает, что островные государства зависят от океана и сталкиваются с нарастающим обесцвечиванием кораллов и закислением.",
-      "zh": "斐济环境与气候变化常务秘书认为,岛屿国家依赖海洋,并面临日益严重的珊瑚白化和海洋酸化。他呼吁让海洋因素体现在国家气候承诺、2028年全球盘点和气候资金中,并让岛屿国家更便捷地获得资金。",
-      "ar": "يرى الأمين الدائم لوزارة البيئة وتغير المناخ في فيجي أن الدول الجزرية تعتمد على المحيط وتواجه ابيضاضاً متفاقماً للشعاب المرجانية وتحمّضاً. ويدعو إلى أن يوجّه الاعتراف بالمحيط الالتزامات المناخية الوطنية والحصيلة العالمية لعام 2028 وتمويل المناخ، وإلى تسهيل وصول الدول الجزرية إلى التمويل."
+      "en": "With three official negotiating days left, the draft cover decision is still long and has been rejected by the Arab Group and Russia. The Presidency has called a 5 pm \"Divan\" meeting to identify common ground towards a balanced package.",
+      "es": "A tres días oficiales del final de las negociaciones, el borrador de la decisión de cobertura sigue siendo extenso y ha sido rechazado por el Grupo Árabe y Rusia. La Presidencia convocó una reunión \"Divan\" a las 17:00 para identificar puntos en común hacia un paquete equilibrado.",
+      "fr": "À trois jours officiels de la fin des négociations, le projet de décision de couverture reste long et a été rejeté par le Groupe arabe et la Russie. La présidence a convoqué une réunion « Divan » à 17 h pour dégager un terrain d'entente en vue d'un paquet équilibré.",
+      "ru": "За три официальных дня до конца переговоров проект итогового решения всё ещё объёмен и отвергнут Арабской группой и Россией. Президентство созвало на 17:00 встречу «Диван» для поиска общей почвы ради сбалансированного пакета.",
+      "zh": "距正式谈判结束还有三天，一揽子决定草案仍然冗长，且遭到阿拉伯集团和俄罗斯拒绝。主席团召集了下午5点的“Divan”会议，以寻找共同点，推动形成平衡的一揽子成果。简报还报道了发展中国家对缺乏新增资金（尤其是适应资金）的不满——适应基金仅获得5000万美元承诺，而年度目标为3亿美元——以及关于共识机制和联合国之外“有意愿者联盟”（如圣玛尔塔进程）的讨论。",
+      "ar": "مع بقاء ثلاثة أيام رسمية من المفاوضات، لا يزال مشروع القرار الجامع طويلاً ورفضته المجموعة العربية وروسيا. ودعت الرئاسة إلى اجتماع «ديفان» في الخامسة مساءً لتحديد أرضية مشتركة نحو حزمة متوازنة."
      },
      "description_i18n_method": "machine"
     },
@@ -245,6 +248,42 @@
     "related": [],
     "publishers": [
      "IDDRI"
+    ]
+   },
+   {
+    "id": "st-cvf-v20-2026-11-18-gst2-remarks",
+    "section": "negotiations",
+    "score": 0.637,
+    "lead": {
+     "id": "cvf-v20-2026-11-18-gst2-remarks",
+     "title": "Remarks by CVF-V20 Secretariat Managing Director Sara Jane Ahmed on the Challenges and Opportunities for the Second Global Stocktake",
+     "url": "https://cvfv20.org/remarks-by-cvf-v20-secretariat-managing-director-sara-jane-ahmed-on-the-challenges-and-opportunities-for-the-second-global-stocktake/",
+     "publisher": "V20 / CVF",
+     "author": "Sara Jane Ahmed",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "GST2 e IPCC",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Sara Jane Ahmed, diretora-geral do Secretariado CVF-V20, argumenta que o mundo entrou num período de overshoot e que o GST2 deve medir a entrega, e não apenas promessas.",
+     "collected_at": "2026-11-18T12:17:46-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Sara Jane Ahmed, Managing Director of the CVF-V20 Secretariat, argues that the world has entered an overshoot period and that GST2 must measure delivery, not just pledges.",
+      "es": "Sara Jane Ahmed, directora general de la Secretaría del CVF-V20, sostiene que el mundo ha entrado en un período de rebasamiento y que el GST2 debe medir la ejecución, no solo las promesas.",
+      "fr": "Sara Jane Ahmed, directrice générale du Secrétariat du CVF-V20, soutient que le monde est entré dans une période de dépassement et que le GST2 doit mesurer la mise en œuvre, pas seulement les promesses.",
+      "ru": "Сара Джейн Ахмед, управляющий директор Секретариата CVF-V20, утверждает, что мир вошёл в период превышения и что ГЗО-2 должен измерять реальные результаты, а не только обещания.",
+      "zh": "CVF-V20秘书处总干事萨拉·简·艾哈迈德指出，世界已进入温控超标期，第二次全球盘点（GST2）应衡量落实情况，而不仅是承诺。她提到，2025年发展中国家向多边开发银行偿还的资金多于获得的资金（2006年以来首次净流出），且支付额减少逾110亿美元。她呼吁GST2核算资金成本和净流量，将第2.1(c)条适用于整个金融体系，并建立债务暂停条款等缓冲机制。",
+      "ar": "ترى سارة جين أحمد، المديرة العامة لأمانة CVF-V20، أن العالم دخل مرحلة تجاوز الحد وأن الحصيلة العالمية الثانية (GST2) ينبغي أن تقيس التنفيذ لا الوعود فقط. وتشير إلى أن البلدان النامية سددت لبنوك التنمية المتعددة الأطراف أكثر مما تلقته في 2025 (أول صافٍ سلبي منذ 2006) وأن المدفوعات انخفضت بأكثر من 11 مليار دولار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "V20 / CVF"
     ]
    },
    {
@@ -407,47 +446,44 @@
      "350.org",
      "Oil Change International"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-cooling",
-    "section": "action",
-    "score": 0.44,
+    "id": "st-climate-home-news-2026-11-17-gcf-duarte",
+    "section": "negotiations",
+    "score": 0.68,
     "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-cooling",
-     "title": "enb.iisd.org: [resumo da fonte] The Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jwuysyds26",
-     "publisher": "IISD / ENB",
+     "id": "climate-home-news-2026-11-17-gcf-duarte",
+     "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
+     "url": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
+     "publisher": "Climate Home News",
+     "author": "Megan Rowling",
      "published": "2026-11-17",
-     "time": "18:02",
      "language": "en",
      "tracks": [
-      "Agenda de Ação",
-      "Adaptação"
+      "Finanças"
      ],
      "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que o terceiro Ministerial anual sobre Refrigeração iniciou os trabalhos de um roteiro global de resiliência ao calor e abriu consultas sobre um projeto de declaração de resiliência ao calor.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
+     "kind": "publication",
+     "description": "A diretora executiva do GCF, Mafalda Duarte, afirma que os países ricos devem liderar a reposição do fundo para 2028–2031, apesar das pressões orçamentárias. As Ilhas Salomão foram as primeiras contribuintes da quarta reposição (US$ 400 mil), e o Reino Unido reduziu pela metade sua contribuição atual.",
+     "collected_at": "2026-11-18T12:17:46-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "ENB reports that the Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened consultations on a draft heat resilience declaration.",
-      "es": "ENB informa de que la Tercera Reunión Ministerial Anual sobre Refrigeración inició los trabajos sobre una hoja de ruta mundial de resiliencia al calor y abrió consultas sobre un proyecto de declaración de resiliencia al calor.",
-      "fr": "L'ENB rapporte que la troisième réunion ministérielle annuelle sur le refroidissement a entamé les travaux sur une feuille de route mondiale de résilience à la chaleur et ouvert des consultations sur un projet de déclaration sur la résilience à la chaleur.",
-      "ru": "ENB сообщает, что на третьей ежегодной министерской встрече по охлаждению начата работа над глобальной дорожной картой устойчивости к жаре и открыты консультации по проекту декларации об устойчивости к жаре.",
-      "zh": "ENB 报道，第三届年度制冷部长级会议已开始制定全球热韧性路线图，并就热韧性宣言草案启动磋商。",
-      "ar": "تفيد نشرة ENB بأن الاجتماع الوزاري السنوي الثالث المعني بالتبريد بدأ العمل على خارطة طريق عالمية للقدرة على مواجهة الحرارة وفتح مشاورات حول مشروع إعلان بشأن القدرة على مواجهة الحرارة."
+      "en": "GCF Executive Director Mafalda Duarte says rich countries must lead the fund's 2028–2031 replenishment despite budget pressures. Solomon Islands was the first contributor to the fourth replenishment (US$ 400,000), and the United Kingdom halved its current contribution.",
+      "es": "La directora ejecutiva del GCF, Mafalda Duarte, afirma que los países ricos deben liderar la reposición del fondo para 2028–2031 pese a las presiones presupuestarias. Las Islas Salomón fueron las primeras contribuyentes a la cuarta reposición (US$ 400.000) y el Reino Unido redujo a la mitad su contribución actual.",
+      "fr": "La directrice exécutive du GCF, Mafalda Duarte, affirme que les pays riches doivent mener la reconstitution du fonds pour 2028-2031 malgré les contraintes budgétaires.",
+      "ru": "Исполнительный директор ЗКФ Мафальда Дуарте заявляет, что богатые страны должны возглавить пополнение фонда на 2028–2031 годы, несмотря на бюджетное давление. Соломоновы Острова стали первым донором четвёртого пополнения (400 тыс. долл. США), а Соединённое Королевство вдвое сократило нынешний взнос.",
+      "zh": "绿色气候基金（GCF）执行主任玛法尔达·杜阿尔特表示，尽管预算承压，富裕国家仍应牵头2028–2031年的基金增资。所罗门群岛成为第四次增资的首个出资方（40万美元），英国则将其当前出资减半。GCF称12年来已以223亿美元支持379个项目，目标是到2030年形成500亿美元的项目组合。此事涉及气候资金。",
+      "ar": "تقول المديرة التنفيذية للصندوق الأخضر للمناخ مافالدا دوارتي إن على الدول الغنية أن تقود تجديد موارد الصندوق للفترة 2028–2031 رغم ضغوط الميزانيات. وكانت جزر سليمان أول مساهم في التجديد الرابع (400 ألف دولار)، بينما خفضت المملكة المتحدة مساهمتها الحالية إلى النصف."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "IISD / ENB"
+     "Climate Home News"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-unfccc-2026-11-17-transparency-stiell",
     "section": "negotiations",
@@ -1226,6 +1262,43 @@
   ],
   "action": [
    {
+    "id": "st-climatechangenews-2026-11-17-fiji-ocean-islands",
+    "section": "action",
+    "score": 0.72,
+    "lead": {
+     "id": "climatechangenews-2026-11-17-fiji-ocean-islands",
+     "title": "COP31 can't deliver for islands without delivering for the ocean",
+     "url": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
+     "publisher": "Climate Home News",
+     "author": "Dr Sivendra Michael",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "Oceanos",
+      "Finanças",
+      "GST2 e IPCC"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O secretário permanente de Meio Ambiente e Mudança Climática de Fiji argumenta que os Estados insulares dependem do oceano e enfrentam branqueamento de corais e acidificação cada vez piores.",
+     "collected_at": "2026-11-17T12:17:18-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Fiji's permanent secretary for environment and climate change argues that island nations depend on the ocean and face worsening coral bleaching and acidification.",
+      "es": "El secretario permanente de Medio Ambiente y Cambio Climático de Fiji sostiene que las naciones insulares dependen del océano y se enfrentan a un empeoramiento del blanqueamiento de los corales y de la acidificación.",
+      "fr": "Le secrétaire permanent de Fidji pour l'environnement et le changement climatique soutient que les États insulaires dépendent de l'océan et font face à un blanchiment des coraux et à une acidification de plus en plus graves.",
+      "ru": "Постоянный секретарь Фиджи по окружающей среде и изменению климата утверждает, что островные государства зависят от океана и сталкиваются с нарастающим обесцвечиванием кораллов и закислением.",
+      "zh": "斐济环境与气候变化常务秘书认为,岛屿国家依赖海洋,并面临日益严重的珊瑚白化和海洋酸化。他呼吁让海洋因素体现在国家气候承诺、2028年全球盘点和气候资金中,并让岛屿国家更便捷地获得资金。",
+      "ar": "يرى الأمين الدائم لوزارة البيئة وتغير المناخ في فيجي أن الدول الجزرية تعتمد على المحيط وتواجه ابيضاضاً متفاقماً للشعاب المرجانية وتحمّضاً. ويدعو إلى أن يوجّه الاعتراف بالمحيط الالتزامات المناخية الوطنية والحصيلة العالمية لعام 2028 وتمويل المناخ، وإلى تسهيل وصول الدول الجزرية إلى التمويل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-17-climate-weeks",
     "section": "action",
     "score": 0.6,
@@ -1329,6 +1402,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261117-art-cooling",
+    "section": "action",
+    "score": 0.44,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261117-art-cooling",
+     "title": "enb.iisd.org: [resumo da fonte] The Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jwuysyds26",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-17",
+     "time": "18:02",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB relata que o terceiro Ministerial anual sobre Refrigeração iniciou os trabalhos de um roteiro global de resiliência ao calor e abriu consultas sobre um projeto de declaração de resiliência ao calor.",
+     "collected_at": "2026-11-18T07:43:50-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that the Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened consultations on a draft heat resilience declaration.",
+      "es": "ENB informa de que la Tercera Reunión Ministerial Anual sobre Refrigeración inició los trabajos sobre una hoja de ruta mundial de resiliencia al calor y abrió consultas sobre un proyecto de declaración de resiliencia al calor.",
+      "fr": "L'ENB rapporte que la troisième réunion ministérielle annuelle sur le refroidissement a entamé les travaux sur une feuille de route mondiale de résilience à la chaleur et ouvert des consultations sur un projet de déclaration sur la résilience à la chaleur.",
+      "ru": "ENB сообщает, что на третьей ежегодной министерской встрече по охлаждению начата работа над глобальной дорожной картой устойчивости к жаре и открыты консультации по проекту декларации об устойчивости к жаре.",
+      "zh": "ENB 报道，第三届年度制冷部长级会议已开始制定全球热韧性路线图，并就热韧性宣言草案启动磋商。",
+      "ar": "تفيد نشرة ENB بأن الاجتماع الوزاري السنوي الثالث المعني بالتبريد بدأ العمل على خارطة طريق عالمية للقدرة على مواجهة الحرارة وفتح مشاورات حول مشروع إعلان بشأن القدرة على مواجهة الحرارة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1816,6 +1927,42 @@
   ],
   "civil": [
    {
+    "id": "st-greenpeace-international-2026-11-17-spain-portugal-roadmaps",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "greenpeace-international-2026-11-17-spain-portugal-roadmaps",
+     "title": "Spain and Portugal roadmaps help build momentum to end fossil fuels at COP31",
+     "url": "https://www.greenpeace.org/international/press-release/87191/spain-portugal-roadmaps-build-momentum-end-fossil-fuels-cop31/",
+     "publisher": "Greenpeace International",
+     "author": "Greenpeace International",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Mitigação e MWP"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "O Greenpeace saúda o anúncio de roteiros de transição para longe dos combustíveis fósseis por Espanha, Portugal e Dinamarca na COP31, e de Luxemburgo antes da conferência Irlanda–Tuvalu.",
+     "collected_at": "2026-11-18T12:17:46-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Greenpeace welcomes the announcement of roadmaps to transition away from fossil fuels by Spain, Portugal and Denmark at COP31, and by Luxembourg before the Ireland–Tuvalu conference.",
+      "es": "Greenpeace celebra el anuncio de hojas de ruta para la transición para dejar atrás los combustibles fósiles por parte de España, Portugal y Dinamarca en la COP31, y de Luxemburgo antes de la conferencia Irlanda–Tuvalu.",
+      "fr": "Greenpeace salue l'annonce de feuilles de route de transition hors des combustibles fossiles par l'Espagne, le Portugal et le Danemark à la COP31, et par le Luxembourg avant la conférence Irlande–Tuvalu.",
+      "ru": "Гринпис приветствует объявление дорожных карт перехода от ископаемого топлива, сделанное Испанией, Португалией и Данией на COP31 и Люксембургом перед конференцией Ирландии и Тувалу.",
+      "zh": "绿色和平欢迎西班牙、葡萄牙和丹麦在COP31上宣布脱离化石燃料转型路线图，以及卢森堡将在爱尔兰—图瓦卢会议前发布路线图。该组织呼吁两个伊比利亚国家设定2040年期限并列明煤、气、油的退出日期，并要求澳大利亚公布包括出口在内的自身路线图。该组织称，两国若将能源需求削减39%，可在2040年前淘汰化石燃料。此事涉及TAFF与化石燃料议题。",
+      "ar": "ترحب غرينبيس بإعلان إسبانيا والبرتغال والدنمارك في مؤتمر COP31 خرائط طريق للانتقال بعيداً عن الوقود الأحفوري، وإعلان لوكسمبورغ ذلك قبل مؤتمر أيرلندا–توفالو. وتطالب بمواعيد نهائية في 2040 للبلدين الإيبيريين مع تواريخ لإنهاء الفحم والغاز والنفط، وتدعو أستراليا إلى نشر خريطة طريق خاصة بها تشمل الصادرات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Greenpeace International"
+    ]
+   },
+   {
     "id": "st-oilchange-2026-11-17-finance-work-programme",
     "section": "civil",
     "score": 0.383,
@@ -2284,9 +2431,11 @@
    "can-international-2026-11-17-adaptation-pittance",
    "can-international-2026-11-17-carbon-markets",
    "carbonbrief-2026-11-17-co2-exporters",
+   "climate-home-news-2026-11-18-bulletin-day-9",
    "climatechangenews-2026-11-17-fiji-ocean-islands",
    "climatechangenews-2026-11-17-morgera-critical-minerals",
    "cop31tr-smart-cities-call-2026-11-18",
+   "cvf-v20-2026-11-18-gst2-remarks",
    "germanwatch-2026-11-17-cri-2027",
    "iddri-2026-11-18-cop31-debrief-webinar",
    "oilchange-2026-11-17-fossil-roadmaps",
