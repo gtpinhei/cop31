@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-18",
- "generated_at": "2026-11-18T18:58+03:00",
+ "generated_at": "2026-11-18T19:58+03:00",
  "window": {
   "from": "2026-11-15",
   "to": "2026-11-18",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-18T12:17:46-03:00",
-  "social_round": "2026-11-18T12:43:19-03:00",
+  "social_round": "2026-11-18T13:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 63,
-  "stories": 56,
+  "candidates": 64,
+  "stories": 57,
   "top": 8,
   "publishers": [
    "350.org",
@@ -957,6 +957,43 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261117-measuring-progress",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261117-measuring-progress",
+     "title": "enb.iisd.org: [resumo da fonte] A contact group on measuring progress worked to approve indicators.",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jmc23pjc23",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-17",
+     "time": "14:52",
+     "language": "en",
+     "tracks": [
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB relata que o grupo de contato sobre medição de progresso trabalhou para aprovar indicadores (adaptação).",
+     "collected_at": "2026-11-18T13:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that the contact group on measuring progress worked to approve indicators (adaptation).",
+      "es": "ENB informa de que el grupo de contacto sobre la medición del progreso trabajó para aprobar indicadores (adaptación).",
+      "fr": "L'ENB rapporte que le groupe de contact sur la mesure des progrès a travaillé à l'approbation d'indicateurs (adaptation).",
+      "ru": "ENB сообщает, что контактная группа по оценке прогресса работала над утверждением индикаторов (адаптация).",
+      "zh": "ENB 报道，衡量进展联络小组致力于批准指标（适应）。",
+      "ar": "تفيد نشرة ENB بأن فريق الاتصال المعني بقياس التقدم عمل على الموافقة على المؤشرات (التكيف)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
