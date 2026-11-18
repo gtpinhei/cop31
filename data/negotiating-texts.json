@@ -149,9 +149,15 @@
       "change": "revised",
       "document_id": "10000300",
       "event_id": "09275e62276fcd63f41978f5"
+    },
+    {
+      "at": "2026-11-18T16:27:31.159409Z",
+      "change": "revised",
+      "document_id": "10000326",
+      "event_id": "ce0383d4b7dd69b91d5e39d7"
     }
   ],
-  "checked_at": "2026-11-18T16:11:07.202046Z",
+  "checked_at": "2026-11-18T16:27:31.159409Z",
   "degraded": false,
   "documents": [
     {
@@ -2408,7 +2414,7 @@
         },
         {
           "language": "es",
-          "sha256": "5018ae592cdb5aafe861a8a45b307288b3ef27bb73fbf7948fbb291883d60204",
+          "sha256": "18740a211d9fc2f2cbae7f5efcc2bd228c15017ec3cd34b6865015bcf4564514",
           "url": "https://docs.unfccc.int/documents/10000326/files/es/sb2026_L08S.pdf"
         },
         {
@@ -2423,7 +2429,7 @@
         },
         {
           "language": "zh",
-          "sha256": "18c29313274e21e80bbf1cf7aefa50b6f66268edc3d04d1bbc9a7fa3a1c5b0ed",
+          "sha256": "7bf665f56419920205b28cdea9f09c0d51268e6c7c216fbb65321f3d836566ae",
           "url": "https://docs.unfccc.int/documents/10000326/files/zh/sb2026_L08C.pdf"
         }
       ],
@@ -2431,7 +2437,7 @@
       "document_code": "FCCC/SB/2026/L.8",
       "id": "10000326",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-17T14:02:02.606476Z",
+      "modified_at": "2026-11-18T16:19:45.877550Z",
       "published_at": "2026-11-14T18:00:00Z",
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000326/metadata",
@@ -2998,9 +3004,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 25,
-  "last_attempt": "2026-11-18T16:11:07.202046Z",
-  "last_success": "2026-11-18T16:11:07.202046Z",
+  "history_count": 26,
+  "last_attempt": "2026-11-18T16:27:31.159409Z",
+  "last_success": "2026-11-18T16:27:31.159409Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
