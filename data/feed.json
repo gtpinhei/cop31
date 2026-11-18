@@ -128,6 +128,33 @@
    "source_id": "bsky-350-org"
   },
   {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261117-cover-decision-trouble",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-17",
+   "time": "13:18",
+   "text": "[resumo da fonte] \"As negotiations in Antalya continue on crunch topics, with the first draft \"cover decision\" running into trouble\"",
+   "summary": "Simon Evans (Carbon Brief) informa que, enquanto as negociações em Antália seguem nos temas mais difíceis, o primeiro rascunho da \"decisão de cobertura\" enfrenta dificuldades.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) reports that, as negotiations in Antalya continue on the toughest issues, the first draft of the \"cover decision\" is running into trouble.",
+    "es": "Simon Evans (Carbon Brief) informa de que, mientras las negociaciones en Antalya continúan sobre los temas más difíciles, el primer borrador de la \"decisión de cobertura\" tropieza con dificultades.",
+    "fr": "Simon Evans (Carbon Brief) indique que, alors que les négociations se poursuivent à Antalya sur les sujets les plus difficiles, le premier projet de « décision de couverture » rencontre des difficultés.",
+    "ru": "Саймон Эванс (Carbon Brief) сообщает, что, пока переговоры в Анталье продолжаются по наиболее сложным вопросам, первый проект «общего решения» (cover decision) сталкивается с трудностями.",
+    "zh": "Simon Evans（Carbon Brief）报道称，安塔利亚谈判仍在最棘手的议题上继续，而“总括决定”（cover decision）的第一份草案遇到了困难。",
+    "ar": "أفاد سايمون إيفانز (Carbon Brief) بأنه فيما تتواصل المفاوضات في أنطاليا بشأن أصعب القضايا، يواجه المشروع الأول لـ\"قرار الغطاء\" (cover decision) صعوبات."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2jgz6qh6r2i",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-18T09:43:45-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
    "id": "bluesky-enb.iisd.org-20261117-art-ace",
    "kind": "post",
    "platform": "bluesky",
@@ -25010,12 +25037,35 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T08:43:22-03:00",
-  "label": "18 nov 2026, 08:42 (Brasília)",
+  "timestamp": "2026-11-18T09:43:45-03:00",
+  "label": "18 nov 2026, 09:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
-  "blocked_accounts": []
+  "blocked_accounts": [
+   "x-turkiyecop31",
+   "ig-turkiyecop31",
+   "x-murat-kurum",
+   "ig-muratkurum",
+   "ig-chrisbowenmp",
+   "x-unfccc",
+   "yt-unclimatechangeevents",
+   "x-simonstiell",
+   "x-aosischair",
+   "x-ldcchairunfccc",
+   "x-ireland2026eu",
+   "x-lulaoficial",
+   "x-mmeioambiente",
+   "x-itamaratygovbr",
+   "x-marinasilva",
+   "ig-institutotalanoa",
+   "x-unatalie",
+   "ig-observatoriodoclima",
+   "x-canintl",
+   "x-hiz-2026",
+   "x-carbonpulse",
+   "x-fatmavarank"
+  ]
  }
 }
