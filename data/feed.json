@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "generated_at": "2026-11-17T18:30:00-03:00",
+ "generated_at": "2026-11-18T00:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-17T18:30:00-03:00",
-  "label": "17 nov 2026, 18:30 (Brasília)",
-  "sites_checked": 56,
-  "blocked": 13,
-  "new_items": 8,
+  "timestamp": "2026-11-18T00:20:00-03:00",
+  "label": "18 nov 2026, 00:20 (Brasília)",
+  "sites_checked": 60,
+  "blocked": 19,
+  "new_items": 5,
   "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
@@ -22,7 +22,13 @@
    "web-foei-org-news",
    "web-icccad-net-news",
    "web-eurodad-org-news",
-   "web-carbon-pulse-com-category-international"
+   "web-carbon-pulse-com-category-international",
+   "web-wemeanbusinesscoalition-org-news",
+   "web-twn-my-title2-climate-climate-updates-htm",
+   "web-politicaporinteiro-org-en",
+   "web-odi-org-en-insights",
+   "web-ember-energy-org-latest-insights",
+   "web-institutotalanoa-org-publicacoes"
   ]
  },
  "tracks": [
@@ -43,6 +49,138 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-17-article62-registry",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "COP31 Sees Launch of First Version of Article 6.2 International Registry",
+   "date": "2026-11-17",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/news/cop31-sees-launch-of-first-version-of-article-62-international-registry",
+   "summary": "A UNFCCC anuncia, durante a COP31, o lançamento da primeira versão do registro internacional do Artigo 6.2 do Acordo de Paris, base para o rastreamento de transferências de resultados de mitigação entre países. O avanço incide sobre a trilha de mercados de carbono e cooperação voluntária. Resumo baseado no título e na chamada da página; o texto completo não foi lido.",
+   "summary_i18n": {
+    "en": "The UNFCCC announces, during COP31, the launch of the first version of the international registry under Article 6.2 of the Paris Agreement, the basis for tracking transfers of mitigation outcomes between countries. The step bears on the carbon markets and voluntary cooperation track. Summary based on the title and page teaser; the full text was not read.",
+    "es": "La CMNUCC anuncia, durante la COP31, el lanzamiento de la primera versión del registro internacional del artículo 6.2 del Acuerdo de París, base para el seguimiento de las transferencias de resultados de mitigación entre países. El avance incide en la vía de los mercados de carbono y la cooperación voluntaria. Resumen basado en el título y el avance de la página; no se leyó el texto completo.",
+    "fr": "La CCNUCC annonce, pendant la COP31, le lancement de la première version du registre international prévu à l'article 6.2 de l'Accord de Paris, base du suivi des transferts de résultats d'atténuation entre pays. Cette avancée concerne le volet des marchés du carbone et de la coopération volontaire. Résumé fondé sur le titre et l'aperçu de la page ; le texte intégral n'a pas été lu.",
+    "ru": "РКИК ООН объявляет о запуске в ходе КС-31 первой версии международного реестра по статье 6.2 Парижского соглашения, который служит основой для учёта передач результатов предотвращения выбросов между странами. Этот шаг относится к направлению углеродных рынков и добровольного сотрудничества. Резюме основано на заголовке и анонсе страницы; полный текст не читался.",
+    "zh": "《联合国气候变化框架公约》秘书处宣布，在COP31期间推出《巴黎协定》第6.2条国际登记簿的首个版本，用于追踪各国之间减缓成果的转让。这一进展涉及碳市场和自愿合作议题。摘要基于标题和页面导语，未阅读全文。",
+    "ar": "أعلنت أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، خلال مؤتمر الأطراف الحادي والثلاثين، إطلاق النسخة الأولى من السجل الدولي بموجب المادة 6-2 من اتفاق باريس، وهو الأساس لتتبع عمليات نقل نتائج التخفيف بين البلدان. ويتصل هذا التقدم بمسار أسواق الكربون والتعاون الطوعي. الملخص مبني على العنوان ومقدمة الصفحة؛ ولم يُقرأ النص الكامل."
+   },
+   "tracks": [
+    "Mitigação e MWP",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T00:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-17-transparency-stiell",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "Transparency is essential to ensuring climate action is grounded in solid evidence – UN Climate Chief",
+   "date": "2026-11-17",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/news/transparency-is-essential-to-ensuring-climate-action-is-grounded-in-solid-evidence-un-climate-chief",
+   "summary": "O chefe do clima da ONU, Simon Stiell, defende que a transparência é a base para uma ação climática apoiada em evidências sólidas, no contexto dos relatórios bienais de transparência (BTRs) e da avaliação coletiva do GST2. Resumo baseado no título e na chamada da página; o discurso completo não foi lido.",
+   "summary_i18n": {
+    "en": "UN Climate Chief Simon Stiell argues that transparency is the foundation for climate action grounded in solid evidence, in the context of the biennial transparency reports (BTRs) and the collective assessment under GST2. Summary based on the title and page teaser; the full speech was not read.",
+    "es": "El Jefe de ONU Cambio Climático, Simon Stiell, sostiene que la transparencia es la base de una acción climática fundamentada en pruebas sólidas, en el contexto de los informes bienales de transparencia (BTR) y de la evaluación colectiva del GST2. Resumen basado en el título y el avance de la página; no se leyó el discurso completo.",
+    "fr": "Le chef de l'ONU Climat, Simon Stiell, soutient que la transparence est le fondement d'une action climatique reposant sur des preuves solides, dans le contexte des rapports biennaux de transparence (BTR) et de l'évaluation collective du GST2. Résumé fondé sur le titre et l'aperçu de la page ; le discours complet n'a pas été lu.",
+    "ru": "Глава по климату ООН Саймон Стилл утверждает, что прозрачность — основа климатических действий, опирающихся на надёжные данные, в контексте двухгодичных докладов о прозрачности (BTR) и коллективной оценки в рамках GST2. Резюме основано на заголовке и анонсе страницы; полное выступление не читалось.",
+    "zh": "联合国气候变化事务负责人西蒙·斯蒂尔（Simon Stiell）指出，透明度是以确凿证据为基础开展气候行动的根本，涉及两年期透明度报告（BTR）和GST2下的集体评估。摘要基于标题和页面导语，未阅读完整讲话。",
+    "ar": "يرى رئيس الأمم المتحدة للمناخ سايمون ستيل أن الشفافية هي أساس العمل المناخي القائم على أدلة راسخة، في سياق تقارير الشفافية كل سنتين (BTR) والتقييم الجماعي في إطار GST2. الملخص مبني على العنوان ومقدمة الصفحة؛ ولم يُقرأ الخطاب الكامل."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"Transparency is essential to ensuring climate action is grounded in solid evidence\" (título; UN Climate Chief)"
+   ],
+   "first_seen": "2026-11-18T00:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-17-climate-weeks",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action",
+   "date": "2026-11-17",
+   "authors": "UNFCCC secretariat",
+   "url": "https://unfccc.int/news/climate-weeks-are-where-civil-society-businesses-governments-and-local-leaders-come-together-to",
+   "summary": "Declaração da ONU Mudança do Clima sobre as Semanas do Clima como espaços que reúnem sociedade civil, empresas, governos e lideranças locais para ampliar a ambição climática, ligada à Agenda de Ação da COP31. Resumo baseado no título; o texto completo não foi lido.",
+   "summary_i18n": {
+    "en": "Statement by UN Climate Change on Climate Weeks as forums bringing together civil society, businesses, governments and local leaders to boost climate ambition, linked to the COP31 Action Agenda. Summary based on the title; the full text was not read.",
+    "es": "Declaración de ONU Cambio Climático sobre las Semanas del Clima como foros que reúnen a la sociedad civil, las empresas, los gobiernos y los líderes locales para impulsar la ambición climática, vinculada a la Agenda de Acción de la COP31. Resumen basado en el título; no se leyó el texto completo.",
+    "fr": "Déclaration d'ONU Changements climatiques sur les Semaines du climat, forums réunissant société civile, entreprises, gouvernements et dirigeants locaux pour renforcer l'ambition climatique, liée à l'Agenda de l'action de la COP31. Résumé fondé sur le titre ; le texte intégral n'a pas été lu.",
+    "ru": "Заявление Секретариата ООН по изменению климата о «климатических неделях» как площадках, объединяющих гражданское общество, бизнес, правительства и местных лидеров для повышения климатических амбиций, связанное с Повесткой дня действий КС-31. Резюме основано на заголовке; полный текст не читался.",
+    "zh": "联合国气候变化秘书处就“气候周”发表声明，称其是汇聚民间社会、企业、政府和地方领导人以提升气候雄心的平台，与COP31行动议程相关。摘要基于标题，未阅读全文。",
+    "ar": "بيان صادر عن الأمم المتحدة للتغير المناخي بشأن أسابيع المناخ بوصفها منتديات تجمع المجتمع المدني والشركات والحكومات والقادة المحليين لتعزيز الطموح المناخي، ويرتبط بخطة العمل لمؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان؛ ولم يُقرأ النص الكامل."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T00:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-17-climate-week-organizers-joint-statement",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Joint Statement of Climate Week Organizers",
+   "date": "2026-11-17",
+   "authors": "Climate Week organizers",
+   "url": "https://unfccc.int/documents/665143",
+   "summary": "Declaração conjunta dos organizadores das Semanas do Clima publicada no portal de documentos da UNFCCC durante a COP31, ligada à Agenda de Ação e à mobilização de atores não estatais. Resumo baseado apenas no título do documento; o conteúdo não foi lido.",
+   "summary_i18n": {
+    "en": "Joint statement by the Climate Week organizers published on the UNFCCC documents portal during COP31, linked to the Action Agenda and the mobilization of non-state actors. Summary based only on the document title; the content was not read.",
+    "es": "Declaración conjunta de los organizadores de las Semanas del Clima publicada en el portal de documentos de la CMNUCC durante la COP31, vinculada a la Agenda de Acción y a la movilización de actores no estatales. Resumen basado solo en el título del documento; no se leyó el contenido.",
+    "fr": "Déclaration commune des organisateurs des Semaines du climat publiée sur le portail des documents de la CCNUCC pendant la COP31, liée à l'Agenda de l'action et à la mobilisation des acteurs non étatiques. Résumé fondé uniquement sur le titre du document ; le contenu n'a pas été lu.",
+    "ru": "Совместное заявление организаторов «климатических недель», опубликованное на портале документов РКИК ООН в ходе КС-31 и связанное с Повесткой дня действий и мобилизацией негосударственных субъектов. Резюме основано только на названии документа; содержание не читалось.",
+    "zh": "气候周组织者联合声明，在COP31期间发布于《联合国气候变化框架公约》文件门户网站，与行动议程及非国家行为体的动员相关。摘要仅基于文件标题，未阅读内容。",
+    "ar": "بيان مشترك للجهات المنظمة لأسابيع المناخ نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ خلال مؤتمر الأطراف الحادي والثلاثين، ويرتبط بخطة العمل وتعبئة الجهات الفاعلة غير الحكومية. الملخص مبني على عنوان الوثيقة فقط؛ ولم يُقرأ المحتوى."
+   },
+   "tracks": [
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-18T00:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "350org-2026-11-17-ministers-roadmaps",
+   "institution": "350.org",
+   "type": "release",
+   "title": "More ministers announce transition away from fossil fuels: COP31 presidencies must stop ignoring roadmaps",
+   "date": "2026-11-17",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/more-ministers-announce-roadmaps-to-transition-away-from-fossil-fuels-cop31-presidencies-must-stop-ignoring-roadmaps/",
+   "summary": "A 350.org saúda novos ministros que anunciam roteiros de transição para longe dos combustíveis fósseis e cobra que as presidências da COP31 parem de ignorá-los e os integrem à decisão de cobertura. Resumo baseado no título e na chamada da listagem; o texto completo não foi lido.",
+   "summary_i18n": {
+    "en": "350.org welcomes additional ministers announcing roadmaps for the transition away from fossil fuels and urges the COP31 presidencies to stop ignoring them and to bring them into the cover decision. Summary based on the title and listing teaser; the full text was not read.",
+    "es": "350.org celebra que más ministros anuncien hojas de ruta para la transición para dejar atrás los combustibles fósiles e insta a las presidencias de la COP31 a dejar de ignorarlas e incorporarlas a la decisión de cobertura. Resumen basado en el título y el avance del listado; no se leyó el texto completo.",
+    "fr": "350.org salue l'annonce par d'autres ministres de feuilles de route pour la transition hors des combustibles fossiles et exhorte les présidences de la COP31 à cesser de les ignorer et à les intégrer à la décision de couverture. Résumé fondé sur le titre et l'aperçu de la liste ; le texte intégral n'a pas été lu.",
+    "ru": "350.org приветствует заявления новых министров о дорожных картах перехода от ископаемого топлива и призывает председательства КС-31 перестать их игнорировать и включить в общее решение. Резюме основано на заголовке и анонсе в списке; полный текст не читался.",
+    "zh": "350.org欢迎更多部长宣布摆脱化石燃料的转型路线图，并敦促COP31主席团不要再无视这些路线图，将其纳入总括性决定。摘要基于标题和列表导语，未阅读全文。",
+    "ar": "ترحب 350.org بإعلان المزيد من الوزراء عن خرائط طريق للانتقال بعيداً عن الوقود الأحفوري، وتحث رئاستي مؤتمر الأطراف الحادي والثلاثين على التوقف عن تجاهلها ودمجها في القرار الشامل. الملخص مبني على العنوان ومقدمة القائمة؛ ولم يُقرأ النص الكامل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"COP31 presidencies must stop ignoring roadmaps\" (título)"
+   ],
+   "first_seen": "2026-11-18T00:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
   {
    "id": "germanwatch-2026-11-17-cri-2027",
    "institution": "Germanwatch",
