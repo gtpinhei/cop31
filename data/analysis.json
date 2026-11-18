@@ -1,4 +1,42 @@
 {
   "schema": 1,
-  "entries": []
+  "entries": [
+    {
+      "article": "ldc-draft-10000354-2026-11-18",
+      "format": "text-explained",
+      "document": {
+        "id": "10000354",
+        "url": "https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf",
+        "version_label": "Version 18/11/2026 14:31",
+        "sha256": "898d8c18ceb0f25a0d6de2d4c4f66aa7341c5a942da845664b5fadf180628049",
+        "reviewed_at": "2026-11-18T12:02:00.341904+00:00"
+      },
+      "comparison": {
+        "status": "compared",
+        "baseline": {
+          "id": "10000350",
+          "url": "https://docs.unfccc.int/documents/10000350/files/en/LDCs_DT_COP31_CMA8.pdf",
+          "version_label": "Version 18/11/2026 11:42",
+          "sha256": "e37aa978168fdd53a838a0397bc50e6d90d77be7be05c8d58dcdf1159590aa86",
+          "reviewed_at": "2026-11-18T12:01:49.656350+00:00"
+        }
+      },
+      "summary": {
+        "changes": [
+          "The COP preamble replaces recognition of LDC needs with a fuller reference to Article 4.9, recalling that Parties shall take full account of those needs regarding funding and technology transfer.",
+          "The COP draft replaces “technical guidance” with “technical assistance” in the national adaptation plan implementation-platform provision.",
+          "COP paragraph 10 explicitly identifies implementing agencies of the Least Developed Countries Fund. Paragraph 21 replaces forwarding “those recommendations” “for adoption” with forwarding “a recommendation” to COP’s November 2027 session.",
+          "CMA paragraph 9 explicitly identifies implementing agencies of the Least Developed Countries Fund, revising the earlier grouping with accredited entities and implementing agencies.",
+          "CMA paragraph 20 replaces forwarding “those recommendations” “for adoption” with forwarding “a recommendation” to CMA’s November 2027 session."
+        ],
+        "significance": "Removing “for adoption” makes the stated procedural destination less explicit about the intended decision outcome; it does not establish what Parties will decide.",
+        "watch": "Check whether subsequent drafts retain the revised recommendation wording.",
+        "language": "en"
+      },
+      "lifecycle": {
+        "status": "current",
+        "checked_at": "2026-11-18T12:07:37.669628+00:00"
+      }
+    }
+  ]
 }

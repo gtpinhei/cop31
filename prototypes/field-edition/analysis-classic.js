@@ -38,7 +38,7 @@ const aiLabels={en:'AI-generated analysis · Automated evidence checks; not huma
    if(warning!=null){const p=safeText('p',labels[warning]);p.className='analysis-warning';section.append(p)}
    if(status.replacement)source(status.replacement,labels[7]);
    const history=document.createElement('details'),heading=safeText('summary',labels[12]);history.append(heading);
-   if(row.comparison.status==='compared'){const p=safeText('p',l[7]+': '),a=safeText('a',row.comparison.baseline.version_label);a.href=row.comparison.baseline.url;p.append(a);history.append(p)}else history.append(safeText('p',l[6]));section.append(history);
+   if(row.comparison.status==='compared'){const baseline=row.comparison.baseline,sourceNote=detail.article.sources.find(s=>s.url===baseline.url)?.note;if(typeof sourceNote==='string'&&sourceNote.trim()){const note=safeText('p',sourceNote);note.lang=detail.article.language||'pt';note.dir='auto';note.className='analysis-warning';history.append(note)}history.append(safeText('p','PDF SHA-256 · '+baseline.sha256));const p=safeText('p',l[7]+': '),a=safeText('a',baseline.version_label);a.href=row.comparison.baseline.url;p.append(a);history.append(p)}else history.append(safeText('p',l[6]));section.append(history);
    if(row.summary){
     const summary=row.summary,body=document.createElement('div');body.className='analysis-summary';body.lang=summary.language;body.dir='auto';
     body.append(safeText('h3',labels[0]));const ul=document.createElement('ul');summary.changes.forEach(change=>{const li=safeText('li',change);li.dir='auto';ul.append(li)});body.append(ul);
