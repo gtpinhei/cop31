@@ -1,31 +1,25 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18T06:35:00-03:00",
+ "generated_at": "2026-11-18T12:17:46-03:00",
  "round": {
-  "timestamp": "2026-11-18T06:35:00-03:00",
-  "label": "18 nov 2026, 06:35 (Brasília)",
-  "sites_checked": 59,
-  "blocked": 16,
-  "new_items": 5,
-  "fetches": "59 de 60",
+  "timestamp": "2026-11-18T12:17:46-03:00",
+  "label": "18 nov 2026, 12:17 (Brasília)",
+  "sites_checked": 52,
+  "blocked": 10,
+  "new_items": 4,
+  "fetches": "58 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
-   "web-cop30-br-en-2026-priorities",
    "web-unep-org-resources-emissions-gap-report-2026",
    "web-iea-org-events-world-energy-outlook-2026",
-   "web-chathamhouse-org-topics-climate-policy",
    "web-caneurope-org-news",
-   "web-ituc-csi-org-climate-justice",
    "web-wwf-panda-org-wwf-news",
-   "web-christianaid-org-uk-news",
-   "web-foei-org-news",
-   "web-institutotalanoa-org-publicacoes",
-   "web-transforma-global",
-   "web-wemeanbusinesscoalition-org-news",
-   "web-carbon-pulse-com-category-international",
-   "web-climateanalytics-org-publications",
-   "web-ember-energy-org-latest-insights"
+   "web-politicaporinteiro-org-en",
+   "web-icccad-net-news",
+   "web-eurodad-org-news",
+   "web-odi-org-en-insights",
+   "web-twn-my-title2-climate-climate-updates-htm"
   ]
  },
  "tracks": [
@@ -46,6 +40,65 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "climate-home-news-2026-11-18-bulletin-day-9",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening",
+   "date": "2026-11-18",
+   "authors": "Megan Rowling, Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/",
+   "summary": "Com três dias oficiais de negociação restantes, o rascunho da decisão de cobertura continua longo e foi rejeitado pelo Grupo Árabe e pela Rússia. A Presidência convocou uma reunião \"Divan\" às 17h para identificar terreno comum rumo a um pacote equilibrado. O boletim registra também a irritação de países em desenvolvimento com a falta de novas finanças, sobretudo para adaptação (apenas US$ 50 milhões prometidos ao Fundo de Adaptação contra meta anual de US$ 300 milhões), e o debate sobre o consenso e as \"coalizões dos dispostos\" fora da ONU, como o processo de Santa Marta.",
+   "summary_i18n": {
+    "en": "With three official negotiating days left, the draft cover decision is still long and has been rejected by the Arab Group and Russia. The Presidency has called a 5 pm \"Divan\" meeting to identify common ground towards a balanced package. The bulletin also reports developing countries' anger at the lack of new finance, especially for adaptation (only US$ 50 million pledged to the Adaptation Fund against an annual target of US$ 300 million), and the debate on consensus and \"coalitions of the willing\" outside the UN, such as the Santa Marta process.",
+    "es": "A tres días oficiales del final de las negociaciones, el borrador de la decisión de cobertura sigue siendo extenso y ha sido rechazado por el Grupo Árabe y Rusia. La Presidencia convocó una reunión \"Divan\" a las 17:00 para identificar puntos en común hacia un paquete equilibrado. El boletín también recoge el enojo de los países en desarrollo por la falta de nueva financiación, sobre todo para la adaptación (solo US$ 50 millones prometidos al Fondo de Adaptación frente a una meta anual de US$ 300 millones), y el debate sobre el consenso y las \"coaliciones de voluntarios\" fuera de la ONU, como el proceso de Santa Marta.",
+    "fr": "À trois jours officiels de la fin des négociations, le projet de décision de couverture reste long et a été rejeté par le Groupe arabe et la Russie. La présidence a convoqué une réunion « Divan » à 17 h pour dégager un terrain d'entente en vue d'un paquet équilibré. Le bulletin relève aussi la colère des pays en développement face à l'absence de nouveaux financements, surtout pour l'adaptation (seulement 50 millions de dollars promis au Fonds pour l'adaptation contre un objectif annuel de 300 millions), et le débat sur le consensus et les « coalitions de volontaires » hors de l'ONU, comme le processus de Santa Marta.",
+    "ru": "За три официальных дня до конца переговоров проект итогового решения всё ещё объёмен и отвергнут Арабской группой и Россией. Президентство созвало на 17:00 встречу «Диван» для поиска общей почвы ради сбалансированного пакета. В бюллетене также отмечено недовольство развивающихся стран отсутствием новых финансов, прежде всего на адаптацию (Адаптационному фонду обещано лишь 50 млн долл. США при годовой цели в 300 млн), и обсуждение консенсуса и «коалиций желающих» вне ООН, например процесса Санта-Марты.",
+    "zh": "距正式谈判结束还有三天，一揽子决定草案仍然冗长，且遭到阿拉伯集团和俄罗斯拒绝。主席团召集了下午5点的“Divan”会议，以寻找共同点，推动形成平衡的一揽子成果。简报还报道了发展中国家对缺乏新增资金（尤其是适应资金）的不满——适应基金仅获得5000万美元承诺，而年度目标为3亿美元——以及关于共识机制和联合国之外“有意愿者联盟”（如圣玛尔塔进程）的讨论。",
+    "ar": "مع بقاء ثلاثة أيام رسمية من المفاوضات، لا يزال مشروع القرار الجامع طويلاً ورفضته المجموعة العربية وروسيا. ودعت الرئاسة إلى اجتماع «ديفان» في الخامسة مساءً لتحديد أرضية مشتركة نحو حزمة متوازنة. وتشير النشرة أيضاً إلى استياء البلدان النامية من غياب التمويل الجديد، ولا سيما للتكيف (50 مليون دولار فقط وُعد بها صندوق التكيف مقابل هدف سنوي قدره 300 مليون)، وإلى النقاش حول التوافق و«ائتلافات الراغبين» خارج الأمم المتحدة، مثل عملية سانتا مارتا."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Finanças",
+    "Adaptação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Juan Carlos Navarro (Panama): \"Our hearts are full of hope and goodwill, but we are crashing against a wall of perverse futility\""
+   ],
+   "lang": "en",
+   "source_id": "web-climatechangenews-com",
+   "first_seen": "2026-11-18T12:17:46-03:00"
+  },
+  {
+   "id": "cvf-v20-2026-11-18-gst2-remarks",
+   "institution": "V20 / CVF",
+   "type": "comunicado",
+   "title": "Remarks by CVF-V20 Secretariat Managing Director Sara Jane Ahmed on the Challenges and Opportunities for the Second Global Stocktake",
+   "date": "2026-11-18",
+   "authors": "Sara Jane Ahmed",
+   "url": "https://cvfv20.org/remarks-by-cvf-v20-secretariat-managing-director-sara-jane-ahmed-on-the-challenges-and-opportunities-for-the-second-global-stocktake/",
+   "summary": "Sara Jane Ahmed, diretora-geral do Secretariado CVF-V20, argumenta que o mundo entrou num período de overshoot e que o GST2 deve medir a entrega, e não apenas promessas. Ela cita que os países em desenvolvimento pagaram aos bancos multilaterais mais do que receberam em 2025 (primeiro saldo líquido negativo desde 2006) e que os desembolsos caíram mais de US$ 11 bilhões. Pede que o GST2 conte o custo do capital e os fluxos líquidos, aplique o Artigo 2.1(c) a todo o sistema financeiro e crie amortecedores como pausas de dívida.",
+   "summary_i18n": {
+    "en": "Sara Jane Ahmed, Managing Director of the CVF-V20 Secretariat, argues that the world has entered an overshoot period and that GST2 must measure delivery, not just pledges. She notes that developing countries repaid multilateral development banks more than they received in 2025 (the first net negative year since 2006) and that disbursements fell by over US$ 11 billion. She asks GST2 to count the cost of capital and net flows, apply Article 2.1(c) to the whole financial system and build shock absorbers such as debt pause clauses.",
+    "es": "Sara Jane Ahmed, directora general de la Secretaría del CVF-V20, sostiene que el mundo ha entrado en un período de rebasamiento y que el GST2 debe medir la ejecución, no solo las promesas. Señala que en 2025 los países en desarrollo pagaron a los bancos multilaterales de desarrollo más de lo que recibieron (el primer saldo neto negativo desde 2006) y que los desembolsos cayeron más de US$ 11.000 millones. Pide que el GST2 contabilice el costo del capital y los flujos netos, aplique el artículo 2.1(c) a todo el sistema financiero y cree amortiguadores como cláusulas de pausa de la deuda.",
+    "fr": "Sara Jane Ahmed, directrice générale du Secrétariat du CVF-V20, soutient que le monde est entré dans une période de dépassement et que le GST2 doit mesurer la mise en œuvre, pas seulement les promesses. Elle note qu'en 2025 les pays en développement ont remboursé aux banques multilatérales de développement plus qu'ils n'ont reçu (premier solde net négatif depuis 2006) et que les décaissements ont reculé de plus de 11 milliards de dollars. Elle demande que le GST2 tienne compte du coût du capital et des flux nets, applique l'article 2.1 c) à l'ensemble du système financier et prévoie des amortisseurs tels que des clauses de suspension de la dette.",
+    "ru": "Сара Джейн Ахмед, управляющий директор Секретариата CVF-V20, утверждает, что мир вошёл в период превышения и что ГЗО-2 должен измерять реальные результаты, а не только обещания. Она отмечает, что в 2025 году развивающиеся страны выплатили многосторонним банкам развития больше, чем получили (первый чистый отрицательный баланс с 2006 года), а выплаты сократились более чем на 11 млрд долл. США. Она предлагает учитывать в ГЗО-2 стоимость капитала и чистые потоки, применить статью 2.1(c) ко всей финансовой системе и создать амортизаторы, например оговорки о приостановке выплат по долгу.",
+    "zh": "CVF-V20秘书处总干事萨拉·简·艾哈迈德指出，世界已进入温控超标期，第二次全球盘点（GST2）应衡量落实情况，而不仅是承诺。她提到，2025年发展中国家向多边开发银行偿还的资金多于获得的资金（2006年以来首次净流出），且支付额减少逾110亿美元。她呼吁GST2核算资金成本和净流量，将第2.1(c)条适用于整个金融体系，并建立债务暂停条款等缓冲机制。",
+    "ar": "ترى سارة جين أحمد، المديرة العامة لأمانة CVF-V20، أن العالم دخل مرحلة تجاوز الحد وأن الحصيلة العالمية الثانية (GST2) ينبغي أن تقيس التنفيذ لا الوعود فقط. وتشير إلى أن البلدان النامية سددت لبنوك التنمية المتعددة الأطراف أكثر مما تلقته في 2025 (أول صافٍ سلبي منذ 2006) وأن المدفوعات انخفضت بأكثر من 11 مليار دولار. وتدعو إلى أن تحتسب الحصيلة كلفة رأس المال وصافي التدفقات، وأن تُطبَّق المادة 2-1(ج) على النظام المالي كله، وأن تُنشأ مصدّات للصدمات مثل بنود تعليق الديون."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Finanças"
+   ],
+   "quotes": [
+    "Sara Jane Ahmed: \"We are now in an overshoot world, where our long and dearly held demand '1.5°C to stay alive' is no longer realistic.\"",
+    "Sara Jane Ahmed: \"The first stocktake measured the gap. The second must measure the delivery.\""
+   ],
+   "lang": "en",
+   "source_id": "web-cvfv20-org-communiques",
+   "first_seen": "2026-11-18T12:17:46-03:00"
+  },
   {
    "id": "bluesky-carbonbrief.org-20261118-daily-briefing",
    "kind": "post",
@@ -154,6 +207,63 @@
    "first_seen": "2026-11-18T05:46:00-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "climate-home-news-2026-11-17-gcf-duarte",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
+   "date": "2026-11-17",
+   "authors": "Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
+   "summary": "A diretora executiva do GCF, Mafalda Duarte, afirma que os países ricos devem liderar a reposição do fundo para 2028–2031, apesar das pressões orçamentárias. As Ilhas Salomão foram as primeiras contribuintes da quarta reposição (US$ 400 mil), e o Reino Unido reduziu pela metade sua contribuição atual. O GCF diz ter apoiado 379 projetos com US$ 22,3 bilhões em 12 anos e mira uma carteira de US$ 50 bilhões até 2030. Trata-se de finanças climáticas.",
+   "summary_i18n": {
+    "en": "GCF Executive Director Mafalda Duarte says rich countries must lead the fund's 2028–2031 replenishment despite budget pressures. Solomon Islands was the first contributor to the fourth replenishment (US$ 400,000), and the United Kingdom halved its current contribution. The GCF says it has backed 379 projects with US$ 22.3 billion over 12 years and aims for a US$ 50 billion portfolio by 2030. This bears on climate finance.",
+    "es": "La directora ejecutiva del GCF, Mafalda Duarte, afirma que los países ricos deben liderar la reposición del fondo para 2028–2031 pese a las presiones presupuestarias. Las Islas Salomón fueron las primeras contribuyentes a la cuarta reposición (US$ 400.000) y el Reino Unido redujo a la mitad su contribución actual. El GCF dice haber respaldado 379 proyectos con US$ 22.300 millones en 12 años y apunta a una cartera de US$ 50.000 millones para 2030. Se trata de financiación climática.",
+    "fr": "La directrice exécutive du GCF, Mafalda Duarte, affirme que les pays riches doivent mener la reconstitution du fonds pour 2028-2031 malgré les contraintes budgétaires. Les Îles Salomon ont été les premières contributrices à la quatrième reconstitution (400 000 dollars) et le Royaume-Uni a réduit de moitié sa contribution actuelle. Le GCF dit avoir soutenu 379 projets pour 22,3 milliards de dollars en 12 ans et vise un portefeuille de 50 milliards d'ici 2030. Cela concerne le financement climatique.",
+    "ru": "Исполнительный директор ЗКФ Мафальда Дуарте заявляет, что богатые страны должны возглавить пополнение фонда на 2028–2031 годы, несмотря на бюджетное давление. Соломоновы Острова стали первым донором четвёртого пополнения (400 тыс. долл. США), а Соединённое Королевство вдвое сократило нынешний взнос. По данным ЗКФ, за 12 лет поддержано 379 проектов на 22,3 млрд долл., цель — портфель в 50 млрд к 2030 году. Это относится к климатическому финансированию.",
+    "zh": "绿色气候基金（GCF）执行主任玛法尔达·杜阿尔特表示，尽管预算承压，富裕国家仍应牵头2028–2031年的基金增资。所罗门群岛成为第四次增资的首个出资方（40万美元），英国则将其当前出资减半。GCF称12年来已以223亿美元支持379个项目，目标是到2030年形成500亿美元的项目组合。此事涉及气候资金。",
+    "ar": "تقول المديرة التنفيذية للصندوق الأخضر للمناخ مافالدا دوارتي إن على الدول الغنية أن تقود تجديد موارد الصندوق للفترة 2028–2031 رغم ضغوط الميزانيات. وكانت جزر سليمان أول مساهم في التجديد الرابع (400 ألف دولار)، بينما خفضت المملكة المتحدة مساهمتها الحالية إلى النصف. ويقول الصندوق إنه دعم 379 مشروعاً بقيمة 22.3 مليار دولار خلال 12 عاماً ويستهدف محفظة بقيمة 50 مليار دولار بحلول 2030. ويتعلق ذلك بتمويل المناخ."
+   },
+   "tracks": [
+    "Finanças"
+   ],
+   "quotes": [
+    "Mafalda Duarte (GCF): \"If a country like the Solomon Islands can take this leadership, why shouldn't others?\"",
+    "Mafalda Duarte (GCF): \"it's a very difficult sell when people are facing rising living costs\""
+   ],
+   "lang": "en",
+   "source_id": "web-climatechangenews-com",
+   "first_seen": "2026-11-18T12:17:46-03:00"
+  },
+  {
+   "id": "greenpeace-international-2026-11-17-spain-portugal-roadmaps",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "Spain and Portugal roadmaps help build momentum to end fossil fuels at COP31",
+   "date": "2026-11-17",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87191/spain-portugal-roadmaps-build-momentum-end-fossil-fuels-cop31/",
+   "summary": "O Greenpeace saúda o anúncio de roteiros de transição para longe dos combustíveis fósseis por Espanha, Portugal e Dinamarca na COP31, e de Luxemburgo antes da conferência Irlanda–Tuvalu. A organização cobra metas de 2040 para os dois países ibéricos, com datas de eliminação de carvão, gás e petróleo, e pede que a Austrália publique seu próprio roteiro, incluindo exportações. Diz que ambos poderiam eliminar fósseis até 2040 cortando a demanda de energia em 39%. Trata-se da trilha de TAFF e fósseis.",
+   "summary_i18n": {
+    "en": "Greenpeace welcomes the announcement of roadmaps to transition away from fossil fuels by Spain, Portugal and Denmark at COP31, and by Luxembourg before the Ireland–Tuvalu conference. It calls for 2040 deadlines for the two Iberian countries, with phase-out dates for coal, gas and oil, and asks Australia to publish its own roadmap, including exports. It says both could phase out fossil fuels by 2040 by cutting energy demand by 39%. This bears on the TAFF and fossil fuels track.",
+    "es": "Greenpeace celebra el anuncio de hojas de ruta para la transición para dejar atrás los combustibles fósiles por parte de España, Portugal y Dinamarca en la COP31, y de Luxemburgo antes de la conferencia Irlanda–Tuvalu. Pide plazos para 2040 para los dos países ibéricos, con fechas de eliminación del carbón, el gas y el petróleo, y que Australia publique su propia hoja de ruta, incluidas las exportaciones. Afirma que ambos podrían eliminar los combustibles fósiles en 2040 reduciendo la demanda de energía un 39 %. Se vincula con la vía de TAFF y combustibles fósiles.",
+    "fr": "Greenpeace salue l'annonce de feuilles de route de transition hors des combustibles fossiles par l'Espagne, le Portugal et le Danemark à la COP31, et par le Luxembourg avant la conférence Irlande–Tuvalu. L'organisation réclame des échéances en 2040 pour les deux pays ibériques, avec des dates de sortie du charbon, du gaz et du pétrole, et demande à l'Australie de publier sa propre feuille de route, exportations comprises. Elle affirme que les deux pays pourraient sortir des fossiles d'ici 2040 en réduisant la demande d'énergie de 39 %. Cela relève du volet TAFF et combustibles fossiles.",
+    "ru": "Гринпис приветствует объявление дорожных карт перехода от ископаемого топлива, сделанное Испанией, Португалией и Данией на COP31 и Люксембургом перед конференцией Ирландии и Тувалу. Организация требует установить для двух иберийских стран сроки до 2040 года с датами отказа от угля, газа и нефти и призывает Австралию опубликовать собственную дорожную карту, включая экспорт. По её оценке, обе страны могут отказаться от ископаемого топлива к 2040 году, сократив спрос на энергию на 39 %. Это относится к направлению TAFF и ископаемого топлива.",
+    "zh": "绿色和平欢迎西班牙、葡萄牙和丹麦在COP31上宣布脱离化石燃料转型路线图，以及卢森堡将在爱尔兰—图瓦卢会议前发布路线图。该组织呼吁两个伊比利亚国家设定2040年期限并列明煤、气、油的退出日期，并要求澳大利亚公布包括出口在内的自身路线图。该组织称，两国若将能源需求削减39%，可在2040年前淘汰化石燃料。此事涉及TAFF与化石燃料议题。",
+    "ar": "ترحب غرينبيس بإعلان إسبانيا والبرتغال والدنمارك في مؤتمر COP31 خرائط طريق للانتقال بعيداً عن الوقود الأحفوري، وإعلان لوكسمبورغ ذلك قبل مؤتمر أيرلندا–توفالو. وتطالب بمواعيد نهائية في 2040 للبلدين الإيبيريين مع تواريخ لإنهاء الفحم والغاز والنفط، وتدعو أستراليا إلى نشر خريطة طريق خاصة بها تشمل الصادرات. وتقول إن بإمكان البلدين التخلص من الوقود الأحفوري بحلول 2040 بخفض الطلب على الطاقة بنسبة 39%. ويتصل ذلك بمسار TAFF والوقود الأحفوري."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Jasper Inventor (Greenpeace): \"the devil is in the detail: if we're to keep 1.5°C alive we need to go harder and faster.\"",
+    "Simon Bradshaw (Greenpeace Australia Pacific): \"The only path to returning warming to 1.5°C is through leaving fossil fuels in the ground.\""
+   ],
+   "lang": "en",
+   "source_id": "web-greenpeace-org-international-press",
+   "first_seen": "2026-11-18T12:17:46-03:00"
   },
   {
    "id": "bluesky-carbonbrief.org-20261117-miliband-coalizoes",
@@ -25093,11 +25203,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T11:50:00-03:00",
-  "label": "18 nov 2026, 11:50 (Brasília)",
+  "timestamp": "2026-11-18T12:43:19-03:00",
+  "label": "18 nov 2026, 12:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 2,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
