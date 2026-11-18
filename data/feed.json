@@ -209,6 +209,33 @@
    "source_id": "bsky-350-org"
   },
   {
+   "id": "bluesky-enb.iisd.org-20261117-measuring-progress",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-17",
+   "time": "14:52",
+   "text": "[resumo da fonte] A contact group on measuring progress worked to approve indicators.",
+   "summary": "O ENB relata que o grupo de contato sobre medição de progresso trabalhou para aprovar indicadores (adaptação).",
+   "summary_i18n": {
+    "en": "ENB reports that the contact group on measuring progress worked to approve indicators (adaptation).",
+    "es": "ENB informa de que el grupo de contacto sobre la medición del progreso trabajó para aprobar indicadores (adaptación).",
+    "fr": "L'ENB rapporte que le groupe de contact sur la mesure des progrès a travaillé à l'approbation d'indicateurs (adaptation).",
+    "ru": "ENB сообщает, что контактная группа по оценке прогресса работала над утверждением индикаторов (адаптация).",
+    "zh": "ENB 报道，衡量进展联络小组致力于批准指标（适应）。",
+    "ar": "تفيد نشرة ENB بأن فريق الاتصال المعني بقياس التقدم عمل على الموافقة على المؤشرات (التكيف)."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jmc23pjc23",
+   "tracks": [
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-18T13:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
    "id": "climate-home-news-2026-11-17-gcf-duarte",
    "institution": "Climate Home News",
    "type": "notícia",
@@ -25203,11 +25230,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T12:43:19-03:00",
-  "label": "18 nov 2026, 12:43 (Brasília)",
+  "timestamp": "2026-11-18T13:50:00-03:00",
+  "label": "18 nov 2026, 13:50 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
