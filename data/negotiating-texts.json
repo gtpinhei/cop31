@@ -125,9 +125,15 @@
       "change": "new",
       "document_id": "10000353",
       "event_id": "5b28785600ded6d461503d3f"
+    },
+    {
+      "at": "2026-11-18T10:27:36.961147Z",
+      "change": "withdrawn",
+      "document_id": "10000350",
+      "event_id": "07dea983c2f5c210495b5fce"
     }
   ],
-  "checked_at": "2026-11-18T10:17:14.899147Z",
+  "checked_at": "2026-11-18T10:27:36.961147Z",
   "degraded": false,
   "documents": [
     {
@@ -2691,14 +2697,14 @@
       "document_code": "DT.COP31.i11_CMA8.i14.1",
       "id": "10000350",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-18T09:10:45.498806Z",
+      "modified_at": "2026-11-18T10:18:10.516175Z",
       "published_at": "2026-11-18T08:45:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000350/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Matters relating to the least developed countries",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 16(b)",
@@ -2811,9 +2817,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 21,
-  "last_attempt": "2026-11-18T10:17:14.899147Z",
-  "last_success": "2026-11-18T10:17:14.899147Z",
+  "history_count": 22,
+  "last_attempt": "2026-11-18T10:27:36.961147Z",
+  "last_success": "2026-11-18T10:27:36.961147Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
