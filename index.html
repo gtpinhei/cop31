@@ -1832,7 +1832,7 @@ a:hover{text-decoration-color:var(--un)}
       if (en.assessed_at) h += '<span>·</span><span>' + esc(F(J.tAssessed, {t:stamp(en.assessed_at)})) + '</span>';
       h += '</div>';
       if (LANG !== "pt") {
-        var note = !t ? J.tPending : t.method === "machine" ? J.tMachine : t.method === "machine-reviewed" ? J.tMachineRev : "";
+        var note = !t ? (typeof ANALYSIS_LABELS !== "undefined" ? (ANALYSIS_LABELS[LANG] || ANALYSIS_LABELS.en)[8] : J.tPending) : t.method === "machine" ? J.tMachine : t.method === "machine-reviewed" ? J.tMachineRev : "";
         if (note) h += '<p class="ti-note" lang="' + esc(document.documentElement.lang) + '">' + esc(note) + '</p>';
       }
       h += '<h4>' + esc(tx("headline")) + '</h4>';
@@ -1878,14 +1878,16 @@ a:hover{text-decoration-color:var(--un)}
       var t = artTrans(a), draft = a.status !== "published";
       var h = back + '<div class="ti-meta"><span class="ti-tag">' + esc(J.tArticle) + '</span>' + (draft ? '<span class="ti-tag draft">' + esc(J.tDraft) + '</span>' : '') +
         (a.event_at ? '<span>' + esc(F(J.tEvent, {d:stamp(a.event_at)})) + '</span>' : '') + '</div>';
-      if (LANG !== "pt") {
-        var note = !t ? J.tPending : t.method === "machine" ? J.tMachine : t.method === "machine-reviewed" ? J.tMachineRev : "";
+      if (LANG !== (a.language || "pt")) {
+        var note = !t ? (typeof ANALYSIS_LABELS !== "undefined" ? (ANALYSIS_LABELS[LANG] || ANALYSIS_LABELS.en)[8] : J.tPending) : t.method === "machine" ? J.tMachine : t.method === "machine-reviewed" ? J.tMachineRev : "";
         if (note) h += '<p class="ti-note">' + esc(note) + '</p>';
       }
       h += '<h3 class="art-title">' + esc(t ? t.title : a.title) + '</h3>';
       var sf = t ? t.standfirst : a.standfirst;
       if (sf) h += '<p class="art-sf">' + esc(sf) + '</p>';
-      h += '<p class="art-note">' + esc(J.tArtNote) + '</p>' + contribLine(a.contributor);
+      if (!a.ai_provenance) h += '<p class="art-note">' + esc(J.tArtNote) + '</p>';
+      else h += '<p class="art-note" lang="en" dir="ltr">AI-generated analysis of public UNFCCC documents. Automated evidence checks, not human editorial approval. Analysis of the identified draft versions only, not an adopted outcome. Current document status is unverified until the version context loads.</p>';
+      h += contribLine(a.contributor);
       var rn = t ? t.reporting_note : a.reporting_note;   // como o colaborador apurou (presença, fontes), nas palavras dele
       if (rn) h += '<p class="art-rn"><strong>' + esc(J.tReportNote) + ':</strong> ' + esc(rn) + '</p>';
       (a.blocks || []).forEach(function(b, i){
@@ -1895,14 +1897,25 @@ a:hover{text-decoration-color:var(--un)}
       h += srcLine(a.sources) + corrLines(a.corrections);
       artBox.innerHTML = h;
       document.dispatchEvent(new CustomEvent("cop31:article", {detail:{article:a, language:LANG, preview:PREVIEW}}));
-      artBox.setAttribute("lang", t || LANG === "pt" ? document.documentElement.lang : "pt-BR");
+      artBox.setAttribute("lang", t ? LANG : (a.language || "pt-BR"));
     }
     function loadArticle(id){
       if (!/^[a-z0-9][a-z0-9-]{2,79}$/.test(id)) { ARTS[id] = null; return render(); }
       var u = "data/articles/" + id + ".json";
       get(u).then(function(a){ return a; }, function(){
         return PREVIEW ? get("__private__/articles/" + id + ".json").then(function(x){ return x && x.blocks ? x : null; }, function(){ return null; }) : null;
-      }).then(function(a){ ARTS[id] = a && a.id === id && Array.isArray(a.blocks) && (PREVIEW || (a.status === "published" && typeof a.approved_by === "string" && a.approved_by.trim() && typeof a.approved_at === "string" && Number.isFinite(Date.parse(a.approved_at)))) ? a : null; render(); });
+      }).then(function(a){
+        if (!a || a.id !== id || !Array.isArray(a.blocks)) return null;
+        if (a.ai_provenance) {
+          if (typeof analysisAllowed !== "function") return null;
+          return get("data/analysis.json").then(function(index){
+            if (!index || index.schema !== 1 || !Array.isArray(index.entries) || Object.keys(index).some(function(k){return k !== "schema" && k !== "entries";})) return null;
+            var matching = index.entries.filter(function(row){return row && row.article === id;});
+            return matching.length === 1 && analysisAllowed(matching[0], a) ? a : null;
+          }, function(){return null;});
+        }
+        return PREVIEW || (typeof analysisReleaseAllowed === "function" ? analysisReleaseAllowed(a) : (a.status === "published" && typeof a.approved_by === "string" && a.approved_by.trim() && typeof a.approved_at === "string" && Number.isFinite(Date.parse(a.approved_at)))) ? a : null;
+      }).then(function(a){ ARTS[id] = a; render(); });
     }
     function render(){
       if (!loaded) return;

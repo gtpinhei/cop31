@@ -13,8 +13,8 @@ from urllib.parse import urlsplit
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{2,79}\Z")
-KEYS = {"article", "format", "reporting_date", "document", "comparison", "superseded_by"}
-DOC_KEYS = {"url", "version_label", "reviewed_at", "sha256"}
+KEYS = {"article", "format", "reporting_date", "document", "comparison", "superseded_by", "summary", "lifecycle"}
+DOC_KEYS = {"url", "version_label", "reviewed_at", "sha256", "id"}
 
 
 def timestamp(value):
@@ -30,6 +30,8 @@ def document_errors(doc):
     if not isinstance(doc, dict):
         return ["document must be an object"]
     errors = []
+    if "id" in doc and (not isinstance(doc["id"], str) or not re.fullmatch(r"[A-Za-z0-9_-]{1,80}", doc["id"])):
+        errors.append("document id must be a stable safe identifier")
     if set(doc) - DOC_KEYS:
         errors.append("document has unexpected fields")
     try:
@@ -76,7 +78,7 @@ def validate(doc, root=ROOT):
             errors.extend(f"{aid}: {e}" for e in article_errors)
             if article.get("id") != aid:
                 errors.append(f"{aid}: article id does not match")
-            if not timestamp(article.get("approved_at")):
+            if "ai_provenance" not in article and not timestamp(article.get("approved_at")):
                 errors.append(f"{aid}: valid timestamp of explicit editorial approval required")
             if not article.get("contributor"):
                 errors.append(f"{aid}: explicitly cleared attribution required")
@@ -85,6 +87,39 @@ def validate(doc, root=ROOT):
         except (OSError, ValueError, TypeError, AttributeError):
             errors.append(f"{aid}: valid published canonical article required")
             article = {}
+        if "ai_provenance" in article:
+            provenance = article["ai_provenance"]
+            inputs = provenance.get("source_documents", []) if isinstance(provenance, dict) else []
+            c = row.get("comparison")
+            if row.get("format") != "text-explained" or not isinstance(c, dict) or c.get("status") != "compared" or len(inputs) != 2 or c.get("baseline") != inputs[0] or row.get("document") != inputs[1]:
+                errors.append(f"{aid}: AI release must bind to exactly its two verified input versions")
+        summary = row.get("summary")
+        if "summary" in row:
+            if not isinstance(summary, dict) or set(summary) != {"changes", "significance", "watch", "language"}:
+                errors.append(f"{aid}: invalid concise summary shape")
+            else:
+                if summary["language"] not in {"pt", "en", "es", "fr", "ru", "zh", "ar"}:
+                    errors.append(f"{aid}: summary requires original language")
+                if not isinstance(summary["changes"], list) or not 1 <= len(summary["changes"]) <= 5 or any(not isinstance(x, str) or not x.strip() or len(x) > 500 for x in summary["changes"]):
+                    errors.append(f"{aid}: summary needs 1-5 concise change bullets")
+                for key in ("significance", "watch"):
+                    if not isinstance(summary[key], str) or not summary[key].strip() or len(summary[key]) > 1000:
+                        errors.append(f"{aid}: summary {key} invalid")
+            if row.get("format") != "text-explained" or not isinstance(row.get("document"), dict) or not row["document"].get("id"):
+                errors.append(f"{aid}: inline analysis requires an exact document id")
+        lifecycle = row.get("lifecycle")
+        if "lifecycle" in row:
+            if not isinstance(lifecycle, dict) or set(lifecycle) - {"status", "checked_at", "replacement"} or lifecycle.get("status") not in {"unknown", "current", "withdrawn", "replaced"} or not timestamp(lifecycle.get("checked_at")):
+                errors.append(f"{aid}: invalid document lifecycle")
+            elif lifecycle["status"] == "replaced":
+                errors.extend(f"{aid} replacement: {e}" for e in document_errors(lifecycle.get("replacement")))
+                replacement = lifecycle.get("replacement")
+                if isinstance(replacement, dict) and replacement == row.get("document"):
+                    errors.append(f"{aid}: replacement cannot be the same exact document")
+            elif "replacement" in lifecycle:
+                errors.append(f"{aid}: replacement only allowed for replaced documents")
+            if row.get("format") != "text-explained":
+                errors.append(f"{aid}: lifecycle belongs to text-explained")
         if row.get("format") == "daily-diplomacy-brief":
             try:
                 dt.date.fromisoformat(row.get("reporting_date", ""))

@@ -28,3 +28,7 @@ jobs:
           node tests/test_v11.mjs
           node tests/test_newsletter.mjs
           node tests/test_briefing.mjs
+          node prototypes/field-edition/analysis-test.cjs
+          node prototypes/field-edition/analysis-classic-test.cjs
+          node prototypes/field-edition/analysis-ab-test.cjs
+          node prototypes/field-edition/analysis-ai-test.cjs

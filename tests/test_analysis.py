@@ -93,3 +93,66 @@ class AnalysisGate(unittest.TestCase):
     def test_private_marker_in_metadata_rejected(self):
         self.row = {'article': 'synthetic-brief', 'format': 'text-explained', 'document': dict(self.document, version_label='cop31-private/intake/secret'), 'comparison': {'status': 'not_assessed'}}
         self.assertTrue(self.check())
+
+class AnalysisABGate(unittest.TestCase):
+    write = AnalysisGate.write
+    check = AnalysisGate.check
+    def setUp(self):
+        AnalysisGate.setUp(self)
+        self.document['id'] = 'synthetic-350'
+        self.row = {'article': 'synthetic-brief', 'format': 'text-explained', 'document': self.document,
+                    'comparison': {'status': 'not_assessed'},
+                    'summary': {'changes': ['SYNTHETIC example only'], 'significance': 'SYNTHETIC interpretation', 'watch': 'SYNTHETIC next step', 'language': 'en'},
+                    'lifecycle': {'status': 'current', 'checked_at': '2026-11-18T00:00:00Z'}}
+
+    # Inherited tests target the older daily format, so this subclass only adds focused AB tests.
+    def test_ab_summary_required_identity(self):
+        self.assertEqual(self.check(), [])
+        self.document.pop('id')
+        self.assertTrue(self.check())
+
+    def test_ab_summary_limits(self):
+        for bad in [None, {}, {'changes': []}, dict(self.row['summary'], language='xx'), dict(self.row['summary'], changes=['x']*6), dict(self.row['summary'], watch='')]:
+            row = dict(self.row, summary=bad)
+            self.assertTrue(self.check([row]), repr(bad))
+
+    def test_ab_status_and_replacement(self):
+        self.row['lifecycle']['status'] = 'withdrawn'
+        self.assertEqual(self.check(), [])
+        self.row['lifecycle']['status'] = 'replaced'
+        self.assertTrue(self.check())
+        self.row['lifecycle']['replacement'] = dict(self.document, id='synthetic-353', url='https://unfccc.int/replacement.pdf')
+        self.assertEqual(self.check(), [])
+        self.row['lifecycle']['replacement']['sha256'] = 'not-pdf-bytes'
+        self.assertTrue(self.check())
+
+class AIReleaseGate(unittest.TestCase):
+    write = AnalysisGate.write
+    check = AnalysisGate.check
+    def setUp(self):
+        AnalysisGate.setUp(self)
+        self.document['id']='synthetic-after'
+        self.baseline=dict(self.document, id='synthetic-before', url='https://unfccc.int/before.pdf',sha256='b'*64)
+        self.row={'article':'synthetic-brief','format':'text-explained','document':self.document,'comparison':{'status':'compared','baseline':self.baseline}}
+        self.article['language']='en'
+        self.article.pop('approved_by');self.article.pop('approved_at')
+        self.article['sources'].append({'url':self.baseline['url'],'verified':True})
+        self.article['contributor']={'display':'named','name':'COP31 Monitor AI','role':'analyst'}
+        self.article['ai_provenance']={'schema':1,'mode':'public-unfccc-diff','generated_at':'2026-11-18T00:00:00Z','model':'SYNTHETIC TEST MODEL','prompt_version':'synthetic-v1','authorization':'owner-public-unfccc-analysis-2026-11-18','source_documents':[self.baseline,self.document],'qa':{'status':'passed','checked_at':'2026-11-18T00:01:00Z','checks':['official_sources_only','pdf_bytes_verified','version_identity_verified','evidence_links_checked','confidential_inputs_excluded']}}
+        self.write()
+    def test_explicit_ai_not_human_approval(self):
+        self.assertEqual(self.check(),[])
+        self.article['approved_by']='SYNTHETIC fake editor';self.write()
+        self.assertTrue(self.check())
+    def test_fail_closed_qa_scope_and_sources(self):
+        original=copy.deepcopy(self.article)
+        for key in ['qa','authorization','source_documents','model','generated_at']:
+            self.article=copy.deepcopy(original);self.article['ai_provenance'].pop(key);self.write()
+            self.assertTrue(self.check(),key)
+        self.article=copy.deepcopy(original);self.article['sources'].append({'url':'https://example.org/intelligence','verified':True});self.write()
+        self.assertTrue(self.check())
+    def test_only_bound_comparison_versions(self):
+        self.row['comparison']['baseline']=dict(self.baseline,sha256='c'*64)
+        self.assertTrue(self.check())
+        self.row['comparison']={'status':'not_assessed'}
+        self.assertTrue(self.check())

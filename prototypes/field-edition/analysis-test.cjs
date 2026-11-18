@@ -1,8 +1,8 @@
 /* SYNTHETIC approved-content rendering tests; nothing here is real editorial approval. */
 const fs=require('fs'),assert=require('assert'),{JSDOM}=require('../../tools/node_modules/jsdom');
 const tick=()=>new Promise(r=>setTimeout(r,40));
-const doc={url:'https://unfccc.int/test.pdf',version_label:'SYNTHETIC v1',reviewed_at:'2026-11-17T00:00:00Z',sha256:'a'.repeat(64)};
-const row={article:'synthetic-text',format:'text-explained',document:doc,comparison:{status:'not_assessed'}};
+const doc={id:'synthetic-document',url:'https://unfccc.int/test.pdf',version_label:'SYNTHETIC v1',reviewed_at:'2026-11-17T00:00:00Z',sha256:'a'.repeat(64)};
+const row={article:'synthetic-text',format:'text-explained',document:doc,comparison:{status:'not_assessed'},summary:{changes:['SYNTHETIC change <unsafe>'],significance:'SYNTHETIC significance',watch:'SYNTHETIC next step',language:'en'}};
 const article={schema:1,id:row.article,status:'published',approved_by:'SYNTHETIC editor',approved_at:'2026-11-17T01:00:00Z',title:'SYNTHETIC analysis <unsafe>',standfirst:'SYNTHETIC summary',sources:[{verified:true,url:doc.url}],contributor:{display:'named',name:'SYNTHETIC author'}};
 async function boot(entries=[],articles={}){
  const w=new JSDOM(fs.readFileSync(__dirname+'/live-preview.html','utf8'),{url:'https://review.test/',runScripts:'outside-only'}).window,calls=[];
@@ -11,7 +11,7 @@ async function boot(entries=[],articles={}){
  if(u==='data/today.json')return {ok:true,json:async()=>({entries:[{status:'published',approved_by:'SYNTHETIC',approved_at:'2026-11-17',headline:'DUPLICATE CARD',article:row.article,sources:[{verified:true}]}]})};
  if(u.includes('/articles/')){const a=articles[u.split('/').pop().replace('.json','')];return {ok:!!a,json:async()=>a}}
  return {ok:true,json:async()=>JSON.parse(fs.readFileSync(__dirname+'/'+u))}};
- w.eval(['app.js','canonical.js','migration.js','retention.js','analysis-core.js','analysis.js'].map(f=>fs.readFileSync(__dirname+'/'+f,'utf8')).join('\n')+';window.gate=analysisAllowed;window.docGate=analysisDocument;window.translationView=analysisTitle;window.refreshAnalysis=renderAnalysis;');
+ w.eval(['app.js','canonical.js','migration.js','retention.js','analysis-core.js','analysis.js'].map(f=>fs.readFileSync(__dirname+'/'+f,'utf8')).join('\n')+';window.gate=analysisAllowed;window.docGate=analysisDocument;window.translationView=analysisTitle;window.refreshAnalysis=renderAnalysis;window.setDocs=v=>{data.documents=v};');
  await tick();return {w,calls};
 }
 (async()=>{
@@ -22,7 +22,9 @@ async function boot(entries=[],articles={}){
  assert(!w.document.getElementById('community').textContent.includes('DUPLICATE CARD'));assert.equal(box.querySelector('h3 a').hash,'#hoje/leitura/synthetic-text');assert(box.querySelector('a[href="'+doc.url+'"]'));assert(box.textContent.includes('Comparison not assessed'));
  for(const code of ['en','pt','es','fr','ru','zh','ar']){w.document.getElementById('language').value=code;w.document.getElementById('language').dispatchEvent(new w.Event('change'));await tick();assert(box.querySelector('h3 a').search.includes('lang='+code));assert(box.querySelector('h2').textContent)}
  assert.equal(w.document.documentElement.dir,'rtl');assert.equal(calls.filter(u=>u.includes('/articles/')).length,1);assert(!w.document.querySelector('iframe'));assert(!calls.some(u=>/private|draft/.test(u)));
- const cards=w.document.getElementById('documents');cards.innerHTML='<article class="document"><a href="'+doc.url+'">PDF</a></article><article class="document"><a href="https://unfccc.int/other.pdf">Other</a></article>';w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);
+ const cards=w.document.getElementById('documents');w.setDocs({documents:[{id:doc.id,attachments:[{url:doc.url,sha256:doc.sha256}]}]});cards.innerHTML='<article class="document" data-document-id="'+doc.id+'"><a href="'+doc.url+'">PDF</a></article><article class="document"><a href="https://unfccc.int/other.pdf">Other</a></article>';w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-document-link').length,1);
+ assert(cards.textContent.includes('SYNTHETIC change <unsafe>'));assert(!cards.querySelector('unsafe'));assert(cards.querySelector('.analysis-read').hash==='#hoje/leitura/synthetic-text');
+ w.setDocs({documents:[{id:doc.id,attachments:[{url:doc.url,sha256:'b'.repeat(64)}]}]});w.refreshAnalysis();assert.equal(cards.querySelectorAll('.analysis-inline').length,0,'same URL changed PDF must not show old summary');
  for(const change of [{status:'draft'},{approved_by:''},{approved_at:'bad'},{contributor:null},{sources:[]},{id:'other'}])assert(!w.gate(row,{...article,...change}),JSON.stringify(change));
  assert(!w.gate({...row,document:{...doc,url:'https://evil.test'}},article));assert(!w.gate({...row,comparison:{status:'compared'}},article));assert(!w.docGate({...doc,url:'https://localhost/a'}));w.close();
  ({w}=await boot([{...row,superseded_by:'missing-new'}],{[row.article]:article}));assert(w.document.getElementById('original-analysis').hidden);w.close();

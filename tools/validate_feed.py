@@ -149,7 +149,7 @@ PUBLIC_ENTRY_KEYS = {"id", "status", "headline", "summary", "theme", "areas", "c
 PUBLIC_SOURCE_KEYS = {"title", "publisher", "url", "verified", "kind", "note", "date"}
 PUBLIC_CONTRIB_KEYS = {"display", "name", "affiliation", "role"}
 ARTICLE_KEYS = {"schema", "id", "entries", "status", "title", "standfirst", "reporting_note", "blocks", "contributor", "sources",
-                "event_at", "assessed_at", "approved_by", "approved_at", "i18n", "i18n_pending", "corrections"}
+                "event_at", "assessed_at", "approved_by", "approved_at", "i18n", "i18n_pending", "corrections", "ai_provenance", "language"}
 ARTICLE_TEXT = ("title", "standfirst", "reporting_note")
 SLUG = re.compile(r"^[a-z0-9][a-z0-9-]{2,79}$")
 PRIVATE_HINTS = ("cop31-private", "/intake/", "drafts.json", "sha256:")
@@ -300,6 +300,7 @@ def check_article(a, public=True):
         if extra: e.append(f"non-public fields in a public article: {sorted(extra)}")
         leak = _private_leak(a)
         if leak: e.append(f"public article mentions private-store material: {leak}")
+    if "language" in a and a["language"] not in {"pt", "en", "es", "fr", "ru", "zh", "ar"}: e.append("invalid original article language")
     if not _str(a.get("title")): e.append("missing title")
     if not (isinstance(a.get("entries"), list) and a["entries"] and all(_str(x) for x in a["entries"])):
         e.append("article needs entries: the ids of the Today cards it expands")
@@ -324,7 +325,13 @@ def check_article(a, public=True):
     pending = a.get("i18n_pending", [])
     if not isinstance(pending, list) or any(l not in LANGS for l in pending): e.append("i18n_pending must list language codes")
     if st == "published":
-        if not _str(a.get("approved_by")) or not a.get("approved_at"): e.append("published article needs approved_by and approved_at")
+        if "ai_provenance" in a:
+            import importlib.util
+            spec = importlib.util.spec_from_file_location("analysis_release", ROOT / "tools/analysis_release.py")
+            release = importlib.util.module_from_spec(spec); spec.loader.exec_module(release)
+            e.extend(release.ai_errors(a))
+        elif not _str(a.get("approved_by")) or not a.get("approved_at"):
+            e.append("published article needs approved_by and approved_at")
         texts = [a.get(f) for f in ARTICLE_TEXT] + [b.get("md") for b in blocks if isinstance(b, dict)]
         if any(_markers(v) for v in texts): e.append("published article still contains review markers")
         for l in LANGS:
