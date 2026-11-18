@@ -25230,35 +25230,12 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-18T15:44:00-03:00",
-  "label": "18 nov 2026, 15:44 (Brasília)",
+  "timestamp": "2026-11-18T16:43:35-03:00",
+  "label": "18 nov 2026, 16:43 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
   "cadence": "a cada hora",
-  "blocked_accounts": [
-   "x-turkiyecop31",
-   "ig-turkiyecop31",
-   "x-murat-kurum",
-   "ig-muratkurum",
-   "ig-chrisbowenmp",
-   "x-unfccc",
-   "yt-unclimatechangeevents",
-   "x-simonstiell",
-   "x-aosischair",
-   "x-ldcchairunfccc",
-   "x-ireland2026eu",
-   "x-lulaoficial",
-   "x-mmeioambiente",
-   "x-itamaratygovbr",
-   "x-marinasilva",
-   "ig-institutotalanoa",
-   "x-unatalie",
-   "ig-observatoriodoclima",
-   "x-canintl",
-   "x-hiz-2026",
-   "x-carbonpulse",
-   "x-fatmavarank"
-  ]
+  "blocked_accounts": []
  }
 }
