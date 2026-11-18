@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-17T14:08:19.419797Z",
-      "change": "revised",
-      "document_id": "10000326",
-      "event_id": "f6eb251bce69d000aebefb8c"
-    },
-    {
       "at": "2026-11-17T14:28:04.923987Z",
       "change": "revised",
       "document_id": "10000318",
@@ -149,9 +143,15 @@
       "change": "new",
       "document_id": "10000357",
       "event_id": "1f8bdba6f629669a0d44d19a"
+    },
+    {
+      "at": "2026-11-18T14:17:14.614618Z",
+      "change": "withdrawn",
+      "document_id": "10000357",
+      "event_id": "8d39ad02f2a9c0941c7e8810"
     }
   ],
-  "checked_at": "2026-11-18T14:07:29.498625Z",
+  "checked_at": "2026-11-18T14:17:14.614618Z",
   "degraded": false,
   "documents": [
     {
@@ -665,8 +665,8 @@
       "document_code": "COP31.PLOP",
       "id": "10000239",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-10T15:14:14.096586Z",
-      "published_at": "2026-11-10T15:10:00Z",
+      "modified_at": "2026-11-18T14:10:34.347004Z",
+      "published_at": "2026-11-10T13:10:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000239/metadata",
       "status": "unknown",
@@ -2825,14 +2825,14 @@
       "document_code": "FCCC/PA/CMA/2026/L.2",
       "id": "10000357",
       "metadata_version": "5.0",
-      "modified_at": "2026-11-18T12:55:33.023819Z",
+      "modified_at": "2026-11-18T14:17:02.921407Z",
       "published_at": "2026-11-18T12:50:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000357/metadata",
-      "status": "unknown",
+      "status": "withdrawn",
       "title": "Provision of financial and technical support to developing country Parties for reporting and capacity-building. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBSTA 65 6; SBI 65 6",
@@ -2923,9 +2923,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 25,
-  "last_attempt": "2026-11-18T14:07:29.498625Z",
-  "last_success": "2026-11-18T14:07:29.498625Z",
+  "history_count": 26,
+  "last_attempt": "2026-11-18T14:17:14.614618Z",
+  "last_success": "2026-11-18T14:17:14.614618Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
