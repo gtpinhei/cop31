@@ -119,9 +119,15 @@
       "change": "withdrawn",
       "document_id": "10000350",
       "event_id": "07dea983c2f5c210495b5fce"
+    },
+    {
+      "at": "2026-11-18T11:57:40.887635Z",
+      "change": "new",
+      "document_id": "10000354",
+      "event_id": "20214a109c594c40d563f3bf"
     }
   ],
-  "checked_at": "2026-11-18T11:47:36.766261Z",
+  "checked_at": "2026-11-18T11:57:40.887635Z",
   "degraded": false,
   "documents": [
     {
@@ -2717,6 +2723,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 11; CMA 8 14",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "898d8c18ceb0f25a0d6de2d4c4f66aa7341c5a942da845664b5fadf180628049",
+          "url": "https://docs.unfccc.int/documents/10000354/files/en/LDCs_DT_COP31_CMA81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i11_CMA8.i14.2",
+      "id": "10000354",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-18T11:56:00.190148Z",
+      "published_at": "2026-11-18T11:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000354/metadata",
+      "status": "draft",
+      "title": "Matters relating to the least developed countries",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2805,9 +2833,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 22,
-  "last_attempt": "2026-11-18T11:47:36.766261Z",
-  "last_success": "2026-11-18T11:47:36.766261Z",
+  "history_count": 21,
+  "last_attempt": "2026-11-18T11:57:40.887635Z",
+  "last_success": "2026-11-18T11:57:40.887635Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
