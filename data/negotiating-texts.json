@@ -161,10 +161,22 @@
       "change": "new",
       "document_id": "10000367",
       "event_id": "836da85b8d5036092719373b"
+    },
+    {
+      "at": "2026-11-19T13:07:33.849338Z",
+      "change": "revised",
+      "document_id": "10000367",
+      "event_id": "d91c71063b4ee9f3f933d5ed"
+    },
+    {
+      "at": "2026-11-19T13:07:33.849338Z",
+      "change": "revised",
+      "document_id": "10000366",
+      "event_id": "28aecb1da2a281aa72168678"
     }
   ],
-  "checked_at": "2026-11-19T12:47:24.032344Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T13:07:33.849338Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -609,7 +621,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "68d90f79de6cb0e0c1bee5edb6f7ade88e4712c7fb2b452cb64434f88c5fe052",
+          "sha256": "86e5a2f3d604ab09e23127e3685095f10258814280c10cb903a96f3a0acdbc2a",
           "url": "https://docs.unfccc.int/documents/10000366/files/en/Art2.1c_DT_cma8.pdf"
         }
       ],
@@ -617,8 +629,8 @@
       "document_code": "DT.CMA8.i11f.1",
       "id": "10000366",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-19T12:17:09.469013Z",
-      "published_at": "2026-11-19T11:25:00Z",
+      "modified_at": "2026-11-19T12:51:45.775689Z",
+      "published_at": "2026-11-19T09:25:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000366/metadata",
       "status": "draft",
@@ -3094,7 +3106,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "71674afb6bbdf213f859d25880d8ab1affbec69567619e1d80b69c1bf1661938",
+          "sha256": "6b0b9060dd252e5d72d77ae87b25c04e3494d7026ae2b9cfbfb05095229472b4",
           "url": "https://docs.unfccc.int/documents/10000367/files/en/ACE_DT_SBI653.pdf"
         }
       ],
@@ -3102,8 +3114,8 @@
       "document_code": "DT.COP31.i3b_CMA8.i3b.1",
       "id": "10000367",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-19T12:43:08.595439Z",
-      "published_at": "2026-11-19T12:40:00Z",
+      "modified_at": "2026-11-19T12:57:03.691453Z",
+      "published_at": "2026-11-19T10:40:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000367/metadata",
       "status": "draft",
@@ -3194,9 +3206,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T12:57:54.830201Z",
-  "last_success": "2026-11-19T12:47:24.032344Z",
+  "history_count": 29,
+  "last_attempt": "2026-11-19T13:07:33.849338Z",
+  "last_success": "2026-11-19T13:07:33.849338Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
