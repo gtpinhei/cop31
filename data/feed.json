@@ -66,6 +66,119 @@
    "source_id": "web-cop31-tr"
   },
   {
+   "id": "bluesky-enb.iisd.org-20261118-ldc-agreement",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "16:51",
+   "text": "[resumo da fonte] Reports that COP31 reached agreement on least developed country matters while finance, mitigation, adaptation and Article 6 talks continued.",
+   "summary": "O ENB relata que a COP31 chegou a acordo sobre temas dos países menos desenvolvidos, enquanto seguem as negociações sobre finanças, mitigação, adaptação e Artigo 6.",
+   "summary_i18n": {
+    "en": "ENB reports that COP31 reached agreement on least developed country matters, while negotiations on finance, mitigation, adaptation and Article 6 continue.",
+    "es": "ENB informa de que la COP31 alcanzó un acuerdo sobre las cuestiones de los países menos adelantados, mientras continúan las negociaciones sobre financiación, mitigación, adaptación y el Artículo 6.",
+    "fr": "L'ENB rapporte que la COP31 est parvenue à un accord sur les questions relatives aux pays les moins avancés, tandis que les négociations sur le financement, l'atténuation, l'adaptation et l'article 6 se poursuivent.",
+    "ru": "ENB сообщает, что на COP31 достигнуто соглашение по вопросам наименее развитых стран, тогда как переговоры по финансированию, смягчению, адаптации и статье 6 продолжаются.",
+    "zh": "ENB 报道，COP31 就最不发达国家相关事项达成一致，而关于资金、减缓、适应和第6条的谈判仍在继续。",
+    "ar": "تفيد نشرة ENB بأن مؤتمر الأطراف الحادي والثلاثين توصل إلى اتفاق بشأن مسائل أقل البلدان نموًا، بينما تتواصل المفاوضات حول التمويل والتخفيف والتكيف والمادة 6."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mdezhh3s2p",
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-19T08:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261118-finance-wp",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "15:08",
+   "text": "[resumo da fonte] Reports on COP31 climate finance debates and presidency consultations on the Climate Finance Work Programme.",
+   "summary": "O ENB relata os debates sobre finanças climáticas na COP31 e as consultas da presidência sobre o Programa de Trabalho sobre Finanças Climáticas.",
+   "summary_i18n": {
+    "en": "ENB reports on climate finance debates at COP31 and presidency consultations on the Climate Finance Work Programme.",
+    "es": "ENB informa sobre los debates de financiación climática en la COP31 y las consultas de la Presidencia sobre el Programa de Trabajo sobre Financiación Climática.",
+    "fr": "L'ENB rend compte des débats sur le financement climatique à la COP31 et des consultations de la présidence sur le programme de travail sur le financement climatique.",
+    "ru": "ENB сообщает об обсуждениях климатического финансирования на COP31 и консультациях председательства по рабочей программе по климатическому финансированию.",
+    "zh": "ENB 报道 COP31 上的气候资金辩论，以及主席团就气候资金工作方案开展的磋商。",
+    "ar": "تفيد نشرة ENB بشأن مناقشات تمويل المناخ في مؤتمر الأطراف الحادي والثلاثين ومشاورات الرئاسة حول برنامج العمل المعني بتمويل المناخ."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5n7zp4c2f",
+   "tracks": [
+    "Finanças"
+   ],
+   "first_seen": "2026-11-19T08:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261118-art6-mwp",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "15:06",
+   "text": "[resumo da fonte] Reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures, with delays in agreement.",
+   "summary": "O ENB relata as negociações na COP31 sobre o Artigo 6.4, o Programa de Trabalho de Mitigação e as medidas de resposta, com atrasos para chegar a acordo.",
+   "summary_i18n": {
+    "en": "ENB reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures, with delays in reaching agreement.",
+    "es": "ENB informa sobre las negociaciones en la COP31 acerca del Artículo 6.4, el Programa de Trabajo sobre Mitigación y las medidas de respuesta, con retrasos para alcanzar un acuerdo.",
+    "fr": "L'ENB rend compte des négociations de la COP31 sur l'article 6.4, le programme de travail sur l'atténuation et les mesures de riposte, avec des retards dans la conclusion d'un accord.",
+    "ru": "ENB сообщает о переговорах на COP31 по статье 6.4, рабочей программе по смягчению и мерам реагирования, с задержками в достижении согласия.",
+    "zh": "ENB 报道 COP31 上关于第6.4条、减缓工作方案和应对措施的谈判，达成一致出现延迟。",
+    "ar": "تفيد نشرة ENB بشأن مفاوضات مؤتمر الأطراف الحادي والثلاثين حول المادة 6.4 وبرنامج عمل التخفيف وتدابير الاستجابة، مع تأخر في التوصل إلى اتفاق."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5ipqf7c2f",
+   "tracks": [
+    "Mitigação e MWP",
+    "Comércio"
+   ],
+   "first_seen": "2026-11-19T08:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261118-adaptation-gap",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "19:00",
+   "text": "[resumo da fonte] Announces the UNEP Adaptation Gap Report launch event at COP31, focusing on adaptation finance and loss and damage frameworks.",
+   "summary": "O ENB anuncia o evento de lançamento do Relatório sobre a Lacuna de Adaptação do PNUMA na COP31, com foco em finanças de adaptação e arcabouços de perdas e danos.",
+   "summary_i18n": {
+    "en": "ENB announces the launch event of the UNEP Adaptation Gap Report at COP31, focusing on adaptation finance and loss and damage frameworks.",
+    "es": "ENB anuncia el acto de presentación del Informe sobre la Brecha de Adaptación del PNUMA en la COP31, centrado en la financiación de la adaptación y los marcos de pérdidas y daños.",
+    "fr": "L'ENB annonce l'événement de lancement du Rapport du PNUE sur l'écart en matière d'adaptation à la COP31, axé sur le financement de l'adaptation et les cadres relatifs aux pertes et préjudices.",
+    "ru": "ENB анонсирует презентацию Доклада ЮНЕП о разрыве в области адаптации на COP31, посвящённого финансированию адаптации и механизмам в области потерь и ущерба.",
+    "zh": "ENB 宣布在 COP31 举行联合国环境规划署《适应差距报告》发布活动，重点关注适应资金以及损失与损害框架。",
+    "ar": "تعلن نشرة ENB عن فعالية إطلاق تقرير فجوة التكيف لبرنامج الأمم المتحدة للبيئة في مؤتمر الأطراف الحادي والثلاثين، مع التركيز على تمويل التكيف وأطر الخسائر والأضرار."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mkmpjab22p",
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-19T08:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
    "id": "cop31tr-2026-11-18-divan-ministerial",
    "institution": "COP31 Presidency (Türkiye/Australia)",
    "type": "notícia",
@@ -5448,6 +5561,34 @@
    "first_seen": "2026-11-14T02:47:00-03:00",
    "lang": "en",
    "source_id": "ig-turkiyecop31"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261113-tubiana-electrification",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-13",
+   "time": "07:28",
+   "text": "[resumo da fonte] Last night, COP veteran Laurence Tubiana shared her views on the electrification goal",
+   "summary": "A Carbon Brief divulga conversa com Laurence Tubiana, veterana das COPs, sobre a meta de eletrificação, a ciência climática e o comércio de tecnologias limpas.",
+   "summary_i18n": {
+    "en": "Carbon Brief shares a conversation with COP veteran Laurence Tubiana on the electrification goal, climate science and cleantech trade.",
+    "es": "Carbon Brief difunde una conversación con Laurence Tubiana, veterana de las COP, sobre el objetivo de electrificación, la ciencia climática y el comercio de tecnologías limpias.",
+    "fr": "Carbon Brief diffuse un entretien avec Laurence Tubiana, vétérane des COP, sur l'objectif d'électrification, la science du climat et le commerce des technologies propres.",
+    "ru": "Carbon Brief публикует беседу с ветераном COP Лоранс Тубиана об электрификации, климатической науке и торговле чистыми технологиями.",
+    "zh": "Carbon Brief 发布对 COP 资深人士 Laurence Tubiana 的访谈，谈及电气化目标、气候科学和清洁技术贸易。",
+    "ar": "تنشر Carbon Brief حوارًا مع لورانس توبيانا، من قدامى مؤتمرات الأطراف، حول هدف التكهرب والعلوم المناخية وتجارة التكنولوجيا النظيفة."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n26rluqmjk2j",
+   "tracks": [
+    "Eletrificação",
+    "Comércio"
+   ],
+   "first_seen": "2026-11-19T08:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
   },
   {
    "id": "bluesky-unep.org-20261113-lacuna-adaptacao",
@@ -25833,11 +25974,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T07:43:03-03:00",
-  "label": "19 nov 2026, 07:42 (Brasília)",
+  "timestamp": "2026-11-19T08:50:00-03:00",
+  "label": "19 nov 2026, 08:50 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 5,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
