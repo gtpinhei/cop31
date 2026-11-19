@@ -66,6 +66,35 @@
    "source_id": "web-cop31-tr"
   },
   {
+   "id": "bluesky-enb.iisd.org-20261118-adaptation-finance-ldf",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "19:17",
+   "text": "[resumo da fonte] Promotes a COP31 article on the UNEP 2026 Adaptation Gap Report's look at adaptation finance and loss-and-damage frameworks.",
+   "summary": "O ENB divulga artigo da COP31 sobre o Relatório sobre a Lacuna de Adaptação 2026 do PNUMA, que examina finanças de adaptação e arcabouços de perdas e danos.",
+   "summary_i18n": {
+    "en": "ENB promotes a COP31 article on the UNEP 2026 Adaptation Gap Report's look at adaptation finance and loss and damage frameworks.",
+    "es": "ENB difunde un artículo de la COP31 sobre el examen que hace el Informe sobre la Brecha de Adaptación 2026 del PNUMA de la financiación de la adaptación y los marcos de pérdidas y daños.",
+    "fr": "L'ENB relaie un article de la COP31 sur l'examen, dans le Rapport 2026 du PNUE sur l'écart en matière d'adaptation, du financement de l'adaptation et des cadres relatifs aux pertes et préjudices.",
+    "ru": "ENB распространяет статью о COP31, посвящённую рассмотрению в Докладе ЮНЕП о разрыве в области адаптации 2026 года вопросов финансирования адаптации и механизмов в области потерь и ущерба.",
+    "zh": "ENB 推介一篇关于 COP31 的文章，介绍联合国环境规划署《2026 年适应差距报告》对适应资金以及损失与损害框架的审视。",
+    "ar": "تروّج نشرة ENB لمقال عن مؤتمر الأطراف الحادي والثلاثين حول تناول تقرير فجوة التكيف لعام 2026 الصادر عن برنامج الأمم المتحدة للبيئة لتمويل التكيف وأطر الخسائر والأضرار."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mljk5hnk2p",
+   "tracks": [
+    "Adaptação",
+    "Finanças",
+    "Perdas e danos"
+   ],
+   "first_seen": "2026-11-19T09:45:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
    "id": "bluesky-enb.iisd.org-20261118-ldc-agreement",
    "kind": "post",
    "platform": "bluesky",
@@ -25974,11 +26003,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T08:50:00-03:00",
-  "label": "19 nov 2026, 08:50 (Brasília)",
+  "timestamp": "2026-11-19T09:45:00-03:00",
+  "label": "19 nov 2026, 09:45 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 5,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
