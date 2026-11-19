@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-19",
- "generated_at": "2026-11-19T11:58+03:00",
+ "generated_at": "2026-11-19T12:58+03:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-11-19",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-19T00:15:21-03:00",
-  "social_round": "2026-11-19T05:45:37-03:00",
+  "web_round": "2026-11-19T06:20:00-03:00",
+  "social_round": "2026-11-19T06:43:09-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 69,
-  "stories": 61,
+  "candidates": 75,
+  "stories": 67,
   "top": 8,
   "publishers": [
    "350.org",
@@ -24,8 +24,10 @@
    "CSE India",
    "Carbon Brief",
    "Climate Home News",
+   "E3G",
    "Germanwatch",
    "Greenpeace International",
+   "ICC",
    "IDDRI",
    "IISD / ENB",
    "Kick Big Polluters Out",
@@ -51,28 +53,107 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "listagem sem datas nem URLs"
    },
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "sem datas"
+    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
+   },
+   {
+    "publisher": "Arab Group (UNFCCC submissions)",
+    "outcome": "blocked",
+    "note": "redireciona para submissions.unfccc.int, portal sem listagem datada renderizada"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-cop31tr-2026-11-19-climate-club-oecd",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "cop31tr-2026-11-19-climate-club-oecd",
+     "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
+     "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Presidência e anfitrião",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability,…",
+      "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión.",
+      "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements.",
+      "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции.",
+      "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
+      "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-e3g-2026-11-18-eu-uk-summit",
+    "section": "action",
+    "score": 0.72,
+    "lead": {
+     "id": "e3g-2026-11-18-eu-uk-summit",
+     "title": "Europe must maintain momentum on energy and climate cooperation at the EU-UK Summit",
+     "url": "https://www.e3g.org/news/europe-must-maintain-momentum-on-energy-and-climate-cooperation-at-the-eu-uk-summit/",
+     "publisher": "E3G",
+     "author": "Eve Nieminen",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Mitigação e MWP",
+      "Comércio"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Às vésperas da cúpula UE-Reino Unido de 20 de novembro, em Bruxelas, a E3G pede que os líderes convertam os compromissos de eletrificação assumidos na COP31 em marcos concretos.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Ahead of the 20 November EU-UK Summit in Brussels, E3G urges leaders to turn the electrification commitments made at COP31 into concrete milestones. Priorities include carbon market linking, electricity market integration, North Seas offshore wind cooperation and industrial policy.",
+      "es": "Ante la cumbre UE-Reino Unido del 20 de noviembre en Bruselas, E3G insta a los dirigentes a convertir los compromisos de electrificación asumidos en la COP31 en hitos concretos.",
+      "fr": "À la veille du sommet UE-Royaume-Uni du 20 novembre à Bruxelles, E3G invite les dirigeants à transformer les engagements d'électrification pris à la COP31 en jalons concrets.",
+      "ru": "Накануне саммита ЕС — Великобритания 20 ноября в Брюсселе E3G призывает лидеров превратить обязательства по электрификации, принятые на СОР31, в конкретные этапы.",
+      "zh": "在11月20日于布鲁塞尔举行的欧盟—英国峰会前夕，E3G敦促各国领导人将COP31上做出的电气化承诺转化为具体的里程碑。优先事项包括碳市场挂钩、电力市场一体化、北海海上风电合作和产业政策。分析将电气化视为减少对化石燃料依赖的核心路径。",
+      "ar": "عشية قمة الاتحاد الأوروبي والمملكة المتحدة المقررة في 20 نوفمبر في بروكسل، تحثّ E3G القادة على تحويل التزامات التكهرب التي قُطعت في مؤتمر الأطراف الحادي والثلاثين إلى معالم ملموسة. وتشمل الأولويات ربط أسواق الكربون، وتكامل أسواق الكهرباء، والتعاون في طاقة الرياح البحرية في بحار الشمال، والسياسة الصناعية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "E3G"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-18-gst2-launch",
     "section": "negotiations",
@@ -110,67 +191,111 @@
     ]
    },
    {
-    "id": "st-cop31tr-smart-cities-call-2026-11-18",
+    "id": "st-icc-2026-11-18-business-to-ministers",
     "section": "action",
-    "score": 0.48,
+    "score": 0.54,
     "lead": {
-     "id": "cop31tr-smart-cities-call-2026-11-18",
-     "title": "Global Call to Action for Smart, Resilient and Sustainable Cities Announced at COP31",
-     "url": "https://cop31.tr/news-detail/cop31-global-call-to-action-smart-resilient-sustainable-cities",
+     "id": "icc-2026-11-18-business-to-ministers",
+     "title": "Business to COP31 ministers: \"Give the real economy the confidence to act\"",
+     "url": "https://iccwbo.org/news-publications/news/business-to-cop31-ministers-give-the-real-economy-the-confidence-to-act/",
+     "publisher": "ICC",
+     "author": "ICC",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Finanças",
+      "Adaptação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Em nome do setor privado, a ICC pediu aos ministros da COP31 sinais de política claros e críveis para o investimento de longo prazo. Propõe três decisões: um pacote abrangente de eletrificação, uma agenda de financiamento mais ampla que use bancos multilaterais de desenvolvimento para atrair capital privado, e um…",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "On behalf of business, ICC urged COP31 ministers to give clear and credible policy signals for long-term investment. It proposes three decisions: a comprehensive electrification package, a broader financing agenda that uses multilateral development banks to attract private capital, and an adaptation outcome that makes…",
+      "es": "En nombre del sector empresarial, la ICC pidió a los ministros de la COP31 señales de política claras y creíbles para la inversión a largo plazo. Propone tres decisiones: un paquete integral de electrificación, una agenda de financiación más amplia que utilice los bancos multilaterales de desarrollo para atraer…",
+      "fr": "Au nom des entreprises, la CCI a demandé aux ministres de la COP31 de donner des signaux politiques clairs et crédibles pour l'investissement à long terme. Elle propose trois décisions : un paquet global d'électrification, un programme de financement plus large qui s'appuie sur les banques multilatérales de…",
+      "ru": "От имени бизнеса ICC призвала министров СОР31 дать чёткие и убедительные политические сигналы для долгосрочных инвестиций. Она предлагает три решения: комплексный пакет по электрификации, более широкую повестку финансирования с привлечением многосторонних банков развития для мобилизации частного капитала и итог по…",
+      "zh": "国际商会（ICC）代表企业界呼吁COP31部长们为长期投资发出清晰可信的政策信号。其提出三项决定：全面的电气化一揽子方案、借助多边开发银行吸引私人资本的更广泛融资议程，以及使韧性可投资的适应成果。该组织希望最终决定不止于笼统的意向声明。",
+      "ar": "حثّت غرفة التجارة الدولية (ICC)، باسم قطاع الأعمال، وزراء مؤتمر الأطراف الحادي والثلاثين على إرسال إشارات سياساتية واضحة وموثوقة للاستثمار طويل الأجل. وتقترح ثلاثة قرارات: حزمة شاملة للتكهرب، وجدول أعمال تمويلي أوسع يستخدم مصارف التنمية المتعددة الأطراف لاجتذاب رأس المال الخاص، ونتيجة في مجال التكيف تجعل القدرة على…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
+    ]
+   },
+   {
+    "id": "st-can-2026-11-18-adaptation-fund-shamefully-inadequate",
+    "section": "civil",
+    "score": 0.51,
+    "lead": {
+     "id": "can-2026-11-18-adaptation-fund-shamefully-inadequate",
+     "title": "\"Shamefully Inadequate\": At COP31, wealthy countries fail to meet Finance obligations that would support developing countries hit by climate impacts",
+     "url": "https://climatenetwork.org/2026/11/18/cop31-adaptation-fund-pledges-failure/",
+     "publisher": "CAN International",
+     "author": "Climate Action Network International",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A CAN afirma que o diálogo de contribuintes do Fundo de Adaptação na COP31 rendeu só US$ 50 milhões em novas promessas (Espanha, Alemanha e Irlanda), um sexto do piso anual de US$ 300 milhões de mobilização de recursos.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "CAN says the Adaptation Fund's contributor dialogue at COP31 produced only US$50 million in new pledges (Spain, Germany and Ireland), one-sixth of the annual US$300 million resource mobilisation floor.",
+      "es": "La CAN afirma que el diálogo de contribuyentes del Fondo de Adaptación en la COP31 solo generó 50 millones de dólares en nuevas promesas (España, Alemania e Irlanda), una sexta parte del umbral anual de movilización de recursos de 300 millones.",
+      "fr": "Le CAN indique que le dialogue des contributeurs du Fonds pour l'adaptation à la COP31 n'a produit que 50 millions de dollars de nouvelles promesses (Espagne, Allemagne et Irlande), soit un sixième du plancher annuel de mobilisation de ressources de 300 millions.",
+      "ru": "CAN сообщает, что диалог доноров Адаптационного фонда на СОР31 принёс лишь 50 млн долл. США новых обязательств (Испания, Германия и Ирландия) — одну шестую от годового минимума мобилизации ресурсов в 300 млн долл. Это четвёртый год подряд с недобором относительно цели в 1,2 млрд долл.",
+      "zh": "CAN表示，COP31上适应基金捐助方对话仅产生5000万美元新增认捐（西班牙、德国和爱尔兰），仅为每年3亿美元资源筹集下限的六分之一。这已是连续第四年未达2026–2029年12亿美元的目标，而该基金收到的申请额创下纪录，接近20亿美元。该网络引用联合国环境规划署（UNEP）的估算：到2035年适应需求约为每年3050亿美元。",
+      "ar": "تفيد شبكة العمل المناخي (CAN) بأن حوار المساهمين في صندوق التكيف في مؤتمر الأطراف الحادي والثلاثين لم يسفر إلا عن تعهدات جديدة قيمتها 50 مليون دولار (إسبانيا وألمانيا وأيرلندا)، أي سدس الحد الأدنى السنوي لتعبئة الموارد البالغ 300 مليون دولار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
+    ]
+   },
+   {
+    "id": "st-cop31tr-2026-11-18-divan-ministerial",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "cop31tr-2026-11-18-divan-ministerial",
+     "title": "COP31 Presidency brought Türkiye's Divan tradition to final push for agreement",
+     "url": "https://cop31.tr/news-detail/cop31-presidency-divan-tradition-final-push-for-agreement",
      "publisher": "COP31 Presidency (Türkiye/Australia)",
      "author": "COP31 Presidency",
      "published": "2026-11-18",
      "language": "en",
      "tracks": [
-      "Agenda de Ação",
-      "Adaptação",
-      "Presidência e anfitrião"
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "O site da Presidência da COP31 anuncia um Global Call to Action para cidades inteligentes, resilientes e sustentáveis, no âmbito da Agenda de Ação em Antalya. O tema liga ação urbana a adaptação e implementação local. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
-     "collected_at": "2026-11-18T06:35:00-03:00",
+     "description": "O Presidente da COP31, Murat Kurum, e o Presidente das Negociações, Chris Bowen, recorreram à tradição turca do Divan, uma consulta informal e aberta, para ajudar os ministros a encontrar terreno comum na reta final em Antalya.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "The COP31 Presidency website announces a Global Call to Action for smart, resilient and sustainable cities under the Action Agenda in Antalya. The topic links urban action to adaptation and local implementation. Summary based only on the listing headline; the full text was not read.",
-      "es": "El sitio de la Presidencia de la COP31 anuncia un Llamado Mundial a la Acción para ciudades inteligentes, resilientes y sostenibles en el marco de la Agenda de Acción en Antalya. El tema vincula la acción urbana con la adaptación y la implementación local. Resumen basado solo en el titular del listado;",
-      "fr": "Le site de la Présidence de la COP31 annonce un appel mondial à l'action pour des villes intelligentes, résilientes et durables, dans le cadre du Programme d'action à Antalya. Le sujet relie l'action urbaine à l'adaptation et à la mise en œuvre locale. Résumé fondé uniquement sur le titre de la liste ;",
-      "ru": "Сайт Председательства СОР31 объявляет Глобальный призыв к действиям в интересах умных, устойчивых к изменению климата и экологичных городов в рамках Повестки дня действий в Анталье. Тема связывает городские меры с адаптацией и местной реализацией. Резюме основано только на заголовке из списка; полный текст не прочитан.",
-      "zh": "COP31主席国网站宣布，在安塔利亚行动议程框架下发起关于智慧、韧性和可持续城市的全球行动倡议。该主题将城市行动与适应和地方落实联系起来。摘要仅依据列表标题，未阅读全文。",
-      "ar": "يعلن موقع رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) عن دعوة عالمية إلى العمل من أجل مدن ذكية وقادرة على الصمود ومستدامة، في إطار جدول أعمال العمل في أنطاليا. ويربط الموضوع بين العمل الحضري والتكيف والتنفيذ المحلي. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+      "en": "COP31 President Murat Kurum and President of Negotiations Chris Bowen drew on Türkiye's Divan tradition, an informal and open consultation, to help ministers find common ground in the final stretch in Antalya.",
+      "es": "El Presidente de la COP31, Murat Kurum, y el Presidente de las Negociaciones, Chris Bowen, recurrieron a la tradición turca del Divan, una consulta informal y abierta, para ayudar a los ministros a encontrar un terreno común en la recta final en Antalya.",
+      "fr": "Le Président de la COP31, Murat Kurum, et le Président des négociations, Chris Bowen, se sont appuyés sur la tradition turque du Divan, une consultation informelle et ouverte, pour aider les ministres à trouver un terrain d'entente dans la dernière ligne droite à Antalya.",
+      "ru": "Президент СОР31 Мурат Куррум и Президент переговоров Крис Боуэн обратились к турецкой традиции «Диван» — неформальным открытым консультациям — чтобы помочь министрам найти общую почву на финишной прямой в Анталье.",
+      "zh": "COP31主席穆拉特·库鲁姆（Murat Kurum）与谈判主席克里斯·鲍恩（Chris Bowen）借鉴土耳其的“迪万”（Divan）传统，即非正式、开放的协商方式，帮助部长们在安塔利亚的最后阶段寻找共识。会议讨论了跨领域议题，以说明各谈判议题如何组成与总括决定相关的平衡整体成果。主席团敦促各缔约方在闭幕前将这些进展转化为协议。",
+      "ar": "استندت رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم ورئيس المفاوضات كريس بوين إلى تقليد «الديوان» التركي، وهو تشاور غير رسمي ومفتوح، لمساعدة الوزراء على إيجاد أرضية مشتركة في المرحلة الأخيرة في أنطاليا."
      },
      "description_i18n_method": "machine"
     },
-    "related": [
-     {
-      "id": "cop31tr-ocean-nature-2026-11-17",
-      "title": "COP31 puts the ocean and nature at the heart of climate action",
-      "url": "https://cop31.tr/news-detail/cop31-puts-the-ocean-and-nature-at-the-heart-of-climate-action",
-      "publisher": "COP31 Presidency (Türkiye/Australia)",
-      "author": "COP31 Presidency",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "Oceanos",
-       "Florestas",
-       "Presidência e anfitrião"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "A Presidência da COP31 destaca o oceano e a natureza como eixo central da ação climática, na linha do Antalya Ocean and Seas Compact divulgado em 16 de novembro. O item toca as agendas de oceanos e florestas da Agenda de Ação. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
-      "collected_at": "2026-11-18T06:35:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 Presidency highlights the ocean and nature as central to climate action, in line with the Antalya Ocean and Seas Compact released on 16 November. The item touches the oceans and forests agendas of the Action Agenda. Summary based only on the listing headline; the full text was not read.",
-       "es": "La Presidencia de la COP31 destaca el océano y la naturaleza como ejes centrales de la acción climática, en línea con el Antalya Ocean and Seas Compact publicado el 16 de noviembre. El texto toca las agendas de océanos y bosques de la Agenda de Acción. Resumen basado solo en el titular del listado;",
-       "fr": "La Présidence de la COP31 place l'océan et la nature au cœur de l'action climatique, dans le prolongement de l'Antalya Ocean and Seas Compact publié le 16 novembre. Le texte touche aux volets océans et forêts du Programme d'action. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
-       "ru": "Председательство СОР31 выделяет океан и природу как центральные элементы климатических действий в русле Antalya Ocean and Seas Compact, опубликованного 16 ноября. Материал затрагивает направления по океанам и лесам в рамках Повестки дня действий. Резюме основано только на заголовке из списка; полный текст не прочитан.",
-       "zh": "COP31主席国强调海洋和自然是气候行动的核心，与11月16日发布的Antalya Ocean and Seas Compact一脉相承。该内容涉及行动议程中的海洋和森林议题。摘要仅依据列表标题，未阅读全文。",
-       "ar": "تُبرز رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) المحيط والطبيعة بوصفهما محورين أساسيين للعمل المناخي، تماشياً مع Antalya Ocean and Seas Compact الصادر في 16 نوفمبر. ويتناول النص مساري المحيطات والغابات في جدول أعمال العمل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
+    "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
     ]
@@ -243,152 +368,6 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
-    "id": "st-actionaid-2026-11-18-eu-villain",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "actionaid-2026-11-18-eu-villain",
-     "title": "'The EU has taken off its mask': ActionAid warns bloc is the new climate 'villain'",
-     "url": "https://actionaid.org/news/2026/eu-has-taken-its-mask-actionaid-warns-bloc-new-climate-villain",
-     "publisher": "ActionAid International",
-     "author": "Brandon Wu (ActionAid USA)",
-     "published": "2026-11-18",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Adaptação",
-      "Transição justa"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Em entrevista coletiva da Rede de Ação Climática na COP31, Brandon Wu, da ActionAid EUA, acusou a UE de liderar o bloqueio em finanças de adaptação e transição justa.",
-     "collected_at": "2026-11-18T18:16:49-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "At a Climate Action Network press conference at COP31, ActionAid USA's Brandon Wu accused the EU of leading the blocking on adaptation finance and just transition.",
-      "es": "En una rueda de prensa de la Red de Acción por el Clima en la COP31, Brandon Wu, de ActionAid EE. UU., acusó a la UE de liderar el bloqueo en la financiación de la adaptación y la transición justa.",
-      "fr": "Lors d'une conférence de presse du Réseau Action Climat à la COP31, Brandon Wu, d'ActionAid États-Unis, a accusé l'UE de mener le blocage sur le financement de l'adaptation et la transition juste.",
-      "ru": "На пресс-конференции Сети действий по климату на КС-31 Брэндон Ву из ActionAid США обвинил ЕС в том, что он возглавляет блокирование по финансированию адаптации и справедливому переходу. По его словам, развитые страны пообещали в этом году Адаптационному фонду лишь 50 млн долл.",
-      "zh": "在COP31气候行动网络的新闻发布会上，ActionAid美国的Brandon Wu指责欧盟在适应资金和公正转型问题上带头阻挠。他表示，发达国家今年仅向适应基金承诺了5000万美元，并抵制贝伦会议商定的适应资金翻两番。这一批评涉及资金、适应和公正转型三条谈判轨道。",
-      "ar": "خلال مؤتمر صحفي لشبكة العمل المناخي في مؤتمر الأطراف الحادي والثلاثين، اتهم براندون وو من منظمة أكشن إيد الولايات المتحدة الاتحاد الأوروبي بقيادة عرقلة تمويل التكيف والانتقال العادل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "ActionAid International"
-    ]
-   },
-   {
-    "id": "st-oilchange-2026-11-18-roadmaps-ireland",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "oilchange-2026-11-18-roadmaps-ireland",
-     "title": "Growing group of countries submit fossil fuel transition roadmaps at COP31",
-     "url": "https://oilchange.org/news/growing-group-of-countries-submit-fossil-fuel-transition-roadmaps-at-cop31/",
-     "publisher": "Oil Change International",
-     "author": "Romain Ioualalen; contato de imprensa Nicole Rodel",
-     "published": "2026-11-18",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Mitigação e MWP"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Oil Change International registra que a Irlanda se junta a França, Alemanha, Países Baixos, Suécia, Finlândia, Reino Unido, Dinamarca, Portugal e países do Pacífico na apresentação de roteiros nacionais de transição dos combustíveis fósseis na COP31.",
-     "collected_at": "2026-11-18T18:16:49-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Oil Change International reports that Ireland has joined France, Germany, the Netherlands, Sweden, Finland, the UK, Denmark, Portugal and Pacific nations in submitting national fossil fuel transition roadmaps at COP31.",
-      "es": "Oil Change International informa de que Irlanda se suma a Francia, Alemania, los Países Bajos, Suecia, Finlandia, el Reino Unido, Dinamarca, Portugal y naciones del Pacífico en la presentación de hojas de ruta nacionales de transición de los combustibles fósiles en la COP31.",
-      "fr": "Oil Change International indique que l'Irlande rejoint la France, l'Allemagne, les Pays-Bas, la Suède, la Finlande, le Royaume-Uni, le Danemark, le Portugal et des pays du Pacifique parmi ceux qui présentent des feuilles de route nationales de transition hors des combustibles fossiles à la COP31.",
-      "ru": "Oil Change International сообщает, что Ирландия присоединилась к Франции, Германии, Нидерландам, Швеции, Финляндии, Великобритании, Дании, Португалии и тихоокеанским странам, представившим на КС-31 национальные дорожные карты перехода от ископаемого топлива.",
-      "zh": "Oil Change International报告称，爱尔兰已加入法国、德国、荷兰、瑞典、芬兰、英国、丹麦、葡萄牙和太平洋国家的行列，在COP31上提交国家化石燃料转型路线图。该组织表示，路线图只有在政治意愿、公共资金和加快时间表的支持下才可信，并敦促土耳其和澳大利亚主席团将该进程纳入《联合国气候变化框架公约》。轨道：TAFF与化石燃料。",
-      "ar": "تفيد منظمة أويل تشينج إنترناشونال بأن أيرلندا انضمت إلى فرنسا وألمانيا وهولندا والسويد وفنلندا والمملكة المتحدة والدانمرك والبرتغال ودول المحيط الهادئ في تقديم خرائط طريق وطنية للانتقال بعيداً عن الوقود الأحفوري في مؤتمر الأطراف الحادي والثلاثين."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Oil Change International"
-    ]
-   },
-   {
-    "id": "st-kbpo-2026-11-18-big-ag-lobbyists",
-    "section": "civil",
-    "score": 0.338,
-    "lead": {
-     "id": "kbpo-2026-11-18-big-ag-lobbyists",
-     "title": "RELEASE: Fertilizer, Big Meat and Biofuels Among 260 Food Sector Lobbyists at COP31",
-     "url": "https://kickbigpollutersout.org/Big-Ag-COP31",
-     "publisher": "Kick Big Polluters Out",
-     "author": "Kick Big Polluters Out (análise da DeSmog)",
-     "published": "2026-11-18",
-     "language": "en",
-     "tracks": [
-      "Espaço cívico"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A análise da DeSmog divulgada pela coalizão Kick Big Polluters Out conta 260 lobistas do setor de alimentos e agricultura com acesso às negociações em Antalya, 43% deles em delegações nacionais. O total é 18% menor que na COP30, mas cerca de 40% maior que na COP27;",
-     "collected_at": "2026-11-18T18:16:49-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "DeSmog's analysis released by the Kick Big Polluters Out coalition counts 260 food and agriculture lobbyists with access to the talks in Antalya, 43% of them attending within national delegations. The total is 18% lower than at COP30 but about 40% higher than at COP27;",
-      "es": "El análisis de DeSmog difundido por la coalición Kick Big Polluters Out contabiliza 260 cabilderos del sector alimentario y agrícola con acceso a las negociaciones en Antalya, el 43 % de ellos dentro de delegaciones nacionales. El total es un 18 % inferior al de la COP30, pero cerca de un 40 % superior al de la COP27;",
-      "fr": "L'analyse de DeSmog diffusée par la coalition Kick Big Polluters Out recense 260 lobbyistes de l'alimentation et de l'agriculture ayant accès aux négociations à Antalya, dont 43 % au sein de délégations nationales. Ce total est inférieur de 18 % à celui de la COP30 mais supérieur d'environ 40 % à celui de la COP27 ;",
-      "ru": "Анализ DeSmog, опубликованный коалицией Kick Big Polluters Out, насчитывает 260 лоббистов пищевого и сельскохозяйственного сектора с доступом к переговорам в Анталье, 43% из них входят в состав национальных делегаций. Это на 18% меньше, чем на КС-30, но примерно на 40% больше, чем на КС-27;",
-      "zh": "DeSmog的分析由“踢走大污染者”联盟发布，统计出260名获准参加安塔利亚谈判的食品和农业游说人员，其中43%为国家代表团成员。总数比COP30少18%，但比COP27多约40%；肉类和乳制品行业派出的游说人员最多（71人），化肥行业代表同比增加45%。轨道：公民空间。",
-      "ar": "يحصي تحليل «ديسموغ» الذي نشره ائتلاف «اطردوا كبار الملوِّثين» 260 من جماعات الضغط في قطاع الأغذية والزراعة يحق لها الوصول إلى المفاوضات في أنطاليا، منها 43% ضمن وفود وطنية."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Kick Big Polluters Out"
-    ]
-   },
-   {
-    "id": "st-bluesky-unep.org-20261118-comunicado-resfriamento",
-    "section": "negotiations",
-    "score": 0.33,
-    "lead": {
-     "id": "bluesky-unep.org-20261118-comunicado-resfriamento",
-     "title": "unep.org: [resumo da fonte] UNEP: nearly 3 billion people could lack adequate cooling by 2050; COP31 countries welcomed a…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/unep.org/post/3n2ksawjakc2z",
-     "publisher": "UNEP",
-     "published": "2026-11-18",
-     "time": "02:12",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O PNUMA informa que quase 3 bilhões de pessoas podem não ter resfriamento adequado até 2050 e que os países na COP31 acolheram um comunicado e um roteiro sobre calor extremo e resfriamento sustentável.",
-     "collected_at": "2026-11-19T05:45:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "UNEP says nearly 3 billion people could lack adequate cooling by 2050, and that countries at COP31 welcomed a communiqué and roadmap on extreme heat and sustainable cooling.",
-      "es": "El PNUMA indica que casi 3000 millones de personas podrían carecer de refrigeración adecuada en 2050 y que los países en la COP31 acogieron un comunicado y una hoja de ruta sobre calor extremo y refrigeración sostenible.",
-      "fr": "Le PNUE indique que près de 3 milliards de personnes pourraient manquer de refroidissement adéquat d'ici 2050 et que les pays réunis à la COP31 ont salué un communiqué et une feuille de route sur la chaleur extrême et le refroidissement durable.",
-      "ru": "ЮНЕП сообщает, что к 2050 году почти 3 млрд человек могут остаться без надлежащего охлаждения, а страны на СОР31 приветствовали коммюнике и дорожную карту по экстремальной жаре и устойчивому охлаждению.",
-      "zh": "联合国环境规划署表示，到2050年近30亿人可能缺乏足够的制冷，COP31与会国欢迎了关于极端高温和可持续制冷的公报与路线图。",
-      "ar": "يفيد برنامج الأمم المتحدة للبيئة بأن نحو ثلاثة مليارات شخص قد يفتقرون إلى التبريد الكافي بحلول عام 2050، وأن الدول في مؤتمر الأطراف الحادي والثلاثين رحّبت ببيان وخريطة طريق بشأن الحرارة الشديدة والتبريد المستدام."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNEP"
     ]
    }
   ],
@@ -500,6 +479,44 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-unep.org-20261118-comunicado-resfriamento",
+    "section": "negotiations",
+    "score": 0.33,
+    "lead": {
+     "id": "bluesky-unep.org-20261118-comunicado-resfriamento",
+     "title": "unep.org: [resumo da fonte] UNEP: nearly 3 billion people could lack adequate cooling by 2050; COP31 countries welcomed a…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/unep.org/post/3n2ksawjakc2z",
+     "publisher": "UNEP",
+     "published": "2026-11-18",
+     "time": "02:12",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O PNUMA informa que quase 3 bilhões de pessoas podem não ter resfriamento adequado até 2050 e que os países na COP31 acolheram um comunicado e um roteiro sobre calor extremo e resfriamento sustentável.",
+     "collected_at": "2026-11-19T05:45:37-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "UNEP says nearly 3 billion people could lack adequate cooling by 2050, and that countries at COP31 welcomed a communiqué and roadmap on extreme heat and sustainable cooling.",
+      "es": "El PNUMA indica que casi 3000 millones de personas podrían carecer de refrigeración adecuada en 2050 y que los países en la COP31 acogieron un comunicado y una hoja de ruta sobre calor extremo y refrigeración sostenible.",
+      "fr": "Le PNUE indique que près de 3 milliards de personnes pourraient manquer de refroidissement adéquat d'ici 2050 et que les pays réunis à la COP31 ont salué un communiqué et une feuille de route sur la chaleur extrême et le refroidissement durable.",
+      "ru": "ЮНЕП сообщает, что к 2050 году почти 3 млрд человек могут остаться без надлежащего охлаждения, а страны на СОР31 приветствовали коммюнике и дорожную карту по экстремальной жаре и устойчивому охлаждению.",
+      "zh": "联合国环境规划署表示，到2050年近30亿人可能缺乏足够的制冷，COP31与会国欢迎了关于极端高温和可持续制冷的公报与路线图。",
+      "ar": "يفيد برنامج الأمم المتحدة للبيئة بأن نحو ثلاثة مليارات شخص قد يفتقرون إلى التبريد الكافي بحلول عام 2050، وأن الدول في مؤتمر الأطراف الحادي والثلاثين رحّبت ببيان وخريطة طريق بشأن الحرارة الشديدة والتبريد المستدام."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNEP"
     ]
    },
    {
@@ -1231,6 +1248,72 @@
   ],
   "action": [
    {
+    "id": "st-cop31tr-smart-cities-call-2026-11-18",
+    "section": "action",
+    "score": 0.48,
+    "lead": {
+     "id": "cop31tr-smart-cities-call-2026-11-18",
+     "title": "Global Call to Action for Smart, Resilient and Sustainable Cities Announced at COP31",
+     "url": "https://cop31.tr/news-detail/cop31-global-call-to-action-smart-resilient-sustainable-cities",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Adaptação",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "O site da Presidência da COP31 anuncia um Global Call to Action para cidades inteligentes, resilientes e sustentáveis, no âmbito da Agenda de Ação em Antalya. O tema liga ação urbana a adaptação e implementação local. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+     "collected_at": "2026-11-18T06:35:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency website announces a Global Call to Action for smart, resilient and sustainable cities under the Action Agenda in Antalya. The topic links urban action to adaptation and local implementation. Summary based only on the listing headline; the full text was not read.",
+      "es": "El sitio de la Presidencia de la COP31 anuncia un Llamado Mundial a la Acción para ciudades inteligentes, resilientes y sostenibles en el marco de la Agenda de Acción en Antalya. El tema vincula la acción urbana con la adaptación y la implementación local. Resumen basado solo en el titular del listado;",
+      "fr": "Le site de la Présidence de la COP31 annonce un appel mondial à l'action pour des villes intelligentes, résilientes et durables, dans le cadre du Programme d'action à Antalya. Le sujet relie l'action urbaine à l'adaptation et à la mise en œuvre locale. Résumé fondé uniquement sur le titre de la liste ;",
+      "ru": "Сайт Председательства СОР31 объявляет Глобальный призыв к действиям в интересах умных, устойчивых к изменению климата и экологичных городов в рамках Повестки дня действий в Анталье. Тема связывает городские меры с адаптацией и местной реализацией. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+      "zh": "COP31主席国网站宣布，在安塔利亚行动议程框架下发起关于智慧、韧性和可持续城市的全球行动倡议。该主题将城市行动与适应和地方落实联系起来。摘要仅依据列表标题，未阅读全文。",
+      "ar": "يعلن موقع رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) عن دعوة عالمية إلى العمل من أجل مدن ذكية وقادرة على الصمود ومستدامة، في إطار جدول أعمال العمل في أنطاليا. ويربط الموضوع بين العمل الحضري والتكيف والتنفيذ المحلي. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "cop31tr-ocean-nature-2026-11-17",
+      "title": "COP31 puts the ocean and nature at the heart of climate action",
+      "url": "https://cop31.tr/news-detail/cop31-puts-the-ocean-and-nature-at-the-heart-of-climate-action",
+      "publisher": "COP31 Presidency (Türkiye/Australia)",
+      "author": "COP31 Presidency",
+      "published": "2026-11-17",
+      "language": "en",
+      "tracks": [
+       "Oceanos",
+       "Florestas",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "A Presidência da COP31 destaca o oceano e a natureza como eixo central da ação climática, na linha do Antalya Ocean and Seas Compact divulgado em 16 de novembro. O item toca as agendas de oceanos e florestas da Agenda de Ação. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
+      "collected_at": "2026-11-18T06:35:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "The COP31 Presidency highlights the ocean and nature as central to climate action, in line with the Antalya Ocean and Seas Compact released on 16 November. The item touches the oceans and forests agendas of the Action Agenda. Summary based only on the listing headline; the full text was not read.",
+       "es": "La Presidencia de la COP31 destaca el océano y la naturaleza como ejes centrales de la acción climática, en línea con el Antalya Ocean and Seas Compact publicado el 16 de noviembre. El texto toca las agendas de océanos y bosques de la Agenda de Acción. Resumen basado solo en el titular del listado;",
+       "fr": "La Présidence de la COP31 place l'océan et la nature au cœur de l'action climatique, dans le prolongement de l'Antalya Ocean and Seas Compact publié le 16 novembre. Le texte touche aux volets océans et forêts du Programme d'action. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
+       "ru": "Председательство СОР31 выделяет океан и природу как центральные элементы климатических действий в русле Antalya Ocean and Seas Compact, опубликованного 16 ноября. Материал затрагивает направления по океанам и лесам в рамках Повестки дня действий. Резюме основано только на заголовке из списка; полный текст не прочитан.",
+       "zh": "COP31主席国强调海洋和自然是气候行动的核心，与11月16日发布的Antalya Ocean and Seas Compact一脉相承。该内容涉及行动议程中的海洋和森林议题。摘要仅依据列表标题，未阅读全文。",
+       "ar": "تُبرز رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) المحيط والطبيعة بوصفهما محورين أساسيين للعمل المناخي، تماشياً مع Antalya Ocean and Seas Compact الصادر في 16 نوفمبر. ويتناول النص مساري المحيطات والغابات في جدول أعمال العمل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-17-climate-weeks",
     "section": "action",
     "score": 0.375,
@@ -1939,6 +2022,115 @@
   ],
   "civil": [
    {
+    "id": "st-350org-2026-11-18-eu-blocks-finance",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "350org-2026-11-18-eu-blocks-finance",
+     "title": "EU wants 'strong signal' on energy transition but blocks finance to deliver it",
+     "url": "https://350.org/press-release/eu-wants-strong-signal-on-energy-transition-but-blocks-finance-to-deliver-it/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A 350.org acusa a União Europeia de resistir a avanços em finanças climáticas na COP31, incluindo as conversas sobre triplicar o financiamento de adaptação e as obrigações de finanças públicas.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org accuses the European Union of resisting progress on climate finance at COP31, including talks on tripling adaptation finance and public finance obligations.",
+      "es": "350.org acusa a la Unión Europea de resistirse a avanzar en la financiación climática en la COP31, incluidas las conversaciones sobre triplicar la financiación de la adaptación y las obligaciones de financiación pública.",
+      "fr": "350.org accuse l'Union européenne de freiner les avancées sur le financement climatique à la COP31, y compris les discussions sur le triplement du financement de l'adaptation et les obligations de financement public.",
+      "ru": "350.org обвиняет Европейский союз в сопротивлении прогрессу в климатическом финансировании на СОР31, включая переговоры об утроении финансирования адаптации и обязательствах государственного финансирования. Группа призывает развитые страны предоставлять не менее 120 млрд долл.",
+      "zh": "350.org指责欧盟在COP31上阻碍气候资金进展，包括关于将适应资金增至三倍和公共资金义务的谈判。该组织呼吁发达国家到2035年每年至少提供1200亿美元的公共赠款型适应资金，而需求超过4200亿美元。文中引用了适应基金会议（认捐5000万美元，2025年为1.35亿美元）以及Carbon Brief关于认捐下降逾70%的分析。",
+      "ar": "تتهم 350.org الاتحاد الأوروبي بعرقلة التقدم في التمويل المناخي في مؤتمر الأطراف الحادي والثلاثين، بما في ذلك المحادثات بشأن مضاعفة تمويل التكيف ثلاث مرات والتزامات التمويل العام."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
+    "id": "st-actionaid-2026-11-18-eu-villain",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "actionaid-2026-11-18-eu-villain",
+     "title": "'The EU has taken off its mask': ActionAid warns bloc is the new climate 'villain'",
+     "url": "https://actionaid.org/news/2026/eu-has-taken-its-mask-actionaid-warns-bloc-new-climate-villain",
+     "publisher": "ActionAid International",
+     "author": "Brandon Wu (ActionAid USA)",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Transição justa"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Em entrevista coletiva da Rede de Ação Climática na COP31, Brandon Wu, da ActionAid EUA, acusou a UE de liderar o bloqueio em finanças de adaptação e transição justa.",
+     "collected_at": "2026-11-18T18:16:49-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At a Climate Action Network press conference at COP31, ActionAid USA's Brandon Wu accused the EU of leading the blocking on adaptation finance and just transition.",
+      "es": "En una rueda de prensa de la Red de Acción por el Clima en la COP31, Brandon Wu, de ActionAid EE. UU., acusó a la UE de liderar el bloqueo en la financiación de la adaptación y la transición justa.",
+      "fr": "Lors d'une conférence de presse du Réseau Action Climat à la COP31, Brandon Wu, d'ActionAid États-Unis, a accusé l'UE de mener le blocage sur le financement de l'adaptation et la transition juste.",
+      "ru": "На пресс-конференции Сети действий по климату на КС-31 Брэндон Ву из ActionAid США обвинил ЕС в том, что он возглавляет блокирование по финансированию адаптации и справедливому переходу. По его словам, развитые страны пообещали в этом году Адаптационному фонду лишь 50 млн долл.",
+      "zh": "在COP31气候行动网络的新闻发布会上，ActionAid美国的Brandon Wu指责欧盟在适应资金和公正转型问题上带头阻挠。他表示，发达国家今年仅向适应基金承诺了5000万美元，并抵制贝伦会议商定的适应资金翻两番。这一批评涉及资金、适应和公正转型三条谈判轨道。",
+      "ar": "خلال مؤتمر صحفي لشبكة العمل المناخي في مؤتمر الأطراف الحادي والثلاثين، اتهم براندون وو من منظمة أكشن إيد الولايات المتحدة الاتحاد الأوروبي بقيادة عرقلة تمويل التكيف والانتقال العادل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ActionAid International"
+    ]
+   },
+   {
+    "id": "st-oilchange-2026-11-18-roadmaps-ireland",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "oilchange-2026-11-18-roadmaps-ireland",
+     "title": "Growing group of countries submit fossil fuel transition roadmaps at COP31",
+     "url": "https://oilchange.org/news/growing-group-of-countries-submit-fossil-fuel-transition-roadmaps-at-cop31/",
+     "publisher": "Oil Change International",
+     "author": "Romain Ioualalen; contato de imprensa Nicole Rodel",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Mitigação e MWP"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International registra que a Irlanda se junta a França, Alemanha, Países Baixos, Suécia, Finlândia, Reino Unido, Dinamarca, Portugal e países do Pacífico na apresentação de roteiros nacionais de transição dos combustíveis fósseis na COP31.",
+     "collected_at": "2026-11-18T18:16:49-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International reports that Ireland has joined France, Germany, the Netherlands, Sweden, Finland, the UK, Denmark, Portugal and Pacific nations in submitting national fossil fuel transition roadmaps at COP31.",
+      "es": "Oil Change International informa de que Irlanda se suma a Francia, Alemania, los Países Bajos, Suecia, Finlandia, el Reino Unido, Dinamarca, Portugal y naciones del Pacífico en la presentación de hojas de ruta nacionales de transición de los combustibles fósiles en la COP31.",
+      "fr": "Oil Change International indique que l'Irlande rejoint la France, l'Allemagne, les Pays-Bas, la Suède, la Finlande, le Royaume-Uni, le Danemark, le Portugal et des pays du Pacifique parmi ceux qui présentent des feuilles de route nationales de transition hors des combustibles fossiles à la COP31.",
+      "ru": "Oil Change International сообщает, что Ирландия присоединилась к Франции, Германии, Нидерландам, Швеции, Финляндии, Великобритании, Дании, Португалии и тихоокеанским странам, представившим на КС-31 национальные дорожные карты перехода от ископаемого топлива.",
+      "zh": "Oil Change International报告称，爱尔兰已加入法国、德国、荷兰、瑞典、芬兰、英国、丹麦、葡萄牙和太平洋国家的行列，在COP31上提交国家化石燃料转型路线图。该组织表示，路线图只有在政治意愿、公共资金和加快时间表的支持下才可信，并敦促土耳其和澳大利亚主席团将该进程纳入《联合国气候变化框架公约》。轨道：TAFF与化石燃料。",
+      "ar": "تفيد منظمة أويل تشينج إنترناشونال بأن أيرلندا انضمت إلى فرنسا وألمانيا وهولندا والسويد وفنلندا والمملكة المتحدة والدانمرك والبرتغال ودول المحيط الهادئ في تقديم خرائط طريق وطنية للانتقال بعيداً عن الوقود الأحفوري في مؤتمر الأطراف الحادي والثلاثين."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
     "id": "st-oilchange-2026-11-18-australia-korea-mou",
     "section": "civil",
     "score": 0.383,
@@ -2038,6 +2230,41 @@
     ],
     "publishers": [
      "Oil Change International"
+    ]
+   },
+   {
+    "id": "st-kbpo-2026-11-18-big-ag-lobbyists",
+    "section": "civil",
+    "score": 0.338,
+    "lead": {
+     "id": "kbpo-2026-11-18-big-ag-lobbyists",
+     "title": "RELEASE: Fertilizer, Big Meat and Biofuels Among 260 Food Sector Lobbyists at COP31",
+     "url": "https://kickbigpollutersout.org/Big-Ag-COP31",
+     "publisher": "Kick Big Polluters Out",
+     "author": "Kick Big Polluters Out (análise da DeSmog)",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Espaço cívico"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A análise da DeSmog divulgada pela coalizão Kick Big Polluters Out conta 260 lobistas do setor de alimentos e agricultura com acesso às negociações em Antalya, 43% deles em delegações nacionais. O total é 18% menor que na COP30, mas cerca de 40% maior que na COP27;",
+     "collected_at": "2026-11-18T18:16:49-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "DeSmog's analysis released by the Kick Big Polluters Out coalition counts 260 food and agriculture lobbyists with access to the talks in Antalya, 43% of them attending within national delegations. The total is 18% lower than at COP30 but about 40% higher than at COP27;",
+      "es": "El análisis de DeSmog difundido por la coalición Kick Big Polluters Out contabiliza 260 cabilderos del sector alimentario y agrícola con acceso a las negociaciones en Antalya, el 43 % de ellos dentro de delegaciones nacionales. El total es un 18 % inferior al de la COP30, pero cerca de un 40 % superior al de la COP27;",
+      "fr": "L'analyse de DeSmog diffusée par la coalition Kick Big Polluters Out recense 260 lobbyistes de l'alimentation et de l'agriculture ayant accès aux négociations à Antalya, dont 43 % au sein de délégations nationales. Ce total est inférieur de 18 % à celui de la COP30 mais supérieur d'environ 40 % à celui de la COP27 ;",
+      "ru": "Анализ DeSmog, опубликованный коалицией Kick Big Polluters Out, насчитывает 260 лоббистов пищевого и сельскохозяйственного сектора с доступом к переговорам в Анталье, 43% из них входят в состав национальных делегаций. Это на 18% меньше, чем на КС-30, но примерно на 40% больше, чем на КС-27;",
+      "zh": "DeSmog的分析由“踢走大污染者”联盟发布，统计出260名获准参加安塔利亚谈判的食品和农业游说人员，其中43%为国家代表团成员。总数比COP30少18%，但比COP27多约40%；肉类和乳制品行业派出的游说人员最多（71人），化肥行业代表同比增加45%。轨道：公民空间。",
+      "ar": "يحصي تحليل «ديسموغ» الذي نشره ائتلاف «اطردوا كبار الملوِّثين» 260 من جماعات الضغط في قطاع الأغذية والزراعة يحق لها الوصول إلى المفاوضات في أنطاليا، منها 43% ضمن وفود وطنية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Kick Big Polluters Out"
     ]
    },
    {
@@ -2628,9 +2855,14 @@
   "2026-11-19": [
    "actionaid-2026-11-18-eu-villain",
    "bluesky-unep.org-20261118-comunicado-resfriamento",
+   "can-2026-11-18-adaptation-fund-shamefully-inadequate",
    "climate-home-news-2026-11-17-honduras-coastal-resilience",
+   "cop31tr-2026-11-18-divan-ministerial",
+   "cop31tr-2026-11-19-climate-club-oecd",
    "cop31tr-smart-cities-call-2026-11-18",
    "cvf-v20-2026-11-18-gst2-remarks",
+   "e3g-2026-11-18-eu-uk-summit",
+   "icc-2026-11-18-business-to-ministers",
    "iddri-2026-11-18-cop31-debrief-webinar",
    "kbpo-2026-11-18-big-ag-lobbyists",
    "oilchange-2026-11-18-roadmaps-ireland",
