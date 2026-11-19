@@ -245,10 +245,16 @@
       "change": "new",
       "document_id": "10000379",
       "event_id": "6f0cf9d7f6c40df05c6450f7"
+    },
+    {
+      "at": "2026-11-19T19:47:27.087324Z",
+      "change": "new",
+      "document_id": "10000380",
+      "event_id": "b5dc06a17621cfa7451c2aa6"
     }
   ],
-  "checked_at": "2026-11-19T19:27:54.487376Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T19:47:27.087324Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3372,6 +3378,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 16(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "abe8f7ace6fcbd255a1273139d8c71d1484e8943bd5542068d30913920ad8dcd",
+          "url": "https://docs.unfccc.int/documents/10000380/files/en/Art%206.8_dt_cma8_i16c1.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.3",
+      "id": "10000380",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T19:40:02.006193Z",
+      "published_at": "2026-11-19T19:35:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000380/metadata",
+      "status": "unknown",
+      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3476,9 +3504,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T19:36:46.334941Z",
-  "last_success": "2026-11-19T19:27:54.487376Z",
+  "history_count": 42,
+  "last_attempt": "2026-11-19T19:47:27.087324Z",
+  "last_success": "2026-11-19T19:47:27.087324Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
