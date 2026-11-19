@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-19",
- "generated_at": "2026-11-19T14:57+03:00",
+ "generated_at": "2026-11-19T15:58+03:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-11-19",
@@ -9,11 +9,11 @@
  },
  "collection": {
   "web_round": "2026-11-19T06:20:00-03:00",
-  "social_round": "2026-11-19T08:50:00-03:00",
+  "social_round": "2026-11-19T09:45:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 79,
+  "candidates": 80,
   "stories": 70,
   "top": 8,
   "publishers": [
@@ -482,6 +482,76 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261118-adaptation-gap",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261118-adaptation-gap",
+     "title": "enb.iisd.org: [resumo da fonte] Announces the UNEP Adaptation Gap Report launch event at COP31, focusing on adaptation finance and…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mkmpjab22p",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-18",
+     "time": "19:00",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Finanças",
+      "Perdas e danos"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB anuncia o evento de lançamento do Relatório sobre a Lacuna de Adaptação do PNUMA na COP31, com foco em finanças de adaptação e arcabouços de perdas e danos.",
+     "collected_at": "2026-11-19T08:50:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB announces the launch event of the UNEP Adaptation Gap Report at COP31, focusing on adaptation finance and loss and damage frameworks.",
+      "es": "ENB anuncia el acto de presentación del Informe sobre la Brecha de Adaptación del PNUMA en la COP31, centrado en la financiación de la adaptación y los marcos de pérdidas y daños.",
+      "fr": "L'ENB annonce l'événement de lancement du Rapport du PNUE sur l'écart en matière d'adaptation à la COP31, axé sur le financement de l'adaptation et les cadres relatifs aux pertes et préjudices.",
+      "ru": "ENB анонсирует презентацию Доклада ЮНЕП о разрыве в области адаптации на COP31, посвящённого финансированию адаптации и механизмам в области потерь и ущерба.",
+      "zh": "ENB 宣布在 COP31 举行联合国环境规划署《适应差距报告》发布活动，重点关注适应资金以及损失与损害框架。",
+      "ar": "تعلن نشرة ENB عن فعالية إطلاق تقرير فجوة التكيف لبرنامج الأمم المتحدة للبيئة في مؤتمر الأطراف الحادي والثلاثين، مع التركيز على تمويل التكيف وأطر الخسائر والأضرار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "bluesky-enb.iisd.org-20261118-adaptation-finance-ldf",
+      "title": "enb.iisd.org: [resumo da fonte] Promotes a COP31 article on the UNEP 2026 Adaptation Gap Report's look at adaptation finance and…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mljk5hnk2p",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-18",
+      "time": "19:17",
+      "language": "en",
+      "tracks": [
+       "Adaptação",
+       "Finanças",
+       "Perdas e danos"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB divulga artigo da COP31 sobre o Relatório sobre a Lacuna de Adaptação 2026 do PNUMA, que examina finanças de adaptação e arcabouços de perdas e danos.",
+      "collected_at": "2026-11-19T09:45:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB promotes a COP31 article on the UNEP 2026 Adaptation Gap Report's look at adaptation finance and loss and damage frameworks.",
+       "es": "ENB difunde un artículo de la COP31 sobre el examen que hace el Informe sobre la Brecha de Adaptación 2026 del PNUMA de la financiación de la adaptación y los marcos de pérdidas y daños.",
+       "fr": "L'ENB relaie un article de la COP31 sur l'examen, dans le Rapport 2026 du PNUE sur l'écart en matière d'adaptation, du financement de l'adaptation et des cadres relatifs aux pertes et préjudices.",
+       "ru": "ENB распространяет статью о COP31, посвящённую рассмотрению в Докладе ЮНЕП о разрыве в области адаптации 2026 года вопросов финансирования адаптации и механизмов в области потерь и ущерба.",
+       "zh": "ENB 推介一篇关于 COP31 的文章，介绍联合国环境规划署《2026 年适应差距报告》对适应资金以及损失与损害框架的审视。",
+       "ar": "تروّج نشرة ENB لمقال عن مؤتمر الأطراف الحادي والثلاثين حول تناول تقرير فجوة التكيف لعام 2026 الصادر عن برنامج الأمم المتحدة للبيئة لتمويل التكيف وأطر الخسائر والأضرار."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
     "id": "st-bluesky-enb.iisd.org-20261118-ldc-agreement",
     "section": "negotiations",
     "score": 0.374,
@@ -579,45 +649,6 @@
       "ru": "ENB сообщает об обсуждениях климатического финансирования на COP31 и консультациях председательства по рабочей программе по климатическому финансированию.",
       "zh": "ENB 报道 COP31 上的气候资金辩论，以及主席团就气候资金工作方案开展的磋商。",
       "ar": "تفيد نشرة ENB بشأن مناقشات تمويل المناخ في مؤتمر الأطراف الحادي والثلاثين ومشاورات الرئاسة حول برنامج العمل المعني بتمويل المناخ."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261118-adaptation-gap",
-    "section": "negotiations",
-    "score": 0.374,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261118-adaptation-gap",
-     "title": "enb.iisd.org: [resumo da fonte] Announces the UNEP Adaptation Gap Report launch event at COP31, focusing on adaptation finance and…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mkmpjab22p",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-18",
-     "time": "19:00",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças",
-      "Perdas e danos"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB anuncia o evento de lançamento do Relatório sobre a Lacuna de Adaptação do PNUMA na COP31, com foco em finanças de adaptação e arcabouços de perdas e danos.",
-     "collected_at": "2026-11-19T08:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB announces the launch event of the UNEP Adaptation Gap Report at COP31, focusing on adaptation finance and loss and damage frameworks.",
-      "es": "ENB anuncia el acto de presentación del Informe sobre la Brecha de Adaptación del PNUMA en la COP31, centrado en la financiación de la adaptación y los marcos de pérdidas y daños.",
-      "fr": "L'ENB annonce l'événement de lancement du Rapport du PNUE sur l'écart en matière d'adaptation à la COP31, axé sur le financement de l'adaptation et les cadres relatifs aux pertes et préjudices.",
-      "ru": "ENB анонсирует презентацию Доклада ЮНЕП о разрыве в области адаптации на COP31, посвящённого финансированию адаптации и механизмам в области потерь и ущерба.",
-      "zh": "ENB 宣布在 COP31 举行联合国环境规划署《适应差距报告》发布活动，重点关注适应资金以及损失与损害框架。",
-      "ar": "تعلن نشرة ENB عن فعالية إطلاق تقرير فجوة التكيف لبرنامج الأمم المتحدة للبيئة في مؤتمر الأطراف الحادي والثلاثين، مع التركيز على تمويل التكيف وأطر الخسائر والأضرار."
      },
      "description_i18n_method": "machine"
     },
