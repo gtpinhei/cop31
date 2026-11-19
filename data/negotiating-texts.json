@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-18T19:06:59.347274Z",
-      "change": "reinstated",
-      "document_id": "10000305",
-      "event_id": "babd6f1a4d1ecd9d95fcd08a"
-    },
-    {
       "at": "2026-11-19T05:07:47.128953Z",
       "change": "withdrawn",
       "document_id": "10000332",
@@ -3455,7 +3449,7 @@
     }
   ],
   "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T18:57:11.767954Z",
+  "last_attempt": "2026-11-19T19:07:46.868399Z",
   "last_success": "2026-11-19T17:57:00.458677Z",
   "schema": 1,
   "sources": [
