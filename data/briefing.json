@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-19",
- "generated_at": "2026-11-19T04:58+03:00",
+ "generated_at": "2026-11-19T06:58+03:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-11-19",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-18T18:16:49-03:00",
+  "web_round": "2026-11-19T00:15:21-03:00",
   "social_round": "2026-11-18T22:46:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 63,
-  "stories": 55,
+  "candidates": 66,
+  "stories": 58,
   "top": 8,
   "publishers": [
    "350.org",
@@ -50,28 +50,64 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "listagem sem datas nem URLs"
+    "note": "budget"
    },
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "sem datas"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "só artigos de 2022 visíveis"
+    "note": "budget"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "client_error"
+    "note": "budget"
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-unfccc-2026-11-18-gst2-launch",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "unfccc-2026-11-18-gst2-launch",
+     "title": "\"An ambitious outcome is within reach,\" UN Climate Chief at COP31 event to launch the second global stocktake",
+     "url": "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell (UN Climate Change)",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "GST2 e IPCC",
+      "Mitigação e MWP"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "No evento ministerial que lançou o segundo balanço global (GST2) na COP31, Simon Stiell disse que o processo deve ser honesto e baseado na equidade, partindo das metas do primeiro balanço (triplicar renováveis e dobrar a eficiência energética até 2030).",
+     "collected_at": "2026-11-19T00:15:21-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the ministerial event launching the second global stocktake (GST2) at COP31, Simon Stiell said the process must be honest and grounded in equity, building on the first stocktake goals (tripling renewables and doubling energy efficiency by 2030).",
+      "es": "En el evento ministerial que lanzó el segundo balance mundial (GST2) en la COP31, Simon Stiell afirmó que el proceso debe ser honesto y estar basado en la equidad, partiendo de las metas del primer balance (triplicar las renovables y duplicar la eficiencia energética para 2030).",
+      "fr": "Lors de l'événement ministériel de lancement du deuxième bilan mondial (GST2) à la COP31, Simon Stiell a déclaré que le processus doit être honnête et fondé sur l'équité, en s'appuyant sur les objectifs du premier bilan (tripler les renouvelables et doubler l'efficacité énergétique d'ici 2030).",
+      "ru": "На министерском мероприятии по запуску второго глобального подведения итогов (GST2) на КС-31 Саймон Стилл заявил, что процесс должен быть честным и основанным на справедливости, опираясь на цели первого подведения итогов (утроить возобновляемую энергетику и удвоить энергоэффективность к 2030 году).",
+      "zh": "在COP31启动第二次全球盘点（GST2）的部长级活动上，西蒙·斯蒂尔表示，该进程必须诚实并以公平为基础，延续首次盘点的目标（到2030年将可再生能源增至三倍、能效提高一倍）。他指出，90%的缔约方已在国家计划中体现了首次盘点的成果，GST2将在两年后的COP33结束。这涉及GST2与IPCC议题。",
+      "ar": "خلال الفعالية الوزارية لإطلاق الحصيلة العالمية الثانية (GST2) في مؤتمر الأطراف الحادي والثلاثين، قال سيمون ستيل إن العملية يجب أن تكون صادقة وقائمة على الإنصاف، وأن تبني على أهداف الحصيلة الأولى (مضاعفة الطاقة المتجددة ثلاث مرات ومضاعفة كفاءة الطاقة بحلول عام 2030)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
    {
     "id": "st-cop31tr-smart-cities-call-2026-11-18",
     "section": "action",
@@ -174,6 +210,41 @@
     ]
    },
    {
+    "id": "st-unfccc-2026-11-18-just-transitions-gender",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "unfccc-2026-11-18-just-transitions-gender",
+     "title": "All women and girls, men and boys must have a voice in shaping just transitions: UN Climate Chief",
+     "url": "https://unfccc.int/news/all-women-and-girls-men-and-boys-must-have-a-voice-in-shaping-just-transitions-un-climate-chief",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell (UN Climate Change)",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Transição justa"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Em evento de alto nível na COP31 sobre gênero e transições justas, Stiell argumentou que os benefícios da transição não chegarão a todos automaticamente e que mulheres, meninas, homens e meninos precisam ter voz em sua construção.",
+     "collected_at": "2026-11-19T00:15:21-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At a high-level COP31 event on gender and just transitions, Stiell argued that the benefits of the transition will not reach everyone automatically and that women, girls, men and boys must have a voice in shaping it.",
+      "es": "En un evento de alto nivel de la COP31 sobre género y transiciones justas, Stiell sostuvo que los beneficios de la transición no llegarán automáticamente a todos y que las mujeres, las niñas, los hombres y los niños deben tener voz en su configuración.",
+      "fr": "Lors d'un événement de haut niveau de la COP31 sur le genre et les transitions justes, M. Stiell a soutenu que les bénéfices de la transition n'atteindront pas automatiquement tout le monde et que les femmes, les filles, les hommes et les garçons doivent avoir voix au chapitre.",
+      "ru": "На мероприятии высокого уровня КС-31 по гендерным вопросам и справедливым переходам Стилл заявил, что выгоды перехода не дойдут до всех автоматически и что женщины, девочки, мужчины и мальчики должны иметь право голоса в его формировании.",
+      "zh": "在COP31关于性别与公正转型的高级别活动上，斯蒂尔指出，转型的惠益不会自动惠及所有人，妇女、女孩、男子和男孩都应在塑造转型中拥有发言权。他援引国际劳工组织的模型，称到2030年高碳行业流失的700万个岗位中，男性将占500万个，并以《贝伦性别行动计划》为基础。这涉及公正转型议题。",
+      "ar": "خلال فعالية رفيعة المستوى في مؤتمر الأطراف الحادي والثلاثين حول المساواة بين الجنسين والانتقال العادل، رأى ستيل أن فوائد الانتقال لن تصل إلى الجميع تلقائياً وأن على النساء والفتيات والرجال والفتيان أن يكون لهم صوت في صياغته."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
     "id": "st-actionaid-2026-11-18-eu-villain",
     "section": "civil",
     "score": 0.383,
@@ -247,41 +318,6 @@
     ]
    },
    {
-    "id": "st-unfccc-2026-11-17-climate-weeks",
-    "section": "action",
-    "score": 0.375,
-    "lead": {
-     "id": "unfccc-2026-11-17-climate-weeks",
-     "title": "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action",
-     "url": "https://unfccc.int/news/climate-weeks-are-where-civil-society-businesses-governments-and-local-leaders-come-together-to",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "UNFCCC secretariat",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Declaração da ONU Mudança do Clima sobre as Semanas do Clima como espaços que reúnem sociedade civil, empresas, governos e lideranças locais para ampliar a ambição climática, ligada à Agenda de Ação da COP31. Resumo baseado no título; o texto completo não foi lido.",
-     "collected_at": "2026-11-18T00:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Statement by UN Climate Change on Climate Weeks as forums bringing together civil society, businesses, governments and local leaders to boost climate ambition, linked to the COP31 Action Agenda. Summary based on the title; the full text was not read.",
-      "es": "Declaración de ONU Cambio Climático sobre las Semanas del Clima como foros que reúnen a la sociedad civil, las empresas, los gobiernos y los líderes locales para impulsar la ambición climática, vinculada a la Agenda de Acción de la COP31. Resumen basado en el título; no se leyó el texto completo.",
-      "fr": "Déclaration d'ONU Changements climatiques sur les Semaines du climat, forums réunissant société civile, entreprises, gouvernements et dirigeants locaux pour renforcer l'ambition climatique, liée à l'Agenda de l'action de la COP31. Résumé fondé sur le titre ; le texte intégral n'a pas été lu.",
-      "ru": "Заявление Секретариата ООН по изменению климата о «климатических неделях» как площадках, объединяющих гражданское общество, бизнес, правительства и местных лидеров для повышения климатических амбиций, связанное с Повесткой дня действий КС-31. Резюме основано на заголовке; полный текст не читался.",
-      "zh": "联合国气候变化秘书处就“气候周”发表声明，称其是汇聚民间社会、企业、政府和地方领导人以提升气候雄心的平台，与COP31行动议程相关。摘要基于标题，未阅读全文。",
-      "ar": "بيان صادر عن الأمم المتحدة للتغير المناخي بشأن أسابيع المناخ بوصفها منتديات تجمع المجتمع المدني والشركات والحكومات والقادة المحليين لتعزيز الطموح المناخي، ويرتبط بخطة العمل لمؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان؛ ولم يُقرأ النص الكامل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
     "id": "st-kbpo-2026-11-18-big-ag-lobbyists",
     "section": "civil",
     "score": 0.338,
@@ -351,45 +387,45 @@
     "publishers": [
      "IDDRI"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-cvf-v20-2026-11-18-gst2-remarks",
+    "id": "st-unfccc-2026-11-18-ndc-support",
     "section": "negotiations",
-    "score": 0.306,
+    "score": 0.68,
     "lead": {
-     "id": "cvf-v20-2026-11-18-gst2-remarks",
-     "title": "Remarks by CVF-V20 Secretariat Managing Director Sara Jane Ahmed on the Challenges and Opportunities for the Second Global Stocktake",
-     "url": "https://cvfv20.org/remarks-by-cvf-v20-secretariat-managing-director-sara-jane-ahmed-on-the-challenges-and-opportunities-for-the-second-global-stocktake/",
-     "publisher": "V20 / CVF",
-     "author": "Sara Jane Ahmed",
+     "id": "unfccc-2026-11-18-ndc-support",
+     "title": "Countries call for finance and technical support to turn climate plans into action at COP31",
+     "url": "https://unfccc.int/news/countries-call-for-finance-and-technical-support-to-turn-climate-plans-into-action-at-cop31",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "UN Climate Change",
      "published": "2026-11-18",
      "language": "en",
      "tracks": [
-      "GST2 e IPCC",
-      "Finanças"
+      "Finanças",
+      "Mitigação e MWP"
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "Sara Jane Ahmed, diretora-geral do Secretariado CVF-V20, argumenta que o mundo entrou num período de overshoot e que o GST2 deve medir a entrega, e não apenas promessas.",
-     "collected_at": "2026-11-18T12:17:46-03:00",
+     "description": "Na sessão \"Catalyzing Support for NDCs\", ministros e representantes de Panamá, São Cristóvão e Nevis, Camarões e Uganda pediram mais finanças, apoio técnico e cooperação para implementar as NDCs nos países em desenvolvimento, com o papel dos Centros Regionais de Colaboração.",
+     "collected_at": "2026-11-19T00:15:21-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Sara Jane Ahmed, Managing Director of the CVF-V20 Secretariat, argues that the world has entered an overshoot period and that GST2 must measure delivery, not just pledges.",
-      "es": "Sara Jane Ahmed, directora general de la Secretaría del CVF-V20, sostiene que el mundo ha entrado en un período de rebasamiento y que el GST2 debe medir la ejecución, no solo las promesas.",
-      "fr": "Sara Jane Ahmed, directrice générale du Secrétariat du CVF-V20, soutient que le monde est entré dans une période de dépassement et que le GST2 doit mesurer la mise en œuvre, pas seulement les promesses.",
-      "ru": "Сара Джейн Ахмед, управляющий директор Секретариата CVF-V20, утверждает, что мир вошёл в период превышения и что ГЗО-2 должен измерять реальные результаты, а не только обещания.",
-      "zh": "CVF-V20秘书处总干事萨拉·简·艾哈迈德指出，世界已进入温控超标期，第二次全球盘点（GST2）应衡量落实情况，而不仅是承诺。她提到，2025年发展中国家向多边开发银行偿还的资金多于获得的资金（2006年以来首次净流出），且支付额减少逾110亿美元。她呼吁GST2核算资金成本和净流量，将第2.1(c)条适用于整个金融体系，并建立债务暂停条款等缓冲机制。",
-      "ar": "ترى سارة جين أحمد، المديرة العامة لأمانة CVF-V20، أن العالم دخل مرحلة تجاوز الحد وأن الحصيلة العالمية الثانية (GST2) ينبغي أن تقيس التنفيذ لا الوعود فقط. وتشير إلى أن البلدان النامية سددت لبنوك التنمية المتعددة الأطراف أكثر مما تلقته في 2025 (أول صافٍ سلبي منذ 2006) وأن المدفوعات انخفضت بأكثر من 11 مليار دولار."
+      "en": "At the \"Catalyzing Support for NDCs\" session, ministers and representatives of Panama, Saint Kitts and Nevis, Cameroon and Uganda called for more finance, technical support and cooperation to implement NDCs in developing countries, highlighting the role of the Regional Collaboration Centres.",
+      "es": "En la sesión \"Catalyzing Support for NDCs\", ministros y representantes de Panamá, San Cristóbal y Nieves, Camerún y Uganda pidieron más financiación, apoyo técnico y cooperación para aplicar las NDC en los países en desarrollo, destacando el papel de los Centros Regionales de Colaboración.",
+      "fr": "Lors de la session « Catalyzing Support for NDCs », des ministres et représentants du Panama, de Saint-Kitts-et-Nevis, du Cameroun et de l'Ouganda ont appelé à davantage de financement, d'appui technique et de coopération pour mettre en œuvre les CDN dans les pays en développement, soulignant le rôle des Centres…",
+      "ru": "На сессии «Catalyzing Support for NDCs» министры и представители Панамы, Сент-Китс и Невис, Камеруна и Уганды призвали к увеличению финансирования, технической поддержки и сотрудничества для реализации НОУ в развивающихся странах, подчеркнув роль региональных центров сотрудничества.",
+      "zh": "在“Catalyzing Support for NDCs”会议上，巴拿马、圣基茨和尼维斯、喀麦隆和乌干达的部长及代表呼吁提供更多资金、技术支持与合作，以便发展中国家落实国家自主贡献，并强调区域协作中心的作用。乌干达部长表示，不能采用一刀切的方法。这涉及资金与减缓议题。",
+      "ar": "في جلسة «Catalyzing Support for NDCs»، دعا وزراء وممثلون من بنما وسانت كيتس ونيفيس والكاميرون وأوغندا إلى مزيد من التمويل والدعم التقني والتعاون لتنفيذ المساهمات المحددة وطنياً في البلدان النامية، مع إبراز دور مراكز التعاون الإقليمية. وقالت وزيرة أوغندا إنه لا يمكن اعتماد نهج واحد يناسب الجميع."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "V20 / CVF"
+     "UNFCCC / Simon Stiell"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-climate-home-news-2026-11-17-gcf-duarte",
     "section": "negotiations",
@@ -461,6 +497,42 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-cvf-v20-2026-11-18-gst2-remarks",
+    "section": "negotiations",
+    "score": 0.306,
+    "lead": {
+     "id": "cvf-v20-2026-11-18-gst2-remarks",
+     "title": "Remarks by CVF-V20 Secretariat Managing Director Sara Jane Ahmed on the Challenges and Opportunities for the Second Global Stocktake",
+     "url": "https://cvfv20.org/remarks-by-cvf-v20-secretariat-managing-director-sara-jane-ahmed-on-the-challenges-and-opportunities-for-the-second-global-stocktake/",
+     "publisher": "V20 / CVF",
+     "author": "Sara Jane Ahmed",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "GST2 e IPCC",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Sara Jane Ahmed, diretora-geral do Secretariado CVF-V20, argumenta que o mundo entrou num período de overshoot e que o GST2 deve medir a entrega, e não apenas promessas.",
+     "collected_at": "2026-11-18T12:17:46-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Sara Jane Ahmed, Managing Director of the CVF-V20 Secretariat, argues that the world has entered an overshoot period and that GST2 must measure delivery, not just pledges.",
+      "es": "Sara Jane Ahmed, directora general de la Secretaría del CVF-V20, sostiene que el mundo ha entrado en un período de rebasamiento y que el GST2 debe medir la ejecución, no solo las promesas.",
+      "fr": "Sara Jane Ahmed, directrice générale du Secrétariat du CVF-V20, soutient que le monde est entré dans une période de dépassement et que le GST2 doit mesurer la mise en œuvre, pas seulement les promesses.",
+      "ru": "Сара Джейн Ахмед, управляющий директор Секретариата CVF-V20, утверждает, что мир вошёл в период превышения и что ГЗО-2 должен измерять реальные результаты, а не только обещания.",
+      "zh": "CVF-V20秘书处总干事萨拉·简·艾哈迈德指出，世界已进入温控超标期，第二次全球盘点（GST2）应衡量落实情况，而不仅是承诺。她提到，2025年发展中国家向多边开发银行偿还的资金多于获得的资金（2006年以来首次净流出），且支付额减少逾110亿美元。她呼吁GST2核算资金成本和净流量，将第2.1(c)条适用于整个金融体系，并建立债务暂停条款等缓冲机制。",
+      "ar": "ترى سارة جين أحمد، المديرة العامة لأمانة CVF-V20، أن العالم دخل مرحلة تجاوز الحد وأن الحصيلة العالمية الثانية (GST2) ينبغي أن تقيس التنفيذ لا الوعود فقط. وتشير إلى أن البلدان النامية سددت لبنوك التنمية المتعددة الأطراف أكثر مما تلقته في 2025 (أول صافٍ سلبي منذ 2006) وأن المدفوعات انخفضت بأكثر من 11 مليار دولار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "V20 / CVF"
     ]
    },
    {
@@ -1155,6 +1227,41 @@
    }
   ],
   "action": [
+   {
+    "id": "st-unfccc-2026-11-17-climate-weeks",
+    "section": "action",
+    "score": 0.375,
+    "lead": {
+     "id": "unfccc-2026-11-17-climate-weeks",
+     "title": "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action",
+     "url": "https://unfccc.int/news/climate-weeks-are-where-civil-society-businesses-governments-and-local-leaders-come-together-to",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "UNFCCC secretariat",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Declaração da ONU Mudança do Clima sobre as Semanas do Clima como espaços que reúnem sociedade civil, empresas, governos e lideranças locais para ampliar a ambição climática, ligada à Agenda de Ação da COP31. Resumo baseado no título; o texto completo não foi lido.",
+     "collected_at": "2026-11-18T00:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Statement by UN Climate Change on Climate Weeks as forums bringing together civil society, businesses, governments and local leaders to boost climate ambition, linked to the COP31 Action Agenda. Summary based on the title; the full text was not read.",
+      "es": "Declaración de ONU Cambio Climático sobre las Semanas del Clima como foros que reúnen a la sociedad civil, las empresas, los gobiernos y los líderes locales para impulsar la ambición climática, vinculada a la Agenda de Acción de la COP31. Resumen basado en el título; no se leyó el texto completo.",
+      "fr": "Déclaration d'ONU Changements climatiques sur les Semaines du climat, forums réunissant société civile, entreprises, gouvernements et dirigeants locaux pour renforcer l'ambition climatique, liée à l'Agenda de l'action de la COP31. Résumé fondé sur le titre ; le texte intégral n'a pas été lu.",
+      "ru": "Заявление Секретариата ООН по изменению климата о «климатических неделях» как площадках, объединяющих гражданское общество, бизнес, правительства и местных лидеров для повышения климатических амбиций, связанное с Повесткой дня действий КС-31. Резюме основано на заголовке; полный текст не читался.",
+      "zh": "联合国气候变化秘书处就“气候周”发表声明，称其是汇聚民间社会、企业、政府和地方领导人以提升气候雄心的平台，与COP31行动议程相关。摘要基于标题，未阅读全文。",
+      "ar": "بيان صادر عن الأمم المتحدة للتغير المناخي بشأن أسابيع المناخ بوصفها منتديات تجمع المجتمع المدني والشركات والحكومات والقادة المحليين لتعزيز الطموح المناخي، ويرتبط بخطة العمل لمؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان؛ ولم يُقرأ النص الكامل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-17-climate-week-organizers-joint-statement",
     "section": "action",
@@ -2411,7 +2518,9 @@
    "iddri-2026-11-18-cop31-debrief-webinar",
    "kbpo-2026-11-18-big-ag-lobbyists",
    "oilchange-2026-11-18-roadmaps-ireland",
-   "unfccc-2026-11-17-climate-weeks"
+   "unfccc-2026-11-17-climate-weeks",
+   "unfccc-2026-11-18-gst2-launch",
+   "unfccc-2026-11-18-just-transitions-gender"
   ]
  }
 }
