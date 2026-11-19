@@ -163,8 +163,8 @@
       "event_id": "d76eeddb93c366eac38e99e4"
     }
   ],
-  "checked_at": "2026-11-19T06:07:37.809658Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T06:27:00.177346Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3040,9 +3040,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T06:16:35.010133Z",
-  "last_success": "2026-11-19T06:07:37.809658Z",
+  "history_count": 27,
+  "last_attempt": "2026-11-19T06:27:00.177346Z",
+  "last_success": "2026-11-19T06:27:00.177346Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
