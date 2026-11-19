@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-18T11:57:40.887635Z",
-      "change": "new",
-      "document_id": "10000354",
-      "event_id": "20214a109c594c40d563f3bf"
-    },
-    {
       "at": "2026-11-18T12:36:50.231745Z",
       "change": "withdrawn",
       "document_id": "10000338",
@@ -131,9 +125,39 @@
       "change": "new",
       "document_id": "10000362",
       "event_id": "533e9a9036f6d511de074f3c"
+    },
+    {
+      "at": "2026-11-19T12:07:35.927737Z",
+      "change": "withdrawn",
+      "document_id": "10000348",
+      "event_id": "d92dc752aecda6b21cde8ae7"
+    },
+    {
+      "at": "2026-11-19T12:07:35.927737Z",
+      "change": "withdrawn",
+      "document_id": "10000345",
+      "event_id": "d8e1fe8967049acea82a513e"
+    },
+    {
+      "at": "2026-11-19T12:07:35.927737Z",
+      "change": "new",
+      "document_id": "10000363",
+      "event_id": "30abd8f79c8b1e280bbf8214"
+    },
+    {
+      "at": "2026-11-19T12:07:35.927737Z",
+      "change": "new",
+      "document_id": "10000364",
+      "event_id": "e113c80d3bdad5561d06131b"
+    },
+    {
+      "at": "2026-11-19T12:07:35.927737Z",
+      "change": "new",
+      "document_id": "10000365",
+      "event_id": "2332298483cacb714b9be89e"
     }
   ],
-  "checked_at": "2026-11-19T11:56:50.691440Z",
+  "checked_at": "2026-11-19T12:07:35.927737Z",
   "degraded": false,
   "documents": [
     {
@@ -427,6 +451,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 9(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "1ffbf91f7743dfc132e42118b1dc0b125f746d201c26b9bd7f3ed833bf1f77db",
+          "url": "https://docs.unfccc.int/documents/10000363/files/en/GGA_DT_SB652.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i9a.1",
+      "id": "10000363",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T12:02:23.750454Z",
+      "published_at": "2026-11-19T11:25:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000363/metadata",
+      "status": "draft",
+      "title": "Matters relating to the global goal on adaptation",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
       "agenda": "CMA 8 11(g)",
       "attachments": [
         {
@@ -469,7 +515,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "70d84680714c9ee259a484ceae289eb17150b433e663ad3c3c46a5226a0522c0",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000345/files/en/CFWP_DT_cma81.pdf"
         }
       ],
@@ -477,10 +523,54 @@
       "document_code": "DT.CMA8.i11g.2",
       "id": "10000345",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-17T11:40:50.800900Z",
+      "modified_at": "2026-11-19T12:07:23.350972Z",
       "published_at": "2026-11-17T09:20:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000345/metadata",
+      "status": "withdrawn",
+      "title": "Work programme on climate finance, including on Article 9, paragraph 1, of the Paris Agreement in the context of Article 9 of the Paris Agreement as a whole",
+      "topic": "Finance",
+      "withdrawn": true
+    },
+    {
+      "agenda": "COP 31 8(b); CMA 8 11(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000348/files/en/SCF_COP31_8b_CMA_11a_DT1.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i8b_CMA8.i11a.2",
+      "id": "10000348",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-19T12:06:59.524205Z",
+      "published_at": "2026-11-18T05:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000348/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the Standing Committee on Finance",
+      "topic": "Finance",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 11(g)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "d151b423a358e411c068ce0d2c131e5b2d1edf2ad3d19226e1f8a6130da3c887",
+          "url": "https://docs.unfccc.int/documents/10000364/files/en/CFWP_DT_cma82.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i11g.3",
+      "id": "10000364",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T12:02:49.300116Z",
+      "published_at": "2026-11-19T11:25:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000364/metadata",
       "status": "draft",
       "title": "Work programme on climate finance, including on Article 9, paragraph 1, of the Paris Agreement in the context of Article 9 of the Paris Agreement as a whole",
       "topic": "Finance",
@@ -491,18 +581,18 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "b2bc1bc2e085ea55a5466b37c8a804e752a767fa7823e96da5bce9eb5cc36608",
-          "url": "https://docs.unfccc.int/documents/10000348/files/en/SCF_COP31_8b_CMA_11a_DT1.pdf"
+          "sha256": "cad1d09696d842d212e4270f27bed7885e9c5f5fd9cf4015b37416f31335de04",
+          "url": "https://docs.unfccc.int/documents/10000365/files/en/SCF_COP31_8b_CMA_11a_DT2.pdf"
         }
       ],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
-      "document_code": "DT.COP31.i8b_CMA8.i11a.2",
-      "id": "10000348",
-      "metadata_version": "2.0",
-      "modified_at": "2026-11-18T04:04:20.340253Z",
-      "published_at": "2026-11-18T05:00:00Z",
+      "document_code": "DT.COP31.8b_CMA8.11a.1",
+      "id": "10000365",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T12:03:45.997503Z",
+      "published_at": "2026-11-19T11:25:00Z",
       "session": "COP 31",
-      "source_url": "https://docs.unfccc.int/documents/10000348/metadata",
+      "source_url": "https://docs.unfccc.int/documents/10000365/metadata",
       "status": "draft",
       "title": "Matters relating to the Standing Committee on Finance",
       "topic": "Finance",
@@ -3054,9 +3144,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 22,
-  "last_attempt": "2026-11-19T11:56:50.691440Z",
-  "last_success": "2026-11-19T11:56:50.691440Z",
+  "history_count": 27,
+  "last_attempt": "2026-11-19T12:07:35.927737Z",
+  "last_success": "2026-11-19T12:07:35.927737Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
