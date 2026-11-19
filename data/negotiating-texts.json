@@ -233,10 +233,34 @@
       "change": "revised",
       "document_id": "10000369",
       "event_id": "a76606f20abd67c5ff76b7b6"
+    },
+    {
+      "at": "2026-11-19T16:07:06.539978Z",
+      "change": "withdrawn",
+      "document_id": "10000276",
+      "event_id": "d0326918d56781be2981095f"
+    },
+    {
+      "at": "2026-11-19T16:07:06.539978Z",
+      "change": "new",
+      "document_id": "10000376",
+      "event_id": "e63283eb60b49464a81d427c"
+    },
+    {
+      "at": "2026-11-19T16:07:06.539978Z",
+      "change": "new",
+      "document_id": "10000377",
+      "event_id": "7c62c211a473907444419a75"
+    },
+    {
+      "at": "2026-11-19T16:07:06.539978Z",
+      "change": "reinstated",
+      "document_id": "10000374",
+      "event_id": "b5cd8cfad58e73adfb123f6d"
     }
   ],
-  "checked_at": "2026-11-19T15:47:06.335817Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T16:07:06.539978Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -1399,7 +1423,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "bc0de34ab273f9cd958e095a955230c985d948d8feea4f91a03a26e338df29c8",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000276/files/en/Art%206.8%20GCNMA_DT_SBSTA65_Annex.pdf"
         }
       ],
@@ -1407,14 +1431,14 @@
       "document_code": "DT.SBSTA65.i11a.2",
       "id": "10000276",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-12T14:40:04.880618Z",
+      "modified_at": "2026-11-19T16:00:39.194211Z",
       "published_at": "2026-11-12T08:00:00Z",
       "session": "SBSTA 65",
       "source_url": "https://docs.unfccc.int/documents/10000276/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Meeting of the Glasgow Committee on Non-market Approaches",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBI 65 15",
@@ -3276,7 +3300,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "fccac189ab592abc790c3a4d5d8ad501346bd1251fcf9642696b122c26e6b1e8",
+          "sha256": "77d4a5ebf999030a38b1db0b19d8dadd751488ac1918121a912c3f876507b535",
           "url": "https://docs.unfccc.int/documents/10000374/files/en/Art_6.2_funding_DT_CMA1.pdf"
         }
       ],
@@ -3284,14 +3308,58 @@
       "document_code": "DT.CMA8.i18.2",
       "id": "10000374",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T15:16:58.396696Z",
-      "published_at": "2026-11-19T14:45:00Z",
+      "modified_at": "2026-11-19T16:02:56.506687Z",
+      "published_at": "2026-11-19T12:45:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000374/metadata",
-      "status": "withdrawn",
+      "status": "unknown",
       "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": true
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "afa9784ec1ab13fac43e9c1986056ec59abe5edafb3942131b19bbad0d712ffd",
+          "url": "https://docs.unfccc.int/documents/10000376/files/en/Art%206.8_dt_cma8_i16c.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16c.1_GCNMA",
+      "id": "10000376",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-19T15:57:20.333068Z",
+      "published_at": "2026-11-19T15:45:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000376/metadata",
+      "status": "draft",
+      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 18",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "325c1ec1be6e6147613ea0efea1a6d26cc8d1a9401286e57a9b981ecadad074a",
+          "url": "https://docs.unfccc.int/documents/10000377/files/en/Art_6.2_funding_DD_DT_CMA1.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i18.3",
+      "id": "10000377",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-19T16:02:10.323643Z",
+      "published_at": "2026-11-19T14:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000377/metadata",
+      "status": "draft",
+      "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
     },
     {
       "agenda": "SBSTA 65 6; SBI 65 6",
@@ -3398,9 +3466,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T15:57:25.272051Z",
-  "last_success": "2026-11-19T15:47:06.335817Z",
+  "history_count": 43,
+  "last_attempt": "2026-11-19T16:07:06.539978Z",
+  "last_success": "2026-11-19T16:07:06.539978Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
