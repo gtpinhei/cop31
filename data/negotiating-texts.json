@@ -236,7 +236,7 @@
     }
   ],
   "checked_at": "2026-11-19T15:47:06.335817Z",
-  "degraded": false,
+  "degraded": true,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3398,8 +3398,8 @@
       "withdrawn": false
     }
   ],
-  "history_count": 40,
-  "last_attempt": "2026-11-19T15:47:06.335817Z",
+  "error": "Official document check failed; last successful data retained.",
+  "last_attempt": "2026-11-19T15:57:25.272051Z",
   "last_success": "2026-11-19T15:47:06.335817Z",
   "schema": 1,
   "sources": [
