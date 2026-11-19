@@ -46,6 +46,90 @@
  ],
  "items": [
   {
+   "id": "bluesky-audreygarric.bsky.social-20261118-taxar-fosseis",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "audreygarric.bsky.social",
+   "institution": "Audrey Garric (Le Monde)",
+   "verified": false,
+   "date": "2026-11-18",
+   "time": "16:52",
+   "text": "[resumo da fonte] Le Monde: à la COP31, les appels se multiplient à taxer les fossiles pour financer l'action climatique (« faites payer les pollueurs »).",
+   "summary": "O Le Monde relata que, na COP31, se multiplicam os apelos para taxar os combustíveis fósseis e financiar a ação climática (\"façam os poluidores pagar\").",
+   "summary_i18n": {
+    "en": "Le Monde reports that calls at COP31 to tax fossil fuels to finance climate action are multiplying (\"make polluters pay\").",
+    "es": "Le Monde informa de que en la COP31 se multiplican los llamamientos a gravar los combustibles fósiles para financiar la acción climática («que paguen los contaminadores»).",
+    "fr": "Le Monde rapporte qu'à la COP31, les appels à taxer les énergies fossiles pour financer l'action climatique se multiplient (« faites payer les pollueurs »).",
+    "ru": "Le Monde сообщает, что на СОР31 множатся призывы ввести налоги на ископаемое топливо для финансирования климатических действий («пусть платят загрязнители»).",
+    "zh": "《世界报》报道，COP31上要求对化石燃料征税以为气候行动提供资金的呼声不断增多（“让污染者付费”）。",
+    "ar": "تفيد صحيفة لوموند بأن الدعوات في مؤتمر الأطراف الحادي والثلاثين إلى فرض ضرائب على الوقود الأحفوري لتمويل العمل المناخي تتزايد («فليدفع الملوِّثون»)."
+   },
+   "url": "https://bsky.app/profile/audreygarric.bsky.social/post/3n2mdhqk3x22z",
+   "tracks": [
+    "Finanças",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-19T05:45:37-03:00",
+   "lang": "fr",
+   "source_id": "bsky-audreygarric-bsky-social"
+  },
+  {
+   "id": "bluesky-unep.org-20261118-comunicado-resfriamento",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "unep.org",
+   "institution": "UNEP",
+   "verified": false,
+   "date": "2026-11-18",
+   "time": "02:12",
+   "text": "[resumo da fonte] UNEP: nearly 3 billion people could lack adequate cooling by 2050; COP31 countries welcomed a communiqué and roadmap on extreme heat and sustainable cooling.",
+   "summary": "O PNUMA informa que quase 3 bilhões de pessoas podem não ter resfriamento adequado até 2050 e que os países na COP31 acolheram um comunicado e um roteiro sobre calor extremo e resfriamento sustentável.",
+   "summary_i18n": {
+    "en": "UNEP says nearly 3 billion people could lack adequate cooling by 2050, and that countries at COP31 welcomed a communiqué and roadmap on extreme heat and sustainable cooling.",
+    "es": "El PNUMA indica que casi 3000 millones de personas podrían carecer de refrigeración adecuada en 2050 y que los países en la COP31 acogieron un comunicado y una hoja de ruta sobre calor extremo y refrigeración sostenible.",
+    "fr": "Le PNUE indique que près de 3 milliards de personnes pourraient manquer de refroidissement adéquat d'ici 2050 et que les pays réunis à la COP31 ont salué un communiqué et une feuille de route sur la chaleur extrême et le refroidissement durable.",
+    "ru": "ЮНЕП сообщает, что к 2050 году почти 3 млрд человек могут остаться без надлежащего охлаждения, а страны на СОР31 приветствовали коммюнике и дорожную карту по экстремальной жаре и устойчивому охлаждению.",
+    "zh": "联合国环境规划署表示，到2050年近30亿人可能缺乏足够的制冷，COP31与会国欢迎了关于极端高温和可持续制冷的公报与路线图。",
+    "ar": "يفيد برنامج الأمم المتحدة للبيئة بأن نحو ثلاثة مليارات شخص قد يفتقرون إلى التبريد الكافي بحلول عام 2050، وأن الدول في مؤتمر الأطراف الحادي والثلاثين رحّبت ببيان وخريطة طريق بشأن الحرارة الشديدة والتبريد المستدام."
+   },
+   "url": "https://bsky.app/profile/unep.org/post/3n2ksawjakc2z",
+   "tracks": [
+    "Adaptação",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-19T05:45:37-03:00",
+   "lang": "en",
+   "source_id": "bsky-unep-org"
+  },
+  {
+   "id": "bluesky-unep.org-20261118-recifes-coral",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "unep.org",
+   "institution": "UNEP",
+   "verified": false,
+   "date": "2026-11-18",
+   "time": "16:19",
+   "text": "[resumo da fonte] UNEP: more than US$30 million in new investments and donor contributions set to scale up coral reef protection, credited to the Global Fund for Coral Reefs at COP31.",
+   "summary": "O PNUMA anuncia mais de US$ 30 milhões em novos investimentos e contribuições de doadores para ampliar a proteção de recifes de coral, via Global Fund for Coral Reefs na COP31.",
+   "summary_i18n": {
+    "en": "UNEP announces more than US$30 million in new investments and donor contributions to scale up coral reef protection, through the Global Fund for Coral Reefs at COP31.",
+    "es": "El PNUMA anuncia más de 30 millones de dólares en nuevas inversiones y contribuciones de donantes para ampliar la protección de los arrecifes de coral, a través del Global Fund for Coral Reefs en la COP31.",
+    "fr": "Le PNUE annonce plus de 30 millions de dollars de nouveaux investissements et contributions de donateurs pour renforcer la protection des récifs coralliens, via le Global Fund for Coral Reefs à la COP31.",
+    "ru": "ЮНЕП объявляет о более чем 30 млн долларов США новых инвестиций и взносов доноров для расширения защиты коралловых рифов через Global Fund for Coral Reefs на СОР31.",
+    "zh": "联合国环境规划署宣布，通过COP31上的Global Fund for Coral Reefs，将有逾3000万美元新增投资和捐助用于扩大珊瑚礁保护。",
+    "ar": "يعلن برنامج الأمم المتحدة للبيئة عن أكثر من 30 مليون دولار أمريكي من الاستثمارات الجديدة ومساهمات الجهات المانحة لتوسيع حماية الشعاب المرجانية، عبر Global Fund for Coral Reefs في مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/unep.org/post/3n2mbmfia7c2m",
+   "tracks": [
+    "Oceanos",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-19T05:45:37-03:00",
+   "lang": "en",
+   "source_id": "bsky-unep-org"
+  },
+  {
    "id": "unfccc-2026-11-18-gst2-launch",
    "institution": "UNFCCC / Simon Stiell",
    "type": "notícia",
@@ -445,6 +529,62 @@
    "first_seen": "2026-11-18T05:46:00-03:00",
    "lang": "en",
    "source_id": "bsky-350-org"
+  },
+  {
+   "id": "bluesky-unep.org-20261117-incendios-ultrapassagem",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "unep.org",
+   "institution": "UNEP",
+   "verified": false,
+   "date": "2026-11-17",
+   "time": "12:10",
+   "text": "[resumo da fonte] UNEP warns that under climate overshoot, wildfires could become too severe and frequent for northern forests to adapt; new report launched at COP31.",
+   "summary": "O PNUMA alerta que, num cenário de ultrapassagem climática, os incêndios florestais podem ficar graves e frequentes demais para as florestas do norte se adaptarem, em relatório lançado na COP31.",
+   "summary_i18n": {
+    "en": "UNEP warns that under climate overshoot, wildfires could become too severe and frequent for northern forests to adapt, in a new report launched at COP31.",
+    "es": "El PNUMA advierte de que, con una superación de los límites climáticos, los incendios forestales podrían ser demasiado graves y frecuentes para que los bosques del norte se adapten, en un informe presentado en la COP31.",
+    "fr": "Le PNUE avertit qu'en cas de dépassement climatique, les feux de forêt pourraient devenir trop graves et fréquents pour que les forêts nordiques s'adaptent, dans un rapport lancé à la COP31.",
+    "ru": "ЮНЕП предупреждает, что при превышении климатических пределов лесные пожары могут стать слишком сильными и частыми для адаптации северных лесов, говорится в новом докладе, представленном на СОР31.",
+    "zh": "联合国环境规划署警告称，在气候“超调”情景下，野火可能变得过于严重和频繁，北方森林难以适应，相关新报告在COP31上发布。",
+    "ar": "يحذّر برنامج الأمم المتحدة للبيئة من أنه في ظل تجاوز الحدود المناخية قد تصبح حرائق الغابات شديدة ومتكررة إلى حد يتعذّر معه على الغابات الشمالية التكيف، وذلك في تقرير جديد أُطلق في مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/unep.org/post/3n2jd7cj43d27",
+   "tracks": [
+    "Florestas",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-19T05:45:37-03:00",
+   "lang": "en",
+   "source_id": "bsky-unep-org"
+  },
+  {
+   "id": "bluesky-mollylempriere.carbonbrief.org-20261117-fossil-turquia",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "mollylempriere.carbonbrief.org",
+   "institution": "Molly Lempriere (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-17",
+   "time": "12:39",
+   "text": "[resumo da fonte] Turkey got an honourable mention in the fossil of the day for its role in just-transition negotiations; quotes COP31 President Murat Kurum: \"Rather than creating new structures…\"",
+   "summary": "Molly Lempriere (Carbon Brief) relata que a Turquia recebeu menção honrosa no \"Fóssil do Dia\" por seu papel nas negociações de transição justa e cita o presidente da COP31, Murat Kurum: \"Em vez de criar novas estruturas…\".",
+   "summary_i18n": {
+    "en": "Molly Lempriere (Carbon Brief) reports that Turkey received an honourable mention in the \"Fossil of the Day\" for its role in just transition negotiations, quoting COP31 President Murat Kurum: \"Rather than creating new structures…\".",
+    "es": "Molly Lempriere (Carbon Brief) informa de que Turquía recibió una mención de honor en el «Fósil del Día» por su papel en las negociaciones sobre transición justa y cita al presidente de la COP31, Murat Kurum: «En lugar de crear nuevas estructuras…».",
+    "fr": "Molly Lempriere (Carbon Brief) rapporte que la Turquie a reçu une mention honorable au « Fossile du jour » pour son rôle dans les négociations sur la transition juste, et cite le président de la COP31, Murat Kurum : « Plutôt que de créer de nouvelles structures… ».",
+    "ru": "Молли Лемприе (Carbon Brief) сообщает, что Турция получила почётное упоминание в антирейтинге «Ископаемое дня» за роль в переговорах о справедливом переходе, и цитирует президента СОР31 Мурата Курума: «Вместо создания новых структур…».",
+    "zh": "Molly Lempriere（Carbon Brief）报道，土耳其因其在公正转型谈判中的作用在“每日化石奖”中获得荣誉提名，并引述COP31主席穆拉特·库鲁姆的话：“与其创建新的架构……”。",
+    "ar": "تفيد Molly Lempriere (Carbon Brief) بأن تركيا نالت إشارة تنويه في «حفرية اليوم» بسبب دورها في مفاوضات الانتقال العادل، ونقلت عن رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم قوله: «بدلاً من إنشاء هياكل جديدة…»."
+   },
+   "url": "https://bsky.app/profile/mollylempriere.carbonbrief.org/post/3n2jetios2c2o",
+   "tracks": [
+    "Transição justa",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-19T05:45:37-03:00",
+   "lang": "en",
+   "source_id": "bsky-mollylempriere-carbonbrief-org"
   },
   {
    "id": "actionaid-2026-11-17-adaptation-heartbreaking",
@@ -25525,35 +25665,64 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T04:47:00-03:00",
-  "label": "19 nov 2026, 04:47 (Brasília)",
-  "accounts_checked": 8,
-  "blocked": 22,
-  "new_items": 0,
+  "timestamp": "2026-11-19T05:45:37-03:00",
+  "label": "19 nov 2026, 05:45 (Brasília)",
+  "accounts_checked": 32,
+  "blocked": 51,
+  "new_items": 5,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
    "ig-turkiyecop31",
+   "yt-turkiyecop31",
    "x-murat-kurum",
    "ig-muratkurum",
+   "x-iklimbaskanligi",
+   "x-abayraktar",
+   "x-samedagirbas",
    "ig-chrisbowenmp",
+   "x-dcceew",
    "x-unfccc",
+   "ig-unclimatechange",
    "yt-unclimatechangeevents",
+   "yt-unclimatechange",
    "x-simonstiell",
    "x-aosischair",
+   "ig-aosis-chair",
    "x-ldcchairunfccc",
+   "x-cfrn-org",
+   "x-caricomorg",
    "x-ireland2026eu",
+   "x-wbhoekstra",
    "x-lulaoficial",
+   "ig-lulaoficial",
    "x-mmeioambiente",
+   "ig-mmeioambiente",
    "x-itamaratygovbr",
    "x-marinasilva",
+   "ig-marinasilvaoficial",
    "ig-institutotalanoa",
+   "x-talanoareal",
+   "yt-pol-tica-por-inteiro",
    "x-unatalie",
    "ig-observatoriodoclima",
+   "x-obsclima",
+   "x-moefcc",
+   "x-byadavbjp",
    "x-canintl",
+   "ig-greenpeaceturkiye",
+   "x-powershftafrica",
    "x-hiz-2026",
+   "ig-halklariniklimzirvesi",
+   "x-lossanddamage",
+   "x-e3g",
+   "x-climateactiontr",
+   "x-iisd-enb",
    "x-carbonpulse",
-   "x-fatmavarank"
+   "x-turkeyrecap",
+   "x-fatmavarank",
+   "x-miatsf",
+   "x-wmo"
   ]
  }
 }
