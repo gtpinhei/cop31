@@ -26003,11 +26003,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T09:45:00-03:00",
-  "label": "19 nov 2026, 09:45 (Brasília)",
+  "timestamp": "2026-11-19T10:45:00-03:00",
+  "label": "19 nov 2026, 10:45 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 1,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
