@@ -1,26 +1,26 @@
 {
  "schema": 1,
- "generated_at": "2026-11-19T12:18:19-03:00",
+ "generated_at": "2026-11-19T18:18:32-03:00",
  "round": {
-  "timestamp": "2026-11-19T12:18:19-03:00",
-  "label": "19 nov 2026, 12:18 (Brasília)",
-  "sites_checked": 41,
+  "timestamp": "2026-11-19T18:18:32-03:00",
+  "label": "19 nov 2026, 18:18 (Brasília)",
+  "sites_checked": 53,
   "blocked": 11,
-  "new_items": 4,
-  "fetches": "58 de 60",
+  "new_items": 8,
+  "fetches": "71 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
    "web-chathamhouse-org-topics-climate-policy",
-   "web-climateanalytics-org-publications",
+   "web-christianaid-org-uk-news",
    "web-climatechampions-unfccc-int-news",
-   "web-ember-energy-org-latest-insights",
-   "web-eurodad-org-news",
+   "web-foei-org-news",
    "web-iea-org-events-world-energy-outlook-2026",
-   "web-ituc-csi-org-climate-justice",
-   "web-odi-org-en-insights",
+   "web-politicaporinteiro-org-en",
+   "web-transforma-global",
+   "web-twn-my-title2-climate-climate-updates-htm",
    "web-unep-org-resources-emissions-gap-report-2026",
-   "web-wemeanbusinesscoalition-org-news"
+   "web-wwf-panda-org-wwf-news"
   ]
  },
  "tracks": [
@@ -41,6 +41,176 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-19-electrification-lightbulb",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Electrification at COP31 \"a lightbulb moment for our global climate push\" – UN Climate Chief",
+   "date": "2026-11-19",
+   "authors": "Simon Stiell",
+   "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
+   "summary": "Em discurso no evento de alto nível da Agenda de Ação Climática Global, Stiell apresenta o Electrification Delivery Package e o chama de um ponto de virada. Ele cita planos de investimento de pelo menos US$ 156 bilhões por ano em redes, renováveis e armazenamento e mais de 21 mil km de novas redes. Pede que os países indiquem pontos focais voluntários ao Secretariado para que os países em desenvolvimento participem da Agenda de Ação.",
+   "summary_i18n": {
+    "en": "In a speech at the Global Climate Action high-level event, Stiell presents the Electrification Delivery Package and calls it a turning point. He cites investment plans of at least US$156 billion a year in grids, renewables and storage and more than 21,000 km of new grid. He asks countries to share voluntary focal points with the Secretariat so that developing countries can engage with the Action Agenda.",
+    "es": "En un discurso en el evento de alto nivel de Acción Climática Global, Stiell presenta el Electrification Delivery Package y lo califica de punto de inflexión. Cita planes de inversión de al menos 156.000 millones de dólares al año en redes, renovables y almacenamiento y más de 21.000 km de nuevas redes. Pide a los países que comuniquen puntos focales voluntarios a la secretaría para que los países en desarrollo participen en la Agenda de Acción.",
+    "fr": "Dans un discours lors de l'événement de haut niveau sur l'action climatique mondiale, M. Stiell présente le Electrification Delivery Package et y voit un tournant. Il cite des plans d'investissement d'au moins 156 milliards de dollars par an dans les réseaux, les énergies renouvelables et le stockage, et plus de 21 000 km de nouveaux réseaux. Il demande aux pays de communiquer des points focaux volontaires au secrétariat afin que les pays en développement s'engagent dans l'Agenda d'action.",
+    "ru": "В выступлении на мероприятии высокого уровня по глобальным климатическим действиям Стилл представил Electrification Delivery Package и назвал его поворотным моментом. Он привёл планы инвестиций не менее 156 млрд долл. США в год в сети, ВИЭ и накопители и более 21 тыс. км новых сетей. Он просит страны сообщить секретариату добровольные координационные центры, чтобы развивающиеся страны могли участвовать в Повестке действий.",
+    "zh": "斯蒂尔在全球气候行动高级别活动上的讲话中介绍了“电气化交付包”(Electrification Delivery Package),称其为转折点。他提到电网、可再生能源和储能领域每年至少1560亿美元的投资计划,以及超过2.1万公里的新建电网。他请各国向秘书处提供自愿联络人,以便发展中国家参与行动议程。",
+    "ar": "في كلمة ألقاها خلال الحدث رفيع المستوى للعمل المناخي العالمي، قدّم ستيل «Electrification Delivery Package» ووصفه بأنه نقطة تحول. وذكر خطط استثمار لا تقل عن 156 مليار دولار سنويًا في الشبكات والطاقة المتجددة والتخزين، وأكثر من 21 ألف كم من الشبكات الجديدة. ودعا البلدان إلى تزويد الأمانة بجهات اتصال طوعية لتمكين البلدان النامية من المشاركة في جدول أعمال العمل."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "\"Today is a lightbulb moment for our global climate push.\" (Simon Stiell)",
+    "\"The transition to clean energy is now irreversible.\" (Simon Stiell)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-19-electrification-rally",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "release",
+   "title": "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
+   "date": "2026-11-19",
+   "authors": "UN Climate Change; Climate Champions",
+   "url": "https://unfccc.int/news/cop31-businesses-governments-investors-cities-and-initiatives-rally-behind-electrification",
+   "summary": "O comunicado apresenta o Electrification Delivery Package, que reúne resultados e anúncios da COP31 de mais de 150 países, da UE, de 37 cidades e de mais de 260 empresas. Entre os números estão investimentos em redes de pelo menos US$ 156 bilhões por ano e 13 corredores de frete de zero emissão com mais de 29 mil km; o texto adverte que os valores cobrem períodos distintos e não devem ser somados. Faz parte da Agenda de Ação (Eixo 1), fora das trilhas formais de negociação.",
+   "summary_i18n": {
+    "en": "The release presents the Electrification Delivery Package, which consolidates COP31 results and announcements from more than 150 countries, the EU, 37 cities and over 260 businesses. Figures include grid investment of at least US$156 billion a year and 13 zero-emission freight corridors covering more than 29,000 km; the text warns that the figures cover different periods and should not be added together. It belongs to the Action Agenda (Axis 1), outside the formal negotiating tracks.",
+    "es": "El comunicado presenta el Electrification Delivery Package, que reúne resultados y anuncios de la COP31 de más de 150 países, la UE, 37 ciudades y más de 260 empresas. Entre las cifras figuran inversiones en redes de al menos 156.000 millones de dólares al año y 13 corredores de carga de cero emisiones con más de 29.000 km; el texto advierte que las cifras abarcan períodos distintos y no deben sumarse. Forma parte de la Agenda de Acción (Eje 1), fuera de las vías formales de negociación.",
+    "fr": "Le communiqué présente le Electrification Delivery Package, qui rassemble les résultats et annonces de la COP31 de plus de 150 pays, de l'UE, de 37 villes et de plus de 260 entreprises. Parmi les chiffres : des investissements dans les réseaux d'au moins 156 milliards de dollars par an et 13 corridors de fret à zéro émission de plus de 29 000 km ; le texte précise que les chiffres couvrent des périodes différentes et ne doivent pas être additionnés. Il relève de l'Agenda d'action (axe 1), hors des volets formels de négociation.",
+    "ru": "В пресс-релизе представлен Electrification Delivery Package, объединяющий итоги и объявления КС-31 более чем от 150 стран, ЕС, 37 городов и свыше 260 компаний. Среди цифр: инвестиции в сети не менее 156 млрд долл. США в год и 13 грузовых коридоров с нулевыми выбросами протяжённостью более 29 тыс. км; в тексте предупреждается, что данные относятся к разным периодам и суммироваться не должны. Относится к Повестке действий (ось 1), вне официальных переговорных направлений.",
+    "zh": "新闻稿介绍了“电气化交付包”(Electrification Delivery Package),汇集了来自150多个国家、欧盟、37个城市和260多家企业的COP31成果与公告。数据包括每年至少1560亿美元的电网投资,以及13条总长超过2.9万公里的零排放货运走廊;文本提醒这些数字涵盖不同时期,不应相加。该内容属于行动议程(第1轴),不在正式谈判议题之内。",
+    "ar": "يعرض البيان «Electrification Delivery Package» الذي يجمع نتائج COP31 وإعلاناته من أكثر من 150 بلدًا والاتحاد الأوروبي و37 مدينة وأكثر من 260 شركة. وتشمل الأرقام استثمارات في الشبكات لا تقل عن 156 مليار دولار سنويًا و13 ممر شحن خاليًا من الانبعاثات بطول يزيد على 29 ألف كم؛ ويحذّر النص من أن الأرقام تغطي فترات مختلفة ولا ينبغي جمعها. وهو جزء من جدول أعمال العمل (المحور 1) خارج مسارات التفاوض الرسمية."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [
+    "\"This isn't a story about one project or one breakthrough.\" (Samed Ağırbaş, High-Level Champion)",
+    "\"We cannot accelerate electrification without accelerating grids.\" (Francesco La Camera, IRENA)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-19-crucial-days",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "\"These are crucial days ahead for climate cooperation. And we have no time to lose\" – UN Climate Chief at COP31 press conference",
+   "date": "2026-11-19",
+   "authors": "Simon Stiell",
+   "url": "https://unfccc.int/news/these-are-crucial-days-ahead-for-climate-cooperation-and-we-have-no-time-to-lose-un-climate-chief-at",
+   "summary": "Na coletiva da Presidência, Stiell diz que a decisão de cobertura é complexa e que será difícil alcançar resultados fortes e equilibrados em todos os temas. Lembra que a Presidência pretende uma decisão conduzida por ela e que um novo rascunho do texto foi divulgado no mesmo dia. Cita 165 itens mandatados nas salas de negociação e afirma que quase 200 Partes são donas do processo.",
+   "summary_i18n": {
+    "en": "At the Presidency press conference, Stiell says the cover decision is complex and that strong, balanced outcomes on all issues will be hard to reach. He recalls that the Presidency intends a Presidency-led decision and that a new draft text was released the same day. He cites 165 mandated items across the negotiating rooms and says almost 200 Parties own the process.",
+    "es": "En la rueda de prensa de la Presidencia, Stiell dice que la decisión de cobertura es compleja y que será difícil lograr resultados sólidos y equilibrados en todos los temas. Recuerda que la Presidencia pretende una decisión dirigida por ella y que ese mismo día se publicó un nuevo borrador del texto. Cita 165 asuntos mandatados en las salas de negociación y afirma que casi 200 Partes son dueñas del proceso.",
+    "fr": "Lors de la conférence de presse de la Présidence, M. Stiell indique que la décision de couverture est complexe et qu'il sera difficile d'obtenir des résultats solides et équilibrés sur tous les sujets. Il rappelle que la Présidence entend mener une décision sous sa direction et qu'un nouveau projet de texte a été publié le même jour. Il cite 165 points mandatés dans les salles de négociation et affirme que près de 200 Parties sont maîtresses du processus.",
+    "ru": "На пресс-конференции Председательства Стилл заявил, что итоговое решение сложное и добиться сильных и сбалансированных результатов по всем вопросам будет трудно. Он напомнил, что Председательство намерено принять решение под своим руководством и что в тот же день опубликован новый проект текста. Он назвал 165 мандатных пунктов в переговорных залах и заявил, что почти 200 Сторон являются хозяевами процесса.",
+    "zh": "在主席团新闻发布会上,斯蒂尔表示总括性决定十分复杂,要在所有议题上达成有力而平衡的成果并不容易。他回顾说,主席团打算由主席团主导形成决定,并且当天已发布新的案文草案。他提到各谈判室共有165项授权议题,并称近200个缔约方是这一进程的主人。",
+    "ar": "في المؤتمر الصحفي للرئاسة، قال ستيل إن القرار الشامل معقّد وإن تحقيق نتائج قوية ومتوازنة في جميع القضايا سيكون صعبًا. وذكّر بأن الرئاسة تعتزم التوصل إلى قرار تقوده بنفسها وبأن مسودة نص جديدة صدرت في اليوم نفسه. وأشار إلى وجود 165 بندًا مكلفًا في قاعات التفاوض، وقال إن نحو 200 طرف يملكون هذه العملية."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"These are crucial days ahead for climate cooperation. And we have no time to lose.\" (Simon Stiell)",
+    "\"Across all the negotiating rooms, there are 165 mandated items – as per the agreed schedule.\" (Simon Stiell)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "oil-change-2026-11-19-cover-decision-response",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "Draft COP31 Cover Decision – Oil Change International response",
+   "date": "2026-11-19",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/draft-cop31-cover-decision-oil-change-international-response/",
+   "summary": "A Oil Change International reage ao novo rascunho da decisão de cobertura da COP31, dizendo que o texto traz as digitais dos interesses fósseis e que quase todos os sinais de eliminação gradual dos combustíveis fósseis foram retirados. A leitura incide sobre a trilha de TAFF e sobre a pressão sobre as Presidências da Türkiye e da Austrália.",
+   "summary_i18n": {
+    "en": "Oil Change International responds to the new draft COP31 cover decision, saying the text bears the fingerprints of fossil fuel interests and that almost all fossil fuel phase-out signals have been removed. The reaction bears on the TAFF track and on the pressure on the Türkiye and Australia Presidencies.",
+    "es": "Oil Change International responde al nuevo borrador de la decisión de cobertura de la COP31, y afirma que el texto lleva las huellas de los intereses fósiles y que se han eliminado casi todas las señales de eliminación gradual de los combustibles fósiles. La reacción se refiere a la vía del TAFF y a la presión sobre las Presidencias de Turquía y Australia.",
+    "fr": "Oil Change International réagit au nouveau projet de décision de couverture de la COP31, estimant que le texte porte l'empreinte des intérêts fossiles et que presque tous les signaux d'élimination progressive des combustibles fossiles ont été retirés. La réaction concerne le volet TAFF et la pression sur les Présidences de la Türkiye et de l'Australie.",
+    "ru": "Oil Change International комментирует новый проект итогового решения КС-31, заявляя, что в тексте видны следы интересов ископаемой отрасли и что почти все сигналы о поэтапном отказе от ископаемого топлива удалены. Реакция относится к направлению TAFF и к давлению на Председательства Турции и Австралии.",
+    "zh": "Oil Change International对COP31总括性决定的新草案作出回应,称文本带有化石燃料利益的“指纹”,几乎所有逐步淘汰化石燃料的信号都被删除。该回应涉及TAFF议题,以及对土耳其和澳大利亚两个主席团的压力。",
+    "ar": "تردّ Oil Change International على المسودة الجديدة للقرار الشامل لـ COP31، قائلةً إن النص يحمل بصمات مصالح الوقود الأحفوري وإن جميع إشارات التخلص التدريجي من الوقود الأحفوري تقريبًا قد أُزيلت. ويتصل الرد بمسار TAFF وبالضغط على رئاستي تركيا وأستراليا."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"This text has the fingerprints of fossil fuel interests all over it.\" (Oil Change International)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oil-change-2026-11-19-weo-2026",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "International Energy Agency World Energy Outlook 2026 Underscores Urgent Need for Just Transition Away from Fossil Fuels",
+   "date": "2026-11-19",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/international-energy-agency-world-energy-outlook-2026-underscores-urgent-need-for-just-transition-away-from-fossil-fuels/",
+   "summary": "Segundo a chamada do comunicado, o World Energy Outlook 2026 da IEA indica que a crise dos combustíveis fósseis pode acelerar o declínio do petróleo e reduzir a demanda por GNL. A Oil Change defende que os governos ampliem roteiros críveis de eliminação dos fósseis e financiamento público para uma transição justa. Resumo baseado apenas no texto de apresentação.",
+   "summary_i18n": {
+    "en": "According to the release teaser, the IEA World Energy Outlook 2026 indicates that the fossil fuel crisis could speed the decline of oil and cut LNG demand. Oil Change argues that governments should scale up credible fossil fuel phase-out roadmaps and public finance for a just transition. Summary based only on the teaser text.",
+    "es": "Según el avance del comunicado, el World Energy Outlook 2026 de la AIE indica que la crisis de los combustibles fósiles podría acelerar el declive del petróleo y reducir la demanda de GNL. Oil Change sostiene que los gobiernos deben ampliar hojas de ruta creíbles de eliminación de los fósiles y la financiación pública para una transición justa. Resumen basado solo en el texto de presentación.",
+    "fr": "D'après l'accroche du communiqué, le World Energy Outlook 2026 de l'AIE indique que la crise des combustibles fossiles pourrait accélérer le déclin du pétrole et réduire la demande de GNL. Oil Change plaide pour que les gouvernements développent des feuilles de route crédibles de sortie des fossiles et un financement public en faveur d'une transition juste. Résumé fondé uniquement sur le texte d'accroche.",
+    "ru": "Согласно анонсу релиза, World Energy Outlook 2026 МЭА показывает, что кризис ископаемого топлива может ускорить спад нефти и сократить спрос на СПГ. Oil Change призывает правительства расширить достоверные дорожные карты отказа от ископаемого топлива и государственное финансирование справедливого перехода. Резюме составлено только по анонсу.",
+    "zh": "根据新闻稿摘要,国际能源署《2026年世界能源展望》显示,化石燃料危机可能加速石油需求下降并减少液化天然气需求。Oil Change主张各国政府扩大可信的化石燃料淘汰路线图和用于公正转型的公共资金。本摘要仅依据摘要文字。",
+    "ar": "وفق مقدمة البيان، يشير «World Energy Outlook 2026» الصادر عن وكالة الطاقة الدولية إلى أن أزمة الوقود الأحفوري قد تسرّع تراجع النفط وتخفض الطلب على الغاز الطبيعي المسال. وترى Oil Change أن على الحكومات توسيع خرائط طريق موثوقة للتخلص من الوقود الأحفوري والتمويل العام لانتقال عادل. الملخص مبني على نص المقدمة فقط."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oil-change-2026-11-19-media-advisory",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Oil Change International COP31 Media Advisory – November 19, 2026",
+   "date": "2026-11-19",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-19-2026/",
+   "summary": "O aviso à imprensa da Oil Change informa que um novo rascunho de texto era esperado na manhã de 19 de novembro e que cresce a pressão sobre as Presidências da Türkiye e da Austrália. O foco está na decisão de cobertura e na trilha de transição dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change's media advisory says a new draft text was expected on the morning of 19 November and that pressure is growing on the Türkiye and Australia Presidencies. The focus is on the cover decision and the fossil fuel transition track.",
+    "es": "El aviso a la prensa de Oil Change señala que se esperaba un nuevo borrador de texto en la mañana del 19 de noviembre y que crece la presión sobre las Presidencias de Turquía y Australia. El foco está en la decisión de cobertura y en la vía de transición de los combustibles fósiles.",
+    "fr": "L'avis aux médias d'Oil Change indique qu'un nouveau projet de texte était attendu le matin du 19 novembre et que la pression augmente sur les Présidences de la Türkiye et de l'Australie. L'accent est mis sur la décision de couverture et sur le volet de transition des combustibles fossiles.",
+    "ru": "В медиа-уведомлении Oil Change говорится, что новый проект текста ожидался утром 19 ноября и что давление на Председательства Турции и Австралии растёт. Акцент сделан на итоговом решении и направлении перехода от ископаемого топлива.",
+    "zh": "Oil Change的媒体通告称,新的案文草案预计于11月19日上午发布,对土耳其和澳大利亚两个主席团的压力正在加大。重点是总括性决定和化石燃料转型议题。",
+    "ar": "يذكر الإشعار الإعلامي لـ Oil Change أن مسودة نص جديدة كانت متوقعة صباح 19 نوفمبر وأن الضغط يتزايد على رئاستي تركيا وأستراليا. ويركّز على القرار الشامل ومسار الانتقال بعيدًا عن الوقود الأحفوري."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"A new draft of text is expected to be released this morning\" (Oil Change International)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
   {
    "id": "bluesky-carbonbrief.org-20261119-daily-briefing",
    "kind": "post",
@@ -213,6 +383,62 @@
    "first_seen": "2026-11-19T06:20:00-03:00",
    "lang": "en",
    "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "cvfv20-2026-11-18-youth-fellows",
+   "institution": "V20 / CVF",
+   "type": "notícia",
+   "title": "CVF Youth Fellows Graduate at COP31",
+   "date": "2026-11-18",
+   "authors": "Sara Ahmed",
+   "url": "https://cvfv20.org/cvf-youth-fellows-graduate-at-cop31/",
+   "summary": "O CVF-V20 relata a formatura, em 14 de novembro em Antalya, de jovens negociadores de 16 países, atuando em finanças, perdas e danos, transição justa, adaptação e Artigo 6. Os fellows de finanças dizem que as posições nas salas estão cada vez mais distantes, e o texto afirma que cerca de metade das decisões da COP31 terá elementos de finanças. Os jovens cobram ser ouvidos, e não apenas presentes.",
+   "summary_i18n": {
+    "en": "The CVF-V20 reports the graduation, on 14 November in Antalya, of youth negotiators from 16 countries working on finance, loss and damage, just transition, adaptation and Article 6. Fellows on the finance track say positions in the rooms are getting farther and farther apart, and the text says about half of COP31 decisions will carry finance elements. The young negotiators ask to be heard, not only to attend.",
+    "es": "El CVF-V20 informa de la graduación, el 14 de noviembre en Antalya, de jóvenes negociadores de 16 países que trabajan en finanzas, pérdidas y daños, transición justa, adaptación y el artículo 6. Los becarios de finanzas dicen que las posiciones en las salas se alejan cada vez más, y el texto afirma que cerca de la mitad de las decisiones de la COP31 tendrá elementos financieros. Los jóvenes piden ser escuchados, y no solo estar presentes.",
+    "fr": "Le CVF-V20 rend compte de la remise de diplômes, le 14 novembre à Antalya, de jeunes négociateurs de 16 pays travaillant sur le financement, les pertes et préjudices, la transition juste, l'adaptation et l'article 6. Les boursiers du volet financier disent que les positions dans les salles s'éloignent de plus en plus, et le texte affirme qu'environ la moitié des décisions de la COP31 comportera des éléments de financement. Les jeunes demandent à être entendus, et pas seulement présents.",
+    "ru": "CVF-V20 сообщает о выпуске 14 ноября в Анталье молодых переговорщиков из 16 стран, работающих по финансам, потерям и ущербу, справедливому переходу, адаптации и статье 6. Стипендиаты по финансовому направлению говорят, что позиции в залах всё больше расходятся, а в тексте отмечается, что около половины решений КС-31 будет содержать финансовые элементы. Молодёжь просит, чтобы её слышали, а не только допускали к участию.",
+    "zh": "CVF-V20报告称,来自16个国家、负责资金、损失与损害、公正转型、适应和第6条议题的青年谈判代表于11月14日在安塔利亚结业。资金议题的学员表示,各谈判室中的立场越来越远,文中称约一半的COP31决定将含有资金内容。青年代表要求被倾听,而不仅仅是出席。",
+    "ar": "يفيد CVF-V20 بتخرّج مفاوضين شباب من 16 بلدًا، يعملون في التمويل والخسائر والأضرار والانتقال العادل والتكيف والمادة 6، في 14 نوفمبر في أنطاليا. ويقول زملاء مسار التمويل إن المواقف في القاعات تتباعد أكثر فأكثر، ويذكر النص أن نحو نصف قرارات COP31 سيتضمن عناصر تمويلية. ويطالب الشباب بأن يُسمع صوتهم لا أن يكتفوا بالحضور."
+   },
+   "tracks": [
+    "Finanças",
+    "Perdas e danos",
+    "Transição justa",
+    "Adaptação"
+   ],
+   "quotes": [
+    "\"There is a difference between us attending and us being heard.\" (Victoria Kinobe Nakatudde, Uganda)"
+   ],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-cvfv20-org-communiques"
+  },
+  {
+   "id": "wbcsd-2026-11-18-electrification-package",
+   "institution": "WBCSD",
+   "type": "briefing",
+   "title": "Electrification Delivery Package – Business Action Tracker",
+   "date": "2026-11-18",
+   "authors": "Deepika Rana",
+   "url": "https://www.wbcsd.org/news/electrification-delivery-package-business-action-tracker/",
+   "summary": "O WBCSD apresenta o Electrification Delivery Package da Agenda de Ação da COP31 (Eixo 1: energia, transporte e indústria), a ser apresentado no encerramento de alto nível da Agenda em 19 de novembro. O Business Action Tracker reúne anúncios públicos de 2026 em redes, armazenamento, transporte, edifícios e indústria e seria publicado em 19 de novembro. O texto não traz metas numéricas.",
+   "summary_i18n": {
+    "en": "WBCSD presents the COP31 Action Agenda Electrification Delivery Package (Axis 1: energy, transport and industry), to be presented at the high-level closing of the Action Agenda on 19 November. The Business Action Tracker compiles 2026 public announcements in grids, storage, transport, buildings and industry and was to be uploaded on 19 November. The text gives no numeric targets.",
+    "es": "El WBCSD presenta el Electrification Delivery Package de la Agenda de Acción de la COP31 (Eje 1: energía, transporte e industria), que se presentará en la clausura de alto nivel de la Agenda el 19 de noviembre. El Business Action Tracker recopila anuncios públicos de 2026 en redes, almacenamiento, transporte, edificios e industria y se publicaría el 19 de noviembre. El texto no incluye metas numéricas.",
+    "fr": "Le WBCSD présente le Electrification Delivery Package de l'Agenda d'action de la COP31 (axe 1 : énergie, transports et industrie), qui sera présenté lors de la clôture de haut niveau de l'Agenda le 19 novembre. Le Business Action Tracker recense les annonces publiques de 2026 dans les réseaux, le stockage, les transports, les bâtiments et l'industrie et devait être mis en ligne le 19 novembre. Le texte ne donne pas d'objectifs chiffrés.",
+    "ru": "WBCSD представляет Electrification Delivery Package Повестки действий КС-31 (ось 1: энергетика, транспорт и промышленность), который будет представлен на заключительном заседании высокого уровня по Повестке действий 19 ноября. Business Action Tracker собирает публичные объявления 2026 года по сетям, накопителям, транспорту, зданиям и промышленности и должен был появиться 19 ноября. Количественных целей в тексте нет.",
+    "zh": "WBCSD介绍了COP31行动议程的“电气化交付包”(第1轴:能源、交通和工业),将于11月19日在行动议程高级别闭幕式上发布。“企业行动追踪器”汇总了2026年在电网、储能、交通、建筑和工业领域的公开公告,计划于11月19日上线。文中没有给出数字目标。",
+    "ar": "يعرض WBCSD «Electrification Delivery Package» ضمن جدول أعمال العمل في COP31 (المحور 1: الطاقة والنقل والصناعة)، الذي سيُقدَّم في الجلسة الختامية رفيعة المستوى لجدول الأعمال في 19 نوفمبر. ويجمع «Business Action Tracker» الإعلانات العلنية لعام 2026 في الشبكات والتخزين والنقل والمباني والصناعة، وكان من المقرر نشره في 19 نوفمبر. ولا يتضمن النص أهدافًا رقمية."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-19T18:18:32-03:00",
+   "lang": "en",
+   "source_id": "web-wbcsd-org-news"
   },
   {
    "id": "bluesky-carbonbrief.org-20261118-miliband-lideranca",
@@ -26210,8 +26436,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T17:46:16-03:00",
-  "label": "19 nov 2026, 17:46 (Brasília)",
+  "timestamp": "2026-11-19T18:45:57-03:00",
+  "label": "19 nov 2026, 18:45 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
