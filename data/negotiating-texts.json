@@ -167,10 +167,52 @@
       "change": "revised",
       "document_id": "10000366",
       "event_id": "28aecb1da2a281aa72168678"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "withdrawn",
+      "document_id": "10000336",
+      "event_id": "c0f71965834e44cbe77647f2"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "withdrawn",
+      "document_id": "10000340",
+      "event_id": "3501763b2d9db6a5c14049fc"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "new",
+      "document_id": "10000368",
+      "event_id": "012f6e5902c17df38b4d8b4a"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "new",
+      "document_id": "10000369",
+      "event_id": "e0e2f4ac6967df7eaf4bf8d1"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "new",
+      "document_id": "10000370",
+      "event_id": "fb4adc8c9ae14ae7d8c19b1c"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "new",
+      "document_id": "10000371",
+      "event_id": "10136a582665c8fd21bec1eb"
+    },
+    {
+      "at": "2026-11-19T14:46:33.112100Z",
+      "change": "new",
+      "document_id": "10000373",
+      "event_id": "be243d7154e87e0dfed2f6ef"
     }
   ],
-  "checked_at": "2026-11-19T14:17:41.323442Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T14:46:33.112100Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -710,6 +752,28 @@
       "session": "SBI 65",
       "source_url": "https://docs.unfccc.int/documents/10000298/metadata",
       "status": "informal",
+      "title": "United Arab Emirates just transition work programme",
+      "topic": "Just transition",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 5",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "c072a5024691d84693af76e77d22d371d173f101820e6ecd7ff698f2231f4aa5",
+          "url": "https://docs.unfccc.int/documents/10000369/files/en/UAE%20JTWP_DT_SB651.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i5.1",
+      "id": "10000369",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-19T14:20:18.653785Z",
+      "published_at": "2026-11-19T13:40:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000369/metadata",
+      "status": "draft",
       "title": "United Arab Emirates just transition work programme",
       "topic": "Just transition",
       "withdrawn": false
@@ -2706,7 +2770,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "95d477a1a9e0c3b2074fd0a78af07a350ee324c99b593cc387f3582ca498d8a3",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000336/files/en/Art%206.8%20Review_DT_SBSTA652.pdf"
         }
       ],
@@ -2714,14 +2778,14 @@
       "document_code": "DT.CMA8.i16c.1",
       "id": "10000336",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-16T20:54:02.160420Z",
+      "modified_at": "2026-11-19T14:36:14.398894Z",
       "published_at": "2026-11-16T18:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000336/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 8(c)",
@@ -2782,7 +2846,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "9ddc8c45c49cd9356463babf1f1f11f68daaa81abf295e8b9cc9d829ae5e4396",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000340/files/en/Art_6.2_funding_DT_CMA.pdf"
         }
       ],
@@ -2790,14 +2854,14 @@
       "document_code": "DT.CMA8.i18.1",
       "id": "10000340",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-17T05:43:04.852914Z",
+      "modified_at": "2026-11-19T14:34:19.467655Z",
       "published_at": "2026-11-17T02:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000340/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 9(c)",
@@ -3118,6 +3182,72 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 18",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "dcd3bf4746379ae0dd97fecac0c91d727cf44b0b737c44e18abdf7f056b2b988",
+          "url": "https://docs.unfccc.int/documents/10000370/files/en/Art_6.2_funding_DD_DT_CMA.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i18.2",
+      "id": "10000370",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-19T14:32:41.164647Z",
+      "published_at": "2026-11-19T14:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000370/metadata",
+      "status": "draft",
+      "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "24c9590e1bbe24220a815fce9882e9b13a8200b4f312adbb9ddae8a3d090f013",
+          "url": "https://docs.unfccc.int/documents/10000371/files/en/Art%206.8_DT_CMA8_16c.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i16c.2",
+      "id": "10000371",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-19T14:34:15.535676Z",
+      "published_at": "2026-11-19T14:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000371/metadata",
+      "status": "draft",
+      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "a7f230e9515df5df3b68a3d3641aa57bfc3f8e87b0043529472a1eb8a004e9c5",
+          "url": "https://docs.unfccc.int/documents/10000373/files/en/RM_DT_cop313.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i12_CMP21.i7_CMA8.i15.2",
+      "id": "10000373",
+      "metadata_version": "8.0",
+      "modified_at": "2026-11-19T14:45:12.571479Z",
+      "published_at": "2026-11-19T14:15:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000373/metadata",
+      "status": "draft",
+      "title": "Report of the forum on the impact of the implementation of response measures",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3198,11 +3328,33 @@
       "title": "Sharm el-Sheikh mitigation ambition and implementation work programme",
       "topic": "TAFF / mitigation",
       "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 6",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "04314a8bb11d0da5e034cb186b77e0380acb74c8f85fe3d9404bd5ce4da26b52",
+          "url": "https://docs.unfccc.int/documents/10000368/files/en/MWP_DT_SB654.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i6.2",
+      "id": "10000368",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-19T14:18:37.074679Z",
+      "published_at": "2026-11-19T14:15:00Z",
+      "session": "CMA 6",
+      "source_url": "https://docs.unfccc.int/documents/10000368/metadata",
+      "status": "draft",
+      "title": "Sharm el-Sheikh mitigation ambition and implementation work programme",
+      "topic": "TAFF / mitigation",
+      "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T14:36:47.893829Z",
-  "last_success": "2026-11-19T14:17:41.323442Z",
+  "history_count": 35,
+  "last_attempt": "2026-11-19T14:46:33.112100Z",
+  "last_success": "2026-11-19T14:46:33.112100Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
