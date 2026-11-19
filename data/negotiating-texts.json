@@ -257,10 +257,16 @@
       "change": "revised",
       "document_id": "10000356",
       "event_id": "6b7f8ac33d1ef501997d3ed5"
+    },
+    {
+      "at": "2026-11-19T21:07:37.030178Z",
+      "change": "new",
+      "document_id": "10000381",
+      "event_id": "145e7616dc132b0dda1afbe5"
     }
   ],
-  "checked_at": "2026-11-19T20:47:01.355480Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T21:07:37.030178Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3431,6 +3437,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 18",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "2c58a38a11c38ab97e7d3fe0a8ff633cebadc760fa1186987b4c5f61a8f1df84",
+          "url": "https://docs.unfccc.int/documents/10000381/files/en/Art_6.2_funding_DD_DT_CMA2.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.6",
+      "id": "10000381",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T20:58:35.187131Z",
+      "published_at": "2026-11-19T20:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000381/metadata",
+      "status": "unknown",
+      "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3535,9 +3563,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T20:57:41.502563Z",
-  "last_success": "2026-11-19T20:47:01.355480Z",
+  "history_count": 44,
+  "last_attempt": "2026-11-19T21:07:37.030178Z",
+  "last_success": "2026-11-19T21:07:37.030178Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
