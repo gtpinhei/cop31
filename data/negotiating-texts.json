@@ -1,24 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-18T09:17:13.169436Z",
-      "change": "withdrawn",
-      "document_id": "10000339",
-      "event_id": "e2e9af6afd32f2abadd76c4a"
-    },
-    {
-      "at": "2026-11-18T09:17:13.169436Z",
-      "change": "new",
-      "document_id": "10000350",
-      "event_id": "7abd9ea0684d8f54923d5351"
-    },
-    {
-      "at": "2026-11-18T09:17:13.169436Z",
-      "change": "new",
-      "document_id": "10000351",
-      "event_id": "e0de9455dd46a21e49d50228"
-    },
-    {
       "at": "2026-11-18T10:07:21.968393Z",
       "change": "new",
       "document_id": "10000352",
@@ -3029,7 +3011,7 @@
     }
   ],
   "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T09:16:53.785925Z",
+  "last_attempt": "2026-11-19T09:27:01.531975Z",
   "last_success": "2026-11-19T09:06:57.964514Z",
   "schema": 1,
   "sources": [
