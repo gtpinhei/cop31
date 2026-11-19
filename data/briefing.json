@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-19",
- "generated_at": "2026-11-19T17:58+03:00",
+ "generated_at": "2026-11-19T18:59+03:00",
  "window": {
   "from": "2026-11-16",
   "to": "2026-11-19",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-19T06:20:00-03:00",
-  "social_round": "2026-11-19T11:45:00-03:00",
+  "web_round": "2026-11-19T12:18:19-03:00",
+  "social_round": "2026-11-19T12:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 80,
-  "stories": 70,
+  "candidates": 84,
+  "stories": 74,
   "top": 8,
   "publishers": [
    "350.org",
@@ -58,28 +58,65 @@
    {
     "publisher": "Instituto Talanoa",
     "outcome": "blocked",
-    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
+    "note": "budget: não relida nesta rodada (orçamento)"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
+    "note": "budget: não relida nesta rodada (orçamento)"
    },
    {
     "publisher": "Arab Group (UNFCCC submissions)",
     "outcome": "blocked",
-    "note": "redireciona para submissions.unfccc.int, portal sem listagem datada renderizada"
+    "note": "budget: não relida nesta rodada (orçamento)"
    },
    {
     "publisher": "Third World Network (TWN)",
     "outcome": "blocked",
-    "note": "budget: não relida nesta rodada (orçamento; bloqueada/sem listagem datada em rodadas anteriores)"
+    "note": "budget: não relida nesta rodada (orçamento)"
    }
   ]
  },
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-climate-home-news-2026-11-19-iea-weo-electrification",
+    "section": "action",
+    "score": 1.0,
+    "lead": {
+     "id": "climate-home-news-2026-11-19-iea-weo-electrification",
+     "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
+     "url": "https://www.climatechangenews.com/2026/11/19/iea-report-hormuz-crisis-climate-electrification-shift-cop31-35x35-pledge/",
+     "publisher": "Climate Home News",
+     "author": "Sebastian Rodriguez, Matteo Civillini",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Mitigação e MWP",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "O World Energy Outlook da IEA diz que o conflito no Irã, descrito como o maior choque de oferta de energia da história, levou 25 países, em sua maioria asiáticos, a anunciar novas políticas de eletrificação desde fevereiro.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The IEA's World Energy Outlook says the conflict in Iran, described as the biggest energy supply shock in history, has led 25 countries, mostly in Asia, to announce new electrification policies since February.",
+      "es": "El World Energy Outlook de la AIE señala que el conflicto en Irán, descrito como la mayor perturbación del suministro energético de la historia, ha llevado a 25 países, la mayoría asiáticos, a anunciar nuevas políticas de electrificación desde febrero.",
+      "fr": "Le World Energy Outlook de l'AIE indique que le conflit en Iran, décrit comme le plus grand choc d'approvisionnement énergétique de l'histoire, a conduit 25 pays, pour la plupart asiatiques, à annoncer de nouvelles politiques d'électrification depuis février.",
+      "ru": "В докладе МЭА World Energy Outlook говорится, что конфликт в Иране, названный крупнейшим в истории потрясением энергоснабжения, побудил 25 стран, в основном азиатских, с февраля объявить новые меры по электрификации.",
+      "zh": "国际能源署《世界能源展望》指出，被称为史上最大能源供应冲击的伊朗冲突，自2月以来已促使25个国家（多数在亚洲）宣布新的电气化政策。法提赫·比罗尔敦促COP31支持到2035年将电力在终端能源消费中的占比从23%提高到35%的承诺，目前约75个国家表示支持。国际能源署警告说，现行政策仍会导致到2100年升温2.9 °C，并估计与1.5 °C相符的转型将使每年清洁能源投资增至约4.5万亿美元，到2035年创造1560万个能源领域就业岗位。",
+      "ar": "يقول تقرير «آفاق الطاقة العالمية» الصادر عن وكالة الطاقة الدولية إن النزاع في إيران، الذي وُصف بأنه أكبر صدمة في إمدادات الطاقة في التاريخ، دفع 25 بلداً، معظمها آسيوي، إلى الإعلان عن سياسات جديدة للكهربة منذ شباط/فبراير."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-cop31tr-2026-11-19-climate-club-oecd",
     "section": "action",
@@ -191,6 +228,43 @@
     ]
    },
    {
+    "id": "st-climate-home-news-2026-11-19-bulletin-day-10",
+    "section": "negotiations",
+    "score": 1.0,
+    "lead": {
+     "id": "climate-home-news-2026-11-19-bulletin-day-10",
+     "title": "COP31 Bulletin Day 10: Ministers' exchange makes little clear progress",
+     "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
+     "publisher": "Climate Home News",
+     "author": "Megan Rowling",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "TAFF e fósseis",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Uma reunião ministerial fechada em formato \"divan\" sobre a decisão de cobertura da COP31 foi descrita como construtiva, mas aproximou pouco as posições; um segundo rascunho é esperado.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "A closed-door ministerial \"divan\" meeting on the COP31 cover decision was described as constructive but narrowed few differences; a second draft is expected. Some ministers fear no agreement will be reached, although the co-presidencies assured them there will be one, and the EU's Darragh O'Brien said the mood was…",
+      "es": "Una reunión ministerial a puerta cerrada en formato «divan» sobre la decisión de cobertura de la COP31 fue descrita como constructiva, pero acercó poco las posiciones; se espera un segundo borrador.",
+      "fr": "Une réunion ministérielle à huis clos au format « divan » sur la décision de couverture de la COP31 a été décrite comme constructive, mais n'a guère rapproché les positions ; un deuxième projet est attendu.",
+      "ru": "Закрытая министерская встреча в формате «диван» по итоговому (покрывающему) решению КС-31 была названа конструктивной, но почти не сблизила позиции; ожидается второй проект.",
+      "zh": "一场关于COP31总括性决定的闭门部长级“divan”会议被形容为富有建设性，但几乎没有缩小分歧；预计将出现第二稿。一些部长担心无法达成协议，尽管共同主席国保证一定会有协议，欧盟的达拉·奥布赖恩表示气氛不像去年那样对立。图瓦卢气候部长迈纳·塔利亚表示，化石燃料表述似乎将被排除在总括性文本之外。",
+      "ar": "وُصف اجتماع وزاري مغلق بصيغة «الديوان» حول قرار التغطية في مؤتمر الأطراف الحادي والثلاثين بأنه بنّاء لكنه لم يقرّب المواقف كثيراً، ويُتوقع صدور مسودة ثانية. ويخشى بعض الوزراء ألا يتم التوصل إلى اتفاق، رغم تأكيد الرئاستين المشتركتين أنه سيتحقق، وقال دارّاغ أوبراين ممثل الاتحاد الأوروبي إن الأجواء كانت أقل مواجهة مما…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-icc-2026-11-18-business-to-ministers",
     "section": "action",
     "score": 0.54,
@@ -299,34 +373,38 @@
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-climate-home-news-2026-11-17-honduras-coastal-resilience",
+    "id": "st-climate-home-news-2026-11-19-bangladesh-finance",
     "section": "negotiations",
-    "score": 0.425,
+    "score": 0.765,
     "lead": {
-     "id": "climate-home-news-2026-11-17-honduras-coastal-resilience",
-     "title": "Building coastal resilience for local communities in Honduras",
-     "url": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
+     "id": "climate-home-news-2026-11-19-bangladesh-finance",
+     "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+     "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
      "publisher": "Climate Home News",
-     "author": "Adam Wentworth",
-     "published": "2026-11-17",
+     "author": "Shaikh Faridul Islam",
+     "published": "2026-11-19",
      "language": "en",
      "tracks": [
-      "Adaptação"
+      "Finanças",
+      "Adaptação",
+      "Perdas e danos"
      ],
-     "content_type": "reporting",
+     "content_type": "analysis",
      "kind": "publication",
-     "description": "Matéria patrocinada sobre um projeto de US$ 4 milhões e quatro anos do Fundo de Adaptação, executado pela CASM no departamento de Gracias a Dios, em Honduras, para proteger comunidades indígenas contra inundações, furacões e elevação do mar.",
-     "collected_at": "2026-11-18T18:16:49-03:00",
+     "description": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Sponsored article on a four-year, US$ 4 million Adaptation Fund project run by CASM in Honduras' Gracias a Dios department to protect Indigenous communities from flooding, hurricanes and sea-level rise.",
-      "es": "Artículo patrocinado sobre un proyecto de cuatro años y US$ 4 millones del Fondo de Adaptación, ejecutado por la CASM en el departamento de Gracias a Dios, en Honduras, para proteger a comunidades indígenas frente a inundaciones, huracanes y el aumento del nivel del mar.",
-      "fr": "Article sponsorisé sur un projet de quatre ans et 4 millions de dollars du Fonds pour l'adaptation, mené par la CASM dans le département de Gracias a Dios, au Honduras, pour protéger des communautés autochtones contre les inondations, les ouragans et l'élévation du niveau de la mer.",
-      "ru": "Спонсорская статья о четырёхлетнем проекте Адаптационного фонда стоимостью 4 млн долл. США, который реализует CASM в департаменте Грасьяс-а-Дьос в Гондурасе для защиты коренных общин от наводнений, ураганов и повышения уровня моря. Проект рассчитан на 18 тыс.",
-      "zh": "这是一篇赞助文章，介绍由CASM在洪都拉斯格拉西亚斯阿迪奥斯省实施的、为期四年、金额400万美元的适应基金项目，旨在保护原住民社区免受洪水、飓风和海平面上升的影响。项目计划通过预警、红树林恢复和太阳能供水系统惠及1.8万人，其中60%为女性。轨道：适应。",
-      "ar": "مقال برعاية عن مشروع لصندوق التكيف مدته أربع سنوات وتبلغ كلفته 4 ملايين دولار تنفذه منظمة CASM في مقاطعة غراسياس إيه ديوس في هندوراس لحماية مجتمعات الشعوب الأصلية من الفيضانات والأعاصير وارتفاع مستوى سطح البحر."
+      "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next.",
+      "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente.",
+      "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante.",
+      "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему.",
+      "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
+      "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات."
      },
      "description_i18n_method": "machine"
     },
@@ -369,9 +447,7 @@
     "publishers": [
      "UNFCCC / Simon Stiell"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-unfccc-2026-11-18-ndc-support",
     "section": "negotiations",
@@ -406,6 +482,41 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-17-honduras-coastal-resilience",
+    "section": "negotiations",
+    "score": 0.425,
+    "lead": {
+     "id": "climate-home-news-2026-11-17-honduras-coastal-resilience",
+     "title": "Building coastal resilience for local communities in Honduras",
+     "url": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
+     "publisher": "Climate Home News",
+     "author": "Adam Wentworth",
+     "published": "2026-11-17",
+     "language": "en",
+     "tracks": [
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Matéria patrocinada sobre um projeto de US$ 4 milhões e quatro anos do Fundo de Adaptação, executado pela CASM no departamento de Gracias a Dios, em Honduras, para proteger comunidades indígenas contra inundações, furacões e elevação do mar.",
+     "collected_at": "2026-11-18T18:16:49-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Sponsored article on a four-year, US$ 4 million Adaptation Fund project run by CASM in Honduras' Gracias a Dios department to protect Indigenous communities from flooding, hurricanes and sea-level rise.",
+      "es": "Artículo patrocinado sobre un proyecto de cuatro años y US$ 4 millones del Fondo de Adaptación, ejecutado por la CASM en el departamento de Gracias a Dios, en Honduras, para proteger a comunidades indígenas frente a inundaciones, huracanes y el aumento del nivel del mar.",
+      "fr": "Article sponsorisé sur un projet de quatre ans et 4 millions de dollars du Fonds pour l'adaptation, mené par la CASM dans le département de Gracias a Dios, au Honduras, pour protéger des communautés autochtones contre les inondations, les ouragans et l'élévation du niveau de la mer.",
+      "ru": "Спонсорская статья о четырёхлетнем проекте Адаптационного фонда стоимостью 4 млн долл. США, который реализует CASM в департаменте Грасьяс-а-Дьос в Гондурасе для защиты коренных общин от наводнений, ураганов и повышения уровня моря. Проект рассчитан на 18 тыс.",
+      "zh": "这是一篇赞助文章，介绍由CASM在洪都拉斯格拉西亚斯阿迪奥斯省实施的、为期四年、金额400万美元的适应基金项目，旨在保护原住民社区免受洪水、飓风和海平面上升的影响。项目计划通过预警、红树林恢复和太阳能供水系统惠及1.8万人，其中60%为女性。轨道：适应。",
+      "ar": "مقال برعاية عن مشروع لصندوق التكيف مدته أربع سنوات وتبلغ كلفته 4 ملايين دولار تنفذه منظمة CASM في مقاطعة غراسياس إيه ديوس في هندوراس لحماية مجتمعات الشعوب الأصلية من الفيضانات والأعاصير وارتفاع مستوى سطح البحر."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
     ]
    },
    {
@@ -1423,6 +1534,43 @@
    }
   ],
   "action": [
+   {
+    "id": "st-climate-home-news-2026-11-18-ocean-geoengineering",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "climate-home-news-2026-11-18-ocean-geoengineering",
+     "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
+     "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Oceanos",
+      "Decisão de cobertura",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Defensores dos oceanos e diplomatas alertam que o rascunho de acordo sobre oceanos na COP31 não deve ser lido como endosso à geoengenharia marinha, como a fertilização com ferro ou a intensificação da alcalinidade oceânica.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Ocean advocates and diplomats warn that the draft oceans agreement at COP31 should not be read as endorsing marine geoengineering, such as iron fertilisation or ocean alkalinity enhancement.",
+      "es": "Defensores de los océanos y diplomáticos advierten de que el borrador de acuerdo sobre océanos en la COP31 no debe interpretarse como un respaldo a la geoingeniería marina, como la fertilización con hierro o la mejora de la alcalinidad oceánica.",
+      "fr": "Des défenseurs des océans et des diplomates avertissent que le projet d'accord sur les océans à la COP31 ne doit pas être interprété comme un soutien à la géo-ingénierie marine, telle que la fertilisation par le fer ou l'amélioration de l'alcalinité des océans.",
+      "ru": "Сторонники защиты океанов и дипломаты предупреждают, что проект соглашения по океанам на КС-31 не следует рассматривать как поддержку морской геоинженерии, такой как внесение железа или повышение щёлочности океана.",
+      "zh": "海洋倡导者和外交官警告说，COP31的海洋协议草案不应被解读为对海洋地球工程（如铁施肥或海洋碱度增强）的认可。总括性决定草案包含一项增加二氧化碳移除的宽泛目标，欧盟对此表示反对，该目标可能不会保留在最终文本中。一些人支持对这些技术开展进一步研究，另一些人则主张应优先采用已被证明有效的海洋解决方案。",
+      "ar": "يحذر المدافعون عن المحيطات والدبلوماسيون من أن مسودة اتفاق المحيطات في مؤتمر الأطراف الحادي والثلاثين لا ينبغي أن تُفسَّر على أنها تأييد للهندسة الجيولوجية البحرية، مثل التسميد بالحديد أو تعزيز قلوية المحيطات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-cop31tr-smart-cities-call-2026-11-18",
     "section": "action",
@@ -3033,6 +3181,8 @@
    "bluesky-unep.org-20261118-comunicado-resfriamento",
    "can-2026-11-18-adaptation-fund-shamefully-inadequate",
    "climate-home-news-2026-11-17-honduras-coastal-resilience",
+   "climate-home-news-2026-11-19-bulletin-day-10",
+   "climate-home-news-2026-11-19-iea-weo-electrification",
    "cop31tr-2026-11-18-divan-ministerial",
    "cop31tr-2026-11-19-climate-club-oecd",
    "cop31tr-smart-cities-call-2026-11-18",
