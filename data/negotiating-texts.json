@@ -263,10 +263,22 @@
       "change": "new",
       "document_id": "10000381",
       "event_id": "145e7616dc132b0dda1afbe5"
+    },
+    {
+      "at": "2026-11-19T22:07:51.452855Z",
+      "change": "revised",
+      "document_id": "10000381",
+      "event_id": "87a4a7d921590aa2eebc27d2"
+    },
+    {
+      "at": "2026-11-19T22:07:51.452855Z",
+      "change": "new",
+      "document_id": "10000382",
+      "event_id": "b65d010715550330b87142a0"
     }
   ],
-  "checked_at": "2026-11-19T21:07:37.030178Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T22:07:51.452855Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3441,7 +3453,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "2c58a38a11c38ab97e7d3fe0a8ff633cebadc760fa1186987b4c5f61a8f1df84",
+          "sha256": "e73aa2a1bac12e8a8112da196fabe4a3518d90f94f5c6cffb36d58119a5ed5f8",
           "url": "https://docs.unfccc.int/documents/10000381/files/en/Art_6.2_funding_DD_DT_CMA2.pdf"
         }
       ],
@@ -3449,12 +3461,34 @@
       "document_code": "FCCC/PA/CMA/2026/L.6",
       "id": "10000381",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T20:58:35.187131Z",
-      "published_at": "2026-11-19T20:30:00Z",
+      "modified_at": "2026-11-19T22:07:41.972900Z",
+      "published_at": "2026-11-19T18:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000381/metadata",
       "status": "unknown",
       "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "429f25aca317e8bcac869e2d8761848da0d28c471dd89fbb0b331aa0670ba074",
+          "url": "https://docs.unfccc.int/documents/10000382/files/en/art_6.4_DT_cma85.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.4",
+      "id": "10000382",
+      "metadata_version": "6.0",
+      "modified_at": "2026-11-19T21:59:02.824275Z",
+      "published_at": "2026-11-19T20:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000382/metadata",
+      "status": "unknown",
+      "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Other negotiations",
       "withdrawn": false
     },
@@ -3563,9 +3597,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T21:56:47.880979Z",
-  "last_success": "2026-11-19T21:07:37.030178Z",
+  "history_count": 46,
+  "last_attempt": "2026-11-19T22:07:51.452855Z",
+  "last_success": "2026-11-19T22:07:51.452855Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
