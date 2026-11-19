@@ -1,29 +1,20 @@
 {
  "schema": 1,
- "generated_at": "2026-11-19T00:15:21-03:00",
+ "generated_at": "2026-11-19T06:20:00-03:00",
  "round": {
-  "timestamp": "2026-11-19T00:15:21-03:00",
-  "label": "19 nov 2026, 00:15 (Brasília)",
-  "sites_checked": 54,
-  "blocked": 15,
-  "new_items": 3,
-  "fetches": "60 de 60",
+  "timestamp": "2026-11-19T06:20:00-03:00",
+  "label": "19 nov 2026, 06:20 (Brasília)",
+  "sites_checked": 48,
+  "blocked": 6,
+  "new_items": 6,
+  "fetches": "56 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "web-climatechampions-unfccc-int-news",
-   "web-cop30-br-en-2026-priorities",
-   "web-unep-org-resources-emissions-gap-report-2026",
-   "web-iea-org-events-world-energy-outlook-2026",
+   "web-www4-unfccc-int-sites-submissionsstaging-pages-h",
    "web-chathamhouse-org-topics-climate-policy",
-   "web-ituc-csi-org-climate-justice",
-   "web-wwf-panda-org-wwf-news",
-   "web-christianaid-org-uk-news",
-   "web-foei-org-news",
-   "web-institutotalanoa-org-publicacoes",
-   "web-transforma-global",
+   "web-caneurope-org-news",
    "web-wemeanbusinesscoalition-org-news",
-   "web-carbon-pulse-com-category-international",
-   "web-climateanalytics-org-publications",
+   "web-eurodad-org-news",
    "web-ember-energy-org-latest-insights"
   ]
  },
@@ -45,6 +36,183 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "cop31tr-2026-11-19-climate-club-oecd",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "comunicado",
+   "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
+   "date": "2026-11-19",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
+   "summary": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento. O guia cobre cinco dimensões: estratégia e governança, prontidão nacional, formação de carteira de projetos, mobilização de financiamento e monitoramento e prestação de contas, com base na plataforma turca de investimento em descarbonização industrial. Apoia a prioridade de industrialização verde da Agenda de Ação.",
+   "summary_i18n": {
+    "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability, drawing on Türkiye's industrial decarbonisation investment platform. It supports the green industrialisation priority of the Action Agenda.",
+    "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión. La guía abarca cinco dimensiones: estrategia y gobernanza, preparación nacional, creación de una cartera de proyectos, movilización de financiación y seguimiento y rendición de cuentas, a partir de la plataforma turca de inversión en descarbonización industrial. Respalda la prioridad de industrialización verde de la Agenda de Acción.",
+    "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements. Le guide couvre cinq dimensions : stratégie et gouvernance, préparation nationale, constitution d'un portefeuille de projets, mobilisation des financements, et suivi et redevabilité, en s'appuyant sur la plateforme turque d'investissement dans la décarbonation industrielle. Il appuie la priorité d'industrialisation verte du Programme d'action.",
+    "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции. Руководство охватывает пять направлений: стратегию и управление, национальную готовность, формирование портфеля проектов, мобилизацию финансирования, а также мониторинг и подотчётность, опираясь на турецкую инвестиционную платформу промышленной декарбонизации. Оно поддерживает приоритет «зелёной» индустриализации Повестки дня действий.",
+    "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
+    "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار. وتشمل الإرشادات خمسة أبعاد هي الاستراتيجية والحوكمة، والجاهزية الوطنية، وإعداد حافظة المشاريع، وتعبئة التمويل، والرصد والمساءلة، استناداً إلى منصة الاستثمار التركية لإزالة الكربون الصناعي. وهي تدعم أولوية التصنيع الأخضر في خطة العمل."
+   },
+   "tracks": [
+    "Agenda de Ação",
+    "Presidência e anfitrião",
+    "Finanças"
+   ],
+   "quotes": [
+    "Tuğba Dinçbaş, Director of the COP31 Action Agenda: \"Country platforms are most effective when they are country-led, investment-focused and grounded in industrial realities.\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "cop31tr-2026-11-18-divan-ministerial",
+   "institution": "COP31 Presidency (Türkiye/Australia)",
+   "type": "notícia",
+   "title": "COP31 Presidency brought Türkiye's Divan tradition to final push for agreement",
+   "date": "2026-11-18",
+   "authors": "COP31 Presidency",
+   "url": "https://cop31.tr/news-detail/cop31-presidency-divan-tradition-final-push-for-agreement",
+   "summary": "O Presidente da COP31, Murat Kurum, e o Presidente das Negociações, Chris Bowen, recorreram à tradição turca do Divan, uma consulta informal e aberta, para ajudar os ministros a encontrar terreno comum na reta final em Antalya. A sessão tratou de temas transversais para mostrar como as diferentes trilhas poderiam compor um resultado global equilibrado, ligado à decisão de cobertura. A Presidência pediu que o progresso se convertesse em acordo antes do encerramento.",
+   "summary_i18n": {
+    "en": "COP31 President Murat Kurum and President of Negotiations Chris Bowen drew on Türkiye's Divan tradition, an informal and open consultation, to help ministers find common ground in the final stretch in Antalya. The session addressed cross-cutting issues to show how the different negotiating tracks could fit into a balanced overall outcome, linked to the cover decision. The Presidency urged Parties to turn that progress into an agreement before the close.",
+    "es": "El Presidente de la COP31, Murat Kurum, y el Presidente de las Negociaciones, Chris Bowen, recurrieron a la tradición turca del Divan, una consulta informal y abierta, para ayudar a los ministros a encontrar un terreno común en la recta final en Antalya. La sesión abordó cuestiones transversales para mostrar cómo los distintos ejes de negociación podrían integrarse en un resultado global equilibrado, vinculado a la decisión de cobertura. La Presidencia instó a convertir ese avance en un acuerdo antes de la clausura.",
+    "fr": "Le Président de la COP31, Murat Kurum, et le Président des négociations, Chris Bowen, se sont appuyés sur la tradition turque du Divan, une consultation informelle et ouverte, pour aider les ministres à trouver un terrain d'entente dans la dernière ligne droite à Antalya. La séance a abordé des questions transversales afin de montrer comment les différents volets de négociation pourraient s'intégrer dans un résultat global équilibré, lié à la décision de couverture. La présidence a exhorté les Parties à transformer ces progrès en accord avant la clôture.",
+    "ru": "Президент СОР31 Мурат Куррум и Президент переговоров Крис Боуэн обратились к турецкой традиции «Диван» — неформальным открытым консультациям — чтобы помочь министрам найти общую почву на финишной прямой в Анталье. На сессии обсуждались сквозные вопросы, чтобы показать, как разные переговорные треки могут сложиться в сбалансированный общий итог, связанный с решением-оболочкой. Президентство призвало Стороны превратить этот прогресс в соглашение до закрытия.",
+    "zh": "COP31主席穆拉特·库鲁姆（Murat Kurum）与谈判主席克里斯·鲍恩（Chris Bowen）借鉴土耳其的“迪万”（Divan）传统，即非正式、开放的协商方式，帮助部长们在安塔利亚的最后阶段寻找共识。会议讨论了跨领域议题，以说明各谈判议题如何组成与总括决定相关的平衡整体成果。主席团敦促各缔约方在闭幕前将这些进展转化为协议。",
+    "ar": "استندت رئيس مؤتمر الأطراف الحادي والثلاثين مراد كوروم ورئيس المفاوضات كريس بوين إلى تقليد «الديوان» التركي، وهو تشاور غير رسمي ومفتوح، لمساعدة الوزراء على إيجاد أرضية مشتركة في المرحلة الأخيرة في أنطاليا. وتناولت الجلسة قضايا شاملة لعدة مجالات لإظهار كيف يمكن لمسارات التفاوض المختلفة أن تندرج في نتيجة شاملة متوازنة مرتبطة بقرار الغطاء. وحثّت الرئاسة الأطراف على تحويل هذا التقدم إلى اتفاق قبل الاختتام."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "Murat Kurum, COP31 President: \"What we need at this stage is not so much to reiterate our respective positions\"",
+    "Chris Bowen, COP31 President of Negotiations: \"This is a chance for the world to show we can work together on climate change\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "e3g-2026-11-18-eu-uk-summit",
+   "institution": "E3G",
+   "type": "briefing",
+   "title": "Europe must maintain momentum on energy and climate cooperation at the EU-UK Summit",
+   "date": "2026-11-18",
+   "authors": "Eve Nieminen",
+   "url": "https://www.e3g.org/news/europe-must-maintain-momentum-on-energy-and-climate-cooperation-at-the-eu-uk-summit/",
+   "summary": "Às vésperas da cúpula UE-Reino Unido de 20 de novembro, em Bruxelas, a E3G pede que os líderes convertam os compromissos de eletrificação assumidos na COP31 em marcos concretos. As prioridades são vinculação de mercados de carbono, integração dos mercados de eletricidade, cooperação em eólica offshore nos Mares do Norte e política industrial. A análise trata da eletrificação como eixo de redução da dependência de combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Ahead of the 20 November EU-UK Summit in Brussels, E3G urges leaders to turn the electrification commitments made at COP31 into concrete milestones. Priorities include carbon market linking, electricity market integration, North Seas offshore wind cooperation and industrial policy. The analysis treats electrification as the axis for reducing dependence on fossil fuels.",
+    "es": "Ante la cumbre UE-Reino Unido del 20 de noviembre en Bruselas, E3G insta a los dirigentes a convertir los compromisos de electrificación asumidos en la COP31 en hitos concretos. Las prioridades son la vinculación de los mercados de carbono, la integración de los mercados de electricidad, la cooperación en energía eólica marina en los mares del Norte y la política industrial. El análisis considera la electrificación el eje para reducir la dependencia de los combustibles fósiles.",
+    "fr": "À la veille du sommet UE-Royaume-Uni du 20 novembre à Bruxelles, E3G invite les dirigeants à transformer les engagements d'électrification pris à la COP31 en jalons concrets. Les priorités sont le couplage des marchés du carbone, l'intégration des marchés de l'électricité, la coopération sur l'éolien en mer dans les mers du Nord et la politique industrielle. L'analyse considère l'électrification comme l'axe de réduction de la dépendance aux combustibles fossiles.",
+    "ru": "Накануне саммита ЕС — Великобритания 20 ноября в Брюсселе E3G призывает лидеров превратить обязательства по электрификации, принятые на СОР31, в конкретные этапы. Приоритеты включают связывание углеродных рынков, интеграцию рынков электроэнергии, сотрудничество по морской ветроэнергетике в Северных морях и промышленную политику. В анализе электрификация рассматривается как ось сокращения зависимости от ископаемого топлива.",
+    "zh": "在11月20日于布鲁塞尔举行的欧盟—英国峰会前夕，E3G敦促各国领导人将COP31上做出的电气化承诺转化为具体的里程碑。优先事项包括碳市场挂钩、电力市场一体化、北海海上风电合作和产业政策。分析将电气化视为减少对化石燃料依赖的核心路径。",
+    "ar": "عشية قمة الاتحاد الأوروبي والمملكة المتحدة المقررة في 20 نوفمبر في بروكسل، تحثّ E3G القادة على تحويل التزامات التكهرب التي قُطعت في مؤتمر الأطراف الحادي والثلاثين إلى معالم ملموسة. وتشمل الأولويات ربط أسواق الكربون، وتكامل أسواق الكهرباء، والتعاون في طاقة الرياح البحرية في بحار الشمال، والسياسة الصناعية. ويعدّ التحليل التكهرب محوراً لخفض الاعتماد على الوقود الأحفوري."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP",
+    "Comércio"
+   ],
+   "quotes": [
+    "E3G: \"neither can deliver the benefits of electrification alone\"",
+    "E3G: \"turn political ambition into concrete milestones and a roadmap for 2027\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-e3g-org-news"
+  },
+  {
+   "id": "can-2026-11-18-adaptation-fund-shamefully-inadequate",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "\"Shamefully Inadequate\": At COP31, wealthy countries fail to meet Finance obligations that would support developing countries hit by climate impacts",
+   "date": "2026-11-18",
+   "authors": "Climate Action Network International",
+   "url": "https://climatenetwork.org/2026/11/18/cop31-adaptation-fund-pledges-failure/",
+   "summary": "A CAN afirma que o diálogo de contribuintes do Fundo de Adaptação na COP31 rendeu só US$ 50 milhões em novas promessas (Espanha, Alemanha e Irlanda), um sexto do piso anual de US$ 300 milhões de mobilização de recursos. É o quarto ano seguido de déficit frente à meta de US$ 1,2 bilhão para 2026–2029, enquanto o Fundo recebeu pedidos recordes de quase US$ 2 bilhões. A rede cita a estimativa do UNEP de necessidades de adaptação de cerca de US$ 305 bilhões por ano até 2035.",
+   "summary_i18n": {
+    "en": "CAN says the Adaptation Fund's contributor dialogue at COP31 produced only US$50 million in new pledges (Spain, Germany and Ireland), one-sixth of the annual US$300 million resource mobilisation floor. It is the fourth straight year of shortfall against the US$1.2 billion target for 2026–2029, while the Fund has received record requests of nearly US$2 billion. The network cites the UNEP estimate of adaptation needs of about US$305 billion a year by 2035.",
+    "es": "La CAN afirma que el diálogo de contribuyentes del Fondo de Adaptación en la COP31 solo generó 50 millones de dólares en nuevas promesas (España, Alemania e Irlanda), una sexta parte del umbral anual de movilización de recursos de 300 millones. Es el cuarto año consecutivo de déficit frente a la meta de 1.200 millones de dólares para 2026–2029, mientras el Fondo ha recibido solicitudes récord de casi 2.000 millones. La red cita la estimación del PNUMA de necesidades de adaptación de unos 305.000 millones de dólares anuales para 2035.",
+    "fr": "Le CAN indique que le dialogue des contributeurs du Fonds pour l'adaptation à la COP31 n'a produit que 50 millions de dollars de nouvelles promesses (Espagne, Allemagne et Irlande), soit un sixième du plancher annuel de mobilisation de ressources de 300 millions. C'est la quatrième année consécutive de déficit par rapport à l'objectif de 1,2 milliard de dollars pour 2026–2029, alors que le Fonds a reçu des demandes record de près de 2 milliards. Le réseau cite l'estimation du PNUE selon laquelle les besoins d'adaptation atteindraient environ 305 milliards de dollars par an d'ici 2035.",
+    "ru": "CAN сообщает, что диалог доноров Адаптационного фонда на СОР31 принёс лишь 50 млн долл. США новых обязательств (Испания, Германия и Ирландия) — одну шестую от годового минимума мобилизации ресурсов в 300 млн долл. Это четвёртый год подряд с недобором относительно цели в 1,2 млрд долл. на 2026–2029 годы, тогда как Фонд получил рекордные заявки почти на 2 млрд долл. Сеть ссылается на оценку ЮНЕП: потребности в адаптации составят около 305 млрд долл. в год к 2035 году.",
+    "zh": "CAN表示，COP31上适应基金捐助方对话仅产生5000万美元新增认捐（西班牙、德国和爱尔兰），仅为每年3亿美元资源筹集下限的六分之一。这已是连续第四年未达2026–2029年12亿美元的目标，而该基金收到的申请额创下纪录，接近20亿美元。该网络引用联合国环境规划署（UNEP）的估算：到2035年适应需求约为每年3050亿美元。",
+    "ar": "تفيد شبكة العمل المناخي (CAN) بأن حوار المساهمين في صندوق التكيف في مؤتمر الأطراف الحادي والثلاثين لم يسفر إلا عن تعهدات جديدة قيمتها 50 مليون دولار (إسبانيا وألمانيا وأيرلندا)، أي سدس الحد الأدنى السنوي لتعبئة الموارد البالغ 300 مليون دولار. وهذه السنة الرابعة على التوالي من العجز مقارنة بهدف 1.2 مليار دولار للفترة 2026–2029، في حين تلقى الصندوق طلبات قياسية تقارب ملياري دولار. وتستشهد الشبكة بتقدير برنامج الأمم المتحدة للبيئة لاحتياجات التكيف بنحو 305 مليارات دولار سنوياً بحلول عام 2035."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "quotes": [
+    "Amos Wemanya, PowerShift Africa: \"Adaptation cannot run on applause. It needs money.\"",
+    "Pooja Dave, CAN International: \"Developed countries have offered a pittance, not a pledge to the Adaptation Fund.\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
+  },
+  {
+   "id": "350org-2026-11-18-eu-blocks-finance",
+   "institution": "350.org",
+   "type": "release",
+   "title": "EU wants 'strong signal' on energy transition but blocks finance to deliver it",
+   "date": "2026-11-18",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/eu-wants-strong-signal-on-energy-transition-but-blocks-finance-to-deliver-it/",
+   "summary": "A 350.org acusa a União Europeia de resistir a avanços em finanças climáticas na COP31, incluindo as conversas sobre triplicar o financiamento de adaptação e as obrigações de finanças públicas. O grupo pede que os países desenvolvidos forneçam ao menos US$ 120 bilhões por ano em adaptação pública e em doações até 2035, frente a necessidades superiores a US$ 420 bilhões. Cita a sessão do Fundo de Adaptação (US$ 50 milhões prometidos, contra US$ 135 milhões em 2025) e a análise do Carbon Brief de queda de mais de 70% nas promessas.",
+   "summary_i18n": {
+    "en": "350.org accuses the European Union of resisting progress on climate finance at COP31, including talks on tripling adaptation finance and public finance obligations. The group calls for developed countries to provide at least US$120 billion a year in public, grant-based adaptation finance by 2035, against needs above US$420 billion. It cites the Adaptation Fund session (US$50 million pledged, versus US$135 million in 2025) and Carbon Brief analysis showing pledges down by more than 70%.",
+    "es": "350.org acusa a la Unión Europea de resistirse a avanzar en la financiación climática en la COP31, incluidas las conversaciones sobre triplicar la financiación de la adaptación y las obligaciones de financiación pública. El grupo pide que los países desarrollados aporten al menos 120.000 millones de dólares anuales en financiación pública de adaptación mediante donaciones para 2035, frente a necesidades superiores a 420.000 millones. Cita la sesión del Fondo de Adaptación (50 millones prometidos, frente a 135 millones en 2025) y el análisis de Carbon Brief que muestra una caída de más del 70% en las promesas.",
+    "fr": "350.org accuse l'Union européenne de freiner les avancées sur le financement climatique à la COP31, y compris les discussions sur le triplement du financement de l'adaptation et les obligations de financement public. Le groupe demande aux pays développés de fournir au moins 120 milliards de dollars par an de financement public de l'adaptation sous forme de dons d'ici 2035, face à des besoins supérieurs à 420 milliards. Il cite la session du Fonds pour l'adaptation (50 millions promis, contre 135 millions en 2025) et l'analyse de Carbon Brief montrant une baisse de plus de 70 % des promesses.",
+    "ru": "350.org обвиняет Европейский союз в сопротивлении прогрессу в климатическом финансировании на СОР31, включая переговоры об утроении финансирования адаптации и обязательствах государственного финансирования. Группа призывает развитые страны предоставлять не менее 120 млрд долл. США в год государственного грантового финансирования адаптации к 2035 году при потребностях свыше 420 млрд долл. Она ссылается на сессию Адаптационного фонда (обещано 50 млн долл. против 135 млн в 2025 году) и анализ Carbon Brief, показывающий снижение обязательств более чем на 70%.",
+    "zh": "350.org指责欧盟在COP31上阻碍气候资金进展，包括关于将适应资金增至三倍和公共资金义务的谈判。该组织呼吁发达国家到2035年每年至少提供1200亿美元的公共赠款型适应资金，而需求超过4200亿美元。文中引用了适应基金会议（认捐5000万美元，2025年为1.35亿美元）以及Carbon Brief关于认捐下降逾70%的分析。",
+    "ar": "تتهم 350.org الاتحاد الأوروبي بعرقلة التقدم في التمويل المناخي في مؤتمر الأطراف الحادي والثلاثين، بما في ذلك المحادثات بشأن مضاعفة تمويل التكيف ثلاث مرات والتزامات التمويل العام. وتدعو المجموعة البلدان المتقدمة إلى تقديم ما لا يقل عن 120 مليار دولار سنوياً من التمويل العام للتكيف في شكل منح بحلول عام 2035، مقابل احتياجات تتجاوز 420 مليار دولار. وتشير إلى جلسة صندوق التكيف (50 مليون دولار مقابل 135 مليوناً في 2025) وإلى تحليل Carbon Brief الذي يظهر انخفاض التعهدات بأكثر من 70%."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação"
+   ],
+   "quotes": [
+    "Fanny Petitbon, 350.org: \"You can't demand action and then block the finance that makes this possible.\"",
+    "Rukiya Khamis, 350.org: \"Africa cannot simply sign on to a pledge without the money to carry it out.\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "icc-2026-11-18-business-to-ministers",
+   "institution": "ICC",
+   "type": "comunicado",
+   "title": "Business to COP31 ministers: \"Give the real economy the confidence to act\"",
+   "date": "2026-11-18",
+   "authors": "ICC",
+   "url": "https://iccwbo.org/news-publications/news/business-to-cop31-ministers-give-the-real-economy-the-confidence-to-act/",
+   "summary": "Em nome do setor privado, a ICC pediu aos ministros da COP31 sinais de política claros e críveis para o investimento de longo prazo. Propõe três decisões: um pacote abrangente de eletrificação, uma agenda de financiamento mais ampla que use bancos multilaterais de desenvolvimento para atrair capital privado, e um resultado em adaptação que torne a resiliência investível. A entidade quer mais que uma declaração geral de intenção na decisão final.",
+   "summary_i18n": {
+    "en": "On behalf of business, ICC urged COP31 ministers to give clear and credible policy signals for long-term investment. It proposes three decisions: a comprehensive electrification package, a broader financing agenda that uses multilateral development banks to attract private capital, and an adaptation outcome that makes resilience investable. The organisation wants more than a general statement of intent in the final decision.",
+    "es": "En nombre del sector empresarial, la ICC pidió a los ministros de la COP31 señales de política claras y creíbles para la inversión a largo plazo. Propone tres decisiones: un paquete integral de electrificación, una agenda de financiación más amplia que utilice los bancos multilaterales de desarrollo para atraer capital privado, y un resultado en adaptación que haga la resiliencia invertible. La entidad quiere algo más que una declaración general de intenciones en la decisión final.",
+    "fr": "Au nom des entreprises, la CCI a demandé aux ministres de la COP31 de donner des signaux politiques clairs et crédibles pour l'investissement à long terme. Elle propose trois décisions : un paquet global d'électrification, un programme de financement plus large qui s'appuie sur les banques multilatérales de développement pour attirer des capitaux privés, et un résultat sur l'adaptation qui rende la résilience investissable. L'organisation attend davantage qu'une déclaration d'intention générale dans la décision finale.",
+    "ru": "От имени бизнеса ICC призвала министров СОР31 дать чёткие и убедительные политические сигналы для долгосрочных инвестиций. Она предлагает три решения: комплексный пакет по электрификации, более широкую повестку финансирования с привлечением многосторонних банков развития для мобилизации частного капитала и итог по адаптации, делающий устойчивость привлекательной для инвестиций. Организация ожидает от итогового решения большего, чем общего заявления о намерениях.",
+    "zh": "国际商会（ICC）代表企业界呼吁COP31部长们为长期投资发出清晰可信的政策信号。其提出三项决定：全面的电气化一揽子方案、借助多边开发银行吸引私人资本的更广泛融资议程，以及使韧性可投资的适应成果。该组织希望最终决定不止于笼统的意向声明。",
+    "ar": "حثّت غرفة التجارة الدولية (ICC)، باسم قطاع الأعمال، وزراء مؤتمر الأطراف الحادي والثلاثين على إرسال إشارات سياساتية واضحة وموثوقة للاستثمار طويل الأجل. وتقترح ثلاثة قرارات: حزمة شاملة للتكهرب، وجدول أعمال تمويلي أوسع يستخدم مصارف التنمية المتعددة الأطراف لاجتذاب رأس المال الخاص، ونتيجة في مجال التكيف تجعل القدرة على الصمود قابلة للاستثمار. وتريد المنظمة ما هو أكثر من بيان عام عن النوايا في القرار الختامي."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Finanças",
+    "Adaptação",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "ICC: \"Give the real economy the confidence to act.\"",
+    "ICC: \"Let us leave this COP having given the real economy more than a general statement of intent.\""
+   ],
+   "first_seen": "2026-11-19T06:20:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
   {
    "id": "bluesky-audreygarric.bsky.social-20261118-taxar-fosseis",
    "kind": "post",
@@ -25665,64 +25833,35 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T05:45:37-03:00",
-  "label": "19 nov 2026, 05:45 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
-  "new_items": 5,
+  "timestamp": "2026-11-19T06:43:09-03:00",
+  "label": "19 nov 2026, 06:43 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
    "ig-turkiyecop31",
-   "yt-turkiyecop31",
    "x-murat-kurum",
    "ig-muratkurum",
-   "x-iklimbaskanligi",
-   "x-abayraktar",
-   "x-samedagirbas",
    "ig-chrisbowenmp",
-   "x-dcceew",
    "x-unfccc",
-   "ig-unclimatechange",
    "yt-unclimatechangeevents",
-   "yt-unclimatechange",
    "x-simonstiell",
    "x-aosischair",
-   "ig-aosis-chair",
    "x-ldcchairunfccc",
-   "x-cfrn-org",
-   "x-caricomorg",
    "x-ireland2026eu",
-   "x-wbhoekstra",
    "x-lulaoficial",
-   "ig-lulaoficial",
    "x-mmeioambiente",
-   "ig-mmeioambiente",
    "x-itamaratygovbr",
    "x-marinasilva",
-   "ig-marinasilvaoficial",
    "ig-institutotalanoa",
-   "x-talanoareal",
-   "yt-pol-tica-por-inteiro",
    "x-unatalie",
    "ig-observatoriodoclima",
-   "x-obsclima",
-   "x-moefcc",
-   "x-byadavbjp",
    "x-canintl",
-   "ig-greenpeaceturkiye",
-   "x-powershftafrica",
    "x-hiz-2026",
-   "ig-halklariniklimzirvesi",
-   "x-lossanddamage",
-   "x-e3g",
-   "x-climateactiontr",
-   "x-iisd-enb",
    "x-carbonpulse",
-   "x-turkeyrecap",
-   "x-fatmavarank",
-   "x-miatsf",
-   "x-wmo"
+   "x-fatmavarank"
   ]
  }
 }
