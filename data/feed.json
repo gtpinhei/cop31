@@ -1,24 +1,30 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18T18:16:49-03:00",
+ "generated_at": "2026-11-19T00:15:21-03:00",
  "round": {
-  "timestamp": "2026-11-18T18:16:49-03:00",
-  "label": "18 nov 2026, 18:16 (Brasília)",
-  "sites_checked": 51,
-  "blocked": 9,
-  "new_items": 7,
-  "fetches": "58 de 60",
+  "timestamp": "2026-11-19T00:15:21-03:00",
+  "label": "19 nov 2026, 00:15 (Brasília)",
+  "sites_checked": 54,
+  "blocked": 15,
+  "new_items": 3,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-climatechampions-unfccc-int-news",
+   "web-cop30-br-en-2026-priorities",
    "web-unep-org-resources-emissions-gap-report-2026",
    "web-iea-org-events-world-energy-outlook-2026",
-   "web-caneurope-org-news",
-   "web-icccad-net-news",
-   "web-eurodad-org-news",
-   "web-odi-org-en-insights",
-   "web-twn-my-title2-climate-climate-updates-htm",
-   "web-politicaporinteiro-org-en"
+   "web-chathamhouse-org-topics-climate-policy",
+   "web-ituc-csi-org-climate-justice",
+   "web-wwf-panda-org-wwf-news",
+   "web-christianaid-org-uk-news",
+   "web-foei-org-news",
+   "web-institutotalanoa-org-publicacoes",
+   "web-transforma-global",
+   "web-wemeanbusinesscoalition-org-news",
+   "web-carbon-pulse-com-category-international",
+   "web-climateanalytics-org-publications",
+   "web-ember-energy-org-latest-insights"
   ]
  },
  "tracks": [
@@ -39,6 +45,93 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-18-gst2-launch",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "\"An ambitious outcome is within reach,\" UN Climate Chief at COP31 event to launch the second global stocktake",
+   "date": "2026-11-18",
+   "authors": "Simon Stiell (UN Climate Change)",
+   "url": "https://unfccc.int/news/an-ambitious-outcome-is-within-reach-un-climate-chief-at-cop31-event-to-launch-the-second-global",
+   "summary": "No evento ministerial que lançou o segundo balanço global (GST2) na COP31, Simon Stiell disse que o processo deve ser honesto e baseado na equidade, partindo das metas do primeiro balanço (triplicar renováveis e dobrar a eficiência energética até 2030). Ele lembrou que 90% das Partes refletiram os resultados do primeiro balanço em seus planos nacionais e que o GST2 termina na COP33, daqui a dois anos. Incide na trilha GST2 e IPCC.",
+   "summary_i18n": {
+    "en": "At the ministerial event launching the second global stocktake (GST2) at COP31, Simon Stiell said the process must be honest and grounded in equity, building on the first stocktake goals (tripling renewables and doubling energy efficiency by 2030). He noted that 90% of Parties reflected the first stocktake outcomes in their national plans and that GST2 concludes at COP33, two years from now. It bears on the GST2 and IPCC track.",
+    "es": "En el evento ministerial que lanzó el segundo balance mundial (GST2) en la COP31, Simon Stiell afirmó que el proceso debe ser honesto y estar basado en la equidad, partiendo de las metas del primer balance (triplicar las renovables y duplicar la eficiencia energética para 2030). Recordó que el 90% de las Partes reflejó los resultados del primer balance en sus planes nacionales y que el GST2 concluye en la COP33, dentro de dos años. Incide en la vía de GST2 e IPCC.",
+    "fr": "Lors de l'événement ministériel de lancement du deuxième bilan mondial (GST2) à la COP31, Simon Stiell a déclaré que le processus doit être honnête et fondé sur l'équité, en s'appuyant sur les objectifs du premier bilan (tripler les renouvelables et doubler l'efficacité énergétique d'ici 2030). Il a rappelé que 90 % des Parties ont reflété les résultats du premier bilan dans leurs plans nationaux et que le GST2 s'achève à la COP33, dans deux ans. Cela concerne le volet GST2 et GIEC.",
+    "ru": "На министерском мероприятии по запуску второго глобального подведения итогов (GST2) на КС-31 Саймон Стилл заявил, что процесс должен быть честным и основанным на справедливости, опираясь на цели первого подведения итогов (утроить возобновляемую энергетику и удвоить энергоэффективность к 2030 году). Он напомнил, что 90% Сторон отразили итоги первого подведения итогов в своих национальных планах и что GST2 завершится на КС-33, через два года. Это относится к направлению GST2 и МГЭИК.",
+    "zh": "在COP31启动第二次全球盘点（GST2）的部长级活动上，西蒙·斯蒂尔表示，该进程必须诚实并以公平为基础，延续首次盘点的目标（到2030年将可再生能源增至三倍、能效提高一倍）。他指出，90%的缔约方已在国家计划中体现了首次盘点的成果，GST2将在两年后的COP33结束。这涉及GST2与IPCC议题。",
+    "ar": "خلال الفعالية الوزارية لإطلاق الحصيلة العالمية الثانية (GST2) في مؤتمر الأطراف الحادي والثلاثين، قال سيمون ستيل إن العملية يجب أن تكون صادقة وقائمة على الإنصاف، وأن تبني على أهداف الحصيلة الأولى (مضاعفة الطاقة المتجددة ثلاث مرات ومضاعفة كفاءة الطاقة بحلول عام 2030). وأشار إلى أن 90% من الأطراف عكست نتائج الحصيلة الأولى في خططها الوطنية وأن GST2 ستُختتم في مؤتمر الأطراف الثالث والثلاثين بعد عامين. ويتصل ذلك بمسار GST2 والهيئة الحكومية الدولية المعنية بتغير المناخ."
+   },
+   "tracks": [
+    "GST2 e IPCC",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Simon Stiell: \"This work must be honest. It must be grounded in equity.\"",
+    "Simon Stiell: \"But an ambitious outcome is within reach.\"",
+    "Simon Stiell: \"90% of Parties reflected the outcomes of the first global stocktake in their national climate plans\""
+   ],
+   "first_seen": "2026-11-19T00:15:21-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-18-just-transitions-gender",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "All women and girls, men and boys must have a voice in shaping just transitions: UN Climate Chief",
+   "date": "2026-11-18",
+   "authors": "Simon Stiell (UN Climate Change)",
+   "url": "https://unfccc.int/news/all-women-and-girls-men-and-boys-must-have-a-voice-in-shaping-just-transitions-un-climate-chief",
+   "summary": "Em evento de alto nível na COP31 sobre gênero e transições justas, Stiell argumentou que os benefícios da transição não chegarão a todos automaticamente e que mulheres, meninas, homens e meninos precisam ter voz em sua construção. Citou modelagem da OIT segundo a qual homens ocuparão 5 dos 7 milhões de empregos perdidos em setores intensivos em carbono até 2030 e apontou o Plano de Ação de Gênero de Belém como base. Incide na trilha de Transição justa.",
+   "summary_i18n": {
+    "en": "At a high-level COP31 event on gender and just transitions, Stiell argued that the benefits of the transition will not reach everyone automatically and that women, girls, men and boys must have a voice in shaping it. He cited ILO modelling that men will hold 5 of the 7 million jobs lost in carbon-intensive sectors by 2030 and pointed to the Belém Gender Action Plan as a foundation. It bears on the Just Transition track.",
+    "es": "En un evento de alto nivel de la COP31 sobre género y transiciones justas, Stiell sostuvo que los beneficios de la transición no llegarán automáticamente a todos y que las mujeres, las niñas, los hombres y los niños deben tener voz en su configuración. Citó estimaciones de la OIT según las cuales los hombres ocuparán 5 de los 7 millones de empleos perdidos en sectores intensivos en carbono para 2030 y señaló el Plan de Acción de Género de Belém como base. Incide en la vía de Transición justa.",
+    "fr": "Lors d'un événement de haut niveau de la COP31 sur le genre et les transitions justes, M. Stiell a soutenu que les bénéfices de la transition n'atteindront pas automatiquement tout le monde et que les femmes, les filles, les hommes et les garçons doivent avoir voix au chapitre. Il a cité des projections de l'OIT selon lesquelles les hommes occuperont 5 des 7 millions d'emplois perdus dans les secteurs à forte intensité de carbone d'ici 2030 et a désigné le Plan d'action pour l'égalité des genres de Belém comme socle. Cela concerne le volet Transition juste.",
+    "ru": "На мероприятии высокого уровня КС-31 по гендерным вопросам и справедливым переходам Стилл заявил, что выгоды перехода не дойдут до всех автоматически и что женщины, девочки, мужчины и мальчики должны иметь право голоса в его формировании. Он сослался на моделирование МОТ, согласно которому мужчины займут 5 из 7 млн рабочих мест, которые будут потеряны в углеродоёмких секторах к 2030 году, и назвал основой Белемский гендерный план действий. Это относится к направлению «Справедливый переход».",
+    "zh": "在COP31关于性别与公正转型的高级别活动上，斯蒂尔指出，转型的惠益不会自动惠及所有人，妇女、女孩、男子和男孩都应在塑造转型中拥有发言权。他援引国际劳工组织的模型，称到2030年高碳行业流失的700万个岗位中，男性将占500万个，并以《贝伦性别行动计划》为基础。这涉及公正转型议题。",
+    "ar": "خلال فعالية رفيعة المستوى في مؤتمر الأطراف الحادي والثلاثين حول المساواة بين الجنسين والانتقال العادل، رأى ستيل أن فوائد الانتقال لن تصل إلى الجميع تلقائياً وأن على النساء والفتيات والرجال والفتيان أن يكون لهم صوت في صياغته. واستشهد بنمذجة لمنظمة العمل الدولية تفيد بأن الرجال سيشغلون 5 من أصل 7 ملايين وظيفة ستُفقد في القطاعات الكثيفة الكربون بحلول عام 2030، وأشار إلى خطة عمل بيليم للمساواة بين الجنسين كأساس. ويتصل ذلك بمسار الانتقال العادل."
+   },
+   "tracks": [
+    "Transição justa"
+   ],
+   "quotes": [
+    "Simon Stiell: \"the benefits of the transition will not reach everyone automatically.\"",
+    "Simon Stiell: \"ILO modelling estimates men will hold 5 of the 7 million jobs lost in carbon-intensive sectors by 2030.\""
+   ],
+   "first_seen": "2026-11-19T00:15:21-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-18-ndc-support",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "Countries call for finance and technical support to turn climate plans into action at COP31",
+   "date": "2026-11-18",
+   "authors": "UN Climate Change",
+   "url": "https://unfccc.int/news/countries-call-for-finance-and-technical-support-to-turn-climate-plans-into-action-at-cop31",
+   "summary": "Na sessão \"Catalyzing Support for NDCs\", ministros e representantes de Panamá, São Cristóvão e Nevis, Camarões e Uganda pediram mais finanças, apoio técnico e cooperação para implementar as NDCs nos países em desenvolvimento, com o papel dos Centros Regionais de Colaboração. A ministra de Uganda disse que não se pode aplicar uma abordagem única para todos. Incide nas trilhas de Finanças e Mitigação.",
+   "summary_i18n": {
+    "en": "At the \"Catalyzing Support for NDCs\" session, ministers and representatives of Panama, Saint Kitts and Nevis, Cameroon and Uganda called for more finance, technical support and cooperation to implement NDCs in developing countries, highlighting the role of the Regional Collaboration Centres. Uganda's minister said a one-size-fits-all approach cannot work. It bears on the Finance and Mitigation tracks.",
+    "es": "En la sesión \"Catalyzing Support for NDCs\", ministros y representantes de Panamá, San Cristóbal y Nieves, Camerún y Uganda pidieron más financiación, apoyo técnico y cooperación para aplicar las NDC en los países en desarrollo, destacando el papel de los Centros Regionales de Colaboración. La ministra de Uganda dijo que no cabe un enfoque único para todos. Incide en las vías de Finanzas y Mitigación.",
+    "fr": "Lors de la session « Catalyzing Support for NDCs », des ministres et représentants du Panama, de Saint-Kitts-et-Nevis, du Cameroun et de l'Ouganda ont appelé à davantage de financement, d'appui technique et de coopération pour mettre en œuvre les CDN dans les pays en développement, soulignant le rôle des Centres régionaux de collaboration. La ministre ougandaise a déclaré qu'une approche unique ne peut pas convenir à tous. Cela concerne les volets Finance et Atténuation.",
+    "ru": "На сессии «Catalyzing Support for NDCs» министры и представители Панамы, Сент-Китс и Невис, Камеруна и Уганды призвали к увеличению финансирования, технической поддержки и сотрудничества для реализации НОУ в развивающихся странах, подчеркнув роль региональных центров сотрудничества. Министр Уганды заявила, что единый подход для всех невозможен. Это относится к направлениям «Финансы» и «Смягчение».",
+    "zh": "在“Catalyzing Support for NDCs”会议上，巴拿马、圣基茨和尼维斯、喀麦隆和乌干达的部长及代表呼吁提供更多资金、技术支持与合作，以便发展中国家落实国家自主贡献，并强调区域协作中心的作用。乌干达部长表示，不能采用一刀切的方法。这涉及资金与减缓议题。",
+    "ar": "في جلسة «Catalyzing Support for NDCs»، دعا وزراء وممثلون من بنما وسانت كيتس ونيفيس والكاميرون وأوغندا إلى مزيد من التمويل والدعم التقني والتعاون لتنفيذ المساهمات المحددة وطنياً في البلدان النامية، مع إبراز دور مراكز التعاون الإقليمية. وقالت وزيرة أوغندا إنه لا يمكن اعتماد نهج واحد يناسب الجميع. ويتصل ذلك بمساري التمويل والتخفيف."
+   },
+   "tracks": [
+    "Finanças",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "Beatrice Anywar Atim (Uganda): \"We cannot design a one-size-fits-all approach and expect it to be implemented in all developing countries.\"",
+    "Juan Carlos Navarro (Panama): \"We do not need more commitments to remain on paper.\""
+   ],
+   "first_seen": "2026-11-19T00:15:21-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "actionaid-2026-11-18-eu-villain",
    "institution": "ActionAid International",
