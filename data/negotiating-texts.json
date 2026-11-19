@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-18T16:27:31.159409Z",
-      "change": "revised",
-      "document_id": "10000326",
-      "event_id": "ce0383d4b7dd69b91d5e39d7"
-    },
-    {
       "at": "2026-11-18T19:06:59.347274Z",
       "change": "reinstated",
       "document_id": "10000305",
@@ -254,7 +248,7 @@
     }
   ],
   "checked_at": "2026-11-19T16:26:53.920105Z",
-  "degraded": false,
+  "degraded": true,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3460,8 +3454,8 @@
       "withdrawn": false
     }
   ],
-  "history_count": 42,
-  "last_attempt": "2026-11-19T16:26:53.920105Z",
+  "error": "Official document check failed; last successful data retained.",
+  "last_attempt": "2026-11-19T16:36:38.971359Z",
   "last_success": "2026-11-19T16:26:53.920105Z",
   "schema": 1,
   "sources": [
