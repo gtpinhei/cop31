@@ -125,10 +125,22 @@
       "change": "reinstated",
       "document_id": "10000305",
       "event_id": "babd6f1a4d1ecd9d95fcd08a"
+    },
+    {
+      "at": "2026-11-19T05:07:47.128953Z",
+      "change": "withdrawn",
+      "document_id": "10000332",
+      "event_id": "4aab8659d4650e5d0d03e3ed"
+    },
+    {
+      "at": "2026-11-19T05:07:47.128953Z",
+      "change": "new",
+      "document_id": "10000358",
+      "event_id": "cf103be3ec875b5fea83ce28"
     }
   ],
-  "checked_at": "2026-11-19T04:46:56.532707Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T05:07:47.128953Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -523,7 +535,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "1855101e5dbe3b38ee79adbea49cede65ab0a3dc6c5cdf05812c3ea7b5ce7675",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000332/files/en/GST_NDC_DT_cma81.pdf"
         }
       ],
@@ -531,10 +543,32 @@
       "document_code": "DT.CMA8.i4.2",
       "id": "10000332",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-16T12:12:55.671567Z",
+      "modified_at": "2026-11-19T04:58:44.782367Z",
       "published_at": "2026-11-16T11:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000332/metadata",
+      "status": "withdrawn",
+      "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
+      "topic": "GST / IPCC",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 4",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "3b02c2357389179bafa2f70998d02252871a70714ba5e4dbf8e421444da0ec59",
+          "url": "https://docs.unfccc.int/documents/10000358/files/en/GST_NDC_DT_cma82.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i4.3",
+      "id": "10000358",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T04:55:27.560474Z",
+      "published_at": "2026-11-19T04:45:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000358/metadata",
       "status": "draft",
       "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
       "topic": "GST / IPCC",
@@ -2938,9 +2972,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T04:56:58.839633Z",
-  "last_success": "2026-11-19T04:46:56.532707Z",
+  "history_count": 23,
+  "last_attempt": "2026-11-19T05:07:47.128953Z",
+  "last_success": "2026-11-19T05:07:47.128953Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
