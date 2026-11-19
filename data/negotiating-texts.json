@@ -227,10 +227,22 @@
       "change": "new",
       "document_id": "10000374",
       "event_id": "4a676fb4715ddb9d3c33b773"
+    },
+    {
+      "at": "2026-11-19T15:27:32.620917Z",
+      "change": "withdrawn",
+      "document_id": "10000374",
+      "event_id": "5d229df4c04b2489fd27f50c"
+    },
+    {
+      "at": "2026-11-19T15:27:32.620917Z",
+      "change": "revised",
+      "document_id": "10000369",
+      "event_id": "a76606f20abd67c5ff76b7b6"
     }
   ],
-  "checked_at": "2026-11-19T14:57:03.719102Z",
-  "degraded": true,
+  "checked_at": "2026-11-19T15:27:32.620917Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -779,7 +791,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "ee11386ea017c3559be3260f497f5e6befddc45e9818426c77aee05ff23ec239",
+          "sha256": "4601c194d163472efc513fc3efff5fbdb4a790434d35ddf9c3f52af5b25845bc",
           "url": "https://docs.unfccc.int/documents/10000369/files/en/UAE%20JTWP_DT_SB651.pdf"
         }
       ],
@@ -787,7 +799,7 @@
       "document_code": "DT.CMA8.i5.1",
       "id": "10000369",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-19T14:53:48.966177Z",
+      "modified_at": "2026-11-19T15:27:20.974422Z",
       "published_at": "2026-11-19T11:40:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000369/metadata",
@@ -3278,14 +3290,14 @@
       "document_code": "DT.CMA8.i18.2",
       "id": "10000374",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T14:54:58.847434Z",
+      "modified_at": "2026-11-19T15:16:58.396696Z",
       "published_at": "2026-11-19T14:45:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000374/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Arrangements for funding infrastructure, processes and capacity-building for implementing the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "SBSTA 65 6; SBI 65 6",
@@ -3392,9 +3404,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T15:16:32.164975Z",
-  "last_success": "2026-11-19T14:57:03.719102Z",
+  "history_count": 40,
+  "last_attempt": "2026-11-19T15:27:32.620917Z",
+  "last_success": "2026-11-19T15:27:32.620917Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
