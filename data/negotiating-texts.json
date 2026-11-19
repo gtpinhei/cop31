@@ -137,9 +137,15 @@
       "change": "new",
       "document_id": "10000358",
       "event_id": "cf103be3ec875b5fea83ce28"
+    },
+    {
+      "at": "2026-11-19T05:37:04.485384Z",
+      "change": "new",
+      "document_id": "10000359",
+      "event_id": "c48af2a8223ccafc3ce23809"
     }
   ],
-  "checked_at": "2026-11-19T05:27:31.209891Z",
+  "checked_at": "2026-11-19T05:37:04.485384Z",
   "degraded": false,
   "documents": [
     {
@@ -2890,6 +2896,28 @@
       "withdrawn": true
     },
     {
+      "agenda": "COP 31 9(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4bef1e76175f87e6ab3fa82d04a22469d7c0e3285e17b516ef7d7a4b8b2ff2b0",
+          "url": "https://docs.unfccc.int/documents/10000359/files/en/CTCN_review_DT_cp312.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.9c.3",
+      "id": "10000359",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-19T05:35:45.761988Z",
+      "published_at": "2026-11-19T05:35:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000359/metadata",
+      "status": "draft",
+      "title": "Third review of the effective implementation of the Climate Technology Centre and Network",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -2972,9 +3000,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 23,
-  "last_attempt": "2026-11-19T05:27:31.209891Z",
-  "last_success": "2026-11-19T05:27:31.209891Z",
+  "history_count": 24,
+  "last_attempt": "2026-11-19T05:37:04.485384Z",
+  "last_success": "2026-11-19T05:37:04.485384Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
