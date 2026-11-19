@@ -1,21 +1,26 @@
 {
  "schema": 1,
- "generated_at": "2026-11-19T06:20:00-03:00",
+ "generated_at": "2026-11-19T12:18:19-03:00",
  "round": {
-  "timestamp": "2026-11-19T06:20:00-03:00",
-  "label": "19 nov 2026, 06:20 (Brasília)",
-  "sites_checked": 48,
-  "blocked": 6,
-  "new_items": 6,
-  "fetches": "56 de 60",
+  "timestamp": "2026-11-19T12:18:19-03:00",
+  "label": "19 nov 2026, 12:18 (Brasília)",
+  "sites_checked": 41,
+  "blocked": 11,
+  "new_items": 4,
+  "fetches": "58 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
-   "web-www4-unfccc-int-sites-submissionsstaging-pages-h",
-   "web-chathamhouse-org-topics-climate-policy",
    "web-caneurope-org-news",
-   "web-wemeanbusinesscoalition-org-news",
+   "web-chathamhouse-org-topics-climate-policy",
+   "web-climateanalytics-org-publications",
+   "web-climatechampions-unfccc-int-news",
+   "web-ember-energy-org-latest-insights",
    "web-eurodad-org-news",
-   "web-ember-energy-org-latest-insights"
+   "web-iea-org-events-world-energy-outlook-2026",
+   "web-ituc-csi-org-climate-justice",
+   "web-odi-org-en-insights",
+   "web-unep-org-resources-emissions-gap-report-2026",
+   "web-wemeanbusinesscoalition-org-news"
   ]
  },
  "tracks": [
@@ -36,6 +41,150 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "bluesky-carbonbrief.org-20261119-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-19",
+   "time": "06:46",
+   "text": "[resumo da fonte] Carbon Brief's daily briefing video covers transition roadmaps, data-centre emissions and a disaster in Fiji, with links to the full briefing and email sign-up.",
+   "summary": "O Daily Briefing em vídeo do Carbon Brief de 19 de novembro cobre roteiros de transição, emissões de data centers e um desastre em Fiji.",
+   "summary_i18n": {
+    "en": "Carbon Brief's 19 November Daily Briefing video covers transition roadmaps, data-centre emissions and a disaster in Fiji.",
+    "es": "El vídeo del Daily Briefing de Carbon Brief del 19 de noviembre cubre hojas de ruta de transición, emisiones de los centros de datos y un desastre en Fiyi.",
+    "fr": "La vidéo du Daily Briefing de Carbon Brief du 19 novembre couvre les feuilles de route de transition, les émissions des centres de données et une catastrophe aux Fidji.",
+    "ru": "В видеобрифинге Carbon Brief от 19 ноября: дорожные карты перехода, выбросы дата-центров и стихийное бедствие на Фиджи.",
+    "zh": "Carbon Brief 11月19日每日简报视频涵盖转型路线图、数据中心排放以及斐济发生的灾害。",
+    "ar": "يغطي فيديو النشرة اليومية لـ Carbon Brief بتاريخ 19 نوفمبر خرائط طريق الانتقال وانبعاثات مراكز البيانات وكارثة في فيجي."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2nrzhr3el2a",
+   "tracks": [
+    "Transição justa",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-19T12:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261119-miliband-35x35",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-19",
+   "time": "08:48",
+   "text": "[resumo da fonte] Interview clip in which UK Energy Secretary Ed Miliband discusses the 35x35 electrification pledge proposed by the Turkish presidency.",
+   "summary": "Carbon Brief publica trecho de entrevista em que Ed Miliband comenta o compromisso de eletrificação 35x35 proposto pela presidência turca.",
+   "summary_i18n": {
+    "en": "Carbon Brief shares an interview clip in which Ed Miliband discusses the 35x35 electrification pledge proposed by the Turkish presidency.",
+    "es": "Carbon Brief comparte un fragmento de entrevista en el que Ed Miliband habla del compromiso de electrificación 35x35 propuesto por la presidencia turca.",
+    "fr": "Carbon Brief partage un extrait d'entretien dans lequel Ed Miliband évoque l'engagement d'électrification 35x35 proposé par la présidence turque.",
+    "ru": "Carbon Brief публикует фрагмент интервью, в котором Эд Милибэнд обсуждает обязательство по электрификации 35x35, предложенное турецким председательством.",
+    "zh": "Carbon Brief 分享了一段采访片段，埃德·米利班德谈及土耳其主席国提出的35x35电气化承诺。",
+    "ar": "تنشر Carbon Brief مقطعاً من مقابلة يناقش فيها إد ميليباند تعهد كهربة 35×35 الذي اقترحته الرئاسة التركية."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2nyvd2yd22e",
+   "tracks": [
+    "Eletrificação",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-19T12:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "climate-home-news-2026-11-19-iea-weo-electrification",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
+   "date": "2026-11-19",
+   "authors": "Sebastian Rodriguez, Matteo Civillini",
+   "url": "https://www.climatechangenews.com/2026/11/19/iea-report-hormuz-crisis-climate-electrification-shift-cop31-35x35-pledge/",
+   "summary": "O World Energy Outlook da IEA diz que o conflito no Irã, descrito como o maior choque de oferta de energia da história, levou 25 países, em sua maioria asiáticos, a anunciar novas políticas de eletrificação desde fevereiro. Fatih Birol pede que a COP31 apoie a promessa de elevar a eletrificação de 23% para 35% do consumo final de energia até 2035, endossada por cerca de 75 países. A IEA alerta que as políticas atuais ainda apontam para 2,9 °C até 2100 e estima que uma transição alinhada a 1,5 °C elevaria o investimento anual em energia limpa a cerca de US$ 4,5 tri e criaria 15,6 milhões de empregos no setor até 2035.",
+   "summary_i18n": {
+    "en": "The IEA's World Energy Outlook says the conflict in Iran, described as the biggest energy supply shock in history, has led 25 countries, mostly in Asia, to announce new electrification policies since February. Fatih Birol urges COP31 to back the pledge to raise electrification from 23% to 35% of final energy consumption by 2035, endorsed by around 75 countries. The IEA warns that current policies still point to 2.9 °C of warming by 2100 and estimates that a 1.5 °C-aligned transition would lift annual clean energy investment to about US$ 4.5 trillion and create 15.6 million energy-sector jobs by 2035.",
+    "es": "El World Energy Outlook de la AIE señala que el conflicto en Irán, descrito como la mayor perturbación del suministro energético de la historia, ha llevado a 25 países, la mayoría asiáticos, a anunciar nuevas políticas de electrificación desde febrero. Fatih Birol insta a la COP31 a respaldar el compromiso de elevar la electrificación del 23% al 35% del consumo final de energía para 2035, apoyado por unos 75 países. La AIE advierte de que las políticas actuales aún apuntan a 2,9 °C de calentamiento en 2100 y estima que una transición alineada con 1,5 °C elevaría la inversión anual en energía limpia a unos US$ 4,5 billones y crearía 15,6 millones de empleos en el sector para 2035.",
+    "fr": "Le World Energy Outlook de l'AIE indique que le conflit en Iran, décrit comme le plus grand choc d'approvisionnement énergétique de l'histoire, a conduit 25 pays, pour la plupart asiatiques, à annoncer de nouvelles politiques d'électrification depuis février. Fatih Birol invite la COP31 à soutenir l'engagement de porter l'électrification de 23 % à 35 % de la consommation finale d'énergie d'ici 2035, approuvé par environ 75 pays. L'AIE avertit que les politiques actuelles mènent encore à 2,9 °C de réchauffement d'ici 2100 et estime qu'une transition alignée sur 1,5 °C porterait l'investissement annuel dans l'énergie propre à environ 4 500 milliards de dollars et créerait 15,6 millions d'emplois dans le secteur d'ici 2035.",
+    "ru": "В докладе МЭА World Energy Outlook говорится, что конфликт в Иране, названный крупнейшим в истории потрясением энергоснабжения, побудил 25 стран, в основном азиатских, с февраля объявить новые меры по электрификации. Фатих Бироль призывает КС-31 поддержать обязательство повысить долю электричества в конечном потреблении энергии с 23% до 35% к 2035 году, которое поддерживают около 75 стран. МЭА предупреждает, что нынешняя политика по-прежнему ведёт к потеплению на 2,9 °C к 2100 году, и оценивает, что переход, совместимый с 1,5 °C, увеличит ежегодные инвестиции в чистую энергетику примерно до 4,5 трлн долл. США и создаст 15,6 млн рабочих мест в энергетике к 2035 году.",
+    "zh": "国际能源署《世界能源展望》指出，被称为史上最大能源供应冲击的伊朗冲突，自2月以来已促使25个国家（多数在亚洲）宣布新的电气化政策。法提赫·比罗尔敦促COP31支持到2035年将电力在终端能源消费中的占比从23%提高到35%的承诺，目前约75个国家表示支持。国际能源署警告说，现行政策仍会导致到2100年升温2.9 °C，并估计与1.5 °C相符的转型将使每年清洁能源投资增至约4.5万亿美元，到2035年创造1560万个能源领域就业岗位。",
+    "ar": "يقول تقرير «آفاق الطاقة العالمية» الصادر عن وكالة الطاقة الدولية إن النزاع في إيران، الذي وُصف بأنه أكبر صدمة في إمدادات الطاقة في التاريخ، دفع 25 بلداً، معظمها آسيوي، إلى الإعلان عن سياسات جديدة للكهربة منذ شباط/فبراير. ويحث فاتح بيرول مؤتمر الأطراف الحادي والثلاثين على دعم التعهد برفع حصة الكهرباء من الاستهلاك النهائي للطاقة من 23% إلى 35% بحلول عام 2035، وهو تعهد يؤيده نحو 75 بلداً. وتحذر الوكالة من أن السياسات الحالية ما زالت تؤدي إلى احترار قدره 2.9 درجة مئوية بحلول عام 2100، وتقدّر أن انتقالاً متسقاً مع 1.5 درجة مئوية سيرفع الاستثمار السنوي في الطاقة النظيفة إلى نحو 4.5 تريليون دولار ويوفر 15.6 مليون وظيفة في قطاع الطاقة بحلول عام 2035."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"we would like to see more energy and less emissions\" (Fatih Birol, IEA)"
+   ],
+   "first_seen": "2026-11-19T12:18:19-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climate-home-news-2026-11-19-bulletin-day-10",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 10: Ministers' exchange makes little clear progress",
+   "date": "2026-11-19",
+   "authors": "Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/19/cop31-bulletin-day-10-ministers-exchange-makes-little-concrete-progress/",
+   "summary": "Uma reunião ministerial fechada em formato \"divan\" sobre a decisão de cobertura da COP31 foi descrita como construtiva, mas aproximou pouco as posições; um segundo rascunho é esperado. Alguns ministros temem que não haja acordo, embora as copresidências garantam que haverá, e o representante da UE Darragh O'Brien disse que o clima foi menos confrontacional que no ano passado. O ministro de Tuvalu, Maina Talia, sugeriu que a linguagem sobre combustíveis fósseis deve ficar fora do texto de cobertura.",
+   "summary_i18n": {
+    "en": "A closed-door ministerial \"divan\" meeting on the COP31 cover decision was described as constructive but narrowed few differences; a second draft is expected. Some ministers fear no agreement will be reached, although the co-presidencies assured them there will be one, and the EU's Darragh O'Brien said the mood was less confrontational than last year. Tuvalu's climate minister Maina Talia suggested that fossil fuel language will be left out of the cover text.",
+    "es": "Una reunión ministerial a puerta cerrada en formato «divan» sobre la decisión de cobertura de la COP31 fue descrita como constructiva, pero acercó poco las posiciones; se espera un segundo borrador. Algunos ministros temen que no se alcance un acuerdo, aunque las copresidencias les aseguraron que lo habrá, y Darragh O'Brien, de la UE, dijo que el ambiente fue menos confrontacional que el año pasado. El ministro de Tuvalu, Maina Talia, sugirió que el lenguaje sobre combustibles fósiles quedará fuera del texto de cobertura.",
+    "fr": "Une réunion ministérielle à huis clos au format « divan » sur la décision de couverture de la COP31 a été décrite comme constructive, mais n'a guère rapproché les positions ; un deuxième projet est attendu. Certains ministres craignent qu'aucun accord ne soit conclu, bien que les coprésidences leur aient assuré qu'il y en aura un, et Darragh O'Brien, pour l'UE, a jugé le climat moins conflictuel que l'an dernier. Le ministre du climat de Tuvalu, Maina Talia, a laissé entendre que le langage sur les combustibles fossiles sera exclu du texte de couverture.",
+    "ru": "Закрытая министерская встреча в формате «диван» по итоговому (покрывающему) решению КС-31 была названа конструктивной, но почти не сблизила позиции; ожидается второй проект. Некоторые министры опасаются, что соглашения не будет, хотя сопредседатели заверили их в обратном, а представитель ЕС Даррах О'Брайен отметил, что атмосфера менее конфронтационная, чем в прошлом году. Министр по климату Тувалу Майна Талиа предположил, что формулировки о ископаемом топливе будут исключены из текста решения.",
+    "zh": "一场关于COP31总括性决定的闭门部长级“divan”会议被形容为富有建设性，但几乎没有缩小分歧；预计将出现第二稿。一些部长担心无法达成协议，尽管共同主席国保证一定会有协议，欧盟的达拉·奥布赖恩表示气氛不像去年那样对立。图瓦卢气候部长迈纳·塔利亚表示，化石燃料表述似乎将被排除在总括性文本之外。",
+    "ar": "وُصف اجتماع وزاري مغلق بصيغة «الديوان» حول قرار التغطية في مؤتمر الأطراف الحادي والثلاثين بأنه بنّاء لكنه لم يقرّب المواقف كثيراً، ويُتوقع صدور مسودة ثانية. ويخشى بعض الوزراء ألا يتم التوصل إلى اتفاق، رغم تأكيد الرئاستين المشتركتين أنه سيتحقق، وقال دارّاغ أوبراين ممثل الاتحاد الأوروبي إن الأجواء كانت أقل مواجهة مما كانت عليه العام الماضي. وأشار وزير المناخ في توفالو مينا تاليا إلى أن لغة الوقود الأحفوري ستُستبعد من نص قرار التغطية."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"Let us listen to one another, broaden our common ground and translate what is possible into concrete outcomes.\" (Murat Kurum)",
+    "\"it seems to be that fossil fuel language will be out\" (Maina Talia, Tuvalu)"
+   ],
+   "first_seen": "2026-11-19T12:18:19-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climate-home-news-2026-11-19-bangladesh-finance",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+   "date": "2026-11-19",
+   "authors": "Shaikh Faridul Islam",
+   "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+   "summary": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo. Ele afirma que as negociações em Antalya ainda não refletem as necessidades de financiamento dos países em desenvolvimento e pede um plano concreto para entregar a meta de Baku e triplicar o financiamento de adaptação. Também alerta que o fundo de perdas e danos está subfinanciado e que as nações vulneráveis precisam sair da COP31 sabendo quando chegarão as doações de adaptação.",
+   "summary_i18n": {
+    "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next. He says the talks in Antalya have not yet reflected developing countries' finance needs and calls for a concrete plan to deliver the Baku goal and the tripling of adaptation finance. He also warns that the loss and damage fund is under-resourced and that vulnerable nations should leave COP31 knowing when adaptation grants will arrive.",
+    "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente. Afirma que las negociaciones en Antalya aún no reflejan las necesidades de financiación de los países en desarrollo y pide un plan concreto para cumplir la meta de Bakú y triplicar la financiación para la adaptación. También advierte de que el fondo de pérdidas y daños carece de recursos y de que las naciones vulnerables deben salir de la COP31 sabiendo cuándo llegarán las donaciones para la adaptación.",
+    "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante. Il affirme que les négociations d'Antalya ne reflètent pas encore les besoins de financement des pays en développement et appelle à un plan concret pour atteindre l'objectif de Bakou et tripler le financement de l'adaptation. Il avertit aussi que le fonds pour les pertes et préjudices manque de ressources et que les pays vulnérables doivent quitter la COP31 en sachant quand les subventions pour l'adaptation arriveront.",
+    "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему. Он отмечает, что переговоры в Анталье пока не отражают потребности развивающихся стран в финансировании, и призывает к конкретному плану по достижению Бакинской цели и утроению финансирования адаптации. Он также предупреждает, что Фонд по потерям и ущербу недофинансирован и что уязвимые страны должны покинуть КС-31, зная, когда поступят гранты на адаптацию.",
+    "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
+    "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات. ويحذر أيضاً من أن صندوق الخسائر والأضرار يعاني نقص الموارد، وأن على الدول الضعيفة أن تغادر المؤتمر وهي تعرف موعد وصول منح التكيف."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Perdas e danos"
+   ],
+   "quotes": [
+    "\"Bangladesh arrived at COP31 having committed substantial public resources to protecting our people from climate change.\" (Shaikh Faridul Islam)"
+   ],
+   "first_seen": "2026-11-19T12:18:19-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
   {
    "id": "cop31tr-2026-11-19-climate-club-oecd",
    "institution": "COP31 Presidency (Türkiye/Australia)",
@@ -64,6 +213,64 @@
    "first_seen": "2026-11-19T06:20:00-03:00",
    "lang": "en",
    "source_id": "web-cop31-tr"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261118-miliband-lideranca",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-18",
+   "time": "13:22",
+   "text": "[resumo da fonte] Interview in which Ed Miliband, a COP veteran, argues the UK is still seen as a climate leader, particularly on electrification and clean power.",
+   "summary": "Em entrevista ao Carbon Brief, Ed Miliband afirma que o Reino Unido ainda é visto como líder climático, sobretudo em eletrificação e energia limpa.",
+   "summary_i18n": {
+    "en": "In a Carbon Brief interview, Ed Miliband argues the UK is still seen as a climate leader, particularly on electrification and clean power.",
+    "es": "En una entrevista con Carbon Brief, Ed Miliband sostiene que el Reino Unido sigue siendo visto como líder climático, en particular en electrificación y energía limpia.",
+    "fr": "Dans un entretien avec Carbon Brief, Ed Miliband soutient que le Royaume-Uni reste perçu comme un chef de file climatique, notamment en matière d'électrification et d'énergie propre.",
+    "ru": "В интервью Carbon Brief Эд Милибэнд утверждает, что Соединённое Королевство по-прежнему воспринимается как климатический лидер, особенно в электрификации и чистой энергетике.",
+    "zh": "在接受 Carbon Brief 采访时，埃德·米利班德表示，英国仍被视为气候领导者，尤其是在电气化和清洁电力方面。",
+    "ar": "في مقابلة مع Carbon Brief، يرى إد ميليباند أن المملكة المتحدة لا تزال تُعتبر رائدة في مجال المناخ، ولا سيما في الكهربة والطاقة النظيفة."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2lxownuhk2g",
+   "tracks": [
+    "Eletrificação",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-19T12:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "climate-home-news-2026-11-18-ocean-geoengineering",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
+   "date": "2026-11-18",
+   "authors": "Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
+   "summary": "Defensores dos oceanos e diplomatas alertam que o rascunho de acordo sobre oceanos na COP31 não deve ser lido como endosso à geoengenharia marinha, como a fertilização com ferro ou a intensificação da alcalinidade oceânica. O rascunho da decisão de cobertura inclui uma meta ampla de aumentar a remoção de dióxido de carbono, à qual a UE se opõe e que pode não sobreviver ao texto final. Alguns apoiam mais pesquisa sobre essas técnicas, enquanto outros defendem priorizar soluções oceânicas comprovadas.",
+   "summary_i18n": {
+    "en": "Ocean advocates and diplomats warn that the draft oceans agreement at COP31 should not be read as endorsing marine geoengineering, such as iron fertilisation or ocean alkalinity enhancement. The draft cover decision includes a broad goal to increase carbon dioxide removal, which the EU opposes and which may not survive into the final text. Some back further research into these techniques, while others argue that proven ocean solutions should take priority.",
+    "es": "Defensores de los océanos y diplomáticos advierten de que el borrador de acuerdo sobre océanos en la COP31 no debe interpretarse como un respaldo a la geoingeniería marina, como la fertilización con hierro o la mejora de la alcalinidad oceánica. El borrador de la decisión de cobertura incluye un objetivo amplio de aumentar la eliminación de dióxido de carbono, al que se opone la UE y que podría no sobrevivir al texto final. Algunos apoyan seguir investigando estas técnicas, mientras que otros sostienen que deben priorizarse las soluciones oceánicas ya probadas.",
+    "fr": "Des défenseurs des océans et des diplomates avertissent que le projet d'accord sur les océans à la COP31 ne doit pas être interprété comme un soutien à la géo-ingénierie marine, telle que la fertilisation par le fer ou l'amélioration de l'alcalinité des océans. Le projet de décision de couverture comprend un objectif général d'augmenter l'élimination du dioxyde de carbone, auquel l'UE s'oppose et qui pourrait ne pas figurer dans le texte final. Certains soutiennent la poursuite de la recherche sur ces techniques, tandis que d'autres estiment qu'il faut donner la priorité aux solutions océaniques éprouvées.",
+    "ru": "Сторонники защиты океанов и дипломаты предупреждают, что проект соглашения по океанам на КС-31 не следует рассматривать как поддержку морской геоинженерии, такой как внесение железа или повышение щёлочности океана. Проект итогового решения содержит общую цель увеличить удаление диоксида углерода, против которой выступает ЕС и которая может не попасть в окончательный текст. Одни поддерживают дальнейшие исследования этих методов, другие считают, что приоритет должен быть отдан проверенным океанским решениям.",
+    "zh": "海洋倡导者和外交官警告说，COP31的海洋协议草案不应被解读为对海洋地球工程（如铁施肥或海洋碱度增强）的认可。总括性决定草案包含一项增加二氧化碳移除的宽泛目标，欧盟对此表示反对，该目标可能不会保留在最终文本中。一些人支持对这些技术开展进一步研究，另一些人则主张应优先采用已被证明有效的海洋解决方案。",
+    "ar": "يحذر المدافعون عن المحيطات والدبلوماسيون من أن مسودة اتفاق المحيطات في مؤتمر الأطراف الحادي والثلاثين لا ينبغي أن تُفسَّر على أنها تأييد للهندسة الجيولوجية البحرية، مثل التسميد بالحديد أو تعزيز قلوية المحيطات. وتتضمن مسودة قرار التغطية هدفاً عاماً لزيادة إزالة ثاني أكسيد الكربون، ويعارضه الاتحاد الأوروبي وقد لا يبقى في النص النهائي. ويؤيد البعض مواصلة البحث في هذه التقنيات، بينما يرى آخرون أن الأولوية ينبغي أن تكون للحلول المحيطية المثبتة."
+   },
+   "tracks": [
+    "Oceanos",
+    "Decisão de cobertura",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "\"A lot of the science there is unproven and we are cautioning against that.\" (Ilana Seid, Palau)",
+    "\"We can perhaps another day talk about those technologies if we're going to need them.\" (Steven Guilbeault)"
+   ],
+   "first_seen": "2026-11-19T12:18:19-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
   },
   {
    "id": "bluesky-enb.iisd.org-20261118-adaptation-finance-ldf",
@@ -26003,11 +26210,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-19T11:45:00-03:00",
-  "label": "19 nov 2026, 11:45 (Brasília)",
+  "timestamp": "2026-11-19T12:50:00-03:00",
+  "label": "19 nov 2026, 12:50 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": [
    "x-turkiyecop31",
