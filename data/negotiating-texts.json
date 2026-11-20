@@ -179,9 +179,15 @@
       "change": "revised",
       "document_id": "10000386",
       "event_id": "2fb930a7b119ea080b2b1573"
+    },
+    {
+      "at": "2026-11-20T17:47:31.843015Z",
+      "change": "withdrawn",
+      "document_id": "10000362",
+      "event_id": "45181c402dc7e5e822b86c90"
     }
   ],
-  "checked_at": "2026-11-20T17:36:56.458885Z",
+  "checked_at": "2026-11-20T17:47:31.843015Z",
   "degraded": false,
   "documents": [
     {
@@ -3193,7 +3199,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "5bb292cda6575bbf3d0e34406cc70ee7d955a5904e7e8d835e6867a197875473",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000362/files/en/art_6.2_DT_cma83.pdf"
         }
       ],
@@ -3201,14 +3207,14 @@
       "document_code": "DT.CMA8.i16a.4",
       "id": "10000362",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-19T11:37:37.867539Z",
+      "modified_at": "2026-11-20T17:40:43.048712Z",
       "published_at": "2026-11-19T11:00:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000362/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 3(b); CMA 8 3(b)",
@@ -3862,9 +3868,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 30,
-  "last_attempt": "2026-11-20T17:36:56.458885Z",
-  "last_success": "2026-11-20T17:36:56.458885Z",
+  "history_count": 31,
+  "last_attempt": "2026-11-20T17:47:31.843015Z",
+  "last_success": "2026-11-20T17:47:31.843015Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
