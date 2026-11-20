@@ -181,7 +181,7 @@
       "event_id": "60f5ae896d16df09bd79fcb9"
     }
   ],
-  "checked_at": "2026-11-20T22:57:28.296317Z",
+  "checked_at": "2026-11-20T23:07:33.124725Z",
   "degraded": false,
   "documents": [
     {
@@ -704,7 +704,13 @@
     },
     {
       "agenda": "CMA 8 4",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000358/files/en/GST_NDC_DT_cma82.pdf"
+        }
+      ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i4.3",
       "id": "10000358",
@@ -2894,7 +2900,13 @@
     },
     {
       "agenda": "COP 31 13",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000343/files/en/PRLTGG_DT_cp312.pdf"
+        }
+      ],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.i13.3",
       "id": "10000343",
@@ -3134,7 +3146,13 @@
     },
     {
       "agenda": "COP 31 9(b); CMA 8 12(b)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000360/files/en/CTC%20Host_DT_SBI653.pdf"
+        }
+      ],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i9b_CMA8.i12b.2",
       "id": "10000360",
@@ -3150,7 +3168,13 @@
     },
     {
       "agenda": "CMA 8 16(b)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000361/files/en/art_6.4_DT_cma84.pdf"
+        }
+      ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16b.4",
       "id": "10000361",
@@ -3166,7 +3190,13 @@
     },
     {
       "agenda": "CMA 8 16(a)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000362/files/en/art_6.2_DT_cma83.pdf"
+        }
+      ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16a.4",
       "id": "10000362",
@@ -3346,7 +3376,13 @@
     },
     {
       "agenda": "COP 31 2(g)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000379/files/en/dates_venues_DT_cp31.pdf"
+        }
+      ],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.i2g.1",
       "id": "10000379",
@@ -3896,8 +3932,8 @@
     }
   ],
   "history_count": 30,
-  "last_attempt": "2026-11-20T22:57:28.296317Z",
-  "last_success": "2026-11-20T22:57:28.296317Z",
+  "last_attempt": "2026-11-20T23:07:33.124725Z",
+  "last_success": "2026-11-20T23:07:33.124725Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
