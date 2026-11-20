@@ -17,13 +17,28 @@ Empty sections are left empty and the page hides them.
 Safety: the new edition is validated and written atomically; on any error the previous edition stays in place.
 When the agents' rounds are older than 12 hours the edition is flagged stale instead of claiming a quiet day.
 """
-import datetime, json, math, os, pathlib, re, sys, tempfile
+import datetime, hashlib, json, math, os, pathlib, re, sys, tempfile
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TZ = datetime.timezone(datetime.timedelta(hours=3))      # Antalya
 WINDOW_DAYS = 3
 TOP = 8
 STALE_H = 12
+
+# Reviewed correction for one published metadata-only collection record. Require the exact
+# input summaries as well as id + URL: a later collection or edit may have a different basis.
+_COVER_ID = 'unfccc-2026-11-19-cover-decision-draft'
+_COVER_URL = 'https://unfccc.int/documents/665726'
+_COVER_METADATA_DIGEST = '7c04298e9653ec142776b261cccc17f1fa5b0c189830e587042dbbc526b62e6f'
+_COVER_METADATA_DESC = {
+    "pt": "Resumo baseado só no título e nos metadados; o texto não foi lido. A UNFCCC publicou em 19 de novembro o rascunho da decisão de cobertura das consultas da Presidência da COP31.",
+    "en": "Summary based only on the title and metadata; the text was not read. UNFCCC posted the draft cover decision from the COP31 Presidency consultations on 19 November.",
+    "es": "Resumen basado solo en el título y los metadatos; no se leyó el texto. La CMNUCC publicó el 19 de noviembre el borrador de la decisión de cobertura de las consultas de la presidencia de la COP31.",
+    "fr": "Résumé fondé uniquement sur le titre et les métadonnées ; le texte n’a pas été lu. La CCNUCC a publié le 19 novembre le projet de décision de couverture issu des consultations de la présidence de la COP31.",
+    "ru": "Резюме основано только на названии и метаданных; сам текст не читался. РКИК ООН опубликовала 19 ноября проект общего решения по итогам консультаций под руководством Президентства COP31.",
+    "zh": "摘要仅依据标题和元数据；案文本身未经阅读。《联合国气候变化框架公约》于11月19日发布了COP31主席团磋商的总括决定案文草案。",
+    "ar": "الملخص مبني على العنوان والبيانات الوصفية فقط؛ لم يُقرأ النص نفسه. نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر مسودة القرار الشامل من مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين.",
+}
 
 # priority publishers named by the editor (matched on institution, case-insensitive)
 PRIORITY = [r"carbon brief", r"climate home", r"\benb\b|earth negotiations", r"\becco\b", r"talanoa|pol[ií]tica por inteiro",
@@ -177,7 +192,20 @@ def group(items):
     return list(groups.values())
 
 
+
+def reviewed_cover_descriptions(it):
+    """Preserve the original title/metadata-only disclosure for the exact reviewed record."""
+    if it.get("id") != _COVER_ID or it.get("url") != _COVER_URL:
+        return None
+    evidence = [it.get("summary"), it.get("summary_i18n")]
+    encoded = json.dumps(evidence, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+    if hashlib.sha256(encoded).hexdigest() == _COVER_METADATA_DIGEST:
+        return _COVER_METADATA_DESC
+    return None
+
+
 def public_item(it):
+    reviewed = reviewed_cover_descriptions(it)
     title = it.get("title")
     if not title and it["_kind"] == "post":
         txt = re.sub(r"\s+", " ", it.get("text") or "").strip()      # the post's own words, briefly, in its language
@@ -188,7 +216,7 @@ def public_item(it):
            "publisher": it.get("institution"), "author": it.get("authors") or None, "published": it["_day"].isoformat(),
            "time": it.get("time") or None, "language": it.get("lang") or None, "tracks": it.get("tracks") or [],
            "content_type": it["_ctype"], "kind": it["_kind"], "platform": it.get("platform") if it["_kind"] == "post" else None,
-           "description": short(it.get("summary") or ""), "collected_at": it.get("first_seen"),
+           "description": reviewed["pt"] if reviewed else short(it.get("summary") or ""), "collected_at": it.get("first_seen"),
            "validation": "registry source, collected by the monitor"}
     for fld in ("url_i18n", "title_i18n"):        # a publication in several languages (EN + PT editions)
         m = {k: v for k, v in (it.get(fld) or {}).items() if isinstance(v, str) and v.strip()
@@ -196,7 +224,8 @@ def public_item(it):
         if m:
             pub[fld] = m
     i18n = it.get("summary_i18n") or {}
-    pub["description_i18n"] = {k: short(v) for k, v in i18n.items() if isinstance(v, str) and v.strip()}
+    pub["description_i18n"] = ({k: v for k, v in reviewed.items() if k != "pt"} if reviewed else
+                               {k: short(v) for k, v in i18n.items() if isinstance(v, str) and v.strip()})
     if pub["description_i18n"]:
         pub["description_i18n_method"] = "machine"
     return {k: v for k, v in pub.items() if v not in (None, [], {})}

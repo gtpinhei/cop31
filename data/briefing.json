@@ -126,16 +126,16 @@
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "Rascunho do texto da decisão de cobertura, preparado pelas consultas da Presidência da COP31 em formato conduzido pela Presidência e orientado pelas Partes. O documento foi publicado no portal da UNFCCC em 19 de novembro, no momento em que o novo rascunho era aguardado após a conversa ministerial.",
+     "description": "Resumo baseado só no título e nos metadados; o texto não foi lido. A UNFCCC publicou em 19 de novembro o rascunho da decisão de cobertura das consultas da Presidência da COP31.",
      "collected_at": "2026-11-20T00:15:41-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Draft text of the cover decision, prepared under the COP31 Presidency's consultations in a Presidency-led, Party-driven format. The document was posted on the UNFCCC portal on 19 November, as the new draft was awaited after the ministerial exchange. Summary based only on metadata and the title;",
-      "es": "Borrador del texto de la decisión de cobertura, preparado en las consultas de la Presidencia de la COP31 con un formato dirigido por la Presidencia e impulsado por las Partes. El documento se publicó en el portal de la CMNUCC el 19 de noviembre, cuando se esperaba el nuevo borrador tras el intercambio ministerial.",
-      "fr": "Projet de texte de la décision de couverture, établi dans le cadre des consultations de la présidence de la COP31, selon un format piloté par la présidence et mené par les Parties.",
-      "ru": "Проект текста общего решения, подготовленный в ходе консультаций Президентства COP31 в формате, который возглавляет Президентство и определяют Стороны. Документ опубликован на портале РКИК ООН 19 ноября, когда после министерского обмена мнениями ожидался новый проект. Резюме основано только на метаданных и названии;",
-      "zh": "在COP31主席团磋商下编写的总括决定案文草案，采用由主席团牵头、缔约方主导的形式。该文件于11月19日发布在《联合国气候变化框架公约》门户网站上，此前部长级交流后正等待新草案。摘要仅依据元数据和标题；案文本身未经阅读。",
-      "ar": "مشروع نص القرار الشامل الذي أُعدّ في إطار مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين بصيغة تقودها الرئاسة وتوجّهها الأطراف. نُشرت الوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر، في وقت كان يُنتظر فيه المشروع الجديد بعد التبادل الوزاري."
+      "en": "Summary based only on the title and metadata; the text was not read. UNFCCC posted the draft cover decision from the COP31 Presidency consultations on 19 November.",
+      "es": "Resumen basado solo en el título y los metadatos; no se leyó el texto. La CMNUCC publicó el 19 de noviembre el borrador de la decisión de cobertura de las consultas de la presidencia de la COP31.",
+      "fr": "Résumé fondé uniquement sur le titre et les métadonnées ; le texte n’a pas été lu. La CCNUCC a publié le 19 novembre le projet de décision de couverture issu des consultations de la présidence de la COP31.",
+      "ru": "Резюме основано только на названии и метаданных; сам текст не читался. РКИК ООН опубликовала 19 ноября проект общего решения по итогам консультаций под руководством Президентства COP31.",
+      "zh": "摘要仅依据标题和元数据；案文本身未经阅读。《联合国气候变化框架公约》于11月19日发布了COP31主席团磋商的总括决定案文草案。",
+      "ar": "الملخص مبني على العنوان والبيانات الوصفية فقط؛ لم يُقرأ النص نفسه. نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر مسودة القرار الشامل من مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين."
      },
      "description_i18n_method": "machine"
     },

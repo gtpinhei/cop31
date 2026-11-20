@@ -59,6 +59,26 @@ class Briefing(unittest.TestCase):
         self.assertEqual(lead["description_i18n_method"], "machine")
         self.assertIn("ar", lead["description_i18n"])
 
+
+    def test_reviewed_cover_descriptions_require_id_url_and_exact_evidence(self):
+        # Primary feed is not part of this patch. Its reviewed evidence is fingerprinted,
+        # so a future editorial/source change must never inherit the historical label.
+        source = json.loads((REPO / "data" / "feed.json").read_text())["items"]
+        reviewed = next((x for x in source if x.get("id") == B._COVER_ID), None)
+        if reviewed is None or B.reviewed_cover_descriptions(reviewed) is None:
+            self.skipTest("historical record absent or changed; never transfer its old qualification")
+        cooked = B.public_item(dict(reviewed, _kind="publication", _day=NOW.date(), _ctype="official"))
+        public_text = dict(cooked["description_i18n"], pt=cooked["description"])
+        self.assertEqual(public_text, B._COVER_METADATA_DESC)
+        self.assertEqual(set(public_text), {"pt", "en", "es", "fr", "ru", "zh", "ar"})
+        self.assertTrue(all(len(text) <= 320 for text in public_text.values()))
+        self.assertTrue(public_text["en"].startswith("Summary based only on the title and metadata; the text was not read."))
+        for change in ({"id": "another-row"}, {"url": "https://unfccc.int/documents/other"},
+                       {"summary": "A later source summary."},
+                       {"summary_i18n": dict(reviewed["summary_i18n"], en="A later summary.")}):
+            with self.subTest(change=tuple(change)):
+                self.assertIsNone(B.reviewed_cover_descriptions(dict(reviewed, **change)))
+
     def test_links_must_be_direct_and_https(self):
         items = [item(1, url="http://insecure.example.org/a"), item(2, url="https://www.example.org/"),
                  item(3, kind="post", platform="x", account="@acc", institution="UNFCCC", url="https://x.com/acc", text="[TESTE] post"),
