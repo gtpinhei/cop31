@@ -1,24 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-19T14:57:03.719102Z",
-      "change": "withdrawn",
-      "document_id": "10000335",
-      "event_id": "66d87611caab4fd531cee925"
-    },
-    {
-      "at": "2026-11-19T14:57:03.719102Z",
-      "change": "revised",
-      "document_id": "10000369",
-      "event_id": "918c7553f4a69e8dd99fbb3d"
-    },
-    {
-      "at": "2026-11-19T14:57:03.719102Z",
-      "change": "new",
-      "document_id": "10000374",
-      "event_id": "4a676fb4715ddb9d3c33b773"
-    },
-    {
       "at": "2026-11-19T15:27:32.620917Z",
       "change": "withdrawn",
       "document_id": "10000374",
@@ -185,9 +167,21 @@
       "change": "new",
       "document_id": "10000388",
       "event_id": "c71a083c167e9bcbc9eaba23"
+    },
+    {
+      "at": "2026-11-20T15:06:54.157517Z",
+      "change": "new",
+      "document_id": "10000389",
+      "event_id": "9fd4e59f538f8a54eb20f05b"
+    },
+    {
+      "at": "2026-11-20T15:06:54.157517Z",
+      "change": "revised",
+      "document_id": "10000384",
+      "event_id": "4abefaf8ff4ec183bf2bed28"
     }
   ],
-  "checked_at": "2026-11-20T14:56:50.462880Z",
+  "checked_at": "2026-11-20T15:06:54.157517Z",
   "degraded": false,
   "documents": [
     {
@@ -734,16 +728,41 @@
       "agenda": "CMA 8 4",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "2e47848fdb807ed9f65eab84fca1758d419a99896bf953cf008d647e122d0050",
+          "url": "https://docs.unfccc.int/documents/10000384/files/ar/cma2026_L08A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "50cc8c0bd487bae75f876526792d2c7ceca863f65e0a134d703fd0f97e08215e",
-          "url": "https://docs.unfccc.int/documents/10000384/files/en/GST_NDC_DT_cma83.pdf"
+          "sha256": "a3cbfd34f8e410698930cb735dfe293daa14a188fb21c9c9b51fd871434d55d8",
+          "url": "https://docs.unfccc.int/documents/10000384/files/en/cma2026_L08E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "646becc3f256efdc9c0c10b08099f862f1da85f1bb9c376dd63180a1c13b6fab",
+          "url": "https://docs.unfccc.int/documents/10000384/files/es/cma2026_L08S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "48d84b199c2ecb4226d9a36f30ec7d409e5877d0350164283b80e6709d5e6089",
+          "url": "https://docs.unfccc.int/documents/10000384/files/fr/cma2026_L08F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "8ae072a7d9c912db0ad0f4643ea93ffae6e6a0173c92365e184c498842cadf77",
+          "url": "https://docs.unfccc.int/documents/10000384/files/ru/cma2026_L08R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "bbf76e30b7c18da11d0991035f5a195559375f2b3bd06f8b953f1a92037414f8",
+          "url": "https://docs.unfccc.int/documents/10000384/files/zh/cma2026_L08C.pdf"
         }
       ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "FCCC/PA/CMA/2026/L.8",
       "id": "10000384",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-20T14:50:31.091979Z",
+      "modified_at": "2026-11-20T15:01:50.451332Z",
       "published_at": "2026-11-20T10:15:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000384/metadata",
@@ -3604,6 +3623,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 11",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "673cd7444964eda0cb3681819e172845727b755a5941b0426b06e957a6e28ebf",
+          "url": "https://docs.unfccc.int/documents/10000389/files/en/LDCs_DT_COP31_DD.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "FCCC/CP/2026/L.7",
+      "id": "10000389",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-20T14:59:53.333933Z",
+      "published_at": "2026-11-20T15:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000389/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the least developed countries. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3708,9 +3749,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 31,
-  "last_attempt": "2026-11-20T14:56:50.462880Z",
-  "last_success": "2026-11-20T14:56:50.462880Z",
+  "history_count": 33,
+  "last_attempt": "2026-11-20T15:06:54.157517Z",
+  "last_success": "2026-11-20T15:06:54.157517Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
