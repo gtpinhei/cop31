@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-20T12:25:00-03:00",
+ "generated_at": "2026-11-20T18:30:00-03:00",
  "round": {
-  "timestamp": "2026-11-20T12:25:00-03:00",
-  "label": "20 nov 2026, 12:25 (Brasília)",
+  "timestamp": "2026-11-20T18:30:00-03:00",
+  "label": "20 nov 2026, 18:30 (Brasília)",
   "sites_checked": 63,
   "blocked": 19,
   "new_items": 3,
-  "fetches": "76 de ~60",
+  "fetches": "68 de ~60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -49,6 +49,60 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-20-bowen-interview",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "Transcript of COP31 President of Negotiations' interview with journalists today",
+   "date": "2026-11-20",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/transcript-of-cop31-president-of-negotiations-interview-with-journalists-today",
+   "summary": "Transcrição de breve entrevista de Chris Bowen, Presidente de Negociações da COP31, a jornalistas em 20 de novembro: o trabalho sobre o resultado final continua nas últimas horas da conferência. O texto está ligado à negociação da decisão de cobertura.",
+   "summary_i18n": {
+    "en": "Transcript of a short interview given by Chris Bowen, COP31 President of Negotiations, to journalists on 20 November: work on the final outcome continues in the closing hours of the conference. The text bears on the negotiation of the cover decision.",
+    "es": "Transcripción de una breve entrevista de Chris Bowen, Presidente de las Negociaciones de la COP31, con periodistas el 20 de noviembre: el trabajo sobre el resultado final continúa en las últimas horas de la conferencia. El texto se vincula a la negociación de la decisión de cobertura.",
+    "fr": "Transcription d'un bref entretien de Chris Bowen, Président des négociations de la COP31, avec des journalistes le 20 novembre : les travaux sur le résultat final se poursuivent dans les dernières heures de la conférence. Le texte se rapporte à la négociation de la décision de couverture.",
+    "ru": "Стенограмма краткого интервью Криса Бовена, Председателя переговоров COP31, журналистам 20 ноября: работа над итоговым результатом продолжается в последние часы конференции. Текст относится к переговорам по общему решению.",
+    "zh": "2026年11月20日 COP31谈判主席克里斯·鲍恩（Chris Bowen）接受记者简短采访的文字记录：在会议最后时刻，关于最终成果的工作仍在继续。该文本与总括决定的谈判相关。",
+    "ar": "نص مقابلة قصيرة أجراها كريس بوين، رئيس المفاوضات في COP31، مع الصحفيين في 20 نوفمبر: يتواصل العمل على النتيجة النهائية في الساعات الأخيرة من المؤتمر. ويتصل النص بالتفاوض على القرار الشامل."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "\"no one has said to me, 'Let's give up and go home.'\" — Chris Bowen, COP31 President of Negotiations"
+   ],
+   "first_seen": "2026-11-20T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-20-redd-forest-finance",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "REDD+ countries explore new ways to fund forest conservation at COP31",
+   "date": "2026-11-20",
+   "authors": "UNFCCC (foto: Keiichi Igarashi)",
+   "url": "https://unfccc.int/news/redd-countries-explore-new-ways-to-fund-forest-conservation",
+   "summary": "Matéria sobre um evento paralelo da Comunidade de Prática REDD+ em Antalya, em que países discutiram novas fontes de financiamento para a conservação florestal, incluindo o Artigo 6, e as barreiras de acesso a esses recursos. Liga-se à agenda de florestas e de finanças.",
+   "summary_i18n": {
+    "en": "Article on a REDD+ Community of Practice side event in Antalya where countries discussed new sources of forest conservation finance, including Article 6, and the barriers to accessing them. It bears on the forests and finance agendas.",
+    "es": "Artículo sobre un evento paralelo de la Comunidad de Práctica REDD+ en Antalya, donde los países debatieron nuevas fuentes de financiación para la conservación de los bosques, incluido el Artículo 6, y los obstáculos para acceder a ellas. Se vincula a las agendas de bosques y de finanzas.",
+    "fr": "Article sur un événement parallèle de la Communauté de pratique REDD+ à Antalya, où les pays ont discuté de nouvelles sources de financement pour la conservation des forêts, dont l'article 6, et des obstacles à leur accès. Il se rapporte aux agendas des forêts et des finances.",
+    "ru": "Статья о параллельном мероприятии Сообщества практики REDD+ в Анталье, где страны обсуждали новые источники финансирования сохранения лесов, включая статью 6, и барьеры доступа к ним. Относится к повестке по лесам и финансам.",
+    "zh": "关于安塔利亚 REDD+ 实践社区边会的文章：各国讨论了包括第6条在内的森林保护新资金来源以及获取这些资金的障碍。涉及森林和融资议程。",
+    "ar": "مقال عن فعالية جانبية لمجتمع الممارسة الخاص بـ REDD+ في أنطاليا ناقشت فيها البلدان مصادر جديدة لتمويل حماية الغابات، بما فيها المادة 6، والعوائق أمام الوصول إليها. ويتصل بجدولَي أعمال الغابات والتمويل."
+   },
+   "tracks": [
+    "Florestas",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
   {
    "id": "bluesky-carbonbrief.org-20261120-daily-briefing",
    "kind": "post",
@@ -163,6 +217,37 @@
    "first_seen": "2026-11-20T12:25:00-03:00",
    "lang": "en",
    "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "climate-home-news-2026-11-19-draft-keeps-electrification",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
+   "date": "2026-11-19",
+   "authors": "Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
+   "summary": "Boletim do Dia 10: o segundo rascunho da decisão de cobertura tem cerca de metade da extensão do primeiro, retira a linguagem de transição para longe dos combustíveis fósseis, mantém a meta 35×35 de eletrificação num menu de medidas e omite um número para triplicar o financiamento de adaptação, adiando um relatório-base para a COP32. Também convida o IPCC a entregar seus relatórios a tempo do GST.",
+   "summary_i18n": {
+    "en": "Day 10 bulletin: the second draft of the cover decision is about half the length of the first, drops wording on transitioning away from fossil fuels, keeps the 35×35 electrification goal in a menu of measures and omits a number for tripling adaptation finance, deferring a baseline report to COP32. It also invites the IPCC to deliver its reports in time for the GST.",
+    "es": "Boletín del Día 10: el segundo borrador de la decisión de cobertura tiene aproximadamente la mitad de extensión que el primero, elimina la redacción sobre la transición para abandonar los combustibles fósiles, mantiene la meta 35×35 de electrificación en un menú de medidas y omite una cifra para triplicar la financiación de la adaptación, aplazando un informe de referencia a la COP32. También invita al IPCC a entregar sus informes a tiempo para el GST.",
+    "fr": "Bulletin du Jour 10 : le deuxième projet de décision de couverture est environ deux fois plus court que le premier, supprime le libellé sur la transition hors des combustibles fossiles, maintient l'objectif 35×35 d'électrification dans un menu de mesures et omet un chiffre pour tripler le financement de l'adaptation, reportant un rapport de référence à la COP32. Il invite aussi le GIEC à remettre ses rapports à temps pour le GST.",
+    "ru": "Бюллетень 10-го дня: второй проект общего решения вдвое короче первого, в нём убраны формулировки о переходе от ископаемого топлива, цель 35×35 по электрификации сохранена в перечне мер, а цифра для утроения финансирования адаптации опущена, базовый доклад перенесён на COP32. Также МГЭИК предлагается представить доклады к сроку GST.",
+    "zh": "第10天简报：总括决定第二稿篇幅约为第一稿的一半，删去了关于转型脱离化石燃料的措辞，将35×35电气化目标保留在措施清单中，并省略了适应资金增至三倍的具体数字，把基线报告推迟到COP32。草案还邀请IPCC及时提交报告以供GST使用。",
+    "ar": "نشرة اليوم العاشر: المسودة الثانية للقرار الشامل أقصر بنحو النصف من الأولى، وتحذف الصياغة المتعلقة بالانتقال بعيداً عن الوقود الأحفوري، وتُبقي هدف 35×35 للكهربة ضمن قائمة تدابير، وتغفل رقماً لمضاعفة تمويل التكيف ثلاث مرات مع إرجاء تقرير أساسي إلى COP32. كما تدعو الهيئة الحكومية الدولية المعنية بتغير المناخ (IPCC) إلى تسليم تقاريرها في الوقت المناسب للتقييم العالمي."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "TAFF e fósseis",
+    "Adaptação",
+    "GST2 e IPCC"
+   ],
+   "quotes": [
+    "\"decides clearly and strongly that that is not acceptable\" — Chris Bowen, COP31 President of Negotiations"
+   ],
+   "first_seen": "2026-11-20T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
   },
   {
    "id": "bluesky-drsimevans.carbonbrief.org-20261119-segundo-rascunho",
@@ -26903,8 +26988,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-20T17:44:35-03:00",
-  "label": "20 nov 2026, 17:43 (Brasília)",
+  "timestamp": "2026-11-20T18:44:21-03:00",
+  "label": "20 nov 2026, 18:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
