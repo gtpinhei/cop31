@@ -191,9 +191,21 @@
       "change": "new",
       "document_id": "10000385",
       "event_id": "44068175d7010840b44ce51c"
+    },
+    {
+      "at": "2026-11-20T13:28:09.440135Z",
+      "change": "new",
+      "document_id": "10000386",
+      "event_id": "e1e8c2aeb1ca3f6aa39c5097"
+    },
+    {
+      "at": "2026-11-20T13:28:09.440135Z",
+      "change": "withdrawn",
+      "document_id": "10000385",
+      "event_id": "2696990a9aee161b89140e75"
     }
   ],
-  "checked_at": "2026-11-20T13:17:19.346914Z",
+  "checked_at": "2026-11-20T13:28:09.440135Z",
   "degraded": false,
   "documents": [
     {
@@ -3503,10 +3515,26 @@
       "document_code": "FCCC/CP/2026/5",
       "id": "10000385",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-20T13:04:36.788259Z",
+      "modified_at": "2026-11-20T13:24:45.888889Z",
       "published_at": "2026-11-20T13:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000385/metadata",
+      "status": "withdrawn",
+      "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": true
+    },
+    {
+      "agenda": "COP 31 13",
+      "attachments": [],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "FCCC/CP/2026/L.5",
+      "id": "10000386",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-20T13:20:40.247534Z",
+      "published_at": "2026-11-20T13:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000386/metadata",
       "status": "unknown",
       "title": "Periodic review of the long-term global goal under the Convention and of overall progress towards achieving it. Draft decision -/CP.31. Proposal by the President",
       "topic": "Other negotiations",
@@ -3618,8 +3646,8 @@
     }
   ],
   "history_count": 34,
-  "last_attempt": "2026-11-20T13:17:19.346914Z",
-  "last_success": "2026-11-20T13:17:19.346914Z",
+  "last_attempt": "2026-11-20T13:28:09.440135Z",
+  "last_success": "2026-11-20T13:28:09.440135Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
