@@ -1,38 +1,34 @@
 {
  "schema": 1,
- "edition": "2026-11-20",
- "generated_at": "2026-11-20T23:58+03:00",
+ "edition": "2026-11-21",
+ "generated_at": "2026-11-21T00:59+03:00",
  "window": {
-  "from": "2026-11-17",
-  "to": "2026-11-20",
+  "from": "2026-11-18",
+  "to": "2026-11-21",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-20T12:25:00-03:00",
-  "social_round": "2026-11-20T17:44:35-03:00",
+  "web_round": "2026-11-20T18:30:00-03:00",
+  "social_round": "2026-11-20T18:44:21-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 82,
-  "stories": 65,
+  "candidates": 55,
+  "stories": 45,
   "top": 8,
   "publishers": [
    "350.org",
    "ActionAid International",
    "CAN International",
    "COP31 Presidency (Türkiye/Australia)",
-   "CSE India",
-   "Carbon Brief",
    "Climate Home News",
    "E3G",
-   "Germanwatch",
    "Greenpeace International",
    "ICC",
    "IDDRI",
    "IISD / ENB",
    "Kick Big Polluters Out",
    "Oil Change International",
-   "Primeiro-ministro da Austrália (PM&C)",
    "SEFiA",
    "UNEP",
    "UNFCCC / Simon Stiell",
@@ -71,9 +67,323 @@
  "sections": {
   "essential": [
    {
+    "id": "st-unfccc-2026-11-20-bowen-interview",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-20-bowen-interview",
+     "title": "Transcript of COP31 President of Negotiations' interview with journalists today",
+     "url": "https://unfccc.int/news/transcript-of-cop31-president-of-negotiations-interview-with-journalists-today",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "UNFCCC",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Transcrição de breve entrevista de Chris Bowen, Presidente de Negociações da COP31, a jornalistas em 20 de novembro: o trabalho sobre o resultado final continua nas últimas horas da conferência. O texto está ligado à negociação da decisão de cobertura.",
+     "collected_at": "2026-11-20T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Transcript of a short interview given by Chris Bowen, COP31 President of Negotiations, to journalists on 20 November: work on the final outcome continues in the closing hours of the conference. The text bears on the negotiation of the cover decision.",
+      "es": "Transcripción de una breve entrevista de Chris Bowen, Presidente de las Negociaciones de la COP31, con periodistas el 20 de noviembre: el trabajo sobre el resultado final continúa en las últimas horas de la conferencia. El texto se vincula a la negociación de la decisión de cobertura.",
+      "fr": "Transcription d'un bref entretien de Chris Bowen, Président des négociations de la COP31, avec des journalistes le 20 novembre : les travaux sur le résultat final se poursuivent dans les dernières heures de la conférence. Le texte se rapporte à la négociation de la décision de couverture.",
+      "ru": "Стенограмма краткого интервью Криса Бовена, Председателя переговоров COP31, журналистам 20 ноября: работа над итоговым результатом продолжается в последние часы конференции. Текст относится к переговорам по общему решению.",
+      "zh": "2026年11月20日 COP31谈判主席克里斯·鲍恩（Chris Bowen）接受记者简短采访的文字记录：在会议最后时刻，关于最终成果的工作仍在继续。该文本与总括决定的谈判相关。",
+      "ar": "نص مقابلة قصيرة أجراها كريس بوين، رئيس المفاوضات في COP31، مع الصحفيين في 20 نوفمبر: يتواصل العمل على النتيجة النهائية في الساعات الأخيرة من المؤتمر. ويتصل النص بالتفاوض على القرار الشامل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-19-draft-keeps-electrification",
+    "section": "negotiations",
+    "score": 0.5,
+    "lead": {
+     "id": "climate-home-news-2026-11-19-draft-keeps-electrification",
+     "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
+     "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
+     "publisher": "Climate Home News",
+     "author": "Megan Rowling",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Eletrificação",
+      "TAFF e fósseis",
+      "Adaptação",
+      "GST2 e IPCC"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do Dia 10: o segundo rascunho da decisão de cobertura tem cerca de metade da extensão do primeiro, retira a linguagem de transição para longe dos combustíveis fósseis, mantém a meta 35×35 de eletrificação num menu de medidas e omite um número para triplicar o financiamento de adaptação, adiando um…",
+     "collected_at": "2026-11-20T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Day 10 bulletin: the second draft of the cover decision is about half the length of the first, drops wording on transitioning away from fossil fuels, keeps the 35×35 electrification goal in a menu of measures and omits a number for tripling adaptation finance, deferring a baseline report to COP32.",
+      "es": "Boletín del Día 10: el segundo borrador de la decisión de cobertura tiene aproximadamente la mitad de extensión que el primero, elimina la redacción sobre la transición para abandonar los combustibles fósiles, mantiene la meta 35×35 de electrificación en un menú de medidas y omite una cifra para triplicar la…",
+      "fr": "Bulletin du Jour 10 : le deuxième projet de décision de couverture est environ deux fois plus court que le premier, supprime le libellé sur la transition hors des combustibles fossiles, maintient l'objectif 35×35 d'électrification dans un menu de mesures et omet un chiffre pour tripler le financement de l'adaptation,…",
+      "ru": "Бюллетень 10-го дня: второй проект общего решения вдвое короче первого, в нём убраны формулировки о переходе от ископаемого топлива, цель 35×35 по электрификации сохранена в перечне мер, а цифра для утроения финансирования адаптации опущена, базовый доклад перенесён на COP32.",
+      "zh": "第10天简报：总括决定第二稿篇幅约为第一稿的一半，删去了关于转型脱离化石燃料的措辞，将35×35电气化目标保留在措施清单中，并省略了适应资金增至三倍的具体数字，把基线报告推迟到COP32。草案还邀请IPCC及时提交报告以供GST使用。",
+      "ar": "نشرة اليوم العاشر: المسودة الثانية للقرار الشامل أقصر بنحو النصف من الأولى، وتحذف الصياغة المتعلقة بالانتقال بعيداً عن الوقود الأحفوري، وتُبقي هدف 35×35 للكهربة ضمن قائمة تدابير، وتغفل رقماً لمضاعفة تمويل التكيف ثلاث مرات مع إرجاء تقرير أساسي إلى COP32."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-20-redd-forest-finance",
+    "section": "action",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-20-redd-forest-finance",
+     "title": "REDD+ countries explore new ways to fund forest conservation at COP31",
+     "url": "https://unfccc.int/news/redd-countries-explore-new-ways-to-fund-forest-conservation",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "UNFCCC (foto: Keiichi Igarashi)",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Florestas",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Matéria sobre um evento paralelo da Comunidade de Prática REDD+ em Antalya, em que países discutiram novas fontes de financiamento para a conservação florestal, incluindo o Artigo 6, e as barreiras de acesso a esses recursos. Liga-se à agenda de florestas e de finanças.",
+     "collected_at": "2026-11-20T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Article on a REDD+ Community of Practice side event in Antalya where countries discussed new sources of forest conservation finance, including Article 6, and the barriers to accessing them. It bears on the forests and finance agendas.",
+      "es": "Artículo sobre un evento paralelo de la Comunidad de Práctica REDD+ en Antalya, donde los países debatieron nuevas fuentes de financiación para la conservación de los bosques, incluido el Artículo 6, y los obstáculos para acceder a ellas. Se vincula a las agendas de bosques y de finanzas.",
+      "fr": "Article sur un événement parallèle de la Communauté de pratique REDD+ à Antalya, où les pays ont discuté de nouvelles sources de financement pour la conservation des forêts, dont l'article 6, et des obstacles à leur accès. Il se rapporte aux agendas des forêts et des finances.",
+      "ru": "Статья о параллельном мероприятии Сообщества практики REDD+ в Анталье, где страны обсуждали новые источники финансирования сохранения лесов, включая статью 6, и барьеры доступа к ним. Относится к повестке по лесам и финансам.",
+      "zh": "关于安塔利亚 REDD+ 实践社区边会的文章：各国讨论了包括第6条在内的森林保护新资金来源以及获取这些资金的障碍。涉及森林和融资议程。",
+      "ar": "مقال عن فعالية جانبية لمجتمع الممارسة الخاص بـ REDD+ في أنطاليا ناقشت فيها البلدان مصادر جديدة لتمويل حماية الغابات، بما فيها المادة 6، والعوائق أمام الوصول إليها. ويتصل بجدولَي أعمال الغابات والتمويل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-can-international-2026-11-20-worst-cop-ever",
+    "section": "civil",
+    "score": 0.36,
+    "lead": {
+     "id": "can-international-2026-11-20-worst-cop-ever",
+     "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
+     "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
+     "publisher": "CAN International",
+     "author": "CAN International",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Finanças",
+      "Espaço cívico"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
+      "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
+      "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
+      "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
+      "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
+      "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
+    ]
+   },
+   {
+    "id": "st-icc-2026-11-20-ministers-critical-juncture",
+    "section": "negotiations",
+    "score": 0.324,
+    "lead": {
+     "id": "icc-2026-11-20-ministers-critical-juncture",
+     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
+     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
+     "publisher": "ICC",
+     "author": "ICC (John W.H. Denton AO)",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Eletrificação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
+      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
+      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
+      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
+      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
+      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
+    ]
+   },
+   {
+    "id": "st-cop31tr-2026-11-19-climate-club-oecd",
+    "section": "action",
+    "score": 0.3,
+    "lead": {
+     "id": "cop31tr-2026-11-19-climate-club-oecd",
+     "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
+     "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Presidência e anfitrião",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability,…",
+      "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión.",
+      "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements.",
+      "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции.",
+      "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
+      "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
+    ]
+   },
+   {
+    "id": "st-oil-change-2026-11-19-media-advisory",
+    "section": "civil",
+    "score": 0.28,
+    "lead": {
+     "id": "oil-change-2026-11-19-media-advisory",
+     "title": "Oil Change International COP31 Media Advisory – November 19, 2026",
+     "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-19-2026/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "O aviso à imprensa da Oil Change informa que um novo rascunho de texto era esperado na manhã de 19 de novembro e que cresce a pressão sobre as Presidências da Türkiye e da Austrália. O foco está na decisão de cobertura e na trilha de transição dos combustíveis fósseis.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change's media advisory says a new draft text was expected on the morning of 19 November and that pressure is growing on the Türkiye and Australia Presidencies. The focus is on the cover decision and the fossil fuel transition track.",
+      "es": "El aviso a la prensa de Oil Change señala que se esperaba un nuevo borrador de texto en la mañana del 19 de noviembre y que crece la presión sobre las Presidencias de Turquía y Australia. El foco está en la decisión de cobertura y en la vía de transición de los combustibles fósiles.",
+      "fr": "L'avis aux médias d'Oil Change indique qu'un nouveau projet de texte était attendu le matin du 19 novembre et que la pression augmente sur les Présidences de la Türkiye et de l'Australie. L'accent est mis sur la décision de couverture et sur le volet de transition des combustibles fossiles.",
+      "ru": "В медиа-уведомлении Oil Change говорится, что новый проект текста ожидался утром 19 ноября и что давление на Председательства Турции и Австралии растёт. Акцент сделан на итоговом решении и направлении перехода от ископаемого топлива.",
+      "zh": "Oil Change的媒体通告称,新的案文草案预计于11月19日上午发布,对土耳其和澳大利亚两个主席团的压力正在加大。重点是总括性决定和化石燃料转型议题。",
+      "ar": "يذكر الإشعار الإعلامي لـ Oil Change أن مسودة نص جديدة كانت متوقعة صباح 19 نوفمبر وأن الضغط يتزايد على رئاستي تركيا وأستراليا. ويركّز على القرار الشامل ومسار الانتقال بعيدًا عن الوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "350org-2026-11-19-petition-200000",
+      "title": "COP31: 200,000+ people demand Australia and Türkiye deliver action to phase out fossil fuels",
+      "url": "https://350.org/press-release/cop31-200000-people-demand-australia-and-t%C3%BCrkiye-deliver-action-to-phase-out-fossil-fuels/",
+      "publisher": "350.org",
+      "author": "350.org",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "TAFF e fósseis",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A 350.org informa que mais de 200 mil pessoas assinaram petição pedindo que Austrália e Türkiye, copresidências da COP31, entreguem ação para eliminar gradualmente os combustíveis fósseis. Liga-se à trilha TAFF e à pressão sobre as presidências. Resumo baseado apenas no título da listagem.",
+      "collected_at": "2026-11-20T06:40:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "350.org reports that more than 200,000 people signed a petition asking Australia and Türkiye, the COP31 co-presidencies, to deliver action to phase out fossil fuels. It bears on the TAFF track and on pressure on the presidencies. Summary based only on the listing title.",
+       "es": "350.org informa de que más de 200.000 personas firmaron una petición para que Australia y Türkiye, copresidencias de la COP31, adopten medidas para eliminar gradualmente los combustibles fósiles. Se vincula con la vía TAFF y con la presión sobre las presidencias. Resumen basado solo en el título del listado.",
+       "fr": "350.org indique que plus de 200 000 personnes ont signé une pétition demandant à l'Australie et à la Türkiye, coprésidences de la COP31, d'agir pour éliminer progressivement les combustibles fossiles. Cela concerne le volet TAFF et la pression sur les présidences. Résumé fondé uniquement sur le titre de la liste.",
+       "ru": "350.org сообщает, что более 200 000 человек подписали петицию с призывом к Австралии и Турции, сопредседателям КС-31, принять меры по поэтапному отказу от ископаемого топлива. Это относится к треку TAFF и давлению на председательство. Резюме основано только на заголовке в списке.",
+       "zh": "350.org 报告称,逾20万人签署请愿,要求 COP31 共同主席国澳大利亚和土耳其采取行动,逐步淘汰化石燃料。内容涉及 TAFF 议题及对主席国的压力。摘要仅依据列表标题。",
+       "ar": "أفادت 350.org بأن أكثر من 200 ألف شخص وقّعوا عريضة تطالب أستراليا وتركيا، الرئاستين المشتركتين لـ COP31، باتخاذ إجراءات للتخلص التدريجي من الوقود الأحفوري. ويتصل ذلك بمسار TAFF والضغط على الرئاستين. الملخص مبني على عنوان القائمة فقط."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "oil-change-2026-11-19-cover-decision-response",
+      "title": "Draft COP31 Cover Decision – Oil Change International response",
+      "url": "https://oilchange.org/news/draft-cop31-cover-decision-oil-change-international-response/",
+      "publisher": "Oil Change International",
+      "author": "Oil Change International",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "TAFF e fósseis"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A Oil Change International reage ao novo rascunho da decisão de cobertura da COP31, dizendo que o texto traz as digitais dos interesses fósseis e que quase todos os sinais de eliminação gradual dos combustíveis fósseis foram retirados.",
+      "collected_at": "2026-11-19T18:18:32-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Oil Change International responds to the new draft COP31 cover decision, saying the text bears the fingerprints of fossil fuel interests and that almost all fossil fuel phase-out signals have been removed. The reaction bears on the TAFF track and on the pressure on the Türkiye and Australia Presidencies.",
+       "es": "Oil Change International responde al nuevo borrador de la decisión de cobertura de la COP31, y afirma que el texto lleva las huellas de los intereses fósiles y que se han eliminado casi todas las señales de eliminación gradual de los combustibles fósiles.",
+       "fr": "Oil Change International réagit au nouveau projet de décision de couverture de la COP31, estimant que le texte porte l'empreinte des intérêts fossiles et que presque tous les signaux d'élimination progressive des combustibles fossiles ont été retirés.",
+       "ru": "Oil Change International комментирует новый проект итогового решения КС-31, заявляя, что в тексте видны следы интересов ископаемой отрасли и что почти все сигналы о поэтапном отказе от ископаемого топлива удалены. Реакция относится к направлению TAFF и к давлению на Председательства Турции и Австралии.",
+       "zh": "Oil Change International对COP31总括性决定的新草案作出回应,称文本带有化石燃料利益的“指纹”,几乎所有逐步淘汰化石燃料的信号都被删除。该回应涉及TAFF议题,以及对土耳其和澳大利亚两个主席团的压力。",
+       "ar": "تردّ Oil Change International على المسودة الجديدة للقرار الشامل لـ COP31، قائلةً إن النص يحمل بصمات مصالح الوقود الأحفوري وإن جميع إشارات التخلص التدريجي من الوقود الأحفوري تقريبًا قد أُزيلت. ويتصل الرد بمسار TAFF وبالضغط على رئاستي تركيا وأستراليا."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "350.org",
+     "Oil Change International"
+    ]
+   },
+   {
     "id": "st-climate-home-news-2026-11-20-bulletin-day-11",
     "section": "negotiations",
-    "score": 0.85,
+    "score": 0.408,
     "lead": {
      "id": "climate-home-news-2026-11-20-bulletin-day-11",
      "title": "COP31 Bulletin Day 11: Best COP, worst COP? Weary negotiators seek to strengthen outcome",
@@ -107,15 +417,17 @@
     "publishers": [
      "Climate Home News"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-unfccc-2026-11-19-cover-decision-draft",
+    "id": "st-unfccc-2026-11-19-presidency-message",
     "section": "negotiations",
-    "score": 0.8,
+    "score": 0.5,
     "lead": {
-     "id": "unfccc-2026-11-19-cover-decision-draft",
-     "title": "DRAFT TEXT prepared under COP 31 Presidency consultations on Presidency-led Party-driven cover decision",
-     "url": "https://unfccc.int/documents/665726",
+     "id": "unfccc-2026-11-19-presidency-message",
+     "title": "COP 31 Presidency message to Parties (19 November 2026)",
+     "url": "https://unfccc.int/documents/665783",
      "publisher": "UNFCCC / Simon Stiell",
      "author": "COP 31 Presidency",
      "published": "2026-11-19",
@@ -126,47 +438,20 @@
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "Resumo baseado só no título e nos metadados; o texto não foi lido. A UNFCCC publicou em 19 de novembro o rascunho da decisão de cobertura das consultas da Presidência da COP31.",
+     "description": "Mensagem da Presidência da COP31 às Partes datada de 19 de novembro, publicada como documento de sessão no portal da UNFCCC. Faz parte da sequência de mensagens da Presidência na reta final das negociações, em torno da decisão de cobertura. O texto da mensagem não foi lido; resumo baseado em título e metadados.",
      "collected_at": "2026-11-20T00:15:41-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Summary based only on the title and metadata; the text was not read. UNFCCC posted the draft cover decision from the COP31 Presidency consultations on 19 November.",
-      "es": "Resumen basado solo en el título y los metadatos; no se leyó el texto. La CMNUCC publicó el 19 de noviembre el borrador de la decisión de cobertura de las consultas de la presidencia de la COP31.",
-      "fr": "Résumé fondé uniquement sur le titre et les métadonnées ; le texte n’a pas été lu. La CCNUCC a publié le 19 novembre le projet de décision de couverture issu des consultations de la présidence de la COP31.",
-      "ru": "Резюме основано только на названии и метаданных; сам текст не читался. РКИК ООН опубликовала 19 ноября проект общего решения по итогам консультаций под руководством Президентства COP31.",
-      "zh": "摘要仅依据标题和元数据；案文本身未经阅读。《联合国气候变化框架公约》于11月19日发布了COP31主席团磋商的总括决定案文草案。",
-      "ar": "الملخص مبني على العنوان والبيانات الوصفية فقط؛ لم يُقرأ النص نفسه. نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر مسودة القرار الشامل من مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين."
+      "en": "Message from the COP31 Presidency to Parties dated 19 November, posted as a session document on the UNFCCC portal. It is part of the sequence of Presidency messages in the final stretch of negotiations around the cover decision. The text of the message was not read; summary based on title and metadata.",
+      "es": "Mensaje de la Presidencia de la COP31 a las Partes con fecha 19 de noviembre, publicado como documento de sesión en el portal de la CMNUCC. Forma parte de la serie de mensajes de la Presidencia en la recta final de las negociaciones en torno a la decisión de cobertura. No se leyó el texto del mensaje;",
+      "fr": "Message de la présidence de la COP31 aux Parties daté du 19 novembre, publié comme document de session sur le portail de la CCNUCC. Il s'inscrit dans la série de messages de la présidence durant la dernière ligne droite des négociations autour de la décision de couverture. Le texte du message n'a pas été lu ;",
+      "ru": "Послание Президентства COP31 Сторонам от 19 ноября, опубликованное как документ сессии на портале РКИК ООН. Оно входит в серию посланий Президентства на заключительном этапе переговоров вокруг общего решения. Текст послания не читался; резюме основано на названии и метаданных.",
+      "zh": "COP31主席团于11月19日致缔约方的信息，作为会议文件发布在《联合国气候变化框架公约》门户网站上。它属于谈判最后阶段围绕总括决定发出的一系列主席团信息。信息正文未经阅读；摘要依据标题和元数据。",
+      "ar": "رسالة من رئاسة مؤتمر الأطراف الحادي والثلاثين إلى الأطراف بتاريخ 19 نوفمبر، نُشرت كوثيقة جلسة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وهي جزء من سلسلة رسائل الرئاسة في المرحلة الأخيرة من المفاوضات حول القرار الشامل. لم يُقرأ نص الرسالة؛ الملخص مبني على العنوان والبيانات الوصفية."
      },
      "description_i18n_method": "machine"
     },
     "related": [
-     {
-      "id": "unfccc-2026-11-19-presidency-message",
-      "title": "COP 31 Presidency message to Parties (19 November 2026)",
-      "url": "https://unfccc.int/documents/665783",
-      "publisher": "UNFCCC / Simon Stiell",
-      "author": "COP 31 Presidency",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "Presidência e anfitrião"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "Mensagem da Presidência da COP31 às Partes datada de 19 de novembro, publicada como documento de sessão no portal da UNFCCC. Faz parte da sequência de mensagens da Presidência na reta final das negociações, em torno da decisão de cobertura. O texto da mensagem não foi lido; resumo baseado em título e metadados.",
-      "collected_at": "2026-11-20T00:15:41-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Message from the COP31 Presidency to Parties dated 19 November, posted as a session document on the UNFCCC portal. It is part of the sequence of Presidency messages in the final stretch of negotiations around the cover decision. The text of the message was not read; summary based on title and metadata.",
-       "es": "Mensaje de la Presidencia de la COP31 a las Partes con fecha 19 de noviembre, publicado como documento de sesión en el portal de la CMNUCC. Forma parte de la serie de mensajes de la Presidencia en la recta final de las negociaciones en torno a la decisión de cobertura. No se leyó el texto del mensaje;",
-       "fr": "Message de la présidence de la COP31 aux Parties daté du 19 novembre, publié comme document de session sur le portail de la CCNUCC. Il s'inscrit dans la série de messages de la présidence durant la dernière ligne droite des négociations autour de la décision de couverture. Le texte du message n'a pas été lu ;",
-       "ru": "Послание Президентства COP31 Сторонам от 19 ноября, опубликованное как документ сессии на портале РКИК ООН. Оно входит в серию посланий Президентства на заключительном этапе переговоров вокруг общего решения. Текст послания не читался; резюме основано на названии и метаданных.",
-       "zh": "COP31主席团于11月19日致缔约方的信息，作为会议文件发布在《联合国气候变化框架公约》门户网站上。它属于谈判最后阶段围绕总括决定发出的一系列主席团信息。信息正文未经阅读；摘要依据标题和元数据。",
-       "ar": "رسالة من رئاسة مؤتمر الأطراف الحادي والثلاثين إلى الأطراف بتاريخ 19 نوفمبر، نُشرت كوثيقة جلسة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وهي جزء من سلسلة رسائل الرئاسة في المرحلة الأخيرة من المفاوضات حول القرار الشامل. لم يُقرأ نص الرسالة؛ الملخص مبني على العنوان والبيانات الوصفية."
-      },
-      "description_i18n_method": "machine"
-     },
      {
       "id": "unfccc-2026-11-19-varank-remarks",
       "title": "Remarks by Ms. Fatma Varank, COP31 Chief Climate Negotiator and Deputy Minister of Environment, Urbanization and Climate Change, Türkiye",
@@ -275,28 +560,29 @@
       "description_i18n_method": "machine"
      },
      {
-      "id": "unfccc-2026-11-17-climate-week-organizers-joint-statement",
-      "title": "Joint Statement of Climate Week Organizers",
-      "url": "https://unfccc.int/documents/665143",
+      "id": "unfccc-2026-11-19-cover-decision-draft",
+      "title": "DRAFT TEXT prepared under COP 31 Presidency consultations on Presidency-led Party-driven cover decision",
+      "url": "https://unfccc.int/documents/665726",
       "publisher": "UNFCCC / Simon Stiell",
-      "author": "Climate Week organizers",
-      "published": "2026-11-17",
+      "author": "COP 31 Presidency",
+      "published": "2026-11-19",
       "language": "en",
       "tracks": [
-       "Agenda de Ação"
+       "Decisão de cobertura",
+       "Presidência e anfitrião"
       ],
       "content_type": "official",
       "kind": "publication",
-      "description": "Declaração conjunta dos organizadores das Semanas do Clima publicada no portal de documentos da UNFCCC durante a COP31, ligada à Agenda de Ação e à mobilização de atores não estatais. Resumo baseado apenas no título do documento; o conteúdo não foi lido.",
-      "collected_at": "2026-11-18T00:20:00-03:00",
+      "description": "Resumo baseado só no título e nos metadados; o texto não foi lido. A UNFCCC publicou em 19 de novembro o rascunho da decisão de cobertura das consultas da Presidência da COP31.",
+      "collected_at": "2026-11-20T00:15:41-03:00",
       "validation": "registry source, collected by the monitor",
       "description_i18n": {
-       "en": "Joint statement by the Climate Week organizers published on the UNFCCC documents portal during COP31, linked to the Action Agenda and the mobilization of non-state actors. Summary based only on the document title; the content was not read.",
-       "es": "Declaración conjunta de los organizadores de las Semanas del Clima publicada en el portal de documentos de la CMNUCC durante la COP31, vinculada a la Agenda de Acción y a la movilización de actores no estatales. Resumen basado solo en el título del documento; no se leyó el contenido.",
-       "fr": "Déclaration commune des organisateurs des Semaines du climat publiée sur le portail des documents de la CCNUCC pendant la COP31, liée à l'Agenda de l'action et à la mobilisation des acteurs non étatiques. Résumé fondé uniquement sur le titre du document ; le contenu n'a pas été lu.",
-       "ru": "Совместное заявление организаторов «климатических недель», опубликованное на портале документов РКИК ООН в ходе КС-31 и связанное с Повесткой дня действий и мобилизацией негосударственных субъектов. Резюме основано только на названии документа; содержание не читалось.",
-       "zh": "气候周组织者联合声明，在COP31期间发布于《联合国气候变化框架公约》文件门户网站，与行动议程及非国家行为体的动员相关。摘要仅基于文件标题，未阅读内容。",
-       "ar": "بيان مشترك للجهات المنظمة لأسابيع المناخ نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ خلال مؤتمر الأطراف الحادي والثلاثين، ويرتبط بخطة العمل وتعبئة الجهات الفاعلة غير الحكومية. الملخص مبني على عنوان الوثيقة فقط؛ ولم يُقرأ المحتوى."
+       "en": "Summary based only on the title and metadata; the text was not read. UNFCCC posted the draft cover decision from the COP31 Presidency consultations on 19 November.",
+       "es": "Resumen basado solo en el título y los metadatos; no se leyó el texto. La CMNUCC publicó el 19 de noviembre el borrador de la decisión de cobertura de las consultas de la presidencia de la COP31.",
+       "fr": "Résumé fondé uniquement sur le titre et les métadonnées ; le texte n’a pas été lu. La CCNUCC a publié le 19 novembre le projet de décision de couverture issu des consultations de la présidence de la COP31.",
+       "ru": "Резюме основано только на названии и метаданных; сам текст не читался. РКИК ООН опубликовала 19 ноября проект общего решения по итогам консультаций под руководством Президентства COP31.",
+       "zh": "摘要仅依据标题和元数据；案文本身未经阅读。《联合国气候变化框架公约》于11月19日发布了COP31主席团磋商的总括决定案文草案。",
+       "ar": "الملخص مبني على العنوان والبيانات الوصفية فقط؛ لم يُقرأ النص نفسه. نشرت اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر مسودة القرار الشامل من مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين."
       },
       "description_i18n_method": "machine"
      }
@@ -306,310 +592,9 @@
     ]
    },
    {
-    "id": "st-can-international-2026-11-20-worst-cop-ever",
-    "section": "civil",
-    "score": 0.75,
-    "lead": {
-     "id": "can-international-2026-11-20-worst-cop-ever",
-     "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
-     "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
-     "publisher": "CAN International",
-     "author": "CAN International",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "Decisão de cobertura",
-      "Finanças",
-      "Espaço cívico"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
-     "collected_at": "2026-11-20T12:25:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
-      "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
-      "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
-      "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
-      "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
-      "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
-    ]
-   },
-   {
-    "id": "st-icc-2026-11-20-ministers-critical-juncture",
-    "section": "negotiations",
-    "score": 0.675,
-    "lead": {
-     "id": "icc-2026-11-20-ministers-critical-juncture",
-     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
-     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
-     "publisher": "ICC",
-     "author": "ICC (John W.H. Denton AO)",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Eletrificação",
-      "Decisão de cobertura"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
-     "collected_at": "2026-11-20T12:25:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
-      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
-      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
-      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
-      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
-      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "ICC"
-    ]
-   },
-   {
-    "id": "st-350org-2026-11-19-petition-200000",
-    "section": "civil",
-    "score": 0.574,
-    "lead": {
-     "id": "350org-2026-11-19-petition-200000",
-     "title": "COP31: 200,000+ people demand Australia and Türkiye deliver action to phase out fossil fuels",
-     "url": "https://350.org/press-release/cop31-200000-people-demand-australia-and-t%C3%BCrkiye-deliver-action-to-phase-out-fossil-fuels/",
-     "publisher": "350.org",
-     "author": "350.org",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A 350.org informa que mais de 200 mil pessoas assinaram petição pedindo que Austrália e Türkiye, copresidências da COP31, entreguem ação para eliminar gradualmente os combustíveis fósseis. Liga-se à trilha TAFF e à pressão sobre as presidências. Resumo baseado apenas no título da listagem.",
-     "collected_at": "2026-11-20T06:40:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "350.org reports that more than 200,000 people signed a petition asking Australia and Türkiye, the COP31 co-presidencies, to deliver action to phase out fossil fuels. It bears on the TAFF track and on pressure on the presidencies. Summary based only on the listing title.",
-      "es": "350.org informa de que más de 200.000 personas firmaron una petición para que Australia y Türkiye, copresidencias de la COP31, adopten medidas para eliminar gradualmente los combustibles fósiles. Se vincula con la vía TAFF y con la presión sobre las presidencias. Resumen basado solo en el título del listado.",
-      "fr": "350.org indique que plus de 200 000 personnes ont signé une pétition demandant à l'Australie et à la Türkiye, coprésidences de la COP31, d'agir pour éliminer progressivement les combustibles fossiles. Cela concerne le volet TAFF et la pression sur les présidences. Résumé fondé uniquement sur le titre de la liste.",
-      "ru": "350.org сообщает, что более 200 000 человек подписали петицию с призывом к Австралии и Турции, сопредседателям КС-31, принять меры по поэтапному отказу от ископаемого топлива. Это относится к треку TAFF и давлению на председательство. Резюме основано только на заголовке в списке.",
-      "zh": "350.org 报告称,逾20万人签署请愿,要求 COP31 共同主席国澳大利亚和土耳其采取行动,逐步淘汰化石燃料。内容涉及 TAFF 议题及对主席国的压力。摘要仅依据列表标题。",
-      "ar": "أفادت 350.org بأن أكثر من 200 ألف شخص وقّعوا عريضة تطالب أستراليا وتركيا، الرئاستين المشتركتين لـ COP31، باتخاذ إجراءات للتخلص التدريجي من الوقود الأحفوري. ويتصل ذلك بمسار TAFF والضغط على الرئاستين. الملخص مبني على عنوان القائمة فقط."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "oil-change-2026-11-19-cover-decision-response",
-      "title": "Draft COP31 Cover Decision – Oil Change International response",
-      "url": "https://oilchange.org/news/draft-cop31-cover-decision-oil-change-international-response/",
-      "publisher": "Oil Change International",
-      "author": "Oil Change International",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A Oil Change International reage ao novo rascunho da decisão de cobertura da COP31, dizendo que o texto traz as digitais dos interesses fósseis e que quase todos os sinais de eliminação gradual dos combustíveis fósseis foram retirados.",
-      "collected_at": "2026-11-19T18:18:32-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change International responds to the new draft COP31 cover decision, saying the text bears the fingerprints of fossil fuel interests and that almost all fossil fuel phase-out signals have been removed. The reaction bears on the TAFF track and on the pressure on the Türkiye and Australia Presidencies.",
-       "es": "Oil Change International responde al nuevo borrador de la decisión de cobertura de la COP31, y afirma que el texto lleva las huellas de los intereses fósiles y que se han eliminado casi todas las señales de eliminación gradual de los combustibles fósiles.",
-       "fr": "Oil Change International réagit au nouveau projet de décision de couverture de la COP31, estimant que le texte porte l'empreinte des intérêts fossiles et que presque tous les signaux d'élimination progressive des combustibles fossiles ont été retirés.",
-       "ru": "Oil Change International комментирует новый проект итогового решения КС-31, заявляя, что в тексте видны следы интересов ископаемой отрасли и что почти все сигналы о поэтапном отказе от ископаемого топлива удалены. Реакция относится к направлению TAFF и к давлению на Председательства Турции и Австралии.",
-       "zh": "Oil Change International对COP31总括性决定的新草案作出回应,称文本带有化石燃料利益的“指纹”,几乎所有逐步淘汰化石燃料的信号都被删除。该回应涉及TAFF议题,以及对土耳其和澳大利亚两个主席团的压力。",
-       "ar": "تردّ Oil Change International على المسودة الجديدة للقرار الشامل لـ COP31، قائلةً إن النص يحمل بصمات مصالح الوقود الأحفوري وإن جميع إشارات التخلص التدريجي من الوقود الأحفوري تقريبًا قد أُزيلت. ويتصل الرد بمسار TAFF وبالضغط على رئاستي تركيا وأستراليا."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "oil-change-2026-11-19-media-advisory",
-      "title": "Oil Change International COP31 Media Advisory – November 19, 2026",
-      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-19-2026/",
-      "publisher": "Oil Change International",
-      "author": "Oil Change International",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "O aviso à imprensa da Oil Change informa que um novo rascunho de texto era esperado na manhã de 19 de novembro e que cresce a pressão sobre as Presidências da Türkiye e da Austrália. O foco está na decisão de cobertura e na trilha de transição dos combustíveis fósseis.",
-      "collected_at": "2026-11-19T18:18:32-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change's media advisory says a new draft text was expected on the morning of 19 November and that pressure is growing on the Türkiye and Australia Presidencies. The focus is on the cover decision and the fossil fuel transition track.",
-       "es": "El aviso a la prensa de Oil Change señala que se esperaba un nuevo borrador de texto en la mañana del 19 de noviembre y que crece la presión sobre las Presidencias de Turquía y Australia. El foco está en la decisión de cobertura y en la vía de transición de los combustibles fósiles.",
-       "fr": "L'avis aux médias d'Oil Change indique qu'un nouveau projet de texte était attendu le matin du 19 novembre et que la pression augmente sur les Présidences de la Türkiye et de l'Australie. L'accent est mis sur la décision de couverture et sur le volet de transition des combustibles fossiles.",
-       "ru": "В медиа-уведомлении Oil Change говорится, что новый проект текста ожидался утром 19 ноября и что давление на Председательства Турции и Австралии растёт. Акцент сделан на итоговом решении и направлении перехода от ископаемого топлива.",
-       "zh": "Oil Change的媒体通告称,新的案文草案预计于11月19日上午发布,对土耳其和澳大利亚两个主席团的压力正在加大。重点是总括性决定和化石燃料转型议题。",
-       "ar": "يذكر الإشعار الإعلامي لـ Oil Change أن مسودة نص جديدة كانت متوقعة صباح 19 نوفمبر وأن الضغط يتزايد على رئاستي تركيا وأستراليا. ويركّز على القرار الشامل ومسار الانتقال بعيدًا عن الوقود الأحفوري."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "350org-2026-11-19-near-final-texts",
-      "title": "COP31 near-final texts an 'outrage' as fossil fuel transition eliminated",
-      "url": "https://350.org/press-release/cop31-near-final-texts-an-outrage-as-fossil-fuel-transition-eliminated/",
-      "publisher": "350.org",
-      "author": "350.org",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "TAFF e fósseis",
-       "Decisão de cobertura"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A 350.org reage aos textos quase finais da COP31 e afirma que eles eliminam a transição para longe dos combustíveis fósseis. A crítica incide sobre o rascunho da decisão de cobertura e o roteiro TAFF. Resumo baseado apenas no título e na chamada da listagem.",
-      "collected_at": "2026-11-20T06:40:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "350.org reacts to the near-final COP31 texts and says they eliminate the transition away from fossil fuels. The criticism targets the draft cover decision and the TAFF roadmap. Summary based only on the listing title and teaser.",
-       "es": "350.org reacciona a los textos casi finales de la COP31 y afirma que eliminan la transición para abandonar los combustibles fósiles. La crítica se dirige al borrador de la decisión de cobertura y a la hoja de ruta TAFF. Resumen basado solo en el título y el extracto del listado.",
-       "fr": "350.org réagit aux textes quasi finaux de la COP31 et affirme qu'ils éliminent la transition hors des combustibles fossiles. La critique vise le projet de décision de couverture et la feuille de route TAFF. Résumé fondé uniquement sur le titre et l'extrait de la liste.",
-       "ru": "350.org реагирует на почти окончательные тексты КС-31 и заявляет, что они устраняют переход от ископаемого топлива. Критика направлена на проект итогового решения и дорожную карту TAFF. Резюме основано только на заголовке и анонсе в списке.",
-       "zh": "350.org 对 COP31 近乎最终的文本作出回应,称其删除了摆脱化石燃料的转型内容。批评针对总括决定草案和 TAFF 路线图。摘要仅依据列表中的标题和导语。",
-       "ar": "ردّت 350.org على نصوص COP31 شبه النهائية، معتبرة أنها تحذف الانتقال بعيدًا عن الوقود الأحفوري. وينصبّ النقد على مسودة قرار التغطية وخارطة طريق TAFF. الملخص مبني على العنوان ومقتطف القائمة فقط."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "oilchange-2026-11-17-media-advisory",
-      "title": "Oil Change International COP31 Media Advisory – November 17, 2026",
-      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-17-2026/",
-      "publisher": "Oil Change International",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "Alerta de mídia da Oil Change International: as negociações em Antalya chegaram a um estágio crítico, e o último rascunho da decisão de cobertura é visto ao mesmo tempo como oportunidade de avanço e como risco. Resumo baseado na descrição da listagem.",
-      "collected_at": "2026-11-17T12:17:18-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change International's media advisory says negotiations in Antalya have reached a critical stage and that the latest draft of the cover decision is seen as both an opportunity for progress and a risk. Summary based on the listing description.",
-       "es": "El aviso a los medios de Oil Change International indica que las negociaciones en Antalya han llegado a una fase crítica y que el último proyecto de decisión de cobertura se considera a la vez una oportunidad de avance y un riesgo. Resumen basado en la descripción del listado.",
-       "fr": "L'avis aux médias d'Oil Change International indique que les négociations à Antalya ont atteint un stade critique et que le dernier projet de décision de couverture est vu à la fois comme une occasion de progrès et comme un risque. Résumé fondé sur la description de la liste.",
-       "ru": "В медиа-анонсе Oil Change International говорится, что переговоры в Анталье достигли критической стадии, а последний проект общего решения рассматривается одновременно как возможность прогресса и как риск. Резюме основано на описании в списке публикаций.",
-       "zh": "Oil Change International的媒体通告称,安塔利亚的谈判已进入关键阶段,涵盖性决定的最新草案既被视为取得进展的机会,也被视为风险。摘要依据列表页描述撰写。",
-       "ar": "يفيد التنبيه الإعلامي لـOil Change International بأن المفاوضات في أنطاليا بلغت مرحلة حرجة، وبأن أحدث مسودة للمقرر الجامع تُعدّ فرصة للتقدم وتحذيراً في آن واحد. الملخص مبني على وصف صفحة القائمة."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "350org-2026-11-17-ministers-roadmaps",
-      "title": "More ministers announce transition away from fossil fuels: COP31 presidencies must stop ignoring roadmaps",
-      "url": "https://350.org/press-release/more-ministers-announce-roadmaps-to-transition-away-from-fossil-fuels-cop31-presidencies-must-stop-ignoring-roadmaps/",
-      "publisher": "350.org",
-      "author": "350.org",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "TAFF e fósseis",
-       "Decisão de cobertura"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A 350.org saúda novos ministros que anunciam roteiros de transição para longe dos combustíveis fósseis e cobra que as presidências da COP31 parem de ignorá-los e os integrem à decisão de cobertura. Resumo baseado no título e na chamada da listagem; o texto completo não foi lido.",
-      "collected_at": "2026-11-18T00:20:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "350.org welcomes additional ministers announcing roadmaps for the transition away from fossil fuels and urges the COP31 presidencies to stop ignoring them and to bring them into the cover decision. Summary based on the title and listing teaser; the full text was not read.",
-       "es": "350.org celebra que más ministros anuncien hojas de ruta para la transición para dejar atrás los combustibles fósiles e insta a las presidencias de la COP31 a dejar de ignorarlas e incorporarlas a la decisión de cobertura. Resumen basado en el título y el avance del listado; no se leyó el texto completo.",
-       "fr": "350.org salue l'annonce par d'autres ministres de feuilles de route pour la transition hors des combustibles fossiles et exhorte les présidences de la COP31 à cesser de les ignorer et à les intégrer à la décision de couverture. Résumé fondé sur le titre et l'aperçu de la liste ; le texte intégral n'a pas été lu.",
-       "ru": "350.org приветствует заявления новых министров о дорожных картах перехода от ископаемого топлива и призывает председательства КС-31 перестать их игнорировать и включить в общее решение. Резюме основано на заголовке и анонсе в списке; полный текст не читался.",
-       "zh": "350.org欢迎更多部长宣布摆脱化石燃料的转型路线图，并敦促COP31主席团不要再无视这些路线图，将其纳入总括性决定。摘要基于标题和列表导语，未阅读全文。",
-       "ar": "ترحب 350.org بإعلان المزيد من الوزراء عن خرائط طريق للانتقال بعيداً عن الوقود الأحفوري، وتحث رئاستي مؤتمر الأطراف الحادي والثلاثين على التوقف عن تجاهلها ودمجها في القرار الشامل. الملخص مبني على العنوان ومقدمة القائمة؛ ولم يُقرأ النص الكامل."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "actionaid-2026-11-17-electrification-draft",
-      "title": "‘Dangerously Co-opted’: ActionAid blasts COP31’s electrification draft for keeping fossil fuels in the mix.",
-      "url": "https://actionaid.org/news/2026/dangerously-co-opted-actionaid-blasts-cop31s-electrification-draft-keeping-fossil-fuels",
-      "publisher": "ActionAid International",
-      "author": "ActionAid",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "Eletrificação",
-       "TAFF e fósseis",
-       "Decisão de cobertura"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A ActionAid critica o rascunho de eletrificação da COP31, que considera \"dangerously co-opted\" por manter os combustíveis fósseis na mistura energética. A reação se liga às trilhas de eletrificação e de TAFF e fósseis, em meio à disputa sobre a decisão de cobertura.",
-      "collected_at": "2026-11-17T06:20:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "ActionAid criticises the COP31 electrification draft, which it considers \"dangerously co-opted\" for keeping fossil fuels in the energy mix. The reaction bears on the electrification and TAFF and fossil fuels tracks, amid the dispute over the cover decision. Summary based on the title and listing metadata;",
-       "es": "ActionAid critica el borrador de electrificación de la COP31, que considera \"dangerously co-opted\" por mantener los combustibles fósiles en la matriz energética. La reacción se vincula con las vías de electrificación y de TAFF y combustibles fósiles, en medio de la disputa sobre la decisión de cobertura.",
-       "fr": "ActionAid critique le projet sur l'électrification de la COP31, qu'elle juge \"dangerously co-opted\" parce qu'il maintient les combustibles fossiles dans le bouquet énergétique. Cette réaction concerne les volets électrification et TAFF et combustibles fossiles, dans le débat sur la décision de couverture.",
-       "ru": "ActionAid критикует проект по электрификации на COP31, который организация считает \"dangerously co-opted\", поскольку в нём сохраняется ископаемое топливо в энергобалансе. Реакция относится к направлениям электрификации и TAFF и ископаемого топлива на фоне спора вокруг решения о закрытии (cover decision).",
-       "zh": "ActionAid批评COP31的电气化草案，认为其在能源结构中保留化石燃料，属于\"dangerously co-opted\"。该回应涉及电气化以及TAFF与化石燃料议题，背景是围绕总括性决定（cover decision）的争论。摘要依据标题和列表元数据，未阅读正文。",
-       "ar": "تنتقد منظمة ActionAid مسودة الكهربة في COP31، التي تعتبرها \"dangerously co-opted\" لإبقائها الوقود الأحفوري ضمن مزيج الطاقة. ويتصل هذا الرد بمساري الكهربة وTAFF والوقود الأحفوري، في خضم الخلاف حول القرار الجامع (cover decision). الملخص مبني على العنوان وبيانات القائمة؛ ولم يُقرأ نص المقال."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "oilchange-2026-11-17-fossil-roadmaps",
-      "title": "Group of countries announce fossil fuel transition roadmaps at COP31",
-      "url": "https://oilchange.org/news/group-of-countries-announce-fossil-fuel-transition-roadmaps-at-cop31/",
-      "publisher": "Oil Change International",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "TAFF e fósseis",
-       "Decisão de cobertura"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "Oil Change International saúda o anúncio, por um grupo de países, de roteiros de transição dos combustíveis fósseis na COP31 e questiona se os negociadores vão liderar ou obstruir esse esforço. Liga-se à trilha TAFF e ao rascunho da decisão de cobertura. Resumo baseado na descrição da listagem.",
-      "collected_at": "2026-11-17T12:17:18-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change International welcomes a group of countries' announcement of fossil fuel transition roadmaps at COP31 and asks whether negotiators will lead or obstruct the effort. It bears on the TAFF track and the draft cover decision. Summary based on the listing description.",
-       "es": "Oil Change International acoge con satisfacción el anuncio por un grupo de países de hojas de ruta de transición de los combustibles fósiles en la COP31 y se pregunta si los negociadores liderarán o obstruirán ese esfuerzo. Atañe a la vía TAFF y al proyecto de decisión de cobertura.",
-       "fr": "Oil Change International salue l'annonce par un groupe de pays de feuilles de route de transition des combustibles fossiles à la COP31 et se demande si les négociateurs vont mener ou entraver cet effort. Cela concerne le volet TAFF et le projet de décision de couverture. Résumé fondé sur la description de la liste.",
-       "ru": "Oil Change International приветствует объявление группой стран дорожных карт перехода от ископаемого топлива на COP31 и задаётся вопросом, возглавят ли переговорщики эти усилия или будут им препятствовать. Тема относится к направлению TAFF и проекту общего решения. Резюме основано на описании в списке публикаций.",
-       "zh": "Oil Change International欢迎一组国家在COP31上宣布化石燃料转型路线图,并质疑谈判代表是将引领还是阻碍这一努力。该内容涉及TAFF议题和涵盖性决定草案。摘要依据列表页描述撰写。",
-       "ar": "ترحب Oil Change International بإعلان مجموعة من الدول عن خرائط طريق للتحول عن الوقود الأحفوري في COP31، وتتساءل عما إذا كان المفاوضون سيقودون هذا الجهد أم يعرقلونه. ويتصل ذلك بمسار TAFF ومشروع المقرر الجامع. الملخص مبني على وصف صفحة القائمة."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "350.org",
-     "ActionAid International",
-     "Oil Change International"
-    ]
-   },
-   {
     "id": "st-unfccc-2026-11-19-crucial-days",
     "section": "negotiations",
-    "score": 0.8,
+    "score": 0.3,
     "lead": {
      "id": "unfccc-2026-11-19-crucial-days",
      "title": "\"These are crucial days ahead for climate cooperation. And we have no time to lose\" – UN Climate Chief at COP31 press conference",
@@ -643,120 +628,9 @@
     ]
    },
    {
-    "id": "st-cop31tr-2026-11-19-climate-club-oecd",
-    "section": "action",
-    "score": 0.48,
-    "lead": {
-     "id": "cop31tr-2026-11-19-climate-club-oecd",
-     "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
-     "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
-     "publisher": "COP31 Presidency (Türkiye/Australia)",
-     "author": "COP31 Presidency",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação",
-      "Presidência e anfitrião",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento.",
-     "collected_at": "2026-11-19T06:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability,…",
-      "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión.",
-      "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements.",
-      "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции.",
-      "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
-      "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "COP31 Presidency (Türkiye/Australia)"
-    ]
-   },
-   {
-    "id": "st-sefia-2026-11-19-week2-day1",
-    "section": "negotiations",
-    "score": 0.459,
-    "lead": {
-     "id": "sefia-2026-11-19-week2-day1",
-     "title": "COP31 Week 2, Day 1: Climate Action and Just Transition Mechanism",
-     "url": "https://sefia.org/en/blog/cop31-week-2-day-1-climate-action-and-just-transition-mechanism/",
-     "publisher": "SEFiA",
-     "author": "SEFiA",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Transição justa"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "Post do SEFiA sobre o primeiro dia da segunda semana da COP31, com foco na ação climática e no mecanismo de transição justa. Só o título e a chamada foram lidos, sem o corpo do texto. Liga-se à trilha de transição justa (JTWP e Mecanismo Belém–Antalya).",
-     "collected_at": "2026-11-20T06:40:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "SEFiA blog post on the first day of COP31's second week, focusing on climate action and the just transition mechanism. Only the title and teaser were read, not the body text. It bears on the just transition track (JTWP and the Belém–Antalya Mechanism).",
-      "es": "Entrada del blog de SEFiA sobre el primer día de la segunda semana de la COP31, centrada en la acción climática y el mecanismo de transición justa. Solo se leyeron el título y el extracto, no el cuerpo del texto. Se vincula con la vía de transición justa (JTWP y Mecanismo Belém–Antalya).",
-      "fr": "Article de blog de SEFiA sur le premier jour de la deuxième semaine de la COP31, consacré à l'action climatique et au mécanisme de transition juste. Seuls le titre et l'extrait ont été lus, pas le corps du texte. Il concerne le volet transition juste (JTWP et Mécanisme Belém–Antalya).",
-      "ru": "Запись в блоге SEFiA о первом дне второй недели КС-31, посвящённая климатическим действиям и механизму справедливого перехода. Прочитаны только заголовок и анонс, без основного текста. Относится к треку справедливого перехода (JTWP и Механизм Белен–Анталья).",
-      "zh": "SEFiA 博客文章,介绍 COP31 第二周第一天,重点为气候行动和公正转型机制。仅阅读了标题和导语,未读正文。涉及公正转型议题(JTWP 及贝伦—安塔利亚机制)。",
-      "ar": "تدوينة من SEFiA عن اليوم الأول من الأسبوع الثاني لـ COP31، تركز على العمل المناخي وآلية الانتقال العادل. لم يُقرأ سوى العنوان والمقتطف دون نص المقال. وتتصل بمسار الانتقال العادل (JTWP وآلية بيليم–أنطاليا)."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "SEFiA"
-    ]
-   }
-  ],
-  "negotiations": [
-   {
-    "id": "st-climate-home-news-2026-11-19-bangladesh-finance",
-    "section": "negotiations",
-    "score": 0.612,
-    "lead": {
-     "id": "climate-home-news-2026-11-19-bangladesh-finance",
-     "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
-     "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
-     "publisher": "Climate Home News",
-     "author": "Shaikh Faridul Islam",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Adaptação",
-      "Perdas e danos"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo.",
-     "collected_at": "2026-11-19T12:18:19-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next.",
-      "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente.",
-      "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante.",
-      "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему.",
-      "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
-      "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
     "id": "st-climate-home-news-2026-11-19-bulletin-day-10",
     "section": "negotiations",
-    "score": 0.48,
+    "score": 0.3,
     "lead": {
      "id": "climate-home-news-2026-11-19-bulletin-day-10",
      "title": "COP31 Bulletin Day 10: Ministers' exchange makes little clear progress",
@@ -793,7 +667,7 @@
    {
     "id": "st-unfccc-2026-11-18-ndc-support",
     "section": "negotiations",
-    "score": 0.425,
+    "score": 0.255,
     "lead": {
      "id": "unfccc-2026-11-18-ndc-support",
      "title": "Countries call for finance and technical support to turn climate plans into action at COP31",
@@ -829,7 +703,7 @@
    {
     "id": "st-bluesky-enb.iisd.org-20261119-nap-art68-gst",
     "section": "negotiations",
-    "score": 0.374,
+    "score": 0.234,
     "lead": {
      "id": "bluesky-enb.iisd.org-20261119-nap-art68-gst",
      "title": "enb.iisd.org: [resumo da fonte] Reports procedural outcomes at COP31 on National Adaptation Plans, Article 6.8 and the GST…",
@@ -896,70 +770,34 @@
     ]
    },
    {
-    "id": "st-cvfv20-2026-11-18-youth-fellows",
+    "id": "st-climate-home-news-2026-11-19-bangladesh-finance",
     "section": "negotiations",
-    "score": 0.319,
+    "score": 0.229,
     "lead": {
-     "id": "cvfv20-2026-11-18-youth-fellows",
-     "title": "CVF Youth Fellows Graduate at COP31",
-     "url": "https://cvfv20.org/cvf-youth-fellows-graduate-at-cop31/",
-     "publisher": "V20 / CVF",
-     "author": "Sara Ahmed",
-     "published": "2026-11-18",
+     "id": "climate-home-news-2026-11-19-bangladesh-finance",
+     "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+     "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+     "publisher": "Climate Home News",
+     "author": "Shaikh Faridul Islam",
+     "published": "2026-11-19",
      "language": "en",
      "tracks": [
       "Finanças",
-      "Perdas e danos",
-      "Transição justa",
-      "Adaptação"
+      "Adaptação",
+      "Perdas e danos"
      ],
-     "content_type": "official",
+     "content_type": "analysis",
      "kind": "publication",
-     "description": "O CVF-V20 relata a formatura, em 14 de novembro em Antalya, de jovens negociadores de 16 países, atuando em finanças, perdas e danos, transição justa, adaptação e Artigo 6.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
+     "description": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "The CVF-V20 reports the graduation, on 14 November in Antalya, of youth negotiators from 16 countries working on finance, loss and damage, just transition, adaptation and Article 6.",
-      "es": "El CVF-V20 informa de la graduación, el 14 de noviembre en Antalya, de jóvenes negociadores de 16 países que trabajan en finanzas, pérdidas y daños, transición justa, adaptación y el artículo 6.",
-      "fr": "Le CVF-V20 rend compte de la remise de diplômes, le 14 novembre à Antalya, de jeunes négociateurs de 16 pays travaillant sur le financement, les pertes et préjudices, la transition juste, l'adaptation et l'article 6.",
-      "ru": "CVF-V20 сообщает о выпуске 14 ноября в Анталье молодых переговорщиков из 16 стран, работающих по финансам, потерям и ущербу, справедливому переходу, адаптации и статье 6.",
-      "zh": "CVF-V20报告称,来自16个国家、负责资金、损失与损害、公正转型、适应和第6条议题的青年谈判代表于11月14日在安塔利亚结业。资金议题的学员表示,各谈判室中的立场越来越远,文中称约一半的COP31决定将含有资金内容。青年代表要求被倾听,而不仅仅是出席。",
-      "ar": "يفيد CVF-V20 بتخرّج مفاوضين شباب من 16 بلدًا، يعملون في التمويل والخسائر والأضرار والانتقال العادل والتكيف والمادة 6، في 14 نوفمبر في أنطاليا. ويقول زملاء مسار التمويل إن المواقف في القاعات تتباعد أكثر فأكثر، ويذكر النص أن نحو نصف قرارات COP31 سيتضمن عناصر تمويلية. ويطالب الشباب بأن يُسمع صوتهم لا أن يكتفوا بالحضور."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "V20 / CVF"
-    ]
-   },
-   {
-    "id": "st-climate-home-news-2026-11-17-gcf-duarte",
-    "section": "negotiations",
-    "score": 0.255,
-    "lead": {
-     "id": "climate-home-news-2026-11-17-gcf-duarte",
-     "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
-     "url": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
-     "publisher": "Climate Home News",
-     "author": "Megan Rowling",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Finanças"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "A diretora executiva do GCF, Mafalda Duarte, afirma que os países ricos devem liderar a reposição do fundo para 2028–2031, apesar das pressões orçamentárias. As Ilhas Salomão foram as primeiras contribuintes da quarta reposição (US$ 400 mil), e o Reino Unido reduziu pela metade sua contribuição atual.",
-     "collected_at": "2026-11-18T12:17:46-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "GCF Executive Director Mafalda Duarte says rich countries must lead the fund's 2028–2031 replenishment despite budget pressures. Solomon Islands was the first contributor to the fourth replenishment (US$ 400,000), and the United Kingdom halved its current contribution.",
-      "es": "La directora ejecutiva del GCF, Mafalda Duarte, afirma que los países ricos deben liderar la reposición del fondo para 2028–2031 pese a las presiones presupuestarias. Las Islas Salomón fueron las primeras contribuyentes a la cuarta reposición (US$ 400.000) y el Reino Unido redujo a la mitad su contribución actual.",
-      "fr": "La directrice exécutive du GCF, Mafalda Duarte, affirme que les pays riches doivent mener la reconstitution du fonds pour 2028-2031 malgré les contraintes budgétaires.",
-      "ru": "Исполнительный директор ЗКФ Мафальда Дуарте заявляет, что богатые страны должны возглавить пополнение фонда на 2028–2031 годы, несмотря на бюджетное давление. Соломоновы Острова стали первым донором четвёртого пополнения (400 тыс. долл. США), а Соединённое Королевство вдвое сократило нынешний взнос.",
-      "zh": "绿色气候基金（GCF）执行主任玛法尔达·杜阿尔特表示，尽管预算承压，富裕国家仍应牵头2028–2031年的基金增资。所罗门群岛成为第四次增资的首个出资方（40万美元），英国则将其当前出资减半。GCF称12年来已以223亿美元支持379个项目，目标是到2030年形成500亿美元的项目组合。此事涉及气候资金。",
-      "ar": "تقول المديرة التنفيذية للصندوق الأخضر للمناخ مافالدا دوارتي إن على الدول الغنية أن تقود تجديد موارد الصندوق للفترة 2028–2031 رغم ضغوط الميزانيات. وكانت جزر سليمان أول مساهم في التجديد الرابع (400 ألف دولار)، بينما خفضت المملكة المتحدة مساهمتها الحالية إلى النصف."
+      "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next.",
+      "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente.",
+      "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante.",
+      "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему.",
+      "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
+      "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات."
      },
      "description_i18n_method": "machine"
     },
@@ -969,9 +807,44 @@
     ]
    },
    {
+    "id": "st-sefia-2026-11-19-week2-day1",
+    "section": "negotiations",
+    "score": 0.172,
+    "lead": {
+     "id": "sefia-2026-11-19-week2-day1",
+     "title": "COP31 Week 2, Day 1: Climate Action and Just Transition Mechanism",
+     "url": "https://sefia.org/en/blog/cop31-week-2-day-1-climate-action-and-just-transition-mechanism/",
+     "publisher": "SEFiA",
+     "author": "SEFiA",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Transição justa"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Post do SEFiA sobre o primeiro dia da segunda semana da COP31, com foco na ação climática e no mecanismo de transição justa. Só o título e a chamada foram lidos, sem o corpo do texto. Liga-se à trilha de transição justa (JTWP e Mecanismo Belém–Antalya).",
+     "collected_at": "2026-11-20T06:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "SEFiA blog post on the first day of COP31's second week, focusing on climate action and the just transition mechanism. Only the title and teaser were read, not the body text. It bears on the just transition track (JTWP and the Belém–Antalya Mechanism).",
+      "es": "Entrada del blog de SEFiA sobre el primer día de la segunda semana de la COP31, centrada en la acción climática y el mecanismo de transición justa. Solo se leyeron el título y el extracto, no el cuerpo del texto. Se vincula con la vía de transición justa (JTWP y Mecanismo Belém–Antalya).",
+      "fr": "Article de blog de SEFiA sur le premier jour de la deuxième semaine de la COP31, consacré à l'action climatique et au mécanisme de transition juste. Seuls le titre et l'extrait ont été lus, pas le corps du texte. Il concerne le volet transition juste (JTWP et Mécanisme Belém–Antalya).",
+      "ru": "Запись в блоге SEFiA о первом дне второй недели КС-31, посвящённая климатическим действиям и механизму справедливого перехода. Прочитаны только заголовок и анонс, без основного текста. Относится к треку справедливого перехода (JTWP и Механизм Белен–Анталья).",
+      "zh": "SEFiA 博客文章,介绍 COP31 第二周第一天,重点为气候行动和公正转型机制。仅阅读了标题和导语,未读正文。涉及公正转型议题(JTWP 及贝伦—安塔利亚机制)。",
+      "ar": "تدوينة من SEFiA عن اليوم الأول من الأسبوع الثاني لـ COP31، تركز على العمل المناخي وآلية الانتقال العادل. لم يُقرأ سوى العنوان والمقتطف دون نص المقال. وتتصل بمسار الانتقال العادل (JTWP وآلية بيليم–أنطاليا)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "SEFiA"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-18-gst2-launch",
     "section": "negotiations",
-    "score": 0.255,
+    "score": 0.153,
     "lead": {
      "id": "unfccc-2026-11-18-gst2-launch",
      "title": "\"An ambitious outcome is within reach,\" UN Climate Chief at COP31 event to launch the second global stocktake",
@@ -1007,7 +880,7 @@
    {
     "id": "st-unfccc-2026-11-18-just-transitions-gender",
     "section": "negotiations",
-    "score": 0.255,
+    "score": 0.153,
     "lead": {
      "id": "unfccc-2026-11-18-just-transitions-gender",
      "title": "All women and girls, men and boys must have a voice in shaping just transitions: UN Climate Chief",
@@ -1042,7 +915,7 @@
    {
     "id": "st-climate-home-news-2026-11-18-bulletin-day-9",
     "section": "negotiations",
-    "score": 0.255,
+    "score": 0.153,
     "lead": {
      "id": "climate-home-news-2026-11-18-bulletin-day-9",
      "title": "COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening",
@@ -1080,7 +953,7 @@
    {
     "id": "st-bluesky-enb.iisd.org-20261118-adaptation-gap",
     "section": "negotiations",
-    "score": 0.234,
+    "score": 0.14,
     "lead": {
      "id": "bluesky-enb.iisd.org-20261118-adaptation-gap",
      "title": "enb.iisd.org: [resumo da fonte] Announces the UNEP Adaptation Gap Report launch event at COP31, focusing on adaptation finance and…",
@@ -1150,7 +1023,7 @@
    {
     "id": "st-bluesky-enb.iisd.org-20261118-ldc-agreement",
     "section": "negotiations",
-    "score": 0.234,
+    "score": 0.14,
     "lead": {
      "id": "bluesky-enb.iisd.org-20261118-ldc-agreement",
      "title": "enb.iisd.org: [resumo da fonte] Reports that COP31 reached agreement on least developed country matters while finance, mitigation,…",
@@ -1219,7 +1092,7 @@
    {
     "id": "st-bluesky-enb.iisd.org-20261118-finance-wp",
     "section": "negotiations",
-    "score": 0.234,
+    "score": 0.14,
     "lead": {
      "id": "bluesky-enb.iisd.org-20261118-finance-wp",
      "title": "enb.iisd.org: [resumo da fonte] Reports on COP31 climate finance debates and presidency consultations on the Climate Finance Work…",
@@ -1254,9 +1127,47 @@
     ]
    },
    {
+    "id": "st-cvfv20-2026-11-18-youth-fellows",
+    "section": "negotiations",
+    "score": 0.115,
+    "lead": {
+     "id": "cvfv20-2026-11-18-youth-fellows",
+     "title": "CVF Youth Fellows Graduate at COP31",
+     "url": "https://cvfv20.org/cvf-youth-fellows-graduate-at-cop31/",
+     "publisher": "V20 / CVF",
+     "author": "Sara Ahmed",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Perdas e danos",
+      "Transição justa",
+      "Adaptação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "O CVF-V20 relata a formatura, em 14 de novembro em Antalya, de jovens negociadores de 16 países, atuando em finanças, perdas e danos, transição justa, adaptação e Artigo 6.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The CVF-V20 reports the graduation, on 14 November in Antalya, of youth negotiators from 16 countries working on finance, loss and damage, just transition, adaptation and Article 6.",
+      "es": "El CVF-V20 informa de la graduación, el 14 de noviembre en Antalya, de jóvenes negociadores de 16 países que trabajan en finanzas, pérdidas y daños, transición justa, adaptación y el artículo 6.",
+      "fr": "Le CVF-V20 rend compte de la remise de diplômes, le 14 novembre à Antalya, de jeunes négociateurs de 16 pays travaillant sur le financement, les pertes et préjudices, la transition juste, l'adaptation et l'article 6.",
+      "ru": "CVF-V20 сообщает о выпуске 14 ноября в Анталье молодых переговорщиков из 16 стран, работающих по финансам, потерям и ущербу, справедливому переходу, адаптации и статье 6.",
+      "zh": "CVF-V20报告称,来自16个国家、负责资金、损失与损害、公正转型、适应和第6条议题的青年谈判代表于11月14日在安塔利亚结业。资金议题的学员表示,各谈判室中的立场越来越远,文中称约一半的COP31决定将含有资金内容。青年代表要求被倾听,而不仅仅是出席。",
+      "ar": "يفيد CVF-V20 بتخرّج مفاوضين شباب من 16 بلدًا، يعملون في التمويل والخسائر والأضرار والانتقال العادل والتكيف والمادة 6، في 14 نوفمبر في أنطاليا. ويقول زملاء مسار التمويل إن المواقف في القاعات تتباعد أكثر فأكثر، ويذكر النص أن نحو نصف قرارات COP31 سيتضمن عناصر تمويلية. ويطالب الشباب بأن يُسمع صوتهم لا أن يكتفوا بالحضور."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "V20 / CVF"
+    ]
+   },
+   {
     "id": "st-cvf-v20-2026-11-18-gst2-remarks",
     "section": "negotiations",
-    "score": 0.191,
+    "score": 0.115,
     "lead": {
      "id": "cvf-v20-2026-11-18-gst2-remarks",
      "title": "Remarks by CVF-V20 Secretariat Managing Director Sara Jane Ahmed on the Challenges and Opportunities for the Second Global Stocktake",
@@ -1290,340 +1201,9 @@
     ]
    },
    {
-    "id": "st-climatechangenews-2026-11-17-bulletin-day-8",
-    "section": "negotiations",
-    "score": 0.18,
-    "lead": {
-     "id": "climatechangenews-2026-11-17-bulletin-day-8",
-     "title": "COP31 Bulletin Day 8: Arab Group, Russia reject cover text over fossil fuels and electrification goal",
-     "url": "https://www.climatechangenews.com/2026/11/17/cop31-bulletin-day-8-arab-group-russia-reject-cover-text-over-fossil-fuels-and-electrification-goal/",
-     "publisher": "Climate Home News",
-     "author": "Megan Rowling",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Decisão de cobertura",
-      "Eletrificação",
-      "TAFF e fósseis",
-      "Finanças",
-      "Oceanos"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Os ministros começam a enxugar o longo rascunho da decisão de cobertura da COP31. O Grupo Árabe, o LMDC e a Rússia se opõem à meta de eletrificação, ao roteiro de transição dos combustíveis fósseis e à linguagem sobre metano, enquanto os países desenvolvidos permanecem relativamente calados.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Ministers begin trimming the lengthy COP31 draft cover decision. The Arab Group, the LMDC and Russia object to the electrification target, the fossil fuel transition roadmap and methane language, while developed countries remain relatively quiet.",
-      "es": "Los ministros comienzan a recortar el extenso proyecto de decisión de cobertura de la COP31. El Grupo Árabe, el LMDC y Rusia se oponen a la meta de electrificación, a la hoja de ruta de transición de los combustibles fósiles y al lenguaje sobre el metano, mientras los países desarrollados permanecen relativamente…",
-      "fr": "Les ministres commencent à élaguer le long projet de décision de couverture de la COP31. Le Groupe arabe, le LMDC et la Russie s'opposent à l'objectif d'électrification, à la feuille de route de transition des combustibles fossiles et au libellé sur le méthane, tandis que les pays développés restent relativement…",
-      "ru": "Министры начинают сокращать объёмный проект общего решения COP31. Арабская группа, LMDC и Россия возражают против цели по электрификации, дорожной карты перехода от ископаемого топлива и формулировок о метане, тогда как развитые страны остаются относительно сдержанными.",
-      "zh": "部长们开始精简篇幅冗长的COP31涵盖性决定草案。阿拉伯集团、LMDC和俄罗斯反对电气化目标、化石燃料转型路线图及甲烷相关措辞,而发达国家则相对沉默。气候资金谈判仍在继续,预计欧盟将支持电气化承诺;报道还涵盖了海洋日活动。",
-      "ar": "بدأ الوزراء تقليص مشروع المقرر الجامع الطويل لمؤتمر COP31. وتعترض المجموعة العربية ومجموعة LMDC وروسيا على هدف الكهربة وخارطة طريق التحول عن الوقود الأحفوري وصياغة الميثان، فيما تبقى الدول المتقدمة هادئة نسبياً."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-nbs",
-    "section": "negotiations",
-    "score": 0.165,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-nbs",
-     "title": "enb.iisd.org: [resumo da fonte] Critical infrastructure faces high climate exposure and investment is rising in developing…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jti2zai226",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "17:01",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Agenda de Ação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB destaca que a infraestrutura crítica está muito exposta ao clima e que o investimento cresce em economias em desenvolvimento, e apresenta avanços do Acelerador de Inovação em Soluções Baseadas na Natureza.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB notes that critical infrastructure faces high climate exposure and investment is rising in developing economies, and presents progress from the Nature-Based Solutions Innovation Accelerator.",
-      "es": "ENB señala que la infraestructura crítica tiene una alta exposición climática y que la inversión crece en las economías en desarrollo, y presenta avances del Acelerador de Innovación en Soluciones Basadas en la Naturaleza.",
-      "fr": "L'ENB souligne que les infrastructures critiques sont très exposées au climat et que l'investissement augmente dans les économies en développement, et présente les progrès de l'Accélérateur d'innovation pour les solutions fondées sur la nature.",
-      "ru": "ENB отмечает, что критическая инфраструктура сильно подвержена климатическим рискам, а инвестиции в развивающихся странах растут, и представляет прогресс Инновационного акселератора решений на основе природы.",
-      "zh": "ENB 指出，关键基础设施面临较高的气候风险敞口，发展中经济体的投资正在增加，并介绍了基于自然的解决方案创新加速器的进展。",
-      "ar": "تشير نشرة ENB إلى أن البنية التحتية الحيوية معرضة بدرجة عالية للمخاطر المناخية وأن الاستثمار يتزايد في الاقتصادات النامية، وتعرض التقدم المحرز في مسرّع الابتكار للحلول القائمة على الطبيعة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-carbonbrief-2026-11-17-co2-exporters",
-    "section": "negotiations",
-    "score": 0.162,
-    "lead": {
-     "id": "carbonbrief-2026-11-17-co2-exporters",
-     "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-     "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-     "publisher": "Carbon Brief",
-     "author": "Simon Evans",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "Análise da Carbon Brief ordena os países pelas emissões de CO2 dos combustíveis fósseis que exportaram desde 1850, com Rússia, Arábia Saudita e Austrália no topo. Interessa à trilha de TAFF e fósseis e à responsabilidade de produtores, incluindo a Austrália, coanfitriã da COP31. Resumo baseado na descrição do feed RSS.",
-     "collected_at": "2026-11-17T06:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "A Carbon Brief analysis ranks countries by the CO2 emissions from the fossil fuels they have exported since 1850, with Russia, Saudi Arabia and Australia at the top. It matters for the TAFF and fossil fuels track and for producer responsibility, including Australia, co-host of COP31.",
-      "es": "Un análisis de Carbon Brief clasifica a los países según las emisiones de CO2 de los combustibles fósiles que han exportado desde 1850, con Rusia, Arabia Saudita y Australia a la cabeza.",
-      "fr": "Une analyse de Carbon Brief classe les pays selon les émissions de CO2 des combustibles fossiles qu'ils ont exportés depuis 1850, la Russie, l'Arabie saoudite et l'Australie arrivant en tête.",
-      "ru": "Анализ Carbon Brief ранжирует страны по выбросам CO2 от ископаемого топлива, экспортированного с 1850 года; первые места занимают Россия, Саудовская Аравия и Австралия. Это важно для направления TAFF и ископаемого топлива и для ответственности производителей, включая Австралию, сопредседателя COP31.",
-      "zh": "碳简报（Carbon Brief）的分析按1850年以来各国出口化石燃料所对应的二氧化碳排放量对国家排序，俄罗斯、沙特阿拉伯和澳大利亚位居前列。这与TAFF与化石燃料议题以及生产国责任相关，其中包括COP31共同东道国澳大利亚。摘要依据RSS订阅源中的描述。",
-      "ar": "يصنّف تحليل لموقع Carbon Brief الدول بحسب انبعاثات ثاني أكسيد الكربون الناتجة عن الوقود الأحفوري الذي صدّرته منذ عام 1850، وتتصدر القائمة روسيا والمملكة العربية السعودية وأستراليا. ويهمّ ذلك مسار TAFF والوقود الأحفوري ومسؤولية المنتجين، ومنهم أستراليا المضيف المشارك لـ COP31. الملخص مبني على وصف موجز RSS."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Carbon Brief"
-    ]
-   },
-   {
-    "id": "st-climate-home-news-2026-11-17-honduras-coastal-resilience",
-    "section": "negotiations",
-    "score": 0.153,
-    "lead": {
-     "id": "climate-home-news-2026-11-17-honduras-coastal-resilience",
-     "title": "Building coastal resilience for local communities in Honduras",
-     "url": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
-     "publisher": "Climate Home News",
-     "author": "Adam Wentworth",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Matéria patrocinada sobre um projeto de US$ 4 milhões e quatro anos do Fundo de Adaptação, executado pela CASM no departamento de Gracias a Dios, em Honduras, para proteger comunidades indígenas contra inundações, furacões e elevação do mar.",
-     "collected_at": "2026-11-18T18:16:49-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Sponsored article on a four-year, US$ 4 million Adaptation Fund project run by CASM in Honduras' Gracias a Dios department to protect Indigenous communities from flooding, hurricanes and sea-level rise.",
-      "es": "Artículo patrocinado sobre un proyecto de cuatro años y US$ 4 millones del Fondo de Adaptación, ejecutado por la CASM en el departamento de Gracias a Dios, en Honduras, para proteger a comunidades indígenas frente a inundaciones, huracanes y el aumento del nivel del mar.",
-      "fr": "Article sponsorisé sur un projet de quatre ans et 4 millions de dollars du Fonds pour l'adaptation, mené par la CASM dans le département de Gracias a Dios, au Honduras, pour protéger des communautés autochtones contre les inondations, les ouragans et l'élévation du niveau de la mer.",
-      "ru": "Спонсорская статья о четырёхлетнем проекте Адаптационного фонда стоимостью 4 млн долл. США, который реализует CASM в департаменте Грасьяс-а-Дьос в Гондурасе для защиты коренных общин от наводнений, ураганов и повышения уровня моря. Проект рассчитан на 18 тыс.",
-      "zh": "这是一篇赞助文章，介绍由CASM在洪都拉斯格拉西亚斯阿迪奥斯省实施的、为期四年、金额400万美元的适应基金项目，旨在保护原住民社区免受洪水、飓风和海平面上升的影响。项目计划通过预警、红树林恢复和太阳能供水系统惠及1.8万人，其中60%为女性。轨道：适应。",
-      "ar": "مقال برعاية عن مشروع لصندوق التكيف مدته أربع سنوات وتبلغ كلفته 4 ملايين دولار تنفذه منظمة CASM في مقاطعة غراسياس إيه ديوس في هندوراس لحماية مجتمعات الشعوب الأصلية من الفيضانات والأعاصير وارتفاع مستوى سطح البحر."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-unfccc-2026-11-17-article62-registry",
-    "section": "negotiations",
-    "score": 0.153,
-    "lead": {
-     "id": "unfccc-2026-11-17-article62-registry",
-     "title": "COP31 Sees Launch of First Version of Article 6.2 International Registry",
-     "url": "https://unfccc.int/news/cop31-sees-launch-of-first-version-of-article-62-international-registry",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "UNFCCC secretariat",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A UNFCCC anuncia, durante a COP31, o lançamento da primeira versão do registro internacional do Artigo 6.2 do Acordo de Paris, base para o rastreamento de transferências de resultados de mitigação entre países. O avanço incide sobre a trilha de mercados de carbono e cooperação voluntária.",
-     "collected_at": "2026-11-18T00:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The UNFCCC announces, during COP31, the launch of the first version of the international registry under Article 6.2 of the Paris Agreement, the basis for tracking transfers of mitigation outcomes between countries. The step bears on the carbon markets and voluntary cooperation track.",
-      "es": "La CMNUCC anuncia, durante la COP31, el lanzamiento de la primera versión del registro internacional del artículo 6.2 del Acuerdo de París, base para el seguimiento de las transferencias de resultados de mitigación entre países. El avance incide en la vía de los mercados de carbono y la cooperación voluntaria.",
-      "fr": "La CCNUCC annonce, pendant la COP31, le lancement de la première version du registre international prévu à l'article 6.2 de l'Accord de Paris, base du suivi des transferts de résultats d'atténuation entre pays. Cette avancée concerne le volet des marchés du carbone et de la coopération volontaire.",
-      "ru": "РКИК ООН объявляет о запуске в ходе КС-31 первой версии международного реестра по статье 6.2 Парижского соглашения, который служит основой для учёта передач результатов предотвращения выбросов между странами. Этот шаг относится к направлению углеродных рынков и добровольного сотрудничества.",
-      "zh": "《联合国气候变化框架公约》秘书处宣布，在COP31期间推出《巴黎协定》第6.2条国际登记簿的首个版本，用于追踪各国之间减缓成果的转让。这一进展涉及碳市场和自愿合作议题。摘要基于标题和页面导语，未阅读全文。",
-      "ar": "أعلنت أمانة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ، خلال مؤتمر الأطراف الحادي والثلاثين، إطلاق النسخة الأولى من السجل الدولي بموجب المادة 6-2 من اتفاق باريس، وهو الأساس لتتبع عمليات نقل نتائج التخفيف بين البلدان. ويتصل هذا التقدم بمسار أسواق الكربون والتعاون الطوعي."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
-    "id": "st-unfccc-2026-11-17-transparency-stiell",
-    "section": "negotiations",
-    "score": 0.153,
-    "lead": {
-     "id": "unfccc-2026-11-17-transparency-stiell",
-     "title": "Transparency is essential to ensuring climate action is grounded in solid evidence – UN Climate Chief",
-     "url": "https://unfccc.int/news/transparency-is-essential-to-ensuring-climate-action-is-grounded-in-solid-evidence-un-climate-chief",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "UNFCCC secretariat",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "GST2 e IPCC",
-      "Mitigação e MWP"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "O chefe do clima da ONU, Simon Stiell, defende que a transparência é a base para uma ação climática apoiada em evidências sólidas, no contexto dos relatórios bienais de transparência (BTRs) e da avaliação coletiva do GST2. Resumo baseado no título e na chamada da página; o discurso completo não foi lido.",
-     "collected_at": "2026-11-18T00:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "UN Climate Chief Simon Stiell argues that transparency is the foundation for climate action grounded in solid evidence, in the context of the biennial transparency reports (BTRs) and the collective assessment under GST2. Summary based on the title and page teaser; the full speech was not read.",
-      "es": "El Jefe de ONU Cambio Climático, Simon Stiell, sostiene que la transparencia es la base de una acción climática fundamentada en pruebas sólidas, en el contexto de los informes bienales de transparencia (BTR) y de la evaluación colectiva del GST2. Resumen basado en el título y el avance de la página;",
-      "fr": "Le chef de l'ONU Climat, Simon Stiell, soutient que la transparence est le fondement d'une action climatique reposant sur des preuves solides, dans le contexte des rapports biennaux de transparence (BTR) et de l'évaluation collective du GST2. Résumé fondé sur le titre et l'aperçu de la page ;",
-      "ru": "Глава по климату ООН Саймон Стилл утверждает, что прозрачность — основа климатических действий, опирающихся на надёжные данные, в контексте двухгодичных докладов о прозрачности (BTR) и коллективной оценки в рамках GST2. Резюме основано на заголовке и анонсе страницы; полное выступление не читалось.",
-      "zh": "联合国气候变化事务负责人西蒙·斯蒂尔（Simon Stiell）指出，透明度是以确凿证据为基础开展气候行动的根本，涉及两年期透明度报告（BTR）和GST2下的集体评估。摘要基于标题和页面导语，未阅读完整讲话。",
-      "ar": "يرى رئيس الأمم المتحدة للمناخ سايمون ستيل أن الشفافية هي أساس العمل المناخي القائم على أدلة راسخة، في سياق تقارير الشفافية كل سنتين (BTR) والتقييم الجماعي في إطار GST2. الملخص مبني على العنوان ومقدمة الصفحة؛ ولم يُقرأ الخطاب الكامل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-measuring-progress",
-    "section": "negotiations",
-    "score": 0.14,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-measuring-progress",
-     "title": "enb.iisd.org: [resumo da fonte] A contact group on measuring progress worked to approve indicators.",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jmc23pjc23",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "14:52",
-     "language": "en",
-     "tracks": [
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que o grupo de contato sobre medição de progresso trabalhou para aprovar indicadores (adaptação).",
-     "collected_at": "2026-11-18T13:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that the contact group on measuring progress worked to approve indicators (adaptation).",
-      "es": "ENB informa de que el grupo de contacto sobre la medición del progreso trabajó para aprobar indicadores (adaptación).",
-      "fr": "L'ENB rapporte que le groupe de contact sur la mesure des progrès a travaillé à l'approbation d'indicateurs (adaptation).",
-      "ru": "ENB сообщает, что контактная группа по оценке прогресса работала над утверждением индикаторов (адаптация).",
-      "zh": "ENB 报道，衡量进展联络小组致力于批准指标（适应）。",
-      "ar": "تفيد نشرة ENB بأن فريق الاتصال المعني بقياس التقدم عمل على الموافقة على المؤشرات (التكيف)."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-62-fundos",
-    "section": "negotiations",
-    "score": 0.14,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-62-fundos",
-     "title": "enb.iisd.org: [resumo da fonte] Parties are debating core-budget funding and user fees for participation in Article 6.2…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jfc3753c2e",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "12:47",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP",
-      "Finanças"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que as Partes debatem o financiamento do orçamento básico e taxas de usuário para participar das abordagens cooperativas do Artigo 6.2, e vários países pedem que a participação não dependa da capacidade de pagamento.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that Parties are debating core-budget funding and user fees for participation in Article 6.2 cooperative approaches, with several countries urging that participation not depend on ability to pay.",
-      "es": "ENB informa de que las Partes debaten la financiación del presupuesto básico y las tasas de usuario para participar en los enfoques cooperativos del Artículo 6.2, y varios países piden que la participación no dependa de la capacidad de pago.",
-      "fr": "L'ENB rapporte que les Parties débattent du financement du budget de base et de frais d'utilisation pour participer aux approches concertées de l'article 6.2, plusieurs pays demandant que la participation ne dépende pas de la capacité de payer.",
-      "ru": "ENB сообщает, что Стороны обсуждают финансирование из основного бюджета и плату за пользование для участия в совместных подходах по статье 6.2; несколько стран настаивают, чтобы участие не зависело от платёжеспособности.",
-      "zh": "ENB 报道，各缔约方正在讨论第6.2条合作方法的核心预算供资和参与使用费问题，多个国家敦促参与不应取决于支付能力。",
-      "ar": "تفيد نشرة ENB بأن الأطراف تناقش تمويل الميزانية الأساسية ورسوم الاستخدام للمشاركة في النهج التعاونية بموجب المادة 6-2، ويحث عدة بلدان على ألا تعتمد المشاركة على القدرة على الدفع."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-climatechangenews-2026-11-17-morgera-critical-minerals",
-    "section": "negotiations",
-    "score": 0.138,
-    "lead": {
-     "id": "climatechangenews-2026-11-17-morgera-critical-minerals",
-     "title": "Minerals for the planet or for war and AI? COP31 must make clear what we prioritise",
-     "url": "https://www.climatechangenews.com/2026/11/17/minerals-for-the-planet-or-for-war-and-ai-cop31-must-make-clear-what-we-prioritise/",
-     "publisher": "Climate Home News",
-     "author": "Elisa Morgera",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Transição justa",
-      "Mitigação e MWP"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "A relatora especial da ONU sobre mudança climática e direitos humanos afirma que a demanda por minerais críticos é cada vez mais puxada por usos militares e de IA, e não pela transição energética.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The UN Special Rapporteur on climate change and human rights says demand for critical minerals is increasingly driven by military and AI uses rather than the energy transition.",
-      "es": "La Relatora Especial de la ONU sobre el cambio climático y los derechos humanos afirma que la demanda de minerales críticos responde cada vez más a usos militares y de IA, y no a la transición energética.",
-      "fr": "La Rapporteuse spéciale des Nations Unies sur les changements climatiques et les droits de l'homme affirme que la demande de minerais critiques est de plus en plus tirée par des usages militaires et d'IA plutôt que par la transition énergétique.",
-      "ru": "Специальный докладчик ООН по изменению климата и правам человека отмечает, что спрос на критически важные минералы всё больше определяется военным и ИИ-применением, а не энергетическим переходом.",
-      "zh": "联合国气候变化与人权问题特别报告员指出,关键矿产需求日益受军事和人工智能用途驱动,而非能源转型。她呼吁优先考虑可再生能源和社区需求,排除损害气候的用途,要求可追溯,尊重同意权和原住民权利,并设立禁止采矿区。",
-      "ar": "تقول المقررة الخاصة للأمم المتحدة المعنية بتغير المناخ وحقوق الإنسان إن الطلب على المعادن الحرجة يدفعه بشكل متزايد الاستخدام العسكري واستخدامات الذكاء الاصطناعي لا التحول في مجال الطاقة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
     "id": "st-bluesky-unep.org-20261118-comunicado-resfriamento",
     "section": "negotiations",
-    "score": 0.124,
+    "score": 0.074,
     "lead": {
      "id": "bluesky-unep.org-20261118-comunicado-resfriamento",
      "title": "unep.org: [resumo da fonte] UNEP: nearly 3 billion people could lack adequate cooling by 2050; COP31 countries welcomed a…",
@@ -1657,157 +1237,13 @@
     "publishers": [
      "UNEP"
     ]
-   },
-   {
-    "id": "st-germanwatch-2026-11-17-cri-2027",
-    "section": "negotiations",
-    "score": 0.103,
-    "lead": {
-     "id": "germanwatch-2026-11-17-cri-2027",
-     "title": "More than 900,000 deaths by heat waves, storms, or floods within past 30 years",
-     "url": "https://www.germanwatch.org/en/93639",
-     "publisher": "Germanwatch",
-     "author": "Germanwatch",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Perdas e danos",
-      "Adaptação"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "O Índice de Risco Climático (CRI) 2027 da Germanwatch, apresentado na COP31, aponta mais de 900 mil mortes por eventos climáticos extremos entre 1996 e 2025, com perdas diretas acima de US$ 4,7 trilhões. Dominica, Mianmar e Honduras lideram o ranking de longo prazo;",
-     "collected_at": "2026-11-17T18:30:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Germanwatch's Climate Risk Index (CRI) 2027, presented at COP31, records more than 900,000 deaths from extreme weather between 1996 and 2025, with direct losses above US$ 4.7 trillion. Dominica, Myanmar and Honduras top the long-term ranking; in 2025 the most affected were Jamaica, Sri Lanka and Spain.",
-      "es": "El Índice de Riesgo Climático (IRC) 2027 de Germanwatch, presentado en la COP31, registra más de 900.000 muertes por fenómenos meteorológicos extremos entre 1996 y 2025, con pérdidas directas superiores a 4,7 billones de dólares. Dominica, Myanmar y Honduras encabezan la clasificación a largo plazo;",
-      "fr": "L'Indice de risque climatique (IRC) 2027 de Germanwatch, présenté à la COP31, recense plus de 900 000 décès liés aux phénomènes météorologiques extrêmes entre 1996 et 2025, avec des pertes directes supérieures à 4 700 milliards de dollars. La Dominique, le Myanmar et le Honduras dominent le classement à long terme ;",
-      "ru": "Индекс климатических рисков (CRI) 2027 организации Germanwatch, представленный на КС-31, фиксирует более 900 тысяч смертей от экстремальных погодных явлений в 1996–2025 годах и прямые потери свыше 4,7 трлн долларов США. Долгосрочный рейтинг возглавляют Доминика, Мьянма и Гондурас;",
-      "zh": "Germanwatch 在COP31上发布的《2027年气候风险指数》（CRI）显示，1996年至2025年间极端天气造成逾90万人死亡，直接损失超过4.7万亿美元。长期排名前三位为多米尼克、缅甸和洪都拉斯；2025年受影响最严重的是牙买加、斯里兰卡和西班牙。该研究为损失与损害及适应议题的讨论提供依据。",
-      "ar": "يسجّل مؤشر المخاطر المناخية (CRI) لعام 2027 الصادر عن Germanwatch، والذي عُرض في COP31، أكثر من 900 ألف وفاة بسبب الظواهر الجوية المتطرفة بين عامي 1996 و2025، مع خسائر مباشرة تتجاوز 4.7 تريليون دولار أمريكي."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Germanwatch"
-    ]
-   },
-   {
-    "id": "st-cse-india-2026-11-17-just-transition-green-industrialization",
-    "section": "negotiations",
-    "score": 0.103,
-    "lead": {
-     "id": "cse-india-2026-11-17-just-transition-green-industrialization",
-     "title": "Just Transition through Green Industrialization: Enabling Conditions for the Global South",
-     "url": "https://www.cseindia.org/unfccc-side-event-at-cop31-africa-policy-research-institute-apri-cse-india-e-energy-transition-institute-tufts-university-13342",
-     "publisher": "CSE India",
-     "author": "Avantika Goswami (CSE)",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Transição justa",
-      "Comércio"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "Evento paralelo da UNFCCC na COP31 (17 nov, 18h30, Sala 2 DALYAN) coorganizado por CSE India, APRI, Tufts University e E+ Energy Transition Institute, com Avantika Goswami (CSE). Discute as condições que permitem ao Sul Global buscar industrialização verde de forma justa.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "UNFCCC side event at COP31 (17 Nov, 18:30, Side Event Room 2 DALYAN) co-hosted by CSE India, APRI, Tufts University and the E+ Energy Transition Institute, with Avantika Goswami (CSE). It discusses the conditions that let Global South countries pursue green industrialisation fairly.",
-      "es": "Acto paralelo de la CMNUCC en la COP31 (17 de nov., 18:30, Sala 2 DALYAN) coorganizado por CSE India, APRI, la Universidad de Tufts y el E+ Energy Transition Institute, con Avantika Goswami (CSE). Examina las condiciones que permiten a los países del Sur Global emprender una industrialización verde de forma justa.",
-      "fr": "Événement parallèle de la CCNUCC à la COP31 (17 nov., 18 h 30, salle 2 DALYAN) coorganisé par CSE India, APRI, l'Université Tufts et l'E+ Energy Transition Institute, avec Avantika Goswami (CSE). Il examine les conditions permettant aux pays du Sud de poursuivre une industrialisation verte de manière équitable.",
-      "ru": "Параллельное мероприятие РКИК ООН на COP31 (17 ноября, 18:30, зал 2 DALYAN), организованное CSE India, APRI, Университетом Тафтса и E+ Energy Transition Institute при участии Авантики Госвами (CSE). Обсуждаются условия, позволяющие странам Глобального Юга справедливо проводить зелёную индустриализацию.",
-      "zh": "COP31期间的《联合国气候变化框架公约》边会(11月17日18:30,DALYAN 2号边会室),由CSE India、APRI、塔夫茨大学和E+ Energy Transition Institute共同主办,CSE的Avantika Goswami出席。讨论使全球南方国家能够公平推进绿色工业化的条件。摘要依据CSE的COP31页面列表撰写。",
-      "ar": "فعالية جانبية لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في COP31 (17 نوفمبر، 18:30، قاعة الفعاليات الجانبية 2 DALYAN) تشارك في تنظيمها CSE India وAPRI وجامعة تافتس ومعهد E+ Energy Transition Institute، بمشاركة Avantika Goswami (CSE)."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CSE India"
-    ]
-   },
-   {
-    "id": "st-pm-gov-au-2026-11-17-asia-zero-emissions",
-    "section": "negotiations",
-    "score": 0.099,
-    "lead": {
-     "id": "pm-gov-au-2026-11-17-asia-zero-emissions",
-     "title": "Asia Zero Emissions Community Leaders' Meeting",
-     "url": "https://www.pm.gov.au/media/asia-zero-emissions-community-leaders-meeting",
-     "publisher": "Primeiro-ministro da Austrália (PM&C)",
-     "author": "Prime Minister of Australia",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP",
-      "Presidência e anfitrião"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "O gabinete do primeiro-ministro da Austrália publica material sobre a reunião de líderes da Asia Zero Emissions Community, em 17 de novembro. O tema é a cooperação regional por descarbonização, relevante para o papel da Austrália como Presidente de Negociações da COP31. Resumo baseado apenas no título;",
-     "collected_at": "2026-11-18T06:35:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The Australian Prime Minister's office publishes material on the Asia Zero Emissions Community Leaders' Meeting held on 17 November. The topic is regional decarbonisation cooperation, relevant to Australia's role as COP31 President of Negotiations. Summary based only on the title; the text was not read.",
-      "es": "La oficina del Primer Ministro de Australia publica material sobre la Reunión de Líderes de la Comunidad de Cero Emisiones de Asia, celebrada el 17 de noviembre. El tema es la cooperación regional en descarbonización, relevante para el papel de Australia como Presidente de Negociaciones de la COP31.",
-      "fr": "Le cabinet du Premier ministre australien publie un document sur la réunion des dirigeants de la Communauté Asie zéro émission, tenue le 17 novembre. Le sujet est la coopération régionale en matière de décarbonation, pertinente pour le rôle de l'Australie comme Président des négociations de la COP31.",
-      "ru": "Канцелярия премьер-министра Австралии опубликовала материал о встрече лидеров Азиатского сообщества нулевых выбросов, состоявшейся 17 ноября. Тема — региональное сотрудничество в сфере декарбонизации, важное для роли Австралии как Председателя переговоров СОР31. Резюме основано только на заголовке; текст не прочитан.",
-      "zh": "澳大利亚总理办公室发布了关于11月17日举行的亚洲零排放共同体领导人会议的材料。主题是区域脱碳合作，与澳大利亚担任COP31谈判主席的角色相关。摘要仅依据标题，未阅读正文。",
-      "ar": "ينشر مكتب رئيس وزراء أستراليا مادة عن اجتماع قادة مجتمع آسيا للانبعاثات الصفرية الذي عُقد في 17 نوفمبر. والموضوع هو التعاون الإقليمي في إزالة الكربون، وهو وثيق الصلة بدور أستراليا رئيسةً للمفاوضات في COP31. الملخص مبني على العنوان فقط، ولم يُقرأ النص."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Primeiro-ministro da Austrália (PM&C)"
-    ]
    }
   ],
   "action": [
    {
-    "id": "st-unfccc-2026-11-19-electrification-lightbulb",
-    "section": "action",
-    "score": 0.6,
-    "lead": {
-     "id": "unfccc-2026-11-19-electrification-lightbulb",
-     "title": "Electrification at COP31 \"a lightbulb moment for our global climate push\" – UN Climate Chief",
-     "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "Simon Stiell",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Eletrificação",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Em discurso no evento de alto nível da Agenda de Ação Climática Global, Stiell apresenta o Electrification Delivery Package e o chama de um ponto de virada. Ele cita planos de investimento de pelo menos US$ 156 bilhões por ano em redes, renováveis e armazenamento e mais de 21 mil km de novas redes.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "In a speech at the Global Climate Action high-level event, Stiell presents the Electrification Delivery Package and calls it a turning point. He cites investment plans of at least US$156 billion a year in grids, renewables and storage and more than 21,000 km of new grid.",
-      "es": "En un discurso en el evento de alto nivel de Acción Climática Global, Stiell presenta el Electrification Delivery Package y lo califica de punto de inflexión. Cita planes de inversión de al menos 156.000 millones de dólares al año en redes, renovables y almacenamiento y más de 21.000 km de nuevas redes.",
-      "fr": "Dans un discours lors de l'événement de haut niveau sur l'action climatique mondiale, M. Stiell présente le Electrification Delivery Package et y voit un tournant.",
-      "ru": "В выступлении на мероприятии высокого уровня по глобальным климатическим действиям Стилл представил Electrification Delivery Package и назвал его поворотным моментом. Он привёл планы инвестиций не менее 156 млрд долл. США в год в сети, ВИЭ и накопители и более 21 тыс. км новых сетей.",
-      "zh": "斯蒂尔在全球气候行动高级别活动上的讲话中介绍了“电气化交付包”(Electrification Delivery Package),称其为转折点。他提到电网、可再生能源和储能领域每年至少1560亿美元的投资计划,以及超过2.1万公里的新建电网。他请各国向秘书处提供自愿联络人,以便发展中国家参与行动议程。",
-      "ar": "في كلمة ألقاها خلال الحدث رفيع المستوى للعمل المناخي العالمي، قدّم ستيل «Electrification Delivery Package» ووصفه بأنه نقطة تحول. وذكر خطط استثمار لا تقل عن 156 مليار دولار سنويًا في الشبكات والطاقة المتجددة والتخزين، وأكثر من 21 ألف كم من الشبكات الجديدة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
     "id": "st-unfccc-2026-11-19-electrification-rally",
     "section": "action",
-    "score": 0.6,
+    "score": 0.375,
     "lead": {
      "id": "unfccc-2026-11-19-electrification-rally",
      "title": "COP31: Businesses, governments, investors, cities and initiatives rally behind electrification",
@@ -1841,46 +1277,9 @@
     ]
    },
    {
-    "id": "st-climate-home-news-2026-11-18-ocean-geoengineering",
-    "section": "action",
-    "score": 0.5,
-    "lead": {
-     "id": "climate-home-news-2026-11-18-ocean-geoengineering",
-     "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
-     "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
-     "publisher": "Climate Home News",
-     "author": "Joe Lo",
-     "published": "2026-11-18",
-     "language": "en",
-     "tracks": [
-      "Oceanos",
-      "Decisão de cobertura",
-      "Mitigação e MWP"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Defensores dos oceanos e diplomatas alertam que o rascunho de acordo sobre oceanos na COP31 não deve ser lido como endosso à geoengenharia marinha, como a fertilização com ferro ou a intensificação da alcalinidade oceânica.",
-     "collected_at": "2026-11-19T12:18:19-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Ocean advocates and diplomats warn that the draft oceans agreement at COP31 should not be read as endorsing marine geoengineering, such as iron fertilisation or ocean alkalinity enhancement.",
-      "es": "Defensores de los océanos y diplomáticos advierten de que el borrador de acuerdo sobre océanos en la COP31 no debe interpretarse como un respaldo a la geoingeniería marina, como la fertilización con hierro o la mejora de la alcalinidad oceánica.",
-      "fr": "Des défenseurs des océans et des diplomates avertissent que le projet d'accord sur les océans à la COP31 ne doit pas être interprété comme un soutien à la géo-ingénierie marine, telle que la fertilisation par le fer ou l'amélioration de l'alcalinité des océans.",
-      "ru": "Сторонники защиты океанов и дипломаты предупреждают, что проект соглашения по океанам на КС-31 не следует рассматривать как поддержку морской геоинженерии, такой как внесение железа или повышение щёлочности океана.",
-      "zh": "海洋倡导者和外交官警告说，COP31的海洋协议草案不应被解读为对海洋地球工程（如铁施肥或海洋碱度增强）的认可。总括性决定草案包含一项增加二氧化碳移除的宽泛目标，欧盟对此表示反对，该目标可能不会保留在最终文本中。一些人支持对这些技术开展进一步研究，另一些人则主张应优先采用已被证明有效的海洋解决方案。",
-      "ar": "يحذر المدافعون عن المحيطات والدبلوماسيون من أن مسودة اتفاق المحيطات في مؤتمر الأطراف الحادي والثلاثين لا ينبغي أن تُفسَّر على أنها تأييد للهندسة الجيولوجية البحرية، مثل التسميد بالحديد أو تعزيز قلوية المحيطات."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
     "id": "st-climate-home-news-2026-11-19-iea-weo-electrification",
     "section": "action",
-    "score": 0.48,
+    "score": 0.3,
     "lead": {
      "id": "climate-home-news-2026-11-19-iea-weo-electrification",
      "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
@@ -1915,9 +1314,82 @@
     ]
    },
    {
+    "id": "st-unfccc-2026-11-19-electrification-lightbulb",
+    "section": "action",
+    "score": 0.225,
+    "lead": {
+     "id": "unfccc-2026-11-19-electrification-lightbulb",
+     "title": "Electrification at COP31 \"a lightbulb moment for our global climate push\" – UN Climate Chief",
+     "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Em discurso no evento de alto nível da Agenda de Ação Climática Global, Stiell apresenta o Electrification Delivery Package e o chama de um ponto de virada. Ele cita planos de investimento de pelo menos US$ 156 bilhões por ano em redes, renováveis e armazenamento e mais de 21 mil km de novas redes.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "In a speech at the Global Climate Action high-level event, Stiell presents the Electrification Delivery Package and calls it a turning point. He cites investment plans of at least US$156 billion a year in grids, renewables and storage and more than 21,000 km of new grid.",
+      "es": "En un discurso en el evento de alto nivel de Acción Climática Global, Stiell presenta el Electrification Delivery Package y lo califica de punto de inflexión. Cita planes de inversión de al menos 156.000 millones de dólares al año en redes, renovables y almacenamiento y más de 21.000 km de nuevas redes.",
+      "fr": "Dans un discours lors de l'événement de haut niveau sur l'action climatique mondiale, M. Stiell présente le Electrification Delivery Package et y voit un tournant.",
+      "ru": "В выступлении на мероприятии высокого уровня по глобальным климатическим действиям Стилл представил Electrification Delivery Package и назвал его поворотным моментом. Он привёл планы инвестиций не менее 156 млрд долл. США в год в сети, ВИЭ и накопители и более 21 тыс. км новых сетей.",
+      "zh": "斯蒂尔在全球气候行动高级别活动上的讲话中介绍了“电气化交付包”(Electrification Delivery Package),称其为转折点。他提到电网、可再生能源和储能领域每年至少1560亿美元的投资计划,以及超过2.1万公里的新建电网。他请各国向秘书处提供自愿联络人,以便发展中国家参与行动议程。",
+      "ar": "في كلمة ألقاها خلال الحدث رفيع المستوى للعمل المناخي العالمي، قدّم ستيل «Electrification Delivery Package» ووصفه بأنه نقطة تحول. وذكر خطط استثمار لا تقل عن 156 مليار دولار سنويًا في الشبكات والطاقة المتجددة والتخزين، وأكثر من 21 ألف كم من الشبكات الجديدة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-18-ocean-geoengineering",
+    "section": "action",
+    "score": 0.18,
+    "lead": {
+     "id": "climate-home-news-2026-11-18-ocean-geoengineering",
+     "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
+     "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-18",
+     "language": "en",
+     "tracks": [
+      "Oceanos",
+      "Decisão de cobertura",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Defensores dos oceanos e diplomatas alertam que o rascunho de acordo sobre oceanos na COP31 não deve ser lido como endosso à geoengenharia marinha, como a fertilização com ferro ou a intensificação da alcalinidade oceânica.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Ocean advocates and diplomats warn that the draft oceans agreement at COP31 should not be read as endorsing marine geoengineering, such as iron fertilisation or ocean alkalinity enhancement.",
+      "es": "Defensores de los océanos y diplomáticos advierten de que el borrador de acuerdo sobre océanos en la COP31 no debe interpretarse como un respaldo a la geoingeniería marina, como la fertilización con hierro o la mejora de la alcalinidad oceánica.",
+      "fr": "Des défenseurs des océans et des diplomates avertissent que le projet d'accord sur les océans à la COP31 ne doit pas être interprété comme un soutien à la géo-ingénierie marine, telle que la fertilisation par le fer ou l'amélioration de l'alcalinité des océans.",
+      "ru": "Сторонники защиты океанов и дипломаты предупреждают, что проект соглашения по океанам на КС-31 не следует рассматривать как поддержку морской геоинженерии, такой как внесение железа или повышение щёлочности океана.",
+      "zh": "海洋倡导者和外交官警告说，COP31的海洋协议草案不应被解读为对海洋地球工程（如铁施肥或海洋碱度增强）的认可。总括性决定草案包含一项增加二氧化碳移除的宽泛目标，欧盟对此表示反对，该目标可能不会保留在最终文本中。一些人支持对这些技术开展进一步研究，另一些人则主张应优先采用已被证明有效的海洋解决方案。",
+      "ar": "يحذر المدافعون عن المحيطات والدبلوماسيون من أن مسودة اتفاق المحيطات في مؤتمر الأطراف الحادي والثلاثين لا ينبغي أن تُفسَّر على أنها تأييد للهندسة الجيولوجية البحرية، مثل التسميد بالحديد أو تعزيز قلوية المحيطات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-cop31tr-2026-11-18-divan-ministerial",
     "section": "action",
-    "score": 0.3,
+    "score": 0.18,
     "lead": {
      "id": "cop31tr-2026-11-18-divan-ministerial",
      "title": "COP31 Presidency brought Türkiye's Divan tradition to final push for agreement",
@@ -1953,7 +1425,7 @@
    {
     "id": "st-cop31tr-smart-cities-call-2026-11-18",
     "section": "action",
-    "score": 0.3,
+    "score": 0.18,
     "lead": {
      "id": "cop31tr-smart-cities-call-2026-11-18",
      "title": "Global Call to Action for Smart, Resilient and Sustainable Cities Announced at COP31",
@@ -1982,36 +1454,7 @@
      },
      "description_i18n_method": "machine"
     },
-    "related": [
-     {
-      "id": "cop31tr-ocean-nature-2026-11-17",
-      "title": "COP31 puts the ocean and nature at the heart of climate action",
-      "url": "https://cop31.tr/news-detail/cop31-puts-the-ocean-and-nature-at-the-heart-of-climate-action",
-      "publisher": "COP31 Presidency (Türkiye/Australia)",
-      "author": "COP31 Presidency",
-      "published": "2026-11-17",
-      "language": "en",
-      "tracks": [
-       "Oceanos",
-       "Florestas",
-       "Presidência e anfitrião"
-      ],
-      "content_type": "official",
-      "kind": "publication",
-      "description": "A Presidência da COP31 destaca o oceano e a natureza como eixo central da ação climática, na linha do Antalya Ocean and Seas Compact divulgado em 16 de novembro. O item toca as agendas de oceanos e florestas da Agenda de Ação. Resumo baseado apenas na chamada da listagem; o texto completo não foi lido.",
-      "collected_at": "2026-11-18T06:35:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "The COP31 Presidency highlights the ocean and nature as central to climate action, in line with the Antalya Ocean and Seas Compact released on 16 November. The item touches the oceans and forests agendas of the Action Agenda. Summary based only on the listing headline; the full text was not read.",
-       "es": "La Presidencia de la COP31 destaca el océano y la naturaleza como ejes centrales de la acción climática, en línea con el Antalya Ocean and Seas Compact publicado el 16 de noviembre. El texto toca las agendas de océanos y bosques de la Agenda de Acción. Resumen basado solo en el titular del listado;",
-       "fr": "La Présidence de la COP31 place l'océan et la nature au cœur de l'action climatique, dans le prolongement de l'Antalya Ocean and Seas Compact publié le 16 novembre. Le texte touche aux volets océans et forêts du Programme d'action. Résumé fondé uniquement sur le titre de la liste ; le texte intégral n'a pas été lu.",
-       "ru": "Председательство СОР31 выделяет океан и природу как центральные элементы климатических действий в русле Antalya Ocean and Seas Compact, опубликованного 16 ноября. Материал затрагивает направления по океанам и лесам в рамках Повестки дня действий. Резюме основано только на заголовке из списка; полный текст не прочитан.",
-       "zh": "COP31主席国强调海洋和自然是气候行动的核心，与11月16日发布的Antalya Ocean and Seas Compact一脉相承。该内容涉及行动议程中的海洋和森林议题。摘要仅依据列表标题，未阅读全文。",
-       "ar": "تُبرز رئاسة مؤتمر الأطراف الحادي والثلاثين (COP31) المحيط والطبيعة بوصفهما محورين أساسيين للعمل المناخي، تماشياً مع Antalya Ocean and Seas Compact الصادر في 16 نوفمبر. ويتناول النص مساري المحيطات والغابات في جدول أعمال العمل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص الكامل."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
+    "related": [],
     "publishers": [
      "COP31 Presidency (Türkiye/Australia)"
     ]
@@ -2019,7 +1462,7 @@
    {
     "id": "st-e3g-2026-11-18-eu-uk-summit",
     "section": "action",
-    "score": 0.27,
+    "score": 0.162,
     "lead": {
      "id": "e3g-2026-11-18-eu-uk-summit",
      "title": "Europe must maintain momentum on energy and climate cooperation at the EU-UK Summit",
@@ -2056,7 +1499,7 @@
    {
     "id": "st-wbcsd-2026-11-18-electrification-package",
     "section": "action",
-    "score": 0.253,
+    "score": 0.152,
     "lead": {
      "id": "wbcsd-2026-11-18-electrification-package",
      "title": "Electrification Delivery Package – Business Action Tracker",
@@ -2092,7 +1535,7 @@
    {
     "id": "st-bluesky-unep.org-20261118-recifes-coral",
     "section": "action",
-    "score": 0.206,
+    "score": 0.124,
     "lead": {
      "id": "bluesky-unep.org-20261118-recifes-coral",
      "title": "unep.org: [resumo da fonte] UNEP: more than US$30 million in new investments and donor contributions set to scale up coral…",
@@ -2130,7 +1573,7 @@
    {
     "id": "st-icc-2026-11-18-business-to-ministers",
     "section": "action",
-    "score": 0.203,
+    "score": 0.121,
     "lead": {
      "id": "icc-2026-11-18-business-to-ministers",
      "title": "Business to COP31 ministers: \"Give the real economy the confidence to act\"",
@@ -2168,7 +1611,7 @@
    {
     "id": "st-iddri-2026-11-18-cop31-debrief-webinar",
     "section": "action",
-    "score": 0.203,
+    "score": 0.121,
     "lead": {
      "id": "iddri-2026-11-18-cop31-debrief-webinar",
      "title": "COP31 debrief: Electrifying debates, or lights out for cooperation?",
@@ -2200,236 +1643,49 @@
     "publishers": [
      "IDDRI"
     ]
-   },
-   {
-    "id": "st-climatechangenews-2026-11-17-fiji-ocean-islands",
-    "section": "action",
-    "score": 0.162,
-    "lead": {
-     "id": "climatechangenews-2026-11-17-fiji-ocean-islands",
-     "title": "COP31 can't deliver for islands without delivering for the ocean",
-     "url": "https://www.climatechangenews.com/2026/11/17/cop31-cant-deliver-for-islands-without-delivering-for-the-ocean/",
-     "publisher": "Climate Home News",
-     "author": "Dr Sivendra Michael",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Oceanos",
-      "Finanças",
-      "GST2 e IPCC"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "O secretário permanente de Meio Ambiente e Mudança Climática de Fiji argumenta que os Estados insulares dependem do oceano e enfrentam branqueamento de corais e acidificação cada vez piores.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Fiji's permanent secretary for environment and climate change argues that island nations depend on the ocean and face worsening coral bleaching and acidification.",
-      "es": "El secretario permanente de Medio Ambiente y Cambio Climático de Fiji sostiene que las naciones insulares dependen del océano y se enfrentan a un empeoramiento del blanqueamiento de los corales y de la acidificación.",
-      "fr": "Le secrétaire permanent de Fidji pour l'environnement et le changement climatique soutient que les États insulaires dépendent de l'océan et font face à un blanchiment des coraux et à une acidification de plus en plus graves.",
-      "ru": "Постоянный секретарь Фиджи по окружающей среде и изменению климата утверждает, что островные государства зависят от океана и сталкиваются с нарастающим обесцвечиванием кораллов и закислением.",
-      "zh": "斐济环境与气候变化常务秘书认为,岛屿国家依赖海洋,并面临日益严重的珊瑚白化和海洋酸化。他呼吁让海洋因素体现在国家气候承诺、2028年全球盘点和气候资金中,并让岛屿国家更便捷地获得资金。",
-      "ar": "يرى الأمين الدائم لوزارة البيئة وتغير المناخ في فيجي أن الدول الجزرية تعتمد على المحيط وتواجه ابيضاضاً متفاقماً للشعاب المرجانية وتحمّضاً. ويدعو إلى أن يوجّه الاعتراف بالمحيط الالتزامات المناخية الوطنية والحصيلة العالمية لعام 2028 وتمويل المناخ، وإلى تسهيل وصول الدول الجزرية إلى التمويل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-unfccc-2026-11-17-climate-weeks",
-    "section": "action",
-    "score": 0.135,
-    "lead": {
-     "id": "unfccc-2026-11-17-climate-weeks",
-     "title": "Climate Weeks are where civil society, businesses, governments and local leaders come together to boost ambitious climate action",
-     "url": "https://unfccc.int/news/climate-weeks-are-where-civil-society-businesses-governments-and-local-leaders-come-together-to",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "UNFCCC secretariat",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Declaração da ONU Mudança do Clima sobre as Semanas do Clima como espaços que reúnem sociedade civil, empresas, governos e lideranças locais para ampliar a ambição climática, ligada à Agenda de Ação da COP31. Resumo baseado no título; o texto completo não foi lido.",
-     "collected_at": "2026-11-18T00:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Statement by UN Climate Change on Climate Weeks as forums bringing together civil society, businesses, governments and local leaders to boost climate ambition, linked to the COP31 Action Agenda. Summary based on the title; the full text was not read.",
-      "es": "Declaración de ONU Cambio Climático sobre las Semanas del Clima como foros que reúnen a la sociedad civil, las empresas, los gobiernos y los líderes locales para impulsar la ambición climática, vinculada a la Agenda de Acción de la COP31. Resumen basado en el título; no se leyó el texto completo.",
-      "fr": "Déclaration d'ONU Changements climatiques sur les Semaines du climat, forums réunissant société civile, entreprises, gouvernements et dirigeants locaux pour renforcer l'ambition climatique, liée à l'Agenda de l'action de la COP31. Résumé fondé sur le titre ; le texte intégral n'a pas été lu.",
-      "ru": "Заявление Секретариата ООН по изменению климата о «климатических неделях» как площадках, объединяющих гражданское общество, бизнес, правительства и местных лидеров для повышения климатических амбиций, связанное с Повесткой дня действий КС-31. Резюме основано на заголовке; полный текст не читался.",
-      "zh": "联合国气候变化秘书处就“气候周”发表声明，称其是汇聚民间社会、企业、政府和地方领导人以提升气候雄心的平台，与COP31行动议程相关。摘要基于标题，未阅读全文。",
-      "ar": "بيان صادر عن الأمم المتحدة للتغير المناخي بشأن أسابيع المناخ بوصفها منتديات تجمع المجتمع المدني والشركات والحكومات والقادة المحليين لتعزيز الطموح المناخي، ويرتبط بخطة العمل لمؤتمر الأطراف الحادي والثلاثين. الملخص مبني على العنوان؛ ولم يُقرأ النص الكامل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
-    ]
-   },
-   {
-    "id": "st-bluesky-unep.org-20261117-incendios-ultrapassagem",
-    "section": "action",
-    "score": 0.124,
-    "lead": {
-     "id": "bluesky-unep.org-20261117-incendios-ultrapassagem",
-     "title": "unep.org: [resumo da fonte] UNEP warns that under climate overshoot, wildfires could become too severe and frequent for…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/unep.org/post/3n2jd7cj43d27",
-     "publisher": "UNEP",
-     "published": "2026-11-17",
-     "time": "12:10",
-     "language": "en",
-     "tracks": [
-      "Florestas",
-      "Adaptação"
-     ],
-     "content_type": "official",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O PNUMA alerta que, num cenário de ultrapassagem climática, os incêndios florestais podem ficar graves e frequentes demais para as florestas do norte se adaptarem, em relatório lançado na COP31.",
-     "collected_at": "2026-11-19T05:45:37-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "UNEP warns that under climate overshoot, wildfires could become too severe and frequent for northern forests to adapt, in a new report launched at COP31.",
-      "es": "El PNUMA advierte de que, con una superación de los límites climáticos, los incendios forestales podrían ser demasiado graves y frecuentes para que los bosques del norte se adapten, en un informe presentado en la COP31.",
-      "fr": "Le PNUE avertit qu'en cas de dépassement climatique, les feux de forêt pourraient devenir trop graves et fréquents pour que les forêts nordiques s'adaptent, dans un rapport lancé à la COP31.",
-      "ru": "ЮНЕП предупреждает, что при превышении климатических пределов лесные пожары могут стать слишком сильными и частыми для адаптации северных лесов, говорится в новом докладе, представленном на СОР31.",
-      "zh": "联合国环境规划署警告称，在气候“超调”情景下，野火可能变得过于严重和频繁，北方森林难以适应，相关新报告在COP31上发布。",
-      "ar": "يحذّر برنامج الأمم المتحدة للبيئة من أنه في ظل تجاوز الحدود المناخية قد تصبح حرائق الغابات شديدة ومتكررة إلى حد يتعذّر معه على الغابات الشمالية التكيف، وذلك في تقرير جديد أُطلق في مؤتمر الأطراف الحادي والثلاثين."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNEP"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-ace",
-    "section": "action",
-    "score": 0.124,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-ace",
-     "title": "enb.iisd.org: [resumo da fonte] After lengthy negotiations on Action for Climate Empowerment, Parties remain split on language…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jffjavek2e",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "12:49",
-     "language": "en",
-     "tracks": [
-      "Espaço cívico"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que, após longas negociações sobre Ação para o Empoderamento Climático (ACE), as Partes seguem divididas sobre a linguagem relativa a gênero, defensores de direitos humanos e combate à desinformação.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that after lengthy negotiations on Action for Climate Empowerment (ACE), Parties remain split on language on gender, human rights defenders and countering misinformation.",
-      "es": "ENB informa de que, tras largas negociaciones sobre la Acción para el Empoderamiento Climático (ACE), las Partes siguen divididas sobre el lenguaje relativo al género, los defensores de los derechos humanos y la lucha contra la desinformación.",
-      "fr": "L'ENB rapporte qu'après de longues négociations sur l'Action pour l'autonomisation climatique (ACE), les Parties restent divisées sur le libellé concernant le genre, les défenseurs des droits de l'homme et la lutte contre la désinformation.",
-      "ru": "ENB сообщает, что после долгих переговоров по Мерам по расширению прав и возможностей в области климата (ACE) Стороны по-прежнему расходятся в формулировках о гендере, правозащитниках и борьбе с дезинформацией.",
-      "zh": "ENB 报道，在关于气候赋权行动（ACE）的长时间谈判之后，各缔约方在性别、人权捍卫者和打击虚假信息的措辞上仍存在分歧。",
-      "ar": "تفيد نشرة ENB بأنه بعد مفاوضات مطولة بشأن العمل من أجل التمكين المناخي (ACE)، لا تزال الأطراف منقسمة حول الصياغة المتعلقة بالنوع الاجتماعي والمدافعين عن حقوق الإنسان ومكافحة المعلومات المضللة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-wildlife",
-    "section": "action",
-    "score": 0.124,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-wildlife",
-     "title": "enb.iisd.org: [resumo da fonte] Announces the Wildlife for Climate Declaration, which aims to gain recognition for wildlife's role…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jxvu5nrk26",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "18:20",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação",
-      "Florestas"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB informa o lançamento da Declaração Vida Selvagem pelo Clima, que busca reconhecer o papel da fauna silvestre na ação climática e formar uma coalizão baseada na ciência.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports the launch of the Wildlife for Climate Declaration, which aims to gain recognition for wildlife's role in climate action and build a science-based coalition.",
-      "es": "ENB informa del lanzamiento de la Declaración Vida Silvestre por el Clima, que busca el reconocimiento del papel de la fauna silvestre en la acción climática y formar una coalición basada en la ciencia.",
-      "fr": "L'ENB rapporte le lancement de la Déclaration Faune sauvage pour le climat, qui vise à faire reconnaître le rôle de la faune sauvage dans l'action climatique et à constituer une coalition fondée sur la science.",
-      "ru": "ENB сообщает о запуске Декларации «Дикая природа ради климата», цель которой — добиться признания роли диких животных в климатических действиях и создать научно обоснованную коалицию.",
-      "zh": "ENB 报道，“野生动物助力气候”宣言正式启动，旨在推动认可野生动物在气候行动中的作用，并建立基于科学的联盟。",
-      "ar": "تفيد نشرة ENB بإطلاق إعلان الحياة البرية من أجل المناخ، الذي يهدف إلى نيل الاعتراف بدور الحياة البرية في العمل المناخي وبناء تحالف قائم على العلم."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261117-art-cooling",
-    "section": "action",
-    "score": 0.099,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261117-art-cooling",
-     "title": "enb.iisd.org: [resumo da fonte] The Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2jwuysyds26",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-17",
-     "time": "18:02",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação",
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que o terceiro Ministerial anual sobre Refrigeração iniciou os trabalhos de um roteiro global de resiliência ao calor e abriu consultas sobre um projeto de declaração de resiliência ao calor.",
-     "collected_at": "2026-11-18T07:43:50-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that the Third Annual Cooling Ministerial started work on a global heat resilience roadmap and opened consultations on a draft heat resilience declaration.",
-      "es": "ENB informa de que la Tercera Reunión Ministerial Anual sobre Refrigeración inició los trabajos sobre una hoja de ruta mundial de resiliencia al calor y abrió consultas sobre un proyecto de declaración de resiliencia al calor.",
-      "fr": "L'ENB rapporte que la troisième réunion ministérielle annuelle sur le refroidissement a entamé les travaux sur une feuille de route mondiale de résilience à la chaleur et ouvert des consultations sur un projet de déclaration sur la résilience à la chaleur.",
-      "ru": "ENB сообщает, что на третьей ежегодной министерской встрече по охлаждению начата работа над глобальной дорожной картой устойчивости к жаре и открыты консультации по проекту декларации об устойчивости к жаре.",
-      "zh": "ENB 报道，第三届年度制冷部长级会议已开始制定全球热韧性路线图，并就热韧性宣言草案启动磋商。",
-      "ar": "تفيد نشرة ENB بأن الاجتماع الوزاري السنوي الثالث المعني بالتبريد بدأ العمل على خارطة طريق عالمية للقدرة على مواجهة الحرارة وفتح مشاورات حول مشروع إعلان بشأن القدرة على مواجهة الحرارة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
    }
   ],
   "civil": [
    {
+    "id": "st-350org-2026-11-19-near-final-texts",
+    "section": "civil",
+    "score": 0.239,
+    "lead": {
+     "id": "350org-2026-11-19-near-final-texts",
+     "title": "COP31 near-final texts an 'outrage' as fossil fuel transition eliminated",
+     "url": "https://350.org/press-release/cop31-near-final-texts-an-outrage-as-fossil-fuel-transition-eliminated/",
+     "publisher": "350.org",
+     "author": "350.org",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Decisão de cobertura"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A 350.org reage aos textos quase finais da COP31 e afirma que eles eliminam a transição para longe dos combustíveis fósseis. A crítica incide sobre o rascunho da decisão de cobertura e o roteiro TAFF. Resumo baseado apenas no título e na chamada da listagem.",
+     "collected_at": "2026-11-20T06:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "350.org reacts to the near-final COP31 texts and says they eliminate the transition away from fossil fuels. The criticism targets the draft cover decision and the TAFF roadmap. Summary based only on the listing title and teaser.",
+      "es": "350.org reacciona a los textos casi finales de la COP31 y afirma que eliminan la transición para abandonar los combustibles fósiles. La crítica se dirige al borrador de la decisión de cobertura y a la hoja de ruta TAFF. Resumen basado solo en el título y el extracto del listado.",
+      "fr": "350.org réagit aux textes quasi finaux de la COP31 et affirme qu'ils éliminent la transition hors des combustibles fossiles. La critique vise le projet de décision de couverture et la feuille de route TAFF. Résumé fondé uniquement sur le titre et l'extrait de la liste.",
+      "ru": "350.org реагирует на почти окончательные тексты КС-31 и заявляет, что они устраняют переход от ископаемого топлива. Критика направлена на проект итогового решения и дорожную карту TAFF. Резюме основано только на заголовке и анонсе в списке.",
+      "zh": "350.org 对 COP31 近乎最终的文本作出回应,称其删除了摆脱化石燃料的转型内容。批评针对总括决定草案和 TAFF 路线图。摘要仅依据列表中的标题和导语。",
+      "ar": "ردّت 350.org على نصوص COP31 شبه النهائية، معتبرة أنها تحذف الانتقال بعيدًا عن الوقود الأحفوري. وينصبّ النقد على مسودة قرار التغطية وخارطة طريق TAFF. الملخص مبني على العنوان ومقتطف القائمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "350.org"
+    ]
+   },
+   {
     "id": "st-greenpeace-2026-11-19-iea-weo",
     "section": "civil",
-    "score": 0.45,
+    "score": 0.169,
     "lead": {
      "id": "greenpeace-2026-11-19-iea-weo",
      "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
@@ -2463,46 +1719,9 @@
     ]
    },
    {
-    "id": "st-oil-change-2026-11-19-weo-2026",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "oil-change-2026-11-19-weo-2026",
-     "title": "International Energy Agency World Energy Outlook 2026 Underscores Urgent Need for Just Transition Away from Fossil Fuels",
-     "url": "https://oilchange.org/news/international-energy-agency-world-energy-outlook-2026-underscores-urgent-need-for-just-transition-away-from-fossil-fuels/",
-     "publisher": "Oil Change International",
-     "author": "Oil Change International",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Transição justa",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Segundo a chamada do comunicado, o World Energy Outlook 2026 da IEA indica que a crise dos combustíveis fósseis pode acelerar o declínio do petróleo e reduzir a demanda por GNL. A Oil Change defende que os governos ampliem roteiros críveis de eliminação dos fósseis e financiamento público para uma transição justa.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "According to the release teaser, the IEA World Energy Outlook 2026 indicates that the fossil fuel crisis could speed the decline of oil and cut LNG demand. Oil Change argues that governments should scale up credible fossil fuel phase-out roadmaps and public finance for a just transition.",
-      "es": "Según el avance del comunicado, el World Energy Outlook 2026 de la AIE indica que la crisis de los combustibles fósiles podría acelerar el declive del petróleo y reducir la demanda de GNL.",
-      "fr": "D'après l'accroche du communiqué, le World Energy Outlook 2026 de l'AIE indique que la crise des combustibles fossiles pourrait accélérer le déclin du pétrole et réduire la demande de GNL.",
-      "ru": "Согласно анонсу релиза, World Energy Outlook 2026 МЭА показывает, что кризис ископаемого топлива может ускорить спад нефти и сократить спрос на СПГ. Oil Change призывает правительства расширить достоверные дорожные карты отказа от ископаемого топлива и государственное финансирование справедливого перехода.",
-      "zh": "根据新闻稿摘要,国际能源署《2026年世界能源展望》显示,化石燃料危机可能加速石油需求下降并减少液化天然气需求。Oil Change主张各国政府扩大可信的化石燃料淘汰路线图和用于公正转型的公共资金。本摘要仅依据摘要文字。",
-      "ar": "وفق مقدمة البيان، يشير «World Energy Outlook 2026» الصادر عن وكالة الطاقة الدولية إلى أن أزمة الوقود الأحفوري قد تسرّع تراجع النفط وتخفض الطلب على الغاز الطبيعي المسال. وترى Oil Change أن على الحكومات توسيع خرائط طريق موثوقة للتخلص من الوقود الأحفوري والتمويل العام لانتقال عادل. الملخص مبني على نص المقدمة فقط."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Oil Change International"
-    ]
-   },
-   {
     "id": "st-350org-2026-11-18-eu-blocks-finance",
     "section": "civil",
-    "score": 0.239,
+    "score": 0.143,
     "lead": {
      "id": "350org-2026-11-18-eu-blocks-finance",
      "title": "EU wants 'strong signal' on energy transition but blocks finance to deliver it",
@@ -2538,7 +1757,7 @@
    {
     "id": "st-oilchange-2026-11-18-australia-korea-mou",
     "section": "civil",
-    "score": 0.239,
+    "score": 0.143,
     "lead": {
      "id": "oilchange-2026-11-18-australia-korea-mou",
      "title": "Australia and South Korea sign joint Memorandum of Understanding at COP31",
@@ -2574,7 +1793,7 @@
    {
     "id": "st-oilchange-2026-11-18-media-advisory",
     "section": "civil",
-    "score": 0.239,
+    "score": 0.143,
     "lead": {
      "id": "oilchange-2026-11-18-media-advisory",
      "title": "Oil Change International COP31 Media Advisory – November 17, 2026",
@@ -2609,9 +1828,46 @@
     ]
    },
    {
+    "id": "st-oil-change-2026-11-19-weo-2026",
+    "section": "civil",
+    "score": 0.143,
+    "lead": {
+     "id": "oil-change-2026-11-19-weo-2026",
+     "title": "International Energy Agency World Energy Outlook 2026 Underscores Urgent Need for Just Transition Away from Fossil Fuels",
+     "url": "https://oilchange.org/news/international-energy-agency-world-energy-outlook-2026-underscores-urgent-need-for-just-transition-away-from-fossil-fuels/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Segundo a chamada do comunicado, o World Energy Outlook 2026 da IEA indica que a crise dos combustíveis fósseis pode acelerar o declínio do petróleo e reduzir a demanda por GNL. A Oil Change defende que os governos ampliem roteiros críveis de eliminação dos fósseis e financiamento público para uma transição justa.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "According to the release teaser, the IEA World Energy Outlook 2026 indicates that the fossil fuel crisis could speed the decline of oil and cut LNG demand. Oil Change argues that governments should scale up credible fossil fuel phase-out roadmaps and public finance for a just transition.",
+      "es": "Según el avance del comunicado, el World Energy Outlook 2026 de la AIE indica que la crisis de los combustibles fósiles podría acelerar el declive del petróleo y reducir la demanda de GNL.",
+      "fr": "D'après l'accroche du communiqué, le World Energy Outlook 2026 de l'AIE indique que la crise des combustibles fossiles pourrait accélérer le déclin du pétrole et réduire la demande de GNL.",
+      "ru": "Согласно анонсу релиза, World Energy Outlook 2026 МЭА показывает, что кризис ископаемого топлива может ускорить спад нефти и сократить спрос на СПГ. Oil Change призывает правительства расширить достоверные дорожные карты отказа от ископаемого топлива и государственное финансирование справедливого перехода.",
+      "zh": "根据新闻稿摘要,国际能源署《2026年世界能源展望》显示,化石燃料危机可能加速石油需求下降并减少液化天然气需求。Oil Change主张各国政府扩大可信的化石燃料淘汰路线图和用于公正转型的公共资金。本摘要仅依据摘要文字。",
+      "ar": "وفق مقدمة البيان، يشير «World Energy Outlook 2026» الصادر عن وكالة الطاقة الدولية إلى أن أزمة الوقود الأحفوري قد تسرّع تراجع النفط وتخفض الطلب على الغاز الطبيعي المسال. وترى Oil Change أن على الحكومات توسيع خرائط طريق موثوقة للتخلص من الوقود الأحفوري والتمويل العام لانتقال عادل. الملخص مبني على نص المقدمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
     "id": "st-can-2026-11-18-adaptation-fund-shamefully-inadequate",
     "section": "civil",
-    "score": 0.191,
+    "score": 0.115,
     "lead": {
      "id": "can-2026-11-18-adaptation-fund-shamefully-inadequate",
      "title": "\"Shamefully Inadequate\": At COP31, wealthy countries fail to meet Finance obligations that would support developing countries hit by climate impacts",
@@ -2645,115 +1901,9 @@
     ]
    },
    {
-    "id": "st-actionaid-2026-11-17-adaptation-heartbreaking",
-    "section": "civil",
-    "score": 0.143,
-    "lead": {
-     "id": "actionaid-2026-11-17-adaptation-heartbreaking",
-     "title": "It's heartbreaking that as the need for adaptation grows, the money on offer is shrinking, says ActionAid",
-     "url": "https://actionaid.org/news/2026/its-heartbreaking-need-adaptation-grows-money-offer-shrinking-says-actionaid",
-     "publisher": "ActionAid International",
-     "author": "Teresa Anderson (ActionAid International)",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Em reação à sessão de promessas para o Fundo de Adaptação na COP31, Teresa Anderson, da ActionAid Internacional, afirma que o financiamento oferecido encolhe justamente quando crescem as necessidades de adaptação.",
-     "collected_at": "2026-11-18T18:16:49-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Responding to the Adaptation Fund pledging session at COP31, Teresa Anderson of ActionAid International says the funding on offer is shrinking just as adaptation needs grow.",
-      "es": "En reacción a la sesión de promesas para el Fondo de Adaptación en la COP31, Teresa Anderson, de ActionAid Internacional, afirma que la financiación ofrecida disminuye justo cuando crecen las necesidades de adaptación.",
-      "fr": "En réaction à la session d'annonces de contributions au Fonds pour l'adaptation à la COP31, Teresa Anderson, d'ActionAid International, affirme que les financements offerts diminuent alors que les besoins d'adaptation augmentent.",
-      "ru": "Откликаясь на сессию объявления взносов в Адаптационный фонд на КС-31, Тереза Андерсон из ActionAid International заявляет, что предлагаемое финансирование сокращается именно тогда, когда потребности в адаптации растут.",
-      "zh": "针对COP31适应基金认捐会议，ActionAid International的Teresa Anderson表示，在适应需求不断增长之际，所提供的资金却在减少。她强调，从预警系统到韧性农业，适应措施可能决定脆弱社区的生死。该文涉及适应和资金两条轨道。",
-      "ar": "ردّاً على جلسة إعلان التعهدات لصندوق التكيف في مؤتمر الأطراف الحادي والثلاثين، قالت تيريزا أندرسون من أكشن إيد الدولية إن التمويل المعروض يتقلص في وقت تتزايد فيه احتياجات التكيف. وشددت على أن التكيف، من نظم الإنذار المبكر إلى الزراعة القادرة على الصمود، قد يعني الفارق بين الحياة والموت للمجتمعات الضعيفة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "ActionAid International"
-    ]
-   },
-   {
-    "id": "st-greenpeace-international-2026-11-17-spain-portugal-roadmaps",
-    "section": "civil",
-    "score": 0.143,
-    "lead": {
-     "id": "greenpeace-international-2026-11-17-spain-portugal-roadmaps",
-     "title": "Spain and Portugal roadmaps help build momentum to end fossil fuels at COP31",
-     "url": "https://www.greenpeace.org/international/press-release/87191/spain-portugal-roadmaps-build-momentum-end-fossil-fuels-cop31/",
-     "publisher": "Greenpeace International",
-     "author": "Greenpeace International",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Mitigação e MWP"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "O Greenpeace saúda o anúncio de roteiros de transição para longe dos combustíveis fósseis por Espanha, Portugal e Dinamarca na COP31, e de Luxemburgo antes da conferência Irlanda–Tuvalu.",
-     "collected_at": "2026-11-18T12:17:46-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Greenpeace welcomes the announcement of roadmaps to transition away from fossil fuels by Spain, Portugal and Denmark at COP31, and by Luxembourg before the Ireland–Tuvalu conference.",
-      "es": "Greenpeace celebra el anuncio de hojas de ruta para la transición para dejar atrás los combustibles fósiles por parte de España, Portugal y Dinamarca en la COP31, y de Luxemburgo antes de la conferencia Irlanda–Tuvalu.",
-      "fr": "Greenpeace salue l'annonce de feuilles de route de transition hors des combustibles fossiles par l'Espagne, le Portugal et le Danemark à la COP31, et par le Luxembourg avant la conférence Irlande–Tuvalu.",
-      "ru": "Гринпис приветствует объявление дорожных карт перехода от ископаемого топлива, сделанное Испанией, Португалией и Данией на COP31 и Люксембургом перед конференцией Ирландии и Тувалу.",
-      "zh": "绿色和平欢迎西班牙、葡萄牙和丹麦在COP31上宣布脱离化石燃料转型路线图，以及卢森堡将在爱尔兰—图瓦卢会议前发布路线图。该组织呼吁两个伊比利亚国家设定2040年期限并列明煤、气、油的退出日期，并要求澳大利亚公布包括出口在内的自身路线图。该组织称，两国若将能源需求削减39%，可在2040年前淘汰化石燃料。此事涉及TAFF与化石燃料议题。",
-      "ar": "ترحب غرينبيس بإعلان إسبانيا والبرتغال والدنمارك في مؤتمر COP31 خرائط طريق للانتقال بعيداً عن الوقود الأحفوري، وإعلان لوكسمبورغ ذلك قبل مؤتمر أيرلندا–توفالو. وتطالب بمواعيد نهائية في 2040 للبلدين الإيبيريين مع تواريخ لإنهاء الفحم والغاز والنفط، وتدعو أستراليا إلى نشر خريطة طريق خاصة بها تشمل الصادرات."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Greenpeace International"
-    ]
-   },
-   {
-    "id": "st-oilchange-2026-11-17-finance-work-programme",
-    "section": "civil",
-    "score": 0.143,
-    "lead": {
-     "id": "oilchange-2026-11-17-finance-work-programme",
-     "title": "Response to the latest draft of the Climate Finance Work Program",
-     "url": "https://oilchange.org/news/response-to-the-latest-draft-of-the-climate-finance-work-program/",
-     "publisher": "Oil Change International",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Em resposta ao último rascunho do Programa de Trabalho sobre Finanças Climáticas, a Oil Change International diz que o texto é uma chance de responsabilizar países ricos por suas obrigações legais de financiamento. Critica UE, Noruega, Suíça e outros por apoiarem a opção de \"nenhum texto\".",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Responding to the latest draft of the Climate Finance Work Programme, Oil Change International says the text offers a chance to hold wealthy nations to their legal climate finance obligations. It criticises the EU, Norway, Switzerland and others for backing a \"no text\" option. Summary based on the listing description.",
-      "es": "En respuesta al último proyecto del Programa de Trabajo sobre Financiación Climática, Oil Change International afirma que el texto ofrece la oportunidad de exigir a los países ricos que cumplan sus obligaciones jurídicas de financiación climática.",
-      "fr": "En réponse au dernier projet du Programme de travail sur le financement climatique, Oil Change International estime que le texte offre l'occasion de contraindre les pays riches à respecter leurs obligations juridiques en matière de financement climatique.",
-      "ru": "Отвечая на последний проект Программы работы по климатическому финансированию, Oil Change International заявляет, что текст даёт возможность заставить богатые страны выполнять юридические обязательства по финансированию. Организация критикует ЕС, Норвегию, Швейцарию и других за поддержку варианта «без текста».",
-      "zh": "针对气候资金工作方案的最新草案,Oil Change International表示该文本为追究富裕国家的法定气候资金义务提供了机会,并批评欧盟、挪威、瑞士等支持“无文本”方案。摘要依据列表页描述撰写。",
-      "ar": "في ردها على أحدث مسودة لبرنامج العمل المتعلق بتمويل المناخ، تقول Oil Change International إن النص يتيح فرصة لمساءلة الدول الغنية عن التزاماتها القانونية في مجال تمويل المناخ. وتنتقد الاتحاد الأوروبي والنرويج وسويسرا وغيرها لدعمها خيار «عدم وجود نص». الملخص مبني على وصف صفحة القائمة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Oil Change International"
-    ]
-   },
-   {
     "id": "st-actionaid-2026-11-18-eu-villain",
     "section": "civil",
-    "score": 0.143,
+    "score": 0.086,
     "lead": {
      "id": "actionaid-2026-11-18-eu-villain",
      "title": "'The EU has taken off its mask': ActionAid warns bloc is the new climate 'villain'",
@@ -2790,7 +1940,7 @@
    {
     "id": "st-oilchange-2026-11-18-roadmaps-ireland",
     "section": "civil",
-    "score": 0.143,
+    "score": 0.086,
     "lead": {
      "id": "oilchange-2026-11-18-roadmaps-ireland",
      "title": "Growing group of countries submit fossil fuel transition roadmaps at COP31",
@@ -2826,7 +1976,7 @@
    {
     "id": "st-kbpo-2026-11-18-big-ag-lobbyists",
     "section": "civil",
-    "score": 0.127,
+    "score": 0.076,
     "lead": {
      "id": "kbpo-2026-11-18-big-ag-lobbyists",
      "title": "RELEASE: Fertilizer, Big Meat and Biofuels Among 260 Food Sector Lobbyists at COP31",
@@ -2857,99 +2007,10 @@
     "publishers": [
      "Kick Big Polluters Out"
     ]
-   },
-   {
-    "id": "st-can-international-2026-11-17-adaptation-pittance",
-    "section": "civil",
-    "score": 0.115,
-    "lead": {
-     "id": "can-international-2026-11-17-adaptation-pittance",
-     "title": "COP31 Adaptation: Developed countries offer pittance, not a pledge",
-     "url": "https://climatenetwork.org/2026/11/17/cop31-adaptation-find-pittance/",
-     "publisher": "CAN International",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Adaptação",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Climate Action Network International critica o que considera uma oferta insuficiente dos países desenvolvidos em financiamento de adaptação na COP31, descrita como \"pittance, not a pledge\". O comunicado trata das negociações de adaptação e de finanças. Resumo baseado apenas no título da listagem;",
-     "collected_at": "2026-11-18T06:35:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Climate Action Network International criticises what it sees as an inadequate offer by developed countries on adaptation finance at COP31, described as \"pittance, not a pledge\". The release bears on the adaptation and finance negotiations. Summary based only on the listing headline; the text was not read.",
-      "es": "La Red de Acción Climática Internacional (CAN International) critica lo que considera una oferta insuficiente de los países desarrollados en financiación para la adaptación en la COP31, descrita como \"pittance, not a pledge\". El comunicado se refiere a las negociaciones sobre adaptación y finanzas.",
-      "fr": "Le Réseau Action Climat international (CAN International) critique ce qu'il juge être une offre insuffisante des pays développés en matière de financement de l'adaptation à la COP31, qualifiée de « pittance, not a pledge ». Le communiqué porte sur les négociations relatives à l'adaptation et aux finances.",
-      "ru": "Международная сеть климатических действий (CAN International) критикует то, что считает недостаточным предложением развитых стран по финансированию адаптации на СОР31, назвав его «pittance, not a pledge». Заявление относится к переговорам по адаптации и финансам. Резюме основано только на заголовке из списка;",
-      "zh": "国际气候行动网络（CAN International）批评发达国家在COP31上就适应资金提出的方案不足，称其为“pittance, not a pledge”。该新闻稿涉及适应和资金谈判。摘要仅依据列表标题，未阅读正文。",
-      "ar": "تنتقد شبكة العمل المناخي الدولية (CAN International) ما تعدّه عرضاً غير كافٍ من البلدان المتقدمة بشأن تمويل التكيف في COP31، ووصفته بعبارة \"pittance, not a pledge\". ويتعلق البيان بمفاوضات التكيف والتمويل. الملخص مبني على عنوان القائمة فقط، ولم يُقرأ النص."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
-    ]
-   },
-   {
-    "id": "st-can-international-2026-11-17-carbon-markets",
-    "section": "civil",
-    "score": 0.115,
-    "lead": {
-     "id": "can-international-2026-11-17-carbon-markets",
-     "title": "COP31: Push to deregulate UN carbon markets risks putting profits before people and the planet",
-     "url": "https://climatenetwork.org/2026/11/17/cop31-carbon-markets/",
-     "publisher": "CAN International",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Mitigação e MWP",
-      "Decisão de cobertura"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Em comunicado, a CAN International alerta que a pressão para desregular os mercados de carbono da ONU na COP31 pode favorecer lucros corporativos em detrimento de pessoas e do planeta. Relaciona-se às negociações do Artigo 6 e ao rascunho da decisão de cobertura. Resumo feito a partir do título e da listagem.",
-     "collected_at": "2026-11-17T12:17:18-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "In a press release, CAN International warns that the push to deregulate UN carbon markets at COP31 could favour corporate profits over people and the planet. It bears on the Article 6 negotiations and the draft cover decision. Summary based on the headline and listing.",
-      "es": "En un comunicado, CAN International advierte de que la presión para desregular los mercados de carbono de la ONU en la COP31 podría favorecer los beneficios empresariales frente a las personas y el planeta. Atañe a las negociaciones del artículo 6 y al proyecto de decisión de cobertura.",
-      "fr": "Dans un communiqué, CAN International avertit que la pression en faveur de la déréglementation des marchés carbone de l'ONU à la COP31 pourrait favoriser les profits des entreprises au détriment des personnes et de la planète. Cela concerne les négociations sur l'article 6 et le projet de décision de couverture.",
-      "ru": "В пресс-релизе CAN International предупреждает, что стремление дерегулировать углеродные рынки ООН на COP31 может поставить корпоративные прибыли выше интересов людей и планеты. Тема связана с переговорами по статье 6 и проектом общего решения. Резюме составлено по заголовку и списку публикаций.",
-      "zh": "CAN International在新闻稿中警告称,COP31上放松联合国碳市场监管的推动可能使企业利润凌驾于人与地球之上。该议题涉及第6条谈判和涵盖性决定草案。摘要依据标题和列表页撰写。",
-      "ar": "حذّرت CAN International في بيان صحفي من أن الدفع نحو تخفيف الضوابط على أسواق الكربون التابعة للأمم المتحدة في COP31 قد يقدّم أرباح الشركات على الناس والكوكب. ويتصل ذلك بمفاوضات المادة 6 ومشروع المقرر الجامع. الملخص مبني على العنوان وصفحة القائمة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
-    ]
    }
   ]
  },
  "featured_history": {
-  "2026-11-13": [
-   "bluesky-enb.iisd.org-20261112-eficiencia-data-centers",
-   "carbon-brief-2026-11-12-miliband-qa",
-   "climate-action-tracker-2026-11-12-warming-projections",
-   "climate-home-news-2026-11-12-ocean-roadmap",
-   "climatehome-2026-11-11-turkiye-zero-waste",
-   "cop30-presidency-daily-brief-2026-11-12",
-   "cop30-presidency-daily-brief-2026-11-13",
-   "cop31-presidency-2026-11-12-resilient-cities",
-   "instagram-turkiyecop31-20261112-kurum-cidades-resilientes",
-   "instagram-turkiyecop31-20261113-day5-finance-trade",
-   "unfccc-2026-11-11-bmr-concept-note",
-   "unfccc-2026-11-11-guterres-zero-waste",
-   "unfccc-2026-11-12-industrial-climate-action-report",
-   "unfccc-2026-11-12-presidency-concept-note-process",
-   "unfccc-2026-11-12-transparency-enabling-tool",
-   "v20-cvf-2026-11-12-arise",
-   "wmo-2026-11-12-escalating-hazards"
-  ],
   "2026-11-16": [
    "350org-2026-11-14-bad-jokes-boys-club",
    "bluesky-enb-iisd-org-20261114-turfeiras-breakthrough",
@@ -3046,6 +2107,16 @@
    "unfccc-2026-11-19-cover-decision-draft",
    "unfccc-2026-11-19-crucial-days",
    "unfccc-2026-11-19-electrification-lightbulb"
+  ],
+  "2026-11-21": [
+   "can-international-2026-11-20-worst-cop-ever",
+   "climate-home-news-2026-11-19-draft-keeps-electrification",
+   "climate-home-news-2026-11-20-bulletin-day-11",
+   "cop31tr-2026-11-19-climate-club-oecd",
+   "icc-2026-11-20-ministers-critical-juncture",
+   "oil-change-2026-11-19-media-advisory",
+   "unfccc-2026-11-20-bowen-interview",
+   "unfccc-2026-11-20-redd-forest-finance"
   ]
  }
 }
