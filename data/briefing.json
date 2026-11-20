@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-20",
- "generated_at": "2026-11-20T17:58+03:00",
+ "generated_at": "2026-11-20T18:57+03:00",
  "window": {
   "from": "2026-11-17",
   "to": "2026-11-20",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-20T06:40:00-03:00",
-  "social_round": "2026-11-20T11:44:50-03:00",
+  "web_round": "2026-11-20T12:25:00-03:00",
+  "social_round": "2026-11-20T12:50:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 79,
-  "stories": 62,
+  "candidates": 82,
+  "stories": 65,
   "top": 8,
   "publishers": [
    "350.org",
@@ -58,7 +58,7 @@
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "budget"
+    "note": "URL devolve artigo de 2022, não listagem"
    },
    {
     "publisher": "Third World Network (TWN)",
@@ -70,6 +70,44 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-climate-home-news-2026-11-20-bulletin-day-11",
+    "section": "negotiations",
+    "score": 0.85,
+    "lead": {
+     "id": "climate-home-news-2026-11-20-bulletin-day-11",
+     "title": "COP31 Bulletin Day 11: Best COP, worst COP? Weary negotiators seek to strengthen outcome",
+     "url": "https://www.climatechangenews.com/2026/11/20/cop31-bulletin-day-11-best-cop-worst-cop-weary-negotiators-seek-to-strengthen-outcome/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo, Megan Rowling",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Adaptação",
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do último dia oficial da COP31: finanças climáticas, adaptação e o novo mecanismo de transição justa seguem sem acordo, e a conferência deve avançar além do prazo.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Bulletin for the last official day of COP31: climate finance, adaptation and the new just transition mechanism remain unresolved, and the conference is likely to overrun.",
+      "es": "Boletín del último día oficial de la COP31: la financiación climática, la adaptación y el nuevo mecanismo de transición justa siguen sin acuerdo, y es probable que la conferencia se prolongue.",
+      "fr": "Bulletin du dernier jour officiel de la COP31 : le financement climatique, l'adaptation et le nouveau mécanisme de transition juste restent sans accord, et la conférence devrait se prolonger.",
+      "ru": "Бюллетень последнего официального дня COP31: вопросы климатического финансирования, адаптации и нового механизма справедливого перехода остаются неурегулированными, и конференция, вероятно, затянется.",
+      "zh": "COP31最后一个正式日的简报：气候融资、适应和新的公正转型机制仍未达成一致，会议很可能超时。CAN拒绝了总括决定文本，倡导者称发达国家正在后退，不再支持将适应资金增至三倍和公正转型机制。",
+      "ar": "نشرة اليوم الرسمي الأخير من COP31: لا تزال مسائل تمويل المناخ والتكيف وآلية الانتقال العادل الجديدة دون اتفاق، ويُرجَّح أن يتجاوز المؤتمر موعده. وترفض شبكة العمل المناخي (CAN) نص القرار الشامل، ويقول ناشطون إن البلدان المتقدمة تتراجع عن مضاعفة تمويل التكيف ثلاث مرات وعن آلية الانتقال العادل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-19-cover-decision-draft",
     "section": "negotiations",
@@ -268,40 +306,77 @@
     ]
    },
    {
-    "id": "st-climate-home-news-2026-11-19-bangladesh-finance",
-    "section": "negotiations",
-    "score": 0.612,
+    "id": "st-can-international-2026-11-20-worst-cop-ever",
+    "section": "civil",
+    "score": 0.75,
     "lead": {
-     "id": "climate-home-news-2026-11-19-bangladesh-finance",
-     "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
-     "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
-     "publisher": "Climate Home News",
-     "author": "Shaikh Faridul Islam",
-     "published": "2026-11-19",
+     "id": "can-international-2026-11-20-worst-cop-ever",
+     "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
+     "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
+     "publisher": "CAN International",
+     "author": "CAN International",
+     "published": "2026-11-20",
      "language": "en",
      "tracks": [
+      "Decisão de cobertura",
       "Finanças",
-      "Adaptação",
-      "Perdas e danos"
+      "Espaço cívico"
      ],
-     "content_type": "analysis",
+     "content_type": "advocacy",
      "kind": "publication",
-     "description": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo.",
-     "collected_at": "2026-11-19T12:18:19-03:00",
+     "description": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next.",
-      "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente.",
-      "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante.",
-      "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему.",
-      "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
-      "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات."
+      "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
+      "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
+      "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
+      "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
+      "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
+      "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "Climate Home News"
+     "CAN International"
+    ]
+   },
+   {
+    "id": "st-icc-2026-11-20-ministers-critical-juncture",
+    "section": "negotiations",
+    "score": 0.675,
+    "lead": {
+     "id": "icc-2026-11-20-ministers-critical-juncture",
+     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
+     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
+     "publisher": "ICC",
+     "author": "ICC (John W.H. Denton AO)",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Eletrificação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
+      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
+      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
+      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
+      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
+      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
     ]
    },
    {
@@ -638,82 +713,46 @@
     "publishers": [
      "SEFiA"
     ]
-   },
-   {
-    "id": "st-greenpeace-2026-11-19-iea-weo",
-    "section": "civil",
-    "score": 0.45,
-    "lead": {
-     "id": "greenpeace-2026-11-19-iea-weo",
-     "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
-     "url": "https://www.greenpeace.org/international/press-release/87228/greenpeace-responds-iea-report-urgent-clean-energy-investment-protect-economic-energy-security/",
-     "publisher": "Greenpeace International",
-     "author": "Greenpeace International",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Eletrificação",
-      "TAFF e fósseis"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "A Greenpeace reage ao novo relatório da AIE (World Energy Outlook 2026), que examina cenários após o choque de oferta de energia ligado à guerra no Irã. A organização pede investimento urgente em energia limpa para proteger o clima e a segurança econômica e energética.",
-     "collected_at": "2026-11-20T06:40:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Greenpeace responds to the new IEA report (World Energy Outlook 2026), which examines scenarios after the energy supply shock linked to the war in Iran. The organisation calls for urgent clean energy investment to protect the climate and economic and energy security.",
-      "es": "Greenpeace responde al nuevo informe de la AIE (World Energy Outlook 2026), que examina escenarios tras el shock de suministro energético vinculado a la guerra en Irán. La organización pide inversión urgente en energía limpia para proteger el clima y la seguridad económica y energética.",
-      "fr": "Greenpeace réagit au nouveau rapport de l'AIE (World Energy Outlook 2026), qui examine des scénarios après le choc d'approvisionnement énergétique lié à la guerre en Iran. L'organisation appelle à des investissements urgents dans l'énergie propre pour protéger le climat et la sécurité économique et énergétique.",
-      "ru": "Greenpeace реагирует на новый доклад МЭА (World Energy Outlook 2026), в котором рассматриваются сценарии после шока энергопоставок, связанного с войной в Иране. Организация призывает к срочным инвестициям в чистую энергию для защиты климата, экономической и энергетической безопасности.",
-      "zh": "绿色和平对国际能源署新报告(《2026年世界能源展望》)作出回应,该报告分析了与伊朗战争相关的能源供应冲击后的情景。该组织呼吁紧急投资清洁能源,以保护气候以及经济和能源安全。涉及电气化和化石燃料转型议题。摘要仅依据列表。",
-      "ar": "ردّت غرينبيس على تقرير وكالة الطاقة الدولية الجديد (World Energy Outlook 2026) الذي يدرس سيناريوهات ما بعد صدمة إمدادات الطاقة المرتبطة بالحرب في إيران. وتدعو المنظمة إلى استثمار عاجل في الطاقة النظيفة لحماية المناخ والأمن الاقتصادي والطاقي. ويتصل ذلك بمساري الكهربة والانتقال بعيدًا عن الوقود الأحفوري."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Greenpeace International"
-    ]
-   },
-   {
-    "id": "st-oil-change-2026-11-19-weo-2026",
-    "section": "civil",
-    "score": 0.383,
-    "lead": {
-     "id": "oil-change-2026-11-19-weo-2026",
-     "title": "International Energy Agency World Energy Outlook 2026 Underscores Urgent Need for Just Transition Away from Fossil Fuels",
-     "url": "https://oilchange.org/news/international-energy-agency-world-energy-outlook-2026-underscores-urgent-need-for-just-transition-away-from-fossil-fuels/",
-     "publisher": "Oil Change International",
-     "author": "Oil Change International",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Transição justa",
-      "Finanças"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Segundo a chamada do comunicado, o World Energy Outlook 2026 da IEA indica que a crise dos combustíveis fósseis pode acelerar o declínio do petróleo e reduzir a demanda por GNL. A Oil Change defende que os governos ampliem roteiros críveis de eliminação dos fósseis e financiamento público para uma transição justa.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "According to the release teaser, the IEA World Energy Outlook 2026 indicates that the fossil fuel crisis could speed the decline of oil and cut LNG demand. Oil Change argues that governments should scale up credible fossil fuel phase-out roadmaps and public finance for a just transition.",
-      "es": "Según el avance del comunicado, el World Energy Outlook 2026 de la AIE indica que la crisis de los combustibles fósiles podría acelerar el declive del petróleo y reducir la demanda de GNL.",
-      "fr": "D'après l'accroche du communiqué, le World Energy Outlook 2026 de l'AIE indique que la crise des combustibles fossiles pourrait accélérer le déclin du pétrole et réduire la demande de GNL.",
-      "ru": "Согласно анонсу релиза, World Energy Outlook 2026 МЭА показывает, что кризис ископаемого топлива может ускорить спад нефти и сократить спрос на СПГ. Oil Change призывает правительства расширить достоверные дорожные карты отказа от ископаемого топлива и государственное финансирование справедливого перехода.",
-      "zh": "根据新闻稿摘要,国际能源署《2026年世界能源展望》显示,化石燃料危机可能加速石油需求下降并减少液化天然气需求。Oil Change主张各国政府扩大可信的化石燃料淘汰路线图和用于公正转型的公共资金。本摘要仅依据摘要文字。",
-      "ar": "وفق مقدمة البيان، يشير «World Energy Outlook 2026» الصادر عن وكالة الطاقة الدولية إلى أن أزمة الوقود الأحفوري قد تسرّع تراجع النفط وتخفض الطلب على الغاز الطبيعي المسال. وترى Oil Change أن على الحكومات توسيع خرائط طريق موثوقة للتخلص من الوقود الأحفوري والتمويل العام لانتقال عادل. الملخص مبني على نص المقدمة فقط."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Oil Change International"
-    ]
    }
   ],
   "negotiations": [
+   {
+    "id": "st-climate-home-news-2026-11-19-bangladesh-finance",
+    "section": "negotiations",
+    "score": 0.612,
+    "lead": {
+     "id": "climate-home-news-2026-11-19-bangladesh-finance",
+     "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+     "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+     "publisher": "Climate Home News",
+     "author": "Shaikh Faridul Islam",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Perdas e danos"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "O ministro de Estado do Meio Ambiente de Bangladesh escreve que o país investiu muitos recursos públicos em proteção climática, mas os custos crescentes o mantêm preso entre a recuperação de um desastre e a preparação para o próximo.",
+     "collected_at": "2026-11-19T12:18:19-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Bangladesh's State Minister for Environment writes that the country has committed substantial public resources to climate protection, yet mounting costs keep it stuck between recovering from one disaster and preparing for the next.",
+      "es": "El ministro de Estado de Medio Ambiente de Bangladesh escribe que el país ha comprometido cuantiosos recursos públicos a la protección climática, pero los costos crecientes lo mantienen atrapado entre la recuperación de un desastre y la preparación para el siguiente.",
+      "fr": "Le ministre d'État de l'environnement du Bangladesh écrit que son pays a engagé d'importantes ressources publiques pour se protéger du changement climatique, mais que la hausse des coûts le maintient pris entre la reconstruction après une catastrophe et la préparation de la suivante.",
+      "ru": "Государственный министр по окружающей среде Бангладеш пишет, что страна направила значительные государственные средства на защиту от изменения климата, однако растущие расходы удерживают её между восстановлением после одного бедствия и подготовкой к следующему.",
+      "zh": "孟加拉国环境国务部长撰文称，该国已投入大量公共资源保护民众免受气候变化影响，但不断上升的成本使其困于“刚从一场灾害中恢复、又要为下一场做准备”的循环。他表示，安塔利亚的谈判迄今未能反映发展中国家的资金需求，呼吁制定落实巴库目标和将适应资金增加两倍的具体计划。他还警告说，损失与损害基金资源不足，脆弱国家离开COP31时应当知道适应赠款何时到位。",
+      "ar": "يكتب وزير الدولة للبيئة في بنغلاديش أن بلاده خصصت موارد عامة كبيرة للحماية من تغير المناخ، لكن التكاليف المتصاعدة تبقيها عالقة بين التعافي من كارثة والاستعداد للكارثة التالية. ويقول إن مفاوضات أنطاليا لم تعكس بعد احتياجات البلدان النامية من التمويل، ويدعو إلى خطة ملموسة لتحقيق هدف باكو ومضاعفة تمويل التكيف ثلاث مرات."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-climate-home-news-2026-11-19-bulletin-day-10",
     "section": "negotiations",
@@ -2388,6 +2427,79 @@
   ],
   "civil": [
    {
+    "id": "st-greenpeace-2026-11-19-iea-weo",
+    "section": "civil",
+    "score": 0.45,
+    "lead": {
+     "id": "greenpeace-2026-11-19-iea-weo",
+     "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
+     "url": "https://www.greenpeace.org/international/press-release/87228/greenpeace-responds-iea-report-urgent-clean-energy-investment-protect-economic-energy-security/",
+     "publisher": "Greenpeace International",
+     "author": "Greenpeace International",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Greenpeace reage ao novo relatório da AIE (World Energy Outlook 2026), que examina cenários após o choque de oferta de energia ligado à guerra no Irã. A organização pede investimento urgente em energia limpa para proteger o clima e a segurança econômica e energética.",
+     "collected_at": "2026-11-20T06:40:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Greenpeace responds to the new IEA report (World Energy Outlook 2026), which examines scenarios after the energy supply shock linked to the war in Iran. The organisation calls for urgent clean energy investment to protect the climate and economic and energy security.",
+      "es": "Greenpeace responde al nuevo informe de la AIE (World Energy Outlook 2026), que examina escenarios tras el shock de suministro energético vinculado a la guerra en Irán. La organización pide inversión urgente en energía limpia para proteger el clima y la seguridad económica y energética.",
+      "fr": "Greenpeace réagit au nouveau rapport de l'AIE (World Energy Outlook 2026), qui examine des scénarios après le choc d'approvisionnement énergétique lié à la guerre en Iran. L'organisation appelle à des investissements urgents dans l'énergie propre pour protéger le climat et la sécurité économique et énergétique.",
+      "ru": "Greenpeace реагирует на новый доклад МЭА (World Energy Outlook 2026), в котором рассматриваются сценарии после шока энергопоставок, связанного с войной в Иране. Организация призывает к срочным инвестициям в чистую энергию для защиты климата, экономической и энергетической безопасности.",
+      "zh": "绿色和平对国际能源署新报告(《2026年世界能源展望》)作出回应,该报告分析了与伊朗战争相关的能源供应冲击后的情景。该组织呼吁紧急投资清洁能源,以保护气候以及经济和能源安全。涉及电气化和化石燃料转型议题。摘要仅依据列表。",
+      "ar": "ردّت غرينبيس على تقرير وكالة الطاقة الدولية الجديد (World Energy Outlook 2026) الذي يدرس سيناريوهات ما بعد صدمة إمدادات الطاقة المرتبطة بالحرب في إيران. وتدعو المنظمة إلى استثمار عاجل في الطاقة النظيفة لحماية المناخ والأمن الاقتصادي والطاقي. ويتصل ذلك بمساري الكهربة والانتقال بعيدًا عن الوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Greenpeace International"
+    ]
+   },
+   {
+    "id": "st-oil-change-2026-11-19-weo-2026",
+    "section": "civil",
+    "score": 0.383,
+    "lead": {
+     "id": "oil-change-2026-11-19-weo-2026",
+     "title": "International Energy Agency World Energy Outlook 2026 Underscores Urgent Need for Just Transition Away from Fossil Fuels",
+     "url": "https://oilchange.org/news/international-energy-agency-world-energy-outlook-2026-underscores-urgent-need-for-just-transition-away-from-fossil-fuels/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Transição justa",
+      "Finanças"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Segundo a chamada do comunicado, o World Energy Outlook 2026 da IEA indica que a crise dos combustíveis fósseis pode acelerar o declínio do petróleo e reduzir a demanda por GNL. A Oil Change defende que os governos ampliem roteiros críveis de eliminação dos fósseis e financiamento público para uma transição justa.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "According to the release teaser, the IEA World Energy Outlook 2026 indicates that the fossil fuel crisis could speed the decline of oil and cut LNG demand. Oil Change argues that governments should scale up credible fossil fuel phase-out roadmaps and public finance for a just transition.",
+      "es": "Según el avance del comunicado, el World Energy Outlook 2026 de la AIE indica que la crisis de los combustibles fósiles podría acelerar el declive del petróleo y reducir la demanda de GNL.",
+      "fr": "D'après l'accroche du communiqué, le World Energy Outlook 2026 de l'AIE indique que la crise des combustibles fossiles pourrait accélérer le déclin du pétrole et réduire la demande de GNL.",
+      "ru": "Согласно анонсу релиза, World Energy Outlook 2026 МЭА показывает, что кризис ископаемого топлива может ускорить спад нефти и сократить спрос на СПГ. Oil Change призывает правительства расширить достоверные дорожные карты отказа от ископаемого топлива и государственное финансирование справедливого перехода.",
+      "zh": "根据新闻稿摘要,国际能源署《2026年世界能源展望》显示,化石燃料危机可能加速石油需求下降并减少液化天然气需求。Oil Change主张各国政府扩大可信的化石燃料淘汰路线图和用于公正转型的公共资金。本摘要仅依据摘要文字。",
+      "ar": "وفق مقدمة البيان، يشير «World Energy Outlook 2026» الصادر عن وكالة الطاقة الدولية إلى أن أزمة الوقود الأحفوري قد تسرّع تراجع النفط وتخفض الطلب على الغاز الطبيعي المسال. وترى Oil Change أن على الحكومات توسيع خرائط طريق موثوقة للتخلص من الوقود الأحفوري والتمويل العام لانتقال عادل. الملخص مبني على نص المقدمة فقط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Oil Change International"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-18-eu-blocks-finance",
     "section": "civil",
     "score": 0.239,
@@ -2919,12 +3031,15 @@
   ],
   "2026-11-20": [
    "350org-2026-11-19-petition-200000",
+   "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-18-ocean-geoengineering",
    "climate-home-news-2026-11-19-bangladesh-finance",
+   "climate-home-news-2026-11-20-bulletin-day-11",
    "cop31tr-2026-11-19-climate-club-oecd",
    "cvfv20-2026-11-18-youth-fellows",
    "e3g-2026-11-18-eu-uk-summit",
    "greenpeace-2026-11-19-iea-weo",
+   "icc-2026-11-20-ministers-critical-juncture",
    "oil-change-2026-11-19-cover-decision-response",
    "oil-change-2026-11-19-weo-2026",
    "sefia-2026-11-19-week2-day1",
