@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-20",
- "generated_at": "2026-11-20T04:59+03:00",
+ "generated_at": "2026-11-20T06:58+03:00",
  "window": {
   "from": "2026-11-17",
   "to": "2026-11-20",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-19T18:18:32-03:00",
+  "web_round": "2026-11-20T00:15:41-03:00",
   "social_round": "2026-11-19T22:45:47-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 67,
-  "stories": 60,
+  "candidates": 71,
+  "stories": 61,
   "top": 8,
   "publishers": [
    "350.org",
@@ -52,22 +52,12 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "listagem sem datas"
+    "note": "sem datas nem URLs"
    },
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
     "note": "só artigo de 2022"
-   },
-   {
-    "publisher": "Arab Group (UNFCCC submissions)",
-    "outcome": "blocked",
-    "note": "budget: não lida nesta rodada"
-   },
-   {
-    "publisher": "COP31 Presidency (Türkiye/Australia)",
-    "outcome": "error",
-    "note": "SERVER_ERROR do servidor"
    },
    {
     "publisher": "Third World Network (TWN)",
@@ -80,15 +70,15 @@
  "sections": {
   "essential": [
    {
-    "id": "st-unfccc-2026-11-19-crucial-days",
+    "id": "st-unfccc-2026-11-19-cover-decision-draft",
     "section": "negotiations",
     "score": 0.8,
     "lead": {
-     "id": "unfccc-2026-11-19-crucial-days",
-     "title": "\"These are crucial days ahead for climate cooperation. And we have no time to lose\" – UN Climate Chief at COP31 press conference",
-     "url": "https://unfccc.int/news/these-are-crucial-days-ahead-for-climate-cooperation-and-we-have-no-time-to-lose-un-climate-chief-at",
+     "id": "unfccc-2026-11-19-cover-decision-draft",
+     "title": "DRAFT TEXT prepared under COP 31 Presidency consultations on Presidency-led Party-driven cover decision",
+     "url": "https://unfccc.int/documents/665726",
      "publisher": "UNFCCC / Simon Stiell",
-     "author": "Simon Stiell",
+     "author": "COP 31 Presidency",
      "published": "2026-11-19",
      "language": "en",
      "tracks": [
@@ -97,20 +87,75 @@
      ],
      "content_type": "official",
      "kind": "publication",
-     "description": "Na coletiva da Presidência, Stiell diz que a decisão de cobertura é complexa e que será difícil alcançar resultados fortes e equilibrados em todos os temas. Lembra que a Presidência pretende uma decisão conduzida por ela e que um novo rascunho do texto foi divulgado no mesmo dia.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
+     "description": "Rascunho do texto da decisão de cobertura, preparado pelas consultas da Presidência da COP31 em formato conduzido pela Presidência e orientado pelas Partes. O documento foi publicado no portal da UNFCCC em 19 de novembro, no momento em que o novo rascunho era aguardado após a conversa ministerial.",
+     "collected_at": "2026-11-20T00:15:41-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "At the Presidency press conference, Stiell says the cover decision is complex and that strong, balanced outcomes on all issues will be hard to reach. He recalls that the Presidency intends a Presidency-led decision and that a new draft text was released the same day.",
-      "es": "En la rueda de prensa de la Presidencia, Stiell dice que la decisión de cobertura es compleja y que será difícil lograr resultados sólidos y equilibrados en todos los temas. Recuerda que la Presidencia pretende una decisión dirigida por ella y que ese mismo día se publicó un nuevo borrador del texto.",
-      "fr": "Lors de la conférence de presse de la Présidence, M. Stiell indique que la décision de couverture est complexe et qu'il sera difficile d'obtenir des résultats solides et équilibrés sur tous les sujets.",
-      "ru": "На пресс-конференции Председательства Стилл заявил, что итоговое решение сложное и добиться сильных и сбалансированных результатов по всем вопросам будет трудно. Он напомнил, что Председательство намерено принять решение под своим руководством и что в тот же день опубликован новый проект текста.",
-      "zh": "在主席团新闻发布会上,斯蒂尔表示总括性决定十分复杂,要在所有议题上达成有力而平衡的成果并不容易。他回顾说,主席团打算由主席团主导形成决定,并且当天已发布新的案文草案。他提到各谈判室共有165项授权议题,并称近200个缔约方是这一进程的主人。",
-      "ar": "في المؤتمر الصحفي للرئاسة، قال ستيل إن القرار الشامل معقّد وإن تحقيق نتائج قوية ومتوازنة في جميع القضايا سيكون صعبًا. وذكّر بأن الرئاسة تعتزم التوصل إلى قرار تقوده بنفسها وبأن مسودة نص جديدة صدرت في اليوم نفسه. وأشار إلى وجود 165 بندًا مكلفًا في قاعات التفاوض، وقال إن نحو 200 طرف يملكون هذه العملية."
+      "en": "Draft text of the cover decision, prepared under the COP31 Presidency's consultations in a Presidency-led, Party-driven format. The document was posted on the UNFCCC portal on 19 November, as the new draft was awaited after the ministerial exchange. Summary based only on metadata and the title;",
+      "es": "Borrador del texto de la decisión de cobertura, preparado en las consultas de la Presidencia de la COP31 con un formato dirigido por la Presidencia e impulsado por las Partes. El documento se publicó en el portal de la CMNUCC el 19 de noviembre, cuando se esperaba el nuevo borrador tras el intercambio ministerial.",
+      "fr": "Projet de texte de la décision de couverture, établi dans le cadre des consultations de la présidence de la COP31, selon un format piloté par la présidence et mené par les Parties.",
+      "ru": "Проект текста общего решения, подготовленный в ходе консультаций Президентства COP31 в формате, который возглавляет Президентство и определяют Стороны. Документ опубликован на портале РКИК ООН 19 ноября, когда после министерского обмена мнениями ожидался новый проект. Резюме основано только на метаданных и названии;",
+      "zh": "在COP31主席团磋商下编写的总括决定案文草案，采用由主席团牵头、缔约方主导的形式。该文件于11月19日发布在《联合国气候变化框架公约》门户网站上，此前部长级交流后正等待新草案。摘要仅依据元数据和标题；案文本身未经阅读。",
+      "ar": "مشروع نص القرار الشامل الذي أُعدّ في إطار مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين بصيغة تقودها الرئاسة وتوجّهها الأطراف. نُشرت الوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر، في وقت كان يُنتظر فيه المشروع الجديد بعد التبادل الوزاري."
      },
      "description_i18n_method": "machine"
     },
-    "related": [],
+    "related": [
+     {
+      "id": "unfccc-2026-11-19-presidency-message",
+      "title": "COP 31 Presidency message to Parties (19 November 2026)",
+      "url": "https://unfccc.int/documents/665783",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "COP 31 Presidency",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Mensagem da Presidência da COP31 às Partes datada de 19 de novembro, publicada como documento de sessão no portal da UNFCCC. Faz parte da sequência de mensagens da Presidência na reta final das negociações, em torno da decisão de cobertura. O texto da mensagem não foi lido; resumo baseado em título e metadados.",
+      "collected_at": "2026-11-20T00:15:41-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Message from the COP31 Presidency to Parties dated 19 November, posted as a session document on the UNFCCC portal. It is part of the sequence of Presidency messages in the final stretch of negotiations around the cover decision. The text of the message was not read; summary based on title and metadata.",
+       "es": "Mensaje de la Presidencia de la COP31 a las Partes con fecha 19 de noviembre, publicado como documento de sesión en el portal de la CMNUCC. Forma parte de la serie de mensajes de la Presidencia en la recta final de las negociaciones en torno a la decisión de cobertura. No se leyó el texto del mensaje;",
+       "fr": "Message de la présidence de la COP31 aux Parties daté du 19 novembre, publié comme document de session sur le portail de la CCNUCC. Il s'inscrit dans la série de messages de la présidence durant la dernière ligne droite des négociations autour de la décision de couverture. Le texte du message n'a pas été lu ;",
+       "ru": "Послание Президентства COP31 Сторонам от 19 ноября, опубликованное как документ сессии на портале РКИК ООН. Оно входит в серию посланий Президентства на заключительном этапе переговоров вокруг общего решения. Текст послания не читался; резюме основано на названии и метаданных.",
+       "zh": "COP31主席团于11月19日致缔约方的信息，作为会议文件发布在《联合国气候变化框架公约》门户网站上。它属于谈判最后阶段围绕总括决定发出的一系列主席团信息。信息正文未经阅读；摘要依据标题和元数据。",
+       "ar": "رسالة من رئاسة مؤتمر الأطراف الحادي والثلاثين إلى الأطراف بتاريخ 19 نوفمبر، نُشرت كوثيقة جلسة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وهي جزء من سلسلة رسائل الرئاسة في المرحلة الأخيرة من المفاوضات حول القرار الشامل. لم يُقرأ نص الرسالة؛ الملخص مبني على العنوان والبيانات الوصفية."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "unfccc-2026-11-19-varank-remarks",
+      "title": "Remarks by Ms. Fatma Varank, COP31 Chief Climate Negotiator and Deputy Minister of Environment, Urbanization and Climate Change, Türkiye",
+      "url": "https://unfccc.int/documents/665757",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "Fatma Varank",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Presidência e anfitrião",
+       "Decisão de cobertura"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Declaração de Fatma Varank, negociadora-chefe de clima da COP31 e vice-ministra turca, publicada como documento na UNFCCC em 19 de novembro. Insere-se nas falas da Presidência anfitriã na reta final das negociações. O texto do discurso não aparece na listagem e não foi lido.",
+      "collected_at": "2026-11-20T00:15:41-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Remarks by Fatma Varank, COP31 Chief Climate Negotiator and Deputy Minister of Türkiye, posted as a document on the UNFCCC portal on 19 November. They belong to the host Presidency's statements in the final stretch of negotiations. The speech text is not shown in the listing and was not read.",
+       "es": "Intervención de Fatma Varank, negociadora jefa del clima de la COP31 y viceministra de Türkiye, publicada como documento en el portal de la CMNUCC el 19 de noviembre. Forma parte de las declaraciones de la Presidencia anfitriona en la recta final de las negociaciones.",
+       "fr": "Déclaration de Fatma Varank, négociatrice en chef pour le climat de la COP31 et vice-ministre de Türkiye, publiée comme document sur le portail de la CCNUCC le 19 novembre. Elle s'inscrit dans les interventions de la présidence hôte durant la dernière ligne droite des négociations.",
+       "ru": "Выступление Фатмы Варанк, главного переговорщика COP31 по климату и заместителя министра Турции, опубликованное как документ на портале РКИК ООН 19 ноября. Оно входит в заявления принимающего Президентства на завершающем этапе переговоров. Текст выступления в списке не показан и не читался.",
+       "zh": "COP31首席气候谈判代表、土耳其副部长法特玛·瓦兰克（Fatma Varank）的发言，于11月19日作为文件发布在《联合国气候变化框架公约》门户网站上。它属于东道国主席团在谈判最后阶段的表态。列表中未显示发言全文，内容未经阅读。",
+       "ar": "كلمة فاطمة فارنك، كبيرة المفاوضين للمناخ في مؤتمر الأطراف الحادي والثلاثين ونائبة وزير تركيا، نُشرت كوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر. وهي ضمن تصريحات الرئاسة المضيفة في المرحلة الأخيرة من المفاوضات. نص الكلمة غير ظاهر في القائمة ولم يُقرأ."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
     "publishers": [
      "UNFCCC / Simon Stiell"
     ]
@@ -150,6 +195,42 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-19-crucial-days",
+    "section": "negotiations",
+    "score": 0.8,
+    "lead": {
+     "id": "unfccc-2026-11-19-crucial-days",
+     "title": "\"These are crucial days ahead for climate cooperation. And we have no time to lose\" – UN Climate Chief at COP31 press conference",
+     "url": "https://unfccc.int/news/these-are-crucial-days-ahead-for-climate-cooperation-and-we-have-no-time-to-lose-un-climate-chief-at",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Na coletiva da Presidência, Stiell diz que a decisão de cobertura é complexa e que será difícil alcançar resultados fortes e equilibrados em todos os temas. Lembra que a Presidência pretende uma decisão conduzida por ela e que um novo rascunho do texto foi divulgado no mesmo dia.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "At the Presidency press conference, Stiell says the cover decision is complex and that strong, balanced outcomes on all issues will be hard to reach. He recalls that the Presidency intends a Presidency-led decision and that a new draft text was released the same day.",
+      "es": "En la rueda de prensa de la Presidencia, Stiell dice que la decisión de cobertura es compleja y que será difícil lograr resultados sólidos y equilibrados en todos los temas. Recuerda que la Presidencia pretende una decisión dirigida por ella y que ese mismo día se publicó un nuevo borrador del texto.",
+      "fr": "Lors de la conférence de presse de la Présidence, M. Stiell indique que la décision de couverture est complexe et qu'il sera difficile d'obtenir des résultats solides et équilibrés sur tous les sujets.",
+      "ru": "На пресс-конференции Председательства Стилл заявил, что итоговое решение сложное и добиться сильных и сбалансированных результатов по всем вопросам будет трудно. Он напомнил, что Председательство намерено принять решение под своим руководством и что в тот же день опубликован новый проект текста.",
+      "zh": "在主席团新闻发布会上,斯蒂尔表示总括性决定十分复杂,要在所有议题上达成有力而平衡的成果并不容易。他回顾说,主席团打算由主席团主导形成决定,并且当天已发布新的案文草案。他提到各谈判室共有165项授权议题,并称近200个缔约方是这一进程的主人。",
+      "ar": "في المؤتمر الصحفي للرئاسة، قال ستيل إن القرار الشامل معقّد وإن تحقيق نتائج قوية ومتوازنة في جميع القضايا سيكون صعبًا. وذكّر بأن الرئاسة تعتزم التوصل إلى قرار تقوده بنفسها وبأن مسودة نص جديدة صدرت في اليوم نفسه. وأشار إلى وجود 165 بندًا مكلفًا في قاعات التفاوض، وقال إن نحو 200 طرف يملكون هذه العملية."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
     ]
    },
    {
@@ -331,42 +412,6 @@
     "publishers": [
      "350.org",
      "Oil Change International"
-    ]
-   },
-   {
-    "id": "st-unfccc-2026-11-19-electrification-lightbulb",
-    "section": "action",
-    "score": 0.6,
-    "lead": {
-     "id": "unfccc-2026-11-19-electrification-lightbulb",
-     "title": "Electrification at COP31 \"a lightbulb moment for our global climate push\" – UN Climate Chief",
-     "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "Simon Stiell",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Eletrificação",
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Em discurso no evento de alto nível da Agenda de Ação Climática Global, Stiell apresenta o Electrification Delivery Package e o chama de um ponto de virada. Ele cita planos de investimento de pelo menos US$ 156 bilhões por ano em redes, renováveis e armazenamento e mais de 21 mil km de novas redes.",
-     "collected_at": "2026-11-19T18:18:32-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "In a speech at the Global Climate Action high-level event, Stiell presents the Electrification Delivery Package and calls it a turning point. He cites investment plans of at least US$156 billion a year in grids, renewables and storage and more than 21,000 km of new grid.",
-      "es": "En un discurso en el evento de alto nivel de Acción Climática Global, Stiell presenta el Electrification Delivery Package y lo califica de punto de inflexión. Cita planes de inversión de al menos 156.000 millones de dólares al año en redes, renovables y almacenamiento y más de 21.000 km de nuevas redes.",
-      "fr": "Dans un discours lors de l'événement de haut niveau sur l'action climatique mondiale, M. Stiell présente le Electrification Delivery Package et y voit un tournant.",
-      "ru": "В выступлении на мероприятии высокого уровня по глобальным климатическим действиям Стилл представил Electrification Delivery Package и назвал его поворотным моментом. Он привёл планы инвестиций не менее 156 млрд долл. США в год в сети, ВИЭ и накопители и более 21 тыс. км новых сетей.",
-      "zh": "斯蒂尔在全球气候行动高级别活动上的讲话中介绍了“电气化交付包”(Electrification Delivery Package),称其为转折点。他提到电网、可再生能源和储能领域每年至少1560亿美元的投资计划,以及超过2.1万公里的新建电网。他请各国向秘书处提供自愿联络人,以便发展中国家参与行动议程。",
-      "ar": "في كلمة ألقاها خلال الحدث رفيع المستوى للعمل المناخي العالمي، قدّم ستيل «Electrification Delivery Package» ووصفه بأنه نقطة تحول. وذكر خطط استثمار لا تقل عن 156 مليار دولار سنويًا في الشبكات والطاقة المتجددة والتخزين، وأكثر من 21 ألف كم من الشبكات الجديدة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
     ]
    },
    {
@@ -1392,6 +1437,105 @@
   ],
   "action": [
    {
+    "id": "st-unfccc-2026-11-19-electrification-delivery-package",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "unfccc-2026-11-19-electrification-delivery-package",
+     "title": "COP31 GCA-Electrification-Delivery-Package",
+     "url": "https://unfccc.int/documents/665633",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "não informado",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Documento técnico não oficial do Pacote de Entrega de Eletrificação, ligado à Agenda de Ação da COP31 e publicado no portal da UNFCCC em 19 de novembro. Complementa o rastreador de ações empresariais do WBCSD e os comunicados da UNFCCC sobre a promessa de eletrificação. Resumo baseado só no título e na classificação;",
+     "collected_at": "2026-11-20T00:15:41-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Non-official technical paper on the Electrification Delivery Package, linked to the COP31 Action Agenda and posted on the UNFCCC portal on 19 November. It complements the WBCSD business action tracker and the UNFCCC releases on the electrification pledge. Summary based only on the title and classification;",
+      "es": "Documento técnico no oficial sobre el Paquete de Entrega de Electrificación, vinculado a la Agenda de Acción de la COP31 y publicado en el portal de la CMNUCC el 19 de noviembre. Complementa el rastreador de acciones empresariales del WBCSD y los comunicados de la CMNUCC sobre el compromiso de electrificación.",
+      "fr": "Document technique non officiel sur le Paquet de mise en œuvre de l'électrification, lié à l'Agenda de l'action de la COP31 et publié sur le portail de la CCNUCC le 19 novembre. Il complète le suivi des actions des entreprises du WBCSD et les communiqués de la CCNUCC sur l'engagement d'électrification.",
+      "ru": "Неофициальный технический документ о Пакете мер по электрификации, связанный с Повесткой действий COP31 и опубликованный на портале РКИК ООН 19 ноября. Он дополняет трекер бизнес-действий WBCSD и сообщения РКИК ООН об обязательстве по электрификации. Резюме основано только на названии и классификации;",
+      "zh": "关于电气化交付一揽子计划的非正式技术文件，与COP31行动议程相关，于11月19日发布在《联合国气候变化框架公约》门户网站上。它补充了WBCSD的企业行动跟踪器以及公约秘书处关于电气化承诺的新闻稿。摘要仅依据标题和分类；内容未经阅读。",
+      "ar": "ورقة تقنية غير رسمية عن حزمة تنفيذ التكهرب، مرتبطة بخطة العمل لمؤتمر الأطراف الحادي والثلاثين، نُشرت على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر. وهي تكمّل متتبّع إجراءات الأعمال التابع لمجلس WBCSD وبيانات الاتفاقية عن التعهد بالتكهرب. الملخص مبني على العنوان والتصنيف فقط؛ ولم يُقرأ المحتوى."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "unfccc-2026-11-17-climate-week-organizers-joint-statement",
+      "title": "Joint Statement of Climate Week Organizers",
+      "url": "https://unfccc.int/documents/665143",
+      "publisher": "UNFCCC / Simon Stiell",
+      "author": "Climate Week organizers",
+      "published": "2026-11-17",
+      "language": "en",
+      "tracks": [
+       "Agenda de Ação"
+      ],
+      "content_type": "official",
+      "kind": "publication",
+      "description": "Declaração conjunta dos organizadores das Semanas do Clima publicada no portal de documentos da UNFCCC durante a COP31, ligada à Agenda de Ação e à mobilização de atores não estatais. Resumo baseado apenas no título do documento; o conteúdo não foi lido.",
+      "collected_at": "2026-11-18T00:20:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Joint statement by the Climate Week organizers published on the UNFCCC documents portal during COP31, linked to the Action Agenda and the mobilization of non-state actors. Summary based only on the document title; the content was not read.",
+       "es": "Declaración conjunta de los organizadores de las Semanas del Clima publicada en el portal de documentos de la CMNUCC durante la COP31, vinculada a la Agenda de Acción y a la movilización de actores no estatales. Resumen basado solo en el título del documento; no se leyó el contenido.",
+       "fr": "Déclaration commune des organisateurs des Semaines du climat publiée sur le portail des documents de la CCNUCC pendant la COP31, liée à l'Agenda de l'action et à la mobilisation des acteurs non étatiques. Résumé fondé uniquement sur le titre du document ; le contenu n'a pas été lu.",
+       "ru": "Совместное заявление организаторов «климатических недель», опубликованное на портале документов РКИК ООН в ходе КС-31 и связанное с Повесткой дня действий и мобилизацией негосударственных субъектов. Резюме основано только на названии документа; содержание не читалось.",
+       "zh": "气候周组织者联合声明，在COP31期间发布于《联合国气候变化框架公约》文件门户网站，与行动议程及非国家行为体的动员相关。摘要仅基于文件标题，未阅读内容。",
+       "ar": "بيان مشترك للجهات المنظمة لأسابيع المناخ نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ خلال مؤتمر الأطراف الحادي والثلاثين، ويرتبط بخطة العمل وتعبئة الجهات الفاعلة غير الحكومية. الملخص مبني على عنوان الوثيقة فقط؛ ولم يُقرأ المحتوى."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-unfccc-2026-11-19-electrification-lightbulb",
+    "section": "action",
+    "score": 0.6,
+    "lead": {
+     "id": "unfccc-2026-11-19-electrification-lightbulb",
+     "title": "Electrification at COP31 \"a lightbulb moment for our global climate push\" – UN Climate Chief",
+     "url": "https://unfccc.int/news/electrification-at-cop31-a-lightbulb-moment-for-our-global-climate-push-un-climate-chief",
+     "publisher": "UNFCCC / Simon Stiell",
+     "author": "Simon Stiell",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Eletrificação",
+      "Agenda de Ação"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "Em discurso no evento de alto nível da Agenda de Ação Climática Global, Stiell apresenta o Electrification Delivery Package e o chama de um ponto de virada. Ele cita planos de investimento de pelo menos US$ 156 bilhões por ano em redes, renováveis e armazenamento e mais de 21 mil km de novas redes.",
+     "collected_at": "2026-11-19T18:18:32-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "In a speech at the Global Climate Action high-level event, Stiell presents the Electrification Delivery Package and calls it a turning point. He cites investment plans of at least US$156 billion a year in grids, renewables and storage and more than 21,000 km of new grid.",
+      "es": "En un discurso en el evento de alto nivel de Acción Climática Global, Stiell presenta el Electrification Delivery Package y lo califica de punto de inflexión. Cita planes de inversión de al menos 156.000 millones de dólares al año en redes, renovables y almacenamiento y más de 21.000 km de nuevas redes.",
+      "fr": "Dans un discours lors de l'événement de haut niveau sur l'action climatique mondiale, M. Stiell présente le Electrification Delivery Package et y voit un tournant.",
+      "ru": "В выступлении на мероприятии высокого уровня по глобальным климатическим действиям Стилл представил Electrification Delivery Package и назвал его поворотным моментом. Он привёл планы инвестиций не менее 156 млрд долл. США в год в сети, ВИЭ и накопители и более 21 тыс. км новых сетей.",
+      "zh": "斯蒂尔在全球气候行动高级别活动上的讲话中介绍了“电气化交付包”(Electrification Delivery Package),称其为转折点。他提到电网、可再生能源和储能领域每年至少1560亿美元的投资计划,以及超过2.1万公里的新建电网。他请各国向秘书处提供自愿联络人,以便发展中国家参与行动议程。",
+      "ar": "في كلمة ألقاها خلال الحدث رفيع المستوى للعمل المناخي العالمي، قدّم ستيل «Electrification Delivery Package» ووصفه بأنه نقطة تحول. وذكر خطط استثمار لا تقل عن 156 مليار دولار سنويًا في الشبكات والطاقة المتجددة والتخزين، وأكثر من 21 ألف كم من الشبكات الجديدة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-19-electrification-rally",
     "section": "action",
     "score": 0.6,
@@ -1600,41 +1744,6 @@
     "related": [],
     "publishers": [
      "WBCSD"
-    ]
-   },
-   {
-    "id": "st-unfccc-2026-11-17-climate-week-organizers-joint-statement",
-    "section": "action",
-    "score": 0.225,
-    "lead": {
-     "id": "unfccc-2026-11-17-climate-week-organizers-joint-statement",
-     "title": "Joint Statement of Climate Week Organizers",
-     "url": "https://unfccc.int/documents/665143",
-     "publisher": "UNFCCC / Simon Stiell",
-     "author": "Climate Week organizers",
-     "published": "2026-11-17",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "Declaração conjunta dos organizadores das Semanas do Clima publicada no portal de documentos da UNFCCC durante a COP31, ligada à Agenda de Ação e à mobilização de atores não estatais. Resumo baseado apenas no título do documento; o conteúdo não foi lido.",
-     "collected_at": "2026-11-18T00:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Joint statement by the Climate Week organizers published on the UNFCCC documents portal during COP31, linked to the Action Agenda and the mobilization of non-state actors. Summary based only on the document title; the content was not read.",
-      "es": "Declaración conjunta de los organizadores de las Semanas del Clima publicada en el portal de documentos de la CMNUCC durante la COP31, vinculada a la Agenda de Acción y a la movilización de actores no estatales. Resumen basado solo en el título del documento; no se leyó el contenido.",
-      "fr": "Déclaration commune des organisateurs des Semaines du climat publiée sur le portail des documents de la CCNUCC pendant la COP31, liée à l'Agenda de l'action et à la mobilisation des acteurs non étatiques. Résumé fondé uniquement sur le titre du document ; le contenu n'a pas été lu.",
-      "ru": "Совместное заявление организаторов «климатических недель», опубликованное на портале документов РКИК ООН в ходе КС-31 и связанное с Повесткой дня действий и мобилизацией негосударственных субъектов. Резюме основано только на названии документа; содержание не читалось.",
-      "zh": "气候周组织者联合声明，在COP31期间发布于《联合国气候变化框架公约》文件门户网站，与行动议程及非国家行为体的动员相关。摘要仅基于文件标题，未阅读内容。",
-      "ar": "بيان مشترك للجهات المنظمة لأسابيع المناخ نُشر على بوابة وثائق اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ خلال مؤتمر الأطراف الحادي والثلاثين، ويرتبط بخطة العمل وتعبئة الجهات الفاعلة غير الحكومية. الملخص مبني على عنوان الوثيقة فقط؛ ولم يُقرأ المحتوى."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "UNFCCC / Simon Stiell"
     ]
    },
    {
@@ -2585,6 +2694,7 @@
    "cvfv20-2026-11-18-youth-fellows",
    "e3g-2026-11-18-eu-uk-summit",
    "oil-change-2026-11-19-cover-decision-response",
+   "unfccc-2026-11-19-cover-decision-draft",
    "unfccc-2026-11-19-crucial-days",
    "unfccc-2026-11-19-electrification-lightbulb"
   ]
