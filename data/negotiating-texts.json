@@ -143,9 +143,33 @@
       "change": "new",
       "document_id": "10000390",
       "event_id": "67580c94ef4a6a15a3480d26"
+    },
+    {
+      "at": "2026-11-20T16:36:49.401485Z",
+      "change": "withdrawn",
+      "document_id": "10000358",
+      "event_id": "c4e894085ed8e075e5fb0796"
+    },
+    {
+      "at": "2026-11-20T16:36:49.401485Z",
+      "change": "withdrawn",
+      "document_id": "10000360",
+      "event_id": "d14055e2d191cf1c0bb44fb5"
+    },
+    {
+      "at": "2026-11-20T16:36:49.401485Z",
+      "change": "new",
+      "document_id": "10000391",
+      "event_id": "2791ba5393ddd2b23edd3e81"
+    },
+    {
+      "at": "2026-11-20T16:36:49.401485Z",
+      "change": "new",
+      "document_id": "10000392",
+      "event_id": "ab3b28bf7861b7fe7b6b5a73"
     }
   ],
-  "checked_at": "2026-11-20T16:27:42.339824Z",
+  "checked_at": "2026-11-20T16:36:49.401485Z",
   "degraded": false,
   "documents": [
     {
@@ -671,7 +695,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "3b02c2357389179bafa2f70998d02252871a70714ba5e4dbf8e421444da0ec59",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000358/files/en/GST_NDC_DT_cma82.pdf"
         }
       ],
@@ -679,14 +703,14 @@
       "document_code": "DT.CMA8.i4.3",
       "id": "10000358",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T04:55:27.560474Z",
+      "modified_at": "2026-11-20T16:34:20.709046Z",
       "published_at": "2026-11-19T04:45:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000358/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
       "topic": "GST / IPCC",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 4",
@@ -3113,7 +3137,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "901da5124912df9d947b2c01e4ae45f0d7ec51284f08a89e8526fd1165e553f3",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000360/files/en/CTC%20Host_DT_SBI653.pdf"
         }
       ],
@@ -3121,14 +3145,14 @@
       "document_code": "DT.COP31.i9b_CMA8.i12b.2",
       "id": "10000360",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-19T05:41:45.001932Z",
+      "modified_at": "2026-11-20T16:35:02.181283Z",
       "published_at": "2026-11-19T05:40:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000360/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Host of the Climate Technology Centre",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 16(b)",
@@ -3631,6 +3655,50 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 12(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "667c77b8bfdbfe2f654f809ed0ab39aa7fdbbf9cf554651c3da428144d6f19f8",
+          "url": "https://docs.unfccc.int/documents/10000391/files/en/CTC%20Host_DT_CMA8_DD.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.9",
+      "id": "10000391",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-20T16:28:23.604321Z",
+      "published_at": "2026-11-20T16:30:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000391/metadata",
+      "status": "unknown",
+      "title": "Host of the Climate Technology Centre. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 20; CMP 21 13; CMA 8 22",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9ae7986caab79b092261fadcfac4033d6a65a4e288c676cd76bc310f18db3c5c",
+          "url": "https://docs.unfccc.int/documents/10000392/files/en/expression_of_gratitude_COP31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)",
+      "document_code": "FCCC/CP/2026/L.6-FCCC/KP/CMP/2026/L.2-FCCC/PA/CMA/2026/L.10",
+      "id": "10000392",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-20T16:30:29.294745Z",
+      "published_at": "2026-11-20T16:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000392/metadata",
+      "status": "unknown",
+      "title": "Expression of gratitude to the Government of the Republic of Türkiye and the people of the city of Antalya",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3735,9 +3803,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 26,
-  "last_attempt": "2026-11-20T16:27:42.339824Z",
-  "last_success": "2026-11-20T16:27:42.339824Z",
+  "history_count": 28,
+  "last_attempt": "2026-11-20T16:36:49.401485Z",
+  "last_success": "2026-11-20T16:36:49.401485Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
