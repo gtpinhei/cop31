@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-20T00:15:41-03:00",
+ "generated_at": "2026-11-20T06:40:00-03:00",
  "round": {
-  "timestamp": "2026-11-20T00:15:41-03:00",
-  "label": "20 nov 2026, 00:15 (Brasília)",
-  "sites_checked": 63,
-  "blocked": 18,
-  "new_items": 4,
-  "fetches": "63 de 60",
+  "timestamp": "2026-11-20T06:40:00-03:00",
+  "label": "20 nov 2026, 06:40 (Brasília)",
+  "sites_checked": 60,
+  "blocked": 15,
+  "new_items": 6,
+  "fetches": "60 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -15,19 +15,16 @@
    "web-chathamhouse-org-topics-climate-policy",
    "web-christianaid-org-uk-news",
    "web-climateanalytics-org-publications",
+   "web-climatechampions-unfccc-int-news",
    "web-ember-energy-org-latest-insights",
    "web-eurodad-org-news",
-   "web-foei-org-news",
    "web-icccad-net-news",
    "web-iea-org-events-world-energy-outlook-2026",
    "web-ituc-csi-org-climate-justice",
    "web-odi-org-en-insights",
-   "web-politicaporinteiro-org-en",
-   "web-transforma-global",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-unep-org-resources-emissions-gap-report-2026",
-   "web-wemeanbusinesscoalition-org-news",
-   "web-wwf-panda-org-wwf-news"
+   "web-wemeanbusinesscoalition-org-news"
   ]
  },
  "tracks": [
@@ -48,6 +45,160 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "350org-2026-11-19-near-final-texts",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31 near-final texts an 'outrage' as fossil fuel transition eliminated",
+   "date": "2026-11-19",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/cop31-near-final-texts-an-outrage-as-fossil-fuel-transition-eliminated/",
+   "summary": "A 350.org reage aos textos quase finais da COP31 e afirma que eles eliminam a transição para longe dos combustíveis fósseis. A crítica incide sobre o rascunho da decisão de cobertura e o roteiro TAFF. Resumo baseado apenas no título e na chamada da listagem.",
+   "summary_i18n": {
+    "en": "350.org reacts to the near-final COP31 texts and says they eliminate the transition away from fossil fuels. The criticism targets the draft cover decision and the TAFF roadmap. Summary based only on the listing title and teaser.",
+    "es": "350.org reacciona a los textos casi finales de la COP31 y afirma que eliminan la transición para abandonar los combustibles fósiles. La crítica se dirige al borrador de la decisión de cobertura y a la hoja de ruta TAFF. Resumen basado solo en el título y el extracto del listado.",
+    "fr": "350.org réagit aux textes quasi finaux de la COP31 et affirme qu'ils éliminent la transition hors des combustibles fossiles. La critique vise le projet de décision de couverture et la feuille de route TAFF. Résumé fondé uniquement sur le titre et l'extrait de la liste.",
+    "ru": "350.org реагирует на почти окончательные тексты КС-31 и заявляет, что они устраняют переход от ископаемого топлива. Критика направлена на проект итогового решения и дорожную карту TAFF. Резюме основано только на заголовке и анонсе в списке.",
+    "zh": "350.org 对 COP31 近乎最终的文本作出回应,称其删除了摆脱化石燃料的转型内容。批评针对总括决定草案和 TAFF 路线图。摘要仅依据列表中的标题和导语。",
+    "ar": "ردّت 350.org على نصوص COP31 شبه النهائية، معتبرة أنها تحذف الانتقال بعيدًا عن الوقود الأحفوري. وينصبّ النقد على مسودة قرار التغطية وخارطة طريق TAFF. الملخص مبني على العنوان ومقتطف القائمة فقط."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "source_id": "web-350-org-press-release",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "350org-2026-11-19-petition-200000",
+   "institution": "350.org",
+   "type": "release",
+   "title": "COP31: 200,000+ people demand Australia and Türkiye deliver action to phase out fossil fuels",
+   "date": "2026-11-19",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/cop31-200000-people-demand-australia-and-t%C3%BCrkiye-deliver-action-to-phase-out-fossil-fuels/",
+   "summary": "A 350.org informa que mais de 200 mil pessoas assinaram petição pedindo que Austrália e Türkiye, copresidências da COP31, entreguem ação para eliminar gradualmente os combustíveis fósseis. Liga-se à trilha TAFF e à pressão sobre as presidências. Resumo baseado apenas no título da listagem.",
+   "summary_i18n": {
+    "en": "350.org reports that more than 200,000 people signed a petition asking Australia and Türkiye, the COP31 co-presidencies, to deliver action to phase out fossil fuels. It bears on the TAFF track and on pressure on the presidencies. Summary based only on the listing title.",
+    "es": "350.org informa de que más de 200.000 personas firmaron una petición para que Australia y Türkiye, copresidencias de la COP31, adopten medidas para eliminar gradualmente los combustibles fósiles. Se vincula con la vía TAFF y con la presión sobre las presidencias. Resumen basado solo en el título del listado.",
+    "fr": "350.org indique que plus de 200 000 personnes ont signé une pétition demandant à l'Australie et à la Türkiye, coprésidences de la COP31, d'agir pour éliminer progressivement les combustibles fossiles. Cela concerne le volet TAFF et la pression sur les présidences. Résumé fondé uniquement sur le titre de la liste.",
+    "ru": "350.org сообщает, что более 200 000 человек подписали петицию с призывом к Австралии и Турции, сопредседателям КС-31, принять меры по поэтапному отказу от ископаемого топлива. Это относится к треку TAFF и давлению на председательство. Резюме основано только на заголовке в списке.",
+    "zh": "350.org 报告称,逾20万人签署请愿,要求 COP31 共同主席国澳大利亚和土耳其采取行动,逐步淘汰化石燃料。内容涉及 TAFF 议题及对主席国的压力。摘要仅依据列表标题。",
+    "ar": "أفادت 350.org بأن أكثر من 200 ألف شخص وقّعوا عريضة تطالب أستراليا وتركيا، الرئاستين المشتركتين لـ COP31، باتخاذ إجراءات للتخلص التدريجي من الوقود الأحفوري. ويتصل ذلك بمسار TAFF والضغط على الرئاستين. الملخص مبني على عنوان القائمة فقط."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Presidência e anfitrião"
+   ],
+   "source_id": "web-350-org-press-release",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "sefia-2026-11-19-week2-day1",
+   "institution": "SEFiA",
+   "type": "blog",
+   "title": "COP31 Week 2, Day 1: Climate Action and Just Transition Mechanism",
+   "date": "2026-11-19",
+   "authors": "SEFiA",
+   "url": "https://sefia.org/en/blog/cop31-week-2-day-1-climate-action-and-just-transition-mechanism/",
+   "summary": "Post do SEFiA sobre o primeiro dia da segunda semana da COP31, com foco na ação climática e no mecanismo de transição justa. Só o título e a chamada foram lidos, sem o corpo do texto. Liga-se à trilha de transição justa (JTWP e Mecanismo Belém–Antalya).",
+   "summary_i18n": {
+    "en": "SEFiA blog post on the first day of COP31's second week, focusing on climate action and the just transition mechanism. Only the title and teaser were read, not the body text. It bears on the just transition track (JTWP and the Belém–Antalya Mechanism).",
+    "es": "Entrada del blog de SEFiA sobre el primer día de la segunda semana de la COP31, centrada en la acción climática y el mecanismo de transición justa. Solo se leyeron el título y el extracto, no el cuerpo del texto. Se vincula con la vía de transición justa (JTWP y Mecanismo Belém–Antalya).",
+    "fr": "Article de blog de SEFiA sur le premier jour de la deuxième semaine de la COP31, consacré à l'action climatique et au mécanisme de transition juste. Seuls le titre et l'extrait ont été lus, pas le corps du texte. Il concerne le volet transition juste (JTWP et Mécanisme Belém–Antalya).",
+    "ru": "Запись в блоге SEFiA о первом дне второй недели КС-31, посвящённая климатическим действиям и механизму справедливого перехода. Прочитаны только заголовок и анонс, без основного текста. Относится к треку справедливого перехода (JTWP и Механизм Белен–Анталья).",
+    "zh": "SEFiA 博客文章,介绍 COP31 第二周第一天,重点为气候行动和公正转型机制。仅阅读了标题和导语,未读正文。涉及公正转型议题(JTWP 及贝伦—安塔利亚机制)。",
+    "ar": "تدوينة من SEFiA عن اليوم الأول من الأسبوع الثاني لـ COP31، تركز على العمل المناخي وآلية الانتقال العادل. لم يُقرأ سوى العنوان والمقتطف دون نص المقال. وتتصل بمسار الانتقال العادل (JTWP وآلية بيليم–أنطاليا)."
+   },
+   "tracks": [
+    "Transição justa"
+   ],
+   "source_id": "web-sefia-org-en",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "greenpeace-2026-11-19-iea-weo",
+   "institution": "Greenpeace International",
+   "type": "release",
+   "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
+   "date": "2026-11-19",
+   "authors": "Greenpeace International",
+   "url": "https://www.greenpeace.org/international/press-release/87228/greenpeace-responds-iea-report-urgent-clean-energy-investment-protect-economic-energy-security/",
+   "summary": "A Greenpeace reage ao novo relatório da AIE (World Energy Outlook 2026), que examina cenários após o choque de oferta de energia ligado à guerra no Irã. A organização pede investimento urgente em energia limpa para proteger o clima e a segurança econômica e energética. Liga-se às trilhas de eletrificação e de transição dos fósseis. Resumo baseado só na listagem.",
+   "summary_i18n": {
+    "en": "Greenpeace responds to the new IEA report (World Energy Outlook 2026), which examines scenarios after the energy supply shock linked to the war in Iran. The organisation calls for urgent clean energy investment to protect the climate and economic and energy security. It bears on the electrification and fossil transition tracks. Summary based on the listing only.",
+    "es": "Greenpeace responde al nuevo informe de la AIE (World Energy Outlook 2026), que examina escenarios tras el shock de suministro energético vinculado a la guerra en Irán. La organización pide inversión urgente en energía limpia para proteger el clima y la seguridad económica y energética. Se vincula con las vías de electrificación y de transición de los fósiles. Resumen basado solo en el listado.",
+    "fr": "Greenpeace réagit au nouveau rapport de l'AIE (World Energy Outlook 2026), qui examine des scénarios après le choc d'approvisionnement énergétique lié à la guerre en Iran. L'organisation appelle à des investissements urgents dans l'énergie propre pour protéger le climat et la sécurité économique et énergétique. Cela concerne les volets électrification et transition des fossiles. Résumé fondé uniquement sur la liste.",
+    "ru": "Greenpeace реагирует на новый доклад МЭА (World Energy Outlook 2026), в котором рассматриваются сценарии после шока энергопоставок, связанного с войной в Иране. Организация призывает к срочным инвестициям в чистую энергию для защиты климата, экономической и энергетической безопасности. Относится к трекам электрификации и перехода от ископаемого топлива. Резюме основано только на списке.",
+    "zh": "绿色和平对国际能源署新报告(《2026年世界能源展望》)作出回应,该报告分析了与伊朗战争相关的能源供应冲击后的情景。该组织呼吁紧急投资清洁能源,以保护气候以及经济和能源安全。涉及电气化和化石燃料转型议题。摘要仅依据列表。",
+    "ar": "ردّت غرينبيس على تقرير وكالة الطاقة الدولية الجديد (World Energy Outlook 2026) الذي يدرس سيناريوهات ما بعد صدمة إمدادات الطاقة المرتبطة بالحرب في إيران. وتدعو المنظمة إلى استثمار عاجل في الطاقة النظيفة لحماية المناخ والأمن الاقتصادي والطاقي. ويتصل ذلك بمساري الكهربة والانتقال بعيدًا عن الوقود الأحفوري. الملخص مبني على القائمة فقط."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "source_id": "web-greenpeace-org-international-press",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "unfccc-2026-11-19-brazil-statement",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Brazil Statement",
+   "date": "2026-11-19",
+   "authors": "Brazil",
+   "url": "https://unfccc.int/documents/665776",
+   "summary": "Declaração do Brasil publicada como documento no portal da UNFCCC em 19 de novembro, na reta final das negociações da COP31. Resumo baseado apenas nos metadados e no título; o conteúdo não foi lido.",
+   "summary_i18n": {
+    "en": "Statement by Brazil posted as a document on the UNFCCC portal on 19 November, in the final stretch of the COP31 negotiations. Summary based only on metadata and the title; the content was not read.",
+    "es": "Declaración de Brasil publicada como documento en el portal de la CMNUCC el 19 de noviembre, en la recta final de las negociaciones de la COP31. Resumen basado solo en los metadatos y el título; no se leyó el contenido.",
+    "fr": "Déclaration du Brésil publiée comme document sur le portail de la CCNUCC le 19 novembre, dans la dernière ligne droite des négociations de la COP31. Résumé fondé uniquement sur les métadonnées et le titre; le contenu n'a pas été lu.",
+    "ru": "Заявление Бразилии, опубликованное как документ на портале РКИК ООН 19 ноября, на финишной прямой переговоров КС-31. Резюме основано только на метаданных и заголовке; содержание не читалось.",
+    "zh": "巴西的声明于11月19日作为文件发布在《联合国气候变化框架公约》门户网站上,时值 COP31 谈判最后阶段。摘要仅依据元数据和标题,未阅读内容。",
+    "ar": "بيان البرازيل نُشر كوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر، في المرحلة الأخيرة من مفاوضات COP31. الملخص مبني على البيانات الوصفية والعنوان فقط؛ ولم يُقرأ المحتوى."
+   },
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
+  {
+   "id": "unfccc-2026-11-19-ldc-25-years",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "relatório",
+   "title": "Proven Impact: 25 Years of Supporting the LDCs",
+   "date": "2026-11-19",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/665655",
+   "summary": "Publicação da UNFCCC (PDF) sobre 25 anos de apoio aos países menos desenvolvidos, listada no portal de documentos em 19 de novembro. Liga-se às trilhas de adaptação e de finanças. Resumo baseado apenas nos metadados e no título; o conteúdo não foi lido.",
+   "summary_i18n": {
+    "en": "UNFCCC publication (PDF) on 25 years of support to the least developed countries, listed on the documents portal on 19 November. It bears on the adaptation and finance tracks. Summary based only on metadata and the title; the content was not read.",
+    "es": "Publicación de la CMNUCC (PDF) sobre 25 años de apoyo a los países menos adelantados, incluida en el portal de documentos el 19 de noviembre. Se vincula con las vías de adaptación y financiación. Resumen basado solo en los metadatos y el título; no se leyó el contenido.",
+    "fr": "Publication de la CCNUCC (PDF) sur 25 ans d'appui aux pays les moins avancés, répertoriée sur le portail des documents le 19 novembre. Elle concerne les volets adaptation et financement. Résumé fondé uniquement sur les métadonnées et le titre; le contenu n'a pas été lu.",
+    "ru": "Публикация РКИК ООН (PDF) о 25 годах поддержки наименее развитых стран, размещённая на портале документов 19 ноября. Относится к трекам адаптации и финансов. Резюме основано только на метаданных и заголовке; содержание не читалось.",
+    "zh": "《联合国气候变化框架公约》关于25年支持最不发达国家的出版物(PDF),11月19日列入文件门户网站。涉及适应和资金议题。摘要仅依据元数据和标题,未阅读内容。",
+    "ar": "منشور (PDF) صادر عن اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ عن 25 عامًا من دعم أقل البلدان نموًا، أُدرج في بوابة الوثائق في 19 نوفمبر. ويتصل بمساري التكيف والتمويل. الملخص مبني على البيانات الوصفية والعنوان فقط؛ ولم يُقرأ المحتوى."
+   },
+   "tracks": [
+    "Adaptação",
+    "Finanças"
+   ],
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h",
+   "quotes": [],
+   "first_seen": "2026-11-20T06:40:00-03:00",
+   "lang": "en"
+  },
   {
    "id": "unfccc-2026-11-19-cover-decision-draft",
    "institution": "UNFCCC / Simon Stiell",
@@ -26547,10 +26698,10 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-20T05:47:10-03:00",
-  "label": "20 nov 2026, 05:47 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
+  "timestamp": "2026-11-20T06:46:19-03:00",
+  "label": "20 nov 2026, 06:46 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
   "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
