@@ -3598,7 +3598,7 @@
     }
   ],
   "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-19T23:54:07.974181Z",
+  "last_attempt": "2026-11-20T00:07:31.548695Z",
   "last_success": "2026-11-19T22:17:19.374529Z",
   "schema": 1,
   "sources": [
