@@ -173,9 +173,21 @@
       "change": "revised",
       "document_id": "10000381",
       "event_id": "c69fafb9433c9ee0377abf4a"
+    },
+    {
+      "at": "2026-11-20T14:56:50.462880Z",
+      "change": "reinstated",
+      "document_id": "10000375",
+      "event_id": "c384c183b9dca2a2688724eb"
+    },
+    {
+      "at": "2026-11-20T14:56:50.462880Z",
+      "change": "new",
+      "document_id": "10000388",
+      "event_id": "c71a083c167e9bcbc9eaba23"
     }
   ],
-  "checked_at": "2026-11-20T14:47:12.710475Z",
+  "checked_at": "2026-11-20T14:56:50.462880Z",
   "degraded": false,
   "documents": [
     {
@@ -492,19 +504,25 @@
     },
     {
       "agenda": "COP 31 2(f)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "23ca94e955f348495416c4d08c827713ab32f20a404e60b5912853b9c5f2f587",
+          "url": "https://docs.unfccc.int/documents/10000375/files/en/NAPs_DT_SBI653.pdf"
+        }
+      ],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.i2f.2",
       "id": "10000375",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-19T16:03:26.342360Z",
+      "modified_at": "2026-11-20T14:49:05.801900Z",
       "published_at": "2026-11-19T14:08:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000375/metadata",
-      "status": "withdrawn",
+      "status": "draft",
       "title": "National adaptation plans",
       "topic": "Adaptation",
-      "withdrawn": true
+      "withdrawn": false
     },
     {
       "agenda": "CMA 8 11(g)",
@@ -725,8 +743,8 @@
       "document_code": "FCCC/PA/CMA/2026/L.8",
       "id": "10000384",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-20T12:15:34.365454Z",
-      "published_at": "2026-11-20T12:15:00Z",
+      "modified_at": "2026-11-20T14:50:31.091979Z",
+      "published_at": "2026-11-20T10:15:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000384/metadata",
       "status": "unknown",
@@ -3564,6 +3582,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 14",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "af556203165f6fdc6c87d2f49ee55a47618a7bdea0b330896d373d34c35b2479",
+          "url": "https://docs.unfccc.int/documents/10000388/files/en/LDCs_DT_CMA8_DD_DC.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.11",
+      "id": "10000388",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-20T14:56:13.446762Z",
+      "published_at": "2026-11-20T15:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000388/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the least developed countries. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3668,9 +3708,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 36,
-  "last_attempt": "2026-11-20T14:47:12.710475Z",
-  "last_success": "2026-11-20T14:47:12.710475Z",
+  "history_count": 31,
+  "last_attempt": "2026-11-20T14:56:50.462880Z",
+  "last_success": "2026-11-20T14:56:50.462880Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
