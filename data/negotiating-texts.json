@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-19T19:47:27.087324Z",
-      "change": "new",
-      "document_id": "10000380",
-      "event_id": "b5dc06a17621cfa7451c2aa6"
-    },
-    {
       "at": "2026-11-19T20:07:20.575862Z",
       "change": "revised",
       "document_id": "10000356",
@@ -191,9 +185,15 @@
       "change": "withdrawn",
       "document_id": "10000343",
       "event_id": "2245877f36eceb6929a683f2"
+    },
+    {
+      "at": "2026-11-20T19:56:49.024755Z",
+      "change": "withdrawn",
+      "document_id": "10000361",
+      "event_id": "e128bf5b21d85ee02507f7e3"
     }
   ],
-  "checked_at": "2026-11-20T19:47:22.673110Z",
+  "checked_at": "2026-11-20T19:56:49.024755Z",
   "degraded": false,
   "documents": [
     {
@@ -3183,7 +3183,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "462bf1643d79eed6579f0afdc956037824420b6b8376b02f074a4fbc9416bef3",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000361/files/en/art_6.4_DT_cma84.pdf"
         }
       ],
@@ -3191,14 +3191,14 @@
       "document_code": "DT.CMA8.i16b.4",
       "id": "10000361",
       "metadata_version": "5.0",
-      "modified_at": "2026-11-19T11:06:00.059630Z",
+      "modified_at": "2026-11-20T19:52:33.803032Z",
       "published_at": "2026-11-19T10:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000361/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 16(a)",
@@ -3899,9 +3899,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 32,
-  "last_attempt": "2026-11-20T19:47:22.673110Z",
-  "last_success": "2026-11-20T19:47:22.673110Z",
+  "history_count": 33,
+  "last_attempt": "2026-11-20T19:56:49.024755Z",
+  "last_success": "2026-11-20T19:56:49.024755Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
