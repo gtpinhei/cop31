@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-19T20:07:20.575862Z",
-      "change": "revised",
-      "document_id": "10000356",
-      "event_id": "6b7f8ac33d1ef501997d3ed5"
-    },
-    {
       "at": "2026-11-19T21:07:37.030178Z",
       "change": "new",
       "document_id": "10000381",
@@ -191,9 +185,15 @@
       "change": "withdrawn",
       "document_id": "10000361",
       "event_id": "e128bf5b21d85ee02507f7e3"
+    },
+    {
+      "at": "2026-11-20T20:17:59.270806Z",
+      "change": "revised",
+      "document_id": "10000387",
+      "event_id": "3e0240159977eaf5d47ae5ad"
     }
   ],
-  "checked_at": "2026-11-20T19:56:49.024755Z",
+  "checked_at": "2026-11-20T20:17:59.270806Z",
   "degraded": false,
   "documents": [
     {
@@ -3644,17 +3644,42 @@
       "agenda": "COP 31 2(g)",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "131f5ee911e67712622d5f0e25dbe283f7a768354e623e178b42e89c7f99d00f",
+          "url": "https://docs.unfccc.int/documents/10000387/files/ar/cp2026_L04A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "8b3373020cafce00c2a97a6e3d6b89b8af6baeebe3f2c5637ce0ee89a4ba7bfc",
-          "url": "https://docs.unfccc.int/documents/10000387/files/en/dates_venues_DT_cp311.pdf"
+          "sha256": "18d6850dfa12dd6b88fa4142da5c7be1ba1cd8a43d4918d5e0fc4c5708594c3d",
+          "url": "https://docs.unfccc.int/documents/10000387/files/en/cp2026_L04E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "65c467c675c49e3478e320a7ab14380585939c2a1223acf5b98d244fda405760",
+          "url": "https://docs.unfccc.int/documents/10000387/files/es/cp2026_L04S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "f9ff6d0d37693b5a5d2adc597e29f399f13f56704466b5f2497448d2cc6c0fa1",
+          "url": "https://docs.unfccc.int/documents/10000387/files/fr/cp2026_L04F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "733abc4af370ee99c8642fa4ad4b82afb5f5b7b04c70b290289b5b821b96a0a9",
+          "url": "https://docs.unfccc.int/documents/10000387/files/ru/cp2026_L04R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "8b2e267fc0dce6e259491e927e925286da63895c8678f9ab11730852e0d100e3",
+          "url": "https://docs.unfccc.int/documents/10000387/files/zh/cp2026_L04C.pdf"
         }
       ],
       "body": "Conference of the Parties (COP)",
       "document_code": "FCCC/CP/2026/L.4",
       "id": "10000387",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-20T13:30:01.760242Z",
-      "published_at": "2026-11-20T13:30:00Z",
+      "modified_at": "2026-11-20T20:12:59.050019Z",
+      "published_at": "2026-11-20T11:30:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000387/metadata",
       "status": "unknown",
@@ -3900,8 +3925,8 @@
     }
   ],
   "history_count": 33,
-  "last_attempt": "2026-11-20T19:56:49.024755Z",
-  "last_success": "2026-11-20T19:56:49.024755Z",
+  "last_attempt": "2026-11-20T20:17:59.270806Z",
+  "last_success": "2026-11-20T20:17:59.270806Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
