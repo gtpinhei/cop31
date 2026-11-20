@@ -1,18 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-19T05:07:47.128953Z",
-      "change": "withdrawn",
-      "document_id": "10000332",
-      "event_id": "4aab8659d4650e5d0d03e3ed"
-    },
-    {
-      "at": "2026-11-19T05:07:47.128953Z",
-      "change": "new",
-      "document_id": "10000358",
-      "event_id": "cf103be3ec875b5fea83ce28"
-    },
-    {
       "at": "2026-11-19T05:37:04.485384Z",
       "change": "new",
       "document_id": "10000359",
@@ -307,7 +295,7 @@
       "event_id": "c77b5e8009bae1b659492202"
     }
   ],
-  "checked_at": "2026-11-20T05:06:50.882532Z",
+  "checked_at": "2026-11-20T05:16:59.877713Z",
   "degraded": false,
   "documents": [
     {
@@ -3682,8 +3670,8 @@
     }
   ],
   "history_count": 51,
-  "last_attempt": "2026-11-20T05:06:50.882532Z",
-  "last_success": "2026-11-20T05:06:50.882532Z",
+  "last_attempt": "2026-11-20T05:16:59.877713Z",
+  "last_success": "2026-11-20T05:16:59.877713Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
