@@ -26547,10 +26547,10 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-20T04:48:06-03:00",
-  "label": "20 nov 2026, 04:48 (Brasília)",
-  "accounts_checked": 8,
-  "blocked": 22,
+  "timestamp": "2026-11-20T05:47:10-03:00",
+  "label": "20 nov 2026, 05:47 (Brasília)",
+  "accounts_checked": 32,
+  "blocked": 51,
   "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
