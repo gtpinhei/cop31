@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-20T06:40:00-03:00",
+ "generated_at": "2026-11-20T12:25:00-03:00",
  "round": {
-  "timestamp": "2026-11-20T06:40:00-03:00",
-  "label": "20 nov 2026, 06:40 (Brasília)",
-  "sites_checked": 60,
-  "blocked": 15,
-  "new_items": 6,
-  "fetches": "60 de 60",
+  "timestamp": "2026-11-20T12:25:00-03:00",
+  "label": "20 nov 2026, 12:25 (Brasília)",
+  "sites_checked": 63,
+  "blocked": 19,
+  "new_items": 3,
+  "fetches": "76 de ~60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -18,10 +18,14 @@
    "web-climatechampions-unfccc-int-news",
    "web-ember-energy-org-latest-insights",
    "web-eurodad-org-news",
+   "web-foei-org-news",
+   "web-gecf-org-events-conferences-gecf-at-cop",
    "web-icccad-net-news",
    "web-iea-org-events-world-energy-outlook-2026",
    "web-ituc-csi-org-climate-justice",
    "web-odi-org-en-insights",
+   "web-politicaporinteiro-org-en",
+   "web-transforma-global",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-unep-org-resources-emissions-gap-report-2026",
    "web-wemeanbusinesscoalition-org-news"
@@ -45,6 +49,150 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "bluesky-carbonbrief.org-20261120-daily-briefing",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "06:42",
+   "text": "[resumo da fonte] Carbon Brief Daily Briefing video: new COP31 draft, APEC fuel deal and a US Senate permitting bill.",
+   "summary": "O Daily Briefing em vídeo do Carbon Brief de 20 de novembro cobre o novo rascunho da COP31, um acordo de combustíveis na APEC e um projeto de lei de licenciamento no Senado dos EUA.",
+   "summary_i18n": {
+    "en": "Carbon Brief's 20 November Daily Briefing video covers the new COP31 draft, an APEC fuel deal and a US Senate permitting bill.",
+    "es": "El vídeo del Daily Briefing de Carbon Brief del 20 de noviembre cubre el nuevo borrador de la COP31, un acuerdo sobre combustibles en la APEC y un proyecto de ley de permisos en el Senado de EE. UU.",
+    "fr": "La vidéo du Daily Briefing de Carbon Brief du 20 novembre couvre le nouveau projet de la COP31, un accord sur les carburants à l'APEC et un projet de loi sur les permis au Sénat américain.",
+    "ru": "В видеобрифинге Carbon Brief от 20 ноября: новый проект решения COP31, сделка по топливу в АТЭС и законопроект о разрешениях в Сенате США.",
+    "zh": "Carbon Brief 11月20日每日简报视频涵盖 COP31 新草案、亚太经合组织燃料协议以及美国参议院许可法案。",
+    "ar": "يغطي فيديو النشرة اليومية لـ Carbon Brief بتاريخ 20 نوفمبر المسودة الجديدة لـ COP31 واتفاق الوقود في APEC ومشروع قانون التصاريح في مجلس الشيوخ الأمريكي."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2qcbqa4px2n",
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-20T12:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
+   "id": "climate-home-news-2026-11-20-bulletin-day-11",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "COP31 Bulletin Day 11: Best COP, worst COP? Weary negotiators seek to strengthen outcome",
+   "date": "2026-11-20",
+   "authors": "Joe Lo, Megan Rowling",
+   "url": "https://www.climatechangenews.com/2026/11/20/cop31-bulletin-day-11-best-cop-worst-cop-weary-negotiators-seek-to-strengthen-outcome/",
+   "summary": "Boletim do último dia oficial da COP31: finanças climáticas, adaptação e o novo mecanismo de transição justa seguem sem acordo, e a conferência deve avançar além do prazo. A CAN rejeita o texto de cobertura e ativistas dizem que países desenvolvidos recuam do triplicar o financiamento de adaptação e do mecanismo de transição justa.",
+   "summary_i18n": {
+    "en": "Bulletin for the last official day of COP31: climate finance, adaptation and the new just transition mechanism remain unresolved, and the conference is likely to overrun. CAN rejects the cover text and campaigners say developed countries are backing away from tripling adaptation finance and from the just transition mechanism.",
+    "es": "Boletín del último día oficial de la COP31: la financiación climática, la adaptación y el nuevo mecanismo de transición justa siguen sin acuerdo, y es probable que la conferencia se prolongue. La CAN rechaza el texto de cobertura y los activistas afirman que los países desarrollados retroceden respecto de triplicar la financiación para la adaptación y del mecanismo de transición justa.",
+    "fr": "Bulletin du dernier jour officiel de la COP31 : le financement climatique, l'adaptation et le nouveau mécanisme de transition juste restent sans accord, et la conférence devrait se prolonger. Le CAN rejette le texte de couverture et les militants affirment que les pays développés reculent sur le triplement du financement de l'adaptation et sur le mécanisme de transition juste.",
+    "ru": "Бюллетень последнего официального дня COP31: вопросы климатического финансирования, адаптации и нового механизма справедливого перехода остаются неурегулированными, и конференция, вероятно, затянется. CAN отвергает текст решения о покрытии, а активисты говорят, что развитые страны отходят от утроения финансирования адаптации и от механизма справедливого перехода.",
+    "zh": "COP31最后一个正式日的简报：气候融资、适应和新的公正转型机制仍未达成一致，会议很可能超时。CAN拒绝了总括决定文本，倡导者称发达国家正在后退，不再支持将适应资金增至三倍和公正转型机制。",
+    "ar": "نشرة اليوم الرسمي الأخير من COP31: لا تزال مسائل تمويل المناخ والتكيف وآلية الانتقال العادل الجديدة دون اتفاق، ويُرجَّح أن يتجاوز المؤتمر موعده. وترفض شبكة العمل المناخي (CAN) نص القرار الشامل، ويقول ناشطون إن البلدان المتقدمة تتراجع عن مضاعفة تمويل التكيف ثلاث مرات وعن آلية الانتقال العادل."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Adaptação",
+    "Transição justa",
+    "Finanças"
+   ],
+   "quotes": [
+    "\"I can tell you this is the worst COP ever\" — Mohamed Adow, Power Shift Africa",
+    "\"We need developed countries to back down and stop blocking\" — Tasneem Essop, CAN"
+   ],
+   "first_seen": "2026-11-20T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "can-international-2026-11-20-worst-cop-ever",
+   "institution": "CAN International",
+   "type": "release",
+   "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
+   "date": "2026-11-20",
+   "authors": "CAN International",
+   "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
+   "summary": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
+   "summary_i18n": {
+    "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
+    "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
+    "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
+    "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
+    "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
+    "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Finanças",
+    "Espaço cívico"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatenetwork-org-updates"
+  },
+  {
+   "id": "icc-2026-11-20-ministers-critical-juncture",
+   "institution": "ICC",
+   "type": "comunicado",
+   "title": "ICC calls on COP31 ministers to take charge at critical juncture",
+   "date": "2026-11-20",
+   "authors": "ICC (John W.H. Denton AO)",
+   "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
+   "summary": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
+   "summary_i18n": {
+    "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
+    "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control. Les pide mantener los compromisos vigentes de transición energética y financiación climática y acelerar la energía limpia, las redes, la electrificación industrial y la inversión privada.",
+    "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main. Elle leur demande de maintenir les engagements existants en matière de transition énergétique et de financement climatique et d'accélérer l'énergie propre, les réseaux, l'électrification industrielle et l'investissement privé.",
+    "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной электрификации и частных инвестиций.",
+    "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
+    "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+   },
+   "tracks": [
+    "Finanças",
+    "Eletrificação",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"We are deeply concerned about where the COP31 negotiations are heading.\" — John W.H. Denton, ICC Secretary General",
+    "\"In the next few hours, ministers need to take charge and find a way through.\" — John W.H. Denton, ICC Secretary General"
+   ],
+   "first_seen": "2026-11-20T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-iccwbo-org-news-publications"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261119-segundo-rascunho",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-19",
+   "time": "09:50",
+   "text": "[resumo da fonte] Breaking: second draft of the COP31 cover decision published. Fossil fuels and a $120bn adaptation finance target are out; the 35-by-35 electrification target, overshoot, IPCC and COP reform remain.",
+   "summary": "Carbon Brief informa que o segundo rascunho da decisão de cobertura da COP31 saiu sem referência a combustíveis fósseis e sem a meta de US$ 120 bi para financiamento de adaptação; mantém a meta de eletrificação 35 até 2035, overshoot, IPCC e reforma da COP.",
+   "summary_i18n": {
+    "en": "Carbon Brief reports the second draft COP31 cover decision drops fossil fuels and a $120bn adaptation finance target, while keeping the 35-by-35 electrification target, overshoot, IPCC and COP reform.",
+    "es": "Carbon Brief informa de que el segundo borrador de la decisión de cobertura de la COP31 elimina los combustibles fósiles y una meta de 120.000 millones de dólares para financiación de la adaptación, y mantiene la meta de electrificación 35 para 2035, el sobrepasamiento, el IPCC y la reforma de la COP.",
+    "fr": "Carbon Brief rapporte que le deuxième projet de décision de couverture de la COP31 abandonne les combustibles fossiles et un objectif de 120 milliards de dollars pour le financement de l'adaptation, tout en conservant l'objectif d'électrification 35 d'ici 2035, le dépassement, le GIEC et la réforme de la COP.",
+    "ru": "Carbon Brief сообщает, что во втором проекте итогового решения COP31 исключены ископаемое топливо и цель в 120 млрд долларов по финансированию адаптации, но сохранены цель электрификации «35 к 2035», превышение (overshoot), МГЭИК и реформа COP.",
+    "zh": "Carbon Brief 报道，COP31 一揽子决定第二稿删去了化石燃料和 1200 亿美元适应融资目标，但保留了“2035年前35”电气化目标、温控超调、IPCC 和 COP 改革。",
+    "ar": "أفادت Carbon Brief بأن المسودة الثانية لقرار الغطاء في COP31 حذفت الوقود الأحفوري وهدف تمويل التكيف البالغ 120 مليار دولار، مع الإبقاء على هدف الكهربة 35 بحلول 2035 وتجاوز الحد وIPCC وإصلاح COP."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2o4dzltyt2c",
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-20T12:50:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
   {
    "id": "bluesky-enb.iisd.org-20261119-nap-art68-gst",
    "kind": "post",
@@ -26755,11 +26903,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-20T11:44:50-03:00",
-  "label": "20 nov 2026, 11:45 (Brasília)",
+  "timestamp": "2026-11-20T12:50:00-03:00",
+  "label": "20 nov 2026, 12:50 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
