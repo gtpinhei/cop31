@@ -1,48 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-19T12:07:35.927737Z",
-      "change": "withdrawn",
-      "document_id": "10000348",
-      "event_id": "d92dc752aecda6b21cde8ae7"
-    },
-    {
-      "at": "2026-11-19T12:07:35.927737Z",
-      "change": "withdrawn",
-      "document_id": "10000345",
-      "event_id": "d8e1fe8967049acea82a513e"
-    },
-    {
-      "at": "2026-11-19T12:07:35.927737Z",
-      "change": "new",
-      "document_id": "10000363",
-      "event_id": "30abd8f79c8b1e280bbf8214"
-    },
-    {
-      "at": "2026-11-19T12:07:35.927737Z",
-      "change": "new",
-      "document_id": "10000364",
-      "event_id": "e113c80d3bdad5561d06131b"
-    },
-    {
-      "at": "2026-11-19T12:07:35.927737Z",
-      "change": "new",
-      "document_id": "10000365",
-      "event_id": "2332298483cacb714b9be89e"
-    },
-    {
-      "at": "2026-11-19T12:16:50.807481Z",
-      "change": "withdrawn",
-      "document_id": "10000328",
-      "event_id": "29af6c44fff25e3b3cb8b1ce"
-    },
-    {
-      "at": "2026-11-19T12:16:50.807481Z",
-      "change": "withdrawn",
-      "document_id": "10000365",
-      "event_id": "ba42dfe42271f6d13d743afb"
-    },
-    {
       "at": "2026-11-19T12:27:24.524944Z",
       "change": "reinstated",
       "document_id": "10000348",
@@ -245,9 +203,15 @@
       "change": "new",
       "document_id": "10000383",
       "event_id": "c77b5e8009bae1b659492202"
+    },
+    {
+      "at": "2026-11-20T12:17:06.237117Z",
+      "change": "new",
+      "document_id": "10000384",
+      "event_id": "069fd5cc65265c526d197480"
     }
   ],
-  "checked_at": "2026-11-20T12:06:49.934834Z",
+  "checked_at": "2026-11-20T12:17:06.237117Z",
   "degraded": false,
   "documents": [
     {
@@ -775,6 +739,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000358/metadata",
       "status": "draft",
       "title": "Matters relating to the global stocktake: report on the annual global stocktake dialogue referred to in paragraph 187 of decision 1/CMA.5.",
+      "topic": "GST / IPCC",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 4",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "50cc8c0bd487bae75f876526792d2c7ceca863f65e0a134d703fd0f97e08215e",
+          "url": "https://docs.unfccc.int/documents/10000384/files/en/GST_NDC_DT_cma83.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.8",
+      "id": "10000384",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-20T12:15:34.365454Z",
+      "published_at": "2026-11-20T12:15:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000384/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the global stocktake. Draft decision -/CMA.8. Proposal by the President",
       "topic": "GST / IPCC",
       "withdrawn": false
     },
@@ -3621,9 +3607,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 41,
-  "last_attempt": "2026-11-20T12:06:49.934834Z",
-  "last_success": "2026-11-20T12:06:49.934834Z",
+  "history_count": 42,
+  "last_attempt": "2026-11-20T12:17:06.237117Z",
+  "last_success": "2026-11-20T12:17:06.237117Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
