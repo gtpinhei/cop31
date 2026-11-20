@@ -46,6 +46,63 @@
  ],
  "items": [
   {
+   "id": "bluesky-enb.iisd.org-20261119-nap-art68-gst",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-19",
+   "time": "12:46",
+   "text": "[resumo da fonte] Reports procedural outcomes at COP31 on National Adaptation Plans, Article 6.8 and the GST dialogue report.",
+   "summary": "O ENB relata resultados procedimentais na COP31 sobre Planos Nacionais de Adaptação, o Artigo 6.8 e o relatório do diálogo do balanço global.",
+   "summary_i18n": {
+    "en": "ENB reports procedural outcomes at COP31 on National Adaptation Plans, Article 6.8 and the global stocktake dialogue report.",
+    "es": "ENB informa de resultados procedimentales en la COP31 sobre los planes nacionales de adaptación, el artículo 6.8 y el informe del diálogo del balance mundial.",
+    "fr": "L'ENB rend compte de résultats procéduraux à la COP31 sur les plans nationaux d'adaptation, l'article 6.8 et le rapport du dialogue sur le bilan mondial.",
+    "ru": "ENB сообщает о процедурных итогах COP31 по национальным планам адаптации, статье 6.8 и докладу о диалоге по глобальному подведению итогов.",
+    "zh": "ENB 报道 COP31 在国家适应计划、第6.8条以及全球盘点对话报告方面取得的程序性成果。",
+    "ar": "تفيد نشرة ENB بنتائج إجرائية في مؤتمر الأطراف الحادي والثلاثين بشأن خطط التكيف الوطنية والمادة 6-8 وتقرير حوار التقييم العالمي."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2og6etidc2u",
+   "tracks": [
+    "Adaptação",
+    "Mitigação e MWP",
+    "GST2 e IPCC"
+   ],
+   "first_seen": "2026-11-20T09:55:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261119-cop31-closing-no-outcomes",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-19",
+   "time": "17:35",
+   "text": "[resumo da fonte] Says COP31 is nearing its close with no agreed outcomes yet on NAPs, non-market approaches or the GST dialogue report.",
+   "summary": "O ENB diz que a COP31 se aproxima do fim sem resultados acordados em PNAs, abordagens não baseadas em mercado e no relatório do diálogo do balanço global.",
+   "summary_i18n": {
+    "en": "ENB says COP31 is nearing its close with no agreed outcomes yet on NAPs, non-market approaches or the global stocktake dialogue report.",
+    "es": "ENB indica que la COP31 se acerca a su clausura sin resultados acordados aún sobre los planes nacionales de adaptación, los enfoques no basados en el mercado ni el informe del diálogo del balance mundial.",
+    "fr": "L'ENB indique que la COP31 approche de sa clôture sans résultats convenus à ce stade sur les plans nationaux d'adaptation, les approches non fondées sur le marché ou le rapport du dialogue sur le bilan mondial.",
+    "ru": "ENB сообщает, что COP31 близится к завершению, а по национальным планам адаптации, нерыночным подходам и докладу о диалоге по глобальному подведению итогов договорённостей пока нет.",
+    "zh": "ENB 称 COP31 临近尾声，但在国家适应计划、非市场方法和全球盘点对话报告方面尚未达成一致成果。",
+    "ar": "تذكر نشرة ENB أن مؤتمر الأطراف الحادي والثلاثين يقترب من نهايته دون نتائج متفق عليها بعد بشأن خطط التكيف الوطنية والنُّهج غير القائمة على السوق وتقرير حوار التقييم العالمي."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2owcf5sik2r",
+   "tracks": [
+    "Decisão de cobertura",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-20T09:55:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
    "id": "350org-2026-11-19-near-final-texts",
    "institution": "350.org",
    "type": "release",
@@ -26698,11 +26755,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-20T08:48:00-03:00",
-  "label": "20 nov 2026, 08:42 (Brasília)",
+  "timestamp": "2026-11-20T09:55:00-03:00",
+  "label": "20 nov 2026, 09:55 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 2,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
