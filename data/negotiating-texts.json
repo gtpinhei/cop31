@@ -275,10 +275,40 @@
       "change": "new",
       "document_id": "10000382",
       "event_id": "b65d010715550330b87142a0"
+    },
+    {
+      "at": "2026-11-20T00:47:39.511954Z",
+      "change": "new",
+      "document_id": "10000372",
+      "event_id": "bd4da2f18685cbcb36514a79"
+    },
+    {
+      "at": "2026-11-20T00:47:39.511954Z",
+      "change": "new",
+      "document_id": "10000375",
+      "event_id": "94063c8d359260ec665d900c"
+    },
+    {
+      "at": "2026-11-20T00:47:39.511954Z",
+      "change": "new",
+      "document_id": "10000378",
+      "event_id": "8ea4efb46c48d23b977308d7"
+    },
+    {
+      "at": "2026-11-20T00:47:39.511954Z",
+      "change": "revised",
+      "document_id": "10000380",
+      "event_id": "1bf8e6dead1e89e625a4a56c"
+    },
+    {
+      "at": "2026-11-20T00:47:39.511954Z",
+      "change": "new",
+      "document_id": "10000383",
+      "event_id": "c77b5e8009bae1b659492202"
     }
   ],
-  "checked_at": "2026-11-19T22:17:19.374529Z",
-  "degraded": true,
+  "checked_at": "2026-11-20T00:47:39.511954Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -593,14 +623,24 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 2(f)",
+      "attachments": [],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i2f.2",
+      "id": "10000375",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-19T16:03:26.342360Z",
+      "published_at": "2026-11-19T14:08:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000375/metadata",
+      "status": "withdrawn",
+      "title": "National adaptation plans",
+      "topic": "Adaptation",
+      "withdrawn": true
+    },
+    {
       "agenda": "CMA 8 11(g)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000328/files/en/CFWP_DT_cma8.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i11g.1",
       "id": "10000328",
@@ -632,13 +672,7 @@
     },
     {
       "agenda": "CMA 8 11(g)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000345/files/en/CFWP_DT_cma81.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i11g.2",
       "id": "10000345",
@@ -698,13 +732,7 @@
     },
     {
       "agenda": "COP 31 8(b); CMA 8 11(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "cad1d09696d842d212e4270f27bed7885e9c5f5fd9cf4015b37416f31335de04",
-          "url": "https://docs.unfccc.int/documents/10000365/files/en/SCF_COP31_8b_CMA_11a_DT2.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.8b_CMA8.11a.1",
       "id": "10000365",
@@ -741,6 +769,22 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 8(a)",
+      "attachments": [],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "DT.COP31.i8a",
+      "id": "10000378",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-19T18:09:58.029454Z",
+      "published_at": "2026-11-19T17:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000378/metadata",
+      "status": "withdrawn",
+      "title": "Long-term climate finance",
+      "topic": "Finance",
+      "withdrawn": true
+    },
+    {
       "agenda": "CMA 8 4",
       "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
@@ -758,13 +802,7 @@
     },
     {
       "agenda": "CMA 8 4",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000332/files/en/GST_NDC_DT_cma81.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i4.2",
       "id": "10000332",
@@ -2811,13 +2849,7 @@
     },
     {
       "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000335/files/en/RM_DT_cop311.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i12_CMP21.i7_CMA8.i15.1",
       "id": "10000335",
@@ -2833,13 +2865,7 @@
     },
     {
       "agenda": "CMA 8 16(c)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000336/files/en/Art%206.8%20Review_DT_SBSTA652.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16c.1",
       "id": "10000336",
@@ -2909,13 +2935,7 @@
     },
     {
       "agenda": "CMA 8 18",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000340/files/en/Art_6.2_funding_DT_CMA.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i18.1",
       "id": "10000340",
@@ -2931,13 +2951,7 @@
     },
     {
       "agenda": "COP 31 9(c)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000342/files/en/CTCN_review_DT_cp311.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP)",
       "document_code": "DT.COP31.9c.2",
       "id": "10000342",
@@ -2997,13 +3011,7 @@
     },
     {
       "agenda": "COP 31 9(b); CMA 8 12(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000347/files/en/CTC%20Host_DT_SBI652.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i9b_CMA8.i12b.1",
       "id": "10000347",
@@ -3035,13 +3043,7 @@
     },
     {
       "agenda": "CMA 8 16(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000351/files/en/art_6.4_DT_cma83.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16b.3",
       "id": "10000351",
@@ -3079,13 +3081,7 @@
     },
     {
       "agenda": "CMA 8 16(a)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000355/files/en/art_6.2_DT_cma82.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i16a.3",
       "id": "10000355",
@@ -3148,7 +3144,38 @@
     },
     {
       "agenda": "CMA 8 8",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "ar",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/ar/cma2026_L02A.pdf"
+        },
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/en/cma2026_L02E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/es/cma2026_L02S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/fr/cma2026_L02F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/ru/cma2026_L02R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000357/files/zh/cma2026_L02C.pdf"
+        }
+      ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "FCCC/PA/CMA/2026/L.2",
       "id": "10000357",
@@ -3274,13 +3301,7 @@
     },
     {
       "agenda": "CMA 8 18",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": "dcd3bf4746379ae0dd97fecac0c91d727cf44b0b737c44e18abdf7f056b2b988",
-          "url": "https://docs.unfccc.int/documents/10000370/files/en/Art_6.2_funding_DD_DT_CMA.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i18.2",
       "id": "10000370",
@@ -3315,6 +3336,22 @@
       "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
       "topic": "Other negotiations",
       "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
+      "attachments": [],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.COP31.i12_CMA21.i15_CMP8.i7.2",
+      "id": "10000372",
+      "metadata_version": "7.0",
+      "modified_at": "2026-11-19T14:43:55.104271Z",
+      "published_at": "2026-11-19T14:15:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000372/metadata",
+      "status": "withdrawn",
+      "title": "Report of the forum on the impact of the implementation of response measures",
+      "topic": "Other negotiations",
+      "withdrawn": true
     },
     {
       "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
@@ -3430,21 +3467,46 @@
       "agenda": "CMA 8 16(c)",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "954670e9cfacee0a59dbbaaf3d18f36e4c18af78d773489fda6f07cef00eb13d",
+          "url": "https://docs.unfccc.int/documents/10000380/files/ar/cma2026_L03A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "abe8f7ace6fcbd255a1273139d8c71d1484e8943bd5542068d30913920ad8dcd",
-          "url": "https://docs.unfccc.int/documents/10000380/files/en/Art%206.8_dt_cma8_i16c1.pdf"
+          "sha256": "b27df4e29c0442172c7587c3bd60f9ed7467e369f173238a7e15793b0fd6f43d",
+          "url": "https://docs.unfccc.int/documents/10000380/files/en/cma2026_L03E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "4c7216107faad10c81f65ca2b805a32b3f7b6ab6d07e06c3ecd54816e4c3aacc",
+          "url": "https://docs.unfccc.int/documents/10000380/files/es/cma2026_L03S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "35072b60c6551c7c6993a101bd06fcd97c64cb6249d572186d5f4400a9373d34",
+          "url": "https://docs.unfccc.int/documents/10000380/files/fr/cma2026_L03F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "907f1e467f1aa0dd852df28c1bcbc2cd38379d9cc1d06ecfa30a3ec6c75a50f6",
+          "url": "https://docs.unfccc.int/documents/10000380/files/ru/cma2026_L03R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "d8f467cc46a99f11b83186f293ca5daf1ab2a2cacb6fbfca2dcf4cfc328b42cd",
+          "url": "https://docs.unfccc.int/documents/10000380/files/zh/cma2026_L03C.pdf"
         }
       ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "FCCC/PA/CMA/2026/L.3",
       "id": "10000380",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T19:40:02.006193Z",
-      "published_at": "2026-11-19T19:35:00Z",
+      "modified_at": "2026-11-19T23:10:04.704055Z",
+      "published_at": "2026-11-19T17:35:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000380/metadata",
       "status": "unknown",
-      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3",
+      "title": "Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement and in decision 4/CMA.3. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Other negotiations",
       "withdrawn": false
     },
@@ -3461,8 +3523,8 @@
       "document_code": "FCCC/PA/CMA/2026/L.6",
       "id": "10000381",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-19T22:07:41.972900Z",
-      "published_at": "2026-11-19T18:30:00Z",
+      "modified_at": "2026-11-19T22:26:18.941481Z",
+      "published_at": "2026-11-19T20:30:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000381/metadata",
       "status": "unknown",
@@ -3489,6 +3551,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000382/metadata",
       "status": "unknown",
       "title": "Further guidance for the mechanism established by Article 6, paragraph 4, of the Paris Agreement. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 16(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "06bd349310de2e33b3d9dc61973c616b170797b313bad868db69aafb94a183f3",
+          "url": "https://docs.unfccc.int/documents/10000383/files/en/art_6.2_DT_cma84.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.5",
+      "id": "10000383",
+      "metadata_version": "5.0",
+      "modified_at": "2026-11-19T23:26:39.159097Z",
+      "published_at": "2026-11-18T23:20:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000383/metadata",
+      "status": "unknown",
+      "title": "Implementation of the guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Other negotiations",
       "withdrawn": false
     },
@@ -3597,9 +3681,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-20T00:37:40.655418Z",
-  "last_success": "2026-11-19T22:17:19.374529Z",
+  "history_count": 51,
+  "last_attempt": "2026-11-20T00:47:39.511954Z",
+  "last_success": "2026-11-20T00:47:39.511954Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
