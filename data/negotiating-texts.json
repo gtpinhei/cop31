@@ -167,9 +167,15 @@
       "change": "revised",
       "document_id": "10000384",
       "event_id": "4abefaf8ff4ec183bf2bed28"
+    },
+    {
+      "at": "2026-11-20T15:56:33.167246Z",
+      "change": "withdrawn",
+      "document_id": "10000379",
+      "event_id": "12c44fb3127a1bd4bb6e11a5"
     }
   ],
-  "checked_at": "2026-11-20T15:47:40.160031Z",
+  "checked_at": "2026-11-20T15:56:33.167246Z",
   "degraded": false,
   "documents": [
     {
@@ -3367,7 +3373,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "b013cee4f7842e51bb541111550b999f5ee871480e71b7db75afbb71dd6358b1",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000379/files/en/dates_venues_DT_cp31.pdf"
         }
       ],
@@ -3375,14 +3381,14 @@
       "document_code": "DT.COP31.i2g.1",
       "id": "10000379",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-19T18:18:38.966822Z",
+      "modified_at": "2026-11-20T15:50:18.461026Z",
       "published_at": "2026-11-19T17:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000379/metadata",
-      "status": "draft",
+      "status": "withdrawn",
       "title": "Dates and venues of future sessions",
       "topic": "Other negotiations",
-      "withdrawn": false
+      "withdrawn": true
     },
     {
       "agenda": "CMA 8 16(c)",
@@ -3737,9 +3743,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 28,
-  "last_attempt": "2026-11-20T15:47:40.160031Z",
-  "last_success": "2026-11-20T15:47:40.160031Z",
+  "history_count": 29,
+  "last_attempt": "2026-11-20T15:56:33.167246Z",
+  "last_success": "2026-11-20T15:56:33.167246Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
