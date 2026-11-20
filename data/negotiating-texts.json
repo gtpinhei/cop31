@@ -167,10 +167,16 @@
       "change": "new",
       "document_id": "10000392",
       "event_id": "ab3b28bf7861b7fe7b6b5a73"
+    },
+    {
+      "at": "2026-11-20T17:16:54.571701Z",
+      "change": "new",
+      "document_id": "10000393",
+      "event_id": "d3a23bf718fb93a200b85cf1"
     }
   ],
-  "checked_at": "2026-11-20T16:36:49.401485Z",
-  "degraded": true,
+  "checked_at": "2026-11-20T17:16:54.571701Z",
+  "degraded": false,
   "documents": [
     {
       "agenda": "SBI 65 10(e)",
@@ -3557,7 +3563,7 @@
       "document_code": "FCCC/CP/2026/L.5",
       "id": "10000386",
       "metadata_version": "5.0",
-      "modified_at": "2026-11-20T13:28:39.856924Z",
+      "modified_at": "2026-11-20T17:02:42.890746Z",
       "published_at": "2026-11-20T11:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000386/metadata",
@@ -3699,6 +3705,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 2(h); CMP 21 2(d); CMA 8 2(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "80b5137d76bb456ef88dd547df4915a04c0e7ba36f766ce37a65553bc404ae23",
+          "url": "https://docs.unfccc.int/documents/10000393/files/en/report_on_credentials_COP31.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/CP/2026/11–FCCC/KP/CMP/2026/5–FCCC/PA/CMA/2026/14",
+      "id": "10000393",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-20T17:05:18.322844Z",
+      "published_at": "2026-11-20T17:04:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000393/metadata",
+      "status": "unknown",
+      "title": "Report on credentials. Report of the Bureau",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -3803,9 +3831,9 @@
       "withdrawn": false
     }
   ],
-  "error": "Official document check failed; last successful data retained.",
-  "last_attempt": "2026-11-20T17:07:10.792318Z",
-  "last_success": "2026-11-20T16:36:49.401485Z",
+  "history_count": 29,
+  "last_attempt": "2026-11-20T17:16:54.571701Z",
+  "last_success": "2026-11-20T17:16:54.571701Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
