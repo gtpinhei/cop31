@@ -1,25 +1,32 @@
 {
  "schema": 1,
- "generated_at": "2026-11-19T18:18:32-03:00",
+ "generated_at": "2026-11-20T00:15:41-03:00",
  "round": {
-  "timestamp": "2026-11-19T18:18:32-03:00",
-  "label": "19 nov 2026, 18:18 (Brasília)",
-  "sites_checked": 53,
-  "blocked": 11,
-  "new_items": 8,
-  "fetches": "71 de 60",
+  "timestamp": "2026-11-20T00:15:41-03:00",
+  "label": "20 nov 2026, 00:15 (Brasília)",
+  "sites_checked": 63,
+  "blocked": 18,
+  "new_items": 4,
+  "fetches": "63 de 60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
+   "web-carbon-pulse-com-category-international",
    "web-chathamhouse-org-topics-climate-policy",
    "web-christianaid-org-uk-news",
-   "web-climatechampions-unfccc-int-news",
+   "web-climateanalytics-org-publications",
+   "web-ember-energy-org-latest-insights",
+   "web-eurodad-org-news",
    "web-foei-org-news",
+   "web-icccad-net-news",
    "web-iea-org-events-world-energy-outlook-2026",
+   "web-ituc-csi-org-climate-justice",
+   "web-odi-org-en-insights",
    "web-politicaporinteiro-org-en",
    "web-transforma-global",
    "web-twn-my-title2-climate-climate-updates-htm",
    "web-unep-org-resources-emissions-gap-report-2026",
+   "web-wemeanbusinesscoalition-org-news",
    "web-wwf-panda-org-wwf-news"
   ]
  },
@@ -41,6 +48,110 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-19-cover-decision-draft",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "DRAFT TEXT prepared under COP 31 Presidency consultations on Presidency-led Party-driven cover decision",
+   "date": "2026-11-19",
+   "authors": "COP 31 Presidency",
+   "url": "https://unfccc.int/documents/665726",
+   "summary": "Rascunho do texto da decisão de cobertura, preparado pelas consultas da Presidência da COP31 em formato conduzido pela Presidência e orientado pelas Partes. O documento foi publicado no portal da UNFCCC em 19 de novembro, no momento em que o novo rascunho era aguardado após a conversa ministerial. Resumo baseado só nos metadados e no título; o conteúdo do texto não foi lido.",
+   "summary_i18n": {
+    "en": "Draft text of the cover decision, prepared under the COP31 Presidency's consultations in a Presidency-led, Party-driven format. The document was posted on the UNFCCC portal on 19 November, as the new draft was awaited after the ministerial exchange. Summary based only on metadata and the title; the text itself was not read.",
+    "es": "Borrador del texto de la decisión de cobertura, preparado en las consultas de la Presidencia de la COP31 con un formato dirigido por la Presidencia e impulsado por las Partes. El documento se publicó en el portal de la CMNUCC el 19 de noviembre, cuando se esperaba el nuevo borrador tras el intercambio ministerial. Resumen basado solo en los metadatos y el título; no se leyó el texto.",
+    "fr": "Projet de texte de la décision de couverture, établi dans le cadre des consultations de la présidence de la COP31, selon un format piloté par la présidence et mené par les Parties. Le document a été publié sur le portail de la CCNUCC le 19 novembre, alors que le nouveau projet était attendu après l'échange ministériel. Résumé fondé uniquement sur les métadonnées et le titre ; le texte n'a pas été lu.",
+    "ru": "Проект текста общего решения, подготовленный в ходе консультаций Президентства COP31 в формате, который возглавляет Президентство и определяют Стороны. Документ опубликован на портале РКИК ООН 19 ноября, когда после министерского обмена мнениями ожидался новый проект. Резюме основано только на метаданных и названии; сам текст не читался.",
+    "zh": "在COP31主席团磋商下编写的总括决定案文草案，采用由主席团牵头、缔约方主导的形式。该文件于11月19日发布在《联合国气候变化框架公约》门户网站上，此前部长级交流后正等待新草案。摘要仅依据元数据和标题；案文本身未经阅读。",
+    "ar": "مشروع نص القرار الشامل الذي أُعدّ في إطار مشاورات رئاسة مؤتمر الأطراف الحادي والثلاثين بصيغة تقودها الرئاسة وتوجّهها الأطراف. نُشرت الوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر، في وقت كان يُنتظر فيه المشروع الجديد بعد التبادل الوزاري. الملخص مبني على البيانات الوصفية والعنوان فقط؛ ولم يُقرأ النص نفسه."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T00:15:41-03:00",
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h"
+  },
+  {
+   "id": "unfccc-2026-11-19-presidency-message",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "COP 31 Presidency message to Parties (19 November 2026)",
+   "date": "2026-11-19",
+   "authors": "COP 31 Presidency",
+   "url": "https://unfccc.int/documents/665783",
+   "summary": "Mensagem da Presidência da COP31 às Partes datada de 19 de novembro, publicada como documento de sessão no portal da UNFCCC. Faz parte da sequência de mensagens da Presidência na reta final das negociações, em torno da decisão de cobertura. O texto da mensagem não foi lido; resumo baseado em título e metadados.",
+   "summary_i18n": {
+    "en": "Message from the COP31 Presidency to Parties dated 19 November, posted as a session document on the UNFCCC portal. It is part of the sequence of Presidency messages in the final stretch of negotiations around the cover decision. The text of the message was not read; summary based on title and metadata.",
+    "es": "Mensaje de la Presidencia de la COP31 a las Partes con fecha 19 de noviembre, publicado como documento de sesión en el portal de la CMNUCC. Forma parte de la serie de mensajes de la Presidencia en la recta final de las negociaciones en torno a la decisión de cobertura. No se leyó el texto del mensaje; resumen basado en el título y los metadatos.",
+    "fr": "Message de la présidence de la COP31 aux Parties daté du 19 novembre, publié comme document de session sur le portail de la CCNUCC. Il s'inscrit dans la série de messages de la présidence durant la dernière ligne droite des négociations autour de la décision de couverture. Le texte du message n'a pas été lu ; résumé fondé sur le titre et les métadonnées.",
+    "ru": "Послание Президентства COP31 Сторонам от 19 ноября, опубликованное как документ сессии на портале РКИК ООН. Оно входит в серию посланий Президентства на заключительном этапе переговоров вокруг общего решения. Текст послания не читался; резюме основано на названии и метаданных.",
+    "zh": "COP31主席团于11月19日致缔约方的信息，作为会议文件发布在《联合国气候变化框架公约》门户网站上。它属于谈判最后阶段围绕总括决定发出的一系列主席团信息。信息正文未经阅读；摘要依据标题和元数据。",
+    "ar": "رسالة من رئاسة مؤتمر الأطراف الحادي والثلاثين إلى الأطراف بتاريخ 19 نوفمبر، نُشرت كوثيقة جلسة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ. وهي جزء من سلسلة رسائل الرئاسة في المرحلة الأخيرة من المفاوضات حول القرار الشامل. لم يُقرأ نص الرسالة؛ الملخص مبني على العنوان والبيانات الوصفية."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T00:15:41-03:00",
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h"
+  },
+  {
+   "id": "unfccc-2026-11-19-electrification-delivery-package",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "briefing",
+   "title": "COP31 GCA-Electrification-Delivery-Package",
+   "date": "2026-11-19",
+   "authors": "não informado",
+   "url": "https://unfccc.int/documents/665633",
+   "summary": "Documento técnico não oficial do Pacote de Entrega de Eletrificação, ligado à Agenda de Ação da COP31 e publicado no portal da UNFCCC em 19 de novembro. Complementa o rastreador de ações empresariais do WBCSD e os comunicados da UNFCCC sobre a promessa de eletrificação. Resumo baseado só no título e na classificação; o conteúdo não foi lido.",
+   "summary_i18n": {
+    "en": "Non-official technical paper on the Electrification Delivery Package, linked to the COP31 Action Agenda and posted on the UNFCCC portal on 19 November. It complements the WBCSD business action tracker and the UNFCCC releases on the electrification pledge. Summary based only on the title and classification; the content was not read.",
+    "es": "Documento técnico no oficial sobre el Paquete de Entrega de Electrificación, vinculado a la Agenda de Acción de la COP31 y publicado en el portal de la CMNUCC el 19 de noviembre. Complementa el rastreador de acciones empresariales del WBCSD y los comunicados de la CMNUCC sobre el compromiso de electrificación. Resumen basado solo en el título y la clasificación; no se leyó el contenido.",
+    "fr": "Document technique non officiel sur le Paquet de mise en œuvre de l'électrification, lié à l'Agenda de l'action de la COP31 et publié sur le portail de la CCNUCC le 19 novembre. Il complète le suivi des actions des entreprises du WBCSD et les communiqués de la CCNUCC sur l'engagement d'électrification. Résumé fondé uniquement sur le titre et la classification ; le contenu n'a pas été lu.",
+    "ru": "Неофициальный технический документ о Пакете мер по электрификации, связанный с Повесткой действий COP31 и опубликованный на портале РКИК ООН 19 ноября. Он дополняет трекер бизнес-действий WBCSD и сообщения РКИК ООН об обязательстве по электрификации. Резюме основано только на названии и классификации; содержание не читалось.",
+    "zh": "关于电气化交付一揽子计划的非正式技术文件，与COP31行动议程相关，于11月19日发布在《联合国气候变化框架公约》门户网站上。它补充了WBCSD的企业行动跟踪器以及公约秘书处关于电气化承诺的新闻稿。摘要仅依据标题和分类；内容未经阅读。",
+    "ar": "ورقة تقنية غير رسمية عن حزمة تنفيذ التكهرب، مرتبطة بخطة العمل لمؤتمر الأطراف الحادي والثلاثين، نُشرت على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر. وهي تكمّل متتبّع إجراءات الأعمال التابع لمجلس WBCSD وبيانات الاتفاقية عن التعهد بالتكهرب. الملخص مبني على العنوان والتصنيف فقط؛ ولم يُقرأ المحتوى."
+   },
+   "tracks": [
+    "Eletrificação",
+    "Agenda de Ação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T00:15:41-03:00",
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h"
+  },
+  {
+   "id": "unfccc-2026-11-19-varank-remarks",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "comunicado",
+   "title": "Remarks by Ms. Fatma Varank, COP31 Chief Climate Negotiator and Deputy Minister of Environment, Urbanization and Climate Change, Türkiye",
+   "date": "2026-11-19",
+   "authors": "Fatma Varank",
+   "url": "https://unfccc.int/documents/665757",
+   "summary": "Declaração de Fatma Varank, negociadora-chefe de clima da COP31 e vice-ministra turca, publicada como documento na UNFCCC em 19 de novembro. Insere-se nas falas da Presidência anfitriã na reta final das negociações. O texto do discurso não aparece na listagem e não foi lido.",
+   "summary_i18n": {
+    "en": "Remarks by Fatma Varank, COP31 Chief Climate Negotiator and Deputy Minister of Türkiye, posted as a document on the UNFCCC portal on 19 November. They belong to the host Presidency's statements in the final stretch of negotiations. The speech text is not shown in the listing and was not read.",
+    "es": "Intervención de Fatma Varank, negociadora jefa del clima de la COP31 y viceministra de Türkiye, publicada como documento en el portal de la CMNUCC el 19 de noviembre. Forma parte de las declaraciones de la Presidencia anfitriona en la recta final de las negociaciones. El texto del discurso no aparece en el listado y no se leyó.",
+    "fr": "Déclaration de Fatma Varank, négociatrice en chef pour le climat de la COP31 et vice-ministre de Türkiye, publiée comme document sur le portail de la CCNUCC le 19 novembre. Elle s'inscrit dans les interventions de la présidence hôte durant la dernière ligne droite des négociations. Le texte du discours ne figure pas dans la liste et n'a pas été lu.",
+    "ru": "Выступление Фатмы Варанк, главного переговорщика COP31 по климату и заместителя министра Турции, опубликованное как документ на портале РКИК ООН 19 ноября. Оно входит в заявления принимающего Президентства на завершающем этапе переговоров. Текст выступления в списке не показан и не читался.",
+    "zh": "COP31首席气候谈判代表、土耳其副部长法特玛·瓦兰克（Fatma Varank）的发言，于11月19日作为文件发布在《联合国气候变化框架公约》门户网站上。它属于东道国主席团在谈判最后阶段的表态。列表中未显示发言全文，内容未经阅读。",
+    "ar": "كلمة فاطمة فارنك، كبيرة المفاوضين للمناخ في مؤتمر الأطراف الحادي والثلاثين ونائبة وزير تركيا، نُشرت كوثيقة على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر. وهي ضمن تصريحات الرئاسة المضيفة في المرحلة الأخيرة من المفاوضات. نص الكلمة غير ظاهر في القائمة ولم يُقرأ."
+   },
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-20T00:15:41-03:00",
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h"
+  },
   {
    "id": "unfccc-2026-11-19-electrification-lightbulb",
    "institution": "UNFCCC / Simon Stiell",
