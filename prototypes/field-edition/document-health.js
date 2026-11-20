@@ -65,37 +65,97 @@ function startDocumentUpdates(){
  document.addEventListener('visibilitychange',scheduleDocumentUpdate);scheduleDocumentUpdate();
 }
 
-/* This browser only: compare catalog records with the previous page visit.
-   These labels never imply substantive PDF changes or editorial verification. */
-const VISIT_KEY='cop31.documents.visit.v1';
+/* Device-local only: classify changes without claiming a substantive text comparison. */
+const VISIT_KEY='cop31.documents.visit.v1'; // Keep the storage key; schema v1 safely re-seeds once.
 const VISIT_LABEL={
- en:['Since your previous visit','New records','Updated records','Catalog records only; not a comparison of negotiating text. Saved only in this browser.','Reset comparison'],
- pt:['Desde sua visita anterior','Novos registros','Registros atualizados','Somente registros do catálogo; não é uma comparação dos textos de negociação. Salvo apenas neste navegador.','Reiniciar comparação'],
- es:['Desde su visita anterior','Registros nuevos','Registros actualizados','Solo registros del catálogo; no es una comparación de textos de negociación. Guardado solo en este navegador.','Reiniciar comparación'],
- fr:['Depuis votre visite précédente','Nouvelles entrées','Entrées mises à jour','Entrées du catalogue uniquement ; pas une comparaison des textes de négociation. Enregistré dans ce navigateur uniquement.','Réinitialiser la comparaison'],
- ru:['С предыдущего посещения','Новые записи','Обновлённые записи','Только записи каталога, не сравнение переговорных текстов. Сохранено только в этом браузере.','Сбросить сравнение'],
- zh:['自上次访问以来','新记录','已更新记录','仅比较目录记录，并非谈判文本比较。仅保存在此浏览器中。','重置比较'],
- ar:['منذ زيارتك السابقة','سجلات جديدة','سجلات محدّثة','سجلات الدليل فقط، وليست مقارنة لنصوص التفاوض. تُحفظ في هذا المتصفح فقط.','إعادة ضبط المقارنة']};
+ en:['Since your previous visit','New records','PDF file changed','Withdrawn','Reinstated','Other record updates','Compared with the last catalog you viewed. A changed PDF file may still have the same wording. Saved only in this browser.','Reset comparison','No changes to show.'],
+ pt:['Desde sua visita anterior','Novos registros','Arquivo PDF alterado','Retirados','Restabelecidos','Outras atualizações de registros','Comparação com o último catálogo que você viu. Alterações no arquivo PDF não comprovam mudanças no texto. Salvo apenas neste navegador.','Reiniciar comparação','Nenhuma alteração a mostrar.'],
+ es:['Desde su visita anterior','Registros nuevos','PDF con cambios en el archivo','Retirados','Restablecidos','Otras actualizaciones de registros','Comparación con el último catálogo que consultó. Un cambio en el archivo PDF no equivale a una comparación del texto. Guardado solo en este navegador.','Reiniciar comparación','No hay cambios que mostrar.'],
+ fr:['Depuis votre visite précédente','Nouvelles entrées','Fichiers PDF modifiés','Retirés','Rétablis','Autres mises à jour','Comparaison avec le dernier catalogue consulté. La modification d’un fichier PDF ne prouve pas un changement de texte. Enregistré dans ce navigateur uniquement.','Réinitialiser la comparaison','Aucun changement à afficher.'],
+ ru:['С предыдущего посещения','Новые записи','Изменённые файлы PDF','Отозваны','Восстановлены','Другие обновления записей','Сравнение с последним просмотренным каталогом. Изменение файла PDF не означает изменения текста. Хранится только в этом браузере.','Сбросить сравнение','Нет изменений для отображения.'],
+ zh:['自上次访问以来','新记录','PDF 文件有变动','已撤回','已恢复','其他记录更新','与上次查看的目录比较。PDF 文件变动不代表文本内容发生变化。仅保存在此浏览器中。','重置比较','没有可显示的变更。'],
+ ar:['منذ زيارتك السابقة','سجلات جديدة','ملفات PDF تغيّرت','مسحوبة','أُعيد إدراجها','تحديثات أخرى للسجلات','مقارنة بآخر دليل اطّلعت عليه. تغيّر ملف PDF لا يثبت تغيّر النص. تُحفظ في هذا المتصفح فقط.','إعادة ضبط المقارنة','لا توجد تغييرات لعرضها.']};
 let visitBaseline,visitStorageOK=true,visitSavedSignature='';
-function catalogVisitRecords(){return Object.fromEntries(data.documents.documents.filter(d=>d.id!=null).slice(0,5000).map(d=>[String(d.id),JSON.stringify([d.title,d.symbol,d.body,d.agenda,d.version,d.status,d.withdrawn, d.url,d.attachments?.map(a=>[a.url,a.sha256])])]))}
+const visitHash=h=>typeof h==='string'&&/^[a-f0-9]{64}$/.test(h);
+function catalogVisitRecords(catalog){
+ const rows=catalog.documents, records=Object.create(null);
+ if(rows.length>5000)return null;
+ for(const d of rows){
+  const id=String(d?.id??'');
+  if(!/^[A-Za-z0-9_-]{1,80}$/.test(id)||Object.hasOwn(records,id))return null;
+  const attachments=Array.isArray(d.attachments)?d.attachments:[];
+  const links=attachments.map(a=>JSON.stringify([a?.language||'',a?.url||''])).sort();
+  const hashes=Object.create(null);
+  if(catalog.verification_mode==='pdf-hashes')for(const a of attachments){
+   if(typeof a?.language!=='string'||!a.language)continue;
+   const language=a.language.toLowerCase();
+   if(!Object.hasOwn(hashes,language))hashes[language]=[];
+   hashes[language].push(visitHash(a.sha256)?a.sha256:'');
+  }
+  for(const values of Object.values(hashes))values.sort();
+  records[id]={
+   withdrawn:!!(d.withdrawn||d.withdrawn_at||d.status==='withdrawn'),
+   meta:JSON.stringify([d.title,d.symbol,d.body,d.agenda,d.version,d.status,d.url,d.published,links]),
+   hashes
+  };
+ }
+ return records;
+}
+function catalogVisitCounts(previous,records){
+ const counts=[0,0,0,0,0];
+ for(const [id,next] of Object.entries(records)){
+  if(!Object.hasOwn(previous,id)){if(!next.withdrawn)counts[0]++;continue}
+  const old=previous[id];
+  if(!old||typeof old.withdrawn!=='boolean'||typeof old.meta!=='string'||!old.hashes||typeof old.hashes!=='object')continue;
+  if(old.withdrawn!==next.withdrawn){counts[next.withdrawn?2:3]++;continue}
+  if(next.withdrawn)continue;
+  // Only a one-to-one fingerprint change in the same recorded language is conclusive.
+  // New translations, unverified links and ambiguous multiple files are not called revisions.
+  const revised=Object.entries(next.hashes).some(([language,current])=>{
+   if(!Object.hasOwn(old.hashes,language))return false;
+   const prior=old.hashes[language];
+   return Array.isArray(prior)&&prior.length===1&&visitHash(prior[0])&&current.length===1&&visitHash(current[0])&&prior[0]!==current[0]
+  });
+  if(revised)counts[1]++;
+  else if(old.meta!==next.meta)counts[4]++;
+ }
+ return counts;
+}
+function readCatalogVisit(){
+ let old;try{old=JSON.parse(localStorage.getItem(VISIT_KEY))}catch(e){
+  if(!(e instanceof SyntaxError))throw e;
+ }
+ return old&&old.schema===2&&Number.isFinite(Date.parse(old.checked))&&old.records&&typeof old.records==='object'&&!Array.isArray(old.records)?old:null;
+}
 function documentVisitSummary(){
- if($('document-visit'))$('document-visit').hidden=true;
- if(!data||!window.COP31_DATA?.documents||data.documents.load_failed||!data.documents.documents.length)return;
- const records=catalogVisitRecords(),signature=JSON.stringify(records);
- if(visitBaseline===undefined){try{const raw=localStorage.getItem(VISIT_KEY);let old;try{old=JSON.parse(raw)}catch{old=null}visitBaseline=old&&old.schema===1&&old.records&&typeof old.records==='object'&&!Array.isArray(old.records)?old:null}catch{visitBaseline=null;visitStorageOK=false}}
- // Do not overwrite a good comparison with a failed, partial or older snapshot.
+ let box=$('document-visit');if(box)box.hidden=true;
+ if(!data||!window.COP31_DATA?.documents||data.documents.load_failed||!data.documents.documents.length||$('texts').hidden||document.visibilityState==='hidden')return;
  const check=data.documents.last_success||data.documents.checked_at;
  if(!Number.isFinite(Date.parse(check))||data.documents.degraded)return;
+ const records=catalogVisitRecords(data.documents);
+ if(!records)return;
+ const signature=JSON.stringify(records);
+ if(visitBaseline===undefined){try{visitBaseline=readCatalogVisit()}catch{visitBaseline=null;visitStorageOK=false}}
  if(visitBaseline&&Date.parse(check)<Date.parse(visitBaseline.checked))return;
- if(visitStorageOK&&signature!==visitSavedSignature){try{localStorage.setItem(VISIT_KEY,JSON.stringify({schema:1,checked:check,records}));visitSavedSignature=signature}catch{visitStorageOK=false}}
- let box=$('document-visit');if(!box){box=document.createElement('section');box.id='document-visit';box.className='freshness';$('texts-status').after(box)}
+ if(visitStorageOK&&signature!==visitSavedSignature){try{
+  const latest=readCatalogVisit();
+  if(!latest||Date.parse(check)>=Date.parse(latest.checked)){
+   localStorage.setItem(VISIT_KEY,JSON.stringify({schema:2,checked:check,records}));visitSavedSignature=signature;
+  }
+ }catch{visitStorageOK=false}}
+ if(!box){box=document.createElement('section');box.id='document-visit';box.className='freshness';$('texts-status').after(box)}
  box.hidden=!visitBaseline||!visitStorageOK;
  if(box.hidden)return;
- let added=0,changed=0;for(const [id,value] of Object.entries(records)){if(!Object.hasOwn(visitBaseline.records,id))added++;else if(visitBaseline.records[id]!==value)changed++}
- const labels=VISIT_LABEL[lang];box.innerHTML=`<strong>${esc(labels[0])}</strong><p>${esc(labels[1])}: ${added} · ${esc(labels[2])}: ${changed}</p><p>${esc(labels[3])}</p><button type="button">${esc(labels[4])}</button>`;
- box.querySelector('button').onclick=()=>{visitBaseline={schema:1,checked:check,records};documentVisitSummary()};
+ const counts=catalogVisitCounts(visitBaseline.records,records),labels=VISIT_LABEL[lang]||VISIT_LABEL.en;
+ const format=new Intl.NumberFormat(lang);
+ const changes=counts.flatMap((n,i)=>n?[esc(labels[i+1])+': <bdi>'+esc(format.format(n))+'</bdi>']:[]);
+ const markup=`<strong>${esc(labels[0])}</strong><p>${changes.length?changes.join(' · '):esc(labels[8])}</p><p>${esc(labels[6])}</p><button type="button">${esc(labels[7])}</button>`;
+ if(box._visitMarkup!==markup){box.innerHTML=markup;box._visitMarkup=markup}
+ box.querySelector('button').onclick=()=>{visitBaseline={schema:2,checked:check,records};documentVisitSummary();box.querySelector('button')?.focus()};
 }
 const beforeVisitHealth=documentHealth;documentHealth=function(){beforeVisitHealth();documentVisitSummary()};
+window.addEventListener('hashchange',documentVisitSummary);
+document.addEventListener('visibilitychange',documentVisitSummary);
 
 /* Public, bounded change log. Events record detection, not negotiation outcomes.
    No previous PDFs are fabricated and no metadata version is called a revision. */
