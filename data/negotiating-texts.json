@@ -101,9 +101,27 @@
       "change": "revised",
       "document_id": "10000394",
       "event_id": "f8c61f0b0d250ac9797b03fa"
+    },
+    {
+      "at": "2026-11-21T19:27:29.575047Z",
+      "change": "new",
+      "document_id": "10000401",
+      "event_id": "49ed8d2e66547e75e9872fc0"
+    },
+    {
+      "at": "2026-11-21T19:27:29.575047Z",
+      "change": "new",
+      "document_id": "10000399",
+      "event_id": "3e8c86b1fb80585b35347893"
+    },
+    {
+      "at": "2026-11-21T19:27:29.575047Z",
+      "change": "new",
+      "document_id": "10000400",
+      "event_id": "4b621df1d747eb6255636b43"
     }
   ],
-  "checked_at": "2026-11-21T19:07:03.992215Z",
+  "checked_at": "2026-11-21T19:27:29.575047Z",
   "degraded": false,
   "documents": [
     {
@@ -3898,6 +3916,72 @@
       "withdrawn": false
     },
     {
+      "agenda": "CMA 8 22",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "4ffacfbd999c5d5a156726e2a71aee331c45c03ac3059ac6075bac5fa69c7e5f",
+          "url": "https://docs.unfccc.int/documents/10000399/files/en/CMA8_draft_report.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.13",
+      "id": "10000399",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-21T19:14:29.049223Z",
+      "published_at": "2026-11-21T19:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000399/metadata",
+      "status": "unknown",
+      "title": "Draft report of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMP 21 13",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9c66081a0445144e4f2517ae40696fbd30546ac2986472ba04c92a833422b7bd",
+          "url": "https://docs.unfccc.int/documents/10000400/files/en/CMP21_draft_report.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)",
+      "document_code": "FCCC/KP/CMP/2026/L.3",
+      "id": "10000400",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-21T19:20:47.605485Z",
+      "published_at": "2026-11-21T19:00:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000400/metadata",
+      "status": "unknown",
+      "title": "Draft report of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 20",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "56ac75a71d347b944aa99457cc8a258a080d5886cad31585321a793cc48e15de",
+          "url": "https://docs.unfccc.int/documents/10000401/files/en/CP31_draft_report.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "FCCC/CP/2026/L.9",
+      "id": "10000401",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-21T19:21:31.354453Z",
+      "published_at": "2026-11-21T19:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000401/metadata",
+      "status": "unknown",
+      "title": "Draft report of the Conference of the Parties on its thirty-first session",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -4002,9 +4086,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 17,
-  "last_attempt": "2026-11-21T19:07:03.992215Z",
-  "last_success": "2026-11-21T19:07:03.992215Z",
+  "history_count": 20,
+  "last_attempt": "2026-11-21T19:27:29.575047Z",
+  "last_success": "2026-11-21T19:27:29.575047Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
