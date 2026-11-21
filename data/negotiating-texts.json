@@ -127,7 +127,7 @@
       "event_id": "0bcc8269cce629af91bb17f9"
     }
   ],
-  "checked_at": "2026-11-21T21:37:52.657254Z",
+  "checked_at": "2026-11-21T22:07:33.716855Z",
   "degraded": false,
   "documents": [
     {
@@ -477,12 +477,12 @@
       "document_code": "FCCC/KP/CMP/2026/L.4",
       "id": "10000402",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-21T20:36:54.604841Z",
+      "modified_at": "2026-11-21T21:49:46.443050Z",
       "published_at": "2026-11-21T18:30:00Z",
       "session": "CMP 21",
       "source_url": "https://docs.unfccc.int/documents/10000402/metadata",
       "status": "unknown",
-      "title": "Matters relating to the Adaptation Fund",
+      "title": "Matters relating to the Adaptation Fund. Draft decision -/CMP.21. Proposal by the President",
       "topic": "Adaptation",
       "withdrawn": false
     },
@@ -4181,8 +4181,8 @@
     }
   ],
   "history_count": 21,
-  "last_attempt": "2026-11-21T21:37:52.657254Z",
-  "last_success": "2026-11-21T21:37:52.657254Z",
+  "last_attempt": "2026-11-21T22:07:33.716855Z",
+  "last_success": "2026-11-21T22:07:33.716855Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
