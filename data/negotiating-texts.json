@@ -149,9 +149,15 @@
       "change": "new",
       "document_id": "10000395",
       "event_id": "7e7bf331703117612033ca89"
+    },
+    {
+      "at": "2026-11-21T14:26:49.160167Z",
+      "change": "new",
+      "document_id": "10000396",
+      "event_id": "2b7779effa2909abaa04fa70"
     }
   ],
-  "checked_at": "2026-11-21T14:16:38.892045Z",
+  "checked_at": "2026-11-21T14:26:49.160167Z",
   "degraded": false,
   "documents": [
     {
@@ -659,6 +665,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000395/metadata",
       "status": "unknown",
       "title": "Matters relating to the Standing Committee on Finance. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Finance",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(a)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "5e0d570f80bd441317ace1d9b2f63c553919365c81b35e2df8a0ba3d5bc532d9",
+          "url": "https://docs.unfccc.int/documents/10000396/files/en/SCF_CMA_11a_DT.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.7",
+      "id": "10000396",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-21T14:18:26.968576Z",
+      "published_at": "2026-11-21T14:15:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000396/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the Standing Committee on Finance. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Finance",
       "withdrawn": false
     },
@@ -3909,9 +3937,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 25,
-  "last_attempt": "2026-11-21T14:16:38.892045Z",
-  "last_success": "2026-11-21T14:16:38.892045Z",
+  "history_count": 26,
+  "last_attempt": "2026-11-21T14:26:49.160167Z",
+  "last_success": "2026-11-21T14:26:49.160167Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
