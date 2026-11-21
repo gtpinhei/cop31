@@ -48,6 +48,119 @@
  ],
  "items": [
   {
+   "id": "bluesky-enb.iisd.org-20261120-destaques-sexta",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "19:18",
+   "text": "[resumo da fonte] COP31 highlights: several decisions were adopted on Friday, including a national adaptation plan implementation platform for LDCs, while major issues remain unresolved.",
+   "summary": "O ENB resume a sexta-feira na COP31: várias decisões foram adotadas, incluindo uma plataforma de implementação de planos nacionais de adaptação para os PMDs, mas questões centrais seguem sem solução.",
+   "summary_i18n": {
+    "en": "ENB summarises Friday at COP31: several decisions were adopted, including a platform for implementing national adaptation plans for LDCs, but major issues remain unresolved.",
+    "es": "ENB resume el viernes en la COP31: se adoptaron varias decisiones, entre ellas una plataforma para la implementación de los planes nacionales de adaptación de los PMA, pero siguen sin resolverse cuestiones importantes.",
+    "fr": "L'ENB résume la journée de vendredi à la COP31 : plusieurs décisions ont été adoptées, dont une plateforme de mise en œuvre des plans nationaux d'adaptation pour les PMA, mais des questions majeures restent en suspens.",
+    "ru": "ENB подводит итоги пятницы на COP31: принято несколько решений, в том числе о платформе для реализации национальных планов адаптации для НРС, но ключевые вопросы остаются нерешёнными.",
+    "zh": "ENB 总结 COP31 周五进展：通过了多项决定，包括面向最不发达国家的国家适应计划实施平台，但重大问题仍未解决。",
+    "ar": "تلخّص نشرة ENB يوم الجمعة في مؤتمر الأطراف الحادي والثلاثين: اعتُمدت عدة مقررات، منها منصة لتنفيذ خطط التكيف الوطنية لأقل البلدان نمواً، لكن القضايا الكبرى لا تزال دون حل."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rmjlh3z222",
+   "tracks": [
+    "Adaptação",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-21T10:44:24-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261120-plenaria-suspensa",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "16:44",
+   "text": "[resumo da fonte] COP31 suspended at 10.29pm to continue work on finance, the mitigation work programme and adaptation.",
+   "summary": "O ENB informa que a plenária da COP31 foi suspensa às 22h29 (horário da Turquia) para prosseguir o trabalho sobre finanças, o programa de trabalho de mitigação e adaptação.",
+   "summary_i18n": {
+    "en": "ENB reports that the COP31 plenary was suspended at 10.29 pm (Turkey time) to continue work on finance, the mitigation work programme and adaptation.",
+    "es": "ENB informa de que el plenario de la COP31 se suspendió a las 22.29 (hora de Turquía) para continuar los trabajos sobre finanzas, el programa de trabajo sobre mitigación y la adaptación.",
+    "fr": "L'ENB indique que la plénière de la COP31 a été suspendue à 22 h 29 (heure de la Turquie) pour poursuivre les travaux sur les finances, le programme de travail sur l'atténuation et l'adaptation.",
+    "ru": "ENB сообщает, что пленарное заседание COP31 было приостановлено в 22:29 (по времени Турции) для продолжения работы по финансированию, программе работы по смягчению и адаптации.",
+    "zh": "ENB 报道，COP31 全体会议于土耳其时间 22:29 休会，以继续就资金、减缓工作方案和适应开展工作。",
+    "ar": "تفيد نشرة ENB بتعليق الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين عند الساعة 22:29 (بتوقيت تركيا) لمواصلة العمل بشأن التمويل وبرنامج عمل التخفيف والتكيف."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdwkg73c2h",
+   "tracks": [
+    "Finanças",
+    "Mitigação e MWP",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-21T10:44:24-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261120-plenaria-art6-pmds",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "16:42",
+   "text": "[resumo da fonte] Closing plenary convenes briefly to adopt decisions on Article 6 and LDCs.",
+   "summary": "O ENB relata que a plenária de encerramento da COP31 se reuniu brevemente para adotar decisões sobre o Artigo 6 e os PMDs.",
+   "summary_i18n": {
+    "en": "ENB reports that the COP31 closing plenary met briefly to adopt decisions on Article 6 and LDCs.",
+    "es": "ENB informa de que el plenario de clausura de la COP31 se reunió brevemente para adoptar decisiones sobre el artículo 6 y los PMA.",
+    "fr": "L'ENB rapporte que la plénière de clôture de la COP31 s'est brièvement réunie pour adopter des décisions sur l'article 6 et les PMA.",
+    "ru": "ENB сообщает, что заключительное пленарное заседание COP31 кратко собралось для принятия решений по статье 6 и НРС.",
+    "zh": "ENB 报道，COP31 闭幕全体会议短暂召开，通过了关于第6条和最不发达国家的决定。",
+    "ar": "تفيد نشرة ENB بأن الجلسة العامة الختامية لمؤتمر الأطراف الحادي والثلاثين انعقدت لفترة وجيزة لاعتماد مقررات بشأن المادة 6 وأقل البلدان نمواً."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdtr2s422h",
+   "tracks": [
+    "Adaptação",
+    "Mitigação e MWP"
+   ],
+   "first_seen": "2026-11-21T10:44:24-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261120-ministros-transicao-justa",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "14:49",
+   "text": "[resumo da fonte] Ministers meet on the Just Transition Work Programme while parties wait for the closing plenary.",
+   "summary": "O ENB relata que ministros se reuniram sobre o Programa de Trabalho de Transição Justa enquanto as Partes aguardavam a plenária de encerramento.",
+   "summary_i18n": {
+    "en": "ENB reports that ministers met on the Just Transition Work Programme while Parties awaited the closing plenary.",
+    "es": "ENB informa de que los ministros se reunieron sobre el programa de trabajo sobre transición justa mientras las Partes esperaban el plenario de clausura.",
+    "fr": "L'ENB rapporte que les ministres se sont réunis sur le programme de travail sur la transition juste pendant que les Parties attendaient la plénière de clôture.",
+    "ru": "ENB сообщает, что министры собрались по программе работы по справедливому переходу, пока Стороны ожидали заключительного пленарного заседания.",
+    "zh": "ENB 报道，在各缔约方等待闭幕全体会议期间，部长们就公正转型工作方案举行会议。",
+    "ar": "تفيد نشرة ENB بأن الوزراء اجتمعوا بشأن برنامج عمل الانتقال العادل بينما كانت الأطراف تنتظر الجلسة العامة الختامية."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2r5iogsck2y",
+   "tracks": [
+    "Transição justa",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-21T10:44:24-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
    "id": "nrdc-2026-11-20-electrification-pledge",
    "institution": "NRDC",
    "type": "release",
@@ -27196,11 +27309,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-21T09:44:16-03:00",
-  "label": "21 nov 2026, 09:42 (Brasília)",
+  "timestamp": "2026-11-21T10:44:24-03:00",
+  "label": "21 nov 2026, 10:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 4,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
