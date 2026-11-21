@@ -113,9 +113,21 @@
       "change": "new",
       "document_id": "10000403",
       "event_id": "bf74d6a4868898eda8462eae"
+    },
+    {
+      "at": "2026-11-21T21:37:52.657254Z",
+      "change": "new",
+      "document_id": "10000405",
+      "event_id": "a06f90278cefd82f27d9bb55"
+    },
+    {
+      "at": "2026-11-21T21:37:52.657254Z",
+      "change": "new",
+      "document_id": "10000404",
+      "event_id": "0bcc8269cce629af91bb17f9"
     }
   ],
-  "checked_at": "2026-11-21T21:07:50.647007Z",
+  "checked_at": "2026-11-21T21:37:52.657254Z",
   "degraded": false,
   "documents": [
     {
@@ -4020,6 +4032,28 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 12; CMP 21 7; CMA 8 15",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9755386e0f8a4ac27354a156705285fcfca48ad6541678625c5a2a526d9f5512",
+          "url": "https://docs.unfccc.int/documents/10000405/files/en/RM_DT_cop314.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/CP/2026/L.12-FCCC/KP/CMP/2026/L.5-FCCC/PA/CMA/2026/L.21",
+      "id": "10000405",
+      "metadata_version": "9.0",
+      "modified_at": "2026-11-21T21:24:48.540406Z",
+      "published_at": "2026-11-21T20:30:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000405/metadata",
+      "status": "unknown",
+      "title": "Report of the forum on the impact of the implementation of response measures. Draft decision -/CP.31/CMP.21/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -4122,11 +4156,33 @@
       "title": "Sharm el-Sheikh mitigation ambition and implementation work programme",
       "topic": "TAFF / mitigation",
       "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 6",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "52dacaff8228e78f76cabe735f438b5814e1b5bbffd3435043e45bb02a388c63",
+          "url": "https://docs.unfccc.int/documents/10000404/files/en/MWP_DT_SB655.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.14",
+      "id": "10000404",
+      "metadata_version": "6.0",
+      "modified_at": "2026-11-21T21:27:06.477894Z",
+      "published_at": "2026-11-21T20:30:00Z",
+      "session": "CMA 6",
+      "source_url": "https://docs.unfccc.int/documents/10000404/metadata",
+      "status": "unknown",
+      "title": "Sharm el-Sheikh mitigation ambition and implementation work programme. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "TAFF / mitigation",
+      "withdrawn": false
     }
   ],
   "history_count": 21,
-  "last_attempt": "2026-11-21T21:07:50.647007Z",
-  "last_success": "2026-11-21T21:07:50.647007Z",
+  "last_attempt": "2026-11-21T21:37:52.657254Z",
+  "last_success": "2026-11-21T21:37:52.657254Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
