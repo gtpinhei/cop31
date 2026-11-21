@@ -143,9 +143,15 @@
       "change": "reinstated",
       "document_id": "10000375",
       "event_id": "2a7147b35b528fbce92cb9ad"
+    },
+    {
+      "at": "2026-11-21T14:16:38.892045Z",
+      "change": "new",
+      "document_id": "10000395",
+      "event_id": "7e7bf331703117612033ca89"
     }
   ],
-  "checked_at": "2026-11-21T14:07:36.544967Z",
+  "checked_at": "2026-11-21T14:16:38.892045Z",
   "degraded": false,
   "documents": [
     {
@@ -631,6 +637,28 @@
       "source_url": "https://docs.unfccc.int/documents/10000378/metadata",
       "status": "draft",
       "title": "Long-term climate finance",
+      "topic": "Finance",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(b)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0c15a550a141e45fa00836693fb7c0649c9d5618d77fbb773194e1d4e0f3ec19",
+          "url": "https://docs.unfccc.int/documents/10000395/files/en/SCF_COP31_8b_DT_DC.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/CP/2026/L.1",
+      "id": "10000395",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-21T14:16:12.353486Z",
+      "published_at": "2026-11-21T14:15:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000395/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the Standing Committee on Finance. Draft decision -/CP.31. Proposal by the President",
       "topic": "Finance",
       "withdrawn": false
     },
@@ -3882,8 +3910,8 @@
     }
   ],
   "history_count": 25,
-  "last_attempt": "2026-11-21T14:07:36.544967Z",
-  "last_success": "2026-11-21T14:07:36.544967Z",
+  "last_attempt": "2026-11-21T14:16:38.892045Z",
+  "last_success": "2026-11-21T14:16:38.892045Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
