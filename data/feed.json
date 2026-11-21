@@ -27424,11 +27424,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-21T12:58:00-03:00",
-  "label": "21 nov 2026, 12:58 (Brasília)",
+  "timestamp": "2026-11-21T13:44:25-03:00",
+  "label": "21 nov 2026, 13:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 1,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
