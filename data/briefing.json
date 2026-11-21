@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-21",
- "generated_at": "2026-11-21T19:57+03:00",
+ "generated_at": "2026-11-21T20:58+03:00",
  "window": {
   "from": "2026-11-18",
   "to": "2026-11-21",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-21T12:25:00-03:00",
-  "social_round": "2026-11-21T13:44:25-03:00",
+  "social_round": "2026-11-21T14:45:28-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 70,
-  "stories": 47,
+  "candidates": 71,
+  "stories": 48,
   "top": 8,
   "publishers": [
    "350.org",
@@ -28,6 +28,7 @@
    "IDDRI",
    "IISD / ENB",
    "Kick Big Polluters Out",
+   "LDC Group",
    "NRDC",
    "Oil Change International",
    "SEFiA",
@@ -510,6 +511,44 @@
     ]
    },
    {
+    "id": "st-bluesky-ldcchairunfccc.bsky.social-20261120-gef9-ldcs",
+    "section": "negotiations",
+    "score": 0.396,
+    "lead": {
+     "id": "bluesky-ldcchairunfccc.bsky.social-20261120-gef9-ldcs",
+     "title": "ldcchairunfccc.bsky.social: [resumo da fonte] At COP31, I joined the GEF-9 high-level discussion. Calls for grant-based finance for LDCs. (images)",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n2resqgfes2y",
+     "publisher": "LDC Group",
+     "published": "2026-11-20",
+     "time": "17:00",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "official",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O presidente do Grupo de PMDs participou do debate de alto nível sobre o GEF-9 na COP31 e defendeu financiamento baseado em doações para os países menos desenvolvidos.",
+     "collected_at": "2026-11-21T14:45:28-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The LDC Group Chair joined the GEF-9 high-level discussion at COP31 and called for grant-based finance for least developed countries.",
+      "es": "El Presidente del Grupo de PMA participó en el debate de alto nivel sobre el FMAM-9 en la COP31 y abogó por financiación en forma de donaciones para los países menos adelantados.",
+      "fr": "Le Président du Groupe des PMA a participé à la discussion de haut niveau sur le FEM-9 à la COP31 et plaidé pour un financement sous forme de dons pour les pays les moins avancés.",
+      "ru": "Председатель Группы НРС принял участие в дискуссии высокого уровня по ГЭФ-9 на КС-31 и призвал к финансированию наименее развитых стран на грантовой основе.",
+      "zh": "最不发达国家集团主席参加了COP31上关于全球环境基金第九增资期（GEF-9）的高级别讨论，并呼吁以赠款方式为最不发达国家提供资金。",
+      "ar": "شارك رئيس مجموعة أقل البلدان نمواً في المناقشة رفيعة المستوى بشأن التجديد التاسع لموارد مرفق البيئة العالمية (GEF-9) في مؤتمر الأطراف الحادي والثلاثين ودعا إلى تمويل قائم على المنح لأقل البلدان نمواً."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "LDC Group"
+    ]
+   },
+   {
     "id": "st-bluesky-enb.iisd.org-20261120-destaques-sexta",
     "section": "negotiations",
     "score": 0.374,
@@ -545,43 +584,6 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-can-international-2026-11-20-worst-cop-ever",
-    "section": "civil",
-    "score": 0.36,
-    "lead": {
-     "id": "can-international-2026-11-20-worst-cop-ever",
-     "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
-     "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
-     "publisher": "CAN International",
-     "author": "CAN International",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "Decisão de cobertura",
-      "Finanças",
-      "Espaço cívico"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
-     "collected_at": "2026-11-20T12:25:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
-      "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
-      "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
-      "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
-      "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
-      "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "CAN International"
     ]
    }
   ],
@@ -2195,6 +2197,43 @@
   ],
   "civil": [
    {
+    "id": "st-can-international-2026-11-20-worst-cop-ever",
+    "section": "civil",
+    "score": 0.36,
+    "lead": {
+     "id": "can-international-2026-11-20-worst-cop-ever",
+     "title": "COP31: \"The worst COP ever\" as CAN rejects the texts on the table and condemns rich countries",
+     "url": "https://climatenetwork.org/2026/11/20/cop31-worst-cop-ever/",
+     "publisher": "CAN International",
+     "author": "CAN International",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Finanças",
+      "Espaço cívico"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "Comunicado da CAN International no último dia da COP31: a rede rejeita os textos em negociação e condena os países ricos, chamando a conferência de \"a pior COP de todas\". Só a chamada pública foi lida; as principais frentes são a decisão de cobertura e o financiamento de países desenvolvidos.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Press release from CAN International on the last day of COP31: the network rejects the texts on the table and condemns rich countries, calling the conference \"the worst COP ever\". Only the public teaser was read; the main tracks are the cover decision and developed-country finance.",
+      "es": "Comunicado de CAN International en el último día de la COP31: la red rechaza los textos sobre la mesa y condena a los países ricos, calificando la conferencia de \"la peor COP de la historia\". Solo se leyó el avance público; los ejes principales son la decisión de cobertura y la financiación de los países desarrollados.",
+      "fr": "Communiqué de CAN International le dernier jour de la COP31 : le réseau rejette les textes sur la table et condamne les pays riches, qualifiant la conférence de « pire COP de tous les temps ». Seul l'aperçu public a été lu ; les principaux volets sont la décision de couverture et le financement des pays développés.",
+      "ru": "Пресс-релиз CAN International в последний день COP31: сеть отвергает тексты на столе переговоров и осуждает богатые страны, назвав конференцию «худшей COP за всю историю». Прочитан только публичный анонс; основные направления — решение о покрытии и финансирование развитых стран.",
+      "zh": "CAN International在COP31最后一天发布新闻稿：该网络拒绝谈判桌上的文本并谴责富国，称本次会议为“有史以来最糟糕的COP”。仅阅读了公开摘要；主要议题为总括决定和发达国家的资金。",
+      "ar": "بيان صحفي من CAN International في اليوم الأخير من COP31: ترفض الشبكة النصوص المطروحة وتدين البلدان الغنية، واصفةً المؤتمر بأنه \"أسوأ مؤتمر للأطراف على الإطلاق\". لم يُقرأ سوى المقتطف العلني؛ والمسارات الرئيسية هي القرار الشامل وتمويل البلدان المتقدمة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "CAN International"
+    ]
+   },
+   {
     "id": "st-350org-2026-11-18-eu-blocks-finance",
     "section": "civil",
     "score": 0.143,
@@ -2549,6 +2588,7 @@
   ],
   "2026-11-21": [
    "bluesky-enb.iisd.org-20261120-destaques-sexta",
+   "bluesky-ldcchairunfccc.bsky.social-20261120-gef9-ldcs",
    "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-19-draft-keeps-electrification",
    "climate-home-news-2026-11-20-bulletin-day-11",
