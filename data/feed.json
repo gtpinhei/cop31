@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-20T18:30:00-03:00",
+ "generated_at": "2026-11-21T00:16:36-03:00",
  "round": {
-  "timestamp": "2026-11-20T18:30:00-03:00",
-  "label": "20 nov 2026, 18:30 (Brasília)",
+  "timestamp": "2026-11-21T00:16:36-03:00",
+  "label": "21 nov 2026, 00:16 (Brasília)",
   "sites_checked": 63,
   "blocked": 19,
-  "new_items": 3,
-  "fetches": "68 de ~60",
+  "new_items": 6,
+  "fetches": "63 de ~60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -49,6 +49,164 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "unfccc-2026-11-20-transparency-gst2",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "Countries reaffirm support for climate transparency ahead of second global stocktake",
+   "date": "2026-11-20",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/news/countries-reaffirm-support-for-climate-transparency-ahead-of-second-global-stocktake",
+   "summary": "Artigo da UNFCCC de 20 de novembro em que os países reafirmam apoio à transparência climática na preparação do segundo Balanço Global (GST2). Só o título e a listagem foram lidos; o conteúdo não foi verificado.",
+   "summary_i18n": {
+    "en": "UNFCCC article of 20 November in which countries reaffirm support for climate transparency ahead of the second Global Stocktake (GST2). Only the title and listing were read; the content was not verified.",
+    "es": "Artículo de la CMNUCC del 20 de noviembre en el que los países reafirman su apoyo a la transparencia climática de cara al segundo Balance Mundial (GST2). Solo se leyeron el título y el listado; no se verificó el contenido.",
+    "fr": "Article de la CCNUCC du 20 novembre dans lequel les pays réaffirment leur soutien à la transparence climatique en vue du deuxième bilan mondial (GST2). Seuls le titre et la liste ont été lus ; le contenu n'a pas été vérifié.",
+    "ru": "Статья РКИК ООН от 20 ноября: страны вновь заявили о поддержке климатической прозрачности в преддверии второго Глобального подведения итогов (GST2). Прочитаны только заголовок и список; содержание не проверялось.",
+    "zh": "《联合国气候变化框架公约》11月20日的文章：各国在第二次全球盘点（GST2）之前重申对气候透明度的支持。仅阅读了标题和列表，未核实内容。",
+    "ar": "مقال لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ بتاريخ 20 نوفمبر تؤكد فيه الدول مجدداً دعمها للشفافية المناخية قبيل الجرد العالمي الثاني (GST2). قُرئ العنوان والقائمة فقط ولم يُتحقق من المحتوى."
+   },
+   "tracks": [
+    "GST2 e IPCC"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "unfccc-2026-11-20-ldc-25-years",
+   "institution": "UNFCCC / Simon Stiell",
+   "type": "notícia",
+   "title": "25 years of Least Developed Countries adaptation support",
+   "date": "2026-11-20",
+   "authors": "Paul Desanker (UNFCCC)",
+   "url": "https://unfccc.int/news/25-years-of-least-developed-countries-adaptation-support",
+   "summary": "Artigo da UNFCCC de 20 de novembro sobre os 25 anos de apoio à adaptação dos Países Menos Desenvolvidos (LDCs). Toca a trilha de adaptação. Só o título e a listagem foram lidos; o conteúdo não foi verificado.",
+   "summary_i18n": {
+    "en": "UNFCCC article of 20 November on 25 years of adaptation support for the Least Developed Countries (LDCs). It bears on the adaptation track. Only the title and listing were read; the content was not verified.",
+    "es": "Artículo de la CMNUCC del 20 de noviembre sobre los 25 años de apoyo a la adaptación de los Países Menos Adelantados (PMA). Se vincula a la vía de adaptación. Solo se leyeron el título y el listado; no se verificó el contenido.",
+    "fr": "Article de la CCNUCC du 20 novembre sur les 25 ans d'appui à l'adaptation des pays les moins avancés (PMA). Il se rapporte au volet adaptation. Seuls le titre et la liste ont été lus ; le contenu n'a pas été vérifié.",
+    "ru": "Статья РКИК ООН от 20 ноября о 25 годах поддержки адаптации наименее развитых стран (НРС). Относится к направлению адаптации. Прочитаны только заголовок и список; содержание не проверялось.",
+    "zh": "《联合国气候变化框架公约》11月20日的文章，介绍对最不发达国家（LDCs）适应行动25年来的支持。涉及适应议题。仅阅读了标题和列表，未核实内容。",
+    "ar": "مقال لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ بتاريخ 20 نوفمبر عن 25 عاماً من دعم التكيف في أقل البلدان نمواً. يتصل بمسار التكيف. قُرئ العنوان والقائمة فقط ولم يُتحقق من المحتوى."
+   },
+   "tracks": [
+    "Adaptação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-unfccc-int-news"
+  },
+  {
+   "id": "oilchange-2026-11-20-eu-fingers",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "EU Points Fingers While Failing to Deliver on Fossil Fuels and Climate Finance",
+   "date": "2026-11-20",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/eu-points-fingers-while-failing-to-deliver-on-fossil-fuels-and-climate-finance/",
+   "summary": "Release de 20 de novembro da Oil Change International criticando a União Europeia por, segundo a organização, culpar outros enquanto não entrega nem a saída dos combustíveis fósseis nem financiamento climático, na reta final da decisão de cobertura. Toca as trilhas TAFF e finanças.",
+   "summary_i18n": {
+    "en": "Oil Change International release of 20 November criticising the European Union for, in the group's view, pointing fingers at others while failing to deliver on the transition away from fossil fuels and on climate finance, in the final stretch of the cover decision. It bears on the TAFF and finance tracks.",
+    "es": "Comunicado de Oil Change International del 20 de noviembre que critica a la Unión Europea por, según la organización, culpar a otros sin cumplir ni la transición para abandonar los combustibles fósiles ni la financiación climática, en la recta final de la decisión de cobertura. Se vincula a las vías TAFF y de finanzas.",
+    "fr": "Communiqué d'Oil Change International du 20 novembre critiquant l'Union européenne qui, selon l'organisation, accuse les autres sans tenir ses engagements sur la transition hors des combustibles fossiles ni sur le financement climatique, dans la dernière ligne droite de la décision de couverture. Il se rapporte aux volets TAFF et finance.",
+    "ru": "Релиз Oil Change International от 20 ноября: организация критикует Европейский союз, который, по её мнению, обвиняет других, но не выполняет обязательств по отказу от ископаемого топлива и по климатическому финансированию, на финальном этапе работы над общим решением. Относится к направлениям TAFF и финансов.",
+    "zh": "Oil Change International 11月20日发布的新闻稿，批评欧盟在综合决定的最后阶段指责他人，却未能兑现逐步摆脱化石燃料和气候资金方面的承诺。涉及TAFF和资金议题。",
+    "ar": "بيان صحفي لمنظمة Oil Change International بتاريخ 20 نوفمبر ينتقد الاتحاد الأوروبي لأنه، بحسب المنظمة، يلقي اللوم على الآخرين دون الوفاء بالانتقال بعيداً عن الوقود الأحفوري ولا بالتمويل المناخي، في المرحلة الأخيرة من القرار الشامل. يتصل بمساري TAFF والتمويل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Finanças",
+    "Decisão de cobertura"
+   ],
+   "quotes": [
+    "\"The EU is cowardly trying to deceive and frame the outcome of this COP\" — Oil Change International"
+   ],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "oilchange-2026-11-20-media-advisory",
+   "institution": "Oil Change International",
+   "type": "comunicado",
+   "title": "Oil Change International COP31 Media Advisory",
+   "date": "2026-11-20",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory/",
+   "summary": "Aviso à imprensa da Oil Change International de 20 de novembro sobre a decisão de cobertura da COP31 e a saída dos combustíveis fósseis (TAFF). Só a listagem foi lida; o conteúdo completo não foi verificado.",
+   "summary_i18n": {
+    "en": "Oil Change International media advisory of 20 November on the COP31 cover decision and the transition away from fossil fuels (TAFF). Only the listing was read; the full content was not verified.",
+    "es": "Aviso a la prensa de Oil Change International del 20 de noviembre sobre la decisión de cobertura de la COP31 y la transición para abandonar los combustibles fósiles (TAFF). Solo se leyó el listado; no se verificó el contenido completo.",
+    "fr": "Avis aux médias d'Oil Change International du 20 novembre sur la décision de couverture de la COP31 et la transition hors des combustibles fossiles (TAFF). Seule la liste a été lue ; le contenu complet n'a pas été vérifié.",
+    "ru": "Медиа-анонс Oil Change International от 20 ноября об общем решении COP31 и отказе от ископаемого топлива (TAFF). Прочитан только список; полное содержание не проверялось.",
+    "zh": "Oil Change International 11月20日发布的媒体通告，涉及COP31综合决定和逐步摆脱化石燃料（TAFF）。仅阅读了列表，未核实全文。",
+    "ar": "إشعار إعلامي لمنظمة Oil Change International بتاريخ 20 نوفمبر بشأن القرار الشامل في COP31 والانتقال بعيداً عن الوقود الأحفوري (TAFF). قُرئت القائمة فقط ولم يُتحقق من المحتوى الكامل."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"Governments must stop treating the cover decision text like a fossil fuel executive's wishlist.\" — Oil Change International"
+   ],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "wri-2026-11-20-weo-takeaways",
+   "institution": "WRI",
+   "type": "análise",
+   "title": "Is the Energy Crisis Accelerating the Clean Energy Transition? 4 Takeaways from the IEA's World Energy Outlook 2026",
+   "date": "2026-11-20",
+   "authors": "Nick Wayth",
+   "url": "https://www.wri.org/insights/energy-crisis-accelerating-clean-energy-transition-4-takeaways-ieas-world-energy-outlook",
+   "summary": "Análise do WRI de 20 de novembro com quatro conclusões do World Energy Outlook 2026 da IEA, sobre se a crise energética global acelera a transição para energia limpa. Toca as trilhas de eletrificação e de transição para fora dos fósseis. Só a listagem foi lida.",
+   "summary_i18n": {
+    "en": "WRI analysis of 20 November with four takeaways from the IEA World Energy Outlook 2026 on whether the global energy crisis is accelerating the clean energy transition. It bears on the electrification and transition-away-from-fossil-fuels tracks. Only the listing was read.",
+    "es": "Análisis del WRI del 20 de noviembre con cuatro conclusiones del World Energy Outlook 2026 de la AIE sobre si la crisis energética mundial acelera la transición a la energía limpia. Se vincula a las vías de electrificación y de transición para abandonar los combustibles fósiles. Solo se leyó el listado.",
+    "fr": "Analyse du WRI du 20 novembre avec quatre enseignements du World Energy Outlook 2026 de l'AIE, sur la question de savoir si la crise énergétique mondiale accélère la transition vers l'énergie propre. Elle se rapporte aux volets électrification et transition hors des combustibles fossiles. Seule la liste a été lue.",
+    "ru": "Анализ WRI от 20 ноября с четырьмя выводами из World Energy Outlook 2026 МЭА о том, ускоряет ли глобальный энергетический кризис переход на чистую энергию. Относится к направлениям электрификации и отказа от ископаемого топлива. Прочитан только список.",
+    "zh": "世界资源研究所（WRI）11月20日的分析，从国际能源署《2026年世界能源展望》中提炼四点结论，探讨全球能源危机是否加速清洁能源转型。涉及电气化和摆脱化石燃料议题。仅阅读了列表。",
+    "ar": "تحليل لمعهد الموارد العالمية (WRI) بتاريخ 20 نوفمبر يتضمن أربع خلاصات من تقرير آفاق الطاقة العالمية 2026 الصادر عن وكالة الطاقة الدولية حول ما إذا كانت أزمة الطاقة العالمية تسرّع التحول إلى الطاقة النظيفة. يتصل بمساري التكهرب والانتقال بعيداً عن الوقود الأحفوري. قُرئت القائمة فقط."
+   },
+   "tracks": [
+    "Eletrificação",
+    "TAFF e fósseis"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-wri-org-insights"
+  },
+  {
+   "id": "unfccc-2026-11-20-adaptation-knowledge-doc",
+   "institution": "UNFCCC",
+   "type": "documento",
+   "title": "Recognizing the adaptation efforts of developing country Parties: Establishing and strengthening integrated knowledge, science, technology and data systems to advance adaptation action and reporting",
+   "date": "2026-11-20",
+   "authors": "UNFCCC",
+   "url": "https://unfccc.int/documents/665825",
+   "summary": "Documento da UNFCCC de 20 de novembro, listado sob a COP31, sobre o reconhecimento dos esforços de adaptação dos países em desenvolvimento e o fortalecimento de sistemas integrados de conhecimento, ciência, tecnologia e dados para ação e relato de adaptação. Só o título foi lido.",
+   "summary_i18n": {
+    "en": "UNFCCC document of 20 November, listed under COP31, on recognising the adaptation efforts of developing country Parties and strengthening integrated knowledge, science, technology and data systems for adaptation action and reporting. Only the title was read.",
+    "es": "Documento de la CMNUCC del 20 de noviembre, listado bajo la COP31, sobre el reconocimiento de los esfuerzos de adaptación de las Partes países en desarrollo y el fortalecimiento de sistemas integrados de conocimiento, ciencia, tecnología y datos para la acción y el reporte de adaptación. Solo se leyó el título.",
+    "fr": "Document de la CCNUCC du 20 novembre, répertorié sous la COP31, sur la reconnaissance des efforts d'adaptation des Parties pays en développement et le renforcement de systèmes intégrés de connaissances, de science, de technologie et de données pour l'action et la communication d'informations sur l'adaptation. Seul le titre a été lu.",
+    "ru": "Документ РКИК ООН от 20 ноября, размещённый в разделе COP31, о признании усилий по адаптации развивающихся стран-Сторон и укреплении комплексных систем знаний, науки, технологий и данных для действий и отчётности по адаптации. Прочитан только заголовок.",
+    "zh": "《联合国气候变化框架公约》11月20日在COP31项下列出的文件，涉及认可发展中国家缔约方的适应努力，并加强用于适应行动和报告的综合知识、科学、技术和数据系统。仅阅读了标题。",
+    "ar": "وثيقة لاتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ بتاريخ 20 نوفمبر مدرجة ضمن COP31 حول الاعتراف بجهود التكيف التي تبذلها الأطراف من البلدان النامية وتعزيز نظم متكاملة للمعرفة والعلوم والتكنولوجيا والبيانات لدعم إجراءات التكيف والإبلاغ عنها. قُرئ العنوان فقط."
+   },
+   "tracks": [
+    "Adaptação"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-21T00:16:36-03:00",
+   "lang": "en",
+   "source_id": "web-www4-unfccc-int-sites-submissionsstaging-pages-h"
+  },
   {
    "id": "unfccc-2026-11-20-bowen-interview",
    "institution": "UNFCCC / Simon Stiell",
