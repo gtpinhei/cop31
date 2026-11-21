@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-21",
- "generated_at": "2026-11-21T15:59+03:00",
+ "generated_at": "2026-11-21T16:58+03:00",
  "window": {
   "from": "2026-11-18",
   "to": "2026-11-21",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-21T06:32:00-03:00",
-  "social_round": "2026-11-21T09:44:16-03:00",
+  "social_round": "2026-11-21T10:44:24-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 63,
-  "stories": 43,
+  "candidates": 67,
+  "stories": 44,
   "top": 8,
   "publishers": [
    "350.org",
@@ -474,6 +474,44 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261120-destaques-sexta",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261120-destaques-sexta",
+     "title": "enb.iisd.org: [resumo da fonte] COP31 highlights: several decisions were adopted on Friday, including a national adaptation plan…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rmjlh3z222",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-20",
+     "time": "19:18",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB resume a sexta-feira na COP31: várias decisões foram adotadas, incluindo uma plataforma de implementação de planos nacionais de adaptação para os PMDs, mas questões centrais seguem sem solução.",
+     "collected_at": "2026-11-21T10:44:24-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB summarises Friday at COP31: several decisions were adopted, including a platform for implementing national adaptation plans for LDCs, but major issues remain unresolved.",
+      "es": "ENB resume el viernes en la COP31: se adoptaron varias decisiones, entre ellas una plataforma para la implementación de los planes nacionales de adaptación de los PMA, pero siguen sin resolverse cuestiones importantes.",
+      "fr": "L'ENB résume la journée de vendredi à la COP31 : plusieurs décisions ont été adoptées, dont une plateforme de mise en œuvre des plans nationaux d'adaptation pour les PMA, mais des questions majeures restent en suspens.",
+      "ru": "ENB подводит итоги пятницы на COP31: принято несколько решений, в том числе о платформе для реализации национальных планов адаптации для НРС, но ключевые вопросы остаются нерешёнными.",
+      "zh": "ENB 总结 COP31 周五进展：通过了多项决定，包括面向最不发达国家的国家适应计划实施平台，但重大问题仍未解决。",
+      "ar": "تلخّص نشرة ENB يوم الجمعة في مؤتمر الأطراف الحادي والثلاثين: اعتُمدت عدة مقررات، منها منصة لتنفيذ خطط التكيف الوطنية لأقل البلدان نمواً، لكن القضايا الكبرى لا تزال دون حل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
     "id": "st-can-international-2026-11-20-worst-cop-ever",
     "section": "civil",
     "score": 0.36,
@@ -545,43 +583,6 @@
     "related": [],
     "publishers": [
      "ICC"
-    ]
-   },
-   {
-    "id": "st-cop31tr-2026-11-19-climate-club-oecd",
-    "section": "action",
-    "score": 0.3,
-    "lead": {
-     "id": "cop31tr-2026-11-19-climate-club-oecd",
-     "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
-     "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
-     "publisher": "COP31 Presidency (Türkiye/Australia)",
-     "author": "COP31 Presidency",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Agenda de Ação",
-      "Presidência e anfitrião",
-      "Finanças"
-     ],
-     "content_type": "official",
-     "kind": "publication",
-     "description": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento.",
-     "collected_at": "2026-11-19T06:20:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability,…",
-      "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión.",
-      "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements.",
-      "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции.",
-      "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
-      "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "COP31 Presidency (Türkiye/Australia)"
     ]
    }
   ],
@@ -900,6 +901,200 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261120-plenaria-suspensa",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261120-plenaria-suspensa",
+     "title": "enb.iisd.org: [resumo da fonte] COP31 suspended at 10.29pm to continue work on finance, the mitigation work programme and adaptation.",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdwkg73c2h",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-20",
+     "time": "16:44",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Mitigação e MWP",
+      "Adaptação"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB informa que a plenária da COP31 foi suspensa às 22h29 (horário da Turquia) para prosseguir o trabalho sobre finanças, o programa de trabalho de mitigação e adaptação.",
+     "collected_at": "2026-11-21T10:44:24-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that the COP31 plenary was suspended at 10.29 pm (Turkey time) to continue work on finance, the mitigation work programme and adaptation.",
+      "es": "ENB informa de que el plenario de la COP31 se suspendió a las 22.29 (hora de Turquía) para continuar los trabajos sobre finanzas, el programa de trabajo sobre mitigación y la adaptación.",
+      "fr": "L'ENB indique que la plénière de la COP31 a été suspendue à 22 h 29 (heure de la Turquie) pour poursuivre les travaux sur les finances, le programme de travail sur l'atténuation et l'adaptation.",
+      "ru": "ENB сообщает, что пленарное заседание COP31 было приостановлено в 22:29 (по времени Турции) для продолжения работы по финансированию, программе работы по смягчению и адаптации.",
+      "zh": "ENB 报道，COP31 全体会议于土耳其时间 22:29 休会，以继续就资金、减缓工作方案和适应开展工作。",
+      "ar": "تفيد نشرة ENB بتعليق الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين عند الساعة 22:29 (بتوقيت تركيا) لمواصلة العمل بشأن التمويل وبرنامج عمل التخفيف والتكيف."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "bluesky-enb.iisd.org-20261120-ministros-transicao-justa",
+      "title": "enb.iisd.org: [resumo da fonte] Ministers meet on the Just Transition Work Programme while parties wait for the closing plenary.",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2r5iogsck2y",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-20",
+      "time": "14:49",
+      "language": "en",
+      "tracks": [
+       "Transição justa",
+       "Decisão de cobertura"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB relata que ministros se reuniram sobre o Programa de Trabalho de Transição Justa enquanto as Partes aguardavam a plenária de encerramento.",
+      "collected_at": "2026-11-21T10:44:24-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports that ministers met on the Just Transition Work Programme while Parties awaited the closing plenary.",
+       "es": "ENB informa de que los ministros se reunieron sobre el programa de trabajo sobre transición justa mientras las Partes esperaban el plenario de clausura.",
+       "fr": "L'ENB rapporte que les ministres se sont réunis sur le programme de travail sur la transition juste pendant que les Parties attendaient la plénière de clôture.",
+       "ru": "ENB сообщает, что министры собрались по программе работы по справедливому переходу, пока Стороны ожидали заключительного пленарного заседания.",
+       "zh": "ENB 报道，在各缔约方等待闭幕全体会议期间，部长们就公正转型工作方案举行会议。",
+       "ar": "تفيد نشرة ENB بأن الوزراء اجتمعوا بشأن برنامج عمل الانتقال العادل بينما كانت الأطراف تنتظر الجلسة العامة الختامية."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261118-ldc-agreement",
+      "title": "enb.iisd.org: [resumo da fonte] Reports that COP31 reached agreement on least developed country matters while finance, mitigation,…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mdezhh3s2p",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-18",
+      "time": "16:51",
+      "language": "en",
+      "tracks": [
+       "Finanças",
+       "Adaptação",
+       "Mitigação e MWP"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB relata que a COP31 chegou a acordo sobre temas dos países menos desenvolvidos, enquanto seguem as negociações sobre finanças, mitigação, adaptação e Artigo 6.",
+      "collected_at": "2026-11-19T08:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports that COP31 reached agreement on least developed country matters, while negotiations on finance, mitigation, adaptation and Article 6 continue.",
+       "es": "ENB informa de que la COP31 alcanzó un acuerdo sobre las cuestiones de los países menos adelantados, mientras continúan las negociaciones sobre financiación, mitigación, adaptación y el Artículo 6.",
+       "fr": "L'ENB rapporte que la COP31 est parvenue à un accord sur les questions relatives aux pays les moins avancés, tandis que les négociations sur le financement, l'atténuation, l'adaptation et l'article 6 se poursuivent.",
+       "ru": "ENB сообщает, что на COP31 достигнуто соглашение по вопросам наименее развитых стран, тогда как переговоры по финансированию, смягчению, адаптации и статье 6 продолжаются.",
+       "zh": "ENB 报道，COP31 就最不发达国家相关事项达成一致，而关于资金、减缓、适应和第6条的谈判仍在继续。",
+       "ar": "تفيد نشرة ENB بأن مؤتمر الأطراف الحادي والثلاثين توصل إلى اتفاق بشأن مسائل أقل البلدان نموًا، بينما تتواصل المفاوضات حول التمويل والتخفيف والتكيف والمادة 6."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261118-finance-wp",
+      "title": "enb.iisd.org: [resumo da fonte] Reports on COP31 climate finance debates and presidency consultations on the Climate Finance Work…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5n7zp4c2f",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-18",
+      "time": "15:08",
+      "language": "en",
+      "tracks": [
+       "Finanças"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB relata os debates sobre finanças climáticas na COP31 e as consultas da presidência sobre o Programa de Trabalho sobre Finanças Climáticas.",
+      "collected_at": "2026-11-19T08:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports on climate finance debates at COP31 and presidency consultations on the Climate Finance Work Programme.",
+       "es": "ENB informa sobre los debates de financiación climática en la COP31 y las consultas de la Presidencia sobre el Programa de Trabajo sobre Financiación Climática.",
+       "fr": "L'ENB rend compte des débats sur le financement climatique à la COP31 et des consultations de la présidence sur le programme de travail sur le financement climatique.",
+       "ru": "ENB сообщает об обсуждениях климатического финансирования на COP31 и консультациях председательства по рабочей программе по климатическому финансированию.",
+       "zh": "ENB 报道 COP31 上的气候资金辩论，以及主席团就气候资金工作方案开展的磋商。",
+       "ar": "تفيد نشرة ENB بشأن مناقشات تمويل المناخ في مؤتمر الأطراف الحادي والثلاثين ومشاورات الرئاسة حول برنامج العمل المعني بتمويل المناخ."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261118-art6-mwp",
+      "title": "enb.iisd.org: [resumo da fonte] Reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures,…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5ipqf7c2f",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-18",
+      "time": "15:06",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP",
+       "Comércio"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB relata as negociações na COP31 sobre o Artigo 6.4, o Programa de Trabalho de Mitigação e as medidas de resposta, com atrasos para chegar a acordo.",
+      "collected_at": "2026-11-19T08:50:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures, with delays in reaching agreement.",
+       "es": "ENB informa sobre las negociaciones en la COP31 acerca del Artículo 6.4, el Programa de Trabajo sobre Mitigación y las medidas de respuesta, con retrasos para alcanzar un acuerdo.",
+       "fr": "L'ENB rend compte des négociations de la COP31 sur l'article 6.4, le programme de travail sur l'atténuation et les mesures de riposte, avec des retards dans la conclusion d'un accord.",
+       "ru": "ENB сообщает о переговорах на COP31 по статье 6.4, рабочей программе по смягчению и мерам реагирования, с задержками в достижении согласия.",
+       "zh": "ENB 报道 COP31 上关于第6.4条、减缓工作方案和应对措施的谈判，达成一致出现延迟。",
+       "ar": "تفيد نشرة ENB بشأن مفاوضات مؤتمر الأطراف الحادي والثلاثين حول المادة 6.4 وبرنامج عمل التخفيف وتدابير الاستجابة، مع تأخر في التوصل إلى اتفاق."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-bluesky-enb.iisd.org-20261120-plenaria-art6-pmds",
+    "section": "negotiations",
+    "score": 0.374,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261120-plenaria-art6-pmds",
+     "title": "enb.iisd.org: [resumo da fonte] Closing plenary convenes briefly to adopt decisions on Article 6 and LDCs.",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdtr2s422h",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-20",
+     "time": "16:42",
+     "language": "en",
+     "tracks": [
+      "Adaptação",
+      "Mitigação e MWP"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB relata que a plenária de encerramento da COP31 se reuniu brevemente para adotar decisões sobre o Artigo 6 e os PMDs.",
+     "collected_at": "2026-11-21T10:44:24-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that the COP31 closing plenary met briefly to adopt decisions on Article 6 and LDCs.",
+      "es": "ENB informa de que el plenario de clausura de la COP31 se reunió brevemente para adoptar decisiones sobre el artículo 6 y los PMA.",
+      "fr": "L'ENB rapporte que la plénière de clôture de la COP31 s'est brièvement réunie pour adopter des décisions sur l'article 6 et les PMA.",
+      "ru": "ENB сообщает, что заключительное пленарное заседание COP31 кратко собралось для принятия решений по статье 6 и НРС.",
+      "zh": "ENB 报道，COP31 闭幕全体会议短暂召开，通过了关于第6条和最不发达国家的决定。",
+      "ar": "تفيد نشرة ENB بأن الجلسة العامة الختامية لمؤتمر الأطراف الحادي والثلاثين انعقدت لفترة وجيزة لاعتماد مقررات بشأن المادة 6 وأقل البلدان نمواً."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
     ]
    },
    {
@@ -1332,112 +1527,6 @@
     ]
    },
    {
-    "id": "st-bluesky-enb.iisd.org-20261118-ldc-agreement",
-    "section": "negotiations",
-    "score": 0.14,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261118-ldc-agreement",
-     "title": "enb.iisd.org: [resumo da fonte] Reports that COP31 reached agreement on least developed country matters while finance, mitigation,…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2mdezhh3s2p",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-18",
-     "time": "16:51",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Adaptação",
-      "Mitigação e MWP"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata que a COP31 chegou a acordo sobre temas dos países menos desenvolvidos, enquanto seguem as negociações sobre finanças, mitigação, adaptação e Artigo 6.",
-     "collected_at": "2026-11-19T08:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that COP31 reached agreement on least developed country matters, while negotiations on finance, mitigation, adaptation and Article 6 continue.",
-      "es": "ENB informa de que la COP31 alcanzó un acuerdo sobre las cuestiones de los países menos adelantados, mientras continúan las negociaciones sobre financiación, mitigación, adaptación y el Artículo 6.",
-      "fr": "L'ENB rapporte que la COP31 est parvenue à un accord sur les questions relatives aux pays les moins avancés, tandis que les négociations sur le financement, l'atténuation, l'adaptation et l'article 6 se poursuivent.",
-      "ru": "ENB сообщает, что на COP31 достигнуто соглашение по вопросам наименее развитых стран, тогда как переговоры по финансированию, смягчению, адаптации и статье 6 продолжаются.",
-      "zh": "ENB 报道，COP31 就最不发达国家相关事项达成一致，而关于资金、减缓、适应和第6条的谈判仍在继续。",
-      "ar": "تفيد نشرة ENB بأن مؤتمر الأطراف الحادي والثلاثين توصل إلى اتفاق بشأن مسائل أقل البلدان نموًا، بينما تتواصل المفاوضات حول التمويل والتخفيف والتكيف والمادة 6."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "bluesky-enb.iisd.org-20261118-art6-mwp",
-      "title": "enb.iisd.org: [resumo da fonte] Reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures,…",
-      "title_is_post": true,
-      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5ipqf7c2f",
-      "publisher": "IISD / ENB",
-      "published": "2026-11-18",
-      "time": "15:06",
-      "language": "en",
-      "tracks": [
-       "Mitigação e MWP",
-       "Comércio"
-      ],
-      "content_type": "reporting",
-      "kind": "post",
-      "platform": "bluesky",
-      "description": "O ENB relata as negociações na COP31 sobre o Artigo 6.4, o Programa de Trabalho de Mitigação e as medidas de resposta, com atrasos para chegar a acordo.",
-      "collected_at": "2026-11-19T08:50:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "ENB reports on COP31 negotiations on Article 6.4, the Mitigation Work Programme and response measures, with delays in reaching agreement.",
-       "es": "ENB informa sobre las negociaciones en la COP31 acerca del Artículo 6.4, el Programa de Trabajo sobre Mitigación y las medidas de respuesta, con retrasos para alcanzar un acuerdo.",
-       "fr": "L'ENB rend compte des négociations de la COP31 sur l'article 6.4, le programme de travail sur l'atténuation et les mesures de riposte, avec des retards dans la conclusion d'un accord.",
-       "ru": "ENB сообщает о переговорах на COP31 по статье 6.4, рабочей программе по смягчению и мерам реагирования, с задержками в достижении согласия.",
-       "zh": "ENB 报道 COP31 上关于第6.4条、减缓工作方案和应对措施的谈判，达成一致出现延迟。",
-       "ar": "تفيد نشرة ENB بشأن مفاوضات مؤتمر الأطراف الحادي والثلاثين حول المادة 6.4 وبرنامج عمل التخفيف وتدابير الاستجابة، مع تأخر في التوصل إلى اتفاق."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
-    "id": "st-bluesky-enb.iisd.org-20261118-finance-wp",
-    "section": "negotiations",
-    "score": 0.14,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261118-finance-wp",
-     "title": "enb.iisd.org: [resumo da fonte] Reports on COP31 climate finance debates and presidency consultations on the Climate Finance Work…",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2m5n7zp4c2f",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-18",
-     "time": "15:08",
-     "language": "en",
-     "tracks": [
-      "Finanças"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB relata os debates sobre finanças climáticas na COP31 e as consultas da presidência sobre o Programa de Trabalho sobre Finanças Climáticas.",
-     "collected_at": "2026-11-19T08:50:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports on climate finance debates at COP31 and presidency consultations on the Climate Finance Work Programme.",
-      "es": "ENB informa sobre los debates de financiación climática en la COP31 y las consultas de la Presidencia sobre el Programa de Trabajo sobre Financiación Climática.",
-      "fr": "L'ENB rend compte des débats sur le financement climatique à la COP31 et des consultations de la présidence sur le programme de travail sur le financement climatique.",
-      "ru": "ENB сообщает об обсуждениях климатического финансирования на COP31 и консультациях председательства по рабочей программе по климатическому финансированию.",
-      "zh": "ENB 报道 COP31 上的气候资金辩论，以及主席团就气候资金工作方案开展的磋商。",
-      "ar": "تفيد نشرة ENB بشأن مناقشات تمويل المناخ في مؤتمر الأطراف الحادي والثلاثين ومشاورات الرئاسة حول برنامج العمل المعني بتمويل المناخ."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
     "id": "st-cvfv20-2026-11-18-youth-fellows",
     "section": "negotiations",
     "score": 0.115,
@@ -1622,6 +1711,43 @@
     "related": [],
     "publishers": [
      "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-cop31tr-2026-11-19-climate-club-oecd",
+    "section": "action",
+    "score": 0.3,
+    "lead": {
+     "id": "cop31tr-2026-11-19-climate-club-oecd",
+     "title": "Climate Club sets out blueprint with OECD analysis to turn green industrial ambition into investment",
+     "url": "https://cop31.tr/news-detail/climate-club-oecd-blueprint-green-industrial-investment",
+     "publisher": "COP31 Presidency (Türkiye/Australia)",
+     "author": "COP31 Presidency",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Agenda de Ação",
+      "Presidência e anfitrião",
+      "Finanças"
+     ],
+     "content_type": "official",
+     "kind": "publication",
+     "description": "A Presidência da COP31 saudou a orientação do Climate Club e da OCDE sobre plataformas-país que coordenam projetos de descarbonização industrial e atraem investimento.",
+     "collected_at": "2026-11-19T06:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The COP31 Presidency welcomed Climate Club and OECD guidance on country platforms that coordinate industrial decarbonisation projects and attract investment. The guidance covers five dimensions: strategy and governance, national readiness, pipeline creation, finance mobilisation, and monitoring and accountability,…",
+      "es": "La Presidencia de la COP31 acogió con satisfacción la orientación del Climate Club y de la OCDE sobre plataformas nacionales que coordinan proyectos de descarbonización industrial y atraen inversión.",
+      "fr": "La présidence de la COP31 a salué les orientations du Climate Club et de l'OCDE sur les plateformes nationales qui coordonnent les projets de décarbonation industrielle et attirent les investissements.",
+      "ru": "Президентство СОР31 приветствовало руководство Climate Club и ОЭСР по страновым платформам, которые координируют проекты промышленной декарбонизации и привлекают инвестиции.",
+      "zh": "COP31主席团欢迎气候俱乐部（Climate Club）与经合组织（OECD）发布的国家平台指南，该类平台用于协调工业脱碳项目并吸引投资。指南涵盖五个方面：战略与治理、国家准备度、项目储备建设、融资动员以及监测与问责，并借鉴了土耳其工业脱碳投资平台。该指南支持行动议程中的绿色工业化优先事项。",
+      "ar": "رحّبت رئاسة مؤتمر الأطراف الحادي والثلاثين بإرشادات نادي المناخ (Climate Club) ومنظمة التعاون والتنمية في الميدان الاقتصادي بشأن المنصات القطرية التي تنسّق مشاريع إزالة الكربون الصناعي وتجتذب الاستثمار."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "COP31 Presidency (Türkiye/Australia)"
     ]
    },
    {
@@ -2311,6 +2437,7 @@
    "unfccc-2026-11-19-electrification-lightbulb"
   ],
   "2026-11-21": [
+   "bluesky-enb.iisd.org-20261120-destaques-sexta",
    "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-19-draft-keeps-electrification",
    "climate-home-news-2026-11-20-bulletin-day-11",
