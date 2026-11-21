@@ -95,9 +95,15 @@
       "change": "new",
       "document_id": "10000398",
       "event_id": "c938f4e1d1608f79c643dbd3"
+    },
+    {
+      "at": "2026-11-21T18:57:09.920328Z",
+      "change": "revised",
+      "document_id": "10000394",
+      "event_id": "f8c61f0b0d250ac9797b03fa"
     }
   ],
-  "checked_at": "2026-11-21T18:47:23.594320Z",
+  "checked_at": "2026-11-21T18:57:09.920328Z",
   "degraded": false,
   "documents": [
     {
@@ -3848,16 +3854,41 @@
       "agenda": "COP 31 2(f); CMA 8 2(c)",
       "attachments": [
         {
+          "language": "ar",
+          "sha256": "b62745253699c4d447d9254e2ceb43c7449980ab8ee580f0bd9fedff8c1fe833",
+          "url": "https://docs.unfccc.int/documents/10000394/files/ar/cp2026_L08A.pdf"
+        },
+        {
           "language": "en",
-          "sha256": "c4d3114809e9b5c5ed28ceb7ed5aa7e1a80d5947c3a6868960f6d536e7197315",
-          "url": "https://docs.unfccc.int/documents/10000394/files/en/ACE_DT_SBI654.pdf"
+          "sha256": "4714fa5b76e88e4746f9e112c7a9bdb1c427f0d64d24e4f7664f918d8e4daa84",
+          "url": "https://docs.unfccc.int/documents/10000394/files/en/cp2026_L08E.pdf"
+        },
+        {
+          "language": "es",
+          "sha256": "cb4837be24eb0c970f923c8b752eeb8ca7caef74ed1c2a72eb48f926d9c37d3d",
+          "url": "https://docs.unfccc.int/documents/10000394/files/es/cp2026_L08S.pdf"
+        },
+        {
+          "language": "fr",
+          "sha256": "7d5814958d72c5606542c386aacbdce38b2e4f773be83d1940ce3463685a5cf1",
+          "url": "https://docs.unfccc.int/documents/10000394/files/fr/cp2026_L08F.pdf"
+        },
+        {
+          "language": "ru",
+          "sha256": "93277dd3ecda3e009da2e048276b799b6429254d3e69026b4f5ac2dc0ec7e11b",
+          "url": "https://docs.unfccc.int/documents/10000394/files/ru/cp2026_L08R.pdf"
+        },
+        {
+          "language": "zh",
+          "sha256": "b6d4e4208e487a53b9e8bcccecb9dee72729f19d6b70027b230cfaf631151419",
+          "url": "https://docs.unfccc.int/documents/10000394/files/zh/cp2026_L08C.pdf"
         }
       ],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "FCCC/CP/2026/L.8-FCCC/PA/CMA/2026/L.12",
       "id": "10000394",
       "metadata_version": "5.0",
-      "modified_at": "2026-11-21T15:08:52.050398Z",
+      "modified_at": "2026-11-21T18:52:55.125577Z",
       "published_at": "2026-11-21T09:55:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000394/metadata",
@@ -3971,9 +4002,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 16,
-  "last_attempt": "2026-11-21T18:47:23.594320Z",
-  "last_success": "2026-11-21T18:47:23.594320Z",
+  "history_count": 17,
+  "last_attempt": "2026-11-21T18:57:09.920328Z",
+  "last_success": "2026-11-21T18:57:09.920328Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
