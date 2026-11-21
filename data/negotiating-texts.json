@@ -127,7 +127,7 @@
       "event_id": "0bcc8269cce629af91bb17f9"
     }
   ],
-  "checked_at": "2026-11-21T23:27:56.211295Z",
+  "checked_at": "2026-11-21T23:48:11.203475Z",
   "degraded": false,
   "documents": [
     {
@@ -895,7 +895,13 @@
     },
     {
       "agenda": "CMA 8 5",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000369/files/en/UAE%20JTWP_DT_SB651.pdf"
+        }
+      ],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i5.1",
       "id": "10000369",
@@ -3304,7 +3310,13 @@
     },
     {
       "agenda": "COP 31 3(b); CMA 8 3(b)",
-      "attachments": [],
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": null,
+          "url": "https://docs.unfccc.int/documents/10000367/files/en/ACE_DT_SBI653.pdf"
+        }
+      ],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i3b_CMA8.i3b.1",
       "id": "10000367",
@@ -4169,8 +4181,8 @@
     }
   ],
   "history_count": 21,
-  "last_attempt": "2026-11-21T23:27:56.211295Z",
-  "last_success": "2026-11-21T23:27:56.211295Z",
+  "last_attempt": "2026-11-21T23:48:11.203475Z",
+  "last_success": "2026-11-21T23:48:11.203475Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
