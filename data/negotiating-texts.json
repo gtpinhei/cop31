@@ -1,12 +1,6 @@
 {
   "changes": [
     {
-      "at": "2026-11-20T18:26:56.438071Z",
-      "change": "withdrawn",
-      "document_id": "10000343",
-      "event_id": "2245877f36eceb6929a683f2"
-    },
-    {
       "at": "2026-11-20T19:56:49.024755Z",
       "change": "withdrawn",
       "document_id": "10000361",
@@ -89,9 +83,21 @@
       "change": "new",
       "document_id": "10000397",
       "event_id": "8f37e5602466ce7f5f607cae"
+    },
+    {
+      "at": "2026-11-21T18:37:02.321148Z",
+      "change": "withdrawn",
+      "document_id": "10000369",
+      "event_id": "d5658835e611d3247c325706"
+    },
+    {
+      "at": "2026-11-21T18:37:02.321148Z",
+      "change": "new",
+      "document_id": "10000398",
+      "event_id": "c938f4e1d1608f79c643dbd3"
     }
   ],
-  "checked_at": "2026-11-21T18:17:35.320304Z",
+  "checked_at": "2026-11-21T18:37:02.321148Z",
   "degraded": false,
   "documents": [
     {
@@ -818,7 +824,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "4601c194d163472efc513fc3efff5fbdb4a790434d35ddf9c3f52af5b25845bc",
+          "sha256": null,
           "url": "https://docs.unfccc.int/documents/10000369/files/en/UAE%20JTWP_DT_SB651.pdf"
         }
       ],
@@ -826,10 +832,32 @@
       "document_code": "DT.CMA8.i5.1",
       "id": "10000369",
       "metadata_version": "2.0",
-      "modified_at": "2026-11-19T15:27:20.974422Z",
+      "modified_at": "2026-11-21T18:28:00.613743Z",
       "published_at": "2026-11-19T11:40:00Z",
       "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000369/metadata",
+      "status": "withdrawn",
+      "title": "United Arab Emirates just transition work programme",
+      "topic": "Just transition",
+      "withdrawn": true
+    },
+    {
+      "agenda": "CMA 8 5",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "2c5be4fd35ffec6f44d403d2907ad96eab9381ce08acd1de6f8eeae9cf3f519e",
+          "url": "https://docs.unfccc.int/documents/10000398/files/en/UAE%20JTWP_DT_SB652.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "DT.CMA8.i5.2",
+      "id": "10000398",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-21T18:25:29.397196Z",
+      "published_at": "2026-11-21T16:45:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000398/metadata",
       "status": "draft",
       "title": "United Arab Emirates just transition work programme",
       "topic": "Just transition",
@@ -3943,9 +3971,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 16,
-  "last_attempt": "2026-11-21T18:17:35.320304Z",
-  "last_success": "2026-11-21T18:17:35.320304Z",
+  "history_count": 17,
+  "last_attempt": "2026-11-21T18:37:02.321148Z",
+  "last_success": "2026-11-21T18:37:02.321148Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
