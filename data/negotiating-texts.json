@@ -139,7 +139,7 @@
       "event_id": "457b7bfdacbd1d35bdb8fb7d"
     }
   ],
-  "checked_at": "2026-11-21T15:27:14.977892Z",
+  "checked_at": "2026-11-21T15:37:30.651806Z",
   "degraded": false,
   "documents": [
     {
@@ -666,8 +666,8 @@
       "document_code": "FCCC/CP/2026/L.1",
       "id": "10000395",
       "metadata_version": "1.0",
-      "modified_at": "2026-11-21T15:22:17.937130Z",
-      "published_at": "2026-11-21T12:15:00Z",
+      "modified_at": "2026-11-21T15:29:56.151678Z",
+      "published_at": "2026-11-21T14:15:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000395/metadata",
       "status": "unknown",
@@ -3945,8 +3945,8 @@
     }
   ],
   "history_count": 23,
-  "last_attempt": "2026-11-21T15:27:14.977892Z",
-  "last_success": "2026-11-21T15:27:14.977892Z",
+  "last_attempt": "2026-11-21T15:37:30.651806Z",
+  "last_success": "2026-11-21T15:37:30.651806Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
