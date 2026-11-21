@@ -1,19 +1,19 @@
 {
  "schema": 1,
  "edition": "2026-11-21",
- "generated_at": "2026-11-21T11:57+03:00",
+ "generated_at": "2026-11-21T12:58+03:00",
  "window": {
   "from": "2026-11-18",
   "to": "2026-11-21",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-21T00:16:36-03:00",
-  "social_round": "2026-11-21T05:46:51-03:00",
+  "web_round": "2026-11-21T06:32:00-03:00",
+  "social_round": "2026-11-21T06:55:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 61,
+  "candidates": 63,
   "stories": 43,
   "top": 8,
   "publishers": [
@@ -28,6 +28,7 @@
    "IDDRI",
    "IISD / ENB",
    "Kick Big Polluters Out",
+   "NRDC",
    "Oil Change International",
    "SEFiA",
    "UNEP",
@@ -51,7 +52,7 @@
    {
     "publisher": "CAN Europe",
     "outcome": "blocked",
-    "note": "sem datas"
+    "note": "listagem sem datas"
    },
    {
     "publisher": "Política por Inteiro",
@@ -588,7 +589,7 @@
    {
     "id": "st-unfccc-2026-11-20-transparency-gst2",
     "section": "negotiations",
-    "score": 0.68,
+    "score": 0.798,
     "lead": {
      "id": "unfccc-2026-11-20-transparency-gst2",
      "title": "Countries reaffirm support for climate transparency ahead of second global stocktake",
@@ -750,6 +751,33 @@
       "description_i18n_method": "machine"
      },
      {
+      "id": "nrdc-2026-11-20-pick-up-pace",
+      "title": "World Is Still Moving Forward on Climate Action But Must Pick Up Pace, Ambition as COP31 Approaches Close",
+      "url": "https://www.nrdc.org/press-releases/world-still-moving-forward-climate-action-must-pick-pace-ambition-cop31-approaches",
+      "publisher": "NRDC",
+      "author": "NRDC",
+      "published": "2026-11-20",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP",
+       "Decisão de cobertura"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "Comunicado do NRDC de 20 de novembro, perto do encerramento da COP31, dizendo que o mundo avança na ação climática, mas precisa acelerar o ritmo e a ambição. Só o título foi lido via RSS; o conteúdo não foi verificado.",
+      "collected_at": "2026-11-21T06:32:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "NRDC press release of 20 November, as COP31 nears its close, saying the world is still moving forward on climate action but must pick up pace and ambition. Only the title was read via RSS; the content was not verified.",
+       "es": "Comunicado del NRDC del 20 de noviembre, cuando la COP31 se acerca a su clausura, según el cual el mundo sigue avanzando en la acción climática pero debe acelerar el ritmo y la ambición. Solo se leyó el título mediante RSS; el contenido no se verificó.",
+       "fr": "Communiqué du NRDC du 20 novembre, alors que la COP31 touche à sa fin, selon lequel le monde continue d'avancer sur l'action climatique mais doit accélérer le rythme et l'ambition. Seul le titre a été lu via RSS ; le contenu n'a pas été vérifié.",
+       "ru": "Пресс-релиз NRDC от 20 ноября, на исходе COP31: мир продолжает двигаться вперёд в климатических действиях, но должен ускорить темпы и повысить амбициозность. Через RSS прочитан только заголовок; содержание не проверялось.",
+       "zh": "NRDC 于11月20日COP31临近尾声时发布的新闻稿称，世界在气候行动上仍在前进，但必须加快步伐、提高雄心。仅通过RSS读取了标题，内容未经核实。",
+       "ar": "بيان صحفي صادر عن NRDC في 20 نوفمبر، مع اقتراب COP31 من نهايته، يقول إن العالم لا يزال يتقدم في العمل المناخي لكن عليه تسريع الوتيرة ورفع الطموح. قُرئ العنوان فقط عبر RSS ولم يُتحقق من المحتوى."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
       "id": "unfccc-2026-11-19-electrification-delivery-package",
       "title": "COP31 GCA-Electrification-Delivery-Package",
       "url": "https://unfccc.int/documents/665633",
@@ -773,6 +801,33 @@
        "ru": "Неофициальный технический документ о Пакете мер по электрификации, связанный с Повесткой действий COP31 и опубликованный на портале РКИК ООН 19 ноября. Он дополняет трекер бизнес-действий WBCSD и сообщения РКИК ООН об обязательстве по электрификации. Резюме основано только на названии и классификации;",
        "zh": "关于电气化交付一揽子计划的非正式技术文件，与COP31行动议程相关，于11月19日发布在《联合国气候变化框架公约》门户网站上。它补充了WBCSD的企业行动跟踪器以及公约秘书处关于电气化承诺的新闻稿。摘要仅依据标题和分类；内容未经阅读。",
        "ar": "ورقة تقنية غير رسمية عن حزمة تنفيذ التكهرب، مرتبطة بخطة العمل لمؤتمر الأطراف الحادي والثلاثين، نُشرت على بوابة اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ في 19 نوفمبر. وهي تكمّل متتبّع إجراءات الأعمال التابع لمجلس WBCSD وبيانات الاتفاقية عن التعهد بالتكهرب. الملخص مبني على العنوان والتصنيف فقط؛ ولم يُقرأ المحتوى."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "nrdc-2026-11-20-electrification-pledge",
+      "title": "More than 75 Countries, 180 Businesses Sign on to Global Electrification Pledge at COP31",
+      "url": "https://www.nrdc.org/press-releases/more-75-countries-180-businesses-sign-global-electrification-pledge-cop31",
+      "publisher": "NRDC",
+      "author": "NRDC",
+      "published": "2026-11-20",
+      "language": "en",
+      "tracks": [
+       "Eletrificação",
+       "Agenda de Ação"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "Comunicado do NRDC de 20 de novembro informando que mais de 75 países e 180 empresas aderiram ao compromisso global de eletrificação na COP31, iniciativa da presidência ligada à Agenda de Ação. Só o título foi lido via RSS; o conteúdo não foi verificado.",
+      "collected_at": "2026-11-21T06:32:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "NRDC press release of 20 November reporting that more than 75 countries and 180 businesses have signed the Global Electrification Pledge at COP31, a presidency initiative linked to the Action Agenda. Only the title was read via RSS; the content was not verified.",
+       "es": "Comunicado del NRDC del 20 de noviembre que informa de que más de 75 países y 180 empresas se han adherido al compromiso mundial de electrificación en la COP31, una iniciativa de la presidencia vinculada a la Agenda de Acción. Solo se leyó el título mediante RSS; el contenido no se verificó.",
+       "fr": "Communiqué du NRDC du 20 novembre indiquant que plus de 75 pays et 180 entreprises ont adhéré à l'engagement mondial sur l'électrification à la COP31, une initiative de la présidence liée à l'Agenda de l'action. Seul le titre a été lu via RSS ; le contenu n'a pas été vérifié.",
+       "ru": "Пресс-релиз NRDC от 20 ноября: более 75 стран и 180 компаний присоединились к Глобальному обязательству по электрификации на COP31, инициативе председательства, связанной с Повесткой дня действий. Через RSS прочитан только заголовок; содержание не проверялось.",
+       "zh": "NRDC 于11月20日发布的新闻稿称，超过75个国家和180家企业在COP31上签署了全球电气化承诺，这是与行动议程相关的主席国倡议。仅通过RSS读取了标题，内容未经核实。",
+       "ar": "بيان صحفي صادر عن NRDC في 20 نوفمبر يفيد بأن أكثر من 75 دولة و180 شركة انضمت إلى التعهد العالمي بالكهربة في COP31، وهي مبادرة من الرئاسة مرتبطة بخطة العمل. قُرئ العنوان فقط عبر RSS ولم يُتحقق من المحتوى."
       },
       "description_i18n_method": "machine"
      },
@@ -805,6 +860,7 @@
      }
     ],
     "publishers": [
+     "NRDC",
      "UNFCCC / Simon Stiell"
     ]
    },
