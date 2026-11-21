@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "generated_at": "2026-11-21T12:25:00-03:00",
+ "generated_at": "2026-11-21T18:16:19-03:00",
  "round": {
-  "timestamp": "2026-11-21T12:25:00-03:00",
-  "label": "21 nov 2026, 12:25 (Brasília)",
+  "timestamp": "2026-11-21T18:16:19-03:00",
+  "label": "21 nov 2026, 18:16 (Brasília)",
   "sites_checked": 63,
   "blocked": 17,
-  "new_items": 3,
+  "new_items": 0,
   "fetches": "63 de ~60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
@@ -106,6 +106,34 @@
    "first_seen": "2026-11-21T12:25:00-03:00",
    "lang": "en",
    "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261120-debriefed-deal-distant",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "13:53",
+   "text": "[resumo da fonte] This week's edition of DeBriefed: Deal distant | Fossil-fuel fractions | 'Coalitions' seek progress",
+   "summary": "Edição semanal do DeBriefed (Carbon Brief) de 20 nov: acordo distante na COP31, frações de combustíveis fósseis e coalizões que buscam avanço.",
+   "summary_i18n": {
+    "en": "Carbon Brief's weekly DeBriefed edition of 20 Nov: a COP31 deal still distant, fossil-fuel fractions and coalitions seeking progress.",
+    "es": "Edición semanal de DeBriefed (Carbon Brief) del 20 nov: acuerdo lejano en la COP31, fracciones de combustibles fósiles y coaliciones que buscan avances.",
+    "fr": "Édition hebdomadaire de DeBriefed (Carbon Brief) du 20 nov : accord lointain à la COP31, fractions de combustibles fossiles et coalitions cherchant des progrès.",
+    "ru": "Еженедельный выпуск DeBriefed (Carbon Brief) от 20 нояб.: соглашение на COP31 пока далеко, доли ископаемого топлива и коалиции, добивающиеся прогресса.",
+    "zh": "Carbon Brief 11月20日每周DeBriefed：COP31达成协议仍遥远，化石燃料占比问题，以及各联盟寻求进展。",
+    "ar": "العدد الأسبوعي من DeBriefed (Carbon Brief) بتاريخ 20 نوفمبر: اتفاق COP31 لا يزال بعيدًا، وحصص الوقود الأحفوري، وتحالفات تسعى إلى تحقيق تقدم."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2r2ebyv422n",
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-21T18:44:39-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
   },
   {
    "id": "bluesky-ldcchairunfccc.bsky.social-20261120-gef9-ldcs",
@@ -27452,11 +27480,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-21T17:45:10-03:00",
-  "label": "21 nov 2026, 17:45 (Brasília)",
+  "timestamp": "2026-11-21T18:44:39-03:00",
+  "label": "21 nov 2026, 18:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
