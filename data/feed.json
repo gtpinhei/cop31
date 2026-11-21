@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-21T06:32:00-03:00",
+ "generated_at": "2026-11-21T12:25:00-03:00",
  "round": {
-  "timestamp": "2026-11-21T06:32:00-03:00",
-  "label": "21 nov 2026, 06:32 (Brasília)",
-  "sites_checked": 60,
+  "timestamp": "2026-11-21T12:25:00-03:00",
+  "label": "21 nov 2026, 12:25 (Brasília)",
+  "sites_checked": 63,
   "blocked": 17,
-  "new_items": 2,
-  "fetches": "60 de 60",
+  "new_items": 3,
+  "fetches": "63 de ~60",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -47,6 +47,121 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "climate-home-news-2026-11-21-wu-disaster",
+   "institution": "Climate Home News",
+   "type": "opinião",
+   "title": "COP31 is shaping up to be a disaster – not only because it's weak on fossil fuels",
+   "date": "2026-11-21",
+   "authors": "Brandon Wu",
+   "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+   "summary": "Artigo de opinião de Brandon Wu (ActionAid USA) argumenta que o foco na ausência de linguagem sobre combustíveis fósseis esconde a má-fé da UE e do Norte Global em finanças, adaptação e transição justa. Para o autor, sem financiamento dos países ricos o regime climático da ONU não funciona.",
+   "summary_i18n": {
+    "en": "Opinion piece by Brandon Wu (ActionAid USA) arguing that the focus on missing fossil fuel language masks bad faith by the EU and the Global North on finance, adaptation and just transition. In the author's view, without finance from rich countries the UN climate regime cannot work.",
+    "es": "Artículo de opinión de Brandon Wu (ActionAid USA) que sostiene que el foco en la ausencia de lenguaje sobre combustibles fósiles oculta la mala fe de la UE y del Norte Global en materia de financiación, adaptación y transición justa. Según el autor, sin financiación de los países ricos el régimen climático de la ONU no puede funcionar.",
+    "fr": "Tribune de Brandon Wu (ActionAid USA) soutenant que l'accent mis sur l'absence de langage sur les combustibles fossiles masque la mauvaise foi de l'UE et du Nord global en matière de finance, d'adaptation et de transition juste. Selon l'auteur, sans financement des pays riches, le régime climatique de l'ONU ne peut pas fonctionner.",
+    "ru": "Статья-мнение Брэндона Ву (ActionAid USA): акцент на отсутствии формулировок об ископаемом топливе скрывает недобросовестность ЕС и Глобального Севера в вопросах финансирования, адаптации и справедливого перехода. По мнению автора, без финансирования со стороны богатых стран климатический режим ООН работать не может.",
+    "zh": "Brandon Wu（ActionAid USA）撰文认为，对化石燃料措辞缺失的关注掩盖了欧盟和全球北方在融资、适应和公正转型问题上的不诚信。作者指出，没有富裕国家的资金，联合国气候机制无法运转。",
+    "ar": "مقال رأي لبراندون وو (ActionAid USA) يرى أن التركيز على غياب صياغات الوقود الأحفوري يحجب سوء نية الاتحاد الأوروبي والشمال العالمي في مسائل التمويل والتكيف والانتقال العادل. ويرى الكاتب أنه بدون تمويل من الدول الغنية لا يمكن لنظام الأمم المتحدة للمناخ أن يعمل."
+   },
+   "tracks": [
+    "Finanças",
+    "Adaptação",
+    "Transição justa",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "Brandon Wu: \"Without finance from rich developed countries, the UN climate regime simply does not, and cannot, work.\""
+   ],
+   "first_seen": "2026-11-21T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "climate-home-news-2026-11-21-bulletin-day-12",
+   "institution": "Climate Home News",
+   "type": "boletim",
+   "title": "COP31 Bulletin Day 12: \"Good deal or no deal,\" warns EU climate chief",
+   "date": "2026-11-21",
+   "authors": "Megan Rowling, Joe Lo",
+   "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+   "summary": "Boletim do 12º dia da COP31, que entrou em prorrogação: o texto de cobertura não era republicado desde quinta-feira e a UE diz que o resultado será \"bom acordo ou nenhum acordo\". Tuvalu critica o processo e o Mecanismo de Transição Justa pode ser adiado para Adis Abeba (COP32).",
+   "summary_i18n": {
+    "en": "Bulletin for day 12 of COP31, which has run into overtime: the cover text had not been republished since Thursday and the EU says the outcome will be a \"good deal or no deal\". Tuvalu criticizes the process and the Just Transition Mechanism may be postponed to Addis Ababa (COP32).",
+    "es": "Boletín del día 12 de la COP31, que entró en prórroga: el texto de cobertura no se había vuelto a publicar desde el jueves y la UE afirma que el resultado será \"un buen acuerdo o ningún acuerdo\". Tuvalu critica el proceso y el Mecanismo de Transición Justa podría aplazarse a Adís Abeba (COP32).",
+    "fr": "Bulletin du 12e jour de la COP31, entrée en prolongation : le texte de couverture n'avait pas été republié depuis jeudi et l'UE affirme que le résultat sera « un bon accord ou pas d'accord ». Tuvalu critique le processus et le Mécanisme de transition juste pourrait être reporté à Addis-Abeba (COP32).",
+    "ru": "Бюллетень 12-го дня COP31, которая вышла за рамки графика: текст решения о покрытии не публиковался заново с четверга, а ЕС заявляет, что итогом будет «либо хорошая сделка, либо никакой». Тувалу критикует процесс, а Механизм справедливого перехода может быть отложен до Аддис-Абебы (COP32).",
+    "zh": "COP31第12天简报，会议已进入延时阶段：总括文本自周四以来未再发布，欧盟表示结果将是“要么达成好协议，要么没有协议”。图瓦卢批评谈判进程，公正转型机制可能推迟至亚的斯亚贝巴（COP32）。",
+    "ar": "نشرة اليوم الثاني عشر من COP31 التي دخلت وقتاً إضافياً: لم يُعاد نشر نص الغطاء منذ الخميس، ويقول الاتحاد الأوروبي إن النتيجة ستكون «اتفاقاً جيداً أو لا اتفاق». وتنتقد توفالو العملية، وقد تتأجل آلية الانتقال العادل إلى أديس أبابا (COP32)."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "Transição justa",
+    "Presidência e anfitrião"
+   ],
+   "quotes": [
+    "Wopke Hoekstra (UE): \"it's either going to be a good deal or it's going to be no deal\"",
+    "Sinéad Magner (Women and Gender Constituency): \"potentially killing it by a thousand paper cuts\""
+   ],
+   "first_seen": "2026-11-21T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261120-china-australia-35by35",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "14:34",
+   "text": "[resumo da fonte] China-Australia joint climate statement endorses the \"35 by 35\" electrification target; it does not mention climate finance or fossil fuels. Link: https://connect.carbonbrief.org/t/china-australia-joint-climate-statement-endorses-35-by-35/199",
+   "summary": "Simon Evans (Carbon Brief) destaca que a declaração climática conjunta China–Austrália endossa a meta \"35 by 35\" de eletrificação e não menciona financiamento climático nem combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) notes that the China–Australia joint climate statement endorses the \"35 by 35\" electrification target and does not mention climate finance or fossil fuels.",
+    "es": "Simon Evans (Carbon Brief) señala que la declaración climática conjunta China–Australia respalda la meta de electrificación \"35 by 35\" y no menciona la financiación climática ni los combustibles fósiles.",
+    "fr": "Simon Evans (Carbon Brief) relève que la déclaration climatique conjointe Chine–Australie soutient l'objectif d'électrification « 35 by 35 » et ne mentionne ni le financement climatique ni les combustibles fossiles.",
+    "ru": "Саймон Эванс (Carbon Brief) отмечает, что совместное климатическое заявление Китая и Австралии поддерживает цель электрификации «35 by 35» и не упоминает ни климатическое финансирование, ни ископаемое топливо.",
+    "zh": "Simon Evans（Carbon Brief）指出，中澳联合气候声明支持“35 by 35”电气化目标，但未提及气候融资或化石燃料。",
+    "ar": "يشير سايمون إيفانز (Carbon Brief) إلى أن البيان المناخي المشترك بين الصين وأستراليا يؤيد هدف الكهربة «35 by 35» ولا يذكر التمويل المناخي ولا الوقود الأحفوري."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2r4nkct552a",
+   "tracks": [
+    "Eletrificação",
+    "Finanças",
+    "TAFF e fósseis"
+   ],
+   "first_seen": "2026-11-21T12:58:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "climate-home-news-2026-11-20-uganda-taff",
+   "institution": "Climate Home News",
+   "type": "notícia",
+   "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
+   "date": "2026-11-20",
+   "authors": "Vivian Chime",
+   "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+   "summary": "Jane Byaruhanga, da Autoridade de Petróleo de Uganda e negociadora de transição justa, diz que o roteiro de transição dos combustíveis fósseis liderado pelo Brasil (TAFF) é fundamental para o planejamento nacional, enquanto Uganda se prepara para exportar petróleo. A matéria mostra a tensão entre dependência de receitas fósseis e o roteiro na trilha de TAFF e transição justa.",
+   "summary_i18n": {
+    "en": "Jane Byaruhanga of the Petroleum Authority of Uganda, also a just transition negotiator, says the Brazil-led fossil fuel transition roadmap (TAFF) is key to national planning as Uganda gears up to export oil. The report shows the tension between dependence on fossil revenues and the roadmap in the TAFF and just transition tracks.",
+    "es": "Jane Byaruhanga, de la Autoridad de Petróleo de Uganda y negociadora de transición justa, afirma que la hoja de ruta de transición de los combustibles fósiles liderada por Brasil (TAFF) es fundamental para la planificación nacional, mientras Uganda se prepara para exportar petróleo. El reportaje muestra la tensión entre la dependencia de los ingresos fósiles y la hoja de ruta en las vías de TAFF y transición justa.",
+    "fr": "Jane Byaruhanga, de l'Autorité pétrolière de l'Ouganda et négociatrice sur la transition juste, affirme que la feuille de route de transition des combustibles fossiles dirigée par le Brésil (TAFF) est essentielle pour la planification nationale, alors que l'Ouganda se prépare à exporter du pétrole. L'article montre la tension entre la dépendance aux revenus fossiles et la feuille de route dans les volets TAFF et transition juste.",
+    "ru": "Джейн Байарунгаль из Нефтяного управления Уганды, также участница переговоров по справедливому переходу, говорит, что возглавляемая Бразилией дорожная карта перехода от ископаемого топлива (TAFF) имеет ключевое значение для национального планирования, пока Уганда готовится к экспорту нефти. Материал показывает противоречие между зависимостью от доходов от ископаемого топлива и дорожной картой в рамках TAFF и справедливого перехода.",
+    "zh": "乌干达石油管理局的Jane Byaruhanga（同时是公正转型谈判代表）表示，由巴西牵头的化石燃料转型路线图（TAFF）对国家规划至关重要，而乌干达正准备出口石油。报道呈现了对化石收入的依赖与该路线图在TAFF和公正转型议题上的张力。",
+    "ar": "قالت جين بيارونغاله من هيئة البترول في أوغندا، وهي أيضاً مفاوضة في ملف الانتقال العادل، إن خارطة الطريق للانتقال بعيداً عن الوقود الأحفوري بقيادة البرازيل (TAFF) أساسية للتخطيط الوطني بينما تستعد أوغندا لتصدير النفط. ويبرز التقرير التوتر بين الاعتماد على عائدات الوقود الأحفوري وخارطة الطريق في مساري TAFF والانتقال العادل."
+   },
+   "tracks": [
+    "TAFF e fósseis",
+    "Transição justa"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-21T12:25:00-03:00",
+   "lang": "en",
+   "source_id": "web-climatechangenews-com"
+  },
   {
    "id": "bluesky-enb.iisd.org-20261120-destaques-sexta",
    "kind": "post",
@@ -27309,11 +27424,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-21T11:44:13-03:00",
-  "label": "21 nov 2026, 11:44 (Brasília)",
+  "timestamp": "2026-11-21T12:58:00-03:00",
+  "label": "21 nov 2026, 12:58 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
