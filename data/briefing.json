@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-21",
- "generated_at": "2026-11-21T17:58+03:00",
+ "generated_at": "2026-11-21T18:59+03:00",
  "window": {
   "from": "2026-11-18",
   "to": "2026-11-21",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-21T06:32:00-03:00",
-  "social_round": "2026-11-21T11:44:13-03:00",
+  "web_round": "2026-11-21T12:25:00-03:00",
+  "social_round": "2026-11-21T12:58:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 67,
-  "stories": 44,
+  "candidates": 70,
+  "stories": 47,
   "top": 8,
   "publishers": [
    "350.org",
@@ -69,6 +69,43 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-climate-home-news-2026-11-21-bulletin-day-12",
+    "section": "negotiations",
+    "score": 1.0,
+    "lead": {
+     "id": "climate-home-news-2026-11-21-bulletin-day-12",
+     "title": "COP31 Bulletin Day 12: \"Good deal or no deal,\" warns EU climate chief",
+     "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+     "publisher": "Climate Home News",
+     "author": "Megan Rowling, Joe Lo",
+     "published": "2026-11-21",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Transição justa",
+      "Presidência e anfitrião"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do 12º dia da COP31, que entrou em prorrogação: o texto de cobertura não era republicado desde quinta-feira e a UE diz que o resultado será \"bom acordo ou nenhum acordo\". Tuvalu critica o processo e o Mecanismo de Transição Justa pode ser adiado para Adis Abeba (COP32).",
+     "collected_at": "2026-11-21T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Bulletin for day 12 of COP31, which has run into overtime: the cover text had not been republished since Thursday and the EU says the outcome will be a \"good deal or no deal\". Tuvalu criticizes the process and the Just Transition Mechanism may be postponed to Addis Ababa (COP32).",
+      "es": "Boletín del día 12 de la COP31, que entró en prórroga: el texto de cobertura no se había vuelto a publicar desde el jueves y la UE afirma que el resultado será \"un buen acuerdo o ningún acuerdo\". Tuvalu critica el proceso y el Mecanismo de Transición Justa podría aplazarse a Adís Abeba (COP32).",
+      "fr": "Bulletin du 12e jour de la COP31, entrée en prolongation : le texte de couverture n'avait pas été republié depuis jeudi et l'UE affirme que le résultat sera « un bon accord ou pas d'accord ». Tuvalu critique le processus et le Mécanisme de transition juste pourrait être reporté à Addis-Abeba (COP32).",
+      "ru": "Бюллетень 12-го дня COP31, которая вышла за рамки графика: текст решения о покрытии не публиковался заново с четверга, а ЕС заявляет, что итогом будет «либо хорошая сделка, либо никакой». Тувалу критикует процесс, а Механизм справедливого перехода может быть отложен до Аддис-Абебы (COP32).",
+      "zh": "COP31第12天简报，会议已进入延时阶段：总括文本自周四以来未再发布，欧盟表示结果将是“要么达成好协议，要么没有协议”。图瓦卢批评谈判进程，公正转型机制可能推迟至亚的斯亚贝巴（COP32）。",
+      "ar": "نشرة اليوم الثاني عشر من COP31 التي دخلت وقتاً إضافياً: لم يُعاد نشر نص الغطاء منذ الخميس، ويقول الاتحاد الأوروبي إن النتيجة ستكون «اتفاقاً جيداً أو لا اتفاق». وتنتقد توفالو العملية، وقد تتأجل آلية الانتقال العادل إلى أديس أبابا (COP32)."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-20-bowen-interview",
     "section": "negotiations",
@@ -399,45 +436,6 @@
     ]
    },
    {
-    "id": "st-climate-home-news-2026-11-19-draft-keeps-electrification",
-    "section": "negotiations",
-    "score": 0.5,
-    "lead": {
-     "id": "climate-home-news-2026-11-19-draft-keeps-electrification",
-     "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
-     "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
-     "publisher": "Climate Home News",
-     "author": "Megan Rowling",
-     "published": "2026-11-19",
-     "language": "en",
-     "tracks": [
-      "Decisão de cobertura",
-      "Eletrificação",
-      "TAFF e fósseis",
-      "Adaptação",
-      "GST2 e IPCC"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Boletim do Dia 10: o segundo rascunho da decisão de cobertura tem cerca de metade da extensão do primeiro, retira a linguagem de transição para longe dos combustíveis fósseis, mantém a meta 35×35 de eletrificação num menu de medidas e omite um número para triplicar o financiamento de adaptação, adiando um…",
-     "collected_at": "2026-11-20T18:30:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Day 10 bulletin: the second draft of the cover decision is about half the length of the first, drops wording on transitioning away from fossil fuels, keeps the 35×35 electrification goal in a menu of measures and omits a number for tripling adaptation finance, deferring a baseline report to COP32.",
-      "es": "Boletín del Día 10: el segundo borrador de la decisión de cobertura tiene aproximadamente la mitad de extensión que el primero, elimina la redacción sobre la transición para abandonar los combustibles fósiles, mantiene la meta 35×35 de electrificación en un menú de medidas y omite una cifra para triplicar la…",
-      "fr": "Bulletin du Jour 10 : le deuxième projet de décision de couverture est environ deux fois plus court que le premier, supprime le libellé sur la transition hors des combustibles fossiles, maintient l'objectif 35×35 d'électrification dans un menu de mesures et omet un chiffre pour tripler le financement de l'adaptation,…",
-      "ru": "Бюллетень 10-го дня: второй проект общего решения вдвое короче первого, в нём убраны формулировки о переходе от ископаемого топлива, цель 35×35 по электрификации сохранена в перечне мер, а цифра для утроения финансирования адаптации опущена, базовый доклад перенесён на COP32.",
-      "zh": "第10天简报：总括决定第二稿篇幅约为第一稿的一半，删去了关于转型脱离化石燃料的措辞，将35×35电气化目标保留在措施清单中，并省略了适应资金增至三倍的具体数字，把基线报告推迟到COP32。草案还邀请IPCC及时提交报告以供GST使用。",
-      "ar": "نشرة اليوم العاشر: المسودة الثانية للقرار الشامل أقصر بنحو النصف من الأولى، وتحذف الصياغة المتعلقة بالانتقال بعيداً عن الوقود الأحفوري، وتُبقي هدف 35×35 للكهربة ضمن قائمة تدابير، وتغفل رقماً لمضاعفة تمويل التكيف ثلاث مرات مع إرجاء تقرير أساسي إلى COP32."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
     "id": "st-unfccc-2026-11-20-redd-forest-finance",
     "section": "action",
     "score": 0.8,
@@ -471,6 +469,44 @@
     "related": [],
     "publishers": [
      "UNFCCC / Simon Stiell"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-21-wu-disaster",
+    "section": "negotiations",
+    "score": 0.765,
+    "lead": {
+     "id": "climate-home-news-2026-11-21-wu-disaster",
+     "title": "COP31 is shaping up to be a disaster – not only because it's weak on fossil fuels",
+     "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+     "publisher": "Climate Home News",
+     "author": "Brandon Wu",
+     "published": "2026-11-21",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Adaptação",
+      "Transição justa",
+      "TAFF e fósseis"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "Artigo de opinião de Brandon Wu (ActionAid USA) argumenta que o foco na ausência de linguagem sobre combustíveis fósseis esconde a má-fé da UE e do Norte Global em finanças, adaptação e transição justa. Para o autor, sem financiamento dos países ricos o regime climático da ONU não funciona.",
+     "collected_at": "2026-11-21T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Opinion piece by Brandon Wu (ActionAid USA) arguing that the focus on missing fossil fuel language masks bad faith by the EU and the Global North on finance, adaptation and just transition. In the author's view, without finance from rich countries the UN climate regime cannot work.",
+      "es": "Artículo de opinión de Brandon Wu (ActionAid USA) que sostiene que el foco en la ausencia de lenguaje sobre combustibles fósiles oculta la mala fe de la UE y del Norte Global en materia de financiación, adaptación y transición justa.",
+      "fr": "Tribune de Brandon Wu (ActionAid USA) soutenant que l'accent mis sur l'absence de langage sur les combustibles fossiles masque la mauvaise foi de l'UE et du Nord global en matière de finance, d'adaptation et de transition juste.",
+      "ru": "Статья-мнение Брэндона Ву (ActionAid USA): акцент на отсутствии формулировок об ископаемом топливе скрывает недобросовестность ЕС и Глобального Севера в вопросах финансирования, адаптации и справедливого перехода. По мнению автора, без финансирования со стороны богатых стран климатический режим ООН работать не может.",
+      "zh": "Brandon Wu（ActionAid USA）撰文认为，对化石燃料措辞缺失的关注掩盖了欧盟和全球北方在融资、适应和公正转型问题上的不诚信。作者指出，没有富裕国家的资金，联合国气候机制无法运转。",
+      "ar": "مقال رأي لبراندون وو (ActionAid USA) يرى أن التركيز على غياب صياغات الوقود الأحفوري يحجب سوء نية الاتحاد الأوروبي والشمال العالمي في مسائل التمويل والتكيف والانتقال العادل. ويرى الكاتب أنه بدون تمويل من الدول الغنية لا يمكن لنظام الأمم المتحدة للمناخ أن يعمل."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
     ]
    },
    {
@@ -546,43 +582,6 @@
     "related": [],
     "publishers": [
      "CAN International"
-    ]
-   },
-   {
-    "id": "st-icc-2026-11-20-ministers-critical-juncture",
-    "section": "negotiations",
-    "score": 0.324,
-    "lead": {
-     "id": "icc-2026-11-20-ministers-critical-juncture",
-     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
-     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
-     "publisher": "ICC",
-     "author": "ICC (John W.H. Denton AO)",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Eletrificação",
-      "Decisão de cobertura"
-     ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
-     "collected_at": "2026-11-20T12:25:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
-      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
-      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
-      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
-      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
-      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "ICC"
     ]
    }
   ],
@@ -866,6 +865,81 @@
     ]
    },
    {
+    "id": "st-climate-home-news-2026-11-20-uganda-taff",
+    "section": "negotiations",
+    "score": 0.68,
+    "lead": {
+     "id": "climate-home-news-2026-11-20-uganda-taff",
+     "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
+     "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+     "publisher": "Climate Home News",
+     "author": "Vivian Chime",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Transição justa"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Jane Byaruhanga, da Autoridade de Petróleo de Uganda e negociadora de transição justa, diz que o roteiro de transição dos combustíveis fósseis liderado pelo Brasil (TAFF) é fundamental para o planejamento nacional, enquanto Uganda se prepara para exportar petróleo.",
+     "collected_at": "2026-11-21T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Jane Byaruhanga of the Petroleum Authority of Uganda, also a just transition negotiator, says the Brazil-led fossil fuel transition roadmap (TAFF) is key to national planning as Uganda gears up to export oil.",
+      "es": "Jane Byaruhanga, de la Autoridad de Petróleo de Uganda y negociadora de transición justa, afirma que la hoja de ruta de transición de los combustibles fósiles liderada por Brasil (TAFF) es fundamental para la planificación nacional, mientras Uganda se prepara para exportar petróleo.",
+      "fr": "Jane Byaruhanga, de l'Autorité pétrolière de l'Ouganda et négociatrice sur la transition juste, affirme que la feuille de route de transition des combustibles fossiles dirigée par le Brésil (TAFF) est essentielle pour la planification nationale, alors que l'Ouganda se prépare à exporter du pétrole.",
+      "ru": "Джейн Байарунгаль из Нефтяного управления Уганды, также участница переговоров по справедливому переходу, говорит, что возглавляемая Бразилией дорожная карта перехода от ископаемого топлива (TAFF) имеет ключевое значение для национального планирования, пока Уганда готовится к экспорту нефти.",
+      "zh": "乌干达石油管理局的Jane Byaruhanga（同时是公正转型谈判代表）表示，由巴西牵头的化石燃料转型路线图（TAFF）对国家规划至关重要，而乌干达正准备出口石油。报道呈现了对化石收入的依赖与该路线图在TAFF和公正转型议题上的张力。",
+      "ar": "قالت جين بيارونغاله من هيئة البترول في أوغندا، وهي أيضاً مفاوضة في ملف الانتقال العادل، إن خارطة الطريق للانتقال بعيداً عن الوقود الأحفوري بقيادة البرازيل (TAFF) أساسية للتخطيط الوطني بينما تستعد أوغندا لتصدير النفط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
+    "id": "st-climate-home-news-2026-11-19-draft-keeps-electrification",
+    "section": "negotiations",
+    "score": 0.5,
+    "lead": {
+     "id": "climate-home-news-2026-11-19-draft-keeps-electrification",
+     "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
+     "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
+     "publisher": "Climate Home News",
+     "author": "Megan Rowling",
+     "published": "2026-11-19",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Eletrificação",
+      "TAFF e fósseis",
+      "Adaptação",
+      "GST2 e IPCC"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do Dia 10: o segundo rascunho da decisão de cobertura tem cerca de metade da extensão do primeiro, retira a linguagem de transição para longe dos combustíveis fósseis, mantém a meta 35×35 de eletrificação num menu de medidas e omite um número para triplicar o financiamento de adaptação, adiando um…",
+     "collected_at": "2026-11-20T18:30:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Day 10 bulletin: the second draft of the cover decision is about half the length of the first, drops wording on transitioning away from fossil fuels, keeps the 35×35 electrification goal in a menu of measures and omits a number for tripling adaptation finance, deferring a baseline report to COP32.",
+      "es": "Boletín del Día 10: el segundo borrador de la decisión de cobertura tiene aproximadamente la mitad de extensión que el primero, elimina la redacción sobre la transición para abandonar los combustibles fósiles, mantiene la meta 35×35 de electrificación en un menú de medidas y omite una cifra para triplicar la…",
+      "fr": "Bulletin du Jour 10 : le deuxième projet de décision de couverture est environ deux fois plus court que le premier, supprime le libellé sur la transition hors des combustibles fossiles, maintient l'objectif 35×35 d'électrification dans un menu de mesures et omet un chiffre pour tripler le financement de l'adaptation,…",
+      "ru": "Бюллетень 10-го дня: второй проект общего решения вдвое короче первого, в нём убраны формулировки о переходе от ископаемого топлива, цель 35×35 по электрификации сохранена в перечне мер, а цифра для утроения финансирования адаптации опущена, базовый доклад перенесён на COP32.",
+      "zh": "第10天简报：总括决定第二稿篇幅约为第一稿的一半，删去了关于转型脱离化石燃料的措辞，将35×35电气化目标保留在措施清单中，并省略了适应资金增至三倍的具体数字，把基线报告推迟到COP32。草案还邀请IPCC及时提交报告以供GST使用。",
+      "ar": "نشرة اليوم العاشر: المسودة الثانية للقرار الشامل أقصر بنحو النصف من الأولى، وتحذف الصياغة المتعلقة بالانتقال بعيداً عن الوقود الأحفوري، وتُبقي هدف 35×35 للكهربة ضمن قائمة تدابير، وتغفل رقماً لمضاعفة تمويل التكيف ثلاث مرات مع إرجاء تقرير أساسي إلى COP32."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
+   {
     "id": "st-climate-home-news-2026-11-20-bulletin-day-11",
     "section": "negotiations",
     "score": 0.408,
@@ -1095,6 +1169,43 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-icc-2026-11-20-ministers-critical-juncture",
+    "section": "negotiations",
+    "score": 0.324,
+    "lead": {
+     "id": "icc-2026-11-20-ministers-critical-juncture",
+     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
+     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
+     "publisher": "ICC",
+     "author": "ICC (John W.H. Denton AO)",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Eletrificação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
+      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
+      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
+      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
+      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
+      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
     ]
    },
    {
@@ -2441,6 +2552,8 @@
    "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-19-draft-keeps-electrification",
    "climate-home-news-2026-11-20-bulletin-day-11",
+   "climate-home-news-2026-11-21-bulletin-day-12",
+   "climate-home-news-2026-11-21-wu-disaster",
    "cop31tr-2026-11-19-climate-club-oecd",
    "icc-2026-11-20-ministers-critical-juncture",
    "oil-change-2026-11-19-media-advisory",
