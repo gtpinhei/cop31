@@ -108,6 +108,34 @@
    "source_id": "web-climatechangenews-com"
   },
   {
+   "id": "bluesky-ldcchairunfccc.bsky.social-20261120-gef9-ldcs",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "ldcchairunfccc.bsky.social",
+   "institution": "LDC Group",
+   "verified": true,
+   "date": "2026-11-20",
+   "time": "17:00",
+   "text": "[resumo da fonte] At COP31, I joined the GEF-9 high-level discussion. Calls for grant-based finance for LDCs. (images)",
+   "summary": "O presidente do Grupo de PMDs participou do debate de alto nível sobre o GEF-9 na COP31 e defendeu financiamento baseado em doações para os países menos desenvolvidos.",
+   "summary_i18n": {
+    "en": "The LDC Group Chair joined the GEF-9 high-level discussion at COP31 and called for grant-based finance for least developed countries.",
+    "es": "El Presidente del Grupo de PMA participó en el debate de alto nivel sobre el FMAM-9 en la COP31 y abogó por financiación en forma de donaciones para los países menos adelantados.",
+    "fr": "Le Président du Groupe des PMA a participé à la discussion de haut niveau sur le FEM-9 à la COP31 et plaidé pour un financement sous forme de dons pour les pays les moins avancés.",
+    "ru": "Председатель Группы НРС принял участие в дискуссии высокого уровня по ГЭФ-9 на КС-31 и призвал к финансированию наименее развитых стран на грантовой основе.",
+    "zh": "最不发达国家集团主席参加了COP31上关于全球环境基金第九增资期（GEF-9）的高级别讨论，并呼吁以赠款方式为最不发达国家提供资金。",
+    "ar": "شارك رئيس مجموعة أقل البلدان نمواً في المناقشة رفيعة المستوى بشأن التجديد التاسع لموارد مرفق البيئة العالمية (GEF-9) في مؤتمر الأطراف الحادي والثلاثين ودعا إلى تمويل قائم على المنح لأقل البلدان نمواً."
+   },
+   "url": "https://bsky.app/profile/ldcchairunfccc.bsky.social/post/3n2resqgfes2y",
+   "tracks": [
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-21T14:45:28-03:00",
+   "lang": "en",
+   "source_id": "bsky-ldcchairunfccc-bsky-social"
+  },
+  {
    "id": "bluesky-drsimevans.carbonbrief.org-20261120-china-australia-35by35",
    "kind": "post",
    "platform": "bluesky",
@@ -27424,11 +27452,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-21T13:44:25-03:00",
-  "label": "21 nov 2026, 13:44 (Brasília)",
+  "timestamp": "2026-11-21T14:45:28-03:00",
+  "label": "21 nov 2026, 14:45 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
