@@ -1,20 +1,20 @@
 {
  "schema": 1,
  "edition": "2026-11-22",
- "generated_at": "2026-11-22T17:58+03:00",
+ "generated_at": "2026-11-22T18:58+03:00",
  "window": {
   "from": "2026-11-19",
   "to": "2026-11-22",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-22T06:16:18-03:00",
-  "social_round": "2026-11-22T11:45:20-03:00",
+  "web_round": "2026-11-22T12:20:00-03:00",
+  "social_round": "2026-11-22T12:45:01-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 45,
-  "stories": 26,
+  "candidates": 46,
+  "stories": 27,
   "top": 8,
   "publishers": [
    "350.org",
@@ -63,6 +63,45 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-climate-home-news-2026-11-22-bulletin-day-13",
+    "section": "negotiations",
+    "score": 1.0,
+    "lead": {
+     "id": "climate-home-news-2026-11-22-bulletin-day-13",
+     "title": "COP31 Bulletin Day 13: Summit failure as many countries reject main deal",
+     "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
+     "publisher": "Climate Home News",
+     "author": "Joe Lo",
+     "published": "2026-11-22",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "Eletrificação",
+      "Adaptação",
+      "Perdas e danos",
+      "TAFF e fósseis"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Boletim do 13º dia da COP31: cerca de 90 países, incluindo a UE, a Noruega, o Panamá e as Ilhas Marshall, rejeitaram o rascunho da decisão de cobertura (\"Antalya Pact\"), segundo a Climate Home.",
+     "collected_at": "2026-11-22T12:20:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Day 13 bulletin: around 90 countries, including the EU, Norway, Panama and the Marshall Islands, rejected the draft cover decision (\"Antalya Pact\"), according to Climate Home.",
+      "es": "Boletín del día 13 de la COP31: alrededor de 90 países, entre ellos la UE, Noruega, Panamá y las Islas Marshall, rechazaron el borrador de la decisión de cobertura (\"Antalya Pact\"), según Climate Home.",
+      "fr": "Bulletin du 13e jour de la COP31 : environ 90 pays, dont l'UE, la Norvège, le Panama et les Îles Marshall, ont rejeté le projet de décision de couverture (« Antalya Pact »), selon Climate Home.",
+      "ru": "Бюллетень 13-го дня КС-31: около 90 стран, включая ЕС, Норвегию, Панаму и Маршалловы Острова, отклонили проект общего решения («Antalya Pact»), сообщает Climate Home.",
+      "zh": "COP31第13天简报：据Climate Home报道，包括欧盟、挪威、巴拿马和马绍尔群岛在内的约90个国家拒绝了封面决定草案（“Antalya Pact”）。新文本保留了电气化目标，但删除了转型脱离化石燃料的措辞，将适应资金目标推迟至通往COP32的路线图，并推迟有关IPCC的决定。议题：封面决定、电气化、适应、损失与损害、TAFF与化石燃料。",
+      "ar": "نشرة اليوم 13 من COP31: رفض نحو 90 بلدًا، من بينها الاتحاد الأوروبي والنرويج وبنما وجزر مارشال، مشروع القرار الشامل («Antalya Pact»)، وفقًا لـ Climate Home. يُبقي النص الجديد على هدف الكهربة لكنه يحذف لغة الانتقال بعيدًا عن الوقود الأحفوري، ويؤجل هدف تمويل التكيف إلى خارطة طريق نحو COP32، ويرجئ قرارات تتعلق بالهيئة…"
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-oil-change-international-2026-11-22-cover-decision",
     "section": "negotiations",
@@ -636,42 +675,6 @@
     ]
    },
    {
-    "id": "st-climate-home-news-2026-11-20-uganda-taff",
-    "section": "negotiations",
-    "score": 0.425,
-    "lead": {
-     "id": "climate-home-news-2026-11-20-uganda-taff",
-     "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
-     "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
-     "publisher": "Climate Home News",
-     "author": "Vivian Chime",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Transição justa"
-     ],
-     "content_type": "reporting",
-     "kind": "publication",
-     "description": "Jane Byaruhanga, da Autoridade de Petróleo de Uganda e negociadora de transição justa, diz que o roteiro de transição dos combustíveis fósseis liderado pelo Brasil (TAFF) é fundamental para o planejamento nacional, enquanto Uganda se prepara para exportar petróleo.",
-     "collected_at": "2026-11-21T12:25:00-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Jane Byaruhanga of the Petroleum Authority of Uganda, also a just transition negotiator, says the Brazil-led fossil fuel transition roadmap (TAFF) is key to national planning as Uganda gears up to export oil.",
-      "es": "Jane Byaruhanga, de la Autoridad de Petróleo de Uganda y negociadora de transición justa, afirma que la hoja de ruta de transición de los combustibles fósiles liderada por Brasil (TAFF) es fundamental para la planificación nacional, mientras Uganda se prepara para exportar petróleo.",
-      "fr": "Jane Byaruhanga, de l'Autorité pétrolière de l'Ouganda et négociatrice sur la transition juste, affirme que la feuille de route de transition des combustibles fossiles dirigée par le Brésil (TAFF) est essentielle pour la planification nationale, alors que l'Ouganda se prépare à exporter du pétrole.",
-      "ru": "Джейн Байарунгаль из Нефтяного управления Уганды, также участница переговоров по справедливому переходу, говорит, что возглавляемая Бразилией дорожная карта перехода от ископаемого топлива (TAFF) имеет ключевое значение для национального планирования, пока Уганда готовится к экспорту нефти.",
-      "zh": "乌干达石油管理局的Jane Byaruhanga（同时是公正转型谈判代表）表示，由巴西牵头的化石燃料转型路线图（TAFF）对国家规划至关重要，而乌干达正准备出口石油。报道呈现了对化石收入的依赖与该路线图在TAFF和公正转型议题上的张力。",
-      "ar": "قالت جين بيارونغاله من هيئة البترول في أوغندا، وهي أيضاً مفاوضة في ملف الانتقال العادل، إن خارطة الطريق للانتقال بعيداً عن الوقود الأحفوري بقيادة البرازيل (TAFF) أساسية للتخطيط الوطني بينما تستعد أوغندا لتصدير النفط."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [],
-    "publishers": [
-     "Climate Home News"
-    ]
-   },
-   {
     "id": "st-unfccc-2026-11-20-adaptation-knowledge-doc",
     "section": "negotiations",
     "score": 0.255,
@@ -851,6 +854,42 @@
    }
   ],
   "negotiations": [
+   {
+    "id": "st-climate-home-news-2026-11-20-uganda-taff",
+    "section": "negotiations",
+    "score": 0.425,
+    "lead": {
+     "id": "climate-home-news-2026-11-20-uganda-taff",
+     "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
+     "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+     "publisher": "Climate Home News",
+     "author": "Vivian Chime",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "TAFF e fósseis",
+      "Transição justa"
+     ],
+     "content_type": "reporting",
+     "kind": "publication",
+     "description": "Jane Byaruhanga, da Autoridade de Petróleo de Uganda e negociadora de transição justa, diz que o roteiro de transição dos combustíveis fósseis liderado pelo Brasil (TAFF) é fundamental para o planejamento nacional, enquanto Uganda se prepara para exportar petróleo.",
+     "collected_at": "2026-11-21T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Jane Byaruhanga of the Petroleum Authority of Uganda, also a just transition negotiator, says the Brazil-led fossil fuel transition roadmap (TAFF) is key to national planning as Uganda gears up to export oil.",
+      "es": "Jane Byaruhanga, de la Autoridad de Petróleo de Uganda y negociadora de transición justa, afirma que la hoja de ruta de transición de los combustibles fósiles liderada por Brasil (TAFF) es fundamental para la planificación nacional, mientras Uganda se prepara para exportar petróleo.",
+      "fr": "Jane Byaruhanga, de l'Autorité pétrolière de l'Ouganda et négociatrice sur la transition juste, affirme que la feuille de route de transition des combustibles fossiles dirigée par le Brésil (TAFF) est essentielle pour la planification nationale, alors que l'Ouganda se prépare à exporter du pétrole.",
+      "ru": "Джейн Байарунгаль из Нефтяного управления Уганды, также участница переговоров по справедливому переходу, говорит, что возглавляемая Бразилией дорожная карта перехода от ископаемого топлива (TAFF) имеет ключевое значение для национального планирования, пока Уганда готовится к экспорту нефти.",
+      "zh": "乌干达石油管理局的Jane Byaruhanga（同时是公正转型谈判代表）表示，由巴西牵头的化石燃料转型路线图（TAFF）对国家规划至关重要，而乌干达正准备出口石油。报道呈现了对化石收入的依赖与该路线图在TAFF和公正转型议题上的张力。",
+      "ar": "قالت جين بيارونغاله من هيئة البترول في أوغندا، وهي أيضاً مفاوضة في ملف الانتقال العادل، إن خارطة الطريق للانتقال بعيداً عن الوقود الأحفوري بقيادة البرازيل (TAFF) أساسية للتخطيط الوطني بينما تستعد أوغندا لتصدير النفط."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "Climate Home News"
+    ]
+   },
    {
     "id": "st-climate-home-news-2026-11-21-wu-disaster",
     "section": "negotiations",
@@ -1674,6 +1713,7 @@
    "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-20-uganda-taff",
    "climate-home-news-2026-11-21-bulletin-day-12",
+   "climate-home-news-2026-11-22-bulletin-day-13",
    "icc-2026-11-20-ministers-critical-juncture",
    "oil-change-international-2026-11-22-cover-decision",
    "oilchange-2026-11-20-eu-fingers",
