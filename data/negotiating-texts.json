@@ -191,9 +191,21 @@
       "change": "new",
       "document_id": "10000415",
       "event_id": "6949304e47eb4b13ca7213e4"
+    },
+    {
+      "at": "2026-11-22T03:56:07.579004Z",
+      "change": "new",
+      "document_id": "10000416",
+      "event_id": "aca6e1296bf56eb5cc58b909"
+    },
+    {
+      "at": "2026-11-22T03:56:07.579004Z",
+      "change": "new",
+      "document_id": "10000417",
+      "event_id": "4e9d5149dddb5176e01b9cc0"
     }
   ],
-  "checked_at": "2026-11-22T03:36:39.460307Z",
+  "checked_at": "2026-11-22T03:56:07.579004Z",
   "degraded": false,
   "documents": [
     {
@@ -593,6 +605,50 @@
       "source_url": "https://docs.unfccc.int/documents/10000409/metadata",
       "status": "unknown",
       "title": "Global goal on adaptation. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMP 21 6",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "c8316b680d2ade56080b99158cee9d100668ff44c4f7c15413b341d198da6351",
+          "url": "https://docs.unfccc.int/documents/10000416/files/en/AF%20Matters_DT_CMP21_report.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP)",
+      "document_code": "FCCC/KP/CMP/2026/L.6",
+      "id": "10000416",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-22T03:46:00.223117Z",
+      "published_at": "2026-11-22T03:30:00Z",
+      "session": "CMP 21",
+      "source_url": "https://docs.unfccc.int/documents/10000416/metadata",
+      "status": "unknown",
+      "title": "Report of the Adaptation Fund Board. Draft decision -/CMP.21. Proposal by the President",
+      "topic": "Adaptation",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(e)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "f403a01f8e1ab4837fcb1e0dc7253759cef18e65b60ecd2396cd0d39f7b07a5d",
+          "url": "https://docs.unfccc.int/documents/10000417/files/en/AF%20Matters_DT_CMA8_report.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.23",
+      "id": "10000417",
+      "metadata_version": "3.0",
+      "modified_at": "2026-11-22T03:55:33.361567Z",
+      "published_at": "2026-11-22T01:30:00Z",
+      "session": "CMA 1",
+      "source_url": "https://docs.unfccc.int/documents/10000417/metadata",
+      "status": "unknown",
+      "title": "Report of the Adaptation Fund Board. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Adaptation",
       "withdrawn": false
     },
@@ -4454,9 +4510,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 32,
-  "last_attempt": "2026-11-22T03:36:39.460307Z",
-  "last_success": "2026-11-22T03:36:39.460307Z",
+  "history_count": 34,
+  "last_attempt": "2026-11-22T03:56:07.579004Z",
+  "last_success": "2026-11-22T03:56:07.579004Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
