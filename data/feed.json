@@ -1,15 +1,16 @@
 {
  "schema": 1,
- "generated_at": "2026-11-22T12:20:00-03:00",
+ "generated_at": "2026-11-22T18:30:00-03:00",
  "round": {
-  "timestamp": "2026-11-22T12:20:00-03:00",
-  "label": "22 nov 2026, 12:20 (Brasília)",
+  "timestamp": "2026-11-22T18:30:00-03:00",
+  "label": "22 nov 2026, 18:30 (Brasília)",
   "sites_checked": 63,
-  "blocked": 17,
-  "new_items": 1,
-  "fetches": "63 de 60 (5 subagentes web-fetch)",
+  "blocked": 19,
+  "new_items": 3,
+  "fetches": "62 de 60 (5 subagentes web-fetch)",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
+   "web-africanclimatefoundation-org-news",
    "web-caneurope-org-news",
    "web-carbon-pulse-com-category-international",
    "web-chathamhouse-org-topics-climate-policy",
@@ -19,6 +20,7 @@
    "web-ember-energy-org-latest-insights",
    "web-eurodad-org-news",
    "web-foei-org-news",
+   "web-icccad-net-news",
    "web-iea-org-events-world-energy-outlook-2026",
    "web-ituc-csi-org-climate-justice",
    "web-odi-org-en-insights",
@@ -47,6 +49,87 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "350org-2026-11-22-no-final-outcome",
+   "institution": "350.org",
+   "type": "release",
+   "title": "No final outcome at COP31: Countries reject fossil fuel interests and empty climate finance promises",
+   "date": "2026-11-22",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/no-final-outcome-at-cop31-countries-reject-fossil-fuel-interests-and-empty-climate-finance-promises/",
+   "summary": "A 350.org comenta o encerramento da COP31 sem resultado final: os países rejeitaram o texto, que a organização associa a interesses dos combustíveis fósseis e a promessas vazias de finanças climáticas. Resumo baseado apenas no título da listagem.",
+   "summary_i18n": {
+    "en": "The 350.org comments on the close of COP31 without a final outcome: countries rejected the text, which the organization links to fossil fuel interests and empty climate finance promises. Summary based only on the listing title.",
+    "es": "350.org comenta el cierre de la COP31 sin resultado final: los países rechazaron el texto, que la organización vincula con intereses de los combustibles fósiles y promesas vacías de financiación climática. Resumen basado únicamente en el título del listado.",
+    "fr": "350.org commente la clôture de la COP31 sans résultat final : les pays ont rejeté le texte, que l'organisation associe aux intérêts des combustibles fossiles et à des promesses vides de financement climatique. Résumé fondé uniquement sur le titre de la liste.",
+    "ru": "350.org комментирует завершение COP31 без итогового результата: страны отвергли текст, который организация связывает с интересами ископаемого топлива и пустыми обещаниями по климатическому финансированию. Резюме основано только на заголовке из списка.",
+    "zh": "350.org 评论了 COP31 在没有最终成果的情况下结束:各国拒绝了该文本,该组织认为其反映了化石燃料利益以及空洞的气候融资承诺。摘要仅依据列表标题。",
+    "ar": "تعلّق منظمة 350.org على اختتام مؤتمر الأطراف الحادي والثلاثين (COP31) من دون نتيجة نهائية: رفضت البلدان النص الذي تربطه المنظمة بمصالح الوقود الأحفوري ووعود فارغة بشأن تمويل المناخ. الملخص مبني على عنوان القائمة فقط."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Finanças"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-22T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-2026-11-22-reject-cover-decision",
+   "institution": "350.org",
+   "type": "release",
+   "title": "350.org calls on governments to reject proposed COP31 deal",
+   "date": "2026-11-22",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/350org-calls-on-governments-to-reject-cop31-draft-cover-decision/",
+   "summary": "A 350.org pede que os governos rejeitem o rascunho da decisão de cobertura da COP31 em discussão. Resumo baseado apenas no título da listagem.",
+   "summary_i18n": {
+    "en": "The 350.org calls on governments to reject the draft COP31 cover decision under discussion. Summary based only on the listing title.",
+    "es": "350.org pide a los gobiernos que rechacen el proyecto de decisión de cobertura de la COP31 en debate. Resumen basado únicamente en el título del listado.",
+    "fr": "350.org demande aux gouvernements de rejeter le projet de décision de couverture de la COP31 en discussion. Résumé fondé uniquement sur le titre de la liste.",
+    "ru": "350.org призывает правительства отвергнуть обсуждаемый проект общего решения COP31. Резюме основано только на заголовке из списка.",
+    "zh": "350.org 呼吁各国政府拒绝正在讨论的 COP31 总括决定草案。摘要仅依据列表标题。",
+    "ar": "تدعو منظمة 350.org الحكومات إلى رفض مشروع المقرر الجامع لمؤتمر الأطراف الحادي والثلاثين (COP31) قيد المناقشة. الملخص مبني على عنوان القائمة فقط."
+   },
+   "tracks": [
+    "Decisão de cobertura"
+   ],
+   "quotes": [],
+   "first_seen": "2026-11-22T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
+  {
+   "id": "350org-2026-11-22-fossil-missing-ccs",
+   "institution": "350.org",
+   "type": "release",
+   "title": "New COP31 draft: fossil fuels still missing, but a gigatonne gift to carbon capture",
+   "date": "2026-11-22",
+   "authors": "350.org",
+   "url": "https://350.org/press-release/new-cop31-draft-fossil-fuels-still-missing-but-a-gigatonne-gift-to-carbon-capture/",
+   "summary": "A 350.org critica o novo rascunho da COP31, que continua sem mencionar os combustíveis fósseis e traz, segundo a organização, um presente de gigatonelada à captura de carbono. Resumo baseado apenas na chamada da listagem.",
+   "summary_i18n": {
+    "en": "The 350.org criticizes the new COP31 draft, which still fails to mention fossil fuels and, according to the organization, gives a gigatonne-scale gift to carbon capture. Summary based only on the listing excerpt.",
+    "es": "350.org critica el nuevo proyecto de la COP31, que sigue sin mencionar los combustibles fósiles y, según la organización, supone un regalo de una gigatonelada a la captura de carbono. Resumen basado únicamente en el extracto del listado.",
+    "fr": "La 350.org critique le nouveau projet de la COP31, qui omet toujours de mentionner les combustibles fossiles et, selon l'organisation, offre un cadeau d'une gigatonne au captage du carbone. Résumé fondé uniquement sur l'extrait de la liste.",
+    "ru": "350.org критикует новый проект COP31, в котором по-прежнему не упоминается ископаемое топливо и, по мнению организации, делается подарок масштаба гигатонны улавливанию углерода. Резюме основано только на отрывке из списка.",
+    "zh": "350.org 批评 COP31 新草案仍未提及化石燃料,并认为其向碳捕集送上了一份千兆吨级的“礼物”。摘要仅依据列表摘录。",
+    "ar": "تنتقد منظمة 350.org المسودة الجديدة لمؤتمر الأطراف الحادي والثلاثين (COP31) التي ما زالت لا تذكر الوقود الأحفوري وتمنح، بحسب المنظمة، هدية بحجم غيغاطن لاحتجاز الكربون. الملخص مبني على مقتطف القائمة فقط."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis",
+    "Mitigação e MWP"
+   ],
+   "quotes": [
+    "fails once again to mention fossil fuels"
+   ],
+   "first_seen": "2026-11-22T18:30:00-03:00",
+   "lang": "en",
+   "source_id": "web-350-org-press-release"
+  },
   {
    "id": "bluesky-enb.iisd.org-20261122-encerramento-mais-longa",
    "kind": "post",
@@ -27939,8 +28022,8 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-22T17:46:00-03:00",
-  "label": "22 nov 2026, 17:46 (Brasília)",
+  "timestamp": "2026-11-22T18:44:00-03:00",
+  "label": "22 nov 2026, 18:44 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
   "new_items": 0,
