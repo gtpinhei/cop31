@@ -179,9 +179,21 @@
       "change": "new",
       "document_id": "10000412",
       "event_id": "aadf99549cbd11b221dd516c"
+    },
+    {
+      "at": "2026-11-22T01:36:45.596820Z",
+      "change": "new",
+      "document_id": "10000414",
+      "event_id": "a1ad2624e6d9c3ce2037d788"
+    },
+    {
+      "at": "2026-11-22T01:36:45.596820Z",
+      "change": "new",
+      "document_id": "10000415",
+      "event_id": "6949304e47eb4b13ca7213e4"
     }
   ],
-  "checked_at": "2026-11-22T01:26:52.282344Z",
+  "checked_at": "2026-11-22T01:36:45.596820Z",
   "degraded": false,
   "documents": [
     {
@@ -849,6 +861,50 @@
       "source_url": "https://docs.unfccc.int/documents/10000397/metadata",
       "status": "unknown",
       "title": "Long-term climate finance. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Finance",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(f)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "0409a601cc645b1f37e67e3a52c48c0f51dd98d92ebb91b49c848d10f10b0e93",
+          "url": "https://docs.unfccc.int/documents/10000414/files/en/Art2.1c_DT_cma81.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.15",
+      "id": "10000414",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-22T01:32:23.458563Z",
+      "published_at": "2026-11-22T01:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000414/metadata",
+      "status": "unknown",
+      "title": "Matters relating to the implementation of Article 2, paragraph 1(c), of the Paris Agreement and its complementarity with Article 9 of the Paris Agreement.  Draft decision -/CMA.8 . Proposal by the President",
+      "topic": "Finance",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(g)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "a14e3f31c0c180c28028f072ead6ef261c8dda7a2813c6f4a3b1857b96cb47e9",
+          "url": "https://docs.unfccc.int/documents/10000415/files/en/CFWP_DT_cma83.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.17",
+      "id": "10000415",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-22T01:34:00.849647Z",
+      "published_at": "2026-11-22T01:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000415/metadata",
+      "status": "unknown",
+      "title": "Work programme on climate finance, including on Article 9, paragraph 1, of the Paris Agreement in the context of Article 9 of the Paris Agreement as a whole. Draft decision -/CMA.8. Proposal by the President",
       "topic": "Finance",
       "withdrawn": false
     },
@@ -4398,9 +4454,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 30,
-  "last_attempt": "2026-11-22T01:26:52.282344Z",
-  "last_success": "2026-11-22T01:26:52.282344Z",
+  "history_count": 32,
+  "last_attempt": "2026-11-22T01:36:45.596820Z",
+  "last_success": "2026-11-22T01:36:45.596820Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
