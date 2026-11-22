@@ -103,7 +103,7 @@
       "event_id": "ed68c621506a84368084d99d"
     }
   ],
-  "checked_at": "2026-11-22T22:36:32.244882Z",
+  "checked_at": "2026-11-22T23:16:25.333955Z",
   "degraded": false,
   "documents": [
     {
@@ -997,13 +997,7 @@
     },
     {
       "agenda": "CMA 8 5",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000398/files/en/UAE%20JTWP_DT_SB652.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i5.2",
       "id": "10000398",
@@ -4475,8 +4469,8 @@
     }
   ],
   "history_count": 17,
-  "last_attempt": "2026-11-22T22:36:32.244882Z",
-  "last_success": "2026-11-22T22:36:32.244882Z",
+  "last_attempt": "2026-11-22T23:16:25.333955Z",
+  "last_success": "2026-11-22T23:16:25.333955Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
