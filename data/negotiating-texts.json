@@ -161,9 +161,27 @@
       "change": "new",
       "document_id": "10000411",
       "event_id": "e1c3a0b7b1bda9d928617f28"
+    },
+    {
+      "at": "2026-11-22T01:26:52.282344Z",
+      "change": "revised",
+      "document_id": "10000407",
+      "event_id": "73c94046bb99cd495060c15e"
+    },
+    {
+      "at": "2026-11-22T01:26:52.282344Z",
+      "change": "new",
+      "document_id": "10000413",
+      "event_id": "b0a4b6be997767385fa9eba5"
+    },
+    {
+      "at": "2026-11-22T01:26:52.282344Z",
+      "change": "new",
+      "document_id": "10000412",
+      "event_id": "aadf99549cbd11b221dd516c"
     }
   ],
-  "checked_at": "2026-11-22T01:06:36.134280Z",
+  "checked_at": "2026-11-22T01:26:52.282344Z",
   "degraded": false,
   "documents": [
     {
@@ -4126,7 +4144,7 @@
       "attachments": [
         {
           "language": "en",
-          "sha256": "bd8689510e143771e4b34cf6273fbede140ce5c99d1eaf0e5bdf26e18ec2a7c3",
+          "sha256": "2ae155cc80f24643080befcc0b8b88255188029d1ac782a148f8afc347e8cc60",
           "url": "https://docs.unfccc.int/documents/10000407/files/en/FRLD_DT_COP313.pdf"
         }
       ],
@@ -4134,7 +4152,7 @@
       "document_code": "FCCC/CP/2026/L.13",
       "id": "10000407",
       "metadata_version": "4.0",
-      "modified_at": "2026-11-22T00:03:21.047685Z",
+      "modified_at": "2026-11-22T01:08:14.783730Z",
       "published_at": "2026-11-21T21:00:00Z",
       "session": "COP 31",
       "source_url": "https://docs.unfccc.int/documents/10000407/metadata",
@@ -4206,6 +4224,50 @@
       "source_url": "https://docs.unfccc.int/documents/10000411/metadata",
       "status": "unknown",
       "title": "Report of the Green Climate Fund to the Conference of the Parties and guidance to the Green Climate Fund. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "6d18bc535705e522a22dc75f8c5b204de882ecb12b02e23a1a075598fb88a897",
+          "url": "https://docs.unfccc.int/documents/10000412/files/en/GEF_DT_CMA%208_11%20%28c%29.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.20",
+      "id": "10000412",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-22T01:25:10.613903Z",
+      "published_at": "2026-11-21T23:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000412/metadata",
+      "status": "unknown",
+      "title": "Guidance to the Global Environment Facility. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "COP 31 8(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "601b6c0dc5d11ed5d6805073417ddfbdf8ea03f7b6469b4e843ce62a9b7e3e2b",
+          "url": "https://docs.unfccc.int/documents/10000413/files/en/GEF_DT_COP31_8%28d%29.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "FCCC/CP/2026/L.11",
+      "id": "10000413",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-22T01:18:42.207768Z",
+      "published_at": "2026-11-22T01:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000413/metadata",
+      "status": "unknown",
+      "title": "Report of the Global Environment Facility to the Conference of the Parties and guidance to the Global Environment Facility. Draft decision -/CP.31. Proposal by the President",
       "topic": "Other negotiations",
       "withdrawn": false
     },
@@ -4336,9 +4398,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 27,
-  "last_attempt": "2026-11-22T01:06:36.134280Z",
-  "last_success": "2026-11-22T01:06:36.134280Z",
+  "history_count": 30,
+  "last_attempt": "2026-11-22T01:26:52.282344Z",
+  "last_success": "2026-11-22T01:26:52.282344Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
