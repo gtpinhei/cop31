@@ -1,19 +1,19 @@
 {
  "schema": 1,
  "edition": "2026-11-22",
- "generated_at": "2026-11-22T11:59+03:00",
+ "generated_at": "2026-11-22T12:58+03:00",
  "window": {
   "from": "2026-11-19",
   "to": "2026-11-22",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-22T00:14:52-03:00",
-  "social_round": "2026-11-22T05:50:19-03:00",
+  "web_round": "2026-11-22T06:16:18-03:00",
+  "social_round": "2026-11-22T06:44:37-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 44,
+  "candidates": 45,
   "stories": 26,
   "top": 8,
   "publishers": [
@@ -63,6 +63,263 @@
  "provenance": "Links to public reporting and analysis collected by the COP31 Monitor from registry sources; descriptions are the monitor's short summaries of each source, translations are machine translations. Not original analysis.",
  "sections": {
   "essential": [
+   {
+    "id": "st-oil-change-international-2026-11-22-cover-decision",
+    "section": "negotiations",
+    "score": 0.644,
+    "lead": {
+     "id": "oil-change-international-2026-11-22-cover-decision",
+     "title": "New COP31 draft Cover Decision would be gift to fossil fuel industry",
+     "url": "https://oilchange.org/news/new-cop31-draft-cover-decision-would-be-gift-to-fossil-fuel-industry/",
+     "publisher": "Oil Change International",
+     "author": "Oil Change International",
+     "published": "2026-11-22",
+     "language": "en",
+     "tracks": [
+      "Decisão de cobertura",
+      "TAFF e fósseis"
+     ],
+     "content_type": "advocacy",
+     "kind": "publication",
+     "description": "A Oil Change International afirma que o novo rascunho da decisão de cobertura da COP31 seria um presente para a indústria de combustíveis fósseis e pede que os negociadores o rejeitem tal como está. Para a organização, o texto ameaça a transição global para longe dos combustíveis fósseis.",
+     "collected_at": "2026-11-22T06:16:18-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "Oil Change International says the new draft COP31 cover decision would be a gift to the fossil fuel industry and urges negotiators to reject it as it stands. In the organization's view, the text threatens the global transition away from fossil fuels. The item concerns the cover decision and the fossil fuel language.",
+      "es": "Oil Change International afirma que el nuevo borrador de la decisión de cobertura de la COP31 sería un regalo para la industria de los combustibles fósiles e insta a los negociadores a rechazarlo tal como está. Según la organización, el texto amenaza la transición mundial para abandonar los combustibles fósiles.",
+      "fr": "Oil Change International affirme que le nouveau projet de décision de couverture de la COP31 serait un cadeau à l'industrie des combustibles fossiles et exhorte les négociateurs à le rejeter en l'état. Selon l'organisation, le texte menace la transition mondiale hors des combustibles fossiles.",
+      "ru": "Oil Change International заявляет, что новый проект общего решения COP31 стал бы подарком индустрии ископаемого топлива, и призывает переговорщиков отклонить его в нынешнем виде. По мнению организации, текст угрожает глобальному переходу от ископаемого топлива.",
+      "zh": "Oil Change International 表示，COP31 新的总括决定草案将成为化石燃料行业的“礼物”，并敦促谈判代表按现状予以拒绝。该组织认为，该文本威胁全球摆脱化石燃料的转型。此项内容涉及总括决定和化石燃料措辞。",
+      "ar": "تقول منظمة Oil Change International إن مشروع القرار الشامل الجديد لمؤتمر COP31 سيكون هدية لصناعة الوقود الأحفوري، وتحث المفاوضين على رفضه بصيغته الحالية. وترى المنظمة أن النص يهدد الانتقال العالمي بعيدًا عن الوقود الأحفوري. ويتعلق هذا البند بالقرار الشامل وصياغات الوقود الأحفوري."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "oilchange-2026-11-20-eu-fingers",
+      "title": "EU Points Fingers While Failing to Deliver on Fossil Fuels and Climate Finance",
+      "url": "https://oilchange.org/news/eu-points-fingers-while-failing-to-deliver-on-fossil-fuels-and-climate-finance/",
+      "publisher": "Oil Change International",
+      "author": "Oil Change International",
+      "published": "2026-11-20",
+      "language": "en",
+      "tracks": [
+       "TAFF e fósseis",
+       "Finanças",
+       "Decisão de cobertura"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "Release de 20 de novembro da Oil Change International criticando a União Europeia por, segundo a organização, culpar outros enquanto não entrega nem a saída dos combustíveis fósseis nem financiamento climático, na reta final da decisão de cobertura.",
+      "collected_at": "2026-11-21T00:16:36-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Oil Change International release of 20 November criticising the European Union for, in the group's view, pointing fingers at others while failing to deliver on the transition away from fossil fuels and on climate finance, in the final stretch of the cover decision. It bears on the TAFF and finance tracks.",
+       "es": "Comunicado de Oil Change International del 20 de noviembre que critica a la Unión Europea por, según la organización, culpar a otros sin cumplir ni la transición para abandonar los combustibles fósiles ni la financiación climática, en la recta final de la decisión de cobertura. Se vincula a las vías TAFF y de finanzas.",
+       "fr": "Communiqué d'Oil Change International du 20 novembre critiquant l'Union européenne qui, selon l'organisation, accuse les autres sans tenir ses engagements sur la transition hors des combustibles fossiles ni sur le financement climatique, dans la dernière ligne droite de la décision de couverture.",
+       "ru": "Релиз Oil Change International от 20 ноября: организация критикует Европейский союз, который, по её мнению, обвиняет других, но не выполняет обязательств по отказу от ископаемого топлива и по климатическому финансированию, на финальном этапе работы над общим решением. Относится к направлениям TAFF и финансов.",
+       "zh": "Oil Change International 11月20日发布的新闻稿，批评欧盟在综合决定的最后阶段指责他人，却未能兑现逐步摆脱化石燃料和气候资金方面的承诺。涉及TAFF和资金议题。",
+       "ar": "بيان صحفي لمنظمة Oil Change International بتاريخ 20 نوفمبر ينتقد الاتحاد الأوروبي لأنه، بحسب المنظمة، يلقي اللوم على الآخرين دون الوفاء بالانتقال بعيداً عن الوقود الأحفوري ولا بالتمويل المناخي، في المرحلة الأخيرة من القرار الشامل. يتصل بمساري TAFF والتمويل."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "oilchange-2026-11-20-media-advisory",
+      "title": "Oil Change International COP31 Media Advisory",
+      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory/",
+      "publisher": "Oil Change International",
+      "author": "Oil Change International",
+      "published": "2026-11-20",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "TAFF e fósseis"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "Aviso à imprensa da Oil Change International de 20 de novembro sobre a decisão de cobertura da COP31 e a saída dos combustíveis fósseis (TAFF). Só a listagem foi lida; o conteúdo completo não foi verificado.",
+      "collected_at": "2026-11-21T00:16:36-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Oil Change International media advisory of 20 November on the COP31 cover decision and the transition away from fossil fuels (TAFF). Only the listing was read; the full content was not verified.",
+       "es": "Aviso a la prensa de Oil Change International del 20 de noviembre sobre la decisión de cobertura de la COP31 y la transición para abandonar los combustibles fósiles (TAFF). Solo se leyó el listado; no se verificó el contenido completo.",
+       "fr": "Avis aux médias d'Oil Change International du 20 novembre sur la décision de couverture de la COP31 et la transition hors des combustibles fossiles (TAFF). Seule la liste a été lue ; le contenu complet n'a pas été vérifié.",
+       "ru": "Медиа-анонс Oil Change International от 20 ноября об общем решении COP31 и отказе от ископаемого топлива (TAFF). Прочитан только список; полное содержание не проверялось.",
+       "zh": "Oil Change International 11月20日发布的媒体通告，涉及COP31综合决定和逐步摆脱化石燃料（TAFF）。仅阅读了列表，未核实全文。",
+       "ar": "إشعار إعلامي لمنظمة Oil Change International بتاريخ 20 نوفمبر بشأن القرار الشامل في COP31 والانتقال بعيداً عن الوقود الأحفوري (TAFF). قُرئت القائمة فقط ولم يُتحقق من المحتوى الكامل."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "wri-2026-11-20-weo-takeaways",
+      "title": "Is the Energy Crisis Accelerating the Clean Energy Transition? 4 Takeaways from the IEA's World Energy Outlook 2026",
+      "url": "https://www.wri.org/insights/energy-crisis-accelerating-clean-energy-transition-4-takeaways-ieas-world-energy-outlook",
+      "publisher": "WRI",
+      "author": "Nick Wayth",
+      "published": "2026-11-20",
+      "language": "en",
+      "tracks": [
+       "Eletrificação",
+       "TAFF e fósseis"
+      ],
+      "content_type": "analysis",
+      "kind": "publication",
+      "description": "Análise do WRI de 20 de novembro com quatro conclusões do World Energy Outlook 2026 da IEA, sobre se a crise energética global acelera a transição para energia limpa. Toca as trilhas de eletrificação e de transição para fora dos fósseis. Só a listagem foi lida.",
+      "collected_at": "2026-11-21T00:16:36-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "WRI analysis of 20 November with four takeaways from the IEA World Energy Outlook 2026 on whether the global energy crisis is accelerating the clean energy transition. It bears on the electrification and transition-away-from-fossil-fuels tracks. Only the listing was read.",
+       "es": "Análisis del WRI del 20 de noviembre con cuatro conclusiones del World Energy Outlook 2026 de la AIE sobre si la crisis energética mundial acelera la transición a la energía limpia. Se vincula a las vías de electrificación y de transición para abandonar los combustibles fósiles. Solo se leyó el listado.",
+       "fr": "Analyse du WRI du 20 novembre avec quatre enseignements du World Energy Outlook 2026 de l'AIE, sur la question de savoir si la crise énergétique mondiale accélère la transition vers l'énergie propre. Elle se rapporte aux volets électrification et transition hors des combustibles fossiles. Seule la liste a été lue.",
+       "ru": "Анализ WRI от 20 ноября с четырьмя выводами из World Energy Outlook 2026 МЭА о том, ускоряет ли глобальный энергетический кризис переход на чистую энергию. Относится к направлениям электрификации и отказа от ископаемого топлива. Прочитан только список.",
+       "zh": "世界资源研究所（WRI）11月20日的分析，从国际能源署《2026年世界能源展望》中提炼四点结论，探讨全球能源危机是否加速清洁能源转型。涉及电气化和摆脱化石燃料议题。仅阅读了列表。",
+       "ar": "تحليل لمعهد الموارد العالمية (WRI) بتاريخ 20 نوفمبر يتضمن أربع خلاصات من تقرير آفاق الطاقة العالمية 2026 الصادر عن وكالة الطاقة الدولية حول ما إذا كانت أزمة الطاقة العالمية تسرّع التحول إلى الطاقة النظيفة. يتصل بمساري التكهرب والانتقال بعيداً عن الوقود الأحفوري. قُرئت القائمة فقط."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "350org-2026-11-19-near-final-texts",
+      "title": "COP31 near-final texts an 'outrage' as fossil fuel transition eliminated",
+      "url": "https://350.org/press-release/cop31-near-final-texts-an-outrage-as-fossil-fuel-transition-eliminated/",
+      "publisher": "350.org",
+      "author": "350.org",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "TAFF e fósseis",
+       "Decisão de cobertura"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A 350.org reage aos textos quase finais da COP31 e afirma que eles eliminam a transição para longe dos combustíveis fósseis. A crítica incide sobre o rascunho da decisão de cobertura e o roteiro TAFF. Resumo baseado apenas no título e na chamada da listagem.",
+      "collected_at": "2026-11-20T06:40:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "350.org reacts to the near-final COP31 texts and says they eliminate the transition away from fossil fuels. The criticism targets the draft cover decision and the TAFF roadmap. Summary based only on the listing title and teaser.",
+       "es": "350.org reacciona a los textos casi finales de la COP31 y afirma que eliminan la transición para abandonar los combustibles fósiles. La crítica se dirige al borrador de la decisión de cobertura y a la hoja de ruta TAFF. Resumen basado solo en el título y el extracto del listado.",
+       "fr": "350.org réagit aux textes quasi finaux de la COP31 et affirme qu'ils éliminent la transition hors des combustibles fossiles. La critique vise le projet de décision de couverture et la feuille de route TAFF. Résumé fondé uniquement sur le titre et l'extrait de la liste.",
+       "ru": "350.org реагирует на почти окончательные тексты КС-31 и заявляет, что они устраняют переход от ископаемого топлива. Критика направлена на проект итогового решения и дорожную карту TAFF. Резюме основано только на заголовке и анонсе в списке.",
+       "zh": "350.org 对 COP31 近乎最终的文本作出回应,称其删除了摆脱化石燃料的转型内容。批评针对总括决定草案和 TAFF 路线图。摘要仅依据列表中的标题和导语。",
+       "ar": "ردّت 350.org على نصوص COP31 شبه النهائية، معتبرة أنها تحذف الانتقال بعيدًا عن الوقود الأحفوري. وينصبّ النقد على مسودة قرار التغطية وخارطة طريق TAFF. الملخص مبني على العنوان ومقتطف القائمة فقط."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "350org-2026-11-19-petition-200000",
+      "title": "COP31: 200,000+ people demand Australia and Türkiye deliver action to phase out fossil fuels",
+      "url": "https://350.org/press-release/cop31-200000-people-demand-australia-and-t%C3%BCrkiye-deliver-action-to-phase-out-fossil-fuels/",
+      "publisher": "350.org",
+      "author": "350.org",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "TAFF e fósseis",
+       "Presidência e anfitrião"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A 350.org informa que mais de 200 mil pessoas assinaram petição pedindo que Austrália e Türkiye, copresidências da COP31, entreguem ação para eliminar gradualmente os combustíveis fósseis. Liga-se à trilha TAFF e à pressão sobre as presidências. Resumo baseado apenas no título da listagem.",
+      "collected_at": "2026-11-20T06:40:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "350.org reports that more than 200,000 people signed a petition asking Australia and Türkiye, the COP31 co-presidencies, to deliver action to phase out fossil fuels. It bears on the TAFF track and on pressure on the presidencies. Summary based only on the listing title.",
+       "es": "350.org informa de que más de 200.000 personas firmaron una petición para que Australia y Türkiye, copresidencias de la COP31, adopten medidas para eliminar gradualmente los combustibles fósiles. Se vincula con la vía TAFF y con la presión sobre las presidencias. Resumen basado solo en el título del listado.",
+       "fr": "350.org indique que plus de 200 000 personnes ont signé une pétition demandant à l'Australie et à la Türkiye, coprésidences de la COP31, d'agir pour éliminer progressivement les combustibles fossiles. Cela concerne le volet TAFF et la pression sur les présidences. Résumé fondé uniquement sur le titre de la liste.",
+       "ru": "350.org сообщает, что более 200 000 человек подписали петицию с призывом к Австралии и Турции, сопредседателям КС-31, принять меры по поэтапному отказу от ископаемого топлива. Это относится к треку TAFF и давлению на председательство. Резюме основано только на заголовке в списке.",
+       "zh": "350.org 报告称,逾20万人签署请愿,要求 COP31 共同主席国澳大利亚和土耳其采取行动,逐步淘汰化石燃料。内容涉及 TAFF 议题及对主席国的压力。摘要仅依据列表标题。",
+       "ar": "أفادت 350.org بأن أكثر من 200 ألف شخص وقّعوا عريضة تطالب أستراليا وتركيا، الرئاستين المشتركتين لـ COP31، باتخاذ إجراءات للتخلص التدريجي من الوقود الأحفوري. ويتصل ذلك بمسار TAFF والضغط على الرئاستين. الملخص مبني على عنوان القائمة فقط."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "greenpeace-2026-11-19-iea-weo",
+      "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
+      "url": "https://www.greenpeace.org/international/press-release/87228/greenpeace-responds-iea-report-urgent-clean-energy-investment-protect-economic-energy-security/",
+      "publisher": "Greenpeace International",
+      "author": "Greenpeace International",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Eletrificação",
+       "TAFF e fósseis"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A Greenpeace reage ao novo relatório da AIE (World Energy Outlook 2026), que examina cenários após o choque de oferta de energia ligado à guerra no Irã. A organização pede investimento urgente em energia limpa para proteger o clima e a segurança econômica e energética.",
+      "collected_at": "2026-11-20T06:40:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Greenpeace responds to the new IEA report (World Energy Outlook 2026), which examines scenarios after the energy supply shock linked to the war in Iran. The organisation calls for urgent clean energy investment to protect the climate and economic and energy security.",
+       "es": "Greenpeace responde al nuevo informe de la AIE (World Energy Outlook 2026), que examina escenarios tras el shock de suministro energético vinculado a la guerra en Irán. La organización pide inversión urgente en energía limpia para proteger el clima y la seguridad económica y energética.",
+       "fr": "Greenpeace réagit au nouveau rapport de l'AIE (World Energy Outlook 2026), qui examine des scénarios après le choc d'approvisionnement énergétique lié à la guerre en Iran. L'organisation appelle à des investissements urgents dans l'énergie propre pour protéger le climat et la sécurité économique et énergétique.",
+       "ru": "Greenpeace реагирует на новый доклад МЭА (World Energy Outlook 2026), в котором рассматриваются сценарии после шока энергопоставок, связанного с войной в Иране. Организация призывает к срочным инвестициям в чистую энергию для защиты климата, экономической и энергетической безопасности.",
+       "zh": "绿色和平对国际能源署新报告(《2026年世界能源展望》)作出回应,该报告分析了与伊朗战争相关的能源供应冲击后的情景。该组织呼吁紧急投资清洁能源,以保护气候以及经济和能源安全。涉及电气化和化石燃料转型议题。摘要仅依据列表。",
+       "ar": "ردّت غرينبيس على تقرير وكالة الطاقة الدولية الجديد (World Energy Outlook 2026) الذي يدرس سيناريوهات ما بعد صدمة إمدادات الطاقة المرتبطة بالحرب في إيران. وتدعو المنظمة إلى استثمار عاجل في الطاقة النظيفة لحماية المناخ والأمن الاقتصادي والطاقي. ويتصل ذلك بمساري الكهربة والانتقال بعيدًا عن الوقود الأحفوري."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "oil-change-2026-11-19-cover-decision-response",
+      "title": "Draft COP31 Cover Decision – Oil Change International response",
+      "url": "https://oilchange.org/news/draft-cop31-cover-decision-oil-change-international-response/",
+      "publisher": "Oil Change International",
+      "author": "Oil Change International",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "TAFF e fósseis"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "A Oil Change International reage ao novo rascunho da decisão de cobertura da COP31, dizendo que o texto traz as digitais dos interesses fósseis e que quase todos os sinais de eliminação gradual dos combustíveis fósseis foram retirados.",
+      "collected_at": "2026-11-19T18:18:32-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Oil Change International responds to the new draft COP31 cover decision, saying the text bears the fingerprints of fossil fuel interests and that almost all fossil fuel phase-out signals have been removed. The reaction bears on the TAFF track and on the pressure on the Türkiye and Australia Presidencies.",
+       "es": "Oil Change International responde al nuevo borrador de la decisión de cobertura de la COP31, y afirma que el texto lleva las huellas de los intereses fósiles y que se han eliminado casi todas las señales de eliminación gradual de los combustibles fósiles.",
+       "fr": "Oil Change International réagit au nouveau projet de décision de couverture de la COP31, estimant que le texte porte l'empreinte des intérêts fossiles et que presque tous les signaux d'élimination progressive des combustibles fossiles ont été retirés.",
+       "ru": "Oil Change International комментирует новый проект итогового решения КС-31, заявляя, что в тексте видны следы интересов ископаемой отрасли и что почти все сигналы о поэтапном отказе от ископаемого топлива удалены. Реакция относится к направлению TAFF и к давлению на Председательства Турции и Австралии.",
+       "zh": "Oil Change International对COP31总括性决定的新草案作出回应,称文本带有化石燃料利益的“指纹”,几乎所有逐步淘汰化石燃料的信号都被删除。该回应涉及TAFF议题,以及对土耳其和澳大利亚两个主席团的压力。",
+       "ar": "تردّ Oil Change International على المسودة الجديدة للقرار الشامل لـ COP31، قائلةً إن النص يحمل بصمات مصالح الوقود الأحفوري وإن جميع إشارات التخلص التدريجي من الوقود الأحفوري تقريبًا قد أُزيلت. ويتصل الرد بمسار TAFF وبالضغط على رئاستي تركيا وأستراليا."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "oil-change-2026-11-19-media-advisory",
+      "title": "Oil Change International COP31 Media Advisory – November 19, 2026",
+      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-19-2026/",
+      "publisher": "Oil Change International",
+      "author": "Oil Change International",
+      "published": "2026-11-19",
+      "language": "en",
+      "tracks": [
+       "Decisão de cobertura",
+       "TAFF e fósseis"
+      ],
+      "content_type": "advocacy",
+      "kind": "publication",
+      "description": "O aviso à imprensa da Oil Change informa que um novo rascunho de texto era esperado na manhã de 19 de novembro e que cresce a pressão sobre as Presidências da Türkiye e da Austrália. O foco está na decisão de cobertura e na trilha de transição dos combustíveis fósseis.",
+      "collected_at": "2026-11-19T18:18:32-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "Oil Change's media advisory says a new draft text was expected on the morning of 19 November and that pressure is growing on the Türkiye and Australia Presidencies. The focus is on the cover decision and the fossil fuel transition track.",
+       "es": "El aviso a la prensa de Oil Change señala que se esperaba un nuevo borrador de texto en la mañana del 19 de noviembre y que crece la presión sobre las Presidencias de Turquía y Australia. El foco está en la decisión de cobertura y en la vía de transición de los combustibles fósiles.",
+       "fr": "L'avis aux médias d'Oil Change indique qu'un nouveau projet de texte était attendu le matin du 19 novembre et que la pression augmente sur les Présidences de la Türkiye et de l'Australie. L'accent est mis sur la décision de couverture et sur le volet de transition des combustibles fossiles.",
+       "ru": "В медиа-уведомлении Oil Change говорится, что новый проект текста ожидался утром 19 ноября и что давление на Председательства Турции и Австралии растёт. Акцент сделан на итоговом решении и направлении перехода от ископаемого топлива.",
+       "zh": "Oil Change的媒体通告称,新的案文草案预计于11月19日上午发布,对土耳其和澳大利亚两个主席团的压力正在加大。重点是总括性决定和化石燃料转型议题。",
+       "ar": "يذكر الإشعار الإعلامي لـ Oil Change أن مسودة نص جديدة كانت متوقعة صباح 19 نوفمبر وأن الضغط يتزايد على رئاستي تركيا وأستراليا. ويركّز على القرار الشامل ومسار الانتقال بعيدًا عن الوقود الأحفوري."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "350.org",
+     "Greenpeace International",
+     "Oil Change International",
+     "WRI"
+    ]
+   },
    {
     "id": "st-unfccc-2026-11-20-transparency-gst2",
     "section": "negotiations",
@@ -376,236 +633,6 @@
     "related": [],
     "publishers": [
      "Climate Home News"
-    ]
-   },
-   {
-    "id": "st-oilchange-2026-11-20-eu-fingers",
-    "section": "negotiations",
-    "score": 0.322,
-    "lead": {
-     "id": "oilchange-2026-11-20-eu-fingers",
-     "title": "EU Points Fingers While Failing to Deliver on Fossil Fuels and Climate Finance",
-     "url": "https://oilchange.org/news/eu-points-fingers-while-failing-to-deliver-on-fossil-fuels-and-climate-finance/",
-     "publisher": "Oil Change International",
-     "author": "Oil Change International",
-     "published": "2026-11-20",
-     "language": "en",
-     "tracks": [
-      "TAFF e fósseis",
-      "Finanças",
-      "Decisão de cobertura"
-     ],
-     "content_type": "advocacy",
-     "kind": "publication",
-     "description": "Release de 20 de novembro da Oil Change International criticando a União Europeia por, segundo a organização, culpar outros enquanto não entrega nem a saída dos combustíveis fósseis nem financiamento climático, na reta final da decisão de cobertura.",
-     "collected_at": "2026-11-21T00:16:36-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "Oil Change International release of 20 November criticising the European Union for, in the group's view, pointing fingers at others while failing to deliver on the transition away from fossil fuels and on climate finance, in the final stretch of the cover decision. It bears on the TAFF and finance tracks.",
-      "es": "Comunicado de Oil Change International del 20 de noviembre que critica a la Unión Europea por, según la organización, culpar a otros sin cumplir ni la transición para abandonar los combustibles fósiles ni la financiación climática, en la recta final de la decisión de cobertura. Se vincula a las vías TAFF y de finanzas.",
-      "fr": "Communiqué d'Oil Change International du 20 novembre critiquant l'Union européenne qui, selon l'organisation, accuse les autres sans tenir ses engagements sur la transition hors des combustibles fossiles ni sur le financement climatique, dans la dernière ligne droite de la décision de couverture.",
-      "ru": "Релиз Oil Change International от 20 ноября: организация критикует Европейский союз, который, по её мнению, обвиняет других, но не выполняет обязательств по отказу от ископаемого топлива и по климатическому финансированию, на финальном этапе работы над общим решением. Относится к направлениям TAFF и финансов.",
-      "zh": "Oil Change International 11月20日发布的新闻稿，批评欧盟在综合决定的最后阶段指责他人，却未能兑现逐步摆脱化石燃料和气候资金方面的承诺。涉及TAFF和资金议题。",
-      "ar": "بيان صحفي لمنظمة Oil Change International بتاريخ 20 نوفمبر ينتقد الاتحاد الأوروبي لأنه، بحسب المنظمة، يلقي اللوم على الآخرين دون الوفاء بالانتقال بعيداً عن الوقود الأحفوري ولا بالتمويل المناخي، في المرحلة الأخيرة من القرار الشامل. يتصل بمساري TAFF والتمويل."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "oilchange-2026-11-20-media-advisory",
-      "title": "Oil Change International COP31 Media Advisory",
-      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory/",
-      "publisher": "Oil Change International",
-      "author": "Oil Change International",
-      "published": "2026-11-20",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "Aviso à imprensa da Oil Change International de 20 de novembro sobre a decisão de cobertura da COP31 e a saída dos combustíveis fósseis (TAFF). Só a listagem foi lida; o conteúdo completo não foi verificado.",
-      "collected_at": "2026-11-21T00:16:36-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change International media advisory of 20 November on the COP31 cover decision and the transition away from fossil fuels (TAFF). Only the listing was read; the full content was not verified.",
-       "es": "Aviso a la prensa de Oil Change International del 20 de noviembre sobre la decisión de cobertura de la COP31 y la transición para abandonar los combustibles fósiles (TAFF). Solo se leyó el listado; no se verificó el contenido completo.",
-       "fr": "Avis aux médias d'Oil Change International du 20 novembre sur la décision de couverture de la COP31 et la transition hors des combustibles fossiles (TAFF). Seule la liste a été lue ; le contenu complet n'a pas été vérifié.",
-       "ru": "Медиа-анонс Oil Change International от 20 ноября об общем решении COP31 и отказе от ископаемого топлива (TAFF). Прочитан только список; полное содержание не проверялось.",
-       "zh": "Oil Change International 11月20日发布的媒体通告，涉及COP31综合决定和逐步摆脱化石燃料（TAFF）。仅阅读了列表，未核实全文。",
-       "ar": "إشعار إعلامي لمنظمة Oil Change International بتاريخ 20 نوفمبر بشأن القرار الشامل في COP31 والانتقال بعيداً عن الوقود الأحفوري (TAFF). قُرئت القائمة فقط ولم يُتحقق من المحتوى الكامل."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "wri-2026-11-20-weo-takeaways",
-      "title": "Is the Energy Crisis Accelerating the Clean Energy Transition? 4 Takeaways from the IEA's World Energy Outlook 2026",
-      "url": "https://www.wri.org/insights/energy-crisis-accelerating-clean-energy-transition-4-takeaways-ieas-world-energy-outlook",
-      "publisher": "WRI",
-      "author": "Nick Wayth",
-      "published": "2026-11-20",
-      "language": "en",
-      "tracks": [
-       "Eletrificação",
-       "TAFF e fósseis"
-      ],
-      "content_type": "analysis",
-      "kind": "publication",
-      "description": "Análise do WRI de 20 de novembro com quatro conclusões do World Energy Outlook 2026 da IEA, sobre se a crise energética global acelera a transição para energia limpa. Toca as trilhas de eletrificação e de transição para fora dos fósseis. Só a listagem foi lida.",
-      "collected_at": "2026-11-21T00:16:36-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "WRI analysis of 20 November with four takeaways from the IEA World Energy Outlook 2026 on whether the global energy crisis is accelerating the clean energy transition. It bears on the electrification and transition-away-from-fossil-fuels tracks. Only the listing was read.",
-       "es": "Análisis del WRI del 20 de noviembre con cuatro conclusiones del World Energy Outlook 2026 de la AIE sobre si la crisis energética mundial acelera la transición a la energía limpia. Se vincula a las vías de electrificación y de transición para abandonar los combustibles fósiles. Solo se leyó el listado.",
-       "fr": "Analyse du WRI du 20 novembre avec quatre enseignements du World Energy Outlook 2026 de l'AIE, sur la question de savoir si la crise énergétique mondiale accélère la transition vers l'énergie propre. Elle se rapporte aux volets électrification et transition hors des combustibles fossiles. Seule la liste a été lue.",
-       "ru": "Анализ WRI от 20 ноября с четырьмя выводами из World Energy Outlook 2026 МЭА о том, ускоряет ли глобальный энергетический кризис переход на чистую энергию. Относится к направлениям электрификации и отказа от ископаемого топлива. Прочитан только список.",
-       "zh": "世界资源研究所（WRI）11月20日的分析，从国际能源署《2026年世界能源展望》中提炼四点结论，探讨全球能源危机是否加速清洁能源转型。涉及电气化和摆脱化石燃料议题。仅阅读了列表。",
-       "ar": "تحليل لمعهد الموارد العالمية (WRI) بتاريخ 20 نوفمبر يتضمن أربع خلاصات من تقرير آفاق الطاقة العالمية 2026 الصادر عن وكالة الطاقة الدولية حول ما إذا كانت أزمة الطاقة العالمية تسرّع التحول إلى الطاقة النظيفة. يتصل بمساري التكهرب والانتقال بعيداً عن الوقود الأحفوري. قُرئت القائمة فقط."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "350org-2026-11-19-near-final-texts",
-      "title": "COP31 near-final texts an 'outrage' as fossil fuel transition eliminated",
-      "url": "https://350.org/press-release/cop31-near-final-texts-an-outrage-as-fossil-fuel-transition-eliminated/",
-      "publisher": "350.org",
-      "author": "350.org",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "TAFF e fósseis",
-       "Decisão de cobertura"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A 350.org reage aos textos quase finais da COP31 e afirma que eles eliminam a transição para longe dos combustíveis fósseis. A crítica incide sobre o rascunho da decisão de cobertura e o roteiro TAFF. Resumo baseado apenas no título e na chamada da listagem.",
-      "collected_at": "2026-11-20T06:40:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "350.org reacts to the near-final COP31 texts and says they eliminate the transition away from fossil fuels. The criticism targets the draft cover decision and the TAFF roadmap. Summary based only on the listing title and teaser.",
-       "es": "350.org reacciona a los textos casi finales de la COP31 y afirma que eliminan la transición para abandonar los combustibles fósiles. La crítica se dirige al borrador de la decisión de cobertura y a la hoja de ruta TAFF. Resumen basado solo en el título y el extracto del listado.",
-       "fr": "350.org réagit aux textes quasi finaux de la COP31 et affirme qu'ils éliminent la transition hors des combustibles fossiles. La critique vise le projet de décision de couverture et la feuille de route TAFF. Résumé fondé uniquement sur le titre et l'extrait de la liste.",
-       "ru": "350.org реагирует на почти окончательные тексты КС-31 и заявляет, что они устраняют переход от ископаемого топлива. Критика направлена на проект итогового решения и дорожную карту TAFF. Резюме основано только на заголовке и анонсе в списке.",
-       "zh": "350.org 对 COP31 近乎最终的文本作出回应,称其删除了摆脱化石燃料的转型内容。批评针对总括决定草案和 TAFF 路线图。摘要仅依据列表中的标题和导语。",
-       "ar": "ردّت 350.org على نصوص COP31 شبه النهائية، معتبرة أنها تحذف الانتقال بعيدًا عن الوقود الأحفوري. وينصبّ النقد على مسودة قرار التغطية وخارطة طريق TAFF. الملخص مبني على العنوان ومقتطف القائمة فقط."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "350org-2026-11-19-petition-200000",
-      "title": "COP31: 200,000+ people demand Australia and Türkiye deliver action to phase out fossil fuels",
-      "url": "https://350.org/press-release/cop31-200000-people-demand-australia-and-t%C3%BCrkiye-deliver-action-to-phase-out-fossil-fuels/",
-      "publisher": "350.org",
-      "author": "350.org",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "TAFF e fósseis",
-       "Presidência e anfitrião"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A 350.org informa que mais de 200 mil pessoas assinaram petição pedindo que Austrália e Türkiye, copresidências da COP31, entreguem ação para eliminar gradualmente os combustíveis fósseis. Liga-se à trilha TAFF e à pressão sobre as presidências. Resumo baseado apenas no título da listagem.",
-      "collected_at": "2026-11-20T06:40:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "350.org reports that more than 200,000 people signed a petition asking Australia and Türkiye, the COP31 co-presidencies, to deliver action to phase out fossil fuels. It bears on the TAFF track and on pressure on the presidencies. Summary based only on the listing title.",
-       "es": "350.org informa de que más de 200.000 personas firmaron una petición para que Australia y Türkiye, copresidencias de la COP31, adopten medidas para eliminar gradualmente los combustibles fósiles. Se vincula con la vía TAFF y con la presión sobre las presidencias. Resumen basado solo en el título del listado.",
-       "fr": "350.org indique que plus de 200 000 personnes ont signé une pétition demandant à l'Australie et à la Türkiye, coprésidences de la COP31, d'agir pour éliminer progressivement les combustibles fossiles. Cela concerne le volet TAFF et la pression sur les présidences. Résumé fondé uniquement sur le titre de la liste.",
-       "ru": "350.org сообщает, что более 200 000 человек подписали петицию с призывом к Австралии и Турции, сопредседателям КС-31, принять меры по поэтапному отказу от ископаемого топлива. Это относится к треку TAFF и давлению на председательство. Резюме основано только на заголовке в списке.",
-       "zh": "350.org 报告称,逾20万人签署请愿,要求 COP31 共同主席国澳大利亚和土耳其采取行动,逐步淘汰化石燃料。内容涉及 TAFF 议题及对主席国的压力。摘要仅依据列表标题。",
-       "ar": "أفادت 350.org بأن أكثر من 200 ألف شخص وقّعوا عريضة تطالب أستراليا وتركيا، الرئاستين المشتركتين لـ COP31، باتخاذ إجراءات للتخلص التدريجي من الوقود الأحفوري. ويتصل ذلك بمسار TAFF والضغط على الرئاستين. الملخص مبني على عنوان القائمة فقط."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "greenpeace-2026-11-19-iea-weo",
-      "title": "Greenpeace responds to IEA new report, calls for urgent clean energy investment to protect the planet and people's economic and energy security",
-      "url": "https://www.greenpeace.org/international/press-release/87228/greenpeace-responds-iea-report-urgent-clean-energy-investment-protect-economic-energy-security/",
-      "publisher": "Greenpeace International",
-      "author": "Greenpeace International",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Eletrificação",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A Greenpeace reage ao novo relatório da AIE (World Energy Outlook 2026), que examina cenários após o choque de oferta de energia ligado à guerra no Irã. A organização pede investimento urgente em energia limpa para proteger o clima e a segurança econômica e energética.",
-      "collected_at": "2026-11-20T06:40:00-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Greenpeace responds to the new IEA report (World Energy Outlook 2026), which examines scenarios after the energy supply shock linked to the war in Iran. The organisation calls for urgent clean energy investment to protect the climate and economic and energy security.",
-       "es": "Greenpeace responde al nuevo informe de la AIE (World Energy Outlook 2026), que examina escenarios tras el shock de suministro energético vinculado a la guerra en Irán. La organización pide inversión urgente en energía limpia para proteger el clima y la seguridad económica y energética.",
-       "fr": "Greenpeace réagit au nouveau rapport de l'AIE (World Energy Outlook 2026), qui examine des scénarios après le choc d'approvisionnement énergétique lié à la guerre en Iran. L'organisation appelle à des investissements urgents dans l'énergie propre pour protéger le climat et la sécurité économique et énergétique.",
-       "ru": "Greenpeace реагирует на новый доклад МЭА (World Energy Outlook 2026), в котором рассматриваются сценарии после шока энергопоставок, связанного с войной в Иране. Организация призывает к срочным инвестициям в чистую энергию для защиты климата, экономической и энергетической безопасности.",
-       "zh": "绿色和平对国际能源署新报告(《2026年世界能源展望》)作出回应,该报告分析了与伊朗战争相关的能源供应冲击后的情景。该组织呼吁紧急投资清洁能源,以保护气候以及经济和能源安全。涉及电气化和化石燃料转型议题。摘要仅依据列表。",
-       "ar": "ردّت غرينبيس على تقرير وكالة الطاقة الدولية الجديد (World Energy Outlook 2026) الذي يدرس سيناريوهات ما بعد صدمة إمدادات الطاقة المرتبطة بالحرب في إيران. وتدعو المنظمة إلى استثمار عاجل في الطاقة النظيفة لحماية المناخ والأمن الاقتصادي والطاقي. ويتصل ذلك بمساري الكهربة والانتقال بعيدًا عن الوقود الأحفوري."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "oil-change-2026-11-19-cover-decision-response",
-      "title": "Draft COP31 Cover Decision – Oil Change International response",
-      "url": "https://oilchange.org/news/draft-cop31-cover-decision-oil-change-international-response/",
-      "publisher": "Oil Change International",
-      "author": "Oil Change International",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "A Oil Change International reage ao novo rascunho da decisão de cobertura da COP31, dizendo que o texto traz as digitais dos interesses fósseis e que quase todos os sinais de eliminação gradual dos combustíveis fósseis foram retirados.",
-      "collected_at": "2026-11-19T18:18:32-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change International responds to the new draft COP31 cover decision, saying the text bears the fingerprints of fossil fuel interests and that almost all fossil fuel phase-out signals have been removed. The reaction bears on the TAFF track and on the pressure on the Türkiye and Australia Presidencies.",
-       "es": "Oil Change International responde al nuevo borrador de la decisión de cobertura de la COP31, y afirma que el texto lleva las huellas de los intereses fósiles y que se han eliminado casi todas las señales de eliminación gradual de los combustibles fósiles.",
-       "fr": "Oil Change International réagit au nouveau projet de décision de couverture de la COP31, estimant que le texte porte l'empreinte des intérêts fossiles et que presque tous les signaux d'élimination progressive des combustibles fossiles ont été retirés.",
-       "ru": "Oil Change International комментирует новый проект итогового решения КС-31, заявляя, что в тексте видны следы интересов ископаемой отрасли и что почти все сигналы о поэтапном отказе от ископаемого топлива удалены. Реакция относится к направлению TAFF и к давлению на Председательства Турции и Австралии.",
-       "zh": "Oil Change International对COP31总括性决定的新草案作出回应,称文本带有化石燃料利益的“指纹”,几乎所有逐步淘汰化石燃料的信号都被删除。该回应涉及TAFF议题,以及对土耳其和澳大利亚两个主席团的压力。",
-       "ar": "تردّ Oil Change International على المسودة الجديدة للقرار الشامل لـ COP31، قائلةً إن النص يحمل بصمات مصالح الوقود الأحفوري وإن جميع إشارات التخلص التدريجي من الوقود الأحفوري تقريبًا قد أُزيلت. ويتصل الرد بمسار TAFF وبالضغط على رئاستي تركيا وأستراليا."
-      },
-      "description_i18n_method": "machine"
-     },
-     {
-      "id": "oil-change-2026-11-19-media-advisory",
-      "title": "Oil Change International COP31 Media Advisory – November 19, 2026",
-      "url": "https://oilchange.org/news/oil-change-international-cop31-media-advisory-november-19-2026/",
-      "publisher": "Oil Change International",
-      "author": "Oil Change International",
-      "published": "2026-11-19",
-      "language": "en",
-      "tracks": [
-       "Decisão de cobertura",
-       "TAFF e fósseis"
-      ],
-      "content_type": "advocacy",
-      "kind": "publication",
-      "description": "O aviso à imprensa da Oil Change informa que um novo rascunho de texto era esperado na manhã de 19 de novembro e que cresce a pressão sobre as Presidências da Türkiye e da Austrália. O foco está na decisão de cobertura e na trilha de transição dos combustíveis fósseis.",
-      "collected_at": "2026-11-19T18:18:32-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "Oil Change's media advisory says a new draft text was expected on the morning of 19 November and that pressure is growing on the Türkiye and Australia Presidencies. The focus is on the cover decision and the fossil fuel transition track.",
-       "es": "El aviso a la prensa de Oil Change señala que se esperaba un nuevo borrador de texto en la mañana del 19 de noviembre y que crece la presión sobre las Presidencias de Turquía y Australia. El foco está en la decisión de cobertura y en la vía de transición de los combustibles fósiles.",
-       "fr": "L'avis aux médias d'Oil Change indique qu'un nouveau projet de texte était attendu le matin du 19 novembre et que la pression augmente sur les Présidences de la Türkiye et de l'Australie. L'accent est mis sur la décision de couverture et sur le volet de transition des combustibles fossiles.",
-       "ru": "В медиа-уведомлении Oil Change говорится, что новый проект текста ожидался утром 19 ноября и что давление на Председательства Турции и Австралии растёт. Акцент сделан на итоговом решении и направлении перехода от ископаемого топлива.",
-       "zh": "Oil Change的媒体通告称,新的案文草案预计于11月19日上午发布,对土耳其和澳大利亚两个主席团的压力正在加大。重点是总括性决定和化石燃料转型议题。",
-       "ar": "يذكر الإشعار الإعلامي لـ Oil Change أن مسودة نص جديدة كانت متوقعة صباح 19 نوفمبر وأن الضغط يتزايد على رئاستي تركيا وأستراليا. ويركّز على القرار الشامل ومسار الانتقال بعيدًا عن الوقود الأحفوري."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "350.org",
-     "Greenpeace International",
-     "Oil Change International",
-     "WRI"
     ]
    },
    {
@@ -1648,6 +1675,7 @@
    "climate-home-news-2026-11-20-uganda-taff",
    "climate-home-news-2026-11-21-bulletin-day-12",
    "icc-2026-11-20-ministers-critical-juncture",
+   "oil-change-international-2026-11-22-cover-decision",
    "oilchange-2026-11-20-eu-fingers",
    "unfccc-2026-11-20-adaptation-knowledge-doc",
    "unfccc-2026-11-20-transparency-gst2"
