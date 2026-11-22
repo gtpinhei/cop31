@@ -48,6 +48,90 @@
  ],
  "items": [
   {
+   "id": "bluesky-350.org-20261121-draft-fosseis-ccus",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "350.org",
+   "institution": "350.org",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "23:14",
+   "text": "[resumo da fonte] New COP31 draft omits fossil fuels and keeps a CCUS scale-up goal; press release linked",
+   "summary": "A 350.org diz que o novo rascunho da COP31 continua sem menção a combustíveis fósseis e mantém uma meta de ampliação de CCUS.",
+   "summary_i18n": {
+    "en": "350.org says the new COP31 draft still omits fossil fuels and keeps a goal to scale up CCUS.",
+    "es": "350.org afirma que el nuevo borrador de la COP31 sigue sin mencionar los combustibles fósiles y mantiene una meta de ampliación de CCUS.",
+    "fr": "350.org indique que le nouveau projet de la COP31 omet toujours les combustibles fossiles et conserve un objectif de déploiement du CCUS.",
+    "ru": "350.org заявляет, что в новом проекте COP31 по-прежнему нет упоминания ископаемого топлива, но сохранена цель наращивания CCUS.",
+    "zh": "350.org称，COP31新草案仍未提及化石燃料，并保留了扩大CCUS规模的目标。",
+    "ar": "تقول 350.org إن مسودة COP31 الجديدة لا تزال تغفل الوقود الأحفوري وتُبقي على هدف التوسع في احتجاز الكربون واستخدامه وتخزينه (CCUS)."
+   },
+   "url": "https://bsky.app/profile/350.org/post/3n2uk6ywlw22p",
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T05:50:19-03:00",
+   "lang": "en",
+   "source_id": "bsky-350-org"
+  },
+  {
+   "id": "bluesky-350.org-20261121-tempo-esgota",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "350.org",
+   "institution": "350.org",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "12:17",
+   "text": "[resumo da fonte] Talks overrunning; fossil fuel transition language removed from the latest draft; blog linked",
+   "summary": "A 350.org afirma que as negociações da COP31 estão estourando o prazo e que a linguagem sobre a transição dos combustíveis fósseis saiu do último rascunho.",
+   "summary_i18n": {
+    "en": "350.org says the COP31 talks are overrunning and that fossil fuel transition language has been removed from the latest draft.",
+    "es": "350.org afirma que las negociaciones de la COP31 se prolongan y que el lenguaje sobre la transición de los combustibles fósiles se eliminó del último borrador.",
+    "fr": "350.org affirme que les négociations de la COP31 s'éternisent et que le langage sur la transition hors des combustibles fossiles a été retiré du dernier projet.",
+    "ru": "350.org заявляет, что переговоры на COP31 затягиваются, а формулировки о переходе от ископаемого топлива удалены из последнего проекта.",
+    "zh": "350.org称，COP31谈判超时，化石燃料转型的措辞已从最新草案中删除。",
+    "ar": "تقول 350.org إن مفاوضات COP31 تتجاوز موعدها وإن صياغة الانتقال بعيدًا عن الوقود الأحفوري حُذفت من أحدث مسودة."
+   },
+   "url": "https://bsky.app/profile/350.org/post/3n2tfi2kcsc2s",
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T05:50:19-03:00",
+   "lang": "en",
+   "source_id": "bsky-350-org"
+  },
+  {
+   "id": "bluesky-greenpeace.org-20261121-poluidores-pagam",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "greenpeace.org",
+   "institution": "Greenpeace International",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "09:05",
+   "text": "[resumo da fonte] Climate crisis harms workers' health and livelihoods; leaders should make polluters pay as COP31 wraps up",
+   "summary": "O Greenpeace afirma que a crise climática prejudica a saúde e o sustento dos trabalhadores e que os líderes devem fazer os poluidores pagarem enquanto a COP31 chega ao fim.",
+   "summary_i18n": {
+    "en": "Greenpeace says the climate crisis harms workers' health and livelihoods and that leaders should make polluters pay as COP31 wraps up.",
+    "es": "Greenpeace afirma que la crisis climática perjudica la salud y los medios de vida de los trabajadores y que los líderes deben hacer pagar a los contaminadores mientras la COP31 llega a su fin.",
+    "fr": "Greenpeace affirme que la crise climatique nuit à la santé et aux moyens de subsistance des travailleurs et que les dirigeants doivent faire payer les pollueurs alors que la COP31 touche à sa fin.",
+    "ru": "Greenpeace заявляет, что климатический кризис вредит здоровью и средствам к существованию работников и что лидеры должны заставить загрязнителей платить, пока COP31 подходит к концу.",
+    "zh": "绿色和平称，气候危机损害工人的健康和生计，COP31临近尾声之际，领导人应让污染者付费。",
+    "ar": "تقول غرينبيس إن أزمة المناخ تضر بصحة العمال وسبل عيشهم وإن على القادة جعل الملوِّثين يدفعون مع اقتراب COP31 من نهايتها."
+   },
+   "url": "https://bsky.app/profile/greenpeace.org/post/3n2t2rc5ryc2r",
+   "tracks": [
+    "Finanças",
+    "Transição justa"
+   ],
+   "first_seen": "2026-11-22T05:50:19-03:00",
+   "lang": "en",
+   "source_id": "bsky-greenpeace-org"
+  },
+  {
    "id": "climate-home-news-2026-11-21-wu-disaster",
    "institution": "Climate Home News",
    "type": "opinião",
@@ -27480,11 +27564,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-22T04:44:03-03:00",
-  "label": "22 nov 2026, 04:44 (Brasília)",
-  "accounts_checked": 8,
-  "blocked": 22,
-  "new_items": 0,
+  "timestamp": "2026-11-22T05:50:19-03:00",
+  "label": "22 nov 2026, 05:50 (Brasília)",
+  "accounts_checked": 32,
+  "blocked": 51,
+  "new_items": 3,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
