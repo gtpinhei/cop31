@@ -1,14 +1,14 @@
 {
  "schema": 1,
  "edition": "2026-11-22",
- "generated_at": "2026-11-22T04:57+03:00",
+ "generated_at": "2026-11-22T06:58+03:00",
  "window": {
   "from": "2026-11-19",
   "to": "2026-11-22",
   "basis": "publisher date"
  },
  "collection": {
-  "web_round": "2026-11-21T18:16:19-03:00",
+  "web_round": "2026-11-22T00:14:52-03:00",
   "social_round": "2026-11-21T22:44:18-03:00",
   "stale": false
  },
@@ -51,7 +51,7 @@
    {
     "publisher": "Política por Inteiro",
     "outcome": "blocked",
-    "note": "URL devolve artigo de 2022, não listagem"
+    "note": "artigo de 2022, sem listagem"
    },
    {
     "publisher": "Third World Network (TWN)",
