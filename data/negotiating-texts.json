@@ -125,9 +125,21 @@
       "change": "new",
       "document_id": "10000404",
       "event_id": "0bcc8269cce629af91bb17f9"
+    },
+    {
+      "at": "2026-11-22T00:08:02.360777Z",
+      "change": "new",
+      "document_id": "10000407",
+      "event_id": "294d1747df32afbb044e0719"
+    },
+    {
+      "at": "2026-11-22T00:08:02.360777Z",
+      "change": "new",
+      "document_id": "10000408",
+      "event_id": "780c5166c6406c1f7e1e6b9a"
     }
   ],
-  "checked_at": "2026-11-21T23:57:04.033766Z",
+  "checked_at": "2026-11-22T00:08:02.360777Z",
   "degraded": false,
   "documents": [
     {
@@ -895,13 +907,7 @@
     },
     {
       "agenda": "CMA 8 5",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000369/files/en/UAE%20JTWP_DT_SB651.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.CMA8.i5.1",
       "id": "10000369",
@@ -3310,13 +3316,7 @@
     },
     {
       "agenda": "COP 31 3(b); CMA 8 3(b)",
-      "attachments": [
-        {
-          "language": "en",
-          "sha256": null,
-          "url": "https://docs.unfccc.int/documents/10000367/files/en/ACE_DT_SBI653.pdf"
-        }
-      ],
+      "attachments": [],
       "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
       "document_code": "DT.COP31.i3b_CMA8.i3b.1",
       "id": "10000367",
@@ -4054,6 +4054,50 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 8(e)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "bd8689510e143771e4b34cf6273fbede140ce5c99d1eaf0e5bdf26e18ec2a7c3",
+          "url": "https://docs.unfccc.int/documents/10000407/files/en/FRLD_DT_COP313.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP); Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/CP/2026/L.13",
+      "id": "10000407",
+      "metadata_version": "4.0",
+      "modified_at": "2026-11-22T00:03:21.047685Z",
+      "published_at": "2026-11-21T21:00:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000407/metadata",
+      "status": "unknown",
+      "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 11(d)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "5286837c0bdf16468106047036ad7cc69f48bf5388248d68df207bce6d5f2957",
+          "url": "https://docs.unfccc.int/documents/10000408/files/en/FRLD_DT_CMA8.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.22",
+      "id": "10000408",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-22T00:00:45.277845Z",
+      "published_at": "2026-11-21T23:00:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000408/metadata",
+      "status": "unknown",
+      "title": "Report of the Fund for responding to Loss and Damage and guidance to the Fund for responding to Loss and Damage. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -4180,9 +4224,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 21,
-  "last_attempt": "2026-11-21T23:57:04.033766Z",
-  "last_success": "2026-11-21T23:57:04.033766Z",
+  "history_count": 23,
+  "last_attempt": "2026-11-22T00:08:02.360777Z",
+  "last_success": "2026-11-22T00:08:02.360777Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
