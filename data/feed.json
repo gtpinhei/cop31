@@ -48,6 +48,203 @@
  ],
  "items": [
   {
+   "id": "bluesky-enb.iisd.org-20261122-encerramento-mais-longa",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "13:36",
+   "text": "[resumo da fonte] COP31 - officially the longest COP ever - adjourns at 7.33pm, almost 50 hours after its scheduled end time.",
+   "summary": "O ENB informa que a COP31, oficialmente a mais longa da história, foi encerrada às 19h33 (hora local), quase 50 horas após o horário previsto de término.",
+   "summary_i18n": {
+    "en": "ENB reports that COP31, officially the longest COP ever, adjourned at 7:33 pm local time, almost 50 hours after its scheduled end time.",
+    "es": "ENB informa de que la COP31, oficialmente la más larga de la historia, se clausuró a las 19:33 (hora local), casi 50 horas después de la hora prevista de cierre.",
+    "fr": "L'ENB indique que la COP31, officiellement la plus longue de l'histoire, a été levée à 19 h 33 (heure locale), près de 50 heures après l'heure de clôture prévue.",
+    "ru": "ENB сообщает, что КС-31, официально самая продолжительная КС в истории, завершилась в 19:33 по местному времени, почти на 50 часов позже запланированного срока.",
+    "zh": "ENB报道，COP31正式成为历史上最长的缔约方大会，于当地时间19时33分休会，比原定结束时间晚了近50小时。",
+    "ar": "أفادت نشرة ENB بأن مؤتمر الأطراف الحادي والثلاثين، وهو رسميًا الأطول في التاريخ، رُفعت جلسته في الساعة 7:33 مساءً بالتوقيت المحلي، أي بعد نحو 50 ساعة من موعد انتهائه المقرر."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2w2dfbdi22e",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261122-decisoes-transicao-justa-adaptacao",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "09:33",
+   "text": "[resumo da fonte] At #COP31 Parties adopt decisions on the just transition and the #Adaptation Fund; multiple Parties object to the cover decision, which is not being adopted.",
+   "summary": "No plenário da COP31, as Partes adotam decisões sobre transição justa e o Fundo de Adaptação; várias Partes se opõem à decisão de cobertura, que não está sendo adotada.",
+   "summary_i18n": {
+    "en": "At the COP31 plenary, Parties adopt decisions on the just transition and the Adaptation Fund; multiple Parties object to the cover decision, which is not being adopted.",
+    "es": "En el plenario de la COP31, las Partes adoptan decisiones sobre la transición justa y el Fondo de Adaptación; varias Partes se oponen a la decisión de cobertura, que no se está adoptando.",
+    "fr": "En plénière de la COP31, les Parties adoptent des décisions sur la transition juste et le Fonds pour l'adaptation ; plusieurs Parties s'opposent à la décision de couverture, qui n'est pas adoptée.",
+    "ru": "На пленарном заседании КС-31 Стороны принимают решения о справедливом переходе и Адаптационном фонде; несколько Сторон возражают против общего решения, которое не принимается.",
+    "zh": "在COP31全体会议上，缔约方通过了关于公正转型和适应基金的决定；多个缔约方反对一揽子决定（cover decision），该决定未获通过。",
+    "ar": "في الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين اعتمدت الأطراف مقررات بشأن التحول العادل وصندوق التكيف، بينما اعترضت أطراف عدة على المقرر الجامع الذي لم يُعتمد."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2vmrln4hk2e",
+   "tracks": [
+    "Transição justa",
+    "Adaptação",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261122-plenaria-retoma-domingo",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "07:11",
+   "text": "[resumo da fonte] After extensive consultations and long delays, #COP31 closing plenary resumes on Sunday afternoon, with decisions on outstanding items expected.",
+   "summary": "Após longas consultas e atrasos, o plenário de encerramento da COP31 é retomado no domingo à tarde, com decisões sobre os itens pendentes esperadas.",
+   "summary_i18n": {
+    "en": "After extensive consultations and long delays, the COP31 closing plenary resumes on Sunday afternoon, with decisions on outstanding items expected.",
+    "es": "Tras amplias consultas y largas demoras, el plenario de clausura de la COP31 se reanuda el domingo por la tarde, con decisiones sobre los temas pendientes previstas.",
+    "fr": "Après de longues consultations et de nombreux retards, la plénière de clôture de la COP31 reprend dimanche après-midi, avec des décisions attendues sur les points en suspens.",
+    "ru": "После длительных консультаций и задержек заключительное пленарное заседание КС-31 возобновляется в воскресенье во второй половине дня; ожидаются решения по остающимся вопросам.",
+    "zh": "经过广泛磋商和长时间延误，COP31闭幕全体会议将于周日下午复会，预计将就未决事项作出决定。",
+    "ar": "بعد مشاورات مكثفة وتأخيرات طويلة، تُستأنف الجلسة العامة الختامية لمؤتمر الأطراف الحادي والثلاثين بعد ظهر الأحد، ومن المتوقع اتخاذ مقررات بشأن البنود المعلّقة."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2veujarfc2v",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261122-falha-decisao-cobertura",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "11:00",
+   "text": "[resumo da fonte] NEW: What should we make of the failure to adopt a \"cover decision\" at COP31 in Antalya, Turkey? Is there a precedent for these events? Asks COP-watchers.",
+   "summary": "Simon Evans (Carbon Brief) pergunta como interpretar a falha em adotar uma 'decisão de cobertura' na COP31 em Antalya e se há precedente, consultando observadores da COP.",
+   "summary_i18n": {
+    "en": "Simon Evans (Carbon Brief) asks how to interpret the failure to adopt a 'cover decision' at COP31 in Antalya and whether there is a precedent, polling COP-watchers.",
+    "es": "Simon Evans (Carbon Brief) pregunta cómo interpretar el fracaso en adoptar una 'decisión de cobertura' en la COP31 de Antalya y si existe un precedente, consultando a observadores de la COP.",
+    "fr": "Simon Evans (Carbon Brief) demande comment interpréter l'échec de l'adoption d'une « décision de couverture » à la COP31 d'Antalya et s'il existe un précédent, en sondant des observateurs de la COP.",
+    "ru": "Саймон Эванс (Carbon Brief) спрашивает, как расценивать неудачу с принятием «общего решения» на КС-31 в Анталье и есть ли прецедент, опрашивая наблюдателей КС.",
+    "zh": "Simon Evans（Carbon Brief）询问应如何看待COP31在安塔利亚未能通过“一揽子决定”（cover decision），以及是否有先例，并向COP观察人士征询意见。",
+    "ar": "يتساءل سايمون إيفانز (Carbon Brief) عن كيفية تفسير الإخفاق في اعتماد «المقرر الجامع» في مؤتمر الأطراف الحادي والثلاثين في أنطاليا وعما إذا كانت هناك سابقة، مستطلعًا آراء المراقبين."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2vrnn22gx2g",
+   "tracks": [
+    "Decisão de cobertura",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261122-mais-longa-cop-caos",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "08:17",
+   "text": "[resumo da fonte] MORE COP31 BREAKING: This is now the longest COP in history - and it's descending into chaos. The COP president told the UNFCCC chief to sit down, AGN said the president had not shown respect, and Panama joined the EU in rejecting the cover decision.",
+   "summary": "Carbon Brief: a COP31 já é a mais longa da história e entra em caos; o presidente da COP mandou o chefe da UNFCCC sentar, o Grupo Africano disse que o presidente não demonstrou respeito e o Panamá se juntou à UE na rejeição da decisão de cobertura.",
+   "summary_i18n": {
+    "en": "Carbon Brief: COP31 is now the longest COP in history and is descending into chaos; the COP president told the UNFCCC chief to sit down, the African Group of Negotiators said the president had not shown respect, and Panama joined the EU in rejecting the cover decision.",
+    "es": "Carbon Brief: la COP31 ya es la más larga de la historia y se sume en el caos; el presidente de la COP pidió al jefe de la CMNUCC que se sentara, el Grupo Africano de Negociadores dijo que el presidente no había mostrado respeto y Panamá se sumó a la UE en el rechazo de la decisión de cobertura.",
+    "fr": "Carbon Brief : la COP31 est désormais la plus longue de l'histoire et sombre dans le chaos ; le président de la COP a demandé au chef de la CCNUCC de s'asseoir, le Groupe africain de négociateurs a dit que le président n'avait pas montré de respect et le Panama s'est joint à l'UE pour rejeter la décision de couverture.",
+    "ru": "Carbon Brief: КС-31 стала самой продолжительной в истории и скатывается в хаос; президент КС велел руководителю РКИК ООН сесть, Африканская группа переговорщиков заявила, что президент не проявил уважения, а Панама присоединилась к ЕС в отклонении общего решения.",
+    "zh": "Carbon Brief报道：COP31已成为历史上最长的COP，并陷入混乱；COP主席让《联合国气候变化框架公约》秘书处负责人坐下，非洲谈判小组称主席缺乏尊重，巴拿马与欧盟一道反对一揽子决定。",
+    "ar": "Carbon Brief: أصبح مؤتمر الأطراف الحادي والثلاثون الأطول في التاريخ وينزلق إلى الفوضى؛ فقد طلب رئيس المؤتمر من رئيس اتفاقية الأمم المتحدة الإطارية بشأن تغير المناخ الجلوس، وقالت مجموعة المفاوضين الأفارقة إن الرئيس لم يُظهر الاحترام، وانضمت بنما إلى الاتحاد الأوروبي في رفض المقرر الجامع."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2vij34h3k2b",
+   "tracks": [
+    "Presidência e anfitrião",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261122-ue-objeta-decisao-cobertura",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "07:59",
+   "text": "[resumo da fonte] COP31 BREAKING: The EU has just formally \"objected\" to the \"cover decision\", saying it will not endorse a decision that does not respond to the science or mention fossil fuels.",
+   "summary": "Carbon Brief: a UE acaba de 'objetar' formalmente à decisão de cobertura da COP31, dizendo que não endossará uma decisão que não responde à ciência nem menciona combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Carbon Brief: the EU has just formally 'objected' to the COP31 cover decision, saying it will not endorse a decision that does not respond to the science or mention fossil fuels.",
+    "es": "Carbon Brief: la UE acaba de 'objetar' formalmente a la decisión de cobertura de la COP31, afirmando que no respaldará una decisión que no responda a la ciencia ni mencione los combustibles fósiles.",
+    "fr": "Carbon Brief : l'UE vient de s'« opposer » formellement à la décision de couverture de la COP31, affirmant qu'elle n'approuvera pas une décision qui ne répond pas à la science ni ne mentionne les combustibles fossiles.",
+    "ru": "Carbon Brief: ЕС только что официально «возразил» против общего решения КС-31, заявив, что не поддержит решение, которое не отвечает науке и не упоминает ископаемое топливо.",
+    "zh": "Carbon Brief报道：欧盟刚刚正式“反对”COP31一揽子决定，称不会支持一项既不回应科学、也未提及化石燃料的决定。",
+    "ar": "Carbon Brief: اعترض الاتحاد الأوروبي رسميًا للتو على المقرر الجامع لمؤتمر الأطراف الحادي والثلاثين، قائلًا إنه لن يؤيد مقررًا لا يستجيب للعلم ولا يذكر الوقود الأحفوري."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2vhk4r2z72c",
+   "tracks": [
+    "TAFF e fósseis",
+    "Decisão de cobertura"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
+  },
+  {
+   "id": "bluesky-carbonbrief.org-20261122-lobistas-alimentos-agricultura",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-22",
+   "time": "08:32",
+   "text": "[resumo da fonte] Recommended read: Analysis by DeSmog journalists found that 260 lobbyists from food and agriculture companies attended COP31.",
+   "summary": "O Carbon Brief indica análise do DeSmog: 260 lobistas de empresas de alimentos e agricultura estiveram na COP31.",
+   "summary_i18n": {
+    "en": "Carbon Brief recommends a DeSmog analysis finding 260 lobbyists from food and agriculture companies at COP31.",
+    "es": "Carbon Brief recomienda un análisis de DeSmog que cifra en 260 los lobistas de empresas de alimentación y agricultura en la COP31.",
+    "fr": "Carbon Brief recommande une analyse de DeSmog recensant 260 lobbyistes d'entreprises de l'alimentation et de l'agriculture à la COP31.",
+    "ru": "Carbon Brief рекомендует анализ DeSmog: на КС-31 присутствовали 260 лоббистов компаний пищевой и сельскохозяйственной отраслей.",
+    "zh": "Carbon Brief推荐DeSmog的一项分析：食品和农业企业共有260名游说人员出席了COP31。",
+    "ar": "يوصي Carbon Brief بتحليل أجراه DeSmog وجد أن 260 من جماعات الضغط التابعة لشركات الأغذية والزراعة حضروا مؤتمر الأطراف الحادي والثلاثين."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2vjdqpf6c2h",
+   "tracks": [
+    "Espaço cívico",
+    "Agenda de Ação"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "climate-home-news-2026-11-22-bulletin-day-13",
    "institution": "Climate Home News",
    "type": "notícia",
@@ -107,6 +304,95 @@
    "first_seen": "2026-11-22T06:16:18-03:00",
    "lang": "en",
    "source_id": "web-oilchange-org-press-releases"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261121-plenaria-pos-meia-noite",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "22:17",
+   "text": "[resumo da fonte] Shortly after midnight on Sunday, over 30 hours after its scheduled close, the COP 31 plenary resumed briefly, adopting decisions on the Standing Committee on Finance and the Climate Technology Network host.",
+   "summary": "Pouco depois da meia-noite de domingo, mais de 30 horas após o término previsto, o plenário da COP31 foi retomado brevemente e adotou decisões sobre o Comitê Permanente de Finanças e o anfitrião da Rede de Tecnologia Climática.",
+   "summary_i18n": {
+    "en": "Shortly after midnight on Sunday, over 30 hours after its scheduled close, the COP31 plenary resumed briefly and adopted decisions on the Standing Committee on Finance and the host of the Climate Technology Network.",
+    "es": "Poco después de la medianoche del domingo, más de 30 horas después del cierre previsto, el plenario de la COP31 se reanudó brevemente y adoptó decisiones sobre el Comité Permanente de Finanzas y la entidad anfitriona de la Red de Tecnología del Clima.",
+    "fr": "Peu après minuit dimanche, plus de 30 heures après l'heure de clôture prévue, la plénière de la COP31 a repris brièvement et adopté des décisions sur le Comité permanent des finances et l'hôte du Réseau des technologies climatiques.",
+    "ru": "Вскоре после полуночи в воскресенье, более чем через 30 часов после запланированного закрытия, пленарное заседание КС-31 ненадолго возобновилось и приняло решения по Постоянному комитету по финансам и принимающей организации Сети по климатическим технологиям.",
+    "zh": "周日午夜刚过，即原定闭幕时间30多小时后，COP31全体会议短暂复会，通过了关于资金问题常设委员会和气候技术网络东道机构的决定。",
+    "ar": "بعد منتصف ليل الأحد بقليل، أي بعد أكثر من 30 ساعة على موعد الاختتام المقرر، استؤنفت الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين لفترة وجيزة واعتمدت مقررات بشأن اللجنة الدائمة للتمويل والجهة المضيفة لشبكة تكنولوجيا المناخ."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2ugzlmcwk2n",
+   "tracks": [
+    "Finanças",
+    "Presidência e anfitrião"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-enb.iisd.org-20261121-plenaria-reconvoca",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "enb.iisd.org",
+   "institution": "IISD / ENB",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "19:04",
+   "text": "[resumo da fonte] More than 30 hours after its scheduled closing time, #COP31 plenary reconvenes; it is unclear whether outstanding items on mitigation, adaptation, just transition and finance are resolved.",
+   "summary": "Mais de 30 horas após o horário previsto de encerramento, o plenário da COP31 é reconvocado; não está claro se os itens pendentes sobre mitigação, adaptação, transição justa e finanças foram resolvidos.",
+   "summary_i18n": {
+    "en": "More than 30 hours after its scheduled closing time, the COP31 plenary reconvenes; it is unclear whether the outstanding items on mitigation, adaptation, just transition and finance have been resolved.",
+    "es": "Más de 30 horas después de la hora prevista de clausura, el plenario de la COP31 se reanuda; no está claro si se han resuelto los temas pendientes sobre mitigación, adaptación, transición justa y finanzas.",
+    "fr": "Plus de 30 heures après l'heure de clôture prévue, la plénière de la COP31 se réunit de nouveau ; on ignore si les points en suspens sur l'atténuation, l'adaptation, la transition juste et les finances sont réglés.",
+    "ru": "Более чем через 30 часов после запланированного времени закрытия пленарное заседание КС-31 возобновляется; неясно, решены ли остающиеся вопросы по смягчению, адаптации, справедливому переходу и финансам.",
+    "zh": "在原定闭幕时间30多小时后，COP31全体会议重新召开；目前尚不清楚关于减缓、适应、公正转型和资金的未决事项是否已解决。",
+    "ar": "بعد أكثر من 30 ساعة على موعد الاختتام المقرر، تعيد الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين الانعقاد، ولا يزال من غير الواضح ما إذا كانت البنود المعلّقة بشأن التخفيف والتكيف والتحول العادل والتمويل قد حُسمت."
+   },
+   "url": "https://bsky.app/profile/enb.iisd.org/post/3n2u472lew22h",
+   "tracks": [
+    "Mitigação e MWP",
+    "Adaptação",
+    "Transição justa",
+    "Finanças"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-enb-iisd-org"
+  },
+  {
+   "id": "bluesky-drsimevans.carbonbrief.org-20261121-minuta-final-decisao-cobertura",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "drsimevans.carbonbrief.org",
+   "institution": "Simon Evans (Carbon Brief)",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "22:03",
+   "text": "[resumo da fonte] NEW: The \"final\" COP31 draft cover decision is out now. Remains in: 35x35 electrification goal. Out: $120bn adaptation finance. Added: oblique reference to the fossil-fuel transition. Removed: numerical CCUS targets and the clear IPCC timeline.",
+   "summary": "Carbon Brief: saiu a minuta 'final' da decisão de cobertura da COP31; mantém a meta de eletrificação 35x35, sem os US$ 120 bi para adaptação, com referência indireta à transição dos fósseis e sem metas numéricas de CCUS nem cronograma claro do IPCC.",
+   "summary_i18n": {
+    "en": "Carbon Brief: the 'final' COP31 draft cover decision is out; it keeps the 35x35 electrification goal, drops the $120bn adaptation finance target, adds an oblique reference to the transition away from fossil fuels and removes numerical CCUS targets and the clear IPCC timeline.",
+    "es": "Carbon Brief: se publicó el borrador 'final' de la decisión de cobertura de la COP31; mantiene el objetivo de electrificación 35x35, elimina los 120.000 millones de dólares para adaptación, añade una referencia indirecta a la transición para abandonar los combustibles fósiles y suprime las metas numéricas de CCUS y el calendario claro del IPCC.",
+    "fr": "Carbon Brief : le projet « final » de décision de couverture de la COP31 est publié ; il conserve l'objectif d'électrification 35x35, abandonne les 120 milliards de dollars pour l'adaptation, ajoute une référence indirecte à la transition hors des combustibles fossiles et supprime les objectifs chiffrés de CCUS et le calendrier clair du GIEC.",
+    "ru": "Carbon Brief: опубликован «окончательный» проект общего решения КС-31; в нём сохранена цель электрификации 35x35, исключены 120 млрд долларов на адаптацию, добавлена косвенная ссылка на переход от ископаемого топлива и убраны численные цели по CCUS и чёткий график МГЭИК.",
+    "zh": "Carbon Brief报道：COP31“最终”一揽子决定草案已发布；保留了35x35电气化目标，删除了1200亿美元适应资金，增加了对转型摆脱化石燃料的间接提法，并删除了CCUS数值目标和明确的IPCC时间表。",
+    "ar": "Carbon Brief: صدرت المسودة «النهائية» للمقرر الجامع لمؤتمر الأطراف الحادي والثلاثين؛ تبقي على هدف الكهربة 35×35، وتحذف 120 مليار دولار لتمويل التكيف، وتضيف إشارة غير مباشرة إلى التحول بعيدًا عن الوقود الأحفوري، وتزيل الأهداف الرقمية لاحتجاز الكربون وتخزينه والجدول الزمني الواضح للهيئة الحكومية الدولية المعنية بتغير المناخ."
+   },
+   "url": "https://bsky.app/profile/drsimevans.carbonbrief.org/post/3n2ug73vopg2k",
+   "tracks": [
+    "Decisão de cobertura",
+    "Eletrificação",
+    "Finanças",
+    "TAFF e fósseis",
+    "GST2 e IPCC"
+   ],
+   "first_seen": "2026-11-22T15:46:00-03:00",
+   "lang": "en",
+   "source_id": "bsky-drsimevans-carbonbrief-org"
   },
   {
    "id": "bluesky-carbonbrief.org-20261121-tuvalu-documentario",
@@ -27653,11 +27939,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-22T14:44:41-03:00",
-  "label": "22 nov 2026, 14:44 (Brasília)",
+  "timestamp": "2026-11-22T15:46:00-03:00",
+  "label": "22 nov 2026, 15:46 (Brasília)",
   "accounts_checked": 30,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 10,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
