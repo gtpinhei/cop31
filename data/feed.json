@@ -77,6 +77,34 @@
    "source_id": "web-oilchange-org-press-releases"
   },
   {
+   "id": "bluesky-carbonbrief.org-20261121-tuvalu-documentario",
+   "kind": "post",
+   "platform": "bluesky",
+   "account": "carbonbrief.org",
+   "institution": "Carbon Brief",
+   "verified": true,
+   "date": "2026-11-21",
+   "time": "11:49",
+   "text": "[resumo da fonte] Recommends a Channel 4 News documentary on people displaced from Tuvalu by sea-level rise, ahead of Tuvalu hosting next year's second conference on transitioning away from fossil fuels.",
+   "summary": "Carbon Brief indica documentário da Channel 4 News sobre deslocados de Tuvalu pela elevação do mar, antes de Tuvalu sediar no ano que vem a segunda conferência sobre transição para longe dos combustíveis fósseis.",
+   "summary_i18n": {
+    "en": "Carbon Brief recommends a Channel 4 News documentary on people displaced from Tuvalu by sea-level rise, ahead of Tuvalu hosting next year's second conference on transitioning away from fossil fuels.",
+    "es": "Carbon Brief recomienda un documental de Channel 4 News sobre las personas desplazadas de Tuvalu por el aumento del nivel del mar, antes de que Tuvalu acoja el próximo año la segunda conferencia sobre la transición para abandonar los combustibles fósiles.",
+    "fr": "Carbon Brief recommande un documentaire de Channel 4 News sur les personnes déplacées de Tuvalu par la montée du niveau de la mer, avant que Tuvalu n'accueille l'an prochain la deuxième conférence sur la transition hors des combustibles fossiles.",
+    "ru": "Carbon Brief рекомендует документальный фильм Channel 4 News о жителях Тувалу, перемещённых из-за повышения уровня моря, накануне того, как Тувалу в следующем году примет вторую конференцию по отказу от ископаемого топлива.",
+    "zh": "Carbon Brief 推荐 Channel 4 News 一部纪录片，讲述因海平面上升而流离失所的图瓦卢人；明年图瓦卢将主办第二届化石燃料转型大会。",
+    "ar": "توصي Carbon Brief بوثائقي من Channel 4 News عن الأشخاص النازحين من توفالو بسبب ارتفاع مستوى سطح البحر، قبيل استضافة توفالو في العام المقبل المؤتمر الثاني حول الانتقال بعيدًا عن الوقود الأحفوري."
+   },
+   "url": "https://bsky.app/profile/carbonbrief.org/post/3n2tdv4whkp2t",
+   "tracks": [
+    "TAFF e fósseis",
+    "Adaptação"
+   ],
+   "first_seen": "2026-11-22T07:45:39-03:00",
+   "lang": "en",
+   "source_id": "bsky-carbonbrief-org"
+  },
+  {
    "id": "bluesky-350.org-20261121-draft-fosseis-ccus",
    "kind": "post",
    "platform": "bluesky",
@@ -27593,11 +27621,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-22T06:44:37-03:00",
-  "label": "22 nov 2026, 06:44 (Brasília)",
+  "timestamp": "2026-11-22T07:45:39-03:00",
+  "label": "22 nov 2026, 07:42 (Brasília)",
   "accounts_checked": 8,
   "blocked": 22,
-  "new_items": 0,
+  "new_items": 1,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
