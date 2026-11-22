@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at": "2026-11-22T00:14:52-03:00",
+ "generated_at": "2026-11-22T06:16:18-03:00",
  "round": {
-  "timestamp": "2026-11-22T00:14:52-03:00",
-  "label": "22 nov 2026, 00:14 (Brasília)",
-  "sites_checked": 63,
+  "timestamp": "2026-11-22T06:16:18-03:00",
+  "label": "22 nov 2026, 06:16 (Brasília)",
+  "sites_checked": 64,
   "blocked": 17,
-  "new_items": 0,
-  "fetches": "63 de ~60",
+  "new_items": 1,
+  "fetches": "~100 de 60 (5 subagentes web-fetch)",
   "cadence": "a cada 6 horas",
   "blocked_sites": [
    "web-caneurope-org-news",
@@ -47,6 +47,35 @@
   "Oceanos"
  ],
  "items": [
+  {
+   "id": "oil-change-international-2026-11-22-cover-decision",
+   "institution": "Oil Change International",
+   "type": "release",
+   "title": "New COP31 draft Cover Decision would be gift to fossil fuel industry",
+   "date": "2026-11-22",
+   "authors": "Oil Change International",
+   "url": "https://oilchange.org/news/new-cop31-draft-cover-decision-would-be-gift-to-fossil-fuel-industry/",
+   "summary": "A Oil Change International afirma que o novo rascunho da decisão de cobertura da COP31 seria um presente para a indústria de combustíveis fósseis e pede que os negociadores o rejeitem tal como está. Para a organização, o texto ameaça a transição global para longe dos combustíveis fósseis. O item se refere à decisão de cobertura e à linguagem sobre fósseis.",
+   "summary_i18n": {
+    "en": "Oil Change International says the new draft COP31 cover decision would be a gift to the fossil fuel industry and urges negotiators to reject it as it stands. In the organization's view, the text threatens the global transition away from fossil fuels. The item concerns the cover decision and the fossil fuel language.",
+    "es": "Oil Change International afirma que el nuevo borrador de la decisión de cobertura de la COP31 sería un regalo para la industria de los combustibles fósiles e insta a los negociadores a rechazarlo tal como está. Según la organización, el texto amenaza la transición mundial para abandonar los combustibles fósiles. El elemento se refiere a la decisión de cobertura y al lenguaje sobre combustibles fósiles.",
+    "fr": "Oil Change International affirme que le nouveau projet de décision de couverture de la COP31 serait un cadeau à l'industrie des combustibles fossiles et exhorte les négociateurs à le rejeter en l'état. Selon l'organisation, le texte menace la transition mondiale hors des combustibles fossiles. L'élément porte sur la décision de couverture et le langage relatif aux combustibles fossiles.",
+    "ru": "Oil Change International заявляет, что новый проект общего решения COP31 стал бы подарком индустрии ископаемого топлива, и призывает переговорщиков отклонить его в нынешнем виде. По мнению организации, текст угрожает глобальному переходу от ископаемого топлива. Материал относится к общему решению и формулировкам об ископаемом топливе.",
+    "zh": "Oil Change International 表示，COP31 新的总括决定草案将成为化石燃料行业的“礼物”，并敦促谈判代表按现状予以拒绝。该组织认为，该文本威胁全球摆脱化石燃料的转型。此项内容涉及总括决定和化石燃料措辞。",
+    "ar": "تقول منظمة Oil Change International إن مشروع القرار الشامل الجديد لمؤتمر COP31 سيكون هدية لصناعة الوقود الأحفوري، وتحث المفاوضين على رفضه بصيغته الحالية. وترى المنظمة أن النص يهدد الانتقال العالمي بعيدًا عن الوقود الأحفوري. ويتعلق هذا البند بالقرار الشامل وصياغات الوقود الأحفوري."
+   },
+   "tracks": [
+    "Decisão de cobertura",
+    "TAFF e fósseis"
+   ],
+   "quotes": [
+    "\"This is a disgrace. Negotiators must reject the draft cover decision as it stands.\"",
+    "\"This text is a dangerous threat to the global transition away from fossil fuels.\""
+   ],
+   "first_seen": "2026-11-22T06:16:18-03:00",
+   "lang": "en",
+   "source_id": "web-oilchange-org-press-releases"
+  },
   {
    "id": "bluesky-350.org-20261121-draft-fosseis-ccus",
    "kind": "post",
@@ -27564,11 +27593,11 @@
   }
  ],
  "social_round": {
-  "timestamp": "2026-11-22T05:50:19-03:00",
-  "label": "22 nov 2026, 05:50 (Brasília)",
-  "accounts_checked": 32,
-  "blocked": 51,
-  "new_items": 3,
+  "timestamp": "2026-11-22T06:44:37-03:00",
+  "label": "22 nov 2026, 06:44 (Brasília)",
+  "accounts_checked": 8,
+  "blocked": 22,
+  "new_items": 0,
   "cadence": "a cada hora",
   "blocked_accounts": []
  }
