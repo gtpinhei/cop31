@@ -205,7 +205,7 @@
       "event_id": "4e9d5149dddb5176e01b9cc0"
     }
   ],
-  "checked_at": "2026-11-22T03:56:07.579004Z",
+  "checked_at": "2026-11-22T04:36:46.126932Z",
   "degraded": false,
   "documents": [
     {
@@ -643,9 +643,9 @@
       "document_code": "FCCC/PA/CMA/2026/L.23",
       "id": "10000417",
       "metadata_version": "3.0",
-      "modified_at": "2026-11-22T03:55:33.361567Z",
+      "modified_at": "2026-11-22T03:59:41.036369Z",
       "published_at": "2026-11-22T01:30:00Z",
-      "session": "CMA 1",
+      "session": "CMA 8",
       "source_url": "https://docs.unfccc.int/documents/10000417/metadata",
       "status": "unknown",
       "title": "Report of the Adaptation Fund Board. Draft decision -/CMA.8. Proposal by the President",
@@ -4511,8 +4511,8 @@
     }
   ],
   "history_count": 34,
-  "last_attempt": "2026-11-22T03:56:07.579004Z",
-  "last_success": "2026-11-22T03:56:07.579004Z",
+  "last_attempt": "2026-11-22T04:36:46.126932Z",
+  "last_success": "2026-11-22T04:36:46.126932Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
