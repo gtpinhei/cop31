@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "edition": "2026-11-22",
- "generated_at": "2026-11-22T20:58+03:00",
+ "generated_at": "2026-11-22T21:58+03:00",
  "window": {
   "from": "2026-11-19",
   "to": "2026-11-22",
@@ -9,12 +9,12 @@
  },
  "collection": {
   "web_round": "2026-11-22T12:20:00-03:00",
-  "social_round": "2026-11-22T14:44:41-03:00",
+  "social_round": "2026-11-22T15:46:00-03:00",
   "stale": false
  },
  "coverage": {
-  "candidates": 46,
-  "stories": 27,
+  "candidates": 51,
+  "stories": 29,
   "top": 8,
   "publishers": [
    "350.org",
@@ -360,6 +360,44 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261122-encerramento-mais-longa",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261122-encerramento-mais-longa",
+     "title": "enb.iisd.org: [resumo da fonte] COP31 - officially the longest COP ever - adjourns at 7.33pm, almost 50 hours after its scheduled…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2w2dfbdi22e",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-22",
+     "time": "13:36",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "O ENB informa que a COP31, oficialmente a mais longa da história, foi encerrada às 19h33 (hora local), quase 50 horas após o horário previsto de término.",
+     "collected_at": "2026-11-22T15:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "ENB reports that COP31, officially the longest COP ever, adjourned at 7:33 pm local time, almost 50 hours after its scheduled end time.",
+      "es": "ENB informa de que la COP31, oficialmente la más larga de la historia, se clausuró a las 19:33 (hora local), casi 50 horas después de la hora prevista de cierre.",
+      "fr": "L'ENB indique que la COP31, officiellement la plus longue de l'histoire, a été levée à 19 h 33 (heure locale), près de 50 heures après l'heure de clôture prévue.",
+      "ru": "ENB сообщает, что КС-31, официально самая продолжительная КС в истории, завершилась в 19:33 по местному времени, почти на 50 часов позже запланированного срока.",
+      "zh": "ENB报道，COP31正式成为历史上最长的缔约方大会，于当地时间19时33分休会，比原定结束时间晚了近50小时。",
+      "ar": "أفادت نشرة ENB بأن مؤتمر الأطراف الحادي والثلاثين، وهو رسميًا الأطول في التاريخ، رُفعت جلسته في الساعة 7:33 مساءً بالتوقيت المحلي، أي بعد نحو 50 ساعة من موعد انتهائه المقرر."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
     "id": "st-unfccc-2026-11-20-transparency-gst2",
     "section": "negotiations",
     "score": 0.499,
@@ -638,6 +676,165 @@
     ]
    },
    {
+    "id": "st-bluesky-enb.iisd.org-20261122-plenaria-retoma-domingo",
+    "section": "action",
+    "score": 0.55,
+    "lead": {
+     "id": "bluesky-enb.iisd.org-20261122-plenaria-retoma-domingo",
+     "title": "enb.iisd.org: [resumo da fonte] After extensive consultations and long delays, #COP31 closing plenary resumes on Sunday afternoon,…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2veujarfc2v",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-22",
+     "time": "07:11",
+     "language": "en",
+     "tracks": [
+      "Presidência e anfitrião",
+      "Decisão de cobertura"
+     ],
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "Após longas consultas e atrasos, o plenário de encerramento da COP31 é retomado no domingo à tarde, com decisões sobre os itens pendentes esperadas.",
+     "collected_at": "2026-11-22T15:46:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "After extensive consultations and long delays, the COP31 closing plenary resumes on Sunday afternoon, with decisions on outstanding items expected.",
+      "es": "Tras amplias consultas y largas demoras, el plenario de clausura de la COP31 se reanuda el domingo por la tarde, con decisiones sobre los temas pendientes previstas.",
+      "fr": "Après de longues consultations et de nombreux retards, la plénière de clôture de la COP31 reprend dimanche après-midi, avec des décisions attendues sur les points en suspens.",
+      "ru": "После длительных консультаций и задержек заключительное пленарное заседание КС-31 возобновляется в воскресенье во второй половине дня; ожидаются решения по остающимся вопросам.",
+      "zh": "经过广泛磋商和长时间延误，COP31闭幕全体会议将于周日下午复会，预计将就未决事项作出决定。",
+      "ar": "بعد مشاورات مكثفة وتأخيرات طويلة، تُستأنف الجلسة العامة الختامية لمؤتمر الأطراف الحادي والثلاثين بعد ظهر الأحد، ومن المتوقع اتخاذ مقررات بشأن البنود المعلّقة."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [
+     {
+      "id": "bluesky-enb.iisd.org-20261122-decisoes-transicao-justa-adaptacao",
+      "title": "enb.iisd.org: [resumo da fonte] At #COP31 Parties adopt decisions on the just transition and the #Adaptation Fund; multiple…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2vmrln4hk2e",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-22",
+      "time": "09:33",
+      "language": "en",
+      "tracks": [
+       "Transição justa",
+       "Adaptação",
+       "Decisão de cobertura"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "No plenário da COP31, as Partes adotam decisões sobre transição justa e o Fundo de Adaptação; várias Partes se opõem à decisão de cobertura, que não está sendo adotada.",
+      "collected_at": "2026-11-22T15:46:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "At the COP31 plenary, Parties adopt decisions on the just transition and the Adaptation Fund; multiple Parties object to the cover decision, which is not being adopted.",
+       "es": "En el plenario de la COP31, las Partes adoptan decisiones sobre la transición justa y el Fondo de Adaptación; varias Partes se oponen a la decisión de cobertura, que no se está adoptando.",
+       "fr": "En plénière de la COP31, les Parties adoptent des décisions sur la transition juste et le Fonds pour l'adaptation ; plusieurs Parties s'opposent à la décision de couverture, qui n'est pas adoptée.",
+       "ru": "На пленарном заседании КС-31 Стороны принимают решения о справедливом переходе и Адаптационном фонде; несколько Сторон возражают против общего решения, которое не принимается.",
+       "zh": "在COP31全体会议上，缔约方通过了关于公正转型和适应基金的决定；多个缔约方反对一揽子决定（cover decision），该决定未获通过。",
+       "ar": "في الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين اعتمدت الأطراف مقررات بشأن التحول العادل وصندوق التكيف، بينما اعترضت أطراف عدة على المقرر الجامع الذي لم يُعتمد."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261121-plenaria-reconvoca",
+      "title": "enb.iisd.org: [resumo da fonte] More than 30 hours after its scheduled closing time, #COP31 plenary reconvenes; it is unclear…",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2u472lew22h",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-21",
+      "time": "19:04",
+      "language": "en",
+      "tracks": [
+       "Mitigação e MWP",
+       "Adaptação",
+       "Transição justa",
+       "Finanças"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "Mais de 30 horas após o horário previsto de encerramento, o plenário da COP31 é reconvocado; não está claro se os itens pendentes sobre mitigação, adaptação, transição justa e finanças foram resolvidos.",
+      "collected_at": "2026-11-22T15:46:00-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "More than 30 hours after its scheduled closing time, the COP31 plenary reconvenes; it is unclear whether the outstanding items on mitigation, adaptation, just transition and finance have been resolved.",
+       "es": "Más de 30 horas después de la hora prevista de clausura, el plenario de la COP31 se reanuda; no está claro si se han resuelto los temas pendientes sobre mitigación, adaptación, transición justa y finanzas.",
+       "fr": "Plus de 30 heures après l'heure de clôture prévue, la plénière de la COP31 se réunit de nouveau ; on ignore si les points en suspens sur l'atténuation, l'adaptation, la transition juste et les finances sont réglés.",
+       "ru": "Более чем через 30 часов после запланированного времени закрытия пленарное заседание КС-31 возобновляется; неясно, решены ли остающиеся вопросы по смягчению, адаптации, справедливому переходу и финансам.",
+       "zh": "在原定闭幕时间30多小时后，COP31全体会议重新召开；目前尚不清楚关于减缓、适应、公正转型和资金的未决事项是否已解决。",
+       "ar": "بعد أكثر من 30 ساعة على موعد الاختتام المقرر، تعيد الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين الانعقاد، ولا يزال من غير الواضح ما إذا كانت البنود المعلّقة بشأن التخفيف والتكيف والتحول العادل والتمويل قد حُسمت."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261120-plenaria-suspensa",
+      "title": "enb.iisd.org: [resumo da fonte] COP31 suspended at 10.29pm to continue work on finance, the mitigation work programme and adaptation.",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdwkg73c2h",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-20",
+      "time": "16:44",
+      "language": "en",
+      "tracks": [
+       "Finanças",
+       "Mitigação e MWP",
+       "Adaptação"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB informa que a plenária da COP31 foi suspensa às 22h29 (horário da Turquia) para prosseguir o trabalho sobre finanças, o programa de trabalho de mitigação e adaptação.",
+      "collected_at": "2026-11-21T10:44:24-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports that the COP31 plenary was suspended at 10.29 pm (Turkey time) to continue work on finance, the mitigation work programme and adaptation.",
+       "es": "ENB informa de que el plenario de la COP31 se suspendió a las 22.29 (hora de Turquía) para continuar los trabajos sobre finanzas, el programa de trabajo sobre mitigación y la adaptación.",
+       "fr": "L'ENB indique que la plénière de la COP31 a été suspendue à 22 h 29 (heure de la Turquie) pour poursuivre les travaux sur les finances, le programme de travail sur l'atténuation et l'adaptation.",
+       "ru": "ENB сообщает, что пленарное заседание COP31 было приостановлено в 22:29 (по времени Турции) для продолжения работы по финансированию, программе работы по смягчению и адаптации.",
+       "zh": "ENB 报道，COP31 全体会议于土耳其时间 22:29 休会，以继续就资金、减缓工作方案和适应开展工作。",
+       "ar": "تفيد نشرة ENB بتعليق الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين عند الساعة 22:29 (بتوقيت تركيا) لمواصلة العمل بشأن التمويل وبرنامج عمل التخفيف والتكيف."
+      },
+      "description_i18n_method": "machine"
+     },
+     {
+      "id": "bluesky-enb.iisd.org-20261120-ministros-transicao-justa",
+      "title": "enb.iisd.org: [resumo da fonte] Ministers meet on the Just Transition Work Programme while parties wait for the closing plenary.",
+      "title_is_post": true,
+      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2r5iogsck2y",
+      "publisher": "IISD / ENB",
+      "published": "2026-11-20",
+      "time": "14:49",
+      "language": "en",
+      "tracks": [
+       "Transição justa",
+       "Decisão de cobertura"
+      ],
+      "content_type": "reporting",
+      "kind": "post",
+      "platform": "bluesky",
+      "description": "O ENB relata que ministros se reuniram sobre o Programa de Trabalho de Transição Justa enquanto as Partes aguardavam a plenária de encerramento.",
+      "collected_at": "2026-11-21T10:44:24-03:00",
+      "validation": "registry source, collected by the monitor",
+      "description_i18n": {
+       "en": "ENB reports that ministers met on the Just Transition Work Programme while Parties awaited the closing plenary.",
+       "es": "ENB informa de que los ministros se reunieron sobre el programa de trabajo sobre transición justa mientras las Partes esperaban el plenario de clausura.",
+       "fr": "L'ENB rapporte que les ministres se sont réunis sur le programme de travail sur la transition juste pendant que les Parties attendaient la plénière de clôture.",
+       "ru": "ENB сообщает, что министры собрались по программе работы по справедливому переходу, пока Стороны ожидали заключительного пленарного заседания.",
+       "zh": "ENB 报道，在各缔约方等待闭幕全体会议期间，部长们就公正转型工作方案举行会议。",
+       "ar": "تفيد نشرة ENB بأن الوزراء اجتمعوا بشأن برنامج عمل الانتقال العادل بينما كانت الأطراف تنتظر الجلسة العامة الختامية."
+      },
+      "description_i18n_method": "machine"
+     }
+    ],
+    "publishers": [
+     "IISD / ENB"
+    ]
+   },
+   {
     "id": "st-climate-home-news-2026-11-21-bulletin-day-12",
     "section": "negotiations",
     "score": 0.48,
@@ -710,75 +907,6 @@
     ]
    },
    {
-    "id": "st-bluesky-enb.iisd.org-20261120-plenaria-suspensa",
-    "section": "negotiations",
-    "score": 0.234,
-    "lead": {
-     "id": "bluesky-enb.iisd.org-20261120-plenaria-suspensa",
-     "title": "enb.iisd.org: [resumo da fonte] COP31 suspended at 10.29pm to continue work on finance, the mitigation work programme and adaptation.",
-     "title_is_post": true,
-     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2rdwkg73c2h",
-     "publisher": "IISD / ENB",
-     "published": "2026-11-20",
-     "time": "16:44",
-     "language": "en",
-     "tracks": [
-      "Finanças",
-      "Mitigação e MWP",
-      "Adaptação"
-     ],
-     "content_type": "reporting",
-     "kind": "post",
-     "platform": "bluesky",
-     "description": "O ENB informa que a plenária da COP31 foi suspensa às 22h29 (horário da Turquia) para prosseguir o trabalho sobre finanças, o programa de trabalho de mitigação e adaptação.",
-     "collected_at": "2026-11-21T10:44:24-03:00",
-     "validation": "registry source, collected by the monitor",
-     "description_i18n": {
-      "en": "ENB reports that the COP31 plenary was suspended at 10.29 pm (Turkey time) to continue work on finance, the mitigation work programme and adaptation.",
-      "es": "ENB informa de que el plenario de la COP31 se suspendió a las 22.29 (hora de Turquía) para continuar los trabajos sobre finanzas, el programa de trabajo sobre mitigación y la adaptación.",
-      "fr": "L'ENB indique que la plénière de la COP31 a été suspendue à 22 h 29 (heure de la Turquie) pour poursuivre les travaux sur les finances, le programme de travail sur l'atténuation et l'adaptation.",
-      "ru": "ENB сообщает, что пленарное заседание COP31 было приостановлено в 22:29 (по времени Турции) для продолжения работы по финансированию, программе работы по смягчению и адаптации.",
-      "zh": "ENB 报道，COP31 全体会议于土耳其时间 22:29 休会，以继续就资金、减缓工作方案和适应开展工作。",
-      "ar": "تفيد نشرة ENB بتعليق الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين عند الساعة 22:29 (بتوقيت تركيا) لمواصلة العمل بشأن التمويل وبرنامج عمل التخفيف والتكيف."
-     },
-     "description_i18n_method": "machine"
-    },
-    "related": [
-     {
-      "id": "bluesky-enb.iisd.org-20261120-ministros-transicao-justa",
-      "title": "enb.iisd.org: [resumo da fonte] Ministers meet on the Just Transition Work Programme while parties wait for the closing plenary.",
-      "title_is_post": true,
-      "url": "https://bsky.app/profile/enb.iisd.org/post/3n2r5iogsck2y",
-      "publisher": "IISD / ENB",
-      "published": "2026-11-20",
-      "time": "14:49",
-      "language": "en",
-      "tracks": [
-       "Transição justa",
-       "Decisão de cobertura"
-      ],
-      "content_type": "reporting",
-      "kind": "post",
-      "platform": "bluesky",
-      "description": "O ENB relata que ministros se reuniram sobre o Programa de Trabalho de Transição Justa enquanto as Partes aguardavam a plenária de encerramento.",
-      "collected_at": "2026-11-21T10:44:24-03:00",
-      "validation": "registry source, collected by the monitor",
-      "description_i18n": {
-       "en": "ENB reports that ministers met on the Just Transition Work Programme while Parties awaited the closing plenary.",
-       "es": "ENB informa de que los ministros se reunieron sobre el programa de trabajo sobre transición justa mientras las Partes esperaban el plenario de clausura.",
-       "fr": "L'ENB rapporte que les ministres se sont réunis sur le programme de travail sur la transition juste pendant que les Parties attendaient la plénière de clôture.",
-       "ru": "ENB сообщает, что министры собрались по программе работы по справедливому переходу, пока Стороны ожидали заключительного пленарного заседания.",
-       "zh": "ENB 报道，在各缔约方等待闭幕全体会议期间，部长们就公正转型工作方案举行会议。",
-       "ar": "تفيد نشرة ENB بأن الوزراء اجتمعوا بشأن برنامج عمل الانتقال العادل بينما كانت الأطراف تنتظر الجلسة العامة الختامية."
-      },
-      "description_i18n_method": "machine"
-     }
-    ],
-    "publishers": [
-     "IISD / ENB"
-    ]
-   },
-   {
     "id": "st-can-international-2026-11-20-worst-cop-ever",
     "section": "civil",
     "score": 0.225,
@@ -814,46 +942,47 @@
     "publishers": [
      "CAN International"
     ]
-   },
+   }
+  ],
+  "negotiations": [
    {
-    "id": "st-icc-2026-11-20-ministers-critical-juncture",
+    "id": "st-bluesky-enb.iisd.org-20261121-plenaria-pos-meia-noite",
     "section": "negotiations",
-    "score": 0.203,
+    "score": 0.44,
     "lead": {
-     "id": "icc-2026-11-20-ministers-critical-juncture",
-     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
-     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
-     "publisher": "ICC",
-     "author": "ICC (John W.H. Denton AO)",
-     "published": "2026-11-20",
+     "id": "bluesky-enb.iisd.org-20261121-plenaria-pos-meia-noite",
+     "title": "enb.iisd.org: [resumo da fonte] Shortly after midnight on Sunday, over 30 hours after its scheduled close, the COP 31 plenary…",
+     "title_is_post": true,
+     "url": "https://bsky.app/profile/enb.iisd.org/post/3n2ugzlmcwk2n",
+     "publisher": "IISD / ENB",
+     "published": "2026-11-21",
+     "time": "22:17",
      "language": "en",
      "tracks": [
       "Finanças",
-      "Eletrificação",
-      "Decisão de cobertura"
+      "Presidência e anfitrião"
      ],
-     "content_type": "analysis",
-     "kind": "publication",
-     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
-     "collected_at": "2026-11-20T12:25:00-03:00",
+     "content_type": "reporting",
+     "kind": "post",
+     "platform": "bluesky",
+     "description": "Pouco depois da meia-noite de domingo, mais de 30 horas após o término previsto, o plenário da COP31 foi retomado brevemente e adotou decisões sobre o Comitê Permanente de Finanças e o anfitrião da Rede de Tecnologia Climática.",
+     "collected_at": "2026-11-22T15:46:00-03:00",
      "validation": "registry source, collected by the monitor",
      "description_i18n": {
-      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
-      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
-      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
-      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
-      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
-      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+      "en": "Shortly after midnight on Sunday, over 30 hours after its scheduled close, the COP31 plenary resumed briefly and adopted decisions on the Standing Committee on Finance and the host of the Climate Technology Network.",
+      "es": "Poco después de la medianoche del domingo, más de 30 horas después del cierre previsto, el plenario de la COP31 se reanudó brevemente y adoptó decisiones sobre el Comité Permanente de Finanzas y la entidad anfitriona de la Red de Tecnología del Clima.",
+      "fr": "Peu après minuit dimanche, plus de 30 heures après l'heure de clôture prévue, la plénière de la COP31 a repris brièvement et adopté des décisions sur le Comité permanent des finances et l'hôte du Réseau des technologies climatiques.",
+      "ru": "Вскоре после полуночи в воскресенье, более чем через 30 часов после запланированного закрытия, пленарное заседание КС-31 ненадолго возобновилось и приняло решения по Постоянному комитету по финансам и принимающей организации Сети по климатическим технологиям.",
+      "zh": "周日午夜刚过，即原定闭幕时间30多小时后，COP31全体会议短暂复会，通过了关于资金问题常设委员会和气候技术网络东道机构的决定。",
+      "ar": "بعد منتصف ليل الأحد بقليل، أي بعد أكثر من 30 ساعة على موعد الاختتام المقرر، استؤنفت الجلسة العامة لمؤتمر الأطراف الحادي والثلاثين لفترة وجيزة واعتمدت مقررات بشأن اللجنة الدائمة للتمويل والجهة المضيفة لشبكة تكنولوجيا المناخ."
      },
      "description_i18n_method": "machine"
     },
     "related": [],
     "publishers": [
-     "ICC"
+     "IISD / ENB"
     ]
-   }
-  ],
-  "negotiations": [
+   },
    {
     "id": "st-climate-home-news-2026-11-20-uganda-taff",
     "section": "negotiations",
@@ -1038,6 +1167,43 @@
     "related": [],
     "publishers": [
      "IISD / ENB"
+    ]
+   },
+   {
+    "id": "st-icc-2026-11-20-ministers-critical-juncture",
+    "section": "negotiations",
+    "score": 0.203,
+    "lead": {
+     "id": "icc-2026-11-20-ministers-critical-juncture",
+     "title": "ICC calls on COP31 ministers to take charge at critical juncture",
+     "url": "https://iccwbo.org/news-publications/news/icc-calls-on-cop31-ministers-to-take-charge-at-critical-juncture/",
+     "publisher": "ICC",
+     "author": "ICC (John W.H. Denton AO)",
+     "published": "2026-11-20",
+     "language": "en",
+     "tracks": [
+      "Finanças",
+      "Eletrificação",
+      "Decisão de cobertura"
+     ],
+     "content_type": "analysis",
+     "kind": "publication",
+     "description": "A Câmara de Comércio Internacional diz estar profundamente preocupada com o rumo das negociações da COP31 e pede que os ministros assumam o comando. Pede que mantenham os compromissos de transição energética e finanças climáticas e acelerem energia limpa, redes, eletrificação industrial e investimento privado.",
+     "collected_at": "2026-11-20T12:25:00-03:00",
+     "validation": "registry source, collected by the monitor",
+     "description_i18n": {
+      "en": "The International Chamber of Commerce says it is deeply concerned about where the COP31 negotiations are heading and urges ministers to take charge. It asks them to keep existing energy-transition and climate-finance commitments and to speed up clean power, grids, industrial electrification and private investment.",
+      "es": "La Cámara de Comercio Internacional dice estar profundamente preocupada por el rumbo de las negociaciones de la COP31 e insta a los ministros a asumir el control.",
+      "fr": "La Chambre de commerce internationale se dit profondément préoccupée par la direction des négociations de la COP31 et exhorte les ministres à prendre les choses en main.",
+      "ru": "Международная торговая палата заявляет о глубокой обеспокоенности направлением переговоров на COP31 и призывает министров взять ситуацию под контроль. Она просит сохранить действующие обязательства по энергетическому переходу и климатическому финансированию и ускорить развитие чистой энергетики, сетей, промышленной…",
+      "zh": "国际商会表示对COP31谈判的走向深感担忧，敦促部长们接手主导。国际商会要求保持现有的能源转型和气候融资承诺，并加快清洁电力、电网、工业电气化和私人投资。",
+      "ar": "تعرب غرفة التجارة الدولية عن قلقها العميق إزاء الوجهة التي تسير نحوها مفاوضات COP31 وتحثّ الوزراء على تولّي زمام الأمور. وتطلب منهم الحفاظ على التزامات انتقال الطاقة وتمويل المناخ القائمة وتسريع الطاقة النظيفة والشبكات والكهربة الصناعية والاستثمار الخاص."
+     },
+     "description_i18n_method": "machine"
+    },
+    "related": [],
+    "publishers": [
+     "ICC"
     ]
    },
    {
@@ -1710,6 +1876,8 @@
   ],
   "2026-11-22": [
    "bluesky-enb.iisd.org-20261120-plenaria-suspensa",
+   "bluesky-enb.iisd.org-20261122-encerramento-mais-longa",
+   "bluesky-enb.iisd.org-20261122-plenaria-retoma-domingo",
    "can-international-2026-11-20-worst-cop-ever",
    "climate-home-news-2026-11-20-uganda-taff",
    "climate-home-news-2026-11-21-bulletin-day-12",
