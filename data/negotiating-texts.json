@@ -215,9 +215,21 @@
       "change": "new",
       "document_id": "10000418",
       "event_id": "bb5db4de99ca2f585942503c"
+    },
+    {
+      "at": "2026-11-22T10:26:11.303418Z",
+      "change": "new",
+      "document_id": "10000419",
+      "event_id": "bd8a1885f8d911580459bc61"
+    },
+    {
+      "at": "2026-11-22T10:26:11.303418Z",
+      "change": "new",
+      "document_id": "10000420",
+      "event_id": "ed68c621506a84368084d99d"
     }
   ],
-  "checked_at": "2026-11-22T09:37:04.695921Z",
+  "checked_at": "2026-11-22T10:26:11.303418Z",
   "degraded": false,
   "documents": [
     {
@@ -4418,6 +4430,50 @@
       "withdrawn": false
     },
     {
+      "agenda": "COP 31 2(f)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "9e84e0d372e8cf3dddc136723b21c9b4c13361146dcf3843fd9f582cd42bcb7d",
+          "url": "https://docs.unfccc.int/documents/10000419/files/en/dt_cop31_cover_decision_COP.pdf"
+        }
+      ],
+      "body": "Conference of the Parties (COP)",
+      "document_code": "FCCC/CP/2026/L.14",
+      "id": "10000419",
+      "metadata_version": "1.0",
+      "modified_at": "2026-11-22T09:49:16.380637Z",
+      "published_at": "2026-11-22T09:45:00Z",
+      "session": "COP 31",
+      "source_url": "https://docs.unfccc.int/documents/10000419/metadata",
+      "status": "unknown",
+      "title": "Antalya Pact. Draft decision -/CP.31. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
+      "agenda": "CMA 8 2(c)",
+      "attachments": [
+        {
+          "language": "en",
+          "sha256": "b5aff92f8aa6658d604887686915e1eb142fdeabdb80dc8ef25b8cd5654050d7",
+          "url": "https://docs.unfccc.int/documents/10000420/files/en/dt_cma8_cover_decision1.pdf"
+        }
+      ],
+      "body": "Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA)",
+      "document_code": "FCCC/PA/CMA/2026/L.25",
+      "id": "10000420",
+      "metadata_version": "2.0",
+      "modified_at": "2026-11-22T09:49:19.633493Z",
+      "published_at": "2026-11-22T09:45:00Z",
+      "session": "CMA 8",
+      "source_url": "https://docs.unfccc.int/documents/10000420/metadata",
+      "status": "unknown",
+      "title": "Antalya Pact. Draft decision -/CMA.8. Proposal by the President",
+      "topic": "Other negotiations",
+      "withdrawn": false
+    },
+    {
       "agenda": "SBSTA 65 6; SBI 65 6",
       "attachments": [
         {
@@ -4544,9 +4600,9 @@
       "withdrawn": false
     }
   ],
-  "history_count": 36,
-  "last_attempt": "2026-11-22T09:37:04.695921Z",
-  "last_success": "2026-11-22T09:37:04.695921Z",
+  "history_count": 38,
+  "last_attempt": "2026-11-22T10:26:11.303418Z",
+  "last_success": "2026-11-22T10:26:11.303418Z",
   "schema": 1,
   "sources": [
     "https://docs.unfccc.int/documents/metadata/all",
