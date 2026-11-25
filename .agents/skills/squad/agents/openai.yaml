@@ -1,0 +1,6 @@
+interface:
+  display_name: "Squad"
+  short_description: "Work with Claude and other agents on a shared project"
+
+policy:
+  allow_implicit_invocation: true
