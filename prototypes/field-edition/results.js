@@ -1,8 +1,8 @@
 'use strict';
-/* Results is a read-only view in Texts, independent of the document collector. */
+/* Results is a read-only top-level view, independent of the document collector. */
 window.COP31_RESULTS=(()=>{
   const root=document.getElementById('results');
-  const base='#texts/results';
+  const base='#results';
   const langs={
     en:['COP31 Results','What countries decided, where talks fell short, and what to follow next.','What was decided','What happens next','Key outcomes','Why it matters','Sources and details','Official text','Plenary reporting','Adopted','Not adopted','Text available','Advance unedited version','No adopted text','All workstreams','No confirmed milestones for this selection.','English summaries shown.','Political package','Adaptation','Just transition','Finance','Mitigation','Loss and damage','Back to results','By','A selection, not a complete record.'],
     pt:['Resultados da COP31','O que os países decidiram, onde não houve acordo e o que acompanhar a seguir.','O que foi decidido','Próximos passos','Principais resultados','Por que importa','Fontes e detalhes','Texto oficial','Relato da plenária','Adotado','Não adotado','Texto disponível','Versão preliminar não editada','Sem texto adotado','Todos os temas','Não há marcos confirmados nesta seleção.','','Pacote político','Adaptação','Transição justa','Financiamento','Mitigação','Perdas e danos','Voltar aos resultados','Até','Seleção de resultados, não um registro completo.'],
@@ -11,6 +11,16 @@ window.COP31_RESULTS=(()=>{
     ru:['Итоги КС-31','Что решили страны, по чему не договорились и за чем следить дальше.','Решения','Следующие шаги','Ключевые итоги','Почему это важно','Источники и подробности','Официальный текст','Отчёт о пленарном заседании','Принято','Не принято','Доступный текст','Предварительная неотредактированная версия','Принятого текста нет','Все темы','Для выбранной темы нет подтверждённых этапов.','Резюме на английском.','Политический пакет','Адаптация','Справедливый переход','Финансирование','Смягчение последствий','Потери и ущерб','К итогам','К','Избранные итоги, а не полный перечень.'],
     zh:['COP31 成果','各国达成了什么决定、哪些议题未达成共识，以及后续关注点。','通过情况','后续进展','主要成果','为何重要','来源及详情','官方文本','全体会议报道','已通过','未通过','文本状态','未经编辑的预发版本','无通过文本','全部议题','所选议题暂无已确认的后续节点。','摘要以英文显示。','政治方案','适应','公正转型','资金','减缓','损失与损害','返回成果页','截至','仅列出部分成果，并非完整记录。'],
     ar:['نتائج مؤتمر الأطراف 31','ما قررته الدول، وما لم تتفق عليه، وما ينبغي متابعته لاحقًا.','ما تم البت فيه','الخطوات التالية','النتائج الرئيسية','لماذا يهم ذلك','المصادر والتفاصيل','النص الرسمي','تقرير الجلسة العامة','اعتُمد','لم يُعتمد','النص المتاح','نسخة مسبقة غير محررة','لا يوجد نص معتمد','جميع المواضيع','لا توجد محطات مؤكدة ضمن هذا الاختيار.','تُعرض الملخصات باللغة الإنجليزية.','الحزمة السياسية','التكيف','الانتقال العادل','التمويل','التخفيف','الخسائر والأضرار','العودة إلى النتائج','بحلول','نتائج مختارة وليست سجلاً كاملاً.']
+  };
+  const navLabels={en:'Results',pt:'Resultados',es:'Resultados',fr:'Résultats',ru:'Итоги',zh:'成果',ar:'النتائج'};
+  const todaySummary={
+    en:'COP31 ended without an overarching agreement. Countries adopted decisions on adaptation, just transition and climate finance.',
+    pt:'A COP31 terminou sem um acordo geral. Os países adotaram decisões sobre adaptação, transição justa e financiamento climático.',
+    es:'La COP31 terminó sin un acuerdo general. Los países adoptaron decisiones sobre adaptación, transición justa y financiación climática.',
+    fr:'La COP31 s’est achevée sans accord global. Les pays ont adopté des décisions sur l’adaptation, la transition juste et le financement climatique.',
+    ru:'КС-31 завершилась без общего соглашения. Страны приняли решения по адаптации, справедливому переходу и климатическому финансированию.',
+    zh:'COP31未能达成总体协议。各国通过了关于适应、公正转型和气候融资的决定。',
+    ar:'انتهى مؤتمر الأطراف 31 دون اتفاق شامل. واعتمدت الدول قرارات بشأن التكيف والانتقال العادل وتمويل المناخ.'
   };
   const topics=['package','adaptation','justice','finance','mitigation','loss'];
   const {outcomes,milestones}=window.COP31_RESULTS_DATA;
@@ -99,7 +109,7 @@ window.COP31_RESULTS=(()=>{
     const page=o?.id||(next?'next':'list');
     const wasHidden=root.hidden;
     document.querySelectorAll('.view').forEach(s=>s.hidden=s!==root);
-    document.querySelectorAll('[data-tab]').forEach(a=>a.setAttribute('aria-current',a.dataset.tab==='texts'?'page':'false'));
+    document.querySelectorAll('[data-tab]').forEach(a=>a.setAttribute('aria-current',a.dataset.tab==='results'?'page':'false'));
     const changed=previous!==page;
     if(changed||previousLang!==lang){
       root.replaceChildren();
@@ -112,11 +122,26 @@ window.COP31_RESULTS=(()=>{
     }
   }
   function entries(){
+    const nav=document.querySelector('[data-tab="results"]');
+    if(nav)nav.textContent=navLabels[lang]||navLabels.en;
     for(const id of ['results-today','results-texts']){
       const holder=document.getElementById(id);if(!holder)continue;
       let a=holder.querySelector('a');
-      if(!a){a=link('',base,'result-entry');add(holder,a)}
+      if(!a){
+        a=link('',base,'result-entry');
+        if(id==='results-today'){
+          const section=el('section',null,'result-today-lead');
+          const heading=el('h2');heading.id='results-today-heading';
+          section.setAttribute('aria-labelledby',heading.id);
+          add(holder,add(section,heading,el('p'),a));
+        }else add(holder,a);
+      }
       a.textContent=L(0)+' ↗';
+      if(id==='results-today'){
+        holder.querySelector('h2').textContent=L(0);
+        holder.querySelector('p').textContent=todaySummary[lang]||todaySummary.en;
+        a.textContent=L(2)+' ↗';
+      }
     }
   }
   const priorRender=render;render=function(){priorRender();entries()};

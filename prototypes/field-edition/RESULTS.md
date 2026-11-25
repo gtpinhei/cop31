@@ -1,9 +1,11 @@
 # COP31 Results
 
-The Field Edition entry points are Today and Texts. The result links are stable fragments:
-- `#texts/results`: selected outcomes.
-- `#texts/results/next`: verified follow-up, filterable by workstream.
-- `#texts/results/decision/<id>`: one outcome and its source.
+Results follows Today in the main navigation. Today links to it from a short post-conference summary, and Texts keeps its contextual link. The canonical result links are:
+- `#results`: selected outcomes.
+- `#results/next`: verified follow-up, filterable by workstream.
+- `#results/decision/<id>`: one outcome and its source.
+
+Links beginning with `#texts/results` still open the same outcome, overview or timeline and update to its canonical fragment. The detail page’s “Back to results” link returns to the overview. Texts remains a separate view for negotiating documents.
 
 The result cards are an editorial selection, not a projection of the negotiating-text feed. No new collector, schedule, or background requests are used. The data file contains public-source summaries and no excerpts from working registers or private briefings.
 
